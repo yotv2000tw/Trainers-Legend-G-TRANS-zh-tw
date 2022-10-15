@@ -14,8 +14,8 @@
 - 繁體中文（台灣）化項目尚未提供贊助，但歡迎使用各種方式來支持參與本項目的人。
 
 # 繁體中文貢獻者
-- `[简体中文项目译文仓库](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS)` 負責部分簡體中文翻譯來源。
-- 雪楓Yuki ([@yotv2000tw](https://github.com/yotv2000tw)) 負責把簡體中文跟繁體中文版的翻譯給對應上去。
+- [`简体中文项目译文仓库`](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS) 負責部分簡體中文翻譯來源。
+- 雪楓Yuki ([`@yotv2000tw`](https://github.com/yotv2000tw)) 負責把簡體中文跟繁體中文版的翻譯給對應上去。
 
 ### 如何貢獻【建議加頻道，頻道內可以提供更多漢化相關的工具】
 
