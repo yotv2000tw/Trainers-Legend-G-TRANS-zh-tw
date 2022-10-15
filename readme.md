@@ -4,20 +4,19 @@
 [![Discord](https://img.shields.io/discord/973208860217200653?color=blue&label=Discord&logo=Discord&logoColor=white)](https://discord.com/invite/TBCSv5hU69)
 # 注意
 
-- **本插件内所有翻译内容均属于原翻译者，以任何方式（录制视频、提取文本等）转载或大段搬运译文请注明原译者或此仓库的贡献者列表及授权参考列表**
-- 本仓库的文件使用 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议开源，您仅能在符合此协议的规定条件下使用这些文件。
-- 此仓库为[`Trainer's Legend G`](https://github.com/MinamiChiwa/Trainers-Legend-G)的译文部分。
-- 此插件的汉化进度目前为 **部分汉化**
-[翻译进度表](translation-progress.md)
+- **本插件內所有翻譯內容均屬於原翻譯者，以任何方式（錄製影片、提取文本等）轉載或大段搬運譯文請註明原譯者或此倉庫的貢獻者列表及授權參考列表**
+- 本倉庫的文件使用 [署名-非商業性使用-相同方式共享 4.0 國際 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 協議開源，您僅能在符合此協議的規定條件下使用這些文件。
+- 此倉庫為[`Trainer's Legend G`](https://github.com/MinamiChiwa/Trainers-Legend-G)的譯文部分，並主要針對簡體中文進行繁體中文（台灣）化。
+- 此插件的繁體化進度目前為 **部分繁體化**
+[翻譯進度表](translation-progress.md)
 
-# 赞助
+# 贊助
 
-- [`爱发电`](https://afdian.net/@Trainers-Legend-G)
-- [`赞助说明及支出明细`](https://github.com/MinamiChiwa/Trainers-Legend-G/blob/main/donate_readme.md)
+- 本項目尚未提供贊助。
 
-# 贡献者
-**贡献者具体贡献内容请参考[翻译进度表](translation-progress.md)**
+# 貢獻者
+**貢獻者具體貢獻內容請參考[翻譯進度表](translation-progress.md)**
 
-### 如何贡献【建议加频道，频道内可以提供更多汉化相关的工具】
+### 如何貢獻【建議加頻道，頻道內可以提供更多漢化相關的工具】
 
-- [烤肉教程](https://docs.qq.com/doc/DYk1Ia3h4UHRocGVJ)
+- [烤肉教學](https://docs.qq.com/doc/DYk1Ia3h4UHRocGVJ)
