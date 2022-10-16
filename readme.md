@@ -21,3 +21,4 @@
 
 - [烤肉教學](https://docs.qq.com/doc/DYk1Ia3h4UHRocGVJ)
 - 頻道請點此：[![Chat](https://img.shields.io/badge/Join-QQ%E9%A2%91%E9%81%93-blue?logo=tencent-qq&logoColor=white)](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1olqdK&from=246610&biz=ka)
+- 繁體中文（台灣）化的貢獻，由於尚在做基礎建置，尚未建立多人分工的機制，故目前暫時不需要人手，更新頻率也會很高，不建議近期開始翻譯，有任何更新會在此處說明。
