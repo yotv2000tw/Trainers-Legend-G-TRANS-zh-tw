@@ -1,80 +1,80 @@
 {
-    "Title": "粉丝信",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "某天我一到训练员室，\n就发现富士奇石正在读粉丝信。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "富士奇石",
-            "Text": "嗯嗯……能够像这样以具体的形式\n收到来自粉丝的话语，果然很棒呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "富士奇石",
-            "Text": "寄送这封信来的粉丝是……\n嗯，是比赛时都会送花给我的人。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "富士奇石",
-            "Text": "这封信则是……\n总是热情追随我的人寄来的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "富士奇石",
-            "Text": "我看看……\n“这次的演唱会我坐在左边的位子，\n感觉你看向我的次数有点少”是吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "富士奇石",
-            "Text": "唔──我是不是太过于专注在演出上，\n导致忽略展现个人魅力了呢？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "富士奇石",
-            "Text": "我演舞台剧的习惯实在是……\n我这样真是对她很抱歉。",
-            "ChoiceDataList": [
-                "每一位粉丝你都记得吗？",
-                "每一位粉丝你都记得吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "富士奇石",
-            "Text": "那当然。\n毕竟我想为所有粉丝带来欢乐啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "富士奇石",
-            "Text": "假如只是想自我陶醉，\n那不用管观众的反应也无所谓。\n但我所追求的娱乐表演并不是那样。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "富士奇石",
-            "Text": "好啦，得来写回信才行。\n该写什么好呢～♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "说完，富士奇石就开心地凝视着信纸。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "粉絲信",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某天我一到訓練員室，\n就發現富士奇石正在讀粉絲信。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "嗯嗯……能夠像這樣以具體的形式\n收到來自粉絲的話語，果然很棒呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "寄送這封信來的粉絲是……\n嗯，是比賽時都會送花給我的人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "這封信則是……\n總是熱情追隨我的人寄來的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "我看看……\n「這次的演唱會我坐在左邊的位子，\n感覺妳看向我的次數有點少」是嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "唔──我是不是太過於專注在演出上，\n導致忽略展現個人魅力了呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "我演舞台劇的習慣實在是……\n我這樣真是對她很抱歉。",
+      "ChoiceDataList": [
+        "每一位粉絲妳都記得嗎？",
+        "每一位粉絲妳都記得嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "那當然。\n畢竟我想為所有粉絲帶來歡樂啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "假如只是想自我陶醉，\n那不用管觀眾的反應也無所謂。\n但我所追求的娛樂表演並不是那樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "好啦，得來寫回信才行。\n該寫什麼好呢～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "說完，富士奇石就開心地凝視著信紙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

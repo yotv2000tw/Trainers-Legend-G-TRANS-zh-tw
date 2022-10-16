@@ -1,50 +1,50 @@
 {
-    "Title": "这次一定要获胜！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "──训练员！\n我、我……！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "在上一场比赛输掉时，\n超──级不甘心的！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "所以！我这次一定要拿下第一名！\n我想要获胜，好好高兴一场！",
-            "ChoiceDataList": [
-                "胜利奖券一定能赢的！",
-                "胜利奖券一定能赢的！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "──！！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "谢～～谢～～你～～！！\n力量！源源不绝！涌出来了～！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "训练员！我会全力奔跑的！！\n会比之前的我更加全力以赴！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "這次一定要獲勝！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "──訓練員！\n我、我……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "在上一場比賽輸掉時，\n超──級不甘心的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "所以！我這次一定要拿下第一名！\n我想要獲勝，好好高興一場！",
+      "ChoiceDataList": [
+        "勝利獎券一定能贏的！",
+        "勝利獎券一定能贏的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "──！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "謝～～謝～～你～～！！\n力量！源源不絕！湧出來了～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "訓練員！我會全力奔跑的！！\n會比之前的我更加全力以赴！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

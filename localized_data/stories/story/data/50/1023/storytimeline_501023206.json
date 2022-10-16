@@ -1,106 +1,106 @@
 {
-    "Title": "迎向宝冢纪念",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "实况",
-            "Text": "为春季GⅠ竞赛划下句点的“宝冢纪念”，\n谁会第一个冲过终点板呢！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "实况",
-            "Text": "背负着每位粉丝梦想的赛马娘们，\n终于聚集到围场了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "──“宝冢纪念”跟预定的一样，\n在阪神赛场举办。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "为了与琵琶晨光进行最后的讨论，\n我们决定在休息室开最后一次会。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "那么，关于这次的竞赛发展。\n训练员，各个赛马娘上一场的状况……",
-            "ChoiceDataList": [
-                "我当然已经准备好了"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "谢谢你。那么，我们就一边看资料──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "……！",
-            "ChoiceDataList": [
-                "怎么了？",
-                "怎么了吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "我吓了一跳……这是很棒的资料。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "想不到你居然连各个训练员的训练倾向\n都整理好了。嗯，从资料来看，\n比赛途中的发展应该会是快节奏吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "在赛前的支持度投票企划拿下第二名的她，\n一定会在第三弯道……嗯。\n既然如此，我就从第二弯道……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "就这样，与琵琶晨光的会议\n进行得很顺利──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "（喀、喀、喀……）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "实况",
-            "Text": "好的，琵琶晨光终于登场了！\n她是在赛前举行的粉丝支持度投票企划中──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "实况",
-            "Text": "荣获第一名的赛马娘！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "嗯！今天就让你们见识\n符合那评价的比赛吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向寶塚紀念",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "為春季GⅠ競賽劃下句點的「寶塚紀念」，\n誰會第一個衝過終點鏡板呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "背負著每位粉絲夢想的賽馬娘們，\n終於聚集到圍場了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──「寶塚紀念」跟預定的一樣，\n在阪神賽場舉辦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "為了與琵琶晨光進行最後的討論，\n我們決定在休息室開最後一次會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "那麼，關於這次的競賽發展。\n訓練員，各個賽馬娘上一場的狀況……",
+      "ChoiceDataList": [
+        "我當然已經準備好了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "謝謝你。那麼，我們就一邊看資料──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "……！",
+      "ChoiceDataList": [
+        "怎麼了？",
+        "怎麼了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "我嚇了一跳……這是很棒的資料。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "想不到你居然連各個訓練員的訓練傾向\n都整理好了。嗯，從資料來看，\n比賽途中的發展應該會是快節奏嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "在賽前的支持度投票企劃拿下第二名的她，\n一定會在第三彎道……嗯。\n既然如此，我就從第二彎道……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，與琵琶晨光的會議\n進行得很順利──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（喀、喀、喀……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "好的，琵琶晨光終於登場了！\n她是在賽前舉行的粉絲支持度投票企劃中──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "榮獲第一名的賽馬娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "嗯！今天就讓你們見識\n符合那評價的比賽吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

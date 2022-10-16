@@ -1,295 +1,295 @@
 {
-    "Title": "新年参拜",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "在新年的某天早上，\n青云天空突然联络我，\n问我要不要去新年参拜──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "啊，来了来了。\n新年快乐。",
-            "ChoiceDataList": [
-                "怎么这么突然？",
-                "为什么这么突然？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "居然问我原因……\n我说啊～你这样很失礼吧？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "赛马娘为了祈求今年能够有好表现，\n约训练员一起新年参拜。就只是这样吧？",
-            "ChoiceDataList": [
-                "普通的赛马娘才会这样吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "意思是小青我不是普通的赛马娘吗！？\n你也太失礼了吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……我只是觉得能利用的都不能放过，\n就算是神也一样～仅此而已。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……没错，如果不多动点脑筋，\n感觉会无法应付古马级。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "古马级"
-            ]
-        },
-        {
-            "Name": "独白",
-            "Text": "青云天空在经典赛和“有马纪念”\n都碰上了许多强敌，\n所以思考了许多事情吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "为了青云天空，\n我该祈祷的是──",
-            "ChoiceDataList": [
-                "希望天空挑战比赛时别太逞强",
-                "希望天空能有好表现",
-                "希望天空能够享受比赛"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "身体是重要的资本，希望青云天空\n挑战比赛时别太逞强。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "今年是特别考验“实力”的一年。\n希望青云天空能够\n彻底发挥自己的实力。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "希望青云天空能像去年那样，\n发自内心享受比赛。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……嗯。\n之后就要看神明的心情了。",
-            "ChoiceDataList": [
-                "你许了什么愿望？",
-                "你许了什么愿望？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "这当然要保密～\n要是说出口，就无法实现了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "唉……不过我想，\n应该和训练员一样吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我们就这样简单讨论今年的计划，\n同时返回学园──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "嗯？那是……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "啊……小青……！\n早安！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "特别周。她前阵子刚宣布\n将会参加“天皇赏（春）”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "早安。你正在自主训练吗？\n新年刚开始就很有干劲呢～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "嗯！因为我今年──\n绝对要赢过小青！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "我看过“有马纪念”咯。\n小青，你真的很帅气！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "虽然压力应该也很大，\n但小青你贯彻了自己的跑法。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "我光看就感到战栗不已！\n觉得自己也必须变得更强……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "我想在天皇赏（春）战胜小青。因为……\n这样我才能更接近日本第一！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "天皇赏（春）"
-            ]
-        },
-        {
-            "Name": "独白",
-            "Text": "特别周说出内心最纯粹的想法，\n但青云天空她──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……谢啦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "那你训练加油哦。\n……走吧，训练员。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……",
-            "ChoiceDataList": [
-                "那样就好吗？",
-                "那样就好吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "嗯～？什么意思？",
-            "ChoiceDataList": [
-                "特别周"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……再讲下去会妨碍她训练。\n如果想聊天，在学园有的是机会。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "而且，她还说了\n“必须变得更强”……",
-            "ChoiceDataList": [
-                "那又怎样？",
-                "那又怎样？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "小特看过“有马纪念”了。\n所以应该也感受过大家的魄力。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……我──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……我、我啊～\n肚子饿了呢～",
-            "ChoiceDataList": [
-                "咦？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "一看见小特的脸，我的肚子就饿了。\n毕竟每次看见她都是在吃东西。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "去宿舍的餐厅吃点东西吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "那么，训练员，\n今年再次请你多多指教了～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "虽然不知道青云天空感觉到了什么，\n但我今年也打算好好看着她，\n以便随时都能帮上她的忙。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "新年參拜",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在新年的某天早上，\n青雲天空突然聯絡我，\n問說要不要去新年參拜──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "啊，來了來了。\n新年快樂～",
+      "ChoiceDataList": [
+        "怎麼這麼突然？",
+        "為什麼這麼突然？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "居然問我原因……\n我說啊～你那樣有點失禮吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "就只是賽馬娘為了祈求今年能夠有好表現，\n所以約訓練員一起去新年參拜而已啊？",
+      "ChoiceDataList": [
+        "普通的賽馬娘才會這樣吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "意思是小青我不是普通的賽馬娘嗎！？\n你那樣就太失禮啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……我只是覺得能夠利用的都不能放過，\n就算是神明也一樣～僅此而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……沒錯，如果不多動點腦筋，\n感覺會無法應付資深級。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "資深級"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "青雲天空在經典賽和「有馬紀念」\n都碰上了許多強敵，\n所以她也以自己的方式，思考了許多事情吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "那為了青雲天空，\n我該祈禱的是──",
+      "ChoiceDataList": [
+        "希望天空挑戰比賽時別太逞強",
+        "希望天空能有傑出的表現",
+        "希望天空能夠享受比賽"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "身體是重要的資本，希望青雲天空\n挑戰比賽時別太逞強。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "今年是會更加考驗「實力」的一年。\n希望青雲天空能夠\n徹底發揮自己的實力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "希望青雲天空能像去年那樣，\n發自內心地享受比賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……嗯。\n之後就要看神明的心情了。",
+      "ChoiceDataList": [
+        "妳許了什麼願望？",
+        "妳許了什麼願望？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "這當然要保密囉～\n要是說出口的話，就無法實現了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "不過……我想大概和訓練員一樣，\n應該是吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，就在我們一邊簡單地討論著今年的計畫，\n一邊返抵學園時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "嗯？那是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "啊……小青……！\n早安！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "特別週。她前陣子剛宣布了\n將會參加「天皇賞（春）」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "早安。妳正在自主訓練嗎？\n新年剛開始就很有幹勁呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "嗯！因為今年──\n我無論如何都不想輸給小青！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "我看過「有馬紀念」囉。\n小青，妳真的很帥氣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "雖然我想妳的壓力應該也很大，\n但小青貫徹了自己的跑法對吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "我光看就感到大受刺激！\n覺得自己也必須要變得更強……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "我想在天皇賞（春）戰勝小青。因為……\n我覺得這樣才能更接近日本第一！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "天皇賞（春）"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "特別週說出了她內心最純粹的想法，\n但青雲天空卻──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……謝啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "那妳訓練加油喔。\n……走吧，訓練員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……",
+      "ChoiceDataList": [
+        "那樣就好了嗎？",
+        "那樣就好了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "嗯～？什麼意思？",
+      "ChoiceDataList": [
+        "特別週"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……再講下去會妨礙她訓練吧。\n想聊天的話在學園裡有的是機會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "而且，她還說了\n「必須要變得更強」……",
+      "ChoiceDataList": [
+        "那又怎樣？",
+        "那又怎麼了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "小特說她看過那場「有馬紀念」了。\n所以她應該也感受到了大家的魄力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……我──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……我、我啊～\n肚子餓了呢～",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "一看見小特的臉，我的肚子就餓了。\n畢竟每次看見她都是在吃東西。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "去宿舍的餐廳吃點東西吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "那麼，訓練員，\n今年也要再次請你多多指教了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然不知道青雲天空感覺到了什麼，\n但我今年也打算好好看著她，\n以便隨時都能幫上她的忙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

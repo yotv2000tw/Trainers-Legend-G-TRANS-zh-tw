@@ -1,50 +1,50 @@
 {
-    "Title": "连续参赛……",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "某天我上街的时候，看到名将怒涛\n在对车站前的铜像低头道歉……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "不好意思，真的很对不起！\n你有没有受伤？我有没有弄脏你的衣服？",
-            "ChoiceDataList": [
-                "你在做什么？",
-                "你在做什么？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "训练员！那个，我走在路上觉得\n双脚很沉重，不小心绊了一下。\n结果就撞到这个人……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "受到那股冲击，他的脸色变得这么差……\n呃，咦，奇怪？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "铜铜铜铜像？\n我怎么会跟铜像道歉呢～～！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "名将怒涛或许累积了不少疲劳……\n看来还是检讨今后的参赛计划比较好……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "連續參賽……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某天我上街的時候，看到名將怒濤\n在對車站前的銅像低頭道歉……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "不好意思，真的很對不起！\n你有沒有受傷？我有沒有弄髒你的衣服？",
+      "ChoiceDataList": [
+        "妳在做什麼？",
+        "妳在做什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "訓練員！那個，我走在路上覺得\n雙腳很沉重，不小心絆了一下。\n結果就撞到這個人……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "受到那股衝擊，他的臉色變得這麼差……\n呃，咦，奇怪？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "銅銅銅銅像？\n我怎麼會跟銅像道歉呢～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "名將怒濤或許累積了不少疲勞……\n看來還是檢討今後的參賽計畫比較好……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

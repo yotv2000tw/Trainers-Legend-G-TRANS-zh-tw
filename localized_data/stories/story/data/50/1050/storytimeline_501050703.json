@@ -1,5 +1,5 @@
 {
-  "Title": "『easy game』",
+  "Title": "「easy game」",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,323 +9,323 @@
     },
     {
       "Name": "",
-      "Text": "某天出门后——",
+      "Text": "當我們外出辦完事後──",
       "ChoiceDataList": [
-        "还想和你继续玩呢！",
-        "また貴方を楽しませたい！"
+        "我想再次讓妳開心！",
+        "我想再次讓妳開心！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "……哈啊。",
+      "Name": "成田大進",
+      "Text": "……唉～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "あのさ、そもそもアタシ\r\nこの前のアレで楽しんでないから。",
+      "Name": "成田大進",
+      "Text": "我說，上次那些，\n可一點都沒讓我開心啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "またあんなガキの遊びに\r\n付き合わされるとか無理。ヤダ。",
+      "Name": "成田大進",
+      "Text": "要我再陪你玩那些幼稚遊戲，我可做不到。\n我拒絕。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "確かに前は失敗したが、今日は秘策があった。\r\n最近彼女がハマッているという、\nスマホゲームがあることを知ったのだ。",
+      "Text": "上次確實是失敗了，但這次我有祕密對策。\n我知道她最近迷上了\n一款手機遊戲。",
       "ChoiceDataList": [
-        "这次就用『RDLI』来决一胜负！"
+        "這次就以《RDLI》來決勝負！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
+      "Name": "成田大進",
       "Text": "……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "『RDLI』。プレイヤー同士が戦う海外発の\r\nFPSゲーム。多種多様な武器を用いて、\nいかに相手に勝つかの駆け引きが魅力だ。",
+      "Text": "《RDLI》是外國的玩家對戰FPS遊戲，\n思考如何運用各種武器，在攻防中戰勝對手，\n就是它最大的魅力。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "『RDLI』……周りでやってるの、\r\nアタシくらいしかいないと思ってたけど……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "同室のスーパークリーク曰く、以前\r\n対戦相手がいないとぼやいていたらしい。\nならば自分が、とゲームをやりこんできた。",
+      "Name": "成田大進",
+      "Text": "《RDLI》……我以為周遭在玩的，\n只有我一個……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "普段からプレイしている彼女に勝つ可能性は\r\n低いが、いい勝負に持ち込めれば\n楽しませることができるかもしれない！",
-      "ChoiceDataList": [
-        "来对战吧！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……我知道了。来吧。",
+      "Text": "她的室友超級小溪說過，\n她之前曾抱怨找不到人對戰的樣子。\n我想既然如此就由我……於是就勤練遊戲了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "やけにあっさり了承してくれた彼女に\r\n若干の違和感を覚えつつ、\n対戦することになったのだが――",
+      "Text": "要贏過平時就在玩的她，可能性微乎其微，\n可是，只要能打得你爭我鬥，\n或許就能讓她開心了！",
+      "ChoiceDataList": [
+        "來對戰吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "……知道了，我答應你。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "――『You Lose』",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "はい、またアタシの勝ち。\r\nこれで5戦5勝。",
-      "ChoiceDataList": [
-        "好、好强……！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……そ？\r\nまあ、結構やりこんでるし。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "にしても……ふっ。\r\nあんなに意気揚々と挑んできたクセに、\nアンタ弱すぎ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "武器とかステージの選び方もなってないし、\r\nNPCの使い方もわかってない。\n設定ちゃんといじってる？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "普段PvPモードは使わないから、\r\nどう遊べるか期待してたけど……\nこれじゃちょっと、相手にならないな。",
+      "Text": "她非常乾脆地一口答應，\n雖然察覺到一絲不對勁，\n我們還是開始對戰了，然而──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "珍しく饒舌なナリタタイシン……。\r\nボコボコにできる相手を見つけて、\n上機嫌なようだ。",
+      "Text": "──「You lose」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "このままじゃつまんないし……\r\nハンデでもつけてあげようか？",
+      "Name": "成田大進",
+      "Text": "好，我又贏了。\n這樣就五戰五勝了。",
       "ChoiceDataList": [
-        "拜托了！",
-        "不用！放马过来！"
+        "太、太強了……！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "即答かよ。\r\nプライドとかないわけ？",
-      "ChoiceDataList": [
-        "因为我想和打进一起玩嘛。"
-      ],
+      "Name": "成田大進",
+      "Text": "……是嗎？\n畢竟我玩得很熟了。",
+      "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "诶？",
+      "Name": "成田大進",
+      "Text": "不過……哼。\n向我下戰帖時還那麼意氣風發，\n結果你也太弱了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "武器跟地圖都選得亂七八糟，\n也不懂怎麼利用NPC。\n設定好好調整過了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "我平常不玩PvP模式，\n本來還期待要怎麼大玩特玩的……\n你這樣根本不是對手啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "このままでは彼女を飽きさせてしまう。\r\n少しでもいい勝負をする可能性を掴むため、\nプライドなんて捨てると話した。",
+      "Text": "成田大進難得地話多了起來……\n找到了可以打得落花流水的對手，\n看來讓她心情大好。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "……なんだそれ。\r\n本気で恥ずかしいヤツ……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……アタシは初期の武器しか使わない。\r\nアンタにはSSR武器を貸す。\nこれで勝てなかったら恥ずかしいよ。",
+      "Name": "成田大進",
+      "Text": "這樣下去太無聊了……\n我放點水吧？",
       "ChoiceDataList": [
-        "谢谢！"
+        "拜託了！",
+        "還不用！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "……哼。就算这样——",
+      "Name": "成田大進",
+      "Text": "竟然秒答應。\n你是沒有自尊心嗎？",
+      "ChoiceDataList": [
+        "因為我想跟大進多玩一會兒"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "咦？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "――『You Lose』",
+      "Text": "我告訴她，這樣下去她會玩膩，\n為了抓住多少能打得有來有往的機會，\n我可以捨棄自尊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "看来就算这样，你也赢不了呢。",
-      "ChoiceDataList": [
-        "……是我败了。"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "結局、何度挑んでもナリタタイシンに\r\n勝つことはできなかった……。\n反省していると――",
+      "Name": "成田大進",
+      "Text": "……這算什麼啦。\n真是有夠可恥……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "……其实，再陪你玩几次也可以的哦。",
+      "Name": "成田大進",
+      "Text": "……武器我只用初期的，\n再把SSR武器借給你。\n這樣還贏不了就太丟臉囉。",
       "ChoiceDataList": [
-        "诶？"
+        "謝謝！！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "対戦でもらえる報酬、結構いいのあるし。\r\n……アンタをボコボコにするのも、\nまあまあ気分いいしね。",
+      "Name": "成田大進",
+      "Text": "……哼。算了──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "言っていることは厳しいが、\r\nチャンスをくれるナリタタイシンだった。",
+      "Text": "──「You lose」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "ふぅん……？\r\nまさかこのままで、アタシに勝てるって？",
+      "Name": "成田大進",
+      "Text": "就算這樣，我也不會讓你贏。",
       "ChoiceDataList": [
-        "……倒是没这么想啦……"
+        "……我認輸了"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "じゃあ、素直にハンデつけさせればいいのに。\r\nそしたらいい勝負になるかもよ。",
+      "Name": "",
+      "Text": "結果，不管我挑戰幾次\n都贏不了成田大進……\n正當我在反省時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "……要我再陪你玩也可以喔。",
       "ChoiceDataList": [
-        "有趣的游戏就是要自己努力上进才好！"
+        "咦？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
+      "Name": "成田大進",
+      "Text": "對戰能拿到一些很棒的報酬。\n……而且打爆你的感覺\n也挺愉快的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "成田大進雖然嘴上不饒人，\n卻還是給了我機會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "喔……？\n難道你覺得，這樣下去贏得了我？",
+      "ChoiceDataList": [
+        "我並沒有這麼想……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "那你乖乖讓我放水不就好了。\n這樣或許能打得好看一點喔。",
+      "ChoiceDataList": [
+        "這遊戲很好玩，所以我想靠自己努力"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
       "Text": "……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "……『頭使いすぎるのムリ』とか、\r\n『操作方法が理に適ってない』とか、\n『殺伐としててコワイ』とか言わないんだ？",
+      "Name": "成田大進",
+      "Text": "……我以為你會說「太燒腦的我沒辦法」啊、\n「操作方式不合邏輯」啊、\n或是「太凶殘了好恐怖」之類的呢？",
       "ChoiceDataList": [
-        "就是这些地方才显得有趣哦！"
+        "這才有趣啊！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "……あっそ。\r\nじゃ、せいぜい頑張れば。",
+      "Name": "成田大進",
+      "Text": "……是喔。\n那你多多加油吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "なんとなく先ほどよりも機嫌のよくなった\r\nように見えたナリタタイシンだったが――",
+      "Text": "成田大進的心情看起來比剛才好多了，\n但是──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
+      "Name": "成田大進",
       "Text": "……",
       "ChoiceDataList": [
-        "哎呀？又落地失败了……？"
+        "咦？又降落失敗……"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
+      "Name": "成田大進",
       "Text": "…………",
       "ChoiceDataList": [
-        "这个道具是……嗯……"
+        "這道具……呃。"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "啊～～真是的……！",
+      "Name": "成田大進",
+      "Text": "啊～～真是……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "アンタのプレイ見てるとイライラする！\r\nここはさぁ、さっきのアイテムで――",
+      "Name": "成田大進",
+      "Text": "看你在玩我都快氣死了！\n這裡要用剛才的道具──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "――ほら、これで効率よく補給できる。\r\n全滅を防ぐためには補給が重要。",
+      "Name": "成田大進",
+      "Text": "──你看，這樣就能有效率地獲得補給。\n要避免全滅，補給是最重要的。",
       "ChoiceDataList": [
-        "原来如此……不愧是大进呢！"
+        "原來如此……真不愧是大進！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "……っ。\r\nこんなの初歩中の初歩だっての。",
+      "Name": "成田大進",
+      "Text": "……唔。\n這點事是基本中的基本。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "ていうか、もうこんな時間じゃん……！\r\nああもう、アンタにかまけすぎた……。",
+      "Name": "成田大進",
+      "Text": "還有，居然已經這麼晚了嗎……！\n啊，真是，我花太多精神在你身上了……",
       "ChoiceDataList": [
-        "谢谢你这么耐心教我，大进！"
+        "謝謝妳的細心指導，大進！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "……～～唔唔。",
+      "Name": "成田大進",
+      "Text": "～～唔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "いい、そういうのいらない！\r\nアタシもう行くから……！",
+      "Name": "成田大進",
+      "Text": "夠了，我不需要你道謝！\n我走了……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "最後は苛立たせてしまったが、\r\nナリタタイシンと\nたくさん対戦することができたのだった。",
+      "Text": "雖然最後惹她生氣了，\n但我成功與成田大進\n進行了好幾次對戰。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

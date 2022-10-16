@@ -1,61 +1,61 @@
 {
-    "Title": "因头痛而忧郁",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我来找鲁道夫象征讨论训练方针，不过……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "……好痛。",
-            "ChoiceDataList": [
-                "你没事吧？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "没什么，只是有些头疼。等一下就会好了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "更麻烦的是必须在今天之内\n解决的工作已经堆积如山。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "像是制作本周的预算会议资料，\n还要确认筹备用品的申请书……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "虽然我想快点处理完这些事──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "唔唔……如果头不疼的话，\n就能立刻完成了，人生真是不如人意。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "鲁道夫象征就这样为头痛所苦……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "因頭痛而憂鬱",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我來找魯道夫象徵討論訓練方針，不過……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "……好痛。",
+      "ChoiceDataList": [
+        "妳沒事吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "沒什麼，只是有些頭疼。等一下就會好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "更麻煩的是必須在今天之內\n解決的工作已經堆積如山。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "像是製作本週的預算會議資料，\n還要確認籌備用品的申請書……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "雖然我想快點處理完這些事──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "唔唔……如果頭不疼的話，\n就能立刻完成了，人生真是不如人意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "魯道夫象徵就這樣為頭痛所苦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

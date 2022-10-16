@@ -1,147 +1,147 @@
 {
-    "Title": "严禁逞强！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我把在训练时受伤的名将怒涛\n送来了保健室。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "对不起，真的很对不起！\n我老是给你添麻烦……呜呜……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "我、我立刻回去训练……好痛！！",
-            "ChoiceDataList": [
-                "会痛就别练了"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "可、可是……要是继续这样裹足不前，\n我会更没信心的……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "我还可以训练……！\n这点伤势……根、根本不算什么！！",
-            "ChoiceDataList": [
-                "我希望你现在能静养",
-                "你要回去训练看看吗？",
-                "你要回去训练看看吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "我还可以训练……！\n这点伤势……根、根本不算什么！！",
-            "ChoiceDataList": [
-                "我希望你现在能静养",
-                "你要回去训练看看吗？",
-                "你要回去训练看看吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "但我实在是坐立难安──万一痛得更厉害，\n我会停止训练的。所以……！",
-            "ChoiceDataList": [
-                "或许会让伤势复原得更慢哦"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "这、这个……呜呜。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "好吧……我去休息。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "……呼……呜呜。对不……对不起……\n我受伤之后变得更没用了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "名将怒涛压抑着不甘心的情绪，\n静养到伤势复原为止……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "好、好的……！\n谢谢你，训练员！",
-            "ChoiceDataList": [
-                "我希望你可以保证不会逞强"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "我、我保证！\n万一痛得更厉害，我会停止训练的！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "谨慎地……控制在这样子的力道……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "好……好痛哦……！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "我只是稍微用点力而已耶……\n呜呜呜，这样根本动弹不得。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "可能是使力对身体造成负担，\n她的伤势反而更加恶化了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "哦哦……感觉可以哦。\n照这个状况来看，就算再多用点力也……",
-            "ChoiceDataList": [
-                "克制一点吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "好、好的！说得也是哦。\n我跟你保证不会逞强了……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "控制好力道的名将怒涛\n顺利回到了训练上！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "嚴禁逞強！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我把在訓練時受傷的名將怒濤\n送來了保健室。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "對不起，真的很對不起！\n我老是給你添麻煩……嗚嗚……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "我、我立刻回去訓練……好痛！！",
+      "ChoiceDataList": [
+        "會痛就別練了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "可、可是……要是繼續這樣裹足不前，\n我會更沒信心的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "我還可以訓練……！\n這點傷勢……根、根本不算什麼！！",
+      "ChoiceDataList": [
+        "我希望妳現在能靜養",
+        "妳要回去訓練看看嗎？",
+        "妳要回去訓練看看嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "我還可以訓練……！\n這點傷勢……根、根本不算什麼！！",
+      "ChoiceDataList": [
+        "我希望妳現在能靜養",
+        "妳要回去訓練看看嗎？",
+        "妳要回去訓練看看嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "但我實在是坐立難安──萬一痛得更厲害，\n我會停止訓練的。所以……！",
+      "ChoiceDataList": [
+        "或許會讓傷勢復原得更慢喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "這、這個……嗚嗚。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "好吧……我去休息。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "……呼……嗚嗚。對不……對不起……\n我受傷之後變得更沒用了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "名將怒濤壓抑著不甘心的情緒，\n靜養到傷勢復原為止……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "好、好的……！\n謝謝你，訓練員！",
+      "ChoiceDataList": [
+        "我希望妳可以保證不會逞強"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "我、我保證！\n萬一痛得更厲害，我會停止訓練的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "謹慎地……控制在這樣子的力道……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "好……好痛喔……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "我只是稍微用點力而已耶……\n嗚嗚嗚，這樣根本動彈不得。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "可能是使力對身體造成負擔，\n她的傷勢反而更加惡化了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "喔喔……感覺可以喔。\n照這個狀況來看，就算再多用點力也……",
+      "ChoiceDataList": [
+        "克制一點吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "好、好的！說得也是喔。\n我跟你保證不會逞強了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "控制好力道的名將怒濤\n順利回到了訓練上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

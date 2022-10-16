@@ -1,41 +1,41 @@
 {
-    "Title": "“最强世代”",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "在即将出道的某一天，\n青云天空和竞争对手们一起进行共同训练。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "拥有犀利的尾段加速的特别周，\n以及静静地暗藏斗志的草上飞。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "特别周",
-                "草上飞"
-            ]
-        },
-        {
-            "Name": "独白",
-            "Text": "目标称霸世界的神鹰。\n还有一流的千金小姐圣王光环。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "神鹰",
-                "圣王光环"
-            ]
-        },
-        {
-            "Name": "独白",
-            "Text": "同世代的竞争对手们个个都是高手。\n即使如此，青云天空依然完全不打算认输。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "「最強世代」",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在即將出道的某一天，\n青雲天空和競爭對手們一起進行共同訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "擁有犀利的尾段加速的特別週，\n以及看似沉靜卻暗藏鬥志的草上飛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "特別週",
+        "草上飛"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "目標是稱霸世界的神鷹，\n還有一流的千金小姐帝王光輝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "神鷹",
+        "帝王光輝"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "同世代的競爭對手們個個都是深具實力的高手。\n即使如此，青雲天空依然完全不打算認輸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

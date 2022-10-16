@@ -1,5 +1,5 @@
 {
-  "Title": "远超所有人",
+  "Title": "比誰都——",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,499 +9,499 @@
     },
     {
       "Name": "",
-      "Text": "自胜利奖券逃避公开训练那天起，\n她的状态很明显地低落了下来。",
+      "Text": "自從勝利獎券從公開訓練逃走的那天起，\n她的狀態就明顯地越變越差。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "不过最受打击的应该是她本人吧。\n在这种状态下，德比临近了。",
+      "Text": "這狀況應該讓她本人受到最大的打擊。\n就在這樣的狀態下，眼看著距離打比只剩下幾天了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "要直播还是挺让人紧张的呢。\n希望别像『皋月赏』那时一样输掉。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "今天有德比参赛马娘的记者见面会。",
+      "Name": "勝利獎券",
+      "Text": "現場直播的記者會真讓人緊張呢。\n我可不能像「皋月賞」的時候那樣再失敗。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "叫到自己之前，胜利奖券一直在电视上\n看着其他赛马娘的状态。",
+      "Text": "今天有個為打比的參賽賽馬娘舉辦的記者會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "勝利獎券在叫到自己的名字前，\n一直透過電視觀察著其他賽馬娘的情況。",
       "ChoiceDataList": [
-        "在考虑要说什么吗？"
+        "妳已經想好要說什麼了嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "嘛……算是吧……",
+      "Name": "勝利獎券",
+      "Text": "嗯……算是想好了吧……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "胜利奖券盯着电视，\n含糊地回答着。",
+      "Text": "勝利獎券一邊盯著電視，\n一邊含糊地回應我。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "主持人",
-      "Text": "『德比是强者如云的比赛。\n可否表达一下您的看法呢』",
+      "Text": "「打比是個強者雲集的賽事。\n請以此為前提談談妳的抱負。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "参赛马娘",
-      "Text": "『当然我看了所有对手的比赛。\n而且觉得真是聚集了一群很有实力的人』",
+      "Name": "參賽賽馬娘",
+      "Text": "「我當然看過了競爭對手的所有競賽。\n也認為這的確是一場實力派齊聚一堂的賽事。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "参赛马娘",
-      "Text": "『不过，好不容易站上了这一生一次的舞台。\n我脑中所想的只剩下领先冲线这件事了』",
+      "Name": "參賽賽馬娘",
+      "Text": "「但是好不容易才登上這個一生僅此一次的舞台。\n我心中除了要以第一名衝到終點，沒有其他念頭。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "真厉害啊，她的眼神很坚定。\n这些话也一定是她的真实想法吧。",
+      "Name": "勝利獎券",
+      "Text": "好棒喔，她的眼神好直率。\n這些一定是她的真心話吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "……我本来打算说『德比是我一直憧憬着的比赛，\n所以我一定要获胜，成为德比赛马娘』。",
+      "Name": "勝利獎券",
+      "Text": "……我也想說「打比是我一直夢寐以求的競賽，\n我一定會獲勝，成為打比賽馬娘」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "但是，那不是我的真心想法呢。\n其实我只是非常害怕失败而已。",
+      "Name": "勝利獎券",
+      "Text": "但那並不是我的真心話，\n我其實怕輸怕得要死。",
       "ChoiceDataList": [
-        "奖券藏……"
+        "券藏……"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "诶嘿嘿，抱歉这么犹犹豫豫的。\n我真是不太行啊……",
+      "Name": "勝利獎券",
+      "Text": "耶嘿嘿，抱歉這麼畏畏縮縮的。\n我真沒用……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "明明大家都在激动地谈着自己对德比的想法，\n只有我这么害怕……",
+      "Name": "勝利獎券",
+      "Text": "大家都在發表自己對打比的熱血心情，\n會覺得這麼害怕的應該只有我吧……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "现在我的腿也僵住了，感觉就像\n不是自己的双腿一样……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "<username>",
-      "Text": "是啊，毫无疑问你比任何人都要害怕。",
+      "Name": "勝利獎券",
+      "Text": "我現在還是雙腳僵硬，彷彿不是自己的腳一樣……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "是啊，毫无疑问你比任何人都要害怕。",
+      "Text": "對啊，妳肯定比誰都還要害怕。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "……啊哈哈，是吧。\n这样去记者会怕是要被嘲笑了。",
+      "Name": "<username>",
+      "Text": "對啊，妳肯定比誰都還要害怕。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "……就算参加了德比也赢不了。\n果然还是，放弃——",
+      "Name": "勝利獎券",
+      "Text": "……啊哈哈，我想也是。\n這樣出席記者會也只會被人笑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "……即使在打比出場也不會贏，\n我看還是放──",
       "ChoiceDataList": [
-        "――不，你能赢",
-        "――不，你能赢"
+        "──不，會贏的。",
+        "──不，會贏的。"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "诶……能赢……？",
+      "Name": "勝利獎券",
+      "Text": "咦……會贏……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "你在说什么呢！？\u3000训练员不是也承认了吗！\n承认我比任何人都要害怕！\u3000比任何人都要弱——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "<username>",
-      "Text": "正因如此你才能赢啊！",
+      "Name": "勝利獎券",
+      "Text": "你在說什麼！？訓練員剛才不是承認了嗎！\n我比誰都還要害怕！比誰都還要弱──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "正因如此你才能赢哦！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "胜利奖券",
-      "Text": "才不是你说的那样！\n我只是个在如此紧要关头还犹犹豫豫的胆小鬼……！",
+      "Text": "正因為這樣才會贏！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "你觉得自己比任何人都要害怕，\n正是因为你比任何人都想赢下德比啊。",
+      "Text": "正因為這樣才會贏！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "怎麼可能！像我這種\n在關鍵時刻畏畏縮縮的膽小鬼……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "你觉得自己比任何人都要害怕，\n正是因为你比任何人都想赢下德比哦。",
+      "Text": "會覺得妳比誰都還要害怕，\n是因為妳想在打比獲勝的意志比誰都強烈。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "想到失败，双腿会如此颤抖，\n这也是因为你比任何人都想获胜。",
+      "Text": "會覺得妳比誰都還要害怕，\n是因為妳想在打比獲勝的意志比誰都強烈。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
+      "Name": "<username>",
+      "Text": "只要一想到可能會輸掉，就讓妳的腳抖成這樣，\n妳想在打比獲勝的意志就是如此強烈，超越所有人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
       "Text": "…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "老师也说过哦。\n『积累起来的心情对于德比来说是很重要的』。",
+      "Text": "老師也有說過啊。\n「打比最重視的就是日積月累的強烈意志。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "你积累了比任何人都要厚重的心情。\n从小时候看过的那场德比起就一直……！",
+      "Text": "妳日積月累的求勝意志超越任何人。\n從小時候看到打比的那天起，一直都是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "你积累了比任何人都要厚重的心情。\n从小时候看过的那场德比起就一直……！",
+      "Text": "妳日積月累的求勝意志超越任何人。\n從小時候看到打比的那天起，一直都是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我这样说着，举起『德比笔记』\n给胜利奖券看。",
+      "Text": "我說完後，\n打開「打比筆記」給勝利獎券看。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "啊……我的笔记。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "<username>",
-      "Text": "积累下来的心情，在自己痛苦时能化作努力超越所有人的力量！\n能化作为了胜利而坚持不懈的力量！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "胜利奖券",
-      "Text": "比任何人都能努力……\n比任何人，都能坚持……！",
+      "Name": "勝利獎券",
+      "Text": "啊……是我的筆記。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "然后，要在这本笔记上——",
+      "Text": "日積月累的求勝意志，會成為痛苦時比誰都努力的動力！\n會成為求勝時比誰都堅持到底的力量！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "比誰都努力……\n比誰都堅持到底……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "然後，妳會在這筆記本寫下──",
       "ChoiceDataList": [
-        "写下我们的名字——德比的胜者！",
-        "写下我们的名字——德比的胜者！"
+        "在打比獲勝的我們的名字！",
+        "在打比獲勝的我們的名字！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "然后，要写在这本笔记上――",
+      "Text": "然後，妳會在這筆記本寫下──",
       "ChoiceDataList": [
-        "写下我们的名字——德比的胜者！",
-        "写下我们的名字——德比的胜者！"
+        "在打比獲勝的我們的名字！",
+        "在打比獲勝的我們的名字！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "呜呜……德比……\n我一直憧憬着的……德比……！",
+      "Name": "勝利獎券",
+      "Text": "嗚嗚……打比……\n我一直一直憧憬的……打比……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "我想赢！\u3000因为这可是我从小的梦想！\n虽然很害怕，但可不能就这样放弃！！\u3000呜啊啊啊啊啊～～！！！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "每次谈到德比就会\n哭喊起来的胜利奖券。",
+      "Name": "勝利獎券",
+      "Text": "我想要贏！因為這是我從小到大的夢想！\n雖然害怕，但怎麼能就此放棄！！嗚啊啊啊啊啊啊～～！！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "听着这响彻房间的哭喊声，\n我感觉到平时那个奖券回来了。",
+      "Text": "每次提到打比的話題，\n都會又哭又喊的勝利獎券。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "呀～哭了个爽！\n虽然平时都在哭，但今天哭得特别爽，诶嘿嘿。",
+      "Name": "",
+      "Text": "聽到她響徹整個房間的哭聲，\n就感覺到那樣的她又回來了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "呀～哭得真痛快！雖然我老是在哭，\n但今天好像哭得特別慘，耶嘿嘿。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "决定好记者见面会的发言了吗？",
+      "Text": "決定好要在記者會上說什麼了嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "虽然很害怕失败，但我同样也要说『会加油的』！\n毕竟我有一路积累下来的，名为「心情」的伙伴啊！",
+      "Name": "勝利獎券",
+      "Text": "我要說自己雖然怕輸，但「想要努力」的心情同樣強烈！\n因為我有日積月累的強烈意志站在我這邊！",
       "ChoiceDataList": [
-        "把那份心情传达给大家吧",
-        "把那份心情传达给大家吧"
+        "把妳的這份心情傳達給大家吧",
+        "把妳的這份心情傳達給大家吧"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "嗯！\u3000好嘞，该打起精神咯～！\n德～～比～～～～！！！！",
+      "Name": "勝利獎券",
+      "Text": "嗯！好──我要打起精神～！\n打～～～～比～～～～！！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "（咚咚咚）",
+      "Text": "（叩叩叩……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "骏川手纲",
-      "Text": "打扰了。\n胜利奖券小姐，差不多到你出场了哦。",
+      "Name": "駿川手綱",
+      "Text": "打擾了。\n勝利獎券同學，差不多該上場囉。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "好的！\u3000请多指教！",
+      "Name": "勝利獎券",
+      "Text": "好──！那就請多指教了──！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "这时——电视里传出一个熟悉的名字。",
+      "Text": "就在此時──電視傳來了熟悉的名字。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "主持人",
-      "Text": "『接下来这位是成田大进小姐』",
+      "Text": "「那麼接下來是成田大進小姐。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "啊，是大进！\n手纲小姐，再看一会儿！\u3000再看一会儿好吗！？",
+      "Name": "勝利獎券",
+      "Text": "啊，是大進！\n手綱小姐，等我一下！一下就好了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "骏川手纲",
-      "Text": "嘛，就看一会儿的话……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "主持人",
-      "Text": "大进小姐，据说您一直在进行很严格的训练呢。\n果然就算赢下了『皋月赏』，也不能放松啊。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "当然。『皋月赏』上输掉的对手可不会就此罢休。\n所以我不能放松，也不打算放松。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "就算在德比，我也打算只留给对手们我的背影。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "<username>",
-      "Text": "这次大进应该也是强者中的一员呢。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "<username>",
-      "Text": "这次大进应该也是强者中的一员呢。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "胜利奖券",
-      "Text": "嗯。但这次，轮到她注视着我的背影了！",
+      "Name": "駿川手綱",
+      "Text": "嗯，如果不會太久的話……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "主持人",
-      "Text": "『接下来是，琵琶晨光小姐』",
+      "Text": "大進小姐，妳好像一直進行著嚴苛的訓練呢。\n在「皋月賞」獲勝後還是沒有鬆懈對吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "晨光……！\n手纲小姐！\u3000再稍等一会！！",
+      "Name": "成田大進",
+      "Text": "當然。在「皋月賞」輸掉的對手不會就這樣乖乖認輸。\n所以我不會鬆懈，也不打算鬆懈。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "骏川手纲",
-      "Text": "诶诶诶～！？\u3000你的记者见面会\n可就在琵琶晨光同学后面哦！？",
+      "Name": "成田大進",
+      "Text": "在這次的打比，我也打算跑在競爭對手前面。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "赛马娘的话，几秒就能跑到直播室了！",
+      "Text": "這次大進也會是眾多強者之一吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "骏川手纲",
-      "Text": "连训练员都这么说！？\u3000这可是直播啊！",
+      "Name": "<username>",
+      "Text": "這次大進也會是眾多強者之一吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "嗯，但這次我會跑在她前面！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主持人",
+      "Text": "「接下來是琵琶晨光小姐。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "是晨光……！\n手綱小姐！再一下就好！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "咦咦咦～！？琵琶晨光同學的下一個\n就輪到妳開記者會了喔！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "以賽馬娘的腳程，幾秒就能到轉播間了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "就、就連訓練員都這樣說！？這可是直播喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "我之所以能进入德比，\n正是因为对手们的存在。",
+      "Text": "我能一路走到打比，\n是因為有競爭對手在的緣故。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "对手努力前进一步，那我就努力前进两步。\n就这样，我们互相努力，才终于站上这个舞台。",
+      "Text": "要是對手比我快一步，那我就努力多走兩步。\n就這樣互相努力，一起站上了這個舞台。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "但是，站在舞台上并不是终点。\n我的终点，是与对手们竞争并取得胜利。",
+      "Text": "但站上舞台卻不是終點。\n我的終點是在這裡跑贏競爭對手。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "诶嘿嘿，一起赛跑吧晨光！",
+      "Name": "勝利獎券",
+      "Text": "耶嘿嘿，互相競爭吧，晨光！",
       "ChoiceDataList": [
-        "追上她们两人，并超过她们吧！"
+        "追上她們兩個，然後超越她們吧！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "嗯！！\u3000尽情奔跑！\n我要将我们的德比变成最棒的德比！",
+      "Name": "勝利獎券",
+      "Text": "嗯！！我會盡全力去跑！\n為了成就我們的打比，以及最棒的打比！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "既然这样决定了，那现在就要立刻出发才行！\n手纲小姐，抱歉啦！！\u3000我要翘了记者见面会！！",
+      "Name": "勝利獎券",
+      "Text": "既然決定，就要馬上展開行動！\n手綱小姐，對不起！！我不參加記者會了！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "骏川手纲",
-      "Text": "诶诶诶～！？\n等，等下，胜利奖券！？",
+      "Name": "駿川手綱",
+      "Text": "咦咦咦～！？\n等、等一下，勝利獎券同學！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "抱歉，她想要发挥出完美的状态\n现在时间已经不太够了。",
+      "Text": "很抱歉，如果要拿出100%的表現，\n時間已經所剩不多了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "骏川手纲",
-      "Text": "就算你突然说这些～！！",
+      "Name": "駿川手綱",
+      "Text": "就算你突然這麼說～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "就这样，面向德比\n胜利奖券再次奔跑了起来。",
+      "Text": "就這樣，勝利獎券\n重新朝著打比奔跑起來。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "呜噢噢噢噢噢噢噢噢～～！！\n再快一点！！\u3000再快再快！！",
+      "Name": "勝利獎券",
+      "Text": "唔喔喔喔喔喔喔喔喔喔喔～～！！\n還要更快！！更快更快！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "那家伙，我还想她为什么没来记者见面会\n原来是在跑步啊。",
+      "Name": "成田大進",
+      "Text": "還想說那傢伙怎麼沒來記者會，\n原來在跑步啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "……说起来，为什么要穿着制服跑步？",
+      "Text": "……話說回來，她怎麼穿著制服跑？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "哼哼，她不就是这种家伙吗。\n一跟德比扯上关系就会突然跑起来。",
+      "Name": "成田大進",
+      "Text": "呵呵，她就是這種人不是嗎？\n一扯到打比就會不顧一切狂奔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "胜利奖券",
-      "Text": "绝对要赢噢噢噢～～！！\n德ーーーー比ーーーー！",
+      "Name": "勝利獎券",
+      "Text": "我絕對要贏喔喔喔喔～～！！\n打──────比────────！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "她对德比的心情转化为脚步声，\n穿过了训练场。",
+      "Text": "她對打比抱持的意志，\n化成了腳步聲奔馳在賽道之上。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

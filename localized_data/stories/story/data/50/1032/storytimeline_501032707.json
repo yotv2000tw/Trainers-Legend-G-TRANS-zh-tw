@@ -1,141 +1,141 @@
 {
-    "Title": "在神社祈求！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "和爱丽速子在神社祈求结束之后──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "呼……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "我是不会说……\n为什么要特地来神社参拜这种话。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "虽然不知道你许了什么愿，\n不过应该是有事想要求神吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "既然已经结束了，是不是该回去了？",
-            "ChoiceDataList": [
-                "你累了吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "没有，只是有点提不起劲。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "搞不好是因为我体内的巨噬细胞在偷懒，\n把凋亡小体放着不管也说不定。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "嗯，这只不过是随便讲讲的玩笑话而已。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "真要说的话，要是发生了那种事，\n就不仅仅是提不起劲而已了──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "……唉，都无所谓啦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……看来她状况真的不太好。\n虽然想要让她打起精神来……",
-            "ChoiceDataList": [
-                "再来祈求一次吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "嗯？难道你想祈求我的状况变好吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "做那种事根本就没有意义吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "……呵，\n不过这种耿直的想法真符合你的作风。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "不管怎样，我也不能一直这样呆滞下去……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "总之先来做些实验提起精神吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "爱丽速子开心地笑着。\n看起来是回复平常的状态了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "如果这样能让你满足，\n我也不会阻止你。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "不过呢，不要对今天的我抱持期待。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "以我目前的状况，恐怕无论做什么，\n都没办法得到有用的资讯……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "爱丽速子大大地叹了一口气。\n看来她还是没有回复平常的状态。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "在神社祈求！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "和愛麗速子在神社祈求結束之後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "我是不會說……\n為什麼要特地來神社參拜這種話。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "雖然不知道你許了什麼願，\n不過應該是有事想要求神吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "既然已經結束了，是不是該回去了？",
+      "ChoiceDataList": [
+        "妳累了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "沒有，只是有點提不起勁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "搞不好是因為我體內的巨噬細胞在偷懶，\n把凋亡小體放著不管也說不定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "嗯，這只不過是隨便講講的玩笑話而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "真要說的話，要是發生了那種事，\n就不僅僅是提不起勁而已了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "……唉，都無所謂啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……看來她狀況真的不太好。\n雖然想要讓她打起精神來……",
+      "ChoiceDataList": [
+        "再來祈求一次吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "嗯？難道你想祈求我的狀況變好嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "做那種事根本就沒有意義吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "……呵，\n不過這種耿直的想法真符合你的作風。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "不管怎樣，我也不能一直這樣呆滯下去……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "總之先來做些實驗提起精神吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "愛麗速子開心地笑著。\n看起來是回復平常的狀態了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "如果這樣能讓你滿足，\n我也不會阻止你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "不過呢，不要對今天的我抱持期待。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "以我目前的狀況，恐怕無論做什麼，\n都沒辦法得到有用的資訊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "愛麗速子大大地嘆了一口氣。\n看來她還是沒有回復平常的狀態。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

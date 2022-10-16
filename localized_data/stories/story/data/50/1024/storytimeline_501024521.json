@@ -1,64 +1,64 @@
 {
-    "Title": "时常熬夜……",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "一早，在前往训练员室的路上时，\n我撞见了摩耶重炮。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "呼哇……哈……",
-            "ChoiceDataList": [
-                "你看起来很困",
-                "你看起来很困呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "嗯……昨天的连续剧……\n有个长得很像训练员的人……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "哇！！训、训练员！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "那个、那个！连续剧啊。\n……很有趣，所以啊！",
-            "ChoiceDataList": [
-                "睡不着吗……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "嗯……因为我没想到……\n……居、居然有那种大人的场景。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "呜！心脏又开始噗通噗通跳了！\n人家今天也睡不着了～～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "昨天播的爱情剧应该是纯爱作品……\n总而言之，\n她好像因为这样而睡不着。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "時常熬夜……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "一早，在前往訓練員室的路上時，\n我撞見了重砲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "呼哇……哈……",
+      "ChoiceDataList": [
+        "妳看起來很睏",
+        "妳看起來很睏呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "嗯……昨天的連續劇……\n有個長得很像訓練員的人……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "哇！！訓、訓練員！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "那個、那個！連續劇啊。\n……很有趣，所以啊！",
+      "ChoiceDataList": [
+        "睡不著嗎……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "嗯……因為我沒想到……\n……居、居然有那種大人的場景。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "嗚！心臟又開始噗通噗通跳了！\n人家今天也睡不著了～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "昨天播的愛情劇應該是純愛作品……\n總而言之，\n她好像因為這樣而睡不著。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

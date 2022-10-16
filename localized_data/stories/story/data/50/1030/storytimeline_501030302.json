@@ -1,526 +1,526 @@
 {
-    "Title": "抽奖试手气！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "某天傍晚，我们经过商店街的时候──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……那、那个，\n哥哥。",
-            "ChoiceDataList": [
-                "怎么了？",
-                "怎么了？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……那、那个，\n姐姐。",
-            "ChoiceDataList": [
-                "怎么了？",
-                "怎么了？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "这……这张券，给泥！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我从紧张颤抖的米浴手中收下一张纸。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "这张纸是──",
-            "ChoiceDataList": [
-                "“抽奖券”？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "嗯！是乌拉拉告诉米浴的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "她说商店街有在举办\n“新春抽奖大会！”",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "特等奖好像真的是非常豪华的奖品！\n所以……那个……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "米浴想说，哥哥或许也会想试试看，\n就准备了这张券。",
-            "ChoiceDataList": [
-                "……那我们一起挑战吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "米浴想说，姐姐或许也会想试试看，\n就准备了这张券。",
-            "ChoiceDataList": [
-                "……那我们一起挑战吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "咦咦，不可以啦！\n有米浴在绝对不会中奖──",
-            "ChoiceDataList": [
-                "别说这种话！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "啊哇哇……哥哥！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "啊哇哇……姐姐！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "温泉旅游券"
-            ]
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
-            "ChoiceDataList": [
-                "我们要参加！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "哦，很有气势哦！\n那就快来试试手气吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "米、米浴……真的也可以一起吗？",
-            "ChoiceDataList": [
-                "当然！",
-                "嗯！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "于是我们两人边祈祷，\n边一起握着握把转动抽奖机。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "结果是──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "米浴",
-            "Text": "哇啊啊！成功了成功了！\n哥哥，恭喜你！",
-            "ChoiceDataList": [
-                "恭喜你，米浴"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "哇啊啊！成功了成功了！\n姐姐，恭喜你！",
-            "ChoiceDataList": [
-                "恭喜你，米浴"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "嘿嘿，不用恭喜米浴的。\n因为是哥哥抽中的啊。",
-            "ChoiceDataList": [
-                "不过米浴也有一起抽吧？",
-                "不过米浴也有一起抽吧？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "嘿嘿，不用恭喜米浴的。\n因为是姐姐抽中的啊。",
-            "ChoiceDataList": [
-                "不过米浴也有一起抽吧？",
-                "不过米浴也有一起抽吧？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "啊……！",
-            "ChoiceDataList": [
-                "所以这是我们一起得到的特等奖！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "而米浴应该也有\n收下这个特等奖的权利。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……米浴真的，\n也可以收下吗？",
-            "ChoiceDataList": [
-                "当然可以！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "那、那个……\n这样的话，请……请问！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "我们可以一起使用这张券吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "既然是我们好不容易一起获得的，\n那么……米浴也想要一起享受旅行。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……可以吗？",
-            "ChoiceDataList": [
-                "你想去的话就一起去吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "哇啊，真的吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "呵呵。等到想做的事情都完成，\n希望好好放松一下的时候就一起去吧！\n哥哥！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "呵呵。等到想做的事情都完成，\n希望好好放松一下的时候就一起去吧！\n姐姐！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "就这样，我和米浴约好，\n有一天要一起使用这张“温泉旅游券”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "米浴",
-            "Text": "一、一等奖！？哥哥好厉害！",
-            "ChoiceDataList": [
-                "或许是因为和米浴一起抽的关系！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "一、一等奖！？姐姐好厉害！",
-            "ChoiceDataList": [
-                "或许是因为和米浴一起抽的关系！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "嘿嘿。才没有……这回事的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "来，两位！这是奖品！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "呼哇……好像很好吃……\n光是看着口水就要──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "（咕噜～～～～）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "哇啊啊，肚肚！？\n为什么要现在这个时候叫啊！？",
-            "ChoiceDataList": [
-                "那我们赶快回去吃饭吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……嘿嘿，好的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "应该是大惊大喜的关系，\n导致肚子也饿了吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "后来我们津津有味地\n享用了“上等胡萝卜肉排汉堡”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "米浴",
-            "Text": "好棒……竟然会有这种事……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "快看快看，哥哥！\n有好多胡萝卜！",
-            "ChoiceDataList": [
-                "该怎么吃呢？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "快看快看，姐姐！\n有好多胡萝卜！",
-            "ChoiceDataList": [
-                "该怎么吃呢？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……啊，对哦！\n有这么多的话，\n吃起来也会很辛苦呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "这个嘛、这个嘛……\n唔唔……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……哥哥会愿意吃，\n米浴做的点心吗？",
-            "ChoiceDataList": [
-                "我想吃！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……姐姐会愿意吃，\n米浴做的点心吗？",
-            "ChoiceDataList": [
-                "我想吃！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "太好了！米浴会做很多很多的哦！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "过了几天，米浴带来了亲手做的胡萝卜饼干，\n我们一起开心地享用。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "米浴",
-            "Text": "！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "哥哥，不是铭谢惠顾耶！",
-            "ChoiceDataList": [
-                "是啊",
-                "是啊"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "姐姐，不是铭谢惠顾耶！",
-            "ChoiceDataList": [
-                "是啊",
-                "是啊"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "嘿嘿……原来也会有这种事。\n还以为会像平常那样都不会中奖。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "虽然是三等奖，但还是算有中奖。\n我将奖品的胡萝卜\n送给米浴作为今天的纪念品。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”哦～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "米浴",
-            "Text": "呜呜……果然都是米浴不好～\n哥哥，对不起～",
-            "ChoiceDataList": [
-                "这种时期有卫生纸刚好！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "呜呜……果然都是米浴不好～\n姐姐，对不起～",
-            "ChoiceDataList": [
-                "这种时期有卫生纸刚好！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "可是可是，米浴还是希望\n能抽中更好的奖品……呜呜。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……看见米浴泪眼汪汪的样子，\n我立刻就抽出了第一张卫生纸。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天傍晚，我們經過商店街的時候──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……那、那個，\n大哥哥。",
+      "ChoiceDataList": [
+        "怎麼了？",
+        "怎麼了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……那、那個，\n大姐姐。",
+      "ChoiceDataList": [
+        "怎麼了？",
+        "怎麼了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "這……這張券，給泥！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我從緊張顫抖的米浴手中收下一張紙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這張紙是──",
+      "ChoiceDataList": [
+        "「抽獎券」？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "嗯！是小烏告訴米浴的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "她說商店街有在舉辦\n「新春抽獎大會！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "特獎好像真的是非常豪華的獎品！\n所以……那個……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "米浴想說，大哥哥或許也會想試試看，\n就準備了這張券。",
+      "ChoiceDataList": [
+        "……那我們一起挑戰吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "米浴想說，大姐姐或許也會想試試看，\n就準備了這張券。",
+      "ChoiceDataList": [
+        "……那我們一起挑戰吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "咦咦，不可以啦！\n有米浴在絕對不會中獎──",
+      "ChoiceDataList": [
+        "別說這種話！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "啊哇哇……大哥哥！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "啊哇哇……大姐姐！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [
+        "我們要參加！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "哦，很有氣勢喔！\n那就快來試試手氣吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "米、米浴……真的也可以一起嗎？",
+      "ChoiceDataList": [
+        "當然！",
+        "嗯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是我們兩人邊祈禱，\n邊一起握著握把轉動抽獎機。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "米浴",
+      "Text": "哇啊啊！成功了成功了！\n大哥哥，恭喜你！",
+      "ChoiceDataList": [
+        "恭喜妳，米浴"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "哇啊啊！成功了成功了！\n大姐姐，恭喜你！",
+      "ChoiceDataList": [
+        "恭喜妳，米浴"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "嘿嘿，不用恭喜米浴的。\n因為是大哥哥抽中的啊。",
+      "ChoiceDataList": [
+        "不過米浴也有一起抽吧？",
+        "不過米浴也有一起抽吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "嘿嘿，不用恭喜米浴的。\n因為是大姐姐抽中的啊。",
+      "ChoiceDataList": [
+        "不過米浴也有一起抽吧？",
+        "不過米浴也有一起抽吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "啊……！",
+      "ChoiceDataList": [
+        "所以這是我們一起得到的特獎！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "而米浴應該也有\n收下這個特獎的權利。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……米浴真的，\n也可以收下嗎？",
+      "ChoiceDataList": [
+        "當然可以！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "那、那個……\n這樣的話，請……請問！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "我們可以一起使用這張券嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "既然是我們好不容易一起獲得的，\n那麼……米浴也想要一起享受旅行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……可以嗎？",
+      "ChoiceDataList": [
+        "妳想去的話就一起去吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "哇啊，真的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "呵呵。等到想做的事情都完成，\n希望好好放鬆一下的時候就一起去吧！\n大哥哥！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "呵呵。等到想做的事情都完成，\n希望好好放鬆一下的時候就一起去吧！\n大姐姐！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，我和米浴約好，\n有一天要一起使用這張「溫泉旅遊券」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "米浴",
+      "Text": "一、一獎！？大哥哥好厲害！",
+      "ChoiceDataList": [
+        "或許是因為和米浴一起抽的關係！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "一、一獎！？大姐姐好厲害！",
+      "ChoiceDataList": [
+        "或許是因為和米浴一起抽的關係！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "嘿嘿。才沒有……這回事的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來，兩位！這是獎品！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "呼哇……好像很好吃……\n光是看著口水就要──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咕嚕～～～～）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "哇啊啊，肚肚！？\n為什麼要現在這個時候叫啊！？",
+      "ChoiceDataList": [
+        "那我們趕快回去吃飯吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……嘿嘿，好的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "應該是大驚大喜的關係，\n導致肚子也餓了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "後來我們津津有味地\n享用了「特等胡蘿蔔漢堡排」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "米浴",
+      "Text": "好棒……竟然會有這種事……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "快看快看，大哥哥！\n有好多胡蘿蔔！",
+      "ChoiceDataList": [
+        "該怎麼吃呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "快看快看，大姐姐！\n有好多胡蘿蔔！",
+      "ChoiceDataList": [
+        "該怎麼吃呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……啊，對喔！\n有這麼多的話，\n吃起來也會很辛苦呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "這個嘛、這個嘛……\n唔唔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……大哥哥會願意吃，\n米浴做的點心嗎？",
+      "ChoiceDataList": [
+        "我想吃！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……大姐姐會願意吃，\n米浴做的點心嗎？",
+      "ChoiceDataList": [
+        "我想吃！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "太好了！米浴會做很多很多的喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "過了幾天，米浴帶來了親手做的胡蘿蔔餅乾，\n我們一起開心地享用。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "米浴",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "大哥哥，不是銘謝惠顧耶！",
+      "ChoiceDataList": [
+        "是啊",
+        "是啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "大姐姐，不是銘謝惠顧耶！",
+      "ChoiceDataList": [
+        "是啊",
+        "是啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "嘿嘿……原來也會有這種事。\n還以為會像平常那樣都不會中獎。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然是三獎，但還是算有中獎。\n我將獎品的胡蘿蔔\n送給米浴作為今天的紀念品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "米浴",
+      "Text": "嗚嗚……果然都是米浴不好～\n大哥哥，對不起～",
+      "ChoiceDataList": [
+        "這種時期有衛生紙剛好！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "嗚嗚……果然都是米浴不好～\n大姐姐，對不起～",
+      "ChoiceDataList": [
+        "這種時期有衛生紙剛好！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "可是可是，米浴還是希望\n能抽中更好的獎品……嗚嗚。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……看見米浴淚眼汪汪的樣子，\n我立刻就抽出了第一張衛生紙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

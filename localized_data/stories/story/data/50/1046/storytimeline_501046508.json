@@ -1,50 +1,50 @@
 {
-    "Title": "参赛的疲劳",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "呼……",
-            "ChoiceDataList": [
-                "听你在叹气，怎么了？",
-                "听你在叹气，怎么了吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "那个啊……\n其实飞鹰子觉得有点累。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "虽然赛马娘偶像要带给大家希望，\n不能露出这种厌倦的样子──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "但这样不也是很可爱、\n很让人心动吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "所以我才觉得很两难……\n到底该怎么办才好呢……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "……看来她已经相当疲劳，\n或许应该要重新调整预定赛程。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "參賽的疲勞",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "呼……",
+      "ChoiceDataList": [
+        "聽妳在嘆氣，怎麼了？",
+        "聽妳在嘆氣，怎麼了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "那個啊……\n其實飛飛覺得有點累。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "雖然賽馬娘偶像要帶給大家希望，\n不能露出這種厭倦的樣子──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "但這樣不也是很可愛、\n很讓人心動嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "所以我才覺得很兩難……\n到底該怎麼辦才好呢……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……看來她已經相當疲勞，\n或許應該要重新調整預定賽程。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

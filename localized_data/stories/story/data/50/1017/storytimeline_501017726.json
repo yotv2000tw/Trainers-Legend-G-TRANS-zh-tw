@@ -1,77 +1,77 @@
 {
-    "Title": "挑战夹娃娃机！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "某一天，我和鲁道夫象征在外出路上──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "哦……你看那个。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "鲁道夫象征指向的是夹娃娃机。\n奖品是赛马娘玩偶。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "正所谓春兰秋菊。\n这里有许多不同的赛马娘呢。\n你不觉得很有意思吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "我想用这些玩偶装饰学生会办公室……\n嗯，该怎么做呢？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "鲁道夫象征看着玩偶，不发一语。",
-            "ChoiceDataList": [
-                "你怎么了？",
-                "你怎么了吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "我对这类游戏设施不熟，\n连夹娃娃机都没碰过。",
-            "ChoiceDataList": [
-                "这件事能够交给我吗？",
-                "这件事能够交给我吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "这就是适材适所吧。\n现在的我没有理由拒绝你的提案呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "训练员，就交给你了。我会期待成果的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "──这个挑战，不能失败！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "挑戰夾娃娃機！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某一天，我和魯道夫象徵在外出路上──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "喔……你看那個。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "魯道夫象徵指向的是夾娃娃機。\n獎品是賽馬娘玩偶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "正所謂春蘭秋菊。\n這裡有許多不同的賽馬娘呢。\n你不覺得很有意思嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "我想用這些玩偶裝飾學生會辦公室……\n嗯，該怎麼做呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "魯道夫象徵看著玩偶，不發一語。",
+      "ChoiceDataList": [
+        "妳怎麼了？",
+        "妳怎麼了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "我對這類遊戲設施不熟，\n連夾娃娃機都沒碰過。",
+      "ChoiceDataList": [
+        "這件事能夠交給我嗎？",
+        "這件事能夠交給我嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "這就是適材適所吧。\n現在的我沒有理由拒絕你的提案呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "訓練員，就交給你了。我會期待成果的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──這個挑戰，不能失敗！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

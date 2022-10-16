@@ -1,52 +1,50 @@
 {
-    "Title": "迎向出道战",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "小栗帽终于要在“出道战”中出赛了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "出道战"
-            ]
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "终于要开始了啊。\n心情……平静得不可思议。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "这一定是训练员的功劳。",
-            "ChoiceDataList": [
-                "我？",
-                "我？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "嗯。你就像故乡的大家一样守护着我，\n因为有你在……我没问题的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "大家替我加油，还送我来到这里……\n我一定要回应他们的心意。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "……嗯，起跑吧。\n为了从这里开始。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向出道戰",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "小栗帽終於要在「閃耀出道戰」中出賽了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "終於要開始了啊。\n心情……平靜得不可思議。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "這一定是訓練員的功勞。",
+      "ChoiceDataList": [
+        "我？",
+        "我？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "嗯。你就像故鄉的大家一樣守護著我，\n因為有你在……我沒問題的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "大家替我加油，還送我來到這裡……\n我一定要回應他們的心意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "……嗯，起跑吧。\n為了從這裡開始。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

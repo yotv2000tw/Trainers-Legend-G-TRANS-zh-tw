@@ -1,64 +1,64 @@
 {
-    "Title": "缺席的理由……",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "因为到了练习时间没见到菱亚马逊，\n于是我开始找她──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦宿舍的赛马娘",
-            "Text": "啊，大姐……玩到这边就差不多了吧……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "不行，既然是比赛就不能轻言放弃。\n再一次……这次我绝对不会输！",
-            "ChoiceDataList": [
-                "你们在做什么？",
-                "你们在做什么？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "看了也知道，抽鬼牌啊！\n可恶～为什么老是输掉……",
-            "ChoiceDataList": [
-                "训练呢？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "啥？为什么突然提训练的事──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "唔哇，不会吧！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "抱歉！训练公，\n我玩得太沉迷，忘得一干二净了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "菱亚马逊露出反省的表情，\n于是我郑重叮咛她下次要小心。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "缺席的理由……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "到了練習時間還沒見到菱亞馬遜，\n於是我開始找她──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦宿舍的賽馬娘",
+      "Text": "啊，大姐……玩到這邊就差不多了吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "不行，既然是比賽就不能輕言放棄。\n再一次……這次我絕對不會輸！",
+      "ChoiceDataList": [
+        "妳們在做什麼？",
+        "妳們在做什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "看也知道在抽鬼牌啊！\n可惡～為什麼老是輸掉……",
+      "ChoiceDataList": [
+        "訓練呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "啥？為什麼突然提訓練的事──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "唔哇，不會吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "抱歉！訓練員老大，\n我比得太專心把訓練忘得一乾二淨了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "菱亞馬遜露出反省的表情，\n於是我鄭重叮嚀她下次要注意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

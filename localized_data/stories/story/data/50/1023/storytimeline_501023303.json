@@ -1,114 +1,114 @@
 {
-    "Title": "出道战结束后．讨论",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "晚上，回到学园后没多久──\n在琵琶晨光的请求下，\n决定观赏这次的竞赛视频。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "嗯。这次取位似乎有些大意。\n是比赛中会一直看着前方的弊病啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "麻烦你再重播一次视频。\n感觉还有其他应该理清的缺点。",
-            "ChoiceDataList": [
-                "话说你不用休息没关系吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "才刚经历第一次的比赛与演唱会，\n她的身体应该也累积了不少疲劳。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "不用担心。难得透过实战察觉到\n至今一直没发现的缺点啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "所以来改善这些缺点吧。毕竟我想要的\n胜利方程式是要能够对抗她的东西。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "即使是一秒也非常宝贵呢。",
-            "ChoiceDataList": [
-                "（……赢过成田白仁的方程式）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "她大概认为要完成那个方程式\n是相当困难的任务吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "……加速力……风阻……\n踏在地面上的步伐角度……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "身为训练员首先该做的事，\n或许是提供对她的理论构筑\n有帮助的实战经验。",
-            "ChoiceDataList": [
-                "……要不要试着参加“朝日杯FS”？",
-                "……要不要试着参加“朝日杯FS”？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "朝日杯FS……\n“朝日杯未来锦标”是聚集了\n新马级顶尖赛马娘的GⅠ。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "朝日杯FS",
-                "朝日杯未来",
-                "锦标",
-                "新马级",
-                "GⅠ"
-            ]
-        },
-        {
-            "Name": "",
-            "Text": "这也代表要留下成果相当困难，\n但对琵琶晨光来说绝对是不错的经验。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "……嗯。原来如此。\n那是──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "──很好的提议。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "琵琶晨光的眼镜闪过锐利的光芒，\n于是我们就这么决定了下个目标。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "出道戰結束後．討論",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "晚上，回到學園後沒多久──\n在琵琶晨光的請求下，\n決定觀賞這次的競賽影片。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "嗯。這次取位似乎有些大意。\n是比賽中會一直看著前方的弊病啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "麻煩你再重播一次影片。\n感覺還有其他應該釐清的缺點。",
+      "ChoiceDataList": [
+        "話說妳不用休息沒關係嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "才剛經歷第一次的比賽與演唱會，\n她的身體應該也累積了不少疲勞。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "不用擔心。難得透過實戰察覺到\n至今一直沒發現的缺點啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "所以來改善這些缺點吧。畢竟我想要的\n勝利方程式是要能夠對抗她的東西。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "即使是一秒也非常寶貴呢。",
+      "ChoiceDataList": [
+        "（……贏過成田白仁的方程式）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她大概認為要完成那個方程式\n是相當困難的任務吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "……加速力……風阻……\n踏在地面上的步伐角度……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "身為訓練員首先該做的事，\n或許是提供對她的理論構築\n有幫助的實戰經驗。",
+      "ChoiceDataList": [
+        "……要不要試著參加「朝日盃FS」？",
+        "……要不要試著參加「朝日盃FS」？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "朝日盃FS……\n「朝日盃未來錦標賽」是聚集了\n新手級頂尖賽馬娘的GⅠ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "朝日盃FS",
+        "朝日盃未來",
+        "錦標賽",
+        "新手級",
+        "GⅠ"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "這也代表要留下成果相當困難，\n但對琵琶晨光來說絕對是不錯的經驗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "……嗯。原來如此。\n那是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "──很好的提議。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "琵琶晨光的眼鏡閃過銳利的光芒，\n於是我們就這麼決定了下個目標。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

@@ -1,74 +1,74 @@
 {
-    "Title": "竞赛败北",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "输掉了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "大家的气势都好惊人……\n我知道自己逐渐被抛到后头──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "呜呜，好不甘心……！\n在气势上输掉的自己太丢脸了……！",
-            "ChoiceDataList": [
-                "不过你很努力了",
-                "将失败化为动力吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "训练员……谢谢你。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "……我的确是有努力过了。\n既然如此，就得认同这样的自己才行。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "好……不要忘记今天的努力，\n明天开始也全力以赴好好加油！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "是……我会的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "虽然这次感到非常不甘心……\n但也因为如此才不能忘记。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "要好好反省，\n分析自己为什么会输、哪里做不好──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "然后把反省结果好好运用在下一次的赛事上！\n所以请协助我，训练员！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "競賽敗北",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "輸掉了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "大家的氣勢都好驚人……\n我知道自己逐漸被拋到後頭──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "嗚嗚，好不甘心……！\n在氣勢上輸掉的自己太丟臉了……！",
+      "ChoiceDataList": [
+        "不過妳很努力了",
+        "將失敗化為動力吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "訓練員……謝謝你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "……我的確是有努力過了。\n既然如此，就得認同這樣的自己才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "好……不要忘記今天的努力，\n明天開始也全力以赴好好加油！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "是……我會的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "雖然這次感到非常不甘心……\n但也因為如此才不能忘記。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "要好好反省，\n分析自己為什麼會輸、哪裡做不好──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "然後把反省結果好好運用在下一次的賽事上！\n所以請協助我，訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

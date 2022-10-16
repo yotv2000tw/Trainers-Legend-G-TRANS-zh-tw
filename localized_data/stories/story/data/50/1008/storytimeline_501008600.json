@@ -1,38 +1,38 @@
 {
-    "Title": "临阵抖擞",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "嘿嘿……比赛就要开始了呢，训练员。\n我已经准备万全了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "开跑前的这股紧绷感，真令人受不了……！\n真想快点开始跑，我已经等不及了。",
-            "ChoiceDataList": [
-                "伏特加，我很期待！",
-                "伏特加，我很期待哦！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "没问题！交给我！\n我要狠狠甩开每一个人──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "最帅气的我会第一个到达终点！\n我会让你永生难忘的！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "臨陣抖擻",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "嘿嘿……比賽就要開始了呢，訓練員。\n我已經準備萬全了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "開跑前的這股緊繃感，真令人受不了……！\n真想快點開始跑，我已經等不及了。",
+      "ChoiceDataList": [
+        "伏特加，我很期待！",
+        "伏特加，我很期待喔！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "沒問題！交給我！\n我要狠狠甩開每一個人──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "最帥氣的我會第一個到達終點！\n我會讓你永生難忘的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

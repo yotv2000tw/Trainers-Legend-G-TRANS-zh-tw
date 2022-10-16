@@ -1,80 +1,80 @@
 {
-    "Title": "名指导",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我和名将怒涛在进行训练时，\n有三个学生上前来攀谈。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "赛马娘A",
-            "Text": "那个，请让我们和怒涛一起并跑练习！",
-            "ChoiceDataList": [
-                "我是没关系……你觉得呢？",
-                "我是没关系……你觉得呢？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "呀哇！？啊，咦！？\n呃──这个……这个…………！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "……我、我觉得很开心，\n但找我这种人一起训练真的好吗……？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "赛马娘B",
-            "Text": "我想跟你一起跑！\n请让我学习你那永不放弃的精神！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "……没、没有啦……\n我根本就没有做什么值得骄傲的事……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "赛马娘C",
-            "Text": "没这回事！即使比赛后期快被追上，\n依然坚持不放弃并继续拉开距离的表现……\n真的让人很崇拜！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "咦，谢、谢谢你的称赞……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "那个，如果不嫌弃的话……\n就就就、就让我跟你们一起并跑练习吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "赛马娘A",
-            "Text": "太棒了！那我去准备！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "想不到会有人找我并跑练习，真像做梦\n一样……这都是托了训练员的福……嘿嘿嘿。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "名指導",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我和名將怒濤在進行訓練時，\n有三個學生上前來攀談。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "那個，請讓我們和怒濤一起並行練跑！",
+      "ChoiceDataList": [
+        "我是沒關係……妳覺得呢？",
+        "我是沒關係……妳覺得呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "呀哇！？啊，咦！？\n呃──這個……這個…………！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "……我、我覺得很開心，\n但找我這種人一起訓練真的好嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "我想跟妳一起跑！\n請讓我學習妳那永不放棄的精神！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "……沒、沒有啦……\n我根本就沒有做什麼值得驕傲的事……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘C",
+      "Text": "沒這回事！即使比賽後期快被追上，\n依然堅持不放棄並繼續拉開距離的表現……\n真的讓人很崇拜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "咦，謝、謝謝妳的稱讚……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "那個，如果不嫌棄的話……\n就就就、就讓我跟妳們一起並行練跑吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "太棒了！那我去準備！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "想不到會有人找我並行練跑，真像做夢\n一樣……這都是託了訓練員的福……嘿嘿嘿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

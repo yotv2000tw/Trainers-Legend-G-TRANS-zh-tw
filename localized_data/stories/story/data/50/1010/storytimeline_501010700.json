@@ -1,52 +1,52 @@
 {
-    "Title": "睡眠不足……",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "呼哇啊啊啊啊啊……\n嗯～～～～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "Sorry，训练员～～～～\n我好sleepy哦！",
-            "ChoiceDataList": [
-                "你昨天休假在干嘛啊？",
-                "你昨天休假在干嘛啊？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "是的，我和宿舍的大家在开休假派对！\n玩得非常开心♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "平常总是会提醒我们的菱亚很早就睡了，\n所以我们drink、sing、大玩特玩啦！",
-            "ChoiceDataList": [
-                "“又喝又唱，大玩特玩”……？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "Yes！后来大家被起床的菱亚\n给狠狠骂了一顿就是了。啊哈哈！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "……看来大树快车似乎\n睡眠不足的样子。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "睡眠不足……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "呼哇啊啊啊啊啊……\n嗯～～～～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "Sorry，訓練員～～～～\n我好sleepy喔！",
+      "ChoiceDataList": [
+        "妳昨天休假在幹嘛啊？",
+        "妳昨天休假在幹嘛啊？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "是的，我和宿舍的大家在開休假派對！\n玩得非常開心♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "平常總是會提醒我們的菱亞很早就睡了，\n所以我們drink、sing、大玩特玩啦！",
+      "ChoiceDataList": [
+        "「又喝又唱，大玩特玩」……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "Yes！後來大家被起床的菱亞\n給狠狠罵了一頓就是了。啊哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……看來大樹快車似乎\n睡眠不足的樣子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

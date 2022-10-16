@@ -1,515 +1,515 @@
 {
-    "Title": "夏季集训（第二年）途中",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "现在是“夏季集训”。\n为了即将开始的GⅠ级比赛“菊花赏”，\n这段期间要进一步提升爱丽速子的能力──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "──本来是预定这样做的。\n不知为何，我被迫接受爱丽速子的重训。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "141、142，嗯，只差一点了！\n豚鼠，再拿出更多干劲吧！",
-            "ChoiceDataList": [
-                "（为什么是我……！？）",
-                "（为什么是我……！？）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "就算是“夏季集训”，她也和平常一样\n持续过着整天实验的日子……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "……149、150！很好，停！\n要趁这时测量你的脑内啡……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "──就在此时，\n有数名记者往这边走了过来。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "记者A",
-            "Text": "你是爱丽速子小姐对吧？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "……嗯，没错。不过很抱歉，能晚点再来吗！\n我现在正在实验的收尾阶段──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "记者B",
-            "Text": "关于不参加“月桂杯”这件事，\n我们想向你请教一下详细的理由。",
-            "ChoiceDataList": [
-                "……！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "──在夏季集训之前，\n她擅自取消参加即将举办的“月桂杯”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "因为这是为了炒热赛马娘界的气氛而举办的\n特别比赛。随着舆论的沸腾──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "甚至还出现了指责她太没有责任感的说法。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "真是的。还想说夏季集训里，\n怎么会有没见过的人跑进来……",
-            "ChoiceDataList": [
-                "如果要采访的话，请先联络校方──"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我出声制止后，原先对着她的麦克风\n便一齐转向我这里。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "记者A",
-            "Text": "身为一名训练员，你是否知道因为\n她取消参赛而引发了一连串的问题呢？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "记者B",
-            "Text": "另外也有传闻指出她就读于特雷森学园，\n却对出道没有什么热忱。",
-            "ChoiceDataList": [
-                "所以我说，要采访的话请照正式流程──"
-            ],
-            "ColorTextInfoList": [
-                "特雷森学园"
-            ]
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "与其说他是训练员，不如说是只豚鼠。\n有问题的话问我比较实际。",
-            "ChoiceDataList": [
-                "（速子……！）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "与其说她是训练员，不如说是只豚鼠。\n有问题的话问我比较实际。",
-            "ChoiceDataList": [
-                "（速子……！）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "麦克风再度围住了爱丽速子。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "记者A",
-            "Text": "那么，身为一位有才能的赛马娘，\n你有思考过赛马娘界的未来与责任吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "我可没有自信呢，我跟会长可不一样。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "不过既然你们这么问，\n我反倒要问你们。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "你们在这里逼问我的同时，\n这跟赛马娘界的未来有什么关连吗？\n能不能请教一下这段时间到底有什么意义？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "记者A",
-            "Text": "……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "我啊，最讨厌浪费时间了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "面对慌了手脚的记者们，\n爱丽速子转身离去。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "我们走吧，豚鼠。\n看来今天不适合做研究。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "记者A",
-            "Text": "唔……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "看着面露不甘的记者们，\n我心中闪过一丝不安──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "隔天──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "“赛马娘界的问题人物，爱丽速子”，\n呵呵呵……这可真是有趣的煽动呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "“在夏季集训只顾着进行自己喜欢的实验。\n将训练员称为豚鼠，用残酷的实验道具……”",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "“对于赛马娘界的未来，\n表现出事不关己的轻浮态度”──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "哦哦，真厉害呢！\n虽然带有恶意，但报导内容并没有说谎！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "虽然她在笑……但无法保证这个状况，\n不会对她往后的比赛生涯产生不好的影响。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "再说，我也还没有问过她，\n拒绝参加“月桂杯”的原因。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "嗯？怎么啦，训练员！\n你的表情相当严肃呢。",
-            "ChoiceDataList": [
-                "你为什么要拒绝呢？",
-                "你为什么要拒绝呢？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "哎呀，你果然会在意吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "仔细想想，你几乎什么都不知道呢。\n以训练员来说，这是很不寻常的状态。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "不过，现在的情况……还没办法大声张扬。\n等到结果出来时我会跟你报告的！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "──看来她果然没有打算向我说明理由。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "不过，如果什么都不知道的话，\n万一有状况我就无法保护她了。",
-            "ChoiceDataList": [
-                "我是在担心你",
-                "我是在担心你"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "是在担心我啊。嗯……\n这么说来，你的确是这种个性呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "说得也是……总之先告诉你一件事，\n我没和你分享资讯，是我深思后做出的决定。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "而且，辞退“月桂杯”这件事，\n其实也有很重要的理由。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "她说完后便直勾勾地看着我。\n虽然语气很随性，神情却异常认真。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "如果一切顺利的话，\n我会好好说明的。要我跟你约定也行。",
-            "ChoiceDataList": [
-                "（不知道的事情太多了……）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "不过她的态度\n看起来并不像报导所写的那么轻浮。\n肯定是以她的方式构思了某种计划。",
-            "ChoiceDataList": [
-                "（──就相信她吧）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我点头表示明白了之后，\n她露出了放心似的微笑。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "嗯……谢谢你。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "好啦。既然都决定好了我们就往海滩移动！\n天气睛朗，湿度良好！是适合实验的好日子！",
-            "ChoiceDataList": [
-                "又是实验吗！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "哈哈哈！不要露出这么厌烦的表情嘛！\n顺利的话今天就会结束了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "其实我终于──\n要进入方案A的验证阶段了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "今天就给你选吧！\n肌力训练跟沙滩练跑，\n哪个比较好呢？",
-            "ChoiceDataList": [
-                "肌力训练",
-                "沙滩练跑"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "很好！\n那么你就在这边开始计时吧。",
-            "ChoiceDataList": [
-                "是你要跑吗！？",
-                "是你要跑吗！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "呵呵，这是当然的吧。\n看来你已经很习惯自己跑了呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "但方案A，\n必须由我自己的身体来验证。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "好啦，计数器拿好了吗？\n我要上咯！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "那天我见到了她暌违许久的训练模样。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "呼……呼……！\n呵呵、呵呵呵！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "很好！非常好！看来完全没有问题！\n终于、终于完成了──！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "她跑超过目标圈数后倒向沙滩──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "成功了……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "她脸上带着微笑这么说。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "我知道了。我会在沙滩上来回奔跑，\n麻烦你记录单圈时间！",
-            "ChoiceDataList": [
-                "是你要跑吗！？",
-                "是你要跑吗！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "呵呵，这是当然的吧。\n看来你已经很习惯自己跑了呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "但方案A，\n必须由我自己的身体来验证。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "喂，码表拿好了吗？\n我要上咯！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "话一说完她就冲了出去。\n她那纤细的背影一下子就飞奔到\n沙滩的另一端。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "哈哈哈、哈哈哈哈……！\n很好！我终于获得了──！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "她回来时眼中闪耀着绚烂的光芒。\n那是我许久未见过神采飞扬。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "她稍微平复呼吸，接着便倒向沙滩──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "成功了……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "她勾起嘴角这么说道。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "隔天，她正式宣布要参加“菊花赏”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "虽然针对过去态度随便的她，\n批评和攻击言论相当严重──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "嗯──\n不过他们写的内容也不是假的啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "对她来说，这些事果然都不足以挂齿。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "夏季集訓（第二年）途中",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "現在是「夏季集訓」。\n為了即將開始的GⅠ級比賽「菊花賞」，\n這段期間要進一步提升愛麗速子的能力──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──本來是預定這樣做的。\n不知為何，我被迫接受愛麗速子的重訓。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "141、142，嗯，只差一點了！\n白老鼠，再拿出更多幹勁吧！",
+      "ChoiceDataList": [
+        "（為什麼是我……！？）",
+        "（為什麼是我……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就算是「夏季集訓」，她也和平常一樣\n持續過著整天實驗的日子……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "……149、150！很好，停！\n要趁這時測量你的腦內啡……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──就在此時，\n有數名記者往這邊走了過來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "妳是愛麗速子小姐對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "……嗯，沒錯。不過很抱歉，能晚點再來嗎！\n我現在正在實驗的收尾階段──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "關於不參加「月桂盃」這件事，\n我們想向妳請教一下詳細的理由。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──在夏季集訓之前，\n她擅自取消參加即將舉辦的「月桂盃」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因為這是為了炒熱賽馬娘界的氣氛而舉辦的\n特別比賽。隨著輿論的沸騰──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "甚至還出現了指責她太沒有責任感的說法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "真是的。還想說夏季集訓裡，\n怎麼會有沒見過的人跑進來……",
+      "ChoiceDataList": [
+        "如果要採訪的話，請先聯絡校方──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我出聲制止後，原先對著她的麥克風\n便一齊轉向我這裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "身為一名訓練員，你是否知道因為\n她取消參賽而引發了一連串的問題呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "另外也有傳聞指出她就讀於特雷森學園，\n卻對出道沒有什麼熱忱。",
+      "ChoiceDataList": [
+        "所以我說，要採訪的話請照正式流程──"
+      ],
+      "ColorTextInfoList": [
+        "特雷森學園"
+      ]
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "與其說他是訓練員，不如說是隻白老鼠。\n有問題的話問我比較實際。",
+      "ChoiceDataList": [
+        "（速子……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "與其說她是訓練員，不如說是隻白老鼠。\n有問題的話問我比較實際。",
+      "ChoiceDataList": [
+        "（速子……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "麥克風再度圍住了愛麗速子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "那麼，身為一位有才能的賽馬娘，\n妳有思考過賽馬娘界的未來與責任嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "我可沒有自信呢，我跟會長可不一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "不過既然你們這麼問，\n我反倒要問你們。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "你們在這裡逼問我的同時，\n這跟賽馬娘界的未來有什麼關連嗎？\n能不能請教一下這段時間到底有什麼意義？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "我啊，最討厭浪費時間了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "面對慌了手腳的記者們，\n愛麗速子轉身離去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "我們走吧，白老鼠。\n看來今天不適合做研究。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "唔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看著面露不甘的記者們，\n我心中閃過一絲不安──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "隔天──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "「賽馬娘界的問題人物，愛麗速子」，\n呵呵呵……這可真是有趣的煽動呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "「在夏季集訓只顧著進行自己喜歡的實驗。\n將訓練員稱為白老鼠，用殘酷的實驗道具……」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "「對於賽馬娘界的未來，\n表現出事不關己的輕浮態度」──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "喔喔，真厲害呢！\n雖然帶有惡意，但報導內容並沒有說謊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然她在笑……但無法保證這個狀況，\n不會對她往後的比賽生涯產生不好的影響。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "再說，我也還沒有問過她，\n拒絕參加「月桂盃」的原因。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "嗯？怎麼啦，訓練員！\n你的表情相當嚴肅呢。",
+      "ChoiceDataList": [
+        "妳為什麼要拒絕呢？",
+        "妳為什麼要拒絕呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "哎呀，你果然會在意嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "仔細想想，你幾乎什麼都不知道呢。\n以訓練員來說，這是很不尋常的狀態。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "不過，現在的情況……還沒辦法大聲張揚。\n等到結果出來時我會跟你報告的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──看來她果然沒有打算向我說明理由。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不過，如果什麼都不知道的話，\n萬一有狀況我就無法保護她了。",
+      "ChoiceDataList": [
+        "我是在擔心妳",
+        "我是在擔心妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "是在擔心我啊。嗯……\n這麼說來，你的確是這種個性呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "說得也是……總之先告訴你一件事，\n我沒和你分享資訊，是我深思後做出的決定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "而且，辭退「月桂盃」這件事，\n其實也有很重要的理由。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她說完後便直勾勾地看著我。\n雖然語氣很隨性，神情卻異常認真。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "如果一切順利的話，\n我會好好說明的。要我跟你約定也行。",
+      "ChoiceDataList": [
+        "（不知道的事情太多了……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不過她的態度\n看起來並不像報導所寫的那麼輕浮。\n肯定是以她的方式構思了某種計畫。",
+      "ChoiceDataList": [
+        "（──就相信她吧）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我點頭表示明白了之後，\n她露出了放心似的微笑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "嗯……謝謝你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "好啦。既然都決定好了我們就往海灘移動！\n天氣睛朗，濕度良好！是適合實驗的好日子！",
+      "ChoiceDataList": [
+        "又是實驗嗎！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "哈哈哈！不要露出這麼厭煩的表情嘛！\n順利的話今天就會結束了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "其實我終於──\n要進入方案A的驗證階段了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "今天就給你選吧！\n肌力訓練跟沙灘練跑，\n哪個比較好呢？",
+      "ChoiceDataList": [
+        "肌力訓練",
+        "沙灘練跑"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "很好！\n那麼你就在這邊開始計時吧。",
+      "ChoiceDataList": [
+        "是妳要跑嗎！？",
+        "是妳要跑嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "呵呵，這是當然的吧。\n看來你已經很習慣自己跑了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "但方案A，\n必須由我自己的身體來驗證。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "好啦，計數器拿好了嗎？\n我要上囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那天我見到了她暌違許久的訓練模樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "呼……呼……！\n呵呵、呵呵呵！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "很好！非常好！看來完全沒有問題！\n終於、終於完成了──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她跑超過目標圈數後倒向沙灘──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "成功了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她臉上帶著微笑這麼說。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "我知道了。我會在沙灘上來回奔跑，\n麻煩你記錄單圈時間！",
+      "ChoiceDataList": [
+        "是妳要跑嗎！？",
+        "是妳要跑嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "呵呵，這是當然的吧。\n看來你已經很習慣自己跑了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "但方案A，\n必須由我自己的身體來驗證。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "喂，碼錶拿好了嗎？\n我要上囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "話一說完她就衝了出去。\n她那纖細的背影一下子就飛奔到\n沙灘的另一端。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "哈哈哈、哈哈哈哈……！\n很好！我終於獲得了──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她回來時眼中閃耀著絢爛的光芒。\n那是我許久未見過神采飛揚。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她稍微平復呼吸，接著便倒向沙灘──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "成功了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她勾起嘴角這麼說道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "隔天，她正式宣佈要參加「菊花賞」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然針對過去態度隨便的她，\n批評和攻擊言論相當嚴重──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "嗯──\n不過他們寫的內容也不是假的啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "對她來說，這些事果然都不足以掛齒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

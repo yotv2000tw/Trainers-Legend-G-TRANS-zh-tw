@@ -1,63 +1,63 @@
 {
-    "Title": "参赛的疲劳",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "结束比赛返回后──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "唉……",
-            "ChoiceDataList": [
-                "还好吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "……咦？嗯……我没事……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "那个，为什么要这么问……？",
-            "ChoiceDataList": [
-                "因为你在叹气"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "咦，我吗……？\n应该不会才对……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "不好意思，让你担心了。\n我之后会多注意……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "那个，我的身体状况没有不好。\n……随时都能全力以赴。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "话虽这么说，\n但她似乎累积了不少疲劳。\n或许需要重新调整无声铃鹿之后的预定赛程……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "參賽的疲勞",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結束比賽返回後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "唉……",
+      "ChoiceDataList": [
+        "還好嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "……咦？嗯……我沒事……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "那個，為什麼要這麼問……？",
+      "ChoiceDataList": [
+        "因為妳在嘆氣"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "咦，我嗎……？\n應該不會才對……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "不好意思，讓你擔心了。\n我之後會多注意……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "那個，我的身體狀況沒有不好。\n……隨時都能全力以赴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "話雖這麼說，\n但她似乎累積了不少疲勞。\n或許需要重新調整無聲鈴鹿之後的預定賽程……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

@@ -1,77 +1,77 @@
 {
-    "Title": "挑战夹娃娃机！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "某天，我跟气槽一起外出时──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "……那是。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "气槽突然停下脚步。\n她的视线看向了夹娃娃机，\n而里面的奖品……是赛马娘的玩偶。",
-            "ChoiceDataList": [
-                "你想要吗？",
-                "你想要吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "蠢蛋，不是我想要。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "是我从后辈那里收到了礼物。\n我在想，如果送这个当回礼不知道好不好。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "她也是个朝着梦想努力锻炼的人。\n感觉这玩偶应该能替她的日常带来一些慰藉。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "不过这是夹娃娃机的奖品，\n不知能否确实拿到……还是算了。",
-            "ChoiceDataList": [
-                "我帮你夹吧",
-                "我帮你夹吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "哦，你夸下海口了啊。\n有意思……你这句话我可是听到了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "那我就亲眼见证一下\n“女帝”的训练员有多少本事吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "──这个挑战，不能失败！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "挑戰夾娃娃機！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某天，我跟氣槽一起外出時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……那是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "氣槽突然停下腳步。\n她的視線看向了夾娃娃機，\n而裡面的獎品……是賽馬娘的玩偶。",
+      "ChoiceDataList": [
+        "妳想要嗎？",
+        "妳想要嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "蠢蛋，不是我想要。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "是我從後輩那裡收到了禮物。\n我在想，如果送這個當回禮不知道好不好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "她也是個朝著夢想努力鍛鍊的人。\n感覺這玩偶應該能替她的日常帶來一些慰藉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "不過這是夾娃娃機的獎品，\n不知能否確實拿到……還是算了。",
+      "ChoiceDataList": [
+        "我幫妳夾吧",
+        "我幫妳夾吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "哦，你誇下海口了啊。\n有意思……你這句話我可是聽到了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "那我就親眼見證一下\n「女帝」的訓練員有多少本事吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──這個挑戰，不能失敗！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

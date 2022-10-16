@@ -1,43 +1,43 @@
 {
-    "Title": "临阵抖擞",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "开赛前，我来察看大树快车的状况……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "OK. On the 4th corner,\nI'll gear up……and──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "──Oh，训练员！\n真是的，进房来要打声招呼啦！",
-            "ChoiceDataList": [
-                "抱歉，因为我看你好像很专心"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "呵呵，of course！\nCowgirl就是会在决斗前集中精神的！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "看我在赛场上也来露一手\n德州学到的quick draw吧！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "臨陣抖擻",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "開賽前，我來察看大樹快車的狀況……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "OK. On the 4th corner,\nI'll gear up……and──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "──Oh，訓練員！\n真是的，進房來要打聲招呼啦！",
+      "ChoiceDataList": [
+        "抱歉，因為我看妳好像很專心"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "呵呵，of course！\nCowgirl就是會在決鬥前集中精神的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "看我在賽場上也來露一手\n德州學到的quick draw吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

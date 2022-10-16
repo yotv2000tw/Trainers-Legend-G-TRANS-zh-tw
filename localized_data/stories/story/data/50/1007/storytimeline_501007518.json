@@ -1,49 +1,49 @@
 {
-    "Title": "学园防卫队？",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "屋顶上传来黄金船奇特的叫声，\n于是我上来看看……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金船",
-            "Text": "叽耶──────！！",
-            "ChoiceDataList": [
-                "还好吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金船",
-            "Text": "呼、呼……学园没事……放心吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金船",
-            "Text": "这次我也成功从大宇宙的威胁之中\n成功守卫了学园的和平……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金船",
-            "Text": "但是过程中消耗了不少体力……\n看来需要不少时间来恢复啊……唉。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "先不提宇宙的威胁如何，\n看来她的确消耗不少体力，\n有一段时间，动作都变得很迟钝……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "學園防衛隊？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "屋頂上傳來黃金船奇特的叫聲，\n於是我上來看看……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "嘰耶──────！！",
+      "ChoiceDataList": [
+        "還好嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "呼、呼……學園沒事……放心吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "這次我也成功從大宇宙的威脅之中\n成功守衛了學園的和平……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "但是過程中消耗了不少體力……\n看來需要不少時間來恢復啊……唉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "先不提宇宙的威脅如何，\n看來她的確消耗不少體力，\n有一段時間，動作都變得很遲鈍……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

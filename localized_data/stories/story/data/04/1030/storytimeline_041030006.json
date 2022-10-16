@@ -1,5 +1,5 @@
 {
-  "Title": "看清楚了、觉察到了",
+  "Title": "親眼見證並察覺",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,22 +9,22 @@
     },
     {
       "Name": "米浴",
-      "Text": "太好了……太好了，太好了！\u3000诶嘿嘿……！",
+      "Text": "太棒了……太棒了、太棒了！嘿嘿……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "在休息日的街上，我遇到了\n看起来很开心的米浴。",
+      "Text": "在假日的大街上，\n我看見好像很開心的米浴。",
       "ChoiceDataList": [
-        "你很高兴呢，米浴！",
-        "你很高兴呢，米浴！"
+        "心情很好呢，米浴！",
+        "心情很好呢，米浴！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "啊，哥哥……！\n诶嘿嘿……嗯。因为发生了一些好事……",
+      "Text": "啊，大哥哥……！\n嘿嘿……嗯。因為，發生了一件好事……",
       "ChoiceDataList": [
         "好事？"
       ],
@@ -32,7 +32,7 @@
     },
     {
       "Name": "米浴",
-      "Text": "啊，姐姐……！\n诶嘿嘿……嗯。因为发生了一些好事……",
+      "Text": "啊，大姐姐……！\n嘿嘿……嗯。因為，發生了一件好事……",
       "ChoiceDataList": [
         "好事？"
       ],
@@ -40,16 +40,16 @@
     },
     {
       "Name": "米浴",
-      "Text": "那个呢……我买到票了。\n『幸福的蓝蔷薇』的舞台剧……",
+      "Text": "就是……米浴買到票了。\n《幸福的藍薔薇》舞台劇的票……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "说到『幸福的蓝蔷薇』，\n好像是米浴最喜欢的绘本。",
+      "Text": "說到《幸福的藍薔薇》，\n我記得是米浴最喜歡的繪本作品。",
       "ChoiceDataList": [
-        "能得到票，真是太好了呢！",
-        "能得到票，真是太好了呢！"
+        "有買到票真是太好了！",
+        "有買到票真是太好了！"
       ],
       "ColorTextInfoList": []
     },
@@ -61,19 +61,19 @@
     },
     {
       "Name": "米浴",
-      "Text": "米浴呢，一般都会引发一些不好的事情……所以平时\n像剧场或是人很多的地方都不会去的。",
+      "Text": "因為米浴身邊，很容易發生壞事……\n所以平常都儘量，不去劇場這種人多的地方。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "但是……但是呢。\n只有这个舞台剧……那个……！",
+      "Text": "不過……不過呢。\n只、只有這次的舞台劇……米浴想……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "黑猫",
-      "Text": "喵喵ーーーーー！",
+      "Name": "黑貓",
+      "Text": "喵喵────！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -85,87 +85,87 @@
     },
     {
       "Name": "",
-      "Text": "就在这时，突然出现的黑猫从米浴的口袋里\n把舞台剧的票叼走，迅速跑开了！",
+      "Text": "突然有一隻黑貓竄出來，\n從米浴的口袋裡搶走舞台劇的門票揚長而去！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "不，不好了……！\n黑猫先生，等一下～！！",
+      "Text": "糟、糟了……！\n小黑貓，等一下～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "米浴朝黑猫追了过去。\n我也跟过去看看吧……！",
+      "Text": "米浴跑去追黑貓了。\n我也快追上去吧……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "哈啊，哈啊……应该是跑到这边了……！",
+      "Text": "呼、呼……剛才有看到，跑來這裡了……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "施工现场的大叔",
-      "Text": "哎呀，小姑娘！\u3000抱歉啊，这里正在施工不能通行。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "米浴",
-      "Text": "诶！？\u3000怎，怎么办……\n黑猫先生跑到这前面去了……！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "施工现场的大叔",
-      "Text": "唔ー，我可以告诉你怎么绕道……\n但是坡道有些费力啊。",
+      "Name": "工地現場的大叔",
+      "Text": "哦哦，小姐！不好意思啊，這裡正在施工，過不去喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "啊……请务必告诉我！\n坡道没问题的……我能跑！",
+      "Text": "咦！？怎、怎麼辦……\n小黑貓，跑到前面去了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "工地現場的大叔",
+      "Text": "嗯～是有另外一條路可以繞過去啦……\n不過那裡的斜坡滿陡的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "哥哥如果上坡时累了要告诉米浴哦。\n米浴会拉着哥哥的手的……！",
+      "Text": "啊……還、還請告訴我！\n有坡道，也不要緊……我可以跑的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "姐姐如果上坡时累了要告诉米浴哦。\n米浴会拉着姐姐的手的……！",
+      "Text": "大哥哥要是覺得爬坡很辛苦，請告訴米浴。\n米浴會拉著大哥哥的手……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "哈啊，哈啊，……找到了……！",
+      "Text": "大姐姐要是覺得爬坡很辛苦，請告訴米浴。\n米浴會拉著大姐姐的手……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "黑猫",
+      "Name": "米浴",
+      "Text": "呼、呼……找到了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黑貓",
       "Text": "喵喵……！",
       "ChoiceDataList": [
-        "得悄悄地靠近它……！"
+        "輕輕地靠近吧……！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "嗯，悄悄地……！\n黑猫先生，不要害怕，不要害怕哦～……！",
+      "Text": "嗯，輕輕地……！\n小黑貓～別害怕，別害怕喔……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我和米浴一起，悄悄地靠近黑猫。\n一瞬间，脚上有奇怪的感觉……！",
+      "Text": "我和米浴一起慢慢接近黑貓。\n突然，腳底傳來很奇怪的觸感……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -177,120 +177,120 @@
     },
     {
       "Name": "米浴",
-      "Text": "好疼……为什么这里会有两个香蕉皮呀～……！？\n哥哥，没事吧！？",
+      "Text": "好痛……為什麼這種地方會有兩個香蕉皮……！？\n大哥哥，你沒事吧！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "好疼……为什么这里会有两个香蕉皮呀～……！？\n姐姐，没事吧！？",
+      "Text": "好痛……為什麼這種地方會有兩個香蕉皮……！？\n大姐姐，妳沒事吧！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "慌忙站起来一看，黑猫已经不见了。\n甚至不知道是往哪边跑的……",
+      "Text": "慌忙站起來一看，黑貓早就已經不見了。\n就連跑去哪裡都不知道……",
       "ChoiceDataList": [
-        "（怎么办呢……）"
+        "（該怎麼辦……）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "……哥哥。我去问问周围的人，\n问他们『有没有看见一只黑猫』。",
+      "Text": "……大哥哥。\n我去向附近的人打聽看看，有沒有看到小黑貓。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "……姐姐。我去问问周围的人，\n问他们『有没有看见一只黑猫』。",
+      "Text": "……大姐姐。\n我去向附近的人打聽看看，有沒有看到小黑貓。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "这么说着，米浴站了起来，\n带着鼓起勇气的表情，开始向周围的人询问。",
+      "Text": "米浴這麼說完後站起身，\n露出鼓起勇氣的表情，開始詢問附近的人。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "啊，那……那个！！\u3000有没有看见一只黑猫……！？",
+      "Text": "請、請……請問！！你有沒有看到，一隻小黑貓……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "之后我也和米浴一起继续寻找着黑猫。\n然后在天快黑的时候，终于――！",
+      "Text": "之後我和米浴也不斷尋找黑貓。\n在快要天黑時，終於──！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "黑猫",
-      "Text": "喵呜～……",
+      "Name": "黑貓",
+      "Text": "喵……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "黑猫先生……！\n还叼着米浴的票……太好了……！",
+      "Text": "小黑貓……！\n還咬著米浴的票……太好了……！",
       "ChoiceDataList": [
-        "好，我去帮你拿回来吧",
-        "好，我去帮你拿回来吧"
+        "好，我來想辦法拿回來",
+        "好，我來想辦法拿回來"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "哥哥……谢谢你。",
+      "Text": "大哥哥……謝謝你。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "姐姐……谢谢你。",
+      "Text": "大姐姐……謝謝妳。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "但是，没问题的……米浴会加油的。\n因为我想自己努力。",
+      "Text": "不過，沒關係……米浴會努力的。\n米浴想要自己努力。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "那么……我去了。",
+      "Text": "那麼……米浴過去了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "这样说完后，米浴带着决意的表情\n向着黑猫所在的树丛前进――",
+      "Text": "米浴這麼說完後，露出下定決心的表情，\n往黑貓躲著的樹叢慢慢靠近──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "黑猫先生……！\n不，不要逃。请听我说。",
+      "Text": "小黑貓……！\n請、請不要逃，聽米浴說。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "那个票呢，是米浴非常重要的东西……\n所，所以，希望你能还给我……！",
+      "Text": "那張票，是米浴非常重要的東西……\n所、所以，希望你可以還給米浴……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "拜托了……喵……！",
+      "Text": "拜託你了……喵……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "黑猫",
-      "Text": "……喵。",
+      "Name": "黑貓",
+      "Text": "……喵啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -302,129 +302,129 @@
     },
     {
       "Name": "",
-      "Text": "黑猫放下票就离开了……！",
+      "Text": "黑貓把票放在地上離開了……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "黑猫先生……谢谢……！",
+      "Text": "小黑貓……謝謝你……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "太好了……也谢谢哥哥的帮忙……！",
+      "Text": "太好了……也謝謝大哥哥幫忙……！",
       "ChoiceDataList": [
-        "没有放弃去努力呢，米浴！"
+        "妳很努力堅持到最後呢，米浴！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "太好了……也谢谢姐姐的帮忙……！",
+      "Text": "太好了……也謝謝大姐姐幫忙……！",
       "ChoiceDataList": [
-        "没有放弃去努力呢，米浴！",
-        "没有放弃去努力呢，米浴！"
+        "妳很努力堅持到最後呢，米浴！",
+        "妳很努力堅持到最後哦，米浴！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "嗯……因为有哥哥和我一起。",
+      "Text": "嗯……因為有大哥哥，陪著米浴。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "嗯……因为有姐姐和我一起。",
+      "Text": "嗯……因為有大姐姐，陪著米浴。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "米浴呢，只要哥哥在身边的话……\n就觉得能一直加油，努力下去。",
+      "Text": "米浴覺得，只要有大哥哥陪在身邊……\n好像就可以一直告訴自己，要好好努力加油。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "米浴呢，只要姐姐在身边的话……\n就觉得能一直加油，努力下去。",
+      "Text": "米浴覺得，只要有大姐姐陪在身邊……\n好像就可以一直告訴自己，要好好努力加油。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "所以……所以呢，哥哥。",
+      "Text": "所以……所以，大哥哥。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "所以……所以呢，姐姐。",
+      "Text": "所以……所以，大姐姐。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "――请收下票！",
+      "Text": "──請收下這張票！",
       "ChoiceDataList": [
-        "诶，我吗！？",
-        "诶，我吗！？"
+        "咦，給我！？",
+        "咦，給我！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "那个，其实……是双人票来的。\n是给哥哥的礼物……想作为平时的回报。",
+      "Text": "那個，其實……這是雙人套票。\n想說要送給大哥哥……答謝你一直以來，對米浴的照顧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "那个，其实……是双人票来的。\n是给姐姐的礼物……想作为平时的回报。",
+      "Text": "那個，其實……這是雙人套票。\n想說要送給大姐姐……答謝你一直以來，對米浴的照顧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "一，一起，去吗……？\n还是说……果然会觉得麻烦吗，和米浴一起什么的……",
+      "Text": "可、可以和米浴一起去嗎……？\n還是說……這、這樣果然添麻煩了？才不想和米浴一起……",
       "ChoiceDataList": [
-        "没那回事，我很高兴哦！",
-        "没那回事，我很高兴哦！"
+        "才不會，我很高興！",
+        "才不會，我很高興哦！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "真的！？\u3000太，太好了～……！！",
+      "Text": "真的嗎！？太、太好了……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "但是，当我去确认舞台剧的日期时……",
+      "Text": "但就在我想要決定哪天去看而確認票券日期時……",
       "ChoiceDataList": [
-        "――这是，今天的票！？",
-        "――这是，今天的票！？"
+        "──這是當日票嗎！？",
+        "──這是當日票嗎！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "诶？\u3000今天的票……啊啊！！",
+      "Text": "咦？當日票……啊啊！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "真的是……！\u3000得，得赶紧去才行～！！",
+      "Text": "真的耶……！得、得快點才行～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我急忙和米浴跑进了舞台会场，\n总算是赶上了夜场……",
+      "Text": "我急急忙忙和米浴一起跑向舞台劇會場，\n總算趕上了晚上的場次……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

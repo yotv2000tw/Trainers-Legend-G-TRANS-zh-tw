@@ -1,139 +1,139 @@
 {
-    "Title": "保重身体！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "抱歉，训练员。\n让你陪我包扎伤口……",
-            "ChoiceDataList": [
-                "重点是你还会痛吗……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "啊啊，请别露出那么不安的表情。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "这点小伤不算什么，我也可以自己包扎……",
-            "ChoiceDataList": [
-                "我想帮你",
-                "这也是训练员的工作"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "这点小伤不算什么，我也可以自己包扎……",
-            "ChoiceDataList": [
-                "我想帮你",
-                "这也是训练员的工作哦"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "哎呀……听到这么可爱的话，\n我就无法拒绝了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "不过还请不要介意哦，\n一定很快就会好了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "训练员变得无精打采才会让我难过。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "……不，这是我造成的对吧。\n抱歉让你感到不安了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我安慰沮丧的超级溪流，让她好好静养。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "训练员……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "我知道了，那就麻烦你。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "……呵呵，这么可靠的训练员也很棒呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "好孩子、好孩子。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "超级溪流强打起精神似地笑着，\n看来她果然很沮丧。\n……我一边被她摸头一边照顾她。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "哎呀……哎呀哎呀，该怎么办。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "总是很可爱的训练员，\n表情变得这么成熟……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "总觉得胸口……非常火热～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "……呵呵。\n谢谢你，训练员。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "等伤好了之后，我会努力训练的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我手法纯熟地照顾她，\n让超级溪流露出开心的微笑。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "保重身體！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "抱歉，訓練員。\n讓你陪我包紮傷口……",
+      "ChoiceDataList": [
+        "重點是妳還會痛嗎……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "啊啊，請別露出那麼不安的表情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "這點小傷不算什麼，我也可以自己包紮……",
+      "ChoiceDataList": [
+        "我想幫妳",
+        "這也是訓練員的工作"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "這點小傷不算什麼，我也可以自己包紮……",
+      "ChoiceDataList": [
+        "我想幫妳",
+        "這也是訓練員的工作喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "哎呀……聽到這麼可愛的話，\n我就無法拒絕了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "不過還請不要介意喔，\n一定很快就會好了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "訓練員變得無精打采才會讓我難過。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "……不，這是我造成的對吧。\n抱歉讓你感到不安了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我安慰沮喪的超級小溪，讓她好好靜養。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "訓練員……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "我知道了，那就麻煩你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "……呵呵，這麼可靠的訓練員也很棒呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "好孩子、好孩子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "超級小溪強打起精神似地笑著，\n看來她果然很沮喪。\n……我一邊被她摸頭一邊照顧她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "哎呀……哎呀哎呀，該怎麼辦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "總是很可愛的訓練員，\n表情變得這麼成熟……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "總覺得胸口……非常火熱～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "……呵呵。\n謝謝你，訓練員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "等傷好了之後，我會努力訓練的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我手法純熟地照顧她，\n讓超級小溪露出開心的微笑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

@@ -1,62 +1,62 @@
 {
-    "Title": "因冷笑话而困惑",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我遇到了气槽，她看起来一副沮丧的样子……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "啊……我为什么没一开始就发现呢……",
-            "ChoiceDataList": [
-                "发生什么失误了吗？",
-                "发生什么失误了吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "是啊……我出了一个大糗……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "今天中午，会长讲话时频繁提到“大可”，\n“大可如此”、“大可不必”之类的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "我在想那是不是什么冷笑话，\n但当时我还听不出来……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "直到后来我才恍然大悟，会长的言外之意，\n原来是我那时喝的大杯可乐！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "明明答案打从一开始\n就在我手里了啊……唔。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "理由先姑且不论，\n她似乎真的很沮丧……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "因冷笑話而困惑",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我遇到了氣槽，她看起來一副沮喪的樣子……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "啊……我為什麼沒一開始就發現呢……",
+      "ChoiceDataList": [
+        "發生什麼失誤了嗎？",
+        "發生什麼失誤了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "是啊……我出了一個大糗……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "今天中午，會長講話時頻繁提到「大可」，\n「大可如此」、「大可不必」之類的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "我在想那是不是什麼冷笑話，\n但當時我還聽不出來……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "直到後來我才恍然大悟，會長的言外之意，\n原來是我那時喝的大杯可樂！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "明明答案打從一開始\n就在我手裡了啊……唔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "理由先姑且不論，\n她似乎真的很沮喪……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

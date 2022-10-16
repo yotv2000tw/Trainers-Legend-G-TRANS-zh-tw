@@ -1,62 +1,62 @@
 {
-    "Title": "时常熬夜……",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我在前往训练员室的路上\n遇见青云天空──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……呼啊～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "嗯嗯……好困～",
-            "ChoiceDataList": [
-                "你是不是睡太多午觉了？",
-                "你是不是睡太多午觉了？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "才不是～我最近迷上\n在睡前看国际象棋大赛的影片。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "如果是我就会这样进攻……\n原来还有这一步～之类的，非常有趣。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "真是激烈的交锋～\n希望未来我也能有机会跟他们交手。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "呼啊……\n虽然现在不太可能……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "看来在梦想中的棋局来临之前，\n青云天空会先输给睡魔。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "時常熬夜……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我在前往訓練員室的路上\n遇見了青雲天空──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……呼啊～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "嗯嗯……好睏～",
+      "ChoiceDataList": [
+        "妳是不是睡太多午覺了？",
+        "妳是不是睡太多午覺了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "才不是咧～\n是我最近迷上在睡前\n看西洋棋大賽的影片。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "然後就會想著，如果是我就會這樣進攻……\n或是原來還有這一步啊～之類的，非常有趣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "真的是很激烈的交鋒呢～\n希望未來我也能有機會跟他們交手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "呼啊……\n雖然現在還不可能……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看來在夢想中的對弈來臨之前，\n青雲天空就會先輸給睡魔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

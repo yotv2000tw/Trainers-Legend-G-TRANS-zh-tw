@@ -1,43 +1,43 @@
 {
-    "Title": "这次一定要获胜！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "今天的天气……从风速、湿度来考量……\n……嗯，应该可以。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "……让你久等了，训练员。\n理论修正完毕了。",
-            "ChoiceDataList": [
-                "你有多少自信？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "呵……真是个愚蠢的问题。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "理论越是精辟，就会变得越简洁。\n接下来就让你见识一下吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "见识这名为胜利的终极答案……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "這次一定要獲勝！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "今天的天氣……從風速、濕度來考量……\n……嗯，應該可以。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "……讓你久等了，訓練員。\n理論修正完畢了。",
+      "ChoiceDataList": [
+        "妳有多少自信？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "呵……真是個愚蠢的問題。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "理論越是精闢，就會變得越簡潔。\n接下來就讓你見識一下吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "見識這名為勝利的終極答案……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

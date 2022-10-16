@@ -1,160 +1,160 @@
 {
-    "Title": "保重身体！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "向Master报告。\n诊断结果为“损伤：轻微”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "虽然几率很低……\n但若能控制好力道，依旧可以继续运动。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "……请Master允许继续训练。\n几率再低我都会成功的。",
-            "ChoiceDataList": [
-                "我会担心，还是休息吧",
-                "……知道了，继续吧！",
-                "……知道了，继续吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "……请Master允许继续训练。\n几率再低我都会成功的。",
-            "ChoiceDataList": [
-                "我会担心，还是休息吧",
-                "……知道了，继续吧！",
-                "……知道了，继续吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "担心……吗……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "……已了解指示内容。\n让Master担心我深感抱歉。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "将改为实行作战行动“休养不让Master担心”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "就这样，\n美浦波旁开始疗伤……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "了解。\n将开始作战行动“控制力道继续训练”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "将顾虑损伤部位，调整力量输出。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "首先是一半，输出50％……！",
-            "ChoiceDataList": [
-                "等等！50％太危险──",
-                "等等！50％太危险──"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "……唔！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "（碰！）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "……唔！\n确认到伤处的……疼痛……",
-            "ChoiceDataList": [
-                "你还好吧！？",
-                "你还好吗！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "很、抱歉。\n50％的输出……似乎还是过于激烈了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "判断这种情况下做任何运动都会导致恶化，\n便让她安静休养了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "并未感到疼痛……输出50％过关。\n接下来是……55％──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "向Master报告。\n验证结果，最多可负荷65％的输出。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "我建议以此资料为基准，\n建立新的训练内容。",
-            "ChoiceDataList": [
-                "交给我吧！",
-                "交给我吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "是……\n无论是任何内容，我都会确实执行的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "为了不辜负信任我能成功控制的Master。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "成功控制好力道的美浦波旁\n确实完成了新的训练内容……\n并很快地恢复了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "保重身體！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "向教練報告。\n診斷結果為「損傷：輕微」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "雖然機率很低……\n但若能控制好力道，依舊可以繼續運動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……請教練允許繼續訓練。\n機率再低我都會成功的。",
+      "ChoiceDataList": [
+        "我會擔心，還是休息吧",
+        "……知道了，繼續吧！",
+        "……知道了，繼續吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……請教練允許繼續訓練。\n機率再低我都會成功的。",
+      "ChoiceDataList": [
+        "我會擔心，還是休息吧",
+        "……知道了，繼續吧！",
+        "……知道了，繼續吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "擔心……嗎……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……已了解指示內容。\n讓教練擔心我深感抱歉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "將改為實行作戰行動「休養不讓教練擔心」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，\n美浦波旁開始療傷……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "了解。\n將開始作戰行動「控制力道繼續訓練」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "將顧慮損傷部位，調整力量輸出。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "首先是一半，輸出50％……！",
+      "ChoiceDataList": [
+        "等等！50％太危險──",
+        "等等！50％太危險──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……唔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（碰！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……唔！\n確認到傷處的……疼痛……",
+      "ChoiceDataList": [
+        "妳還好吧！？",
+        "妳還好嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "很、抱歉。\n50％的輸出……似乎還是過於激烈了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "判斷這種情況下做任何運動都會導致惡化，\n便讓她安靜休養了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "並未感到疼痛……輸出50％過關。\n接下來是……55％──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "向教練報告。\n驗證結果，最多可負荷65％的輸出。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "我建議以此資料為基準，\n建立新的訓練內容。",
+      "ChoiceDataList": [
+        "交給我吧！",
+        "交給我吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "是……\n無論是任何內容，我都會確實執行的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "為了不辜負信任我能成功控制的教練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "成功控制好力道的美浦波旁\n確實完成了新的訓練內容……\n並很快地恢復了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

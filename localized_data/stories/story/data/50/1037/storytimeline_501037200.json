@@ -1,67 +1,67 @@
 {
-    "Title": "迎向出道战",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "出道战的日子终于到来，\n而荣进闪耀她──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "出道战"
-            ]
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "──30分钟之后就要起跑了呢。\n来做最后的确认吧。",
-            "ChoiceDataList": [
-                "你很冷静呢",
-                "你很冷静呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "因为没有必要紧张啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "为了今天，\n我跟训练员一起累积了大量的训练。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "接下来只要做好该做的事即可。\n不是吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "是这样没错，但还是有很多选手\n会因为情绪影响，无法冷静应对。",
-            "ChoiceDataList": [
-                "你果然很厉害呢",
-                "你果然很厉害呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "……才不厉害。\n我只是在做该做的事。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "──起跑前25分钟。\n好了，我要上场了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向出道戰",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "閃耀出道戰的日子終於到來，\n而榮進閃耀她──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "閃耀出道戰"
+      ]
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "──30分鐘之後就要起跑了呢。\n來做最後的確認吧。",
+      "ChoiceDataList": [
+        "妳很冷靜呢",
+        "妳很冷靜呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "因為沒有必要緊張啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "為了今天，\n我跟訓練員一起累積了大量的訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "接下來只要做好該做的事即可。\n不是嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "是這樣沒錯，但還是有很多選手\n會因為情緒影響，無法冷靜應對。",
+      "ChoiceDataList": [
+        "妳果然很厲害呢",
+        "妳果然很厲害呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……才不厲害。\n我只是在做該做的事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "──起跑前25分鐘。\n好了，我要上場了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

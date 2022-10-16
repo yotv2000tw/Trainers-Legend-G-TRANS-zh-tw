@@ -1,55 +1,55 @@
 {
-    "Title": "不服输",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "再过不久就要开始训练了。\n当我正在寻找草上飞时──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "唔～没办法顺利投进去……\n是不是手腕的施力方式不对呢……？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "啊……训练员，不好意思。\n训练的时间快到了吗？",
-            "ChoiceDataList": [
-                "你在做什么呢？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "我正在进行罚球特训。\n因为我答应要跟班上的同学们比篮球……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "无论是什么比赛，只要决定参加了，\n我就不想输。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "……不好意思，\n距离训练开始应该还有五分钟吧？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "由于直到训练开始的前一刻，\n草上飞都不断地在练习罚球，\n因此体力消耗得比平常还要多的样子。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "不服輸",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "再過不久就要開始訓練了。\n當我正在尋找草上飛時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "唔～沒辦法順利投進去……\n是不是手腕的施力方式不對呢……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "啊……訓練員，不好意思。\n訓練的時間快到了嗎？",
+      "ChoiceDataList": [
+        "妳在做什麼呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "我正在進行罰球特訓。\n因為我答應要跟班上的同學們比籃球……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "無論是什麼比賽，只要決定參加了，\n我就不想輸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "……不好意思，\n距離訓練開始應該還有五分鐘吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "由於直到訓練開始的前一刻，\n草上飛都不斷地在練習罰球，\n因此體力消耗得比平常還要多的樣子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

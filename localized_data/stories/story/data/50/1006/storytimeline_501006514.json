@@ -1,302 +1,302 @@
 {
-    "Title": "小栗帽是森林的导览赛马娘？",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我和小栗帽在训练结束后的回程路上，\n看见玉藻十字正在\n安慰一个哭泣的小孩。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "交给我吧！管他是一只狗还两只狗，\n我一下就能找到了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "……怎么了呢？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "根据小孩所说，他在遛狗时\n不小心让狗往森林的方向跑走，\n而玉藻十字已经去帮忙找的样子。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "……太阳要下山了。晚上的森林很危险。\n我也去帮忙。",
-            "ChoiceDataList": [
-                "我也一起去"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "谢谢。\n那就赶快出发吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "有脚印。还很新……\n应该是小玉的。追上去吧。",
-            "ChoiceDataList": [
-                "得做记号才行"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "不需要。因为有树木在。\n这就能当记号了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "小栗帽果断地前进。\n我虽然感到不安，但还是跟在她后面\n以免走散。结果──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "糟糕……狗是找到了，不过完全迷路了。\n这样下去，我会和狗一起被搜救。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "如果他们“小狗、小玉～”这样喊，\n那我不就跟猫咪没两样了吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "听到请喵喵叫～\n在搞啥啊！我可是赛马娘耶！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "你好像玩得很开心。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "唔哦！？小、小栗和训练员！？\n在的话就出个声啊～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "狗就坐在玉藻十字脚边。\n我和小栗帽向她说明，我们是在\n听到事情经过后跑来找她的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "所以，你们也迷路了啊。\n总觉得有点对不起你们。",
-            "ChoiceDataList": [
-                "其实是小栗帽带头的……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "那怎么行。小栗她不管\n在学校还是路上都老是迷路。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "没办法了。这只狗也只是很亲近人，\n完全靠不住，只能由我来想办法走出森林──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "我知道了，往这边。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "啊，慢着！给你带路还得了啊！\n反而会更走不出去吧～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "没有错，这个树木和树丛，还有土的触感，\n是刚才经过的路。往这里。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "虽然很暗看不见脚印……不过刚才有看到\n这棵树干。接着在这边转弯。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "哦哦！？感觉还真可靠啊……！\n对吧？训练员！",
-            "ChoiceDataList": [
-                "真的很可靠！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "是、是吗？谢谢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "……嗯。没问题的，交给我。\n我会确实带路的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我们跟着脸上充满自信的\n小栗帽走──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "没想到居然完全没有迷路，\n走到了森林外头！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "出来了──！真的假的啊！\n小栗，你还真有一套！",
-            "ChoiceDataList": [
-                "太厉害了，谢谢你！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "因为树木、树丛的形状以及土壤的触感\n每个地方都不同。比街上还要好认。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "得救了，谢啦！\n小栗只要肯做就办得到嘛。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "……这很一般。没什么大不了的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "哈哈，别谦虚啦！\n总之得救了！谢谢你！",
-            "ChoiceDataList": [
-                "小栗帽，辛苦你了！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "我有帮上小玉和训练员了啊。\n……这说不定是第一次。",
-            "ChoiceDataList": [
-                "我一直都有受到你的帮助哦",
-                "之后也要麻烦你帮忙了"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "是吗？我还以为都是\n你在帮我……这样啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "如果我有在无意间回报恩情的话，\n那就太好了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "嗯……我之后也会持续精进，\n努力回报恩情的，所以有需要尽管说。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "麻烦我帮忙……这、这样啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "原来除了跑步以外，\n我还帮得上其他忙啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "……嗯，太好了。\n之后也不用客气，找我帮忙吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "嗯、嗯，我很期待哦！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "那么，把狗送回去吧！\n它主人家好像在车站附近，从这里去的话──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "这边吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "喂，你要去哪啊！不是那边吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小栗帽",
-            "Text": "唔，那是这边吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "玉藻十字",
-            "Text": "完全相反啊！\n为什么在森林里不会迷路，在这里却会迷路啊！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "之后，在玉藻十字的带领下，\n平安将狗送回小孩家了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "小栗帽是森林的導覽賽馬娘？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我和小栗帽在訓練結束後的回程路上，\n看見玉藻十字正在\n安慰一個哭泣的小孩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "交給我吧！管他是一隻狗還兩隻狗，\n我一下就能找到了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "……怎麼了呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "根據小孩所說，他在遛狗時\n不小心讓狗往森林的方向跑走，\n而玉藻十字已經去幫忙找的樣子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "……太陽要下山了。晚上的森林很危險。\n我也去幫忙。",
+      "ChoiceDataList": [
+        "我也一起去"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "謝謝。\n那就趕快出發吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "有腳印。還很新……\n應該是小玉的。追上去吧。",
+      "ChoiceDataList": [
+        "得做記號才行"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "不需要。因為有樹木在。\n這就能當記號了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "小栗帽果斷地前進。\n我雖然感到不安，但還是跟在她後面\n以免走散。結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "糟糕……狗是找到了，不過完全迷路了。\n這樣下去，我會和狗一起被搜救。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "如果他們「小狗、小玉～」這樣喊，\n那我不就跟貓咪沒兩樣了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "聽到請喵喵叫～\n在搞啥啊！我可是賽馬娘耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "妳好像玩得很開心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "唔喔！？小、小栗和訓練員！？\n在的話就出個聲啊～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狗就坐在玉藻十字腳邊。\n我和小栗帽向她說明，我們是在\n聽到事情經過後跑來找她的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "所以，你們也迷路了啊。\n總覺得有點對不起你們。",
+      "ChoiceDataList": [
+        "其實是小栗帽帶頭的……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "那怎麼行。小栗她不管\n在學校還是路上都老是迷路。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "沒辦法了。這隻狗也只是很親近人，\n完全靠不住，只能由我來想辦法走出森林──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "我知道了，往這邊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "啊，慢著！給妳帶路還得了啊！\n反而會更走不出去吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "沒有錯，這個樹木和樹叢，還有土的觸感，\n是剛才經過的路。往這裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "雖然很暗看不見腳印……不過剛才有看到\n這棵樹幹。接著在這邊轉彎。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "喔喔！？感覺還真可靠啊……！\n對吧？訓練員！",
+      "ChoiceDataList": [
+        "真的很可靠！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "是、是嗎？謝謝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "……嗯。沒問題的，交給我。\n我會確實帶路的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們跟著臉上充滿自信的\n小栗帽走──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "沒想到居然完全沒有迷路，\n走到了森林外頭！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "出來了──！真的假的啊！\n小栗，妳還真有一套！",
+      "ChoiceDataList": [
+        "太厲害了，謝謝妳！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "因為樹木、樹叢的形狀以及土壤的觸感\n每個地方都不同。比街上還要好認。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "得救了，謝啦！\n小栗只要肯做就辦得到嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "……這很一般。沒什麼大不了的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "哈哈，別謙虛啦！\n總之得救了！謝謝妳！",
+      "ChoiceDataList": [
+        "小栗帽，辛苦妳了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "我有幫上小玉和訓練員了啊。\n……這說不定是第一次。",
+      "ChoiceDataList": [
+        "我一直都有受到妳的幫助哦",
+        "之後也要麻煩你幫忙了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "是嗎？我還以為都是\n你在幫我……這樣啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "如果我有在無意間回報恩情的話，\n那就太好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "嗯……我之後也會持續精進，\n努力回報恩情的，所以有需要儘管說。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "麻煩我幫忙……這、這樣啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "原來除了跑步以外，\n我還幫得上其他忙啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "……嗯，太好了。\n之後也不用客氣，找我幫忙吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "嗯、嗯，我很期待哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "那麼，把狗送回去吧！\n牠主人家好像在車站附近，從這裡去的話──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "這邊吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "喂，妳要去哪啊！不是那邊吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "唔，那是這邊嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "完全相反啊！\n為什麼在森林裡不會迷路，在這裡卻會迷路啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之後，在玉藻十字的帶領下，\n平安將狗送回小孩家了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

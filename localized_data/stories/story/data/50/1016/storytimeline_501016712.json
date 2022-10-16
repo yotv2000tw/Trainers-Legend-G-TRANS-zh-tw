@@ -1,76 +1,76 @@
 {
-    "Title": "缺席的理由……",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "成田白仁没有来参加训练。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "当我前去找她时，\n结果在附近的澡堂看到了熟悉的身影……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "成田白仁",
-            "Text": "呼……\n这温泉真棒。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "成田白仁",
-            "Text": "特别好的温泉，\n就得配上这个才行……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "成田白仁",
-            "Text": "咕噜咕噜……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "成田白仁",
-            "Text": "噗哈！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "成田白仁",
-            "Text": "……呵呵，好舒畅。\n沁凉感都渗透进五脏六腑了。",
-            "ChoiceDataList": [
-                "白仁？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "成田白仁",
-            "Text": "嗯，训练员？\n你为什么在这里……",
-            "ChoiceDataList": [
-                "训练时间已经过咯",
-                "训练时间已经过咯"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "成田白仁",
-            "Text": "……我泡太久了吗。\n……抱歉。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我告诫成田白仁，\n叫她下次一定要注意……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "缺席的理由……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "成田白仁沒有來參加訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "當我前去找她時，\n結果在附近的澡堂看到了熟悉的身影……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "呼……\n這溫泉真棒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "特別好的溫泉，\n就得配上這個才行……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "咕嚕咕嚕……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "噗哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "……呵呵，好舒暢。\n沁涼感都滲透進五臟六腑了。",
+      "ChoiceDataList": [
+        "白仁？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "嗯，訓練員？\n你為什麼在這裡……",
+      "ChoiceDataList": [
+        "訓練時間已經過囉",
+        "訓練時間已經過囉"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "……我泡太久了嗎。\n……抱歉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我告誡成田白仁，\n叫她下次一定要注意……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

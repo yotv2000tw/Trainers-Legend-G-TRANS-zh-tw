@@ -1,38 +1,38 @@
 {
-    "Title": "迎向樱花赏",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "起跑之时将近，\n气槽难得盯着自己的手机看。",
-            "ChoiceDataList": [
-                "怎么了吗？",
-                "怎么了吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "……多伯好像来到会场了。\n我刚刚收到她的讯息。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "我得让她看到才行。\n看到我的──挑战。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "感觉气槽的干劲变得更加高涨。\n再来就只有相信她，送她上阵了……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向櫻花賞",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "起跑之時將近，\n氣槽難得盯著自己的手機看。",
+      "ChoiceDataList": [
+        "怎麼了嗎？",
+        "怎麼了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……多伯好像來到會場了。\n我剛剛收到她的訊息。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "我得讓她看到才行。\n看到我的──挑戰。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "感覺氣槽的幹勁變得更加高漲。\n再來就只有相信她，送她上陣了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

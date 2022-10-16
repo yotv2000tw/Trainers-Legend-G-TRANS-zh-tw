@@ -1,56 +1,56 @@
 {
-    "Title": "迎向菊花赏",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众A",
-            "Text": "那场德比真的太棒了～！！\nBNW的认真对决！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众B",
-            "Text": "她们三个在“菊花赏”会变得更强吧！\n真令人期待～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "大家期待的心情，\n都传到休息室了～～～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "大进跟晨光也在，\n一定会像德比一样有看头的！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "为了带给大家热血的比赛，\n我得努力跑才行！",
-            "ChoiceDataList": [
-                "你就全力奔跑吧！",
-                "你就全力奔跑吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "嗯，交给我吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "继德比后，这场比赛会再次震撼\n观众的内心吗──“菊花赏”开跑了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向菊花賞",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "那場打比真的太棒了～！！\nBNW的認真對決！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "她們三個在「菊花賞」會變得更強吧！\n真令人期待～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "大家期待的心情，\n都傳到休息室了～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "大進跟晨光也在，\n一定會像打比一樣有看頭的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "為了帶給大家熱血的比賽，\n我得努力跑才行！",
+      "ChoiceDataList": [
+        "妳就全力奔跑吧！",
+        "妳就全力奔跑吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "嗯，交給我吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "繼打比後，這場比賽會再次震撼\n觀眾的內心嗎──「菊花賞」開跑了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

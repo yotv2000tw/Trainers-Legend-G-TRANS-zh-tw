@@ -1,5 +1,5 @@
 {
-  "Title": "因头痛而忧郁",
+  "Title": "因頭痛而憂鬱",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,63 +9,63 @@
     },
     {
       "Name": "",
-      "Text": "偶然、ナリタタイシンの姿を見かけたので\r\n声をかけようと思ったら――",
+      "Text": "當我偶然看到成田大進，\n正要跟她打招呼時──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "……っ！\r\nそれ以上、近づかないで！",
+      "Name": "成田大進",
+      "Text": "……！\n你不要再靠近我了！",
       "ChoiceDataList": [
-        "诶！？"
+        "咦！？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "今はチケットやアンタみたいな\r\n騒がしいヤツの相手する余裕ないの。",
+      "Name": "成田大進",
+      "Text": "我現在沒有餘力\n應付你跟獎券這種吵翻天的傢伙。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "いつもの調子でわーわー喋られると、\r\n頭が割れそうになる……！",
+      "Name": "成田大進",
+      "Text": "再聽到你們跟平常一樣嘰哩呱啦的話，\n我的頭就要爆了……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "……近づいたら、\r\n本気で蹴っ飛ばすから。",
+      "Name": "成田大進",
+      "Text": "……如果你敢靠近，\n我真的會把你踢飛喔。",
       "ChoiceDataList": [
-        "今天的训练，要暂停一天吗？",
-        "今日のトレーニング、中止する？"
+        "今天的訓練要中止嗎？",
+        "今天的訓練要中止嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "まさか！\r\nちょっと休めば治るし――",
+      "Name": "成田大進",
+      "Text": "怎麼可能！\n我稍微休息一下就好了──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "唔唔唔……！",
+      "Name": "成田大進",
+      "Text": "唔唔！",
       "ChoiceDataList": [
-        "……看来还是安静些吧。",
-        "やっぱり安静にしていた方がいいよ"
+        "還是靜養一下比較好",
+        "還是靜養一下比較好"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "ああ、もう……！\r\n保健室行ってくる！\u3000それでいいでしょ！",
+      "Name": "成田大進",
+      "Text": "啊，真是……！\n那我去保健室！這樣可以了吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "手負いの獣のようにこちらを警戒しながら、\r\nナリタタイシンは去っていったのだった。",
+      "Text": "成田大進像頭受傷的野獸般對我保持警戒，\n直接離開。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

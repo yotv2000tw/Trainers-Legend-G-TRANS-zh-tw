@@ -1,49 +1,49 @@
 {
-    "Title": "迎向URA决胜系列赛预赛",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "“URA决胜系列赛”。让所有赛马娘\n在最合适的条件下，竞逐巅峰的竞赛。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "预赛终于要开始了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "骏川手纲",
-            "Text": "训练员，\n为<chrname>送行辛苦了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "骏川手纲",
-            "Text": "终于来到这个时刻了。\n身为你们两位的粉丝，我也非常高兴。",
-            "ChoiceDataList": [
-                "要让大家见识最棒的竞赛！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "骏川手纲",
-            "Text": "呵呵呵，嗯。\n我会期待的！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "“URA决胜系列赛”──\n预赛的闸门，即将开启！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向URA決勝系列賽預賽",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "「URA決勝系列賽」。讓所有賽馬娘\n在最合適的條件下，競逐巔峰的競賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "預賽終於要開始了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "訓練員，\n為<chrname>送行辛苦了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "終於來到這個時刻了。\n身為你們兩位的粉絲，我也非常高興。",
+      "ChoiceDataList": [
+        "要讓大家見識最棒的競賽！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "呵呵呵，嗯。\n我會期待的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "「URA決勝系列賽」──\n預賽的閘門，即將開啟！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

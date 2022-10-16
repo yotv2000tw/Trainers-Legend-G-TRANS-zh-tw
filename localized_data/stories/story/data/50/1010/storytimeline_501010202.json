@@ -1,57 +1,57 @@
 {
-    "Title": "迎向NHK英里杯",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "哇哦！\nGⅠ果然气氛非常热！",
-            "ChoiceDataList": [
-                "你会紧张吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "No、no！我兴奋得停不下来！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "我会在big race留下big的成果，\n往“年度代表赛马娘”迈进的！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "再说，GⅠ有很多强悍的赛马娘，\n跑起来铁定很开心！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "让我凌晨瑟瑟发抖呢！",
-            "ChoiceDataList": [
-                "那应该叫临阵抖擞吧？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "Oh！我有些地方搞错了！\n呵呵，还请见谅！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "大树快车",
-            "Text": "那么！\nShow time要开始了！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向NHK一哩賽",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "哇喔！\nGⅠ果然氣氛非常熱！",
+      "ChoiceDataList": [
+        "妳會緊張嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "No、no！我興奮得停不下來！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "我會在big race留下big的成果，\n往「年度代表賽馬娘」邁進的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "再說，GⅠ有很多強悍的賽馬娘，\n跑起來鐵定很開心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "讓我凌晨瑟瑟發抖呢！",
+      "ChoiceDataList": [
+        "那應該叫臨陣抖擻吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "Oh！我有些地方搞錯了！\n呵呵，還請見諒！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "那麼！\nShow time要開始了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

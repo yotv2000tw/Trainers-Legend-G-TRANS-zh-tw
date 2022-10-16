@@ -1,5 +1,5 @@
 {
-  "Title": "机翼，完全展开！",
+  "Title": "展翅高飛！",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,354 +8,354 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "在海边的集训设施住宿，\r\n以提升实力为目标的夏季集训的第一天。",
+      "Name": "獨白",
+      "Text": "今天是為了提升實力而住宿在臨海設施的夏季集訓首日。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "自由时间的时候，我去看了一眼摩耶重炮――",
+      "Name": "獨白",
+      "Text": "我在自由時間的時候，去看了重砲的狀況──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "啊～～～，终于完成了～～～！！",
+      "Name": "重砲",
+      "Text": "啊～～～終於結束了～～～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "真是ー，集训明明是为了训练，\r\n为什么还要留平常课程的作业呢～……",
+      "Name": "重砲",
+      "Text": "受不了，明明就是為了要訓練的集訓，\n為什麼還會出平常上課的作業啊……",
       "ChoiceDataList": [
-        "作业，是你自己好好做的吗！",
-        "作业，是你自己好好做的吗！"
+        "妳主動做作業了嗎！",
+        "妳主動做作業了啊！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "诶？\u3000啊，训练员！",
+      "Name": "重砲",
+      "Text": "咦？啊，訓練員！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "哼哼ー，是这样ー！！\r\n虽然超～～～～～级无聊，但我还是好好做了♪",
+      "Name": "重砲",
+      "Text": "嘿嘿，沒有錯！！\n雖然真的超～～～～～無聊的，不過我有乖乖寫完喔♪",
       "ChoiceDataList": [
-        "了不起呢，摩耶！",
-        "了不起呢，摩耶！"
+        "妳真了不起！",
+        "妳真了不起呢！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "诶嘿嘿，是吧是吧～～～！",
+      "Name": "重砲",
+      "Text": "嘿嘿，對吧對吧～～～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "虽然之前你说的『意义』，\r\n我还没有找到――",
+      "Name": "重砲",
+      "Text": "雖然我還沒找到你之前說的「意義」──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "但为了寻找到那个，\r\n我还是想继续试着做。",
+      "Name": "重砲",
+      "Text": "不過為了找出意義，\n我想說總之就先持續努力看看吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "啊，对了！\u3000呐呐，训练员！\r\n作为写完作业的奖励！\u3000去海边吧，海边！\u3000可以吧？",
+      "Name": "重砲",
+      "Text": "啊，對了！那個啊，訓練員！\n獎勵我寫完作業！去海邊玩吧，海邊！可以吧？",
       "ChoiceDataList": [
-        "好，走吧！",
-        "好，走吧！"
+        "好，我們走！",
+        "好，我們走吧！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "太好了ー！\u3000那就快点――",
+      "Name": "重砲",
+      "Text": "耶！那就立刻──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "认真的马娘",
-      "Text": "摩耶同学，我听老师说了哦！\r\n你真厉害。",
+      "Name": "認真的賽馬娘",
+      "Text": "重砲同學，我聽老師說了！\n妳真厲害。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "诶？\u3000什么？？",
+      "Name": "重砲",
+      "Text": "咦？什麼厲害？？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "认真的马娘",
-      "Text": "之前的小测试！\u3000你不是用了课上没教过的\r\n公式解出了答案吗？",
+      "Name": "認真的賽馬娘",
+      "Text": "就是之前的小考！妳用了上課沒教的公式，\n解出了答案吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "认真的马娘",
-      "Text": "老师说『因为你考试总是很早答完，所以很在意』。\r\n她还表扬你说『用的算式效率非常高』哦！",
+      "Name": "認真的賽馬娘",
+      "Text": "老師有稱讚妳喔！她說「一直都很好奇為什麼妳考試寫這麼快」，\n還說「這是很有效率的算法」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "这、这样吗？\r\n我还以为大家都是这样的解法……",
+      "Name": "重砲",
+      "Text": "真、真的嗎？\n我還以為大家都用同樣的算法去解……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "认真的马娘",
-      "Text": "摩耶同学，上课总是在打瞌睡嘛。\r\n老师还说，『希望你在下次课上讲解一下』哦？",
+      "Name": "認真的賽馬娘",
+      "Text": "因為重砲同學上課都在睡覺。\n老師還說「希望下次上課時可以向大家介紹妳」哦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "认真的马娘",
-      "Text": "呐，可能有点厚脸皮……\r\n如果可以的话，下次能私下里教我学习吗？",
+      "Name": "認真的賽馬娘",
+      "Text": "那個，這樣可能有點厚臉皮……\n妳不介意的話，下次可以單獨教我功課嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "啊……嗯，嗯！\u3000可以哦！\u3000当然！",
+      "Name": "重砲",
+      "Text": "啊……好、好啊！可以！當然沒問題！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "认真的马娘",
-      "Text": "太好了！\u3000谢谢！\u3000我一直以为摩耶同学和我不是一个\r\n类型的，所以到现在都感觉很难搭上话……",
+      "Name": "認真的賽馬娘",
+      "Text": "太好了！謝謝妳！我以前都覺得重砲同學跟我是不同類型的人，\n一直以來都很難向妳搭話……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "认真的马娘",
-      "Text": "能打上招呼真是太好了！\u3000我很期待呢！",
+      "Name": "認真的賽馬娘",
+      "Text": "有找妳說話真是太好了！我會很期待的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "……那个。\r\n训练员……走吧。",
+      "Name": "重砲",
+      "Text": "……呃。\n訓練員……走吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "摩耶重炮拉着我的手，往宿舍外面走。",
+      "Name": "獨白",
+      "Text": "重砲牽著我的手，來到了集訓宿舍的外頭。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "………………呼哇。",
+      "Name": "重砲",
+      "Text": "………………哇。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "哇啊……哇啊啊啊啊～……！！\r\n呐呐呐，训练员！\u3000刚才你听到了吗！？",
+      "Name": "重砲",
+      "Text": "哇……哇啊啊……！！\n我說我說我說，訓練員！你剛才有聽到嗎！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "Maya，还是第一次那样被表扬哦！\r\n而且还交到了新的朋友！",
+      "Name": "重砲",
+      "Text": "還是第一次有人那樣誇我的課業！\n而且還交到了新朋友！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "这样啊，老师说让我『把式子写出来』，\r\n是在意Maya怎么解答出来的呢。",
+      "Name": "重砲",
+      "Text": "這樣啊，老師叫我要「寫出算式」，\n原來是想知道我是怎麼算出答案的啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "……那个啊，对于迄今为止大家的『不懂』，Maya\r\n有时会想『为什么会不懂呢』来着。",
+      "Name": "重砲",
+      "Text": "……其實啊，對於大家「不懂」的事情，\n我以前有時候會覺得「為什麼會不懂」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "但，这一定是因为大家的“做法”不同！",
+      "Name": "重砲",
+      "Text": "但是，這一定是因為大家的「做法」不同！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "像算式和跑法不同一样，\r\n大家都有各自的做法，所以才会有烦恼吧！",
+      "Name": "重砲",
+      "Text": "就像算法或跑法不同一樣，\n每個人都有各自的做法，所以才會感到煩惱！",
       "ChoiceDataList": [
-        "彼此了解之后，或许就能开阔视野",
-        "彼此了解之后，或许就能开阔视野"
+        "只要知道大家的做法，應該就能拓展視野",
+        "只要知道大家的做法，應該就能拓展視野呢"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "是吧是吧！\u3000Maya现在，心情就像\r\n眼前的乌云啪啪地散去，然后蓝天咚咚地出现的感觉！",
+      "Name": "重砲",
+      "Text": "沒錯沒錯！我現在的心情，\n就像眼前那團雲「啪！」地消失，然後晴空「咚！」地出現！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "……这样啊。“做作业”的话，也可能有跟大家不同\r\n只对Maya有的意义在吧！",
+      "Name": "重砲",
+      "Text": "……原來如此。也許「做功課」這件事也有跟大家不同，\n專屬於我的意義！",
       "ChoiceDataList": [
-        "比如说？"
+        "譬如說？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "那个……为了让老师了解Maya！\r\n『Maya是这样做的哦』的去沟通！",
+      "Name": "重砲",
+      "Text": "就是……為了讓老師認識我！\n就像是種溝通，告訴老師「我是這樣做的」！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "然后呢然后呢，了解了Maya的老师\r\n再把Maya的做法推广给大家……",
+      "Name": "重砲",
+      "Text": "然後呢然後呢，老師認識我之後，\n再向大家介紹我……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "大家的关系变得比现在更要好！",
+      "Name": "重砲",
+      "Text": "我和大家的感情就能變得更好！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "呐呐！\u3000这个，不仅是老师和朋友，\r\n训练员也可以这么做吧！？",
+      "Name": "重砲",
+      "Text": "我問你哦！不只是老師和朋友，\n我也能和訓練員這麼做嗎！？",
       "ChoiceDataList": [
-        "我来留作业吗？",
-        "我来留作业吗？"
+        "要我出作業嗎？",
+        "要我出作業？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "嗯！\u3000因为是训练员ー……\r\n果然会留跑步的作业吧？",
+      "Name": "重砲",
+      "Text": "嗯！因為是訓練員……\n所以會是練習跑步的作業吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "为Maya而考虑的，只属于Maya的作业……",
+      "Name": "重砲",
+      "Text": "為我而想，只屬於我的作業……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "这样即使在没有训练员的地方，\r\n也能感觉得到Maya和训练员之间有着联系吧！？",
+      "Name": "重砲",
+      "Text": "就算訓練員不在身邊，\n也有種跟訓練員連結在一起的感覺吧！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "这么一想的话，就觉得再麻烦的作业，\r\n也变得不那么麻烦了！",
+      "Name": "重砲",
+      "Text": "這麼想之後，原本很煩的作業，\n好像變得稍微沒那麼煩了！",
       "ChoiceDataList": [
-        "你长大了呢",
-        "你长大了呢"
+        "妳變成熟囉",
+        "妳變成熟了呢"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "诶，真的！？\r\n现在的Maya，像个大人了吗！？",
+      "Name": "重砲",
+      "Text": "咦，真的嗎！？\n我剛才很像大人！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "诶嘿嘿……诶嘿嘿嘿嘿嘿嘿～！！\r\n是吗～，Maya，越来越接近成熟的女性了啊～！！",
+      "Name": "重砲",
+      "Text": "嘿嘿……嘿嘿嘿嘿嘿嘿嘿～！！\n這樣啊～我越來越像大人了～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "那么那么～……训练员！",
+      "Name": "重砲",
+      "Text": "那麼那麼……訓練員！",
       "ChoiceDataList": [
-        "怎么了？"
+        "什麼？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "那个啊。\r\n――给我，属于大人的奖励吧ー♪",
+      "Name": "重砲",
+      "Text": "就是啊。\n──給我大人的獎勵♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "照着摩耶重炮的要求，\r\n我们来到了夜晚的沙滩上。",
+      "Name": "獨白",
+      "Text": "在重砲的強烈希望下，我們來到了夜晚的海灘。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "哇啊啊～～～！\r\n星星，好漂亮！\u3000大海，好漂亮！！",
+      "Name": "重砲",
+      "Text": "哇～～～！\n星星好漂亮！大海好美！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "还有海浪的声音，静静地沙沙响着……\r\n嗯～，简直就是大人的感觉～！！",
+      "Name": "重砲",
+      "Text": "而且，海浪聲也靜靜地「嘩嘩～」作響……\n嗯～這正是大人的感覺～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "我记得，对面有块很好坐的石头。\r\n去那边吧，训练员！",
+      "Name": "重砲",
+      "Text": "我記得那邊好像有塊適合坐下的岩石對吧。\n我們走過去吧，訓練員！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "坐下来，在安静的氛围中聊聊天！\r\n很有大人的感觉吧～！？",
+      "Name": "重砲",
+      "Text": "我們就坐在那邊，在寧靜的氣氛下聊著天！\n這正是大人的感覺對吧～！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "于是，我们向那边走去――",
+      "Name": "獨白",
+      "Text": "於是，我們到了岩石附近──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "情侣中的男方",
-      "Text": "来，闭上眼睛……",
+      "Name": "情侶的男方",
+      "Text": "來，閉上眼睛……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "情侣中的女方",
+      "Name": "情侶的女方",
       "Text": "嗯……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "哈哇……",
+      "Name": "重砲",
+      "Text": "哇……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "摩耶重炮",
-      "Text": "啊哇哇，哇哇哇哇哇～～～～～！！",
+      "Name": "重砲",
+      "Text": "啊哇哇哇哇哇哇哇～～～～～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "……第二天，摩耶重炮稍微有点发烧。",
+      "Name": "獨白",
+      "Text": "……隔天，重砲有點輕微發燒。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

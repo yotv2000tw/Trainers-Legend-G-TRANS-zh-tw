@@ -1,60 +1,60 @@
 {
-    "Title": "迎向二月S",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "终于要挑战二月锦标了。\n要是一般的赛马娘，\n比赛前应该都会很紧张……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "二月锦标"
-            ]
-        },
-        {
-            "Name": "春丽",
-            "Text": "你看你看，外面好厉害哦！\n观众比之前多了一倍！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "春丽",
-            "Text": "难道是今天\n有什么好玩的活动吗──？",
-            "ChoiceDataList": [
-                "我想是因为有GⅠ吧……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "春丽",
-            "Text": "驹～万……？\n啊，我有听过──！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "春丽",
-            "Text": "好好哦～这名字好帅气呢～\n我开始有兴趣了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "春丽",
-            "Text": "比赛结束后，\n我们一起去看驹～万吧──！",
-            "ChoiceDataList": [
-                "……那就先去努力比赛吧！",
-                "……那就先去努力比赛吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "春丽",
-            "Text": "嗯！\n我出发咯──！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向二月S",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "終於要挑戰二月錦標賽了。\n要是一般的賽馬娘，\n比賽前應該都會很緊張……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "二月錦標賽"
+      ]
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "你看你看，外面好厲害喔！\n觀眾比之前多了一倍！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "難道是今天\n有什麼好玩的活動嗎──？",
+      "ChoiceDataList": [
+        "我想是因為有GⅠ吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "駒～萬……？\n啊，我有聽過──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "好好喔～這名字好帥氣呢～\n我開始有興趣了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "比賽結束後，\n我們一起去看駒～萬吧──！",
+      "ChoiceDataList": [
+        "……那就先去努力比賽吧！",
+        "……那就先去努力比賽吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "嗯！\n我出發囉──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

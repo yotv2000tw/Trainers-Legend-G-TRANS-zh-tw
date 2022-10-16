@@ -1,58 +1,58 @@
 {
-    "Title": "夏季集训（第3年）结束",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金船",
-            "Text": "嘟噜噜噜噜噜……咚！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金船",
-            "Text": "合计总共七个！！请问这是什么数字呢～！？",
-            "ChoiceDataList": [
-                "你在集训劈开的西瓜数量",
-                "你在集训捡到蝉的空壳数量"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金船",
-            "Text": "答错了～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金船",
-            "Text": "正确答案是\n“麦昆身上超漂漂的别针数量”～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "麦昆"
-            ]
-        },
-        {
-            "Name": "",
-            "Text": "──根本和夏季集训没有关系！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金船",
-            "Text": "你没答对，就请你走路回学园啦～！掰！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……我在被黄金船丢下之前，\n慌忙挤上了巴士！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "夏季集訓（第3年）結束",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "嘟嚕嚕嚕嚕嚕……咚！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "合計總共七個！！請問這是什麼數字呢～！？",
+      "ChoiceDataList": [
+        "妳在集訓劈開的西瓜數量",
+        "妳在集訓撿到蟬的空殼數量"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "答錯了～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "正確答案是\n「麥昆身上超漂漂的別針數量」～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "麥昆"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "──根本和夏季集訓沒有關係！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "你沒答對，就請你走路回學園啦～！掰！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……我在被黃金船丟下之前，\n慌忙擠上了巴士！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

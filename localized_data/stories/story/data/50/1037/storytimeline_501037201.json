@@ -1,77 +1,77 @@
 {
-    "Title": "迎向京成杯",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众A",
-            "Text": "──我问你，今天的比赛，\n你最关注哪位选手？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众B",
-            "Text": "你在说什么啊？看这阵容，\n当然只有荣进闪耀了啊！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众B",
-            "Text": "就是说啊～“以这阵容”来说，\n应该就是荣进闪耀了吧～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "“京成杯”当天。\n参赛赛马娘之中，\n荣进闪耀算是颇受瞩目，但是……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "这评价说不上很正面呢。\n算是种消极的选择吧。",
-            "ChoiceDataList": [
-                "不过那份期待是货真价实的",
-                "不过那份期待是货真价值的"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "说得也是。\n我想回应他们的心情。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "不对，应该说……\n我必须当一个不会辜负他们的人。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "这场比赛不过只是中途站。\n我可不能在此跌跤。",
-            "ChoiceDataList": [
-                "像平常一样奔跑就没问题了",
-                "只要像平常一样奔跑就没问题了"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "……没错，只要像平常一样。\n做好我该做的事。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "然后前进经典三冠首战\n“皋月赏”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向京成盃",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "──我問你，今天的比賽，\n你最關注哪位選手？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "你在說什麼啊？看這陣容，\n當然只有榮進閃耀了啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "就是說啊～「以這陣容」來說，\n應該就是榮進閃耀了吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "「京成盃」當天。\n參賽賽馬娘之中，\n榮進閃耀算是頗受矚目，但是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "這評價說不上很正面呢。\n算是種消極的選擇吧。",
+      "ChoiceDataList": [
+        "不過那份期待是貨真價實的",
+        "不過那份期待是貨真價值的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "說得也是。\n我想回應他們的心情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "不對，應該說……\n我必須當一個不會辜負他們的人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "這場比賽不過只是中途站。\n我可不能在此跌跤。",
+      "ChoiceDataList": [
+        "像平常一樣奔跑就沒問題了",
+        "只要像平常一樣奔跑就沒問題了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……沒錯，只要像平常一樣。\n做好我該做的事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "然後前進經典三冠首戰\n「皋月賞」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

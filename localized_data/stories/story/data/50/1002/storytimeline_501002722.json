@@ -1,58 +1,58 @@
 {
-    "Title": "因头痛而忧郁",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "无声铃鹿从走廊另一头走来，\n看起来不太舒服的样子……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "唔……我的头……",
-            "ChoiceDataList": [
-                "你还好吗？",
-                "你没事吧？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "啊，训练员。\n我没事，只是有点头痛……",
-            "ChoiceDataList": [
-                "暂时休息一下？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "不，我、我没事……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "反而是跑一跑应该会比较好。\n所以，别让我休息──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "唔……！呜呜……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "无声铃鹿就这样为头痛所苦……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "因頭痛而憂鬱",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "無聲鈴鹿從走廊另一頭走來，\n看起來不太舒服的樣子……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "唔……我的頭……",
+      "ChoiceDataList": [
+        "妳還好嗎？",
+        "妳沒事吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "啊，訓練員。\n我沒事，只是有點頭痛……",
+      "ChoiceDataList": [
+        "暫時休息一下？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "不，我、我沒事……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "反而是跑一跑應該會比較好。\n所以，別讓我休息──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "唔……！嗚嗚……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "無聲鈴鹿就這樣為頭痛所苦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

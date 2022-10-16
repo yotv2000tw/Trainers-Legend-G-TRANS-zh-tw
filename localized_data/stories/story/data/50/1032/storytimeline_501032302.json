@@ -1,374 +1,374 @@
 {
-    "Title": "抽奖试手气！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "某天，我陪爱丽速子买东西，\n走在商店街的时候──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "预定要买的东西全都买到了。\n那东西就麻烦你搬到学园──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "……嗯？那是什么？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "温泉旅游券"
-            ]
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "来哦来哦，是好玩的抽奖活动哦！\n任何人都可以来抽哦～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "哦，原来是抽奖啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "这么说来，刚才买东西时\n好像有拿到抽奖券。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "机会难得，\n训练员，你来抽吧。",
-            "ChoiceDataList": [
-                "你不抽吗？",
-                "你不抽吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "……你不懂吗？\n我只是单纯想观察而已。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "观察你的情感还有表情，\n会因为滚出来的球的颜色有怎样的变化。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "明白的话就快点抽吧。\n然后给我证明情感和颜面表情肌的相关性！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "因为敌不过爱丽速子的气势，\n我来到抽奖区──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "转动了抽奖机！结果是──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "哦，居然是特等奖……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "呵呵，你挺厉害的嘛！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "你的表情从最初的紧张开始渐渐放松，\n最后转变成笑脸……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "这景象还真是相当有趣呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "不过，偏偏抽中了温泉旅游券吗……\n这样啊……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "──好，这个就给你吧。",
-            "ChoiceDataList": [
-                "咦？为什么？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "你问为什么，现在这时代，\n连旅行都可以远端解决的好吗。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "专程出远门这种事，\n根本只能用麻烦这两个字来形容吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "明白的话就收下吧。\n然后随便找个朋友一起去吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "毕竟也不能硬退回去，\n我就先暂时保管这张温泉旅游券了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "恭喜你们抽到了一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "哦哦，这不错耶！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "多汁的肉感，\n搭配新鲜的胡萝卜……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "只要用这个的话，无论哪位赛马娘\n都会立刻冲过来吧……呵呵！",
-            "ChoiceDataList": [
-                "……你在说什么？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "啊，没事没事，我只是在自言自语。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "总而言之，训练员，我们回去吧。\n要特别小心，别让汉堡排变形咯！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "虽然我察觉到一丝危险的气息，\n但还是把上等胡萝卜肉排汉堡带回学园了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "哦，还不错嘛。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "有这么多胡萝卜的话，\n再加上今天买的份就足够了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "不管怎样，只要外观看起来是胡萝卜\n就能钓到一些人吧……呵呵。",
-            "ChoiceDataList": [
-                "……你在说什么？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "啊，没事没事，我只是在自言自语。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "总而言之，训练员，我们早点回去吧。\n……我突然有些事要处理。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "虽然我察觉到一丝危险的气息，\n但还是把满满的胡萝卜带回学园了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "呵呵……你真不错呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "在大庭广众下\n拿着一根胡萝卜的样子──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "啊哈哈！简直就像是\n手拿饲料的豚鼠嘛！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "这实在是太棒了！\n今后也要当只服从我的豚鼠哦！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "无言以对的我，立即把胡萝卜\n放进购物袋里。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”哦～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "呵呵……这可让我看到有趣的东西了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "从满怀期待的表情\n逐渐变成失望的样子……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "真是诚实的反应。\n没想到感情居然会这么直接地表现在脸上。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "不过，没想到竟然是“铭谢惠顾”……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "……总之卫生纸我还是收下了。\n遇到有东西洒出来之类的情况还是很好用的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我怀着失落的心情\n和爱丽速子一同返回学园了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天，我陪愛麗速子買東西，\n走在商店街的時候──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "預定要買的東西全都買到了。\n那東西就麻煩你搬到學園──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "……嗯？那是什麼？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，是好玩的抽獎活動喔！\n任何人都可以來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "哦，原來是抽獎啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "這麼說來，剛才買東西時\n好像有拿到抽獎券。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "機會難得，\n訓練員，你來抽吧。",
+      "ChoiceDataList": [
+        "妳不抽嗎？",
+        "妳不抽嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "……你不懂嗎？\n我只是單純想觀察而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "觀察你的情感還有表情，\n會因為滾出來的球的顏色有怎樣的變化。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "明白的話就快點抽吧。\n然後給我證明情感和顏面表情肌的相關性！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因為敵不過愛麗速子的氣勢，\n我來到抽獎區──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "轉動了抽獎機！結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "哦，居然是特獎……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "呵呵，你挺厲害的嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "你的表情從最初的緊張開始漸漸放鬆，\n最後轉變成笑臉……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "這景象還真是相當有趣呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "不過，偏偏抽中了溫泉旅遊券嗎……\n這樣啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "──好，這個就給你吧。",
+      "ChoiceDataList": [
+        "咦？為什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "你問為什麼，現在這時代，\n連旅行都可以遠端解決的好嗎。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "專程出遠門這種事，\n根本只能用麻煩這兩個字來形容吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "明白的話就收下吧。\n然後隨便找個朋友一起去吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "畢竟也不能硬退回去，\n我就先暫時保管這張溫泉旅遊券了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜你們抽到了一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "喔喔，這不錯耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "多汁的肉感，\n搭配新鮮的胡蘿蔔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "只要用這個的話，無論哪位賽馬娘\n都會立刻衝過來吧……呵呵！",
+      "ChoiceDataList": [
+        "……妳在說什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "啊，沒事沒事，我只是在自言自語。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "總而言之，訓練員，我們回去吧。\n要特別小心，別讓漢堡排變形囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然我察覺到一絲危險的氣息，\n但還是把特等胡蘿蔔漢堡排帶回學園了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "哦，還不錯嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "有這麼多胡蘿蔔的話，\n再加上今天買的份就足夠了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "不管怎樣，只要外觀看起來是胡蘿蔔\n就能釣到一些人吧……呵呵。",
+      "ChoiceDataList": [
+        "……妳在說什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "啊，沒事沒事，我只是在自言自語。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "總而言之，訓練員，我們早點回去吧。\n……我突然有些事要處理。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然我察覺到一絲危險的氣息，\n但還是把滿滿的胡蘿蔔帶回學園了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "呵呵……你真不錯呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "在大庭廣眾下\n拿著一根胡蘿蔔的樣子──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "啊哈哈！簡直就像是\n手拿飼料的白老鼠嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "這實在是太棒了！\n今後也要當隻服從我的白老鼠喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "無言以對的我，立即把胡蘿蔔\n放進購物袋裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "呵呵……這可讓我看到有趣的東西了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "從滿懷期待的表情\n逐漸變成失望的樣子……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "真是誠實的反應。\n沒想到感情居然會這麼直接地表現在臉上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "不過，沒想到竟然是「銘謝惠顧」……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "……總之衛生紙我還是收下了。\n遇到有東西灑出來之類的情況還是很好用的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我懷著失落的心情\n和愛麗速子一同返回學園了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

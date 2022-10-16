@@ -1,40 +1,40 @@
 {
-    "Title": "那家伙的存在",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "跟伏特加大吵一架后，\n大和赤骥的状况不佳。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "她奔跑的样子宛如映照出自身的迷惘。\n看着她踌躇不前的模样，\n身为训练员的我决定──",
-            "ChoiceDataList": [
-                "选择参加“橡树大赛”",
-                "选择参加“日本德比”"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "为了让大和赤骥跑完\n自己决定贯彻的雌马三冠路线，\n我着手准备“橡树大赛”的参赛事宜。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我决定准备让她参加“日本德比”，\n与伏特加正面对决。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "日本德比"
-            ]
-        }
-    ]
+  "Title": "那傢伙的存在",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "跟伏特加大吵一架後，\n大和赤驥的狀況不佳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她奔跑的樣子宛如映照出自身的迷惘。\n看著她躊躇不前的模樣，\n身為訓練員的我決定──",
+      "ChoiceDataList": [
+        "選擇參加「奧克斯」",
+        "選擇參加「日本打比」"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "為了讓大和赤驥跑完\n自己決定貫徹的后冠路線，\n我著手準備「奧克斯」的參賽事宜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我決定準備讓她參加「日本打比」，\n與伏特加正面對決。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "日本打比"
+      ]
+    }
+  ]
 }

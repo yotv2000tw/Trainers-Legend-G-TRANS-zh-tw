@@ -1,64 +1,64 @@
 {
-    "Title": "因头痛而忧郁",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我放下手边工作到顶楼稍作休息时……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "Master……你好……\n还真巧……",
-            "ChoiceDataList": [
-                "……你没什么精神啊？",
-                "……你没什么精神呢？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "……是。\n正处于负面状态“头痛”中。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "但……不需要担心。\n只是感到有些刺痛，对生活没有影响──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "痛──况、况且……刚才我已经\n配水……咕噜咕噜喝下头痛药了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "再来、就只要在教室……上课……\n等它……自己……恢复……",
-            "ChoiceDataList": [
-                "可是这里是顶楼耶！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "……啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "看来她已经头痛到吃药无法缓解的地步。\n还是想办法帮她解决比较好……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "因頭痛而憂鬱",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我放下手邊工作到頂樓稍作休息時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "教練……你好……\n還真巧……",
+      "ChoiceDataList": [
+        "……妳沒什麼精神啊？",
+        "……妳沒什麼精神呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……是。\n正處於負面狀態「頭痛」中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "但……不需要擔心。\n只是感到有些刺痛，對生活沒有影響──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "痛──況、況且……剛才我已經\n配水……咕嚕咕嚕喝下頭痛藥了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "再來、就只要在教室……上課……\n等它……自己……恢復……",
+      "ChoiceDataList": [
+        "可是這裡是頂樓耶！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看來她已經頭痛到吃藥無法緩解的地步。\n還是想辦法幫她解決比較好……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

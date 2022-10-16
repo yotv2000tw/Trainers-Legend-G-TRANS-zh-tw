@@ -1,58 +1,58 @@
 {
-    "Title": "缺席的理由……",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "荣进闪耀迟迟没有出席训练。\n……当我正在想这件事时──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "非常抱歉……！\n已经超过训练开始时间\n1小时34分钟了。",
-            "ChoiceDataList": [
-                "发生什么事了吗？",
-                "发生什么事了吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "……其实今天食堂店休，\n所以我跑到学园外吃午餐……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "但我点的餐一直没送上来，\n我又迟迟不敢去取消……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "当我急忙吃完，想跑回学园时，\n跑到一半肚子却痛了起来……",
-            "ChoiceDataList": [
-                "原来如此……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "真的非常抱歉。我会减少休息时间\n以补回迟到时间的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "看来她已经反省到甚至有点过头了，\n所以我只稍微提醒她下次要注意。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "缺席的理由……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "榮進閃耀遲遲沒有出席訓練。\n……當我正在想這件事時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "非常抱歉……！\n已經超過訓練開始時間\n1小時34分鐘了。",
+      "ChoiceDataList": [
+        "發生什麼事了嗎？",
+        "發生什麼事了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……其實今天學生餐廳店休，\n所以我跑到學園外吃午餐……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "但我點的餐一直沒送上來，\n我又遲遲不敢去取消……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "當我急忙吃完，想跑回學園時，\n跑到一半肚子卻痛了起來……",
+      "ChoiceDataList": [
+        "原來如此……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "真的非常抱歉。我會減少休息時間\n以補回遲到時間的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看來她已經反省到甚至有點過頭了，\n所以我只稍微提醒她下次要注意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

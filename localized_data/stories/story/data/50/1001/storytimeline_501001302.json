@@ -1,381 +1,381 @@
 {
-    "Title": "抽奖试手气！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "某天傍晚，我们经过商店街的时候──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "咦？对面好像很热闹耶。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "温泉旅游券"
-            ]
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "那边看起来感情很好的两位！\n有没有兴趣来试试手气～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "咦～在举办抽奖啊……！",
-            "ChoiceDataList": [
-                "要挑战看看吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "咦，可以吗！？\n那就事不宜迟……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "……唔，在那之前得先要有抽奖券才行！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "在商店街购物的话，\n好像就能拿到……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "要不要去买个好吃的东西，\n拿一张抽奖券啊？耶嘿嘿！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……于是，我们得到了一张抽奖券。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "机会只有一次……！\n一起加油吧，训练员！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我们两人边祈祷边一起握住握把，\n转动了抽奖机。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "结果是──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "特别周",
-            "Text": "咦……咦、咦咦咦咦咦咦咦～～～！？\n骗人的吧！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "那个……训练员。\n这个温泉旅游券该怎么办……？",
-            "ChoiceDataList": [
-                "你拿去用吧",
-                "你就拿去用吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "咦咦！？\n但这是跟训练员一起抽中的……",
-            "ChoiceDataList": [
-                "找你想一起去的人去吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "想一起去的人……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "……………………",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "我知道了。不过，\n可以先暂时寄放在训练员那里吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "现在不是泡温泉喘口气的时候……\n还有很多必须努力去完成的事。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "等到全部都结束后，再请你还给我吧！",
-            "ChoiceDataList": [
-                "我知道了"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "呵呵。\n……说好了哦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我就这样暂时保管了\n特别周的温泉旅游券。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "特别周",
-            "Text": "唔哇啊啊啊～！！\n这个汉堡排看起来真是多汁……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "胡萝卜也充满光泽……\n这绝对会好吃到下巴都掉下来！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "汉堡排吗，真令人怀念……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "像是务农工作非常辛苦的日子，\n或是要铲雪一整天的日子，\n妈妈晚上常常会做这道料理。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "在身体累到不行又饥肠辘辘的状态吃下去，\n就会如同人间美味一样超级好吃的──",
-            "ChoiceDataList": [
-                "是充满回忆的味道啊",
-                "是充满回忆的味道呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "是的！\n是我和妈妈的回忆……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "所以，训练员。\n请你一定要和我一起吃这道汉堡排！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "我想一起创造\n好吃到下巴都要掉下来的回忆♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……当天晚上，\n我和特别周一起享用了美味的餐点。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "特别周",
-            "Text": "啊啊～我好想吃一等奖的\n上等胡萝卜肉排汉堡哦……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "咦？不过仔细想想，\n反正都有这么多材料了──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "自己来做汉堡排不就好了吗！",
-            "ChoiceDataList": [
-                "说得没错！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "对吧！好～既然这么决定了，\n就赶快去买齐材料吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "……耶嘿嘿。\n不知道可以做多少个汉堡排～♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我边不断叮咛别在一天内全部吃光，\n边和她一起购物并踏上归途。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "特别周",
-            "Text": "只、只有一根……！\n特等汉堡排……一整堆的胡萝卜套组……！",
-            "ChoiceDataList": [
-                "别难过别难过……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "唉……不过，\n总比都没东西吃来得好。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "嗯，要乐观一点……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "我会好好珍惜，仔细品尝这根胡萝卜！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "特别周获得一根胡萝卜分量的一点点活力了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人员",
-            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”哦～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "获得了“<itemname>”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "<itemname>"
-            ]
-        },
-        {
-            "Name": "特别周",
-            "Text": "啊啊啊……！\n怎么会这样……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特别周",
-            "Text": "啊呜呜……好想抽到点什么……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我和特别周都变得非常失落……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天傍晚，我們經過商店街的時候──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "咦？對面好像很熱鬧耶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "那邊看起來感情很好的兩位！\n有沒有興趣來試試手氣～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "咦～在舉辦抽獎啊……！",
+      "ChoiceDataList": [
+        "要挑戰看看嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "咦，可以嗎！？\n那就事不宜遲……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "……唔，在那之前得先要有抽獎券才行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "在商店街購物的話，\n好像就能拿到……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "要不要去買個好吃的東西，\n拿一張抽獎券啊？耶嘿嘿！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……於是，我們得到了一張抽獎券。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "機會只有一次……！\n一起加油吧，訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們兩人邊祈禱邊一起握住握把，\n轉動了抽獎機。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "特別週",
+      "Text": "咦……咦、咦咦咦咦咦咦咦～～～！？\n騙人的吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "那個……訓練員。\n這個溫泉旅遊券該怎麼辦……？",
+      "ChoiceDataList": [
+        "妳拿去用吧",
+        "妳就拿去用吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "咦咦！？\n但這是跟訓練員一起抽中的……",
+      "ChoiceDataList": [
+        "找妳想一起去的人去吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "想一起去的人……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "……………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "我知道了。不過，\n可以先暫時寄放在訓練員那裡嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "現在不是泡溫泉喘口氣的時候……\n還有很多必須努力去完成的事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "等到全部都結束後，再請你還給我吧！",
+      "ChoiceDataList": [
+        "我知道了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "呵呵。\n……說好了喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我就這樣暫時保管了\n特別週的溫泉旅遊券。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "特別週",
+      "Text": "唔哇啊啊啊～！！\n這個漢堡排看起來真是多汁……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "胡蘿蔔也充滿光澤……\n這絕對會好吃到下巴都掉下來！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "漢堡排嗎，真令人懷念……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "像是務農工作非常辛苦的日子，\n或是要剷雪一整天的日子，\n媽媽晚上常常會做這道料理。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "在身體累到不行又飢腸轆轆的狀態吃下去，\n就會如同人間美味一樣超級好吃的──",
+      "ChoiceDataList": [
+        "是充滿回憶的味道啊",
+        "是充滿回憶的味道呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "是的！\n是我和媽媽的回憶……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "所以，訓練員。\n請你一定要和我一起吃這道漢堡排！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "我想一起創造\n好吃到下巴都要掉下來的回憶♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……當天晚上，\n我和特別週一起享用了美味的餐點。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "特別週",
+      "Text": "啊啊～我好想吃一獎的\n特等胡蘿蔔漢堡排喔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "咦？不過仔細想想，\n反正都有這麼多材料了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "自己來做漢堡排不就好了嗎！",
+      "ChoiceDataList": [
+        "說得沒錯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "對吧！好～既然這麼決定了，\n就趕快去買齊材料吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "……耶嘿嘿。\n不知道可以做多少個漢堡排～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我邊不斷叮嚀別在一天內全部吃光，\n邊和她一起購物並踏上歸途。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "特別週",
+      "Text": "只、只有一根……！\n特等漢堡排……一整堆的胡蘿蔔套組……！",
+      "ChoiceDataList": [
+        "別難過別難過……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "唉……不過，\n總比都沒東西吃來得好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "嗯，要樂觀一點……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "我會好好珍惜，仔細品嘗這根胡蘿蔔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "特別週獲得一根胡蘿蔔分量的一點點活力了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "特別週",
+      "Text": "啊啊啊……！\n怎麼會這樣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "啊嗚嗚……好想抽到點什麼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我和特別週都變得非常失落……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

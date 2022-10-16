@@ -1,119 +1,119 @@
 {
-    "Title": "学生会会长的思绪",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "某天我出门采购时──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "嗯，这样就解决一件事了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我看到鲁道夫象征从附近的店家走出来，\n便出声叫住了她。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "嗨，真巧。你也是来买东西的吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "我刚订完毛巾，正要去下一个地方。",
-            "ChoiceDataList": [
-                "毛巾？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "是啊，我打算增加学生会可外借的毛巾数量。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "天气预报说下周会接连下暴风雨。\n来借的人应该也会增加，就想事前做好准备。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "待会完成雨伞等雨具的订购，\n就算是做好万全的准备了。",
-            "ChoiceDataList": [
-                "谢谢你，这样雨天也不用担心了",
-                "谢谢你，这样雨天也不用担心了呢",
-                "辛苦了，你为了学园也不轻松啊",
-                "辛苦了，你为了学园也不轻松呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "待会完成雨伞等雨具的订购，\n就算是做好万全的准备了。",
-            "ChoiceDataList": [
-                "谢谢你，这样雨天也不用担心了",
-                "谢谢你，这样雨天也不用担心了呢",
-                "辛苦了，你为了学园也不轻松啊",
-                "辛苦了，你为了学园也不轻松呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "是啊，你们就放心努力吧。\n这也是我这么做的用意。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "不仅是雨天，我希望能打造出\n全学园都能专心朝梦想前进的环境。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "你如果有任何需求，\n也可以告诉我不用客气。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "用不着答谢，我也是因为学生会的\n事情需要上街，顺便而已。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "况且，改善大家的训练环境也是\n我的职责所在。这是我该做的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "等东西都订购完后，还得去检查\n赛道的排水状况……稍微加紧脚步吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "鲁道夫象征的责任感及活力，\n真的是有很多值得参考的地方。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "學生會會長的思緒",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某天我出門採購時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "嗯，這樣就解決一件事了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我看到魯道夫象徵從附近的店家走出來，\n便出聲叫住了她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "嗨，真巧。你也是來買東西的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "我剛訂完毛巾，正要去下一個地方。",
+      "ChoiceDataList": [
+        "毛巾？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "是啊，我打算增加學生會可外借的毛巾數量。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "天氣預報說下週會接連下暴風雨。\n來借的人應該也會增加，就想事前做好準備。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "待會完成雨傘等雨具的訂購，\n就算是做好萬全的準備了。",
+      "ChoiceDataList": [
+        "謝謝妳，這樣雨天也不用擔心了",
+        "謝謝妳，這樣雨天也不用擔心了呢",
+        "辛苦了，妳為了學園也不輕鬆啊",
+        "辛苦了，妳為了學園也不輕鬆呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "待會完成雨傘等雨具的訂購，\n就算是做好萬全的準備了。",
+      "ChoiceDataList": [
+        "謝謝妳，這樣雨天也不用擔心了",
+        "謝謝妳，這樣雨天也不用擔心了呢",
+        "辛苦了，妳為了學園也不輕鬆啊",
+        "辛苦了，妳為了學園也不輕鬆呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "是啊，你們就放心努力吧。\n這也是我這麼做的用意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "不僅是雨天，我希望能打造出\n全學園都能專心朝夢想前進的環境。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "你如果有任何需求，\n也可以告訴我不用客氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "用不著答謝，我也是因為學生會的\n事情需要上街，順便而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "況且，改善大家的訓練環境也是\n我的職責所在。這是我該做的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "等東西都訂購完後，還得去檢查\n賽道的排水狀況……稍微加緊腳步吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "魯道夫象徵的責任感及活力，\n真的是有很多值得參考的地方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "Title": "当下的描述",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "某天，与琵琶晨光一起\n观赏模拟赛的训练员，因为成田白仁\n惊人的尾段加速大受冲击。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "琵琶晨光在训练员惊讶的模样中\n看到年幼时的自己。昔日的自己因妹妹的强大\n感到震惊、焦急……硬要逞强结果受伤了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "这时同期的劲敌\n胜利奖券与成田大进\n出现在她面前。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "胜利奖券",
-                "成田大进"
-            ]
-        },
-        {
-            "Name": "独白",
-            "Text": "两人似乎会参加新马级的GⅠ“希望S”。\n看来总有一天会互相竞争的强敌，\n并非只有妹妹而已。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "希望S"
-            ]
-        }
-    ]
+  "Title": "當下的描述",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某天，與琵琶晨光一起\n觀賞模擬賽的訓練員，因為成田白仁\n驚人的尾段加速大受衝擊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "琵琶晨光在訓練員驚訝的模樣中\n看到年幼時的自己。昔日的自己因妹妹的強大\n感到震驚、焦急……硬要逞強結果受傷了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這時同期的勁敵\n勝利獎券與成田大進\n出現在她面前。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "勝利獎券",
+        "成田大進"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "兩人似乎會參加新手級的GⅠ「希望S」。\n看來總有一天會互相競爭的強敵，\n並非只有妹妹而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "希望S"
+      ]
+    }
+  ]
 }

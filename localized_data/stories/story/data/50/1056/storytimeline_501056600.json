@@ -1,44 +1,44 @@
 {
-    "Title": "临阵抖擞",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "因为我隐约听到神秘的念经（？）声，\n所以就偷看了一下休息室……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "南──无南无南无！南无南无南～～无！\n南无南无南无……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "菠──菜！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "呼……因为很紧张，\n害我不小心比平常念更多南无了！",
-            "ChoiceDataList": [
-                "充满了干劲呢",
-                "干劲十足呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "是的！我会把这份干劲、勇气和运气！\n全发挥在比赛上的──！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "臨陣抖擻",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因為我隱約聽到神祕的唸經（？）聲，\n所以就偷看了一下休息室……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "南──無南無南無！南無南無南～～無！\n南無南無南無……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "菠──菜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "呼……因為很緊張，\n害我不小心比平常唸更多南無了！",
+      "ChoiceDataList": [
+        "充滿了幹勁呢",
+        "幹勁十足呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "是的！我會把這份幹勁、勇氣和運氣！\n全發揮在比賽上的──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

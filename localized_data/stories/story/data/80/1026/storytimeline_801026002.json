@@ -1,101 +1,101 @@
 {
-    "Title": "不可违反命令",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "在小卖部看到有位赛马娘，正一直站在\n商品柜前而让我感到有些在意──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "确认到本作战行动的障碍。\n将再次整理目前状况──",
-            "ChoiceDataList": [
-                "发生什么事了吗？",
-                "怎么了吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "……前几天，米浴向我推荐小卖部内\n一个名为“特选胡萝卜面包”的商品。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "说“想听听你吃完后的感想”，\n因此我为了达成指示而正在尝试购买商品──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "然而该商品已经售完，\n这都要归咎于我事前调查不足。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "我向店员询问此商品的情报作为对策，\n得知这是每次都会被抢购一空的热门商品。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "同时并已确认下次进货的时间。\n问题在于，下次该如何抢购──",
-            "ChoiceDataList": [
-                "在小卖部要开店前就来待机吧",
-                "午休一到就立刻冲到小卖部！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "在开店的同时以最快速度购入。的确，\n是个既单纯且合理的做法。我会进行验证。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "比对我的行程表和进货时间。\n──比对完成，研判可在开店前待机。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "感谢你宝贵的建议。\n我一定会完成这项作战行动。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "了解，验证以我目前的规格状态\n是否可达成此项目标。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "──依据资讯假定当天的拥挤状况。\n构筑路线。假定以最新的跑速纪录重新计算。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "重新计算，完成。\n研判可执行此作战行动。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "近日提升速度的效果能有正面影响。\n感谢你宝贵的建议。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "不可違反命令",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在販賣部看到有位賽馬娘，正一直站在\n商品櫃前而讓我感到有些在意──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "確認到本作戰行動的障礙。\n將再次整理目前狀況──",
+      "ChoiceDataList": [
+        "發生什麼事了嗎？",
+        "怎麼了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……前幾天，米浴向我推薦販賣部內\n一個名為「特選胡蘿蔔麵包」的商品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "說「想聽聽妳吃完後的感想」，\n因此我為了達成指示而正在嘗試購買商品──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "然而該商品已經售完，\n這都要歸咎於我事前調查不足。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "我向店員詢問此商品的情報作為對策，\n得知這是每次都會被搶購一空的熱門商品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "同時並已確認下次進貨的時間。\n問題在於，下次該如何搶購──",
+      "ChoiceDataList": [
+        "在販賣部要開店前就來待機吧",
+        "午休一到就立刻衝到販賣部！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "在開店的同時以最快速度購入。的確，\n是個既單純且合理的做法。我會進行驗證。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "比對我的行程表和進貨時間。\n──比對完成，研判可在開店前待機。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "感謝你寶貴的建議。\n我一定會完成這項作戰行動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "了解，驗證以我目前的規格狀態\n是否可達成此項目標。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "──依據資訊假定當天的擁擠狀況。\n構築路線。假定以最新的跑速紀錄重新計算。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "重新計算，完成。\n研判可執行此作戰行動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "近日提升速度的效果能有正面影響。\n感謝你寶貴的建議。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

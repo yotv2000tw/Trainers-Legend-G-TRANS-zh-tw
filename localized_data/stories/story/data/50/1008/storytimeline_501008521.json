@@ -1,55 +1,55 @@
 {
-    "Title": "时常熬夜……",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "伏特加来到训练室，似乎是有事找我。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "你听我说啊，训练员。\n我昨天晚上只睡了四小时！",
-            "ChoiceDataList": [
-                "咦？为什么……？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "我在锻炼腕力，不知不觉就练到那么晚了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "我看其他人可能没办法啦，\n但我只要睡四小时就足够了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "呼啊啊……嗯嗯。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "──啊！刚、刚刚我不是想睡觉啦！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "之后，为了自夸都没睡觉，\n伏特加开始持续熬夜……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "時常熬夜……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "伏特加來到訓練室，似乎是有事找我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "你聽我說啊，訓練員。\n我昨天晚上只睡了四小時！",
+      "ChoiceDataList": [
+        "咦？為什麼……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "我在鍛鍊腕力，不知不覺就練到那麼晚了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "我看其他人可能沒辦法啦，\n但我只要睡四小時就足夠了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "呼啊啊……嗯嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "──啊！剛、剛剛我不是想睡覺啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之後，為了自誇都沒睡覺，\n伏特加開始持續熬夜……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

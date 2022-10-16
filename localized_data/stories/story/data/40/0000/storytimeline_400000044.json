@@ -1,56 +1,56 @@
 {
-    "Title": "严禁逞强！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "<chrname>\n受了颇严重的伤……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "现在该先安慰她，\n还是严格训练，该怎么做……",
-            "ChoiceDataList": [
-                "总之先安慰",
-                "严格训练！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "总之先安慰她，要她专心治疗伤势。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "但<chrname>因为不能活动身体，\n心情好像变得有点低落……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "不能裹足不前！\n我硬起心肠，\n严格训练了<chrname>。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "但结果却因为让她逞强，\n使得伤势恶化了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "没想到伤势奇迹似地完全复原，\n练习也很顺利！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "嚴禁逞強！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>\n受了頗嚴重的傷……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "現在該先安慰她，\n還是嚴格訓練，該怎麼做……",
+      "ChoiceDataList": [
+        "總之先安慰",
+        "嚴格訓練！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "總之先安慰她，要她專心治療傷勢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但<chrname>因為不能活動身體，\n心情好像變得有點低落……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不能裹足不前！\n我硬起心腸，\n嚴格訓練了<chrname>。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但結果卻因為讓她逞強，\n使得傷勢惡化了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "沒想到傷勢奇蹟似地完全復原，\n練習也很順利！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

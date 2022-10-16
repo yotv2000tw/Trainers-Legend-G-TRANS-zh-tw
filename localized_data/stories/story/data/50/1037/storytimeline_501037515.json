@@ -1,399 +1,399 @@
 {
-    "Title": "赌上名誉",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "──在餐厅中，\n中山庆典向荣进闪耀搭话，\n她的声音听起来似乎别有含意。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "……嗨，闪耀。\n之前说的那件事，你有兴趣了吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "……中山。我很高兴你来邀请我，\n但我还是不能答应。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "不过，我想请问──\n为什么是我？明明除了我之外，\n还有很多适合玩扑克牌的对象呀。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "是没错。\n不过，拥有“完美自制力”的赌徒，\n可是很少见的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "我想将这种人的自制力一把撕下，\n与对方来场紧张刺激的对决。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "……非常抱歉。\n那种只能仰赖运气的胜负，\n不符合我的原则──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "好吧，也对啦。这种个性的人\n通常不愿意碰这种赌运气的对决。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "但这同时也是你的极限。\n面对只能听天由命的重大比赛时，\n你就会脚软无法前进──对吧？",
-            "ChoiceDataList": [
-                "──不，你错了",
-                "──不，你错了"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "哦哦，相当有自信嘛。\n既然你敢说得这么肯定──\n请你务必证明给我看。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "毕竟你是这位小姐的训练员，\n我看你们应该也是一丘之貉吧。\n不过，我也不会强迫你们就是了。",
-            "ChoiceDataList": [
-                "……正合我意！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "训练员……！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "很好。我来准备金币巧克力当作筹码。\n那么──来赌一场吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "……不好意思。这场又是我赢。\n不过，搞不好接下来就轮到你好运了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "──我已经八连败了。\n抓着扑克牌的手满是手汗……\n中山庆典已经彻底掌握了局势。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "……请等一下。已经够了吧？\n你还想继续比吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "我的对手也还想继续啊。\n毕竟这可是事关名誉呢。\n他自己……跟你的名誉。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "……我知道了。既然如此……\n接下来就由我背负名誉，\n由我来对决吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "呵……也好。\n就该是这样……！",
-            "ChoiceDataList": [
-                "你一定会赢的！",
-                "你一定会赢的！",
-                "替我……报仇……！",
-                "替我……报仇……！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "呵……也好。\n就该是这样……！",
-            "ChoiceDataList": [
-                "你一定会赢的！",
-                "你一定会赢的！",
-                "替我……报仇……！",
-                "替我……报仇……！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "是。我不会辜负你的期待的。\n这也是为了你的名誉。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "双方都顶着完美的扑克脸进行对决，\n她们一来一往，\n展开胶着的战役。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "她的牌是顺子，\n我只有6的三条……\n是我输了呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "现在是你来我往各有输赢呢。\n──差不多该来场大决战，\n决定胜负了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "……已经拉锯了好一阵子。\n喉咙……也有点渴了。",
-            "ChoiceDataList": [
-                "那我去拿些饮料来吧？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "……这样啊？\n那就拜托你了，不好意思啦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "于是我去饮水机取茶水，\n回来的时候，\n她们已经开始下一场牌局了──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "──唉呀。",
-            "ChoiceDataList": [
-                "！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "中山庆典突然失去平衡，\n我不小心看到她手上的牌，\n是“J”的铁支！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "……你看到啦？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "她手上的牌这么强，令我心跳加快──\n我不只忘记回应，\n还忍不住往闪耀那看了一眼──！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "…………！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "…………好啦。这场对决──\n我要梭哈所有筹码。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "你打算怎么做？闪耀？\n面对重大胜负──\n你还是吓得软脚，想要逃走吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "──不。既然你要正面对决……\n那我也只有一如往常，赌上荣耀，\n堂堂正正地接受挑战了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "呵呵、呵呵呵……都到紧要关头了，\n还要继续赌下去吗……？很好……！\n来吧，一决生死吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "于是……双方都亮出手上的牌，\n荣进闪耀的牌是──\n“K”铁支。惊险获胜！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "我输了吗？呵呵呵。好一场精彩的比赛。\n真是开心啊……你好强。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "下次再来比吧。比赛跑步也不错，\n但偶尔也用扑克牌决胜负……怎么样？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "──可以的话我希望用跑步比赛就好。\n──不过，呵呵。的确……\n真是场“热烈的对决”呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "──我知道了。\n为了我们的荣誉，我一定会赢……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "呵……那么热血真不像你。\n你最后会把自己给烧焦吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "葫芦。\n……你的呢？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "──顺子……！\n是我输了……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "之后……\n赌局残酷地照着中山庆典的预言发展。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "……你开始急于取胜了呢。\n这样一来迟早会影响到你的表情。\n差不多要露出破绽了吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "……不过这样正好。\n我就是想要挖掘出你的这种表情。\n──下注。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "怎么啦？让我见识更刺激一点的吧……！\n展现给我看看！\n被逼上死路后起死回生的一次冲刺！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "还是说──你到头来仍选择逃走吗？\n你跟训练员都只有这点本事吗！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "……提高赌注……！\n我要……梭哈所有的筹码来决胜负！",
-            "ChoiceDataList": [
-                "没问题吗！？",
-                "没问题吗！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "唉呀，可不允许你扫兴哦。\n很好……你这充满刺激感的冲刺……\n我就接下挑战！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "──但是，当双方亮出手上的牌后……\n结果令人相当意外。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "──同花顺。\n是我赢了呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "…………\n呼……被你摆了一道呢",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "在一定能获胜的牌到手之前，\n你一直摆出焦急的样子，对吧？\n真是个……了不起的赌徒不是吗。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "我没有你说的那么厉害。\n我不过是遵循自己的战略──\n也就是按照我的预定行动而已。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "──你讨厌这种手段吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "呵呵呵，不。\n这场对决比我想像中还要有趣哦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山庆典",
-            "Text": "你真是有意思。太有意思了。\n我很期待下次对决哦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "──好的。下次用赛跑对决吧。\n……呵呵。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "賭上名譽",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──在餐廳中，\n中山慶典向榮進閃耀搭話，\n她的聲音聽起來似乎別有含意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……嗨，閃耀。\n之前說的那件事，妳有興趣了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……中山。我很高興妳來邀請我，\n但我還是不能答應。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "不過，我想請問──\n為什麼是我？明明除了我之外，\n還有很多適合玩撲克牌的對象呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "是沒錯。\n不過，擁有「完美自制力」的賭徒，\n可是很少見的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "我想將這種人的自制力一把撕下，\n與對方來場緊張刺激的對決。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……非常抱歉。\n那種只能仰賴運氣的勝負，\n不符合我的原則──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "好吧，也對啦。這種個性的人\n通常不願意碰這種賭運氣的對決。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "但這同時也是妳的極限。\n面對只能聽天由命的重大比賽時，\n妳就會腳軟無法前進──對吧？",
+      "ChoiceDataList": [
+        "──不，妳錯了",
+        "──不，妳錯了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "哦哦，相當有自信嘛。\n既然你敢說得這麼肯定──\n請你務必證明給我看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "畢竟你是這位小姐的訓練員，\n我看你們應該也是一丘之貉吧。\n不過，我也不會強迫你們就是了。",
+      "ChoiceDataList": [
+        "……正合我意！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "訓練員……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "很好。我來準備金幣巧克力當作籌碼。\n那麼──來賭一場吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……不好意思。這場又是我贏。\n不過，搞不好接下來就輪到你好運了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──我已經八連敗了。\n抓著撲克牌的手滿是手汗……\n中山慶典已經徹底掌握了局勢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……請等一下。已經夠了吧？\n妳還想繼續比嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "我的對手也還想繼續啊。\n畢竟這可是事關名譽呢。\n他自己……跟妳的名譽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……我知道了。既然如此……\n接下來就由我背負名譽，\n由我來對決吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "呵……也好。\n就該是這樣……！",
+      "ChoiceDataList": [
+        "妳一定會贏的！",
+        "妳一定會贏的！",
+        "替我……報仇……！",
+        "替我……報仇……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "呵……也好。\n就該是這樣……！",
+      "ChoiceDataList": [
+        "妳一定會贏的！",
+        "妳一定會贏的！",
+        "替我……報仇……！",
+        "替我……報仇……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "是。我不會辜負你的期待的。\n這也是為了你的名譽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雙方都頂著完美的撲克臉進行對決，\n她們一來一往，\n展開膠著的戰役。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "她的牌是順子，\n我只有6的三條……\n是我輸了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "現在是你來我往各有輸贏呢。\n──差不多該來場大決戰，\n決定勝負了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……已經拉鋸了好一陣子。\n喉嚨……也有點渴了。",
+      "ChoiceDataList": [
+        "那我去拿些飲料來吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……這樣啊？\n那就拜託你了，不好意思啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是我去飲水機取茶水，\n回來的時候，\n她們已經開始下一場牌局了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "──唉呀。",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "中山慶典突然失去平衡，\n我不小心看到她手上的牌，\n是「J」的鐵支！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……你看到啦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她手上的牌這麼強，令我心跳加快──\n我不只忘記回應，\n還忍不住往閃耀那看了一眼──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "…………！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "…………好啦。這場對決──\n我要梭哈所有籌碼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "妳打算怎麼做？閃耀？\n面對重大勝負──\n妳還是嚇得軟腳，想要逃走嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "──不。既然妳要正面對決……\n那我也只有一如往常，賭上榮耀，\n堂堂正正地接受挑戰了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "呵呵、呵呵呵……都到緊要關頭了，\n還要繼續賭下去嗎……？很好……！\n來吧，一決生死吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是……雙方都亮出手上的牌，\n榮進閃耀的牌是──\n「K」鐵支。驚險獲勝！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "我輸了嗎？呵呵呵。好一場精采的比賽。\n真是開心啊……妳好強。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "下次再來比吧。比賽跑步也不錯，\n但偶爾也用撲克牌決勝負……怎麼樣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "──可以的話我希望用跑步比賽就好。\n──不過，呵呵。的確……\n真是場「熱烈的對決」呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "──我知道了。\n為了我們的榮譽，我一定會贏……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "呵……那麼熱血真不像妳。\n妳最後會把自己給燒焦吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "葫蘆。\n……妳的呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "──順子……！\n是我輸了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後……\n賭局殘酷地照著中山慶典的預言發展。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……妳開始急於取勝了呢。\n這樣一來遲早會影響到妳的表情。\n差不多要露出破綻了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……不過這樣正好。\n我就是想要挖掘出妳的這種表情。\n──下注。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "怎麼啦？讓我見識更刺激一點的吧……！\n展現給我看看！\n被逼上死路後起死回生的一次衝刺！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "還是說──妳到頭來仍選擇逃走嗎？\n妳跟訓練員都只有這點本事嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……提高賭注……！\n我要……梭哈所有的籌碼來決勝負！",
+      "ChoiceDataList": [
+        "沒問題嗎！？",
+        "沒問題嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "唉呀，可不允許你掃興喔。\n很好……妳這充滿刺激感的衝刺……\n我就接下挑戰！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──但是，當雙方亮出手上的牌後……\n結果令人相當意外。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "──同花順。\n是我贏了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "…………\n呼……被妳擺了一道呢",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "在一定能獲勝的牌到手之前，\n妳一直擺出焦急的樣子，對吧？\n真是個……了不起的賭徒不是嗎。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "我沒有妳說的那麼厲害。\n我不過是遵循自己的戰略──\n也就是按照我的預定行動而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "──妳討厭這種手段嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "呵呵呵，不。\n這場對決比我想像中還要有趣喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "妳真是有意思。太有意思了。\n我很期待下次對決喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "──好的。下次用賽跑對決吧。\n……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

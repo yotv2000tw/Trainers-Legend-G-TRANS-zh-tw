@@ -1,136 +1,136 @@
 {
-    "Title": "额外的自主训练",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "那个呀！训练也结束了～\n要不要和人家去个好地方？？",
-            "ChoiceDataList": [
-                "好地方是指哪里？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "跟你说跟你说！有一个景点，\n可以看见非常闪亮的夜景──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "嘿哟，嘿哟……\n咦？是摩耶重炮～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "啊，是小帝王！嗨！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "我正好在找你！\n我想跟你说，我今天可能会晚点回去！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "呀☆居然会晚归，看来有进展～！\n小帝王是大人了～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "嗯！刚才看了会长的比赛后，\n我就很想去跑一下！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "以摩耶重炮的方式来说……\n可能是很闪闪发亮？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "哇……！我懂我懂！\n会长奔驰的样子真的很帅气！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "嗯～～\n我好像开始兴奋起来了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "训练员，还是别看夜景了！\n人家现在想要闪闪发亮！",
-            "ChoiceDataList": [
-                "我陪你！",
-                "休息也是很重要的"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "嘿嘿，不愧是训练员！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "那我们一起并跑练习吧！\n这样我也比较能激起斗志！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "没问题！我要起飞了☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "摩耶重炮拿出全力进行了额外训练。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "嗯！说得也是！\n跟肌肤一样，要休息才会变得充满光泽对吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "我知道了！就用闪闪发亮的夜景，\n来为人家的耀眼充电吧♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "那我先走了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "我会在门禁前回来的～～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我和摩耶重炮一起欣赏夜景，\n让她的身体好好地休息了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "額外的自主訓練",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "那個呀！訓練也結束了～\n要不要和人家去個好地方？？",
+      "ChoiceDataList": [
+        "好地方是指哪裡？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "跟你說跟你說！有一個景點，\n可以看見非常閃亮的夜景──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "嘿喲，嘿喲……\n咦？是重砲～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "啊，是小帝！嗨！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "我正好在找妳！\n我想跟妳說，我今天可能會晚點回去！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "呀☆居然會晚歸，看來有進展～！\n小帝是大人了～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "嗯！剛才看了會長的比賽後，\n我就很想去跑一下！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "以重砲的方式來說……\n可能是很閃閃發亮？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "哇……！我懂我懂！\n會長奔馳的樣子真的很帥氣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "嗯～～\n我好像開始興奮起來了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "訓練員，還是別看夜景了！\n人家現在想要閃閃發亮！",
+      "ChoiceDataList": [
+        "我陪妳！",
+        "休息也是很重要的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "嘿嘿，不愧是訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "那我們一起並行練跑吧！\n這樣我也比較能激起鬥志！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "沒問題！我要起飛了☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "重砲拿出全力進行了額外訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "嗯！說得也是！\n跟肌膚一樣，要休息才會變得充滿光澤對吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "我知道了！就用閃閃發亮的夜景，\n來為人家的耀眼充電吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "那我先走了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "我會在門禁前回來的～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我和重砲一起欣賞夜景，\n讓她的身體好好地休息了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

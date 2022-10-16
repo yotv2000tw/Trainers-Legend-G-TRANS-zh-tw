@@ -1,128 +1,128 @@
 {
-    "Title": "保重身体！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "我还是太不成熟了……\n没想到竟然会受伤……唉。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "训练员，也给你添麻烦了，\n实在非常抱歉。",
-            "ChoiceDataList": [
-                "看来今天还是休息比较好",
-                "之后得多注意周围才行啊"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "训练员，也给你添麻烦了，\n实在非常抱歉。",
-            "ChoiceDataList": [
-                "看来今天还是休息比较好",
-                "之后得多注意周围才行呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "咦咦！？不、不用这么费心的……！\n只要稍微处理一下伤处就可以了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "真是的……训练本来就会受伤。\n如果这点小伤就担心，\n那你的心可没得休息了哦。",
-            "ChoiceDataList": [
-                "我的心不用休息没关系",
-                "我的心不用休息没关系"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "……这样我会很困扰的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "唉……我充分感受到\n你担心我的心情了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "既然你都这么说了，\n那今天我就专心休息养伤吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "帮目白麦昆处理完伤处后，\n我就送她回去宿舍。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "是呢……太过集中精神结果没注意周围，\n这样可不行。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "不过……我竟然会犯下\n这么基础的失误……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "唉……\n我又开始觉得过意不去了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "帮目白麦昆处理完伤处后，\n我决定那天让她休息好好养伤。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "是呢……太过集中精神结果没注意周围，\n这样可不行。不过──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "既然这么集中精神，反过来说，\n就表示训练很有效率。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "那么只要加以培养这股集中力，\n应该会有所帮助吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麦昆",
-            "Text": "来，趁这股集中力还没用完前，\n我们就继续训练吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "帮目白麦昆处理完伤处后，\n我依照目白麦昆的期望继续帮她进行训练。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "保重身體！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "我還是太不成熟了……\n沒想到竟然會受傷……唉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "訓練員，也給你添麻煩了，\n實在非常抱歉。",
+      "ChoiceDataList": [
+        "看來今天還是休息比較好",
+        "之後得多注意周圍才行啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "訓練員，也給你添麻煩了，\n實在非常抱歉。",
+      "ChoiceDataList": [
+        "看來今天還是休息比較好",
+        "之後得多注意周圍才行呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "咦咦！？不、不用這麼費心的……！\n只要稍微處理一下傷處就可以了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "真是的……訓練本來就會受傷。\n如果這點小傷就擔心，\n那你的心可沒得休息了喔。",
+      "ChoiceDataList": [
+        "我的心不用休息沒關係",
+        "我的心不用休息沒關係"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……這樣我會很困擾的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "唉……我充分感受到\n你擔心我的心情了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "既然你都這麼說了，\n那今天我就專心休息養傷吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "幫目白麥昆處理完傷處後，\n我就送她回去宿舍。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "是呢……太過集中精神結果沒注意周圍，\n這樣可不行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "不過……我竟然會犯下\n這麼基礎的失誤……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "唉……\n我又開始覺得過意不去了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "幫目白麥昆處理完傷處後，\n我決定那天讓她休息好好養傷。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "是呢……太過集中精神結果沒注意周圍，\n這樣可不行。不過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "既然這麼集中精神，反過來說，\n就表示訓練很有效率。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "那麼只要加以培養這股集中力，\n應該會有所幫助吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "來，趁這股集中力還沒用完前，\n我們就繼續訓練吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "幫目白麥昆處理完傷處後，\n我依照目白麥昆的期望繼續幫她進行訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

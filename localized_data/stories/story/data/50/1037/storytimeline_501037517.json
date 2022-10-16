@@ -1,59 +1,59 @@
 {
-    "Title": "寻找黑色宝石",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我看到了一脸闷闷不乐的荣进闪耀。",
-            "ChoiceDataList": [
-                "发生什么事了吗？",
-                "发生什么事了吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "不，不是什么重要的事。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "我想吃以前在故乡常吃的料理，\n于是试着寻找食材……",
-            "ChoiceDataList": [
-                "日本买不到吗？",
-                "日本买不到吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "买得到。但是──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "鱼子酱……在日本卖得很贵呢。\n我的零用钱根本买不起。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荣进闪耀",
-            "Text": "……唉。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我实在说不出“我买给你吧”……\n荣进闪耀就这样\n一脸消沉地离开了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "尋找黑色寶石",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我看到了一臉悶悶不樂的榮進閃耀。",
+      "ChoiceDataList": [
+        "發生什麼事了嗎？",
+        "發生什麼事了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "不，不是什麼重要的事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "我想吃以前在故鄉常吃的料理，\n於是試著尋找食材……",
+      "ChoiceDataList": [
+        "日本買不到嗎？",
+        "日本買不到嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "買得到。但是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "魚子醬……在日本賣得很貴呢。\n我的零用錢根本買不起。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……唉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我實在說不出「我買給妳吧」……\n榮進閃耀就這樣\n一臉消沉地離開了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

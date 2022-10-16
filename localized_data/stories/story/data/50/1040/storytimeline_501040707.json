@@ -1,145 +1,145 @@
 {
-    "Title": "在神社祈求！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我跟最近状态不佳的黄金城市，\n一起来到神社参拜。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "你怎么会选择来神社散心啊？\n……我本来是这么想的，不过这里很不错呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "这里很安静，更重要的是没有旁人的目光。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "跟为了模特儿工作来神社时相比，\n有截然不同的趣味呢。",
-            "ChoiceDataList": [
-                "为了模特儿工作来神社？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "没错。在大型时装秀前，\n或是拍摄新节目前，都会接受祈福仪式。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "会有一大堆人排成好几列，\n让人对自己挥舞白色的东西……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "啊，我也不讨厌当时的气氛，\n毕竟那不是在玩，大家都斗志昂扬。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "不管是满腔热血时，还是灰心丧志时，\n既然已经尽人事，\n剩下也只能请神保佑了呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "那我们去参拜吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "（铃铛声──）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "（呃～神明，最近我的状态莫名地很糟，\n我希望能改善）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "（我不会说“请让我变快”。\n只希望我能发挥实力，无论结果是成功失败）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "呼……这或许是安慰效果，\n但也算是与之前的自己做个了断吧……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "嗯。心情似乎好多了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "是我因担心时间不够而太过焦急了吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "好，走吧，训练员。\n看来明天起我可以专心练习了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "她潇洒地迈开步伐，\n阳光照在她的背影上。\n那个模样，宛若走在伸展台上一般。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "咦，是经纪人传来的邮件。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "咦，有紧急工作？现在要来接我！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "不会吧，本来还想说难得可以休假的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "黄金城市",
-            "Text": "居然还给我塞工作，神明祢是认真的吗？\n我可没祈求这种事啊……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "黄金城市的祈祷没有上达天听，\n她的状态不佳仍不见恢复……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "在神社祈求！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我跟最近狀態不佳的黃金城市，\n一起來到神社參拜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "你怎麼會選擇來神社散心啊？\n……我本來是這麼想的，不過這裡很不錯呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "這裡很安靜，更重要的是沒有旁人的目光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "跟為了模特兒工作來神社時相比，\n有截然不同的趣味呢。",
+      "ChoiceDataList": [
+        "為了模特兒工作來神社？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "沒錯。在大型時裝秀前，\n或是拍攝新節目前，都會接受祈福儀式。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "會有一大堆人排成好幾列，\n讓人對自己揮舞白色的東西……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "啊，我也不討厭當時的氣氛，\n畢竟那不是在玩，大家都鬥志昂揚。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "不管是滿腔熱血時，還是灰心喪志時，\n既然已經盡人事，\n剩下也只能請神保佑了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "那我們去參拜吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（鈴鐺聲──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "（呃～神明，最近我的狀態莫名地很糟，\n我希望能改善）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "（我不會說「請讓我變快」。\n只希望我能發揮實力，無論結果是成功失敗）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "呼……這或許是安慰效果，\n但也算是與之前的自己做個了斷吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "嗯。心情似乎好多了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "是我因擔心時間不夠而太過焦急了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "好，走吧，訓練員。\n看來明天起我可以專心練習了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她瀟灑地邁開步伐，\n陽光照在她的背影上。\n那個模樣，宛若走在伸展台上一般。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "咦，是經紀人傳來的郵件。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "咦，有緊急工作？現在要來接我！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "不會吧，本來還想說難得可以休假的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "居然還給我塞工作，神明祢是認真的嗎？\n我可沒祈求這種事啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "黃金城市的祈禱沒有上達天聽，\n她的狀態不佳仍不見恢復……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

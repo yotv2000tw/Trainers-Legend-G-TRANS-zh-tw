@@ -1,25 +1,25 @@
 {
-    "Title": "迎向出道战",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "终于到了参加“出道战”的这天。\n和紧张无缘的美浦波旁说着\n“若有必要也可以开始紧张”这种傻话。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "出道战"
-            ]
-        },
-        {
-            "Name": "独白",
-            "Text": "我向对任何事都像机器般准确执行的她\n下达“尽情奔跑”的指示。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向出道戰",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "終於到了參加「閃耀出道戰」的這天。\n和緊張無緣的美浦波旁說著\n「若有必要也可以開始緊張」這種傻話。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "閃耀出道戰"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "我向對任何事都像機器般準確執行的她\n下達「盡情奔跑」的指示。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

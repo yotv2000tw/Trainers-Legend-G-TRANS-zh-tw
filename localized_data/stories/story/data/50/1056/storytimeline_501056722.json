@@ -1,55 +1,55 @@
 {
-    "Title": "因头痛而忧郁",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我们正在讨论训练内容，\n但是……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "好痛……我的头……我的头\n好像跟镜饼一样快裂开来了……",
-            "ChoiceDataList": [
-                "你没事吧？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "呜呜……这好像是因为\n护身符没什么效果的关系。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "虽然我有可以缓和头部刺痛\n跟可以让药效增强100倍的护身符……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "啊！！对了，我没有\n消除头痛的护身符──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "啊啊啊好痛啊────！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "待兼福来就这样为头痛所苦……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "因頭痛而憂鬱",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們正在討論訓練內容，\n但是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "好痛……我的頭……我的頭\n好像跟鏡餅一樣快裂開來了……",
+      "ChoiceDataList": [
+        "妳沒事吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "嗚嗚……這好像是因為\n護身符沒什麼效果的關係。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "雖然我有可以緩和頭部刺痛\n跟可以讓藥效增強100倍的護身符……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "啊！！對了，我沒有\n消除頭痛的護身符──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "啊啊啊好痛啊────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "待兼福來就這樣為頭痛所苦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

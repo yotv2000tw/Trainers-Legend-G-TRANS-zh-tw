@@ -1,44 +1,44 @@
 {
-    "Title": "这次一定要获胜！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "上次的比赛，\n或许准备得有点不够充分。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "观众们应该也都对\n预料之内的发展感到厌倦了吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "但那种无聊的比赛\n也会在这次结束。",
-            "ChoiceDataList": [
-                "你有什么珍藏的妙计吗？",
-                "你有什么珍藏的妙计吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "呵呵呵……\n到底有没有呢？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "究竟有什么样的惊喜，\n等比赛后才会揭晓，敬请期待！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "這次一定要獲勝！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "上次的比賽，\n或許準備得有些不夠充分。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "觀眾們應該也都對\n預料之中的發展感到厭倦了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "但像那種無聊的比賽，\n這次也要落幕了。",
+      "ChoiceDataList": [
+        "妳有什麼珍藏的妙計嗎？",
+        "妳有什麼珍藏的妙計嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "呵呵呵……\n到底有沒有呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "究竟會有什麼樣的驚喜，\n等比賽後才會揭曉，敬請期待！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

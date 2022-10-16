@@ -1,55 +1,55 @@
 {
-    "Title": "肤况不太好……",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "因为美浦波旁表情很凝重，\n所以我前去关心──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "谢谢Master关心。\n我正在思考肌肤状况出现异常的原因。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "但这不重要。只要将皮肤……\n将外皮零件替换掉就能解决了。",
-            "ChoiceDataList": [
-                "什么？外皮……零件？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "………………很抱歉。\n这是玩笑，也就是“机器人笑话”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "为了不让Master担心，\n所以才开玩笑……却失败了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "美浦波旁",
-            "Text": "确认到负面状态“屋漏偏逢连夜雨”。\n判断……一切原因都来自于，肤况不好……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "美浦波旁因为肤况不好而诸事不顺……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "膚況不太好……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因為美浦波旁表情很凝重，\n所以我前去關心──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "謝謝教練關心。\n我正在思考肌膚狀況出現異常的原因。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "但這不重要。只要將皮膚……\n將外皮零件替換掉就能解決了。",
+      "ChoiceDataList": [
+        "什麼？外皮……零件？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "………………很抱歉。\n這是玩笑，也就是「機器人笑話」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "為了不讓教練擔心，\n所以才開玩笑……卻失敗了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "確認到負面狀態「屋漏偏逢連夜雨」。\n判斷……一切原因都來自於，膚況不好……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "美浦波旁因為膚況不好而諸事不順……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

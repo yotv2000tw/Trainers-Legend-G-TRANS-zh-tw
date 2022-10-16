@@ -1,49 +1,49 @@
 {
-    "Title": "迎向宝冢纪念",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "终于到了这一天呢。\n“宝冢纪念”就要开始了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "这是阪神赛场和京都赛场的所有人，\n大家一起共同成就的舞台。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……米浴也得加油才行。",
-            "ChoiceDataList": [
-                "回应大家的期待吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……嗯！大家愿意等待米浴的话，\n米浴就会用这双脚回应大家的期待。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "虽然米浴很没用……\n说不定会给大家添麻烦……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "但米浴会尽全力做好能做的事，\n一直努力到最后！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向寶塚紀念",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "終於到了這一天呢。\n「寶塚紀念」就要開始了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "這是阪神賽場和京都賽場的所有人，\n大家一起共同成就的舞台。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……米浴也得加油才行。",
+      "ChoiceDataList": [
+        "回應大家的期待吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……嗯！大家願意等待米浴的話，\n米浴就會用這雙腳回應大家的期待。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "雖然米浴很沒用……\n說不定會給大家添麻煩……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "但米浴會盡全力做好能做的事，\n一直努力到最後！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

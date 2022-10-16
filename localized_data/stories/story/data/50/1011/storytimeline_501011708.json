@@ -1,72 +1,72 @@
 {
-    "Title": "竞赛获胜！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "呼～\n顺利拿到第一名了～",
-            "ChoiceDataList": [
-                "你成功了！",
-                "你成功了呢！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "嗯，不过这并不是什么特别的事。\n因为这全是平时努力的成果。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "所以我们别因此骄傲，\n继续努力训练吧～",
-            "ChoiceDataList": [
-                "不过我很高兴你赢得比赛哦！",
-                "不过我很高兴你赢得比赛呢！",
-                "以后我也会严格督促你哦！",
-                "以后我也会严格督促你哟！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "所以我们别因此骄傲，\n继续努力训练吧～",
-            "ChoiceDataList": [
-                "不过我很高兴你赢得比赛哦！",
-                "不过我很高兴你赢得比赛呢！",
-                "以后我也会严格督促你哦！",
-                "以后我也会严格督促你哟！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "呵呵，谢谢你。\n我没想到你会这么高兴呢……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "不过这里只是通往顶点的途中而已。\n在抵达目标前，要请你像现在这样陪着我哦～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "好的，而且俗话说\n“胜不骄，败不馁”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "训练员，\n往后也请你绷紧神经，不吝指导咯♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "競賽獲勝！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "呼～\n順利拿到第一名了～",
+      "ChoiceDataList": [
+        "妳成功了！",
+        "妳成功了呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "嗯，不過這並不是什麼特別的事。\n因為這全是平時努力的成果。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "所以我們別因此驕傲，\n繼續努力訓練吧～",
+      "ChoiceDataList": [
+        "不過我很高興妳贏得比賽喔！",
+        "不過我很高興妳贏得比賽呢！",
+        "以後我也會嚴格督促妳喔！",
+        "以後我也會嚴格督促妳唷！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "所以我們別因此驕傲，\n繼續努力訓練吧～",
+      "ChoiceDataList": [
+        "不過我很高興妳贏得比賽喔！",
+        "不過我很高興妳贏得比賽呢！",
+        "以後我也會嚴格督促妳喔！",
+        "以後我也會嚴格督促妳唷！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "呵呵，謝謝你。\n我沒想到你會這麼高興呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "不過這裡只是通往頂點的途中而已。\n在抵達目標前，要請你像現在這樣陪著我喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "好的，而且俗話說\n「勝不驕，敗不餒」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "訓練員，\n往後也請你繃緊神經，不吝指導囉♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

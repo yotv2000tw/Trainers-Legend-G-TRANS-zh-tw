@@ -1,56 +1,56 @@
 {
-    "Title": "参赛的疲劳",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "在训练过程中，\n米浴动作好像不太流畅……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "呼、呼……",
-            "ChoiceDataList": [
-                "状况不好吗？",
-                "状况不好吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "对、对不起……哥哥。\n可能是之前的比赛太拼命了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "对、对不起……姐姐。\n可能是之前的比赛太拼命了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "那个，不过……不要紧！\n哥哥别担心……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "那个，不过……不要紧！\n姐姐别担心……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "看来比赛的疲劳还没有完全恢复。\n或许我太勉强她了，\n必须多注意一点才行……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "參賽的疲勞",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在訓練過程中，\n米浴動作好像不太流暢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "呼、呼……",
+      "ChoiceDataList": [
+        "狀況不好嗎？",
+        "狀況不好嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "對、對不起……大哥哥。\n可能是之前的比賽太拚命了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "對、對不起……大姐姐。\n可能是之前的比賽太拚命了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "那個，不過……不要緊！\n大哥哥別擔心……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "那個，不過……不要緊！\n大姐姐別擔心……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看來比賽的疲勞還沒有完全恢復。\n或許我太勉強她了，\n必須多注意一點才行……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

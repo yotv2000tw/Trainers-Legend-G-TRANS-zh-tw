@@ -1,70 +1,70 @@
 {
-    "Title": "缺席的理由……",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我担心没有来训练的摩耶重炮，\n跑去找她……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "训练员♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "你怎么在四处张望？？\n在找东西吗～？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "啊！该不会……在找人家吧☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "既然这样，一起玩躲猫猫吧？\n我刚好在和朋友玩♪",
-            "ChoiceDataList": [
-                "你没事真是太好了……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "咦？嗯，我没事…………啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "对了，训练。\n因为人家没去，所以才担心吗……？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "对不起！\n人家并没有要让你难过的意思。",
-            "ChoiceDataList": [
-                "下次要注意点",
-                "下次要注意哦"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "嗯……不会再让你担心了！\n因为人家希望训练员能保持笑容！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "缺席的理由……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我擔心沒有來訓練的重砲，\n跑去找她……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "訓練員♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "你怎麼在四處張望？？\n在找東西嗎～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "啊！該不會……在找人家吧☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "既然這樣，一起玩躲貓貓吧？\n我剛好在和朋友玩♪",
+      "ChoiceDataList": [
+        "妳沒事真是太好了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "咦？嗯，我沒事…………啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "對了，訓練。\n因為人家沒去，所以才擔心嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "對不起！\n人家並沒有要讓你難過的意思。",
+      "ChoiceDataList": [
+        "下次要注意點",
+        "下次要注意喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "嗯……不會再讓你擔心了！\n因為人家希望訓練員能保持笑容！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

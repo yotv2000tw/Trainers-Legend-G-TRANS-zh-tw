@@ -1,43 +1,43 @@
 {
-    "Title": "参赛的疲劳",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我专注于工作，不小心就弄到很晚。\n当我急忙踏上归途时……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "……哎呀？\n训练员，你还没回去吗？",
-            "ChoiceDataList": [
-                "你自主训练到这么晚？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "……比赛的事情在我脑中挥之不去。\n我原本以为跑一跑能够转换心情──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "琵琶晨光",
-            "Text": "唉……但事情没那么顺利呢。\n接着该采用哪个对策呢……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "她似乎累积不少比赛的疲劳……\n或许我该重新调整今后的预定赛程。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "參賽的疲勞",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我專注於工作，不小心就弄到很晚。\n當我急忙踏上歸途時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "……哎呀？\n訓練員，你還沒回去嗎？",
+      "ChoiceDataList": [
+        "妳自主訓練到這麼晚？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "……比賽的事情在我腦中揮之不去。\n我原本以為跑一跑能夠轉換心情──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "唉……但事情沒那麼順利呢。\n接著該採用哪個對策呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她似乎累積不少比賽的疲勞……\n或許我該重新調整今後的預定賽程。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

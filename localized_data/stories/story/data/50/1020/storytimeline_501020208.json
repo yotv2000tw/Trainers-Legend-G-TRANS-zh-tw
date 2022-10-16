@@ -1,116 +1,116 @@
 {
-    "Title": "迎向有马纪念",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众A",
-            "Text": "特别周跟草上飞！\n唔哦哦，到底谁才是最强的赛马娘！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众B",
-            "Text": "怎么没提到青云天空呢？\n虽然她好像因为受伤而无法好好训练。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众A",
-            "Text": "嗯～我觉得她不太可能赢～\n虽然很遗憾，但果然不能忽视受伤的影响……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众C",
-            "Text": "……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "──大概是这种感觉，\n许多人都认为小青没有胜算～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "哎，是我可能也会这么想。\n那两人都经过良好的锻炼，\n所以我当然显得相形见绌。",
-            "ChoiceDataList": [
-                "哎呀呀"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "是啊，会想这么说吧。不管再怎么挣扎，\n还是无法成为热门的赛马娘～呜呜呜。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "正因为如此，才能把这场比赛\n变成充满哀嚎的快～乐比赛♪",
-            "ChoiceDataList": [
-                "计策都准备好了吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "哇哈哈～♪那当然！\n之后就好好看我的表现吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "再来就是顺其自然，随心所欲。\n我出发咯～",
-            "ChoiceDataList": [
-                "天空！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "嗯？",
-            "ChoiceDataList": [
-                "让我大吃一惊吧",
-                "让我大吃一惊吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "嘿嘿，\n放心交给小青吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "我会为你带来远远超出想像的\n紧、张、刺、激♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众C",
-            "Text": "──不过，如果是青云天空……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众C",
-            "Text": "或许能带给我们一场\n不得了的比赛。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众C",
-            "Text": "没错，如果是她的话……\n一定可以……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向有馬紀念",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "特別週跟草上飛！\n唔喔喔，到底誰才是最強的賽馬娘！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "怎麼沒提到青雲天空呢？\n雖然她好像因為受傷的關係，\n而無法好好地進行訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "嗯～我自己是覺得她不太可能贏～\n雖然很遺憾，但果然還是不能忽視受傷的影響……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾C",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "──大概就是這種印象。\n看來許多人都認為「小青沒有勝算！」呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "哎，連我可能也會如此評價自己吧。\n那兩人都有經過了良好的鍛鍊，\n所以我當然顯得相形見絀。",
+      "ChoiceDataList": [
+        "哎呀呀"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "是啊，會想說「哎呀呀～」呢。不管再怎麼掙扎，\n還是無法成為熱門的賽馬娘～嗚嗚嗚。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "但正因為如此，才能把這場比賽\n變成充滿哀嚎的愉～快比賽♪",
+      "ChoiceDataList": [
+        "計策都準備好了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "哇哈哈～♪那當然！\n之後就好好看我的表現吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "再來就是順其自然，隨心所欲。\n我出發囉～",
+      "ChoiceDataList": [
+        "天空！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "嗯？",
+      "ChoiceDataList": [
+        "讓我大吃一驚吧",
+        "讓我大吃一驚吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "嘿嘿，\n放心交給小青吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "我會為訓練員帶來遠遠超出你想像的\n緊、張、刺、激♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾C",
+      "Text": "──不過，\n如果是青雲天空……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾C",
+      "Text": "或許能帶給我們一場\n不得了的比賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾C",
+      "Text": "沒錯，如果是她的話……\n一定可以……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

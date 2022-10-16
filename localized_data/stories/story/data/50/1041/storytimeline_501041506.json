@@ -1,228 +1,228 @@
 {
-    "Title": "舞蹈练习",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "樱花进王说希望我陪她练习跳舞，\n于是我跟着她一起去──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "好，那么！\n我们开始练舞吧！",
-            "ChoiceDataList": [
-                "在游乐园！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "是呀！昨天我在电视上看到的！\n说这里的游行表演以精彩完美着称！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "完美……也就是优秀！\n身为优等生，我想认真跟他们学习！",
-            "ChoiceDataList": [
-                "原来如此，学习……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "啊！不小心聊太久了！\n训练员，我们赶快做准备吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "首先要去买荧光棒！\n听说挥舞荧光棒可以让游行看起来更华丽。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "哦！那里在卖吉拿棒跟汽水！\n听说那也是必备品，买一份吧！",
-            "ChoiceDataList": [
-                "这、这真的是要练舞吗？",
-                "这、这真的是要练舞吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "当然了！这些全是电视上介绍过的，\n要了解游行表演的精髓所需的秘策！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "就这样，我们做好了事前准备，\n游行表演终于正式开始──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "啊，胡萝卜国王跟王后登场了──\n……哦哦……哦哦哦……哦哦哦哦哦！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "好、好惊人的舞蹈……我一时看得太兴奋，\n不禁都快把荧光棒握碎了……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "表演实力强大到让观众如此狂热！\n我一定要学起来……然后赢得观众的喝彩！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "──咦，啊啊！？在那里的不就是\n胡萝卜国王与王……不对，是两位大师！",
-            "ChoiceDataList": [
-                "是迎宾会的活动吧",
-                "是迎宾会的活动呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "这、这样的话……我是否该直接上前求教！？\n请教他们那舞蹈的精髓所在！",
-            "ChoiceDataList": [
-                "与其问人不如自己尝试！",
-                "好，我们去问吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "原来如此！与其向人学习不如自己练习！\n那我立刻来跳跳看！",
-            "ChoiceDataList": [
-                "现在！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "是！俗话说好事不宜迟嘛……\n应该说，再不跳我就要忘记了！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "像这样！像这样！\n这样……这样…………唉哟！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小孩",
-            "Text": "哇！姐姐加油──！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "唔～！谢谢大家的鼓励！\n这次我一定会跳成功！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "嘿呀！嘿呀！\n嘿嘿，呀呀……喝～～～～！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众",
-            "Text": "哦哦！？是游行的舞蹈耶！\n舞步完全一样！超强的～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "哈～哈哈哈哈！\n大家的喝彩真热烈！我还能继续跳下去哦！",
-            "ChoiceDataList": [
-                "差不多可以停了……！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "游乐园的工作人员",
-            "Text": "怎么有人在吵闹……喂，这位游客！？\n你在做什么！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "虽然她因为引起骚动而挨骂……\n但几天后，我收到一个令人开心的消息，\n负责舞蹈的教官说她的舞技进步了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "于是我跟樱花进王一起排队参加\n迎宾会的活动……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "终于……来啦──！！轮到我了！\n我要去请教两位大师！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "我看了刚才的游行，觉得好感动！\n请两位务必要传授我跳舞的诀窍！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "唔！这个爱心手势……我懂了，\n意思是要让全身上下洋溢着爱心对吧？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "然后您指着头……哦！换言之，\n就是进一步理解舞步，铆足全力去表现！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "也就是说，简单一句话！\n……唯有爆进一途，就是这个意思吧！",
-            "ChoiceDataList": [
-                "是这样吗！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "没错，条条大路通爆进！\n我竟然忘了这一点，真是粗心大意。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "谢谢两位大师！\n我会回归初衷，追求极致舞技的！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……本来我还担心她是否真的有所领悟，\n但几天后，我收到一个令人开心的消息，\n负责舞蹈的教官说她的舞技进步了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "舞蹈練習",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "櫻花驀進王說希望我陪她練習跳舞，\n於是我跟著她一起去──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "好，那麼！\n我們開始練舞吧！",
+      "ChoiceDataList": [
+        "在遊樂園！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "是呀！昨天我在電視上看到的！\n說這裡的遊行表演以精彩完美著稱！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "完美……也就是優秀！\n身為模範生，我想認真跟他們學習！",
+      "ChoiceDataList": [
+        "原來如此，學習……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "啊！不小心聊太久了！\n訓練員，我們趕快做準備吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "首先要去買螢光棒！\n聽說揮舞螢光棒可以讓遊行看起來更華麗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "哦！那裡在賣吉拿棒跟汽水！\n聽說那也是必備品，買一份吧！",
+      "ChoiceDataList": [
+        "這、這真的是要練舞嗎？",
+        "這、這真的是要練舞嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "當然了！這些全是電視上介紹過的，\n要了解遊行表演的精髓所需的祕策！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，我們做好了事前準備，\n遊行表演終於正式開始──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "啊，胡蘿蔔國王跟王后登場了──\n……喔喔……喔喔喔……喔喔喔喔喔！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "好、好驚人的舞蹈……我一時看得太興奮，\n不禁都快把螢光棒握碎了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "表演實力強大到讓觀眾如此狂熱！\n我一定要學起來……然後贏得觀眾的喝采！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "──咦，啊啊！？在那裡的不就是\n胡蘿蔔國王與王……不對，是兩位大師！",
+      "ChoiceDataList": [
+        "是迎賓會的活動吧",
+        "是迎賓會的活動呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "這、這樣的話……我是否該直接上前求教！？\n請教他們那舞蹈的精髓所在！",
+      "ChoiceDataList": [
+        "與其問人不如自己嘗試！",
+        "好，我們去問吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "原來如此！與其向人學習不如自己練習！\n那我立刻來跳跳看！",
+      "ChoiceDataList": [
+        "現在！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "是！俗話說好事不宜遲嘛……\n應該說，再不跳我就要忘記了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "像這樣！像這樣！\n這樣……這樣…………唉呦！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩",
+      "Text": "哇！大姐姐加油──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "唔～！謝謝大家的鼓勵！\n這次我一定會跳成功！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "嘿呀！嘿呀！\n嘿嘿，呀呀……喝～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾",
+      "Text": "哦哦！？是遊行的舞蹈耶！\n舞步完全一樣！超強的～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "哈～哈哈哈哈！\n大家的喝采真熱烈！我還能繼續跳下去喔！",
+      "ChoiceDataList": [
+        "差不多可以停了……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "遊樂園的工作人員",
+      "Text": "怎麼有人在吵鬧……喂，這位遊客！？\n妳在做什麼！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然她因為引起騷動而挨罵……\n但幾天後，我收到一個令人開心的消息，\n負責舞蹈的教官說她的舞技進步了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是我跟櫻花驀進王一起排隊參加\n迎賓會的活動……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "終於……來啦──！！輪到我了！\n我要去請教兩位大師！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "我看了剛才的遊行，覺得好感動！\n請兩位務必要傳授我跳舞的訣竅！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "唔！這個愛心手勢……我懂了，\n意思是要讓全身上下洋溢著愛心對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "然後您指著頭……哦！換言之，\n就是進一步理解舞步，卯足全力去表現！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "也就是說，簡單一句話！\n……唯有驀進一途，就是這個意思吧！",
+      "ChoiceDataList": [
+        "是這樣嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "沒錯，條條大路通驀進！\n我竟然忘了這一點，真是粗心大意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "謝謝兩位大師！\n我會回歸初衷，追求極致舞技的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……本來我還擔心她是否真的有所領悟，\n但幾天後，我收到一個令人開心的消息，\n負責舞蹈的教官說她的舞技進步了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

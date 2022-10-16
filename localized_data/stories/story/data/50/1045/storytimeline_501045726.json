@@ -1,77 +1,77 @@
 {
-    "Title": "挑战夹娃娃机！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "某天，当我和超级溪流一起外出时──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "──哎呀。\n呵呵，好像很有趣呢……♪",
-            "ChoiceDataList": [
-                "怎么了？",
-                "怎么了？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "请看那边～\n有那么多的嘚嘚玩偶。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我往超级溪流指的方向看去，\n那里有一台装有赛马娘主题玩偶的夹娃娃机。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "呵呵，很可爱对吧。\n每个都可爱到让我好想照顾它们呢～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "不过，我很少玩这种游戏……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "超级溪流露出不知如何是好的表情。",
-            "ChoiceDataList": [
-                "……我来夹给你吧？",
-                "……我来夹给你吧？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "咦，可以吗？\n那么……我就接受你的好意了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "超级溪流",
-            "Text": "还请加油！\n啊，不过要是勉强自己我会生气气哦！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "──这个挑战，不能失败！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "挑戰夾娃娃機！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某天，當我和超級小溪一起外出時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "──哎呀。\n呵呵，好像很有趣呢……♪",
+      "ChoiceDataList": [
+        "怎麼了？",
+        "怎麼了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "請看那邊～\n有那麼多的噠噠玩偶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我往超級小溪指的方向看去，\n那裡有一台裝有賽馬娘主題玩偶的夾娃娃機。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "呵呵，很可愛對吧。\n每個都可愛到讓我好想照顧它們呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "不過，我很少玩這種遊戲……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "超級小溪露出不知如何是好的表情。",
+      "ChoiceDataList": [
+        "……我來夾給妳吧？",
+        "……我來夾給妳吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "咦，可以嗎？\n那麼……我就接受你的好意了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "還請加油！\n啊，不過要是勉強自己我會生氣氣喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──這個挑戰，不能失敗！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

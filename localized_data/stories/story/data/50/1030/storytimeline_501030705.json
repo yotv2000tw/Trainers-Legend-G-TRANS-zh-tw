@@ -1,272 +1,272 @@
 {
-    "Title": "交给米浴吧……！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "假日和米浴外出后，\n我们一起踏上归途……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "今天出来玩真开心呢，哥哥。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "今天出来玩真开心呢，姐姐。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "哦哦～！！这不是米浴吗！？\n你来得正好！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "菱……菱亚！？\n怎、怎么了吗……？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "哦哦，抱歉抱歉，吓到你了呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "我现在在做料理，希望你能帮我一下！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "做料理……？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "今天是我要亲手做料理\n给宿舍成员吃的日子，对吧？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "我食材是都买好了，\n不过人手有点不够啊！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "那、那个……\n可是米浴帮忙的话会增添困扰……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "困扰？哦，你在说之前的事吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "那次厨房变得一片雪白的意外，\n纯粹是因为面粉袋原本就破了而已嘛。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "那种事常有常有啦！\n我反而觉得很有趣，不需要在意！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "倒是你再做一次那个可乐饼吧！\n那真的很好吃呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "我也还想再吃一次，怎么样？\n你愿意帮忙吗？米浴。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "可、可是……果然，\n要让米浴帮忙，还是有点……",
-            "ChoiceDataList": [
-                "好想吃吃看那个可乐饼哦",
-                "就当作是帮助他人"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "想吃米浴做的可乐饼吗……？",
-            "ChoiceDataList": [
-                "我想吃！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "这……这样啊……！\n嘿嘿，好高兴……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "那米浴下次，会做很多带过来的哦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "不要说下次了，现在就来做吧？\n我们应该还有做可乐饼需要的材料。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "那……哥哥如果想吃刚做好的可乐饼，\n就一起来吧……！",
-            "ChoiceDataList": [
-                "我会一起帮忙的！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "那……姐姐如果想吃刚做好的可乐饼，\n就一起来吧……！",
-            "ChoiceDataList": [
-                "我会一起帮忙的！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "太好了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "喂，你们两个！\n宿舍是严格禁止训练员进入的！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "啊唔！？对、对哦……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "几天后，我吃到米浴亲手制作的可乐饼。\n味道非常美味。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "真的帮得上忙吗？\n凭米浴这个样子……",
-            "ChoiceDataList": [
-                "可是人家很看重你哦"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "是、是这样吗……那，\n虽然或许会给菱亚添麻烦──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "没关系啦，你愿意帮忙的话，\n面粉破个一两袋不算什么！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "不过，米浴……\n你真的遇到了一个好训练员呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "不久之前，你遇到什么事\n就会直接把自己关在房间里。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "我可是很担心你能不能\n遇到一个好的训练员呢……哈哈。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "嗯……！哥哥他，\n非常温柔又可靠──",
-            "ChoiceDataList": [
-                "真让人害羞……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "嗯……！姐姐他，\n非常温柔又可靠──",
-            "ChoiceDataList": [
-                "真让人害羞……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "菱亚马逊",
-            "Text": "哦，害羞了害羞了！\n米浴，再多称赞一点！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "好、好的！要说哥哥的优点，\n米浴可是知道很多的……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "好、好的！要说姐姐的优点，\n米浴可是知道很多的……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "哥哥总是很努力、\n非常聪明、笑起来很可爱……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "姐姐总是很努力、\n非常聪明、笑起来很可爱……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "之后我一直被米浴称赞，\n持续了好一阵子。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "交給米浴吧……！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "假日和米浴外出後，\n我們一起踏上歸途……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "今天出來玩真開心呢，大哥哥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "今天出來玩真開心呢，大姐姐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "喔喔～！！這不是米浴嗎！？\n妳來得正好！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "菱……菱亞！？\n怎、怎麼了嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "喔喔，抱歉抱歉，嚇到妳了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "我現在在做料理，希望妳能幫我一下！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "做料理……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "今天是我要親手做料理\n給宿舍成員吃的日子，對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "我食材是都買好了，\n不過人手有點不夠啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "那、那個……\n可是米浴幫忙的話會增添困擾……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "困擾？哦，妳在說之前的事嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "那次廚房變得一片雪白的意外，\n純粹是因為麵粉袋原本就破了而已嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "那種事常有常有啦！\n我反而覺得很有趣，不需要在意！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "倒是妳再做一次那個可樂餅吧！\n那真的很好吃呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "我也還想再吃一次，怎麼樣？\n妳願意幫忙嗎？米浴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "可、可是……果然，\n要讓米浴幫忙，還是有點……",
+      "ChoiceDataList": [
+        "好想吃吃看那個可樂餅喔",
+        "就當作是幫助他人"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "想吃米浴做的可樂餅嗎……？",
+      "ChoiceDataList": [
+        "我想吃！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "這……這樣啊……！\n嘿嘿，好高興……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "那米浴下次，會做很多帶過來的喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "不要說下次了，現在就來做吧？\n我們應該還有做可樂餅需要的材料。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "那……大哥哥如果想吃剛做好的可樂餅，\n就一起來吧……！",
+      "ChoiceDataList": [
+        "我會一起幫忙的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "那……大姐姐如果想吃剛做好的可樂餅，\n就一起來吧……！",
+      "ChoiceDataList": [
+        "我會一起幫忙的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "太好了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "喂，你們兩個！\n宿舍是嚴格禁止訓練員進入的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "啊唔！？對、對喔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "幾天後，我吃到米浴親手製作的可樂餅。\n味道非常美味。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "真的幫得上忙嗎？\n憑米浴這個樣子……",
+      "ChoiceDataList": [
+        "可是人家很看重妳喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "是、是這樣嗎……那，\n雖然或許會給菱亞添麻煩──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "沒關係啦，妳願意幫忙的話，\n麵粉破個一兩袋不算什麼！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "不過，米浴……\n妳真的遇到了一個好訓練員呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "不久之前，妳遇到什麼事\n就會直接把自己關在房間裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "我可是很擔心妳能不能\n遇到一個好的訓練員呢……哈哈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "嗯……！大哥哥他，\n非常溫柔又可靠──",
+      "ChoiceDataList": [
+        "真讓人害羞……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "嗯……！大姐姐他，\n非常溫柔又可靠──",
+      "ChoiceDataList": [
+        "真讓人害羞……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "哦，害羞了害羞了！\n米浴，再多稱讚一點！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "好、好的！要說大哥哥的優點，\n米浴可是知道很多的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "好、好的！要說大姐姐的優點，\n米浴可是知道很多的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "大哥哥總是很努力、\n非常聰明、笑起來很可愛……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "大姐姐總是很努力、\n非常聰明、笑起來很可愛……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之後我一直被米浴稱讚，\n持續了好一陣子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

@@ -1,31 +1,31 @@
 {
-    "Title": "天皇赏（春）结束后．奖牌",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "成田白仁称霸了“天皇赏（春）”。\n她在这场比赛漂亮地击退了两强，\n让会场随之沸腾。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "强敌环伺的古马级令她兴奋不已。\n她想着，在这里的话一定能往更高处迈进。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "目白麦昆向那样的她提出提议，\n要她去参加秋古马三冠的首战\n“天皇赏（秋）”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "天皇赏（秋）"
-            ]
-        }
-    ]
+  "Title": "天皇賞（春）結束後．獎牌",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "成田白仁稱霸了「天皇賞（春）」。\n她在這場比賽漂亮地擊退了兩強，\n讓會場隨之沸騰。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "強敵環伺的資深級令她興奮不已。\n她想著，在這裡的話一定能往更高處邁進。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白麥昆向那樣的她提出提議，\n要她去參加秋季資深三冠的首戰\n「天皇賞（秋）」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "天皇賞（秋）"
+      ]
+    }
+  ]
 }

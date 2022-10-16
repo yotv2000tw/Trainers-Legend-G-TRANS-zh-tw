@@ -1,5 +1,5 @@
 {
-  "Title": "连战疲劳",
+  "Title": "參賽的疲勞",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,55 +8,55 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "校門前でナリタタイシンを見かけたが、\r\nいつもより元気がない気がする。",
+      "Name": "獨白",
+      "Text": "我在校門口看到了成田大進，\n感覺她似乎不如平時有精神。",
       "ChoiceDataList": [
-        "难道说身体不舒服吗？",
-        "难道说身体不舒服吗？"
+        "難不成妳身體不舒服？",
+        "難不成妳身體不舒服？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "……哈？我很好！",
+      "Name": "成田大進",
+      "Text": "……啊？你說誰不舒服！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "レースだってちゃんとこなしてるでしょ？\r\nアタシはそんなにヤワじゃない……！",
+      "Name": "成田大進",
+      "Text": "我比賽時都跑得好好的不是嗎？\n我才沒那麼虛弱……！",
       "ChoiceDataList": [
-        "但是……"
+        "可是……"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "吵死了，你担心过度了！",
+      "Name": "成田大進",
+      "Text": "少囉嗦，別當我是溫室花朵！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "（……何やってんだろ、アタシ。\r\n疲れてイライラして、八つ当たりして）",
+      "Name": "成田大進",
+      "Text": "（……我在做什麼啊。\n因為疲憊心情煩躁，還遷怒別人。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大进",
-      "Text": "（アイツの言う通り、\r\nちょっと休んだ方がいいのかな……）",
+      "Name": "成田大進",
+      "Text": "（就照那傢伙說的，\n稍微休息一下會比較好嗎……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "その後、ナリタタイシンと別れたが、\r\n去り際の後ろ姿も覇気がなかった。",
+      "Name": "獨白",
+      "Text": "之後，我跟成田大進道了再見，\n而她離開時的背影也像顆洩了氣的皮球。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "もしかすると、疲れが溜まっているのかも\r\nしれない。今後のレースの予定を\n見直す必要がありそうだ。",
+      "Name": "獨白",
+      "Text": "或許她已經累積了不少疲勞。\n看來有必要重新調整今後的參賽計畫。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

@@ -1,113 +1,113 @@
 {
-    "Title": "竞赛获胜！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "哇哇哇哇……我得到第第第一名了──！？\n竟然会发生这种事吗～！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "这、这、这一定是梦，对吧？\n我来捏个脸颊看看！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "（紧捏……！）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "好痛，痛死我了──！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "确、确实感觉得到痛……！\n那那那也就是说，这是在整人吗！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "会突然有一批人拿着告示牌出现对吧？\n是这样没错吧──！？",
-            "ChoiceDataList": [
-                "恭喜你，这是现实哦！",
-                "恭喜你，这是现实啦！",
-                "你可不能太过得意忘形哦",
-                "你可不能太过得意忘形哦"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "会突然有一批人拿着告示牌出现对吧？\n是这样没错吧──！？",
-            "ChoiceDataList": [
-                "恭喜你，这是现实哦！",
-                "恭喜你，这是现实啦！",
-                "你可不能太过得意忘形哦",
-                "你可不能太过得意忘形哦"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "呼啊……我、我是……第一名。\n嘿嘿……嘿嘿嘿嘿……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "原来努力也是会收到回报的耶。\n就算只是歪打正着，我我我也好开心～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "你、你可不能事后才跟我说其实是\n骗人的哦……应该不会这样对吧？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我告诉名将怒涛不用担心之后，\n她一整天都眉开眼笑的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "啊……说、说得也是哦……！\n我的内心确实有点浮躁～",
-            "ChoiceDataList": [
-                "重新鼓起干劲吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "好的……！\n对耶，之后还有比赛……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "我要更努力训练，还有读书也是……\n然后然后……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "名将怒涛",
-            "Text": "下次我也不会输……不对，我想要赢！\n要、要拼咯～～！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "競賽獲勝！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "哇哇哇哇……我得到第第第一名了──！？\n竟然會發生這種事嗎～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "這、這、這一定是夢，對吧？\n我來捏個臉頰看看！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（緊捏……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "好痛，痛死我了──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "確、確實感覺得到痛……！\n那那那也就是說，這是在整人嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "會突然有一批人拿著告示牌出現對吧？\n是這樣沒錯吧──！？",
+      "ChoiceDataList": [
+        "恭喜妳，這是現實喔！",
+        "恭喜妳，這是現實啦！",
+        "妳可不能太過得意忘形喔",
+        "妳可不能太過得意忘形喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "會突然有一批人拿著告示牌出現對吧？\n是這樣沒錯吧──！？",
+      "ChoiceDataList": [
+        "恭喜妳，這是現實喔！",
+        "恭喜妳，這是現實啦！",
+        "妳可不能太過得意忘形喔",
+        "妳可不能太過得意忘形喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "呼啊……我、我是……第一名。\n嘿嘿……嘿嘿嘿嘿……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "原來努力也是會收到回報的耶。\n就算只是歪打正著，我我我也好開心～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "你、你可不能事後才跟我說其實是\n騙人的喔……應該不會這樣對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我告訴名將怒濤不用擔心之後，\n她一整天都眉開眼笑的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "啊……說、說得也是喔……！\n我的內心確實有點浮躁～",
+      "ChoiceDataList": [
+        "重新鼓起幹勁吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "好的……！\n對耶，之後還有比賽……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "我要更努力訓練，還有讀書也是……\n然後然後……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "下次我也不會輸……不對，我想要贏！\n要、要拚囉～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

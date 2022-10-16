@@ -1,50 +1,50 @@
 {
-    "Title": "参赛的疲劳",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我和目白赖恩一起训练时，\n发现她的动作缺乏利落感。",
-            "ChoiceDataList": [
-                "是状况不好吗？",
-                "是状况欠佳吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白赖恩",
-            "Text": "不，我没事！\n请你看看我这充满跃动感的肌肉──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白赖恩",
-            "Text": "咦，奇怪……？\n感觉肱二头肌不像平常那么紧实。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白赖恩",
-            "Text": "大腿后肌和小腿三头肌也一点精神都没有！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "果然肌肉的状况也不是很好。\n大概是累积了太多疲劳吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "还是重新调整之后的参赛行程好了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "參賽的疲勞",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我和目白雷恩一起訓練時，\n發現她的動作缺乏俐落感。",
+      "ChoiceDataList": [
+        "是狀況不好嗎？",
+        "是狀況欠佳嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "不，我沒事！\n請你看看我這充滿躍動感的肌肉──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "咦，奇怪……？\n感覺肱二頭肌不像平常那麼緊實。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "大腿後肌和小腿三頭肌也一點精神都沒有！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "果然肌肉的狀況也不是很好。\n大概是累積了太多疲勞吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "還是重新調整之後的參賽行程好了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

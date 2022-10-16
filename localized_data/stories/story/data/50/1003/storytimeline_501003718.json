@@ -1,38 +1,38 @@
 {
-    "Title": "恢复精神",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "训练员，你好慢哦～！\n我正要去接你呢～",
-            "ChoiceDataList": [
-                "帝王？真早呢",
-                "帝王？真早呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "嘿嘿嘿～很了不起吧？很厉害吧！\n可以再多夸几句哦！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "大概是昨天有好好休息，\n今天起得特别早！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "所以我也为训练做好准备咯！\n走吧走吧，快跟上我～♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "恢復精神",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "訓練員，你好慢喔～！\n我正要去接你呢～",
+      "ChoiceDataList": [
+        "帝皇？真早呢",
+        "帝皇？真早呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "嘿嘿嘿～很了不起吧？很厲害吧！\n可以再多誇幾句喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "大概是昨天有好好休息，\n今天起得特別早！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "所以我也為訓練做好準備囉！\n走吧走吧，快跟上我～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

@@ -1,117 +1,117 @@
 {
-    "Title": "粉丝信",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我正到屋顶上来找伏特加，看看她在不在──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "嘿嘿……粉丝信啊。说这种话虽然很不像我，\n但收到信果然还是很开心呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "嗯……？这是什么？我的画像？",
-            "ChoiceDataList": [
-                "你收到粉丝信啊？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "嗯啊！？……什么嘛，是训练员啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "就算是我，当然也是会收到粉丝信的咯……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "你看，打开一看，信封中装着我的画像。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "哈哈，画得完全不像啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "我本人奔跑时远比这张画更帅吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "但是──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "应该是哪个小朋友努力画给我的吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "比起写了再多字的粉丝信，\n这种东西更能打动我的心啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "……好！那我们走吧。",
-            "ChoiceDataList": [
-                "要去哪里？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "还问去哪？当然是去训练咯！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "我不想让我的小粉丝失望啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "下次比赛我要遥遥领先，\n让粉丝见识我更帅气的样子！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "伏特加",
-            "Text": "要走咯！再发呆我就要丢下你咯。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "看来来自小小粉丝的粉丝信\n点燃了伏特加的心。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "粉絲信",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我正到屋頂上來找伏特加，看看她在不在──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "嘿嘿……粉絲信啊。說這種話雖然很不像我，\n但收到信果然還是很開心呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "嗯……？這是什麼？我的畫像？",
+      "ChoiceDataList": [
+        "妳收到粉絲信啊？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "嗯啊！？……什麼嘛，是訓練員啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "就算是我，當然也是會收到粉絲信的囉……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "你看，打開一看，信封中裝著我的畫像。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "哈哈，畫得完全不像啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "我本人奔跑時遠比這張畫更帥吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "但是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "應該是哪個小朋友努力畫給我的吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "比起寫了再多字的粉絲信，\n這種東西更能打動我的心啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "……好！那我們走吧。",
+      "ChoiceDataList": [
+        "要去哪裡？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "還問去哪？當然是去訓練囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "我不想讓我的小粉絲失望啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "下次比賽我要遙遙領先，\n讓粉絲見識我更帥氣的樣子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "要走囉！再發呆我就要丟下你囉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看來來自小小粉絲的粉絲信\n點燃了伏特加的心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

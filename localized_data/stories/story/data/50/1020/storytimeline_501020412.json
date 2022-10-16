@@ -1,25 +1,25 @@
 {
-    "Title": "迎向出道战",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "出道战的日子终于到来。\n青云天空看起来十分放松。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "出道战"
-            ]
-        },
-        {
-            "Name": "独白",
-            "Text": "她要训练员好好期待之后的结果，\n就轻松地去比赛了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向出道戰",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "閃耀出道戰的日子終於到來。\n青雲天空的樣子看起來十分放鬆。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "閃耀出道戰"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "她告訴訓練員要「好好期待之後的結果」，\n就一派輕鬆地去比賽了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

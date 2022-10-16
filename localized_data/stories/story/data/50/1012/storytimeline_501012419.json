@@ -1,36 +1,36 @@
 {
-    "Title": "出道战结束后．想击败的家伙",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "菱亚马逊漂亮地跑完“出道战”，\n她充满了干劲。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "她有个想要在大舞台上对决的劲敌。\n那就是同年代选手中最有望获得经典三冠的赛马娘，\n成田白仁。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "经典",
-                "成田白仁"
-            ]
-        },
-        {
-            "Name": "独白",
-            "Text": "为了实现这个梦想，\n菱亚马逊希望能迈向更高的巅峰。\n接下来要挑战的是新马级GⅠ“阪神JF”……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "新马级",
-                "GⅠ",
-                "阪神JF"
-            ]
-        }
-    ]
+  "Title": "出道戰結束後．想擊敗的傢伙",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "菱亞馬遜漂亮地跑完「閃耀出道戰」，\n渾身充滿了幹勁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她有個想要在大舞台上對決的勁敵。\n那就是同年代選手中，最有望獲得經典三冠的\n賽馬娘成田白仁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "經典",
+        "成田白仁"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "為了實現這個夢想，\n菱亞馬遜希望能更上一層樓。\n接下來要挑戰的是新手級GⅠ「阪神JF」……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "新手級",
+        "GⅠ",
+        "阪神JF"
+      ]
+    }
+  ]
 }

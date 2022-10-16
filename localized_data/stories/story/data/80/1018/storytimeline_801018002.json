@@ -1,113 +1,113 @@
 {
-    "Title": "聪敏而铁腕",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "某天在学园的走廊──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "──好，全部就这些了吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "气槽看着堆积在走廊角落的纸箱，\n似乎在想些什么。",
-            "ChoiceDataList": [
-                "这么多的纸箱究竟是……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "喂，你别随意靠近。\n这些我正要处理，不需要你操心。",
-            "ChoiceDataList": [
-                "处理？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "这些是用不到的展品及回收的爱心伞，\n还有损坏的学园备品。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "学生会要把这些移到其他房间重新整理。",
-            "ChoiceDataList": [
-                "一个人要搬运这些需要很大的力气呢",
-                "一个人要搬运这些需要很大的力气呢",
-                "要处理这么大量的东西就必须加紧速度了……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "学生会要把这些放在其他房间重新整理。",
-            "ChoiceDataList": [
-                "一个人要搬运这些需要很大的力气呢",
-                "一个人要搬运这些需要很大的力气呢",
-                "要处理这么大量的东西就必须加紧速度了……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "哼。你这是在担心我吗？\n平时有在锻炼的话根本不算什么。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "气槽轻松地抱起成堆的纸箱离开。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "从她非常稳定的步伐中，\n能看出她平时就有在确实锻炼全身。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "哼，这点程度的小事若不能迅速解决──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "我还有什么资格\n以“女帝”及学生会副会长自居。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "气槽",
-            "Text": "废话就到此为止，与其担心我，\n不如去做好自己分内的事。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "气槽轻松地抱起成堆的纸箱离开。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "搬着庞大重物却依然利落的步伐，\n可以看出她毫无破绽的实力。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "聰敏而鐵腕",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天在學園的走廊──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "──好，全部就這些了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "氣槽看著堆積在走廊角落的紙箱，\n似乎在想些什麼。",
+      "ChoiceDataList": [
+        "這麼多的紙箱究竟是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "喂，你別隨意靠近。\n這些我正要處理，不需要你操心。",
+      "ChoiceDataList": [
+        "處理？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "這些是用不到的展品及回收的愛心傘，\n還有損壞的學園備品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "學生會要把這些移到其他房間重新整理。",
+      "ChoiceDataList": [
+        "一個人要搬運這些需要很大的力氣呢",
+        "一個人要搬運這些需要很大的力氣呢",
+        "要處理這麼大量的東西就必須加緊速度了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "學生會要把這些放在其他房間重新整理。",
+      "ChoiceDataList": [
+        "一個人要搬運這些需要很大的力氣呢",
+        "一個人要搬運這些需要很大的力氣呢",
+        "要處理這麼大量的東西就必須加緊速度了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "哼。你這是在擔心我嗎？\n平時有在鍛鍊的話根本不算什麼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "氣槽輕鬆地抱起成堆的紙箱離開。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "從她非常穩定的步伐中，\n能看出她平時就有在確實鍛鍊全身。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "哼，這點程度的小事若不能迅速解決──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "我還有什麼資格\n以「女帝」及學生會副會長自居。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "廢話就到此為止，與其擔心我，\n不如去做好自己份內的事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "氣槽輕鬆地抱起成堆的紙箱離開。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "搬著龐大重物卻依然俐落的步伐，\n可以看出她毫無破綻的實力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

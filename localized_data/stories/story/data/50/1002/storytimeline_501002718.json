@@ -1,37 +1,37 @@
 {
-    "Title": "恢复精神",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "谢谢你让我好好休息。",
-            "ChoiceDataList": [
-                "有好好放松了吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "是的，\n我去了喜爱的地方尽情奔跑。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "总觉得连双脚都变得轻盈起来了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "无声铃鹿似乎在身心上都恢复精神了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "恢復精神",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "謝謝你讓我好好休息。",
+      "ChoiceDataList": [
+        "有好好放鬆了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "是的，\n我去了喜愛的地方盡情奔跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "總覺得連雙腳都變得輕盈起來了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "無聲鈴鹿似乎在身心上都恢復精神了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

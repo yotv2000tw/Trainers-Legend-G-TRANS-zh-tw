@@ -1,191 +1,131 @@
 {
-    "Title": "在深夜的泳池",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我依照爱丽速子的指示，来到深夜的泳池……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "今天的实验是\n“调查水压倍增时的肌肉跳动”！",
-            "ChoiceDataList": [
-                "为什么要挑这种时间……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "要是被人发现就糟了。\n因为我在泳池里投入了特殊的药品。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "没事的，\n只要在明天之前把证据消灭掉就没问题！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "好了，开始吧！你要好好计算秒数哦！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "爱丽速子意气风发地游了起来。\n不过水池的水看起来没有变化──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "嗯……没有任何变化呢。\n看来药量跟水量相比果然太少了呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "没办法。训练员，接下来就交给你了。\n要是之后药品产生变化，引发问题就麻烦了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "虽然泳池的水有在循环，\n但池底跟扶手等各个地方应该都有沾到药。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "必须仔细清扫消灭证据。\n麻烦你细心点了。",
-            "ChoiceDataList": [
-                "速子也来帮忙吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "咦咦咦……\n我原本想回去检讨这次为什么会失败……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "唉……我知道了。\n不要用那种眼神看着我啦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "不但实验失败了，还得要清理……\n真是受够了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "爱丽速子虽然嘴上在抱怨，\n不过因为游泳的关系有锻练到肌肉，\n也算是度过了一段充实的时光。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "必须仔细清扫消灭证据。\n麻烦你细心点了。",
-            "ChoiceDataList": [
-                "一个人做不完的"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "嗯……时间确实满吃紧的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "我可不想因为留下证据而被说教。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "……没办法，我来帮忙吧。\n你要好好感谢我啊！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "爱丽速子虽然一脸疲惫，\n但还是有透过游泳锻练到肌肉，\n度过了一段充实的时光。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "好好打扫消灭证据。\r\n要仔细点哦。",
-            "ChoiceDataList": [
-                "再试试呢？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "没用的。虽然很遗憾但事实如此\r\n水池没有变化――",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "嗯……！？\u3000这是……\r\n水的阻力比刚才更强了！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "水的密度变化居然会剧烈到如此程度……\r\n也或许是我在其中运动\n所造成的……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "唔呣，有意思起来了啊！\r\n训练员君！\u3000你也来试试！",
-            "ChoiceDataList": [
-                "诶……呜哇啊！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "于是她兴奋地把我\r\n拽入泳池里――",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "哎呀，效果真不错！\r\n我差点就把这么宝贵的实验成果\n付之一炬了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "你立大功了哦，训练员君！\r\n而且今天还好好运动了一把，真不错！",
-            "ChoiceDataList": [
-                "嗯……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "爱丽速子非常高兴地笑着。\r\n面对她这种情况，我倒在泳池边\n勉强点了点头。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "在深夜的泳池",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我依照愛麗速子的指示，來到深夜的泳池……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "今天的實驗是\n「調查水壓倍增時的肌肉跳動」！",
+      "ChoiceDataList": [
+        "為什麼要挑這種時間……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "要是被人發現就糟了。\n因為我在泳池裡投入了特殊的藥品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "沒事的，\n只要在明天之前把證據消滅掉就沒問題！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "好了，開始吧！你要好好計算秒數喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "愛麗速子意氣風發地游了起來。\n不過水池的水看起來沒有變化──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "嗯……沒有任何變化呢。\n看來藥量跟水量相比果然太少了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "沒辦法。訓練員，接下來就交給你了。\n要是之後藥品產生變化，引發問題就麻煩了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "雖然泳池的水有在循環，\n但池底跟扶手等各個地方應該都有沾到藥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "必須仔細清掃消滅證據。\n麻煩你細心點了。",
+      "ChoiceDataList": [
+        "速子也來幫忙吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "咦咦咦……\n我原本想回去檢討這次為什麼會失敗……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "唉……我知道了。\n不要用那種眼神看著我啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "不但實驗失敗了，還得要清理……\n真是受夠了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "愛麗速子雖然嘴上在抱怨，\n不過因為游泳的關係有鍛練到肌肉，\n也算是度過了一段充實的時光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "必須仔細清掃消滅證據。\n麻煩你細心點了。",
+      "ChoiceDataList": [
+        "一個人做不完的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "嗯……時間確實滿吃緊的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "我可不想因為留下證據而被說教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "……沒辦法，我來幫忙吧。\n你要好好感謝我啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "愛麗速子雖然一臉疲憊，\n但還是有透過游泳鍛練到肌肉，\n度過了一段充實的時光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

@@ -1,127 +1,127 @@
 {
-    "Title": "名指导",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我和真机伶一起走在车站时，\n有位身穿套装的女性前来搭话。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "套装打扮的女性",
-            "Text": "你！！\n就是在Umasta上很红的Curren吧！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "真机伶",
-            "Text": "哇啊♪你认识真机伶呀？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "套装打扮的女性",
-            "Text": "这是当然！那我就开门见山地说了！\n能不能请你加入我的经纪公司呢！？",
-            "ChoiceDataList": [
-                "经纪公司！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "真机伶",
-            "Text": "哇，谢谢你的邀约。\n但……只能跟你说声抱歉了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "套装打扮的女性",
-            "Text": "这、这是为什么！？\n像你这么可爱的人，\n就应该在演艺圈发光发热才对！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "真机伶",
-            "Text": "……嗯～可是……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "真机伶",
-            "Text": "──你有看过真机伶跑步时的样子吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "真机伶",
-            "Text": "其实我在赛场上有越来越多粉丝了哦♪\n听说他们都在讨论\n“那个跑很快又可爱的人是谁──”哦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "真机伶",
-            "Text": "呵呵，\n“很快”跟“可爱”竟然能连结在一起，\n真的是很神奇的世界呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "真机伶",
-            "Text": "但真机伶有自信可以比谁都要可爱。\n因为真机伶──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "真机伶",
-            "Text": "拥有和哥哥一起锻炼出来的脚，\n还有和哥哥一起思考出的比赛规划。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "真机伶",
-            "Text": "拥有和姐姐一起锻炼出来的脚，\n还有和姐姐一起思考出的比赛规划。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "真机伶",
-            "Text": "其实我不只想要变成世界第一可爱的女生，\n还想要变成世界第一可爱的赛马娘哦♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "套装打扮的女性",
-            "Text": "……！原来是这样，是我失礼了。\n我现在好像明白你为什么能绽放可爱光芒了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "真机伶",
-            "Text": "哈，她能明白真是太好了！\n还好遇到了一个好人呢♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "真机伶",
-            "Text": "……耶嘿，哥哥。\n真机伶想要变得更更更可爱！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "真机伶",
-            "Text": "……耶嘿，姐姐。\n真机伶想要变得更更更可爱！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "看来真机伶似乎也有感受到\n我日常的指导对她有帮助……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "名指導",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我和真機伶一起走在車站時，\n有位身穿套裝的女性前來搭話。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "套裝打扮的女性",
+      "Text": "妳！！\n就是在UG上很紅的Curren吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "哇啊♪妳認識真機伶呀？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "套裝打扮的女性",
+      "Text": "這是當然！那我就開門見山地說了！\n能不能請妳加入我的經紀公司呢！？",
+      "ChoiceDataList": [
+        "經紀公司！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "哇，謝謝妳的邀約。\n但……只能跟妳說聲抱歉了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "套裝打扮的女性",
+      "Text": "這、這是為什麼！？\n像妳這麼可愛的人，\n就應該在演藝圈發光發熱才對！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "……嗯～可是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "──妳有看過真機伶跑步時的樣子嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "其實我在賽場上有越來越多粉絲了哦♪\n聽說他們都在討論\n「那個跑很快又可愛的人是誰──」哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "呵呵，\n「很快」跟「可愛」竟然能連結在一起，\n真的是很神奇的世界呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "但真機伶有自信可以比誰都要可愛。\n因為真機伶──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "擁有和哥哥一起鍛鍊出來的腳，\n還有和哥哥一起思考出的比賽規劃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "擁有和姐姐一起鍛鍊出來的腳，\n還有和姐姐一起思考出的比賽規劃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "其實我不只想要變成世界第一可愛的女生，\n還想要變成世界第一可愛的賽馬娘喔♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "套裝打扮的女性",
+      "Text": "……！原來是這樣，是我失禮了。\n我現在好像明白妳為什麼能綻放可愛光芒了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "哈，她能明白真是太好了！\n還好遇到了一個好人呢♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "……耶嘿，哥哥。\n真機伶想要變得更更更可愛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "……耶嘿，姐姐。\n真機伶想要變得更更更可愛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看來真機伶似乎也有感受到\n我日常的指導對她有幫助……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

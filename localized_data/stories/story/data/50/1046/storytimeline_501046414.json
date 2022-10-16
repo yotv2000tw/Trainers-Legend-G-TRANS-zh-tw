@@ -1,33 +1,33 @@
 {
-    "Title": "迎向二月S",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "“二月锦标”当天。\n或许因为这是全部第一名宣言的首战，\n会场里的气氛莫名地浮躁。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "这个东京赛场同时也是举行日本首屈一指的\n重要比赛“日本德比”的地方。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "日本德比"
-            ]
-        },
-        {
-            "Name": "独白",
-            "Text": "目前的知名度还完全无法与德比较量。\n但醒目飞鹰还是迈向了赛场，打算取得胜利，\n让话题性延伸至下一场比赛。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "德比"
-            ]
-        }
-    ]
+  "Title": "迎向二月S",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "「二月錦標賽」當天。\n或許因為這是全部第一名宣言的首戰，\n會場裡的氣氛莫名地浮躁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這個東京賽場同時也是舉行日本首屈一指的\n重要比賽「日本打比」的地方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "日本打比"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "目前的知名度還完全無法與打比較量。\n但醒目飛鷹還是邁向了賽場，打算取得勝利，\n讓話題性延伸至下一場比賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "打比"
+      ]
+    }
+  ]
 }

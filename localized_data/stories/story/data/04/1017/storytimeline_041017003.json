@@ -1,368 +1,368 @@
 {
-    "Title": "展颜一笑",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "选拔赛结束后，过了两天。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "明天就是鲁道夫象征指定的期限。\n当我走在路上，思考着该怎么回复时──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "哦，这不是训练员君吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "记者A",
-            "Text": "哦哦！不好意思，\n请问你是前几天跟鲁道夫小姐在食堂聊天的那位训练员吧？",
-            "ChoiceDataList": [
-                "你怎么知道……？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "记者A",
-            "Text": "哈哈！像鲁道夫小姐这么出名的赛马娘，\n在选拔赛后不久就跟训练员一起吃饭，当然会备受瞩目咯！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "哈哈……大家关注我们的程度，\n似乎超越了预期呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "记者A",
-            "Text": "所以呢，这位跟鲁道夫小姐这么亲近的训练员，\n我有一件事想要拜托你……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "记者A",
-            "Text": "请问能请你今天一整天，\n贴身拍摄鲁道夫小姐的照片吗！？",
-            "ChoiceDataList": [
-                "照片？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "训练员君，抱歉突然麻烦你。\n其实这次的采访主题是要贴近我真实的样貌。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "话虽如此，我一被记者围住，\n就会不自觉表现出适合呈现在镜头前的一面。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "我本来在烦恼该怎么办才好──\n这时你正好路过，事情就是这样。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "记者A",
-            "Text": "如果是在训练员的面前，\n我想她就能放轻松了！拜托你！！",
-            "ChoiceDataList": [
-                "我知道了"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "咦？你愿意帮忙吗？\n好意外……你真的很随和呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "那么今天一天，就麻烦你了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "就这样，我从记者手上接过相机，\n开始帮忙拍摄鲁道夫象征的照片……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "那么。记者说希望我不要在意镜头，\n只要像平常一样度过一天就好了。",
-            "ChoiceDataList": [
-                "你今天打算做什么？",
-                "你今天打算做什么？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "新生之中，有一位赛马娘的样子让我有些在意呢。\n我要针对她采取一件措施。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "我们出发吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "哦呀。\n……丸善斯基，原来你在这里啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "丸善斯基",
-            "Text": "哎呀，鲁道夫！\n还有……训练员，你好♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "丸善斯基",
-            "Text": "你们是来找我的吧？\n有什么事吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "没错。有件事要特别拜托你，\n是关于名为草上飞的那位新生。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "丸善斯基",
-            "Text": "草上飞！我知道她，端庄又可爱♪\n她怎么了吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "不知道她是不是还不习惯学园的赛道，\n总觉得她在起跑时似乎遇到了些许困难。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "丸善斯基",
-            "Text": "哎呀，这样啊？\n嗯，环境产生大幅变化时，要适应确实很费工夫呢……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "我不忍心看她就这样身陷困境。\n能不能请你去给她一些建议呢？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "丸善斯基",
-            "Text": "嗯，当然没问题……\n不过鲁道夫，你为什么是找我呢？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "草上飞……她的爆发力，\n会让我联想到你跑步的模样。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "所以我才认为，\n或许你能够给她一些建议。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "丸善斯基",
-            "Text": "原来如此……\n鲁道夫真的是，观察得很仔细呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "丸善斯基",
-            "Text": "既然如此，这件事就交给我吧！\n你知道小草她现在人在哪里吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "谢谢你迅速答应协助，丸善斯基。\n让我来带路吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "就这样，鲁道夫象征带着我与丸善斯基，\n一同来到草上飞的所在之处……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "…………",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "丸善斯基",
-            "Text": "哎呀……她真的很沮丧呢。\n好～姐姐会加油的～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "真是可靠。\n丸善斯基，接下来的事就拜托你了。",
-            "ChoiceDataList": [
-                "你不过去吗？",
-                "你不过去吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "就算我去了，也只会造成对方的压力吧？\n我并不希望事情这样发展。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "丸善斯基",
-            "Text": "你这么用心观察她，只跟她说你很担心也可以呀……\n呵呵，你表达情感的方式真笨拙呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "丸善斯基",
-            "Text": "那，我这就去找她咯。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "好……\n希望这么一来她能多少恢复点精神。",
-            "ChoiceDataList": [
-                "你对其他人也是观察入微呢",
-                "你对其他人也是观察入微呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "──草上飞。她是来自美国的归国子女，个性温和诚实。\n然而性格相当刚强，也有不容易屈就的一面。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "脚质居中。懂得善用自己的性格冷静观察、看清战况，\n虎视眈眈地瞄准胜利行动。她是个未来值得期待的优秀赛马娘。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "不只是她。每一位赛马娘，都拥有惊人的可能性，\n大家都是心怀梦想来到学园的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "我……希望每一位赛马娘，都能够展露笑容。\n无论如何，我都想打造一个这样的世界。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "你会觉得这想法愚蠢又天真，简直是不谙世事的\n小女孩所编织的梦想吗？……嗯，或许没错。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "当然，距离实现的道路还漫长无比。\n不过──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "丸善斯基，谢谢你。\n我……我是不是太心急了呢？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "丸善斯基",
-            "Text": "嗯……你啊，\n很认真又很努力，是个超乖的孩子哦！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "丸善斯基",
-            "Text": "不过，太乖的话压力会太大的哟。\n偶尔跟姐姐一起去兜风吧♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "是！\n呵呵……谢谢你的邀请，我备感荣幸♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "──你看她的笑容。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "鲁道夫象征",
-            "Text": "我希望那样的笑容永远不要消失……\n为此，我没有什么好犹豫的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "此时鲁道夫象征的侧脸，带着既沉稳又幸福，\n令人不禁为她着迷的微笑。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "──我不经意地注意到手上的相机。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "（喀嚓）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "我拍到了很棒的照片。\n同时──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "针对鲁道夫象征提出的课题，\n我觉得自己似乎找到答案了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "展顏一笑",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "選拔賽結束後，過了兩天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "明天就是魯道夫象徵指定的期限。\n當我走在路上，思考著該怎麼回覆時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "喔，這不是訓練員嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "喔喔！不好意思，\n請問你是前幾天跟魯道夫小姐在學生餐廳聊天的那位訓練員吧？",
+      "ChoiceDataList": [
+        "妳怎麼知道……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "哈哈！像魯道夫小姐這麼出名的賽馬娘，\n在選拔賽後不久就跟訓練員一起吃飯，當然會備受矚目囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "哈哈……大家關注我們的程度，\n似乎超越了預期呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "所以呢，這位跟魯道夫小姐這麼親近的訓練員，\n我有一件事想要拜託你……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "請問能請你今天一整天，\n貼身拍攝魯道夫小姐的照片嗎！？",
+      "ChoiceDataList": [
+        "照片？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "訓練員，抱歉突然麻煩你。\n其實這次的採訪主題是要貼近我真實的樣貌。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "話雖如此，我一被記者圍住，\n就會不自覺表現出適合呈現在鏡頭前的一面。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "我本來在煩惱該怎麼辦才好──\n這時你正好路過，事情就是這樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "如果是在訓練員的面前，\n我想她就能放輕鬆了！拜託你！！",
+      "ChoiceDataList": [
+        "我知道了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "咦？你願意幫忙嗎？\n好意外……你真的很隨和呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "那麼今天一天，就麻煩你了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，我從記者手上接過相機，\n開始幫忙拍攝魯道夫象徵的照片……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "那麼。記者說希望我不要在意鏡頭，\n只要像平常一樣度過一天就好了。",
+      "ChoiceDataList": [
+        "妳今天打算做什麼？",
+        "妳今天打算做什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "新生之中，有一位賽馬娘的樣子讓我有些在意呢。\n我要針對她採取一件措施。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "我們出發吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "喔呀。\n……丸善斯基，原來妳在這裡啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "哎呀，魯道夫！\n還有……訓練員，你好♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "你們是來找我的吧？\n有什麼事嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "沒錯。有件事要特別拜託妳，\n是關於名為草上飛的那位新生。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "草上飛！我知道她，端莊又可愛♪\n她怎麼了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "不知道她是不是還不習慣學園的賽道，\n總覺得她在起跑時似乎遇到了些許困難。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "哎呀，這樣啊？\n嗯，環境產生大幅變化時，要適應確實很費工夫呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "我不忍心看她就這樣身陷困境。\n能不能請妳去給她一些建議呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "嗯，當然沒問題……\n不過魯道夫，妳為什麼是找我呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "草上飛……她的爆發力，\n會讓我聯想到妳跑步的模樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "所以我才認為，\n或許妳能夠給她一些建議。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "原來如此……\n魯道夫真的是，觀察得很仔細呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "既然如此，這件事就交給我吧！\n妳知道小草她現在人在哪裡嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "謝謝妳迅速答應協助，丸善斯基。\n讓我來帶路吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，魯道夫象徵帶著我與丸善斯基，\n一同來到草上飛的所在之處……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "哎呀……她真的很沮喪呢。\n好～大姐姐會加油的～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "真是可靠。\n丸善斯基，接下來的事就拜託妳了。",
+      "ChoiceDataList": [
+        "妳不過去嗎？",
+        "妳不過去嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "就算我去了，也只會造成對方的壓力吧？\n我並不希望事情這樣發展。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "妳這麼用心觀察她，只跟她說妳很擔心也可以呀……\n呵呵，妳表達情感的方式真笨拙呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "那，我這就去找她囉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "好……\n希望這麼一來她能多少恢復點精神。",
+      "ChoiceDataList": [
+        "妳對其他人也是觀察入微呢",
+        "妳對其他人也是觀察入微呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "──草上飛。她是來自美國的歸國子女，個性溫和誠實。\n然而性格相當剛強，也有不容易屈就的一面。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "腳質居中。懂得善用自己的性格冷靜觀察、看清戰況，\n虎視眈眈地瞄準勝利行動。她是個未來值得期待的優秀賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "不只是她。每一位賽馬娘，都擁有驚人的可能性，\n大家都是心懷夢想來到學園的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "我……希望每一位賽馬娘，都能夠展露笑容。\n無論如何，我都想打造一個這樣的世界。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "你會覺得這想法愚蠢又天真，簡直是不諳世事的\n小女孩所編織的夢想嗎？……嗯，或許沒錯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "當然，距離實現的道路還漫長無比。\n不過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "丸善斯基，謝謝妳。\n我……我是不是太心急了呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "嗯……妳啊，\n很認真又很努力，是個超乖的孩子喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "不過，太乖的話壓力會太大的唷。\n偶爾跟大姐姐一起去兜風吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "是！\n呵呵……謝謝妳的邀請，我備感榮幸♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "──你看她的笑容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "我希望那樣的笑容永遠不要消失……\n為此，我沒有什麼好猶豫的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "此時魯道夫象徵的側臉，帶著既沉穩又幸福，\n令人不禁為她著迷的微笑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──我不經意地注意到手上的相機。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（喀嚓）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我拍到了很棒的照片。\n同時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "針對魯道夫象徵提出的課題，\n我覺得自己似乎找到答案了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

@@ -1,43 +1,43 @@
 {
-    "Title": "这次一定要获胜！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "神鹰",
-            "Text": "虽然之前输了，\n但我没有空沮丧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "神鹰",
-            "Text": "我听说兀鹰在飞向高空前\n都会先暂时急速降落……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "神鹰",
-            "Text": "所以神鹰也要把上次的落败当成跳板，\n高高飞起──！",
-            "ChoiceDataList": [
-                "一起走出落败的阴影吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "神鹰",
-            "Text": "那是当然的，训练员！\n请你要牢牢地抓紧神鹰哦！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "神鹰",
-            "Text": "因为接下来神鹰会咻──地\n一飞冲天！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "這次一定要獲勝！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "雖然之前輸了，\n但我沒有空沮喪！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "我聽說兀鷹在飛向高空前\n都會先暫時急速降落……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "所以神鷹也要把上次的落敗當成跳板，\n高高飛起──！",
+      "ChoiceDataList": [
+        "一起走出落敗的陰影吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "那是當然的，訓練員！\n請你要牢牢地抓緊神鷹喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "因為接下來神鷹會咻──地\n一飛衝天！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

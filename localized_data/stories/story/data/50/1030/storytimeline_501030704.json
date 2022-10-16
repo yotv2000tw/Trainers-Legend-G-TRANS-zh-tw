@@ -1,416 +1,416 @@
 {
-    "Title": "我的太阳",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "外出之后，当天色已经转黑，\n我正准备送米浴回到宿舍时──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "哥哥……\n有件事想拜托你。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "姐姐……\n有件事想拜托你。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "你可以在训练员室，\n稍微等一下吗……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "有样东西，想给哥哥看看……",
-            "ChoiceDataList": [
-                "我知道了"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "有样东西，想给姐姐看看……",
-            "ChoiceDataList": [
-                "我知道了"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "谢、谢谢！\n米浴立刻过去，稍微等一下哦……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "到底是想让我看什么？\n我泡好两人份的茶静静等待──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "──久等了，哥哥。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "──久等了，姐姐。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……米浴想让你看的，是这个。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "米浴朝我递出了一本书。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "黑色的封面只写了一行字──\n写着《太阳与影之子》。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "这是……米浴做的绘本。\n希望哥哥……可以看看。",
-            "ChoiceDataList": [
-                "可以现在看吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "这是……米浴做的绘本。\n希望姐姐……可以看看。",
-            "ChoiceDataList": [
-                "可以现在看吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……嗯。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我在微笑的她面前翻开绘本。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "绘本上面没有文字，\n整本书从一片漆黑开始。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "有某个黑色的物体蜷缩在黑暗的中心。\n外型感觉似曾相识──有点像是米浴。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "那个黑色物体在黑暗中流泪。\n好像很悲伤、很寂寞……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "突然间，有一道细光从黑暗中洒落。\n黑色物体开始往光亮的地方走去。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "随着黑色物体不断前进，光变得越来越强，\n逐渐变成一个耀眼的物体，最后──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "──光线变成了太阳。\n黑暗散去，世界被逐渐照亮。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "黑色物体被太阳温暖的光照耀，\n取回了自己被黑暗遮掩的形体。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "她开心不已，\n在充满光的世界尽情奔驰──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……这本绘本，\n米浴希望让哥哥当第一个读者。",
-            "ChoiceDataList": [
-                "能当第一个是我的荣幸",
-                "能当第一个是我的荣幸",
-                "是个会让人觉得幸福的绘本",
-                "我想变得像这个太阳一样呢",
-                "我想变得像这个太阳一样呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……这本绘本，\n米浴希望让姐姐当第一个读者。",
-            "ChoiceDataList": [
-                "能当第一个是我的荣幸",
-                "能当第一个是我的荣幸",
-                "是个会让人觉得幸福的绘本",
-                "我想变得像这个太阳一样呢",
-                "我想变得像这个太阳一样呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……总是在米浴身边陪着米浴，\n温柔、温暖地守护着米浴。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "米浴想让这样的哥哥……\n看见米浴的心意。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "米浴想让这样的姐姐……\n看见米浴的心意。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "米浴最重要……最重要的幸福。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "哥哥──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "姐姐──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "往后也请继续……\n一直，守护米浴哦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我强而有力地点头后，\n她也展露出幸福的笑容。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……嘿嘿。\n米浴好高兴。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "因为，这本绘本──\n画的就是，米浴所感受到的幸福。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "这就代表，米浴的幸福，\n也有传达给哥哥了吧。",
-            "ChoiceDataList": [
-                "这份幸福可以传达给更多人哦"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "这就代表，米浴的幸福，\n也有传达给姐姐了吧。",
-            "ChoiceDataList": [
-                "这份幸福可以传达给更多人哦"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……嗯！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "哥哥，我呢──\n想让所有支持自己的人感到幸福。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "姐姐，我呢──\n想让所有支持自己的人感到幸福。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "制作这本书的时候，这份心情、梦想，\n逐渐在米浴心中扩展着。",
-            "ChoiceDataList": [
-                "我想支持米浴的那份梦想",
-                "我想支持米浴的那份梦想"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "嗯。\n如果和哥哥一起，一定可以──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "嗯。\n如果和姐姐一起，一定可以──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我下定决心发誓，\n自己一定要实现她的梦想。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "哥哥，从很久以前开始……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "姐姐，从很久以前开始……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "──就已经是米浴的太阳了哦？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "这本绘本，就是因为有哥哥\n愿意支持、相信米浴……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "这本绘本，就是因为有姐姐\n愿意支持、相信米浴……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "所以米浴才能够一点、一点地改变……\n相信自己确实有改变……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "这本书，就是米浴将那一个个幸福的瞬间，\n一面珍惜地回想着，一面画出形体来的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……一直以来很谢谢你，哥哥。",
-            "ChoiceDataList": [
-                "下次换米浴成为大家的太阳吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……一直以来很谢谢你，姐姐。",
-            "ChoiceDataList": [
-                "下次换米浴成为大家的太阳吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "米浴──成为、大家的太阳？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "…………",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "……米浴，想试试看。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "成为照耀大家……带给大家幸福的……\n那个太阳──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "米浴，想成为太阳……！",
-            "ChoiceDataList": [
-                "我们一起实现这个梦想吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "米浴",
-            "Text": "────嗯！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我见证了那个瞬间，米浴的眼瞳中，\n孕育出宛如太阳般耀眼的梦想──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "我的太陽",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "外出之後，當天色已經轉黑，\n我正準備送米浴回到宿舍時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "大哥哥……\n有件事想拜託你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "大姐姐……\n有件事想拜託你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "你可以在訓練員室，\n稍微等一下嗎……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "有樣東西，想給大哥哥看看……",
+      "ChoiceDataList": [
+        "我知道了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "有樣東西，想給大姐姐看看……",
+      "ChoiceDataList": [
+        "我知道了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "謝、謝謝！\n米浴立刻過去，稍微等一下喔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "到底是想讓我看什麼？\n我泡好兩人份的茶靜靜等待──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "──久等了，大哥哥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "──久等了，大姐姐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……米浴想讓你看的，是這個。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "米浴朝我遞出了一本書。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "黑色的封面只寫了一行字──\n寫著《太陽與影之子》。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "這是……米浴做的繪本。\n希望大哥哥……可以看看。",
+      "ChoiceDataList": [
+        "可以現在看嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "這是……米浴做的繪本。\n希望大姐姐……可以看看。",
+      "ChoiceDataList": [
+        "可以現在看嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我在微笑的她面前翻開繪本。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "繪本上面沒有文字，\n整本書從一片漆黑開始。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "有某個黑色的物體蜷縮在黑暗的中心。\n外型感覺似曾相識──有點像是米浴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那個黑色物體在黑暗中流淚。\n好像很悲傷、很寂寞……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "突然間，有一道細光從黑暗中灑落。\n黑色物體開始往光亮的地方走去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "隨著黑色物體不斷前進，光變得越來越強，\n逐漸變成一個耀眼的物體，最後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──光線變成了太陽。\n黑暗散去，世界被逐漸照亮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "黑色物體被太陽溫暖的光照耀，\n取回了自己被黑暗遮掩的形體。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她開心不已，\n在充滿光的世界盡情奔馳──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……這本繪本，\n米浴希望讓大哥哥當第一個讀者。",
+      "ChoiceDataList": [
+        "能當第一個是我的榮幸",
+        "能當第一個是我的榮幸",
+        "是個會讓人覺得幸福的繪本",
+        "我想變得像這個太陽一樣呢",
+        "我想變得像這個太陽一樣呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……這本繪本，\n米浴希望讓大姐姐當第一個讀者。",
+      "ChoiceDataList": [
+        "能當第一個是我的榮幸",
+        "能當第一個是我的榮幸",
+        "是個會讓人覺得幸福的繪本",
+        "我想變得像這個太陽一樣呢",
+        "我想變得像這個太陽一樣呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……總是在米浴身邊陪著米浴，\n溫柔、溫暖地守護著米浴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "米浴想讓這樣的大哥哥……\n看見米浴的心意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "米浴想讓這樣的大姐姐……\n看見米浴的心意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "米浴最重要……最重要的幸福。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "大哥哥──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "大姐姐──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "往後也請繼續……\n一直，守護米浴喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我強而有力地點頭後，\n她也展露出幸福的笑容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……嘿嘿。\n米浴好高興。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "因為，這本繪本──\n畫的就是，米浴所感受到的幸福。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "這就代表，米浴的幸福，\n也有傳達給大哥哥了吧。",
+      "ChoiceDataList": [
+        "這份幸福可以傳達給更多人喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "這就代表，米浴的幸福，\n也有傳達給大姐姐了吧。",
+      "ChoiceDataList": [
+        "這份幸福可以傳達給更多人喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……嗯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "大哥哥，我呢──\n想讓所有支持自己的人感到幸福。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "大姐姐，我呢──\n想讓所有支持自己的人感到幸福。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "製作這本書的時候，這份心情、夢想，\n逐漸在米浴心中擴展著。",
+      "ChoiceDataList": [
+        "我想支持米浴的那份夢想",
+        "我想支持米浴的那份夢想"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "嗯。\n如果和大哥哥一起，一定可以──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "嗯。\n如果和大姐姐一起，一定可以──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我下定決心發誓，\n自己一定要實現她的夢想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "大哥哥，從很久以前開始……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "大姐姐，從很久以前開始……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "──就已經是米浴的太陽了喔？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "這本繪本，就是因為有大哥哥\n願意支持、相信米浴……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "這本繪本，就是因為有大姐姐\n願意支持、相信米浴……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "所以米浴才能夠一點、一點地改變……\n相信自己確實有改變……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "這本書，就是米浴將那一個個幸福的瞬間，\n一面珍惜地回想著，一面畫出形體來的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……一直以來很謝謝你，大哥哥。",
+      "ChoiceDataList": [
+        "下次換米浴成為大家的太陽吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……一直以來很謝謝你，大姐姐。",
+      "ChoiceDataList": [
+        "下次換米浴成為大家的太陽吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "米浴──成為、大家的太陽？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "……米浴，想試試看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "成為照耀大家……帶給大家幸福的……\n那個太陽──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "米浴，想成為太陽……！",
+      "ChoiceDataList": [
+        "我們一起實現這個夢想吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "────嗯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我見證了那個瞬間，米浴的眼瞳中，\n孕育出宛如太陽般耀眼的夢想──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

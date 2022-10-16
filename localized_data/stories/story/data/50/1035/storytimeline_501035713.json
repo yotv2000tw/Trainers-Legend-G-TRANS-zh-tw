@@ -1,166 +1,166 @@
 {
-    "Title": "保重身体！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我把受伤的胜利奖券带到了保健室……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "哎呀～\n出了一点小差错呢……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "不过不过，这点程度的伤不算什么！\n都已经好好处理过了──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "靠我的全力力量很～快就会痊愈的！\n我们回去训练吧，训练员！",
-            "ChoiceDataList": [
-                "以防万一，今天还是休息吧",
-                "好，加油吧！",
-                "好，加油吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "靠我的全力力量很～快就会痊愈的！\n我们回去训练吧，训练员！",
-            "ChoiceDataList": [
-                "以防万一，今天还是休息吧",
-                "好，加油吧！",
-                "好，加油吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "不不不，这真的没什么～！\n凡是运动难免都会受点伤的！",
-            "ChoiceDataList": [
-                "可是，我很担心……",
-                "可是，我很担心……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "──！！\n竟、竟然这么担心我……！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "我好高兴～！！好高兴啊～！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "谢谢你！训练员！\n今天就听训练员的──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "好好休息，把伤完全治好！\n明天再继续努力训练吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "那一天，\n胜利奖券暂停训练，好好休养。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "嗯嗯，不愧是训练员！\n就是要这样才对！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "好～！以训练赛道为目标，\n全力冲刺唰唰唰唰──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "（──抽痛！！）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "──啊呜！！？？",
-            "ChoiceDataList": [
-                "没事吧！？",
-                "没事吧！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "～～～！！\n当、当然……没事──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "……才怪！\n没想到，还挺痛的啊～！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……于是我中止训练，\n让胜利奖券休息了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "好～！以训练赛道为目标，\n全力冲刺唰唰唰唰──",
-            "ChoiceDataList": [
-                "不过，不可以逞强哦！",
-                "不过，不可以逞强哦！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "嗯！谢谢你担心我～！\n如果感觉到抽痛，我会立刻说！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "我的全力力量不会输给这点小伤的……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "就在训练中好好展现一下吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "因为担心胜利奖券的伤，\n让她休养一段时间后，再次开始了训练。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "保重身體！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我把受傷的勝利獎券帶到了保健室……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "哎呀～\n出了一點小差錯呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "不過不過，這點程度的傷不算什麼！\n都已經好好處理過了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "靠我的全力力量很～快就會痊癒的！\n我們回去訓練吧，訓練員！",
+      "ChoiceDataList": [
+        "以防萬一，今天還是休息吧",
+        "好，加油吧！",
+        "好，加油吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "靠我的全力力量很～快就會痊癒的！\n我們回去訓練吧，訓練員！",
+      "ChoiceDataList": [
+        "以防萬一，今天還是休息吧",
+        "好，加油吧！",
+        "好，加油吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "不不不，這真的沒什麼～！\n凡是運動難免都會受點傷的！",
+      "ChoiceDataList": [
+        "可是，我很擔心……",
+        "可是，我很擔心……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "──！！\n竟、竟然這麼擔心我……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "我好高興～！！好高興啊～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "謝謝你！訓練員！\n今天就聽訓練員的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "好好休息，把傷完全治好！\n明天再繼續努力訓練吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那一天，\n勝利獎券暫停訓練，好好休養。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "嗯嗯，不愧是訓練員！\n就是要這樣才對！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "好～！以訓練賽道為目標，\n全力衝刺唰唰唰唰──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（──抽痛！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "──啊嗚！！？？",
+      "ChoiceDataList": [
+        "沒事吧！？",
+        "沒事吧！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "～～～！！\n當、當然……沒事──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "……才怪！\n沒想到，還挺痛的啊～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……於是我中止訓練，\n讓勝利獎券休息了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "好～！以訓練賽道為目標，\n全力衝刺唰唰唰唰──",
+      "ChoiceDataList": [
+        "不過，不可以逞強喔！",
+        "不過，不可以逞強喔！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "嗯！謝謝你擔心我～！\n如果感覺到抽痛，我會立刻說！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "我的全力力量不會輸給這點小傷的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "就在訓練中好好展現一下吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因為擔心勝利獎券的傷，\n讓她休養一段時間後，再次開始了訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

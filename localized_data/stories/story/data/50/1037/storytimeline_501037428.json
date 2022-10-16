@@ -1,25 +1,25 @@
 {
-    "Title": "日本C结束后．Die Herzenslust",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "面对古马级前辈，荣进闪耀战得不相上下。\n虽是场艰巨战役，\n但也实际感受到她的成长。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "预料会在“有马纪念”再次碰上她们。\n既然如此，只要下次获胜即可，\n她自信地点头说道。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "有马纪念"
-            ]
-        }
-    ]
+  "Title": "日本C結束後．Die Herzenslust",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "面對資深級前輩，榮進閃耀戰得不相上下。\n雖是場艱鉅戰役，\n但也實際感受到她的成長。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "預料會在「有馬紀念」再次碰上她們。\n既然如此，只要下次獲勝即可，\n她自信地點頭說道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "有馬紀念"
+      ]
+    }
+  ]
 }

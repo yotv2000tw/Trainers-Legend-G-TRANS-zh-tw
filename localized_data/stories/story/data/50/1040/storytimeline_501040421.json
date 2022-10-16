@@ -1,31 +1,31 @@
 {
-    "Title": "皋月赏结束后．要改变",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "黄金城市跑完“皋月赏”后，\n开始听到有观众在赞美她的“表现”了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "这样下去的话，\n或许能让大家注意到“真正的自己”。\n黄金城市充满了期待。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "接下来要称霸“日本德比”，\n得到本世代最强的称号！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "日本德比"
-            ]
-        }
-    ]
+  "Title": "皋月賞結束後．要改變",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "黃金城市跑完「皋月賞」後，\n開始聽到有觀眾在讚美她的「表現」了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這樣下去的話，\n或許能讓大家注意到「真正的自己」。\n黃金城市充滿了期待。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "接下來要稱霸「日本打比」，\n得到本世代最強的稱號！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "日本打比"
+      ]
+    }
+  ]
 }

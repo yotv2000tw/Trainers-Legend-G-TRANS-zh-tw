@@ -1,59 +1,59 @@
 {
-    "Title": "临阵抖擞",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "赛前去休息室发现……\n摩耶重炮好像正在脑中模拟比赛。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "然后前面的人过来的话，\n就“咻！”地突破……",
-            "ChoiceDataList": [
-                "（……好惊人的集中力）",
-                "（……好惊人的集中力）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "……咦！？训练员！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "啊哇哇，吓我一跳！我完全没注意到！\n怎么会这样！？",
-            "ChoiceDataList": [
-                "你刚才好像很专注",
-                "你刚才好像很专注呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "嘿嘿，对啊！\n人家从刚才心脏就一直跳个不停。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "不过……\n接着就换训练员咯！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "我会让你沉迷于我奔驰的样子的♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "臨陣抖擻",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "賽前去休息室發現……\n重砲好像正在腦中模擬比賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "然後前面的人過來的話，\n就「咻！」地突破……",
+      "ChoiceDataList": [
+        "（……好驚人的集中力）",
+        "（……好驚人的集中力）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "……咦！？訓練員！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "啊哇哇，嚇我一跳！我完全沒注意到！\n怎麼會這樣！？",
+      "ChoiceDataList": [
+        "妳剛才好像很專注",
+        "妳剛才好像很專注呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "嘿嘿，對啊！\n人家從剛才心臟就一直跳個不停。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "不過……\n接著就換訓練員囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "我會讓你沉迷於我奔馳的樣子的♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

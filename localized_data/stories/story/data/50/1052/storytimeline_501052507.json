@@ -1,55 +1,55 @@
 {
-    "Title": "粉丝信",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "春丽收到了一封粉丝信。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "春丽",
-            "Text": "听我说听我说，训练员！\n这封粉丝信呢，写了好棒的内容哦！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "春丽",
-            "Text": "“看到你不放弃的身影，我获得了勇气”\n……他这样写哦！有点不好意思呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "春丽",
-            "Text": "跟你说！虽然这是秘密，\n但我今天很努力忍耐，\n只吃了两根胡萝卜哦！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "春丽",
-            "Text": "所以我觉得自己下次绝对会赢！\n到时这个孩子会更替我开心吗？",
-            "ChoiceDataList": [
-                "一定会很开心的"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "春丽",
-            "Text": "嘿嘿，没错吧！一定会很开心的对吧！\n好──我要更加努力咯──！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "粉丝的鼓励\n似乎让春丽更有动力了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "粉絲信",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "春烏菈菈收到了\n一封粉絲信。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "聽我說聽我說，訓練員！\n這封粉絲信呢，寫了好棒的內容喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "「看到妳不放棄的身影，我獲得了勇氣」\n……他這樣寫喔！有點不好意思呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "跟你說！雖然這是祕密，\n但我今天很努力忍耐，\n只吃了兩根胡蘿蔔喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "所以我覺得自己下次絕對會贏！\n到時這個孩子會更替我開心嗎？",
+      "ChoiceDataList": [
+        "一定會很開心的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "嘿嘿，沒錯吧！一定會很開心的對吧！\n好──我要更加努力囉──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "粉絲的鼓勵\n似乎讓春烏菈菈更有動力了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "Title": "不会屈服的心",
+  "Title": "不屈不撓的心",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,50 +8,44 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "那天，成田白仁由于腿部的剧痛\n被立即送往医院进行诊治——",
+      "Name": "獨白",
+      "Text": "那一天，感覺腳部一陣疼痛的成田白仁\n馬上就去醫院就診──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "结果查出大腿根部患上关节炎。\n医生告知接下来数月她都将无法奔跑。",
+      "Name": "獨白",
+      "Text": "結果卻是腳跟關節炎。\n被醫生宣告跑步必須暫停幾個月。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "黄金船",
-      "Text": "哈～……跑得够累的！\n先让我休息一下～",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "<username>",
-      "Text": "好吧，先休息5分钟然后开始进行起跑训练吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白麦昆",
-      "Text": "……说起来，春季『天皇赏』也临近了，\n来采访的记者又变多了呢。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白麦昆",
-      "Text": "原本预定参赛的白仁同学，\n估计也对众多采访应接不暇了吧……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白麦昆",
-      "Text": "所幸并不是什么严重的伤，\n不过整个春天都需要拿来休养了。",
+      "Name": "黃金船",
+      "Text": "呼……跑了好久！\n稍微休息一下吧～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "啊啊……",
+      "Text": "也好，那就休息五分鐘後再做起跑練習。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……對了，一接近春季的「天皇賞」，\n採訪媒體又變多了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "原本預定參賽的白仁，\n應該也會有一堆採訪邀約的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "雖然幸好不是什麼嚴重的傷，\n但這個春季也要充分休養吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -62,38 +56,44 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "黄金船",
-      "Text": "稍微休息一下也好吧。\n等伤养好了就大闹一场吧！",
+      "Name": "<username>",
+      "Text": "嗯……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "菱亚马逊",
-      "Text": "喂，训练员！",
+      "Name": "黃金船",
+      "Text": "稍微休息一下沒關係吧。\n等她的傷好了，再讓她出場大鬧一番吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "喂，訓練員！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "怎么那么慌张，出什么事了吗？",
+      "Text": "妳怎麼這麼慌張？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "怎么那么慌张，出什么事了吗？",
+      "Text": "妳怎麼這麼慌張？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "菱亚马逊",
-      "Text": "还能有什么事！\u3000白仁那家伙不是受伤了吗！？\n可她现在还在健身房训练……！",
+      "Name": "菱亞馬遜",
+      "Text": "你還問我！白仁不是受傷了嗎！？\n但那傢伙居然在健身房訓練……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "诶……！？",
+      "Text": "咦……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -105,295 +105,295 @@
     },
     {
       "Name": "<username>",
-      "Text": "白仁……！？\n你都受伤了怎么还在训练！？",
+      "Text": "白仁……！？\n妳明明已經受傷，為什麼還！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "我受伤的只是腿。\n其他部位都正常，没问题的。",
+      "Text": "我受傷的是腳。\n其他地方都好好的，沒有問題。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "话是这么说，可是……！",
+      "Text": "是這樣沒錯，但是……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "有现在的我能够训练的项目所以我才会来训练。\n比赛可不是轻轻松松就能取胜的，你也明白的吧。",
+      "Text": "既然還有能做的事就要去做。你應該知道\n競賽並沒有簡單到可以不勞而獲吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "而我是为了取胜才去参加比赛的。\n……为了能跑在所有人的前面。",
+      "Text": "而且我是為了獲勝才參加競賽。\n……要比任何人跑得還快。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "一直渴望着奔跑的成田白仁。\n即使受了伤，她的内心也丝毫不动摇，可是……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "<username>",
-      "Text": "可我还是很担心啊。\n要是事态变糟的话，我可是会禁止你奔跑的。",
+      "Name": "獨白",
+      "Text": "成田白仁總是懷著對跑步的渴望。\n即使受了傷，這樣的心情似乎一點都沒有改變……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "可我还是很担心啊。\n要是事态变糟的话，我可是会禁止你奔跑的。",
+      "Text": "即使如此，我還是會擔心。\n要是演變成最糟的狀態，我甚至會選擇不讓妳出賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "即使如此，我還是會擔心的。\n要是演變成最糟的狀態，我甚至會選擇不讓妳出賽。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "……所以呢，这项训练也要我停手吗？",
+      "Text": "……既然這樣，訓練也要放棄嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "……不会，训练员的职责是支持赛马娘。\n你的想法比任何事情都重要。",
+      "Text": "……不，訓練員的職責就是支援賽馬娘。\n無論如何我都想尊重妳的想法。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "……不会，训练员的职责是支持赛马娘。\n你的想法比任何事情都重要。",
+      "Text": "……不，訓練員的職責就是支援賽馬娘。\n無論如何我都想尊重妳的想法。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "所以，我会好好安排你养伤期间的训练的。\n咱们一起摸索能做的事，为复出赛作准备吧。",
+      "Text": "所以在妳受傷的這段期間，我也會全力照料妳的訓練。\n我們一起摸索出能做的事，為回歸競賽做準備。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "哼……了解了。",
+      "Text": "呵……了解。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "就这样，为无法跑步的成田白仁\n进行特别训练的日子开始了。",
+      "Name": "獨白",
+      "Text": "於是我陪無法跑步的成田白仁\n進行特別訓練的日子就此展開。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "躯体训练可以增强深层肌肉。\n在目前关节没有负担的时期，这种训练可以抑制肌肉力量减弱。",
+      "Text": "透過體幹訓練能鍛鍊到深層肌肉。在無法對關節\n施加負荷的期間，就靠這樣防止肌力流失吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "呼……做完三组了。\n还需要做多少？",
+      "Text": "呼……這樣就做完三組了。\n接下來還要做幾組？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "先休息一下，还有大概6组吧。",
+      "Text": "中間穿插休息，大概再做六組吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "那就翻个3倍吧。",
+      "Text": "那就做六組的三倍吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "诶……！？\u30003倍！？",
+      "Text": "咦……！？三倍！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "虽然痛感基本上消失了，但要跑步还太早。\n所以从今天开始就在负担较少的泳池锻炼腿部肌肉吧。",
+      "Text": "雖然疼痛感都消退得差不多了，但要跑步還早得很。\n所以今天開始，就在負擔較小的泳池中活動腳的肌肉。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "知道了，那就在身上绑轮胎游泳吧。",
+      "Text": "知道了，那麼就在身上綁著輪胎游泳吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "轮胎……？",
+      "Text": "輪胎……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "这样能增加水的阻力吧？\n我想要的可不只是维持肌肉力量。",
+      "Text": "水裡阻力會變大對吧？\n我的目標不是維持肌力，而是要提升。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "该怎么说，很有你风格的想法呢。\n好吧，试试看！",
+      "Text": "該怎麼說，這想法很有妳的風格。\n好，就試試看吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "该怎么说，很有你风格的想法呢。\n好吧，试试看！",
+      "Text": "該怎麼說，這想法很有妳的風格。\n好，就試試看吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "今天开始终于能进行跑步训练了！",
+      "Text": "今天開始進行訓練總算能實際上場跑了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "今天开始终于能进行跑步训练了！",
+      "Text": "今天開始進行訓練總算能實際上場跑了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "话虽这么说，但还不能全力跑。\n先从负担较轻的沙土开始，慢慢去找回感觉吧。",
+      "Text": "話雖如此，但妳還是要忍住不能認真跑。\n先從負擔較少的沙地隨意慢慢跑，讓腳漸漸習慣。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "……从我受了伤你就一直在陪着我，没关系吗？",
+      "Text": "……從我受傷起，你就一直陪著我，這樣好嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "其他人我也在好好关注着，不用担心哦。",
+      "Text": "我也有確實顧及其他人，不用擔心喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "而且，你的训练跟你的比赛一样\n看着就能被吸引住。",
+      "Text": "而且看妳的訓練就跟競賽一樣，\n一看就會深受吸引。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "而且，你的训练跟你的比赛一样\n看着就能被吸引住。",
+      "Text": "而且看妳的訓練就跟競賽一樣，\n一看就會深受吸引。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "……看别人训练能觉得开心，你还真是个怪人。\n那么，就陪我训练到日落吧。",
+      "Text": "……看我訓練居然會樂在其中，真是怪人。\n既然這樣，就陪我練到太陽下山吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "完全不会妥协的成田白仁。",
+      "Name": "獨白",
+      "Text": "不容許任何妥協的成田白仁。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "众多粉丝被她所吸引，不单单是因为她的强大，\n或许她对胜利的那份贪婪本身也是原因之一。",
+      "Name": "獨白",
+      "Text": "眾多粉絲會受她吸引，並不只是因為她的實力，\n或許她對勝利的貪心慾望本身才是理由。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "然后终于，成田白仁能够正常参加训练的\n日子到了。",
+      "Name": "獨白",
+      "Text": "之後終於來到成田白仁加入大家，\n進行普通訓練的這一天。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "黄金船",
-      "Text": "等你好久了，白仁！\n你肯定超想尽情跑步的吧！",
+      "Name": "黃金船",
+      "Text": "等妳很久囉，白仁！\n妳一定很想盡情奔跑吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "医生说已经没问题了吗……？",
+      "Text": "醫生已經同意妳跑步了嗎……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "是啊，说是炎症已经完全消退所以没问题了。",
+      "Text": "嗯，醫生說發炎完全好了，所以沒問題喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "是啊，说是炎症已经完全消退所以没问题了。",
+      "Text": "嗯，醫生說發炎完全好了，所以沒問題喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "而且我一直在观察白仁的情况，\n她没有表现出痛楚，也没在装作伤痊愈的样子。",
+      "Text": "而且我一路這樣看著白仁，她不但沒有\n感到疼痛的樣子，也沒有做出像在掩飾受傷的動作。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "黄金船",
-      "Text": "好嘞！\u3000那就赶紧开始跑步吧！\n白仁出阵咯！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "<username>",
-      "Text": "看着你迄今为止的训练，我重新认识到\n你那份对胜利的渴望了。",
+      "Name": "黃金船",
+      "Text": "好！那就馬上開始跑吧！\n白仁要上場啦──！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "看着你迄今为止的训练，我重新认识到\n你那份对胜利的渴望了。",
+      "Text": "看了這段時間的訓練，\n讓我重新體認到妳對勝利的意志。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "虽然阿船也说过这话了，我也一直在等着这一天！\n把迄今为止没能跑步的遗憾，尽情跑回来吧！",
+      "Text": "看了這段時間的訓練，\n讓我重新體認到妳對勝利的意志。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "虽然阿船也说过这话了，我也一直在等着这一天！\n把迄今为止没能跑步的遗憾，尽情跑回来吧！",
+      "Text": "就如同黃金船說的，我也等這一天很久了！\n妳就一掃之前無法跑步的怨念，盡情去跑吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "就如同黃金船說的，我也等這一天很久了！\n妳就一掃之前無法跑步的怨念，盡情去跑吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "这用不着你说……！",
+      "Text": "這還用說……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "一边说着，她一边气势汹汹地冲过跑道。",
+      "Name": "獨白",
+      "Text": "成田白仁這麼說完，就氣勢萬鈞地往賽道衝去。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "这个秋天她能让我们见识到怎样的比赛呢——\n我心中的期待愈发膨胀了。",
+      "Name": "獨白",
+      "Text": "她在秋季的競賽會有什麼樣的表現呢──\n我忍不住滿心期待著。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -405,7 +405,7 @@
     },
     {
       "Name": "成田白仁",
-      "Text": "没那么容易……吗。",
+      "Text": "果然……沒有那麼簡單啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

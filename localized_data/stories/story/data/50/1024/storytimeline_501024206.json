@@ -1,132 +1,132 @@
 {
-    "Title": "迎向天皇赏（秋）",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "──终于迎来了“天皇赏（秋）”。\n跨越这场比赛后，摩耶重炮将……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "……我要上了！\n训练员！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "我会赢得这场比赛，提升实力！\n一定要……参加“有马纪念”！！",
-            "ChoiceDataList": [
-                "一路顺风！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "嗯！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "啊、啊啊……不好意思！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "哇，小帝王！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "没错！答对了！\n吾就是东海帝王！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "我来传话给摩耶重炮！\n委托人是菱亚！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "“摩耶重炮！你从春天开始就是我的──”\n……以下略过～",
-            "ChoiceDataList": [
-                "这样可以吗！？",
-                "这样可以吗！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "可以啦可以啦！\n重要的是最后一段！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "“我也很期待能跟变强的你比赛。\n我从今天起──\n就是你的劲敌了。”",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "她是这么说的！我也懂她的心情。\n因为我也很想跟你比赛！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "所以别输了！要赢哦，摩耶重炮！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "登上顶点，\n让大家去追你吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "啊哈哈，这是叫我逃给大家追吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "东海帝王",
-            "Text": "哎呀呀。\n难道摩耶重炮是只会追人的吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "呵呵～才没这种事☆\n对吧，训练员！",
-            "ChoiceDataList": [
-                "摩耶重炮不管什么都办得到"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "嘿嘿！说得对☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "摩耶重炮",
-            "Text": "呵呵。所以人家会跑出怎样的表现，\n你们两个千万不能错过哦♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向天皇賞（秋）",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──終於迎來了「天皇賞（秋）」。\n跨越這場比賽後，重砲將……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "……我要上了！\n訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "我會贏得這場比賽，提升實力！\n一定要……參加「有馬紀念」！！",
+      "ChoiceDataList": [
+        "一路順風！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "嗯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "啊、啊啊……不好意思！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "哇，小帝！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "沒錯！答對了！\n吾就是東海帝皇！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "我來傳話給重砲！\n委託人是菱亞！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "「重砲！妳從春天開始就是我的──」\n……以下略過～",
+      "ChoiceDataList": [
+        "這樣可以嗎！？",
+        "這樣可以嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "可以啦可以啦！\n重要的是最後一段！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "「我也很期待能跟變強的妳比賽。\n我從今天起──\n就是妳的勁敵了。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "她是這麼說的！我也懂她的心情。\n因為我也很想跟妳比賽！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "所以別輸了！要贏喔，重砲！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "登上頂點，\n讓大家去追妳吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "啊哈哈，這是叫我逃給大家追嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "哎呀呀。\n難道重砲是只會追人的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "呵呵～才沒這種事☆\n對吧，訓練員！",
+      "ChoiceDataList": [
+        "重砲不管什麼都辦得到"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "嘿嘿！說得對☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "重砲",
+      "Text": "呵呵。所以人家會跑出怎樣的表現，\n你們兩個千萬不能錯過喔♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

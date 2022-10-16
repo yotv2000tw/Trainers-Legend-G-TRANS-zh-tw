@@ -1,33 +1,33 @@
 {
-    "Title": "迎向有马纪念",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "“有马纪念”笼罩在异常的热烈气氛中。\n因为参赛者\n除了荒漠英雄跟特别周以外──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "连气槽与富士奇石都会参战。\n她们都是曾在GⅠ夺得好成绩的赛马娘。\n为了比赛都铆足干劲。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "气槽",
-                "富士奇石",
-                "GⅠ"
-            ]
-        },
-        {
-            "Name": "独白",
-            "Text": "那些选手受到了观众瞩目，\n而另一边，荣进闪耀则静静地燃起斗志。\n她相信，越是困难的道路越值得挑战──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向有馬紀念",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "「有馬紀念」籠罩在異常的熱烈氣氛中。\n因為參賽者\n除了荒漠英雄跟特別週以外──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "連氣槽與富士奇石都會參戰。\n她們都是曾在GⅠ奪得好成績的賽馬娘。\n為了比賽都卯足幹勁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "氣槽",
+        "富士奇石",
+        "GⅠ"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "那些選手受到了觀眾矚目，\n而另一邊，榮進閃耀則靜靜地燃起鬥志。\n她相信，越是困難的道路越值得挑戰──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

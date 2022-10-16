@@ -1,361 +1,323 @@
 {
-    "Title": "在你的城镇Connect Live☆",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "醒目飞鹰的高架桥下演唱会热闹地结束后，\n当我们正在目送粉丝离开时──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "谢谢大家～！\n今后也请继续支持我哦～♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "那、那个……飞鹰子……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "是～☆……咦？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "你是最后一排……\n那个拿着手工圆扇的人对吧♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "咦、咦？你、你怎么知道我……咦？\n不是还有其他观众吗……为什么！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "你今天拿的是新的圆扇吧。我很高兴哦～☆\n谢谢你总是来参加演唱会♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "我快不行了！飞鹰子太神了！\n想不到你居然记得我……！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "真是的～你太夸张了啦☆\n所以你有什么话要跟我说吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "啊哇……对、对哦！我想请你录加油讯息\n给我故乡的儿时玩伴……可、可以吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "我的儿时玩伴也很喜欢飞鹰子，\n但是她太忙了，没办法离开故乡……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "没问题！\n我会努力帮她加油的！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "简简简、简直就是神派来的天使……\n我的儿时玩伴最近在烦恼事情一直闷闷不乐，\n我想这样她就能打起精神了……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "原来如此，她在烦恼事情啊。\n希望我的声音可以让她打起精神。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "……对了！我想到比加油讯息\n更好的点子了♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "我问你哦，如果飞鹰子在你的故乡\n举办胜者舞台，你觉得怎么样！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "那、那我的儿时玩伴就能参加演唱会了！\n可可、可是，为什么要做到这种程度！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "不管身在何处，都要去见粉丝！\n这、才、是赛马娘偶像嘛☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "哇啊啊……飞、飞鹰子……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "真真真、真是太令人崇拜了！\n崇拜到……我快喘不过气了……呼、呼……！",
-            "ChoiceDataList": [
-                "我、我问一下，你的故乡在哪里？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "啊……我失态了！是北海道！\n你们能来札幌或函馆赛场吗……？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "哇～～是北海道耶♪\n有起司跟螃蟹等各种好吃的东西！\n感觉能补充演唱会的能量呢☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "训练员，飞鹰子好想去哦～",
-            "ChoiceDataList": [
-                "我会试着调整行程的！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "太好了♪那么我会努力站上C位的，\n要继续支持我哦☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "醒目飞鹰答应粉丝\n要在其故乡举行胜者舞台。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "来拟定让醒目飞鹰在札幌或函馆的比赛中，\n能拿下第一名并获得C位的计划吧……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "啊……我失态了！是山形。\n你们能来福岛、盛岡或者是新潟赛场吗……？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "哇～～是山形耶♪\n那里的空气很清新，\n开演唱会的话一定会很舒服吧～☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "训练员，飞鹰子好想去哦～",
-            "ChoiceDataList": [
-                "我会试着调整行程的！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "太好了♪那么我会努力站上C位的，\n要继续支持我哦☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "醒目飞鹰答应粉丝\n要在其故乡举行胜者舞台。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "来拟定让醒目飞鹰在福岛、盛岡或者是新潟的比赛中，\n能拿下第一名并获得C位的计划吧……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "啊……我失态了！是千叶县。\n你们能来中山或船桥赛场吗……？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "哇～～是千叶耶♪\n吃了充满营养的炖内脏，\n感觉演唱会也会很成功呢～☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "训练员，飞鹰子好想去哦～",
-            "ChoiceDataList": [
-                "我会试着调整行程的！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "太好了♪那么我会努力站上C位的，\n要继续支持我哦☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "醒目飞鹰答应粉丝\n要在其故乡举行胜者舞台。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "来拟定让醒目飞鹰在中山或船桥的比赛中，\n能拿下第一名并获得C位的计划吧……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "啊……我失态了！是关西。\n你们能来阪神或京都赛场吗……？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "哇～～是关西耶♪\n感觉会有很多热情的粉丝☆\n一定会是很有趣的舞台吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "训练员，飞鹰子好想去哦～",
-            "ChoiceDataList": [
-                "我会试着调整行程的！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "太好了♪那么我会努力站上C位的，\n要继续支持我哦☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "醒目飞鹰答应粉丝\n要在其故乡举行胜者舞台。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "来拟定让醒目飞鹰在阪神或京都的比赛中，\n能拿下第一名并获得C位的计划吧……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "啊……我失态了！是福冈县。\n你们能来小仓赛场吗……？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "哇～～是福冈耶♪\n就算当地有很多可爱的女生，\n我在舞台上也不会输的☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "训练员，飞鹰子好想去哦～",
-            "ChoiceDataList": [
-                "我会试着调整行程的！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "太好了♪那么我会努力站上C位的，\n要继续支持我哦☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "醒目飞鹰答应粉丝\n要在其故乡举行胜者舞台。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "来拟定让醒目飞鹰在小仓的比赛中，\n能拿下第一名并获得C位的计划吧……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性粉丝A",
-            "Text": "啊……我失态了！是神奈川县。\n你们能来川崎赛场吗……？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "哇～～是神奈川耶♪\n那儿有音乐之街，\n感觉会很刺激☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "训练员，飞鹰子好想去哦～",
-            "ChoiceDataList": [
-                "我会试着调整行程的！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飞鹰",
-            "Text": "太好了♪那么我会努力站上C位的，\n要继续支持我哦☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "醒目飞鹰答应粉丝\n要在其故乡举行胜者舞台。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "来拟定让醒目飞鹰在川崎的比赛中，\n能拿下第一名并获得C位的计划吧……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-      ]
+  "Title": "在你的城鎮Connect Live☆",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "醒目飛鷹的高架橋下演唱會熱鬧地結束後，\n當我們正在目送粉絲離開時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "謝謝大家～！\n今後也請繼續支持我喔～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "那、那個……飛飛……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "是～☆……咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "妳是最後一排……\n那個拿著手工圓扇的人對吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "咦、咦？妳、妳怎麼知道我……咦？\n不是還有其他觀眾嗎……為什麼！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "妳今天拿的是新的圓扇吧。我很高興喔～☆\n謝謝妳總是來參加演唱會♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "我快不行了！飛飛太神了！\n想不到妳居然記得我……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "真是的～妳太誇張了啦☆\n所以妳有什麼話要跟我說嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "啊哇……對、對喔！我想請妳錄加油訊息\n給我故鄉的兒時玩伴……可、可以嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "我的兒時玩伴也很喜歡飛飛，\n但是她太忙了，沒辦法離開故鄉……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "沒問題！\n我會努力幫她加油的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "簡簡簡、簡直就是神派來的天使……\n我的兒時玩伴最近在煩惱事情一直悶悶不樂，\n我想這樣她就能打起精神了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "原來如此，她在煩惱事情啊。\n希望我的聲音可以讓她打起精神。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "……對了！我想到比加油訊息\n更好的點子了♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "我問妳喔，如果飛飛在妳的故鄉\n舉辦勝利演唱會，妳覺得怎麼樣！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "那、那我的兒時玩伴就能參加演唱會了！\n可可、可是，為什麼要做到這種程度！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "不管身在何處，都要去見粉絲！\n這、才、是賽馬娘偶像嘛☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "哇啊啊……飛、飛飛……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "真真真、真是太令人崇拜了！\n崇拜到……我快喘不過氣了……呼、呼……！",
+      "ChoiceDataList": [
+        "我、我問一下，妳的故鄉在哪裡？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "啊……我失態了！是北海道！\n你們能來札幌或函館賽場嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "哇～～是北海道耶♪\n有起司跟螃蟹等各種好吃的東西！\n感覺能補充演唱會的能量呢☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "訓練員，飛飛好想去喔～",
+      "ChoiceDataList": [
+        "我會試著調整行程的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "太好了♪那麼我會努力站上中央站位的，\n要繼續支持我喔☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "醒目飛鷹答應粉絲\n要在其故鄉舉行勝利演唱會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "來擬定讓醒目飛鷹在札幌或函館的比賽中，\n能拿下第一名並獲得中央站位的計畫吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "啊……我失態了！是山形。\n你們能來福島或新潟賽場嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "哇～～是山形耶♪\n那裡的空氣很清新，\n開演唱會的話一定會很舒服吧～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "訓練員，飛飛好想去喔～",
+      "ChoiceDataList": [
+        "我會試著調整行程的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "太好了♪那麼我會努力站上中央站位的，\n要繼續支持我喔☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "醒目飛鷹答應粉絲\n要在其故鄉舉行勝利演唱會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "來擬定讓醒目飛鷹在福島或新潟的比賽中，\n能拿下第一名並獲得中央站位的計畫吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "啊……我失態了！是千葉縣。\n你們能來中山賽場嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "哇～～是千葉耶♪\n吃了充滿營養的燉內臟，\n感覺演唱會也會很成功呢～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "訓練員，飛飛好想去喔～",
+      "ChoiceDataList": [
+        "我會試著調整行程的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "太好了♪那麼我會努力站上中央站位的，\n要繼續支持我喔☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "醒目飛鷹答應粉絲\n要在其故鄉舉行勝利演唱會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "來擬定讓醒目飛鷹在中山的比賽中，\n能拿下第一名並獲得中央站位的計畫吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "啊……我失態了！是關西。\n你們能來阪神或京都賽場嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "哇～～是關西耶♪\n感覺會有很多熱情的粉絲☆\n一定會是很有趣的舞台吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "訓練員，飛飛好想去喔～",
+      "ChoiceDataList": [
+        "我會試著調整行程的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "太好了♪那麼我會努力站上中央站位的，\n要繼續支持我喔☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "醒目飛鷹答應粉絲\n要在其故鄉舉行勝利演唱會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "來擬定讓醒目飛鷹在阪神或京都的比賽中，\n能拿下第一名並獲得中央站位的計畫吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性粉絲A",
+      "Text": "啊……我失態了！是福岡縣。\n你們能來小倉賽場嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "哇～～是福岡耶♪\n就算當地有很多可愛的女生，\n我在舞台上也不會輸的☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "訓練員，飛飛好想去喔～",
+      "ChoiceDataList": [
+        "我會試著調整行程的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "太好了♪那麼我會努力站上中央站位的，\n要繼續支持我喔☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "醒目飛鷹答應粉絲\n要在其故鄉舉行勝利演唱會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "來擬定讓醒目飛鷹在小倉的比賽中，\n能拿下第一名並獲得中央站位的計畫吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
     }
+  ]
+}

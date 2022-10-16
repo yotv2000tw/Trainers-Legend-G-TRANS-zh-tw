@@ -1,65 +1,65 @@
 {
-    "Title": "迎向出道战",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "优秀素质终于要在\n“出道战”中出赛了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "优秀素质",
-            "Text": "唉……出道啊。\n这个词听起来真是新鲜。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "优秀素质",
-            "Text": "感觉我好像明天就会开始说什么\n“我也有过那种时代啊～”之类的话。",
-            "ChoiceDataList": [
-                "你很冷静呢",
-                "你很冷静呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "优秀素质",
-            "Text": "啊哈哈～\n我最擅长让自己看起来很冷静了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "优秀素质",
-            "Text": "而且出道后才是重头戏。\n……也不知道到时能不能好好比赛呢。",
-            "ChoiceDataList": [
-                "尽情发挥你现在的实力吧",
-                "尽情发挥你现在的实力吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "优秀素质",
-            "Text": "是啊～要是我有实力的话，\n我是非常想发挥啦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "优秀素质",
-            "Text": "但也有人说在这种重要时刻跌跤\n才是我的风格呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "优秀素质",
-            "Text": "总之应该会有办法的吧！\n那我出发咯～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向出道戰",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "優秀素質終於要在\n「閃耀出道戰」中出賽了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "唉……出道啊。\n這個詞聽起來真是新鮮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "感覺我好像明天就會開始說什麼\n「我也有過那種時代啊～」之類的話。",
+      "ChoiceDataList": [
+        "妳很冷靜呢",
+        "妳很冷靜呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "啊哈哈～\n我最擅長讓自己看起來很冷靜了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "而且出道後才是重頭戲。\n……也不知道到時能不能好好比賽呢。",
+      "ChoiceDataList": [
+        "盡情發揮妳現在的實力吧",
+        "盡情發揮妳現在的實力吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "是啊～要是我有實力的話，\n我是非常想發揮啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "但也有人說在這種重要時刻跌跤\n才是我的風格呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "總之應該會有辦法的吧！\n那我出發囉～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

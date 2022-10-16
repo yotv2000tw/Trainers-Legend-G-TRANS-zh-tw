@@ -1,76 +1,76 @@
 {
-    "Title": "迎向天皇赏（春）",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众A",
-            "Text": "天皇赏（春）终于到了……！\n好期待特别周与青云天空的对决！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众B",
-            "Text": "应该是特别周会赢吧？\n她最近又变得更强了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众A",
-            "Text": "虽然小特比较有胜算，\n但这个距离青云天空一定会与她纠缠。\n更重要的是──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众A",
-            "Text": "青云天空一定会有什么动作。\n我无法摆脱这样的预感！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "……吸……呼……",
-            "ChoiceDataList": [
-                "你很专心嘛",
-                "你很专心呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "那当然，毕竟小特看起来\n将状态调整得很好。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "我想尽可能减少不安要素，\n如果深呼吸能提高胜算，要我做几次都行。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "唉，当然不能光靠这个……\n果然还是得努力才行。",
-            "ChoiceDataList": [
-                "我会好好看着你努力的身影"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "唔哦，居然说出这种话～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青云天空",
-            "Text": "感觉有点难为情，\n拜托你下次讲得委婉一点。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "迎向天皇賞（春）",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "天皇賞（春）終於到了……！\n好期待特特與天空的對決！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "果然還是特別週會贏吧？\n而且她最近又變得更強了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "雖然小特比較有勝算，\n但這個距離青雲天空一定會與她糾纏。\n更重要的是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "青雲天空的話一定會採取什麼行動。\n我就是有那樣的預感！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……吸……呼……",
+      "ChoiceDataList": [
+        "妳很專心嘛",
+        "妳很專心呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "那當然，畢竟小特看起來\n將狀態調整得非常好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "我想先盡可能減少不安要素，\n如果深呼吸能提高勝算，要我做幾次都行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "是說，當然不可能只靠那樣就能贏啦……\n果然還是得要努力才行呢。",
+      "ChoiceDataList": [
+        "我會好好看著妳努力的身影"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "唔喔，有人像你那樣說話的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "感覺有點難為情，\n拜託你下次講得委婉一點～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

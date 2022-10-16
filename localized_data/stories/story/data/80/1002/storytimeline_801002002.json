@@ -1,92 +1,92 @@
 {
-    "Title": "该怎么做",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "某天，我为了歇口气\n而来到公园……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "快速奔跑的诀窍、诀窍啊……\n但我奔跑时从没想过这件事……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我看见无声铃鹿往逆时针的方向绕圈，\n似乎在思考着什么事情。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "啊！抱、抱歉。\n我挡到路了──咦？这里是？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "啊……我又因为想事情，\n不知不觉跑这么远了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "竟然想这么久都还是想不出来……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "这样会害那个后辈难过的。\n……唉，该怎么办。",
-            "ChoiceDataList": [
-                "陪她一起并跑练习如何？",
-                "诀窍说不定就藏在你的逆时针绕圈之中"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "并跑练习？啊，对哦……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "既然不知道怎么用说的，\n就让她实际体验好了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "谢谢你。\n我这就去约她一起并跑练习。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "咦？诀窍在逆时针绕圈之中？\n是……是这样吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "我自己从来都没有注意过。\n但……常常不自觉地这么做……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "无声铃鹿",
-            "Text": "我明白了，那我就这么和她说说看吧。\n……希望能够给她当作参考。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "該怎麼做",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天，我為了歇口氣\n而來到公園……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "快速奔跑的訣竅、訣竅啊……\n但我奔跑時從沒想過這件事……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我看見無聲鈴鹿往逆時針的方向繞圈，\n似乎在思考著什麼事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "啊！抱、抱歉。\n我擋到路了──咦？這裡是？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "啊……我又因為想事情，\n不知不覺跑這麼遠了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "竟然想這麼久都還是想不出來……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "這樣會害那個後輩難過的。\n……唉，該怎麼辦。",
+      "ChoiceDataList": [
+        "陪她一起並行練跑如何？",
+        "訣竅說不定就藏在妳的逆時針繞圈之中"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "並行練跑？啊，對喔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "既然不知道怎麼用說的，\n就讓她實際體驗好了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "謝謝你。\n我這就去約她一起並行練跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "咦？訣竅在逆時針繞圈之中？\n是……是這樣嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "我自己從來都沒有注意過。\n但……常常不自覺地這麼做……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "我明白了，那我就這麼和她說說看吧。\n……希望能夠給她當作參考。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

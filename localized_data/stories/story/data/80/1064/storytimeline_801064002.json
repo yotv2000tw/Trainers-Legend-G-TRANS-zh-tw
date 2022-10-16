@@ -1,125 +1,125 @@
 {
-    "Title": "积极的逃避",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我正在学园顶楼构思\n<chrname>的训练项目时──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "哦！本来想在这里悠闲地看美妆杂志的，\n竟然已经有人先来了啊～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "是说……你怎么好像很烦恼的样子。\n不介意的话，说来听听吧？",
-            "ChoiceDataList": [
-                "是有关训练项目的事情……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "原来如此啊……\n你一个人想着想着，结果陷入瓶颈了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "像这种时候呢，\n先试着暂时逃开也是一种方法哦。",
-            "ChoiceDataList": [
-                "试着逃开……？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "嗯，去做些无关紧要的事，\n或是吃点好吃的转换一下心情。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "我现在就是正打算这么做！\n想说暂时远离准备考试出来喘口气。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "为了能够再次努力面对挑战……\n积极的逃避也是很重要的，知道吗？",
-            "ChoiceDataList": [
-                "谢谢，但我还想再努力一下",
-                "那我也试着逃走吧！",
-                "那我也试着逃走吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "为了能够再次努力面对挑战……\n积极的逃避也是很重要的，知道吗？",
-            "ChoiceDataList": [
-                "谢谢，但我还想再努力一下",
-                "那我也试着逃走吧！",
-                "那我也试着逃走吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "这样啊……真帅！\n你是个相当有干劲的人呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "但要小心不要努力过头。\n也要适当地休息才行。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "很难熬的时候再来找我吧。\n随时都可以听你诉苦的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "之后，我努力坚持的结果……\n总算是排出自己也满意的项目了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "嗯嗯！一起逃吧！\n就算是绕远路，只要还能回来就好！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "对了，去食堂吃点甜食吧！\n我有个想吃吃看的甜点呢～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白善信",
-            "Text": "当作给努力的你一点奖励，\n就让我请客吧♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "之后，或许是因为积极逃避的关系……\n我排出了令自己满意的项目。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "積極的逃避",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我正在學園頂樓構思\n<chrname>的訓練項目時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "喔！本來想在這裡悠閒地看美妝雜誌的，\n竟然已經有人先來了啊～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "是說……你怎麼好像很煩惱的樣子。\n不介意的話，說來聽聽吧？",
+      "ChoiceDataList": [
+        "是有關訓練項目的事情……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "原來如此啊……\n你一個人想著想著，結果陷入瓶頸了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "像這種時候呢，\n先試著暫時逃開也是一種方法喔。",
+      "ChoiceDataList": [
+        "試著逃開……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "嗯，去做些無關緊要的事，\n或是吃點好吃的轉換一下心情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "我現在就是正打算這麼做！\n想說暫時遠離準備考試出來喘口氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "為了能夠再次努力面對挑戰……\n積極的逃避也是很重要的，知道嗎？",
+      "ChoiceDataList": [
+        "謝謝，但我還想再努力一下",
+        "那我也試著逃走吧！",
+        "那我也試著逃走吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "為了能夠再次努力面對挑戰……\n積極的逃避也是很重要的，知道嗎？",
+      "ChoiceDataList": [
+        "謝謝，但我還想再努力一下",
+        "那我也試著逃走吧！",
+        "那我也試著逃走吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "這樣啊……真帥！\n你是個相當有幹勁的人呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "但要小心不要努力過頭。\n也要適當地休息才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "很難熬的時候再來找我吧。\n隨時都可以聽你訴苦的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之後，我努力堅持的結果……\n總算是排出自己也滿意的項目了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "嗯嗯！一起逃吧！\n就算是繞遠路，只要還能回來就好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "對了，去學生餐廳吃點甜食吧！\n我有個想吃吃看的甜點呢～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "當作給努力的你一點獎勵，\n就讓我請客吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之後，或許是因為積極逃避的關係……\n我排出了令自己滿意的項目。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

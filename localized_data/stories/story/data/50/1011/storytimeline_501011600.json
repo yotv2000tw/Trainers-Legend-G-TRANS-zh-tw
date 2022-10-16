@@ -1,44 +1,44 @@
 {
-    "Title": "临阵抖擞",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "终于要开始了呢～\n呵呵，这会是场怎么样的比赛呢？我好期待。",
-            "ChoiceDataList": [
-                "你真从容啊",
-                "你真从容呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "是呀，要随时保持冷静，以平常心面对。\n毕竟慌慌张张的也无法获得好结果。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "不过……\n这并不代表我没有斗志哟？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "因为斗志应该要放在心里，而不是展露于外。\n这一刻，我的斗志也静静地在我的心中翻腾。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "草上飞",
-            "Text": "我已经做好了万全的准备──\n我会不慌不乱地，赢得胜利的♪",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "臨陣抖擻",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "終於要開始了呢～\n呵呵，這會是場怎麼樣的比賽呢？我好期待。",
+      "ChoiceDataList": [
+        "妳真從容啊",
+        "妳真從容呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "是呀，要隨時保持冷靜，以平常心面對。\n畢竟慌慌張張的也無法獲得好結果。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "不過……\n這並不代表我沒有鬥志唷？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "因為鬥志應該要放在心裡，而不是展露於外。\n這一刻，我的鬥志也靜靜地在我的心中翻騰。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "我已經做好了萬全的準備──\n我會不慌不亂地，贏得勝利的♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

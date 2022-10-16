@@ -1,65 +1,65 @@
 {
-    "Title": "迎向出道战",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "胜利奖券终于要参加“出道战”了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "出道战"
-            ]
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "啊哇哇哇哇哇～～！！\n终终终终于要出道咯，训练员！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "我紧紧紧紧张到心脏都快跳出来了！！\n而且总觉得身体好痒！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "我这样真的没问题吗！？\n能跑得好吗────！？",
-            "ChoiceDataList": [
-                "奖券一定没问题的！！！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "唔哦哦！！强而有力！！\n强而有力啊，训练员！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "不过总觉得勇气源源不绝地涌出来了！！\n我一定没问题，没问题的！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "出道战就吓得浑身发抖的话，\n哪有可能参加德比！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "胜利奖券",
-            "Text": "好──！！加油吧，奖券藏！！\n前进德比──！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "奖券藏"
-            ]
-        }
-    ]
+  "Title": "迎向出道戰",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "勝利獎券終於要參加「閃耀出道戰」了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "閃耀出道戰"
+      ]
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "啊哇哇哇哇哇～～！！\n終終終終於要出道囉，訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "我緊緊緊緊張到心臟都快跳出來了！！\n而且總覺得身體好癢！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "我這樣真的沒問題嗎！？\n能跑得好嗎────！？",
+      "ChoiceDataList": [
+        "獎券一定沒問題的！！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "唔喔喔！！強而有力！！\n強而有力啊，訓練員！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "不過總覺得勇氣源源不絕地湧出來了！！\n我一定沒問題，沒問題的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "出道戰就嚇得渾身發抖的話，\n哪有可能參加打比！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "好──！！加油吧，券藏！！\n前進打比──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "券藏"
+      ]
+    }
+  ]
 }

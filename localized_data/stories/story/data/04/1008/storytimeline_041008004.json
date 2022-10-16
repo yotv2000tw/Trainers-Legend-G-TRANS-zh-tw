@@ -1,5 +1,5 @@
 {
-  "Title": "那双眼，请别移开",
+  "Title": "不要別開視線",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,98 +8,98 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "多项目竞技大赛的第二天。伏特加第一次没有\n准时出现在训练场。",
+      "Name": "獨白",
+      "Text": "多項目競技大會隔天。\n伏特加第一次沒在訓練時準時出現。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "大和赤骥",
-      "Text": "咦，伏特加的训练员。\n……难道说，那家伙是没来吗？",
+      "Name": "大和赤驥",
+      "Text": "咦，是伏特加的訓練員。\n……那傢伙該不會沒來吧？",
       "ChoiceDataList": [
-        "你知道她在哪里吗？",
-        "你知道她在哪里吗？"
+        "妳知道她在哪嗎？",
+        "妳知不知道她在哪？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "大和赤骥",
-      "Text": "啊ー……应该在河岸边吧，大概。因为在漫画里\n看过这样的场景，所以那家伙一失落就肯定在那里。",
+      "Name": "大和赤驥",
+      "Text": "啊──我猜她在河堤，應該啦。\n那傢伙說漫畫中都是這樣的，所以消沉時一定會跑到河堤。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "大和赤骥",
-      "Text": "还说『这样很帅吧』什么的。\n……还真是个笨蛋啊。",
+      "Name": "大和赤驥",
+      "Text": "說什麼「這樣很帥氣對吧」……\n真的是個笨蛋呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "大和赤骥",
-      "Text": "虽说这样有点唠叨，但请一定要拉他一把哦。\n要是那家伙萎靡不振了……我这边也会没有干劲的。",
+      "Name": "大和赤驥",
+      "Text": "她可能會滿嘴抱怨，但你一定要拉她過來喔。\n要是讓那傢伙繼續消沉下去……我也會提不起幹勁的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "我向大和赤骥道过谢后，决定前往河岸边。",
+      "Name": "獨白",
+      "Text": "我向大和赤驥道謝後，決定前往河堤邊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "哎……训练员。",
+      "Text": "咦……訓練員。",
       "ChoiceDataList": [
-        "已经到训练时间了",
-        "已经到训练时间了"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "吵死了，那种事我知道。\n……今天偷懒了，偷懒！",
-      "ChoiceDataList": [
-        "这样做不是『很逊』的吗？",
-        "这样做不是『很逊』的吗？"
+        "訓練時間到了",
+        "訓練時間到了喔"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "～～～～不是说了吵死了吗！？\n你别管我了，像我这种人！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "像我这种……这么逊的家伙……！",
+      "Text": "少囉唆，我當然知道啊。\n……我今天要偷懶啦，偷懶！",
       "ChoiceDataList": [
-        "你为什么这么想？",
-        "你为什么这么想？"
+        "妳不是說「偷懶很不帥」嗎？",
+        "妳不是說「偷懶很不帥」嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "……因为我想要赢给你们看。而且真的打算要赢！\n就算是白仁前辈，我也要超越她给你们看！！",
+      "Text": "～～～～就、就叫你不要囉唆了！\n別管我這種人了啦！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "可是……实际跑起来，却被甩了那么远……\n终盘时候的我，已经精疲力尽了……！",
+      "Text": "不要管我……反正我一點都不帥……！",
+      "ChoiceDataList": [
+        "妳怎麼會這麼想？",
+        "妳為什麼這麼想呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "……我本來真的想贏的。我是真心打算要贏過她！\n我真的覺得就算對手是白仁前輩，我也要超越她！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "…………『已经不行了』，我不禁想着。",
+      "Text": "但是……實際開跑後卻被拉開那麼大的差距……\n到了後期我還精疲力盡……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "我看的那场比赛里的家伙们！　参加德比的那些家伙们\n当中，没有一个人……在中途放弃，一个都没有……！",
+      "Text": "…………我甚至覺得「已經不行了」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "我看的那些比賽！那些打比參賽者們\n沒有任何人……中途放棄過……但我卻……！",
       "ChoiceDataList": [
         "伏特加……"
       ],
@@ -107,192 +107,192 @@
     },
     {
       "Name": "伏特加",
-      "Text": "训练员……我，是不是不行啊。",
+      "Text": "訓練員……我是不是很沒用？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "出道前就这样了的话，我……\n是不是一辈子，都没法变得帅气了啊……！？",
+      "Text": "出道前就這副德性，我……\n是不是一輩子都沒辦法變得那麼帥氣……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "伏特加似乎完全丧失了自信。\n虽然我很想做些什么来鼓舞一下她……",
+      "Name": "獨白",
+      "Text": "看來伏特加徹底失去信心了。\n我想設法讓她打起精神……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "大和赤骥",
-      "Text": "虽说这样有点唠叨，但请一定要拉他一把哦。\n要是那家伙萎靡不振了……我这边也会没有干劲的。",
+      "Name": "大和赤驥",
+      "Text": "她可能會滿嘴抱怨，但你一定要拉她過來喔。\n要是讓那傢伙繼續消沉下去……我也會提不起幹勁的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "话说回来，大和赤骥为什么会那样对我说呢？\n她是不是也有什么想对伏特加表达的想法呢……",
+      "Name": "獨白",
+      "Text": "話說回來，大和赤驥為什麼會那麼說呢？\n她是不是也有話想對伏特加說……",
       "ChoiceDataList": [
-        "总之去跑道上吧，伏特加"
+        "總之我們回賽道吧，伏特加"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "哈？\u3000不，都说了我……",
+      "Text": "什麼？不，我就說……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "呃，等会等会等会！\u3000别推我，喂……！",
+      "Text": "喂！等一下等一下！不要推我啦，喂……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "大和赤骥",
-      "Text": "哈ー……啊啦，伏特加。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "……赤骥。",
+      "Name": "大和赤驥",
+      "Text": "呼……唉呀，伏特加。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "你……我记得你不是说过今天要休息吗？\n说因为是竞技大赛的第二天，要专心休息身体……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "大和赤骥",
-      "Text": "哼。……我改变计划了，不行吗？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "大和赤骥",
-      "Text": "不知道是哪个笨蛋，面对实力相差悬殊的对手也要正面\n挑战……虽然比赛序盘节奏就非常快，但她还一直跟在后面。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "大和赤骥",
-      "Text": "即便如此，还能在直线上加速……\n我觉得，我不能输给她。",
+      "Text": "……赤驥。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "……！\u3000赤骥，你……",
+      "Text": "妳不是說……今天要休息嗎？\n不是說競技大會隔天要專心讓身體好好休息……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "大和赤骥",
-      "Text": "就这样。我还有训练要做。",
+      "Name": "大和赤驥",
+      "Text": "哼……我突然改變計畫了，不行嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "誰叫某個笨蛋，面對實力有差距的對手仍然正面緊追不放……\n比賽一開始步調就很緊湊，但她還是沒有落後，持續跟上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "甚至還能在直線跑時加速……\n害我也覺得不能輸給她了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "那家伙是怎么回事啊……说什么不能输……\n明明，我这种人……那么的逊……！！",
+      "Text": "啊……！赤驥，妳……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "那我先去訓練了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "那傢伙搞什麼……說什麼不能輸……\n我明明……這麼不帥……！！",
       "ChoiceDataList": [
-        "勇敢挑战的你，真的很帅气",
-        "勇敢挑战的你，真的很帅气"
+        "勇敢挑戰的妳看起來很帥啊",
+        "勇敢挑戰的妳看起來很帥喔"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "但是！\u3000我最终，都放弃了……！",
+      "Text": "但是！最後我還是放棄了……！",
       "ChoiceDataList": [
-        "但重要的是今后该怎么做？",
-        "但重要的是今后该怎么做？"
+        "重要的是接下來該怎麼做，對吧？",
+        "重要的是接下來該怎麼做，不是嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "今后……？",
+      "Text": "接下來……？",
       "ChoiceDataList": [
-        "会不会一直逊下去，就看你自己了",
-        "会不会一直逊下去，就看你自己了"
+        "要不要就這樣下去，由妳決定",
+        "要不要就這樣下去，由妳決定喔"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "看我，自己……\n我自己……我自己…………！！",
+      "Text": "由我決定……\n我……我想…………！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "――训练员！\u3000有事拜托你！！",
+      "Text": "──訓練員！我有事要拜託你！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "给我……一个复仇的机会吧！！",
+      "Text": "請給我機會……我要雪恥！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "――那之后，伏特加比平时更加投入于训练之中。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "在这啊，赤骥！\n喂，跟我一起跑吧！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "大和赤骥",
-      "Text": "哈？\u3000别突然来说啊，我这边也有安排――",
+      "Name": "獨白",
+      "Text": "──那天之後，伏特加比往常更加全心投入訓練。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "好啦ー好啦ー，就跑一回！\n来，走吧！！　好啦要跑了，准备ー开始！！",
+      "Text": "找到你了，赤驥！\n喂，陪我並行練跑吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "大和赤骥",
-      "Text": "等！？\u3000……给我等一下啦，喂ーーー！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "然后，几天后――",
+      "Name": "大和赤驥",
+      "Text": "什麼？怎麼這麼突然，我也有自己的安排──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "请多指教，白仁前辈！！",
+      "Text": "好了啦好了啦，一圈就好！喂！走吧！！\n準備囉，預備～起跑！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "什麼！？……這傢伙，等等我────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "接著幾天後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "麻煩您了，白仁前輩！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "哼。……来吧，把你撂倒。",
+      "Text": "哼……來吧，看我徹底打敗妳。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "伏特加与成田白仁的再次对战――\n以1对1的并跑来复仇！！",
+      "Name": "獨白",
+      "Text": "伏特加對成田白仁提出復仇戰──\n挑戰一對一並行賽跑！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -304,82 +304,82 @@
     },
     {
       "Name": "伏特加",
-      "Text": "呜呜……！！",
+      "Text": "唔嗚嗚……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "（可……可恶ーーー！　好快！　糟糕！\n让我不禁觉得，不可能追得上啊……！！）",
+      "Text": "（可……可惡啊啊啊！好快！糟糕！\n忍不住又要覺得我一定跟不上她了……！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "（但是――！！）",
+      "Text": "（但是──！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "啊啊啊啊啊啊啊啊！！",
+      "Text": "看我的啊啊啊啊啊啊啊！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "（我绝不会让步了！\u3000绝不会放弃了! !）",
+      "Text": "（我再也不會認輸！絕不會放棄！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "（我……要将我所认为的『帅气』，贯彻到底！！）",
+      "Text": "（我……一定會堅持我心中的「帥氣」到最後！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "哒啊啊啊啊啊啊啊ーーーー！！",
+      "Text": "喝啊啊啊啊啊啊────！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "――获胜的，是成田白仁。",
+      "Name": "獨白",
+      "Text": "──贏得勝負的是成田白仁。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "独白",
-      "Text": "但是，伏特加直到最后的直线，\n都紧紧地跟在了“怪物”身后……",
+      "Name": "獨白",
+      "Text": "但是一直到最後的直線，\n伏特加都漂亮地緊追著「怪物」不放……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "你，真是个有趣的家伙。\n……下次再来跑吧。",
+      "Text": "妳這傢伙真有趣啊。\n……下次再一起跑吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "啊……！\u3000谢，谢谢您，前辈！！",
+      "Text": "啊……！非、非常感謝您，前輩！！",
       "ChoiceDataList": [
-        "很帅气哦，伏特加！！",
-        "很帅气哦，伏特加！！"
+        "妳很帥氣喔，伏特加！！",
+        "妳很帥氣喔，伏特加！！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "训练员……嘿嘿，谢谢！！",
+      "Text": "訓練員……嘿嘿，謝謝你啦！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "伏特加",
-      "Text": "……我，还会变得更帅气的。\n你可不要错过了啊！",
+      "Text": "……我啊，會變得越來越帥氣的。\n你可要好好看著啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

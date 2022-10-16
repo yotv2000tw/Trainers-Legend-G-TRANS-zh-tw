@@ -1,381 +1,381 @@
 {
-    "Title": "趁现在！能量景点",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我走在路上时……\n看到了一脸认真地在掷骰子的待兼福来。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "嗯嗯，两点啊，是偶数……\n那这里就应该要左转才对！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "……啊，哦哦！？遇到训练员了！",
-            "ChoiceDataList": [
-                "你在做什么？",
-                "你在做什么呢？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "呵呵呵，\n其实是因为昨晚在梦里收到了启示！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "根据启示──\n现在出现了一个限定期间的能量景点！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "虽然没有直接告诉我位置在哪，但没问题！\n我只要照着这个幸运骰子的指引，\n一定就能找到启示所指的地方！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "……于是当我一边掷骰子前进的时候，\n就遇到了训练员。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "唔唔唔～这应该不是巧合！\n该不会训练员你，\n其实就是引领我去能量景点的关键人物！？",
-            "ChoiceDataList": [
-                "是这样吗……？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "拜托了！\n接下来就请训练员帮我掷骰子吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……看她这么满怀期待，我也只好接受了。\n总之就先试着骰骰看……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "哦，是三点！也就是奇数，\n所以是走右边的路……是车站的方向呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "原来如此～意思是接下来要搭电车吧！\n那我们赶快过去吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "呵呵呵呵，感觉到了，我感觉到了哦～！\n我感觉离能量景点越来越靠近了！\n很期待吧？训练员！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "那就来骰骰看，看是应该在哪站下车吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "骰出一点就是下一站，两点就是下下站……\n六点就是坐到终点，然后在掌心上骰骰子……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "哦，是一点！\n意思就是下一站下车……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……但就在这时候。\n电车突然剧烈地晃动，\n掌心上的骰子掉到了地上……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "哦哦！？这、这是……！？\n变成六点了！",
-            "ChoiceDataList": [
-                "那这样应该怎么算？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "唔唔唔唔……真是个难题啊……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "……这里还是交给训练员决定了！\n毕竟训练员总是引导我前往正确的方向嘛！",
-            "ChoiceDataList": [
-                "一点＝在下一站下车",
-                "六点＝坐到终点"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "收到！\n不知道是什么在等着我们呢，真期待！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "哦哦～！这里就是限定期间的能量景点！\n确实感觉有种特别的能量呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……先不管看起来就像是普通的街道这点，\n我们还是继续骰骰子前进。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "啊！你看那个招牌！\n上面写着“能量烧”耶！\n是当地美食吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "多么符合能量景点的名字啊……！\n这个一定要买的吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "就买幸运7的七，七个……\n不对，还是买象征发达的八个！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "唔唔！？\n美术馆前有个巨大的摆设耶！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "哦哦～被阳光照射得亮晶晶的！\n这样看起来的话，\n它的内部应该正充满着太阳的能量呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "我们一起摸摸看吧，训练员！\n来来，来这边来这边！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "……触──摸！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "呵～好开心哦～！\n真的是很充实的一天呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "开心了一整天，让我充满了活力！\n真不愧是限定期间的能量景点。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "那个……训练员觉得怎么样呢？\n你就这样被我拖着一整天……",
-            "ChoiceDataList": [
-                "我玩得很开心哦"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "太……太好了～～～！\n那训练员应该也获得了很多能量吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "虽然没有发生什么超自然的现象，\n但既然待兼福来和我都感到很满足，\n就也不需要在意这些了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "呵呵呵，希望这样的启示能常常有呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "……耶嘿嘿，这么想可能太厚脸皮了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "但如果真的有的话，\n就又可以像今天一样有开心的回忆……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "……呵呵，今天晚上睡觉前，\n先向Shiraoki大人祈求启示好了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "……我知道了！那我们走吧！\n和训练员一起的话哪怕是天涯海角！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "抵达终点站后……\n映入眼帘的是非常朴实无华的景色。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "嘶～呼～嗯，这里空气好棒哦！\n感觉空气中充满了能量呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "才刚到这里就觉得很值得期待呢！\n那么训练员，我们走吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我在她充满期待的眼神之下骰动了骰子……\n就这样照着骰子的点数不停地走……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "哦～有股总算走到世界尽头的感觉呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "我想，这里应该就是这趟旅途的终点……\n限定期间的能量景点！\n哎呀～不知道会发生什么样的奇迹耶！",
-            "ChoiceDataList": [
-                "……真的会有什么奇迹吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "当然咯！这可是训练员引导我来的地方呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……看着她灿烂的笑容，\n我也开始衷心期望会有奇迹发生。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "嗯！？刚、刚才那是什么声音！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "训、训练员！你看天上！\n好像有什么发光的东西在靠近……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "呜、呜哇～～～～～！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "于是，耀眼的光芒和轰隆声垄罩了我们……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "────",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "你、你你你看见了吧？训练员？\n那个……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "是UFO哦！",
-            "ChoiceDataList": [
-                "那是……UFO吗？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "绝对没错！\n一定是来分享宇宙能量给我们的～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "因为看得不是很清楚，\n所以也不能断定到底是不是……\n但她这么开心，就别泼她冷水吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "真不愧是我命中注定的人！\n竟然能带给我这么大的幸运……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "待兼福来",
-            "Text": "只要我们两个在一起，以后一定还有很多很多\n更～厉害的事情在等着我们！\n……对吧！训练员！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "趁現在！能量景點",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我走在路上時……\n看到了一臉認真地在擲骰子的待兼福來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "嗯嗯，兩點啊，是偶數……\n那這裡就應該要左轉才對！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "……啊，喔喔！？遇到訓練員了！",
+      "ChoiceDataList": [
+        "妳在做什麼？",
+        "妳在做什麼呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "呵呵呵，\n其實是因為昨晚在夢裡收到了啟示！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "根據啟示──\n現在出現了一個限定期間的能量景點！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "雖然沒有直接告訴我位置在哪，但沒問題！\n我只要照著這個幸運骰子的指引，\n一定就能找到啟示所指的地方！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "……於是當我一邊擲骰子前進的時候，\n就遇到了訓練員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "唔唔唔～這應該不是巧合！\n該不會訓練員你，\n其實就是引領我去能量景點的關鍵人物！？",
+      "ChoiceDataList": [
+        "是這樣嗎……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "拜託了！\n接下來就請訓練員幫我擲骰子吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……看她這麼滿懷期待，我也只好接受了。\n總之就先試著骰骰看……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "喔，是三點！也就是奇數，\n所以是走右邊的路……是車站的方向呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "原來如此～意思是接下來要搭電車吧！\n那我們趕快過去吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "呵呵呵呵，感覺到了，我感覺到了喔～！\n我感覺離能量景點越來越靠近了！\n很期待吧？訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "那就來骰骰看，看是應該在哪站下車吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "骰出一點就是下一站，兩點就是下下站……\n六點就是坐到終點，然後在掌心上骰骰子……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "喔，是一點！\n意思就是下一站下車……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……但就在這時候。\n電車突然劇烈地晃動，\n掌心上的骰子掉到了地上……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "喔喔！？這、這是……！？\n變成六點了！",
+      "ChoiceDataList": [
+        "那這樣應該怎麼算？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "唔唔唔唔……真是個難題啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "……這裡還是交給訓練員決定了！\n畢竟訓練員總是引導我前往正確的方向嘛！",
+      "ChoiceDataList": [
+        "一點＝在下一站下車",
+        "六點＝坐到終點"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "收到！\n不知道是什麼在等著我們呢，真期待！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "喔喔～！這裡就是限定期間的能量景點！\n確實感覺有種特別的能量呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……先不管看起來就像是普通的街道這點，\n我們還是繼續骰骰子前進。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "啊！你看那個招牌！\n上面寫著「能量燒」耶！\n是當地美食嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "多麼符合能量景點的名字啊……！\n這個一定要買的吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "就買幸運7的七，七個……\n不對，還是買象徵發達的八個！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "唔唔！？\n美術館前有個巨大的擺設耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "喔喔～被陽光照射得亮晶晶的！\n這樣看起來的話，\n它的內部應該正充滿著太陽的能量呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "我們一起摸摸看吧，訓練員！\n來來，來這邊來這邊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "……觸──摸！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "呵～好開心喔～！\n真的是很充實的一天呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "開心了一整天，讓我充滿了活力！\n真不愧是限定期間的能量景點。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "那個……訓練員覺得怎麼樣呢？\n你就這樣被我拖著一整天……",
+      "ChoiceDataList": [
+        "我玩得很開心喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "太……太好了～～～！\n那訓練員應該也獲得了很多能量吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然沒有發生什麼超自然的現象，\n但既然待兼福來和我都感到很滿足，\n就也不需要在意這些了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "呵呵呵，希望這樣的啟示能常常有呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "……耶嘿嘿，這麼想可能太厚臉皮了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "但如果真的有的話，\n就又可以像今天一樣有開心的回憶……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "……呵呵，今天晚上睡覺前，\n先向白興大人祈求啟示好了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "……我知道了！那我們走吧！\n和訓練員一起的話哪怕是天涯海角！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "抵達終點站後……\n映入眼簾的是非常樸實無華的景色。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "嘶～呼～嗯，這裡空氣好棒喔！\n感覺空氣中充滿了能量呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "才剛到這裡就覺得很值得期待呢！\n那麼訓練員，我們走吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我在她充滿期待的眼神之下骰動了骰子……\n就這樣照著骰子的點數不停地走……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "喔～有股總算走到世界盡頭的感覺呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "我想，這裡應該就是這趟旅途的終點……\n限定期間的能量景點！\n哎呀～不知道會發生什麼樣的奇蹟耶！",
+      "ChoiceDataList": [
+        "……真的會有什麼奇蹟嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "當然囉！這可是訓練員引導我來的地方呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……看著她燦爛的笑容，\n我也開始衷心期望會有奇蹟發生。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "嗯！？剛、剛才那是什麼聲音！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "訓、訓練員！你看天上！\n好像有什麼發光的東西在靠近……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "嗚、嗚哇～～～～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是，耀眼的光芒和轟隆聲壟罩了我們……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "你、你你你看見了吧？訓練員？\n那個……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "是UFO喔！",
+      "ChoiceDataList": [
+        "那是……UFO嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "絕對沒錯！\n一定是來分享宇宙能量給我們的～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因為看得不是很清楚，\n所以也不能斷定到底是不是……\n但她這麼開心，就別潑她冷水吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "真不愧是我命中注定的人！\n竟然能帶給我這麼大的幸運……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "只要我們兩個在一起，以後一定還有很多很多\n更～厲害的事情在等著我們！\n……對吧！訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

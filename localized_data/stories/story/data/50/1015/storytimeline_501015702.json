@@ -1,280 +1,280 @@
 {
-    "Title": "穿睡衣的小公主",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "跟好歌剧外出之后，\n在回程的路上──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "嗯……你是？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "穿睡衣的小女孩",
-            "Text": "那、那个……那个……",
-            "ChoiceDataList": [
-                "（穿着睡衣的……小孩？）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "穿睡衣的小女孩",
-            "Text": "我、我很想见到，好歌剧，\n可是那个、那个……呜呜……呜哇～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "啊啊！你别哭啊。\n虽然珍珠般的眼泪也很美，\n但笑容一定更适合你。",
-            "ChoiceDataList": [
-                "她的家长呢……？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "嗯……看起来好像是迷路了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "穿睡衣的小女孩",
-            "Text": "噫、噫呜……好、好歌……\n那个，好歌剧……！呜呜……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……虽然很想帮助这个小女孩，\n但得先安抚她的情绪才行──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "这是我的荣幸，公主！既然你的手是空着的！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "请务必让我这个“霸王”\n做你的护花使者，好吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "穿睡衣的小女孩",
-            "Text": "！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "好歌剧一伸出手，\n小女孩就停止哭泣，\n怯生生地将手叠了上去。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……先带她去派出所好了。\n就在我跟好歌剧如此决定，\n前往派出所时──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女护士",
-            "Text": "找、找到了……！\n不好意思，她是……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "哦……你是护士对吧。\n你认识这孩子吗？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女护士",
-            "Text": "是，认识……她是我们那里的住院病患……\n咦，你是好歌剧！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "噢，看来我的名字果然是无人不知呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女护士",
-            "Text": "是，因为这孩子是你的粉丝……\n好像是听说特雷森学园就在附近，\n就溜出来了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女护士",
-            "Text": "怎么可以没说一声就跑不见呢？\n大家都很担心你哦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "穿睡衣的小女孩",
-            "Text": "啊……我、我……那个……\n对、对不起……呜呜。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "对不起，你就原谅她这一次吧……！\n这都要怪我的美貌不好！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "为表歉意，我愿意致赠我的明星照……不，\n是致赠《歌剧映像集～24小时与你同在～》\n给医院的每位人士各十张好了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女护士",
-            "Text": "啊，不……这个就……\n……总之，谢谢两位对这孩子的照顾！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "呼，竟然想见我想到不惜溜出医院……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "我的美真是何等罪过啊……！",
-            "ChoiceDataList": [
-                "可是她刚才在哭呢",
-                "可是她刚才在哭呢"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "是啊，想必是见到我太高兴了……\n再加上孤独之旅的记忆让她落泪了吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "对那年纪的孩子来说，路上的行车或招牌，\n看起来可能都像是巨大的怪物。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "但她为了见到我，\n克服所有恐惧，一路来到了这里。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "达成目的的安心感、喜悦，以及辛酸……\n那些眼泪换个说法，就是勇气的证明。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "啊啊，她是多么地坚强啊……！\n我一定要认真回应她的心情才行……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……好歌剧完全能够理解\n那些眼泪里含藏的心意。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "但是！\n溜出医院还是太危险了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "我很想送点东西帮助她克制冲动，\n安抚她的心灵──",
-            "ChoiceDataList": [
-                "好歌剧的亮眼表现如何？",
-                "带份礼物去探病好了"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "……说得对，这是最好的礼物。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "那我们就立刻去做练习吧！\n训练员！",
-            "ChoiceDataList": [
-                "是啊！",
-                "嗯！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "送给她由我主演的最棒歌剧！\n来排练能在探病时间内演完的两小时短剧吧！",
-            "ChoiceDataList": [
-                "嗯！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "──比起歌剧，还是让小女孩\n看见你在比赛中的光辉吧……\n我如此说服了好歌剧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "真是个好主意！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "那就立刻行动吧！\n麻烦你做准备，训练员！",
-            "ChoiceDataList": [
-                "准备？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "当然是摄影的准备了！\n制作我的写真集送给她……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌剧",
-            "Text": "黄昏的我、夜晚的我……\n然后到了早上，再来拍晨曦中的我！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……在那之后，\n我被迫专注在陪着好歌剧拍照这件事上……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "穿睡衣的小公主",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "跟好歌劇外出之後，\n在回程的路上──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "嗯……妳是？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "穿睡衣的小女孩",
+      "Text": "那、那個……那個……",
+      "ChoiceDataList": [
+        "（穿著睡衣的……小孩？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "穿睡衣的小女孩",
+      "Text": "我、我很想見到，好歌劇，\n可是那個、那個……嗚嗚……嗚哇～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "啊啊！妳別哭啊。\n雖然珍珠般的眼淚也很美，\n但笑容一定更適合妳。",
+      "ChoiceDataList": [
+        "她的家長呢……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "嗯……看起來好像是迷路了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "穿睡衣的小女孩",
+      "Text": "噫、噫嗚……好、好歌……\n那個，好歌劇……！嗚嗚……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……雖然很想幫助這個小女孩，\n但得先安撫她的情緒才行──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "這是我的榮幸，公主！既然妳的手是空著的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "請務必讓我這個「霸王」\n做妳的護花使者，好嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "穿睡衣的小女孩",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "好歌劇一伸出手，\n小女孩就停止哭泣，\n怯生生地將手疊了上去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……先帶她去派出所好了。\n就在我跟好歌劇如此決定，\n前往派出所時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女護士",
+      "Text": "找、找到了……！\n不好意思，她是……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哦……妳是護士對吧。\n妳認識這孩子嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女護士",
+      "Text": "是，認識……她是我們那裡的住院病患……\n咦，妳是好歌劇！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "噢，看來我的名字果然是無人不知呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女護士",
+      "Text": "是，因為這孩子是妳的粉絲……\n好像是聽說特雷森學園就在附近，\n就溜出來了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女護士",
+      "Text": "怎麼可以沒說一聲就跑不見呢？\n大家都很擔心妳喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "穿睡衣的小女孩",
+      "Text": "啊……我、我……那個……\n對、對不起……嗚嗚。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "對不起，妳就原諒她這一次吧……！\n這都要怪我的美貌不好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "為表歉意，我願意致贈我的明星照……不，\n是致贈《歌劇映像集～24小時與你同在～》\n給醫院的每位人士各十張好了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女護士",
+      "Text": "啊，不……這個就……\n……總之，謝謝兩位對這孩子的照顧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "呼，竟然想見我想到不惜溜出醫院……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "我的美真是何等罪過啊……！",
+      "ChoiceDataList": [
+        "可是她剛才在哭呢",
+        "可是她剛才在哭呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "是啊，想必是見到我太高興了……\n再加上孤獨之旅的記憶讓她落淚了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "對那年紀的孩子來說，路上的行車或招牌，\n看起來可能都像是巨大的怪物。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "但她為了見到我，\n克服所有恐懼，一路來到了這裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "達成目的的安心感、喜悅，以及辛酸……\n那些眼淚換個說法，就是勇氣的證明。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "啊啊，她是多麼地堅強啊……！\n我一定要認真回應她的心情才行……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……好歌劇完全能夠理解\n那些眼淚裡含藏的心意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "但是！\n溜出醫院還是太危險了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "我很想送點東西幫助她克制衝動，\n安撫她的心靈──",
+      "ChoiceDataList": [
+        "好歌劇的亮眼表現如何？",
+        "帶份禮物去探病好了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "……說得對，這是最好的禮物。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "那我們就立刻去做練習吧！\n訓練員！",
+      "ChoiceDataList": [
+        "是啊！",
+        "嗯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "送給她由我主演的最棒歌劇！\n來排練能在探病時間內演完的兩小時短劇吧！",
+      "ChoiceDataList": [
+        "嗯！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──比起歌劇，還是讓小女孩\n看見妳在比賽中的光輝吧……\n我如此說服了好歌劇。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "真是個好主意！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "那就立刻行動吧！\n麻煩你做準備，訓練員！",
+      "ChoiceDataList": [
+        "準備？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "當然是攝影的準備了！\n製作我的寫真集送給她……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "黃昏的我、夜晚的我……\n然後到了早上，再來拍晨曦中的我！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……在那之後，\n我被迫專注在陪著好歌劇拍照這件事上……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }
