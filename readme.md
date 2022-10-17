@@ -17,8 +17,24 @@
 - [`简体中文项目译文仓库`](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS) 負責部分簡體中文翻譯來源。
 - 雪楓Yuki ([`@yotv2000tw`](https://github.com/yotv2000tw)) 負責把簡體中文跟繁體中文版的翻譯給對應上去。
 
-### 如何貢獻【建議加頻道，頻道內可以提供更多漢化相關的工具】
+### 如何貢獻【請務必加入 [Discord 伺服器](https://discord.com/invite/umaconnect)，否則可能不會接受您的翻譯成果】
 
 - [烤肉教學](https://docs.qq.com/doc/DYk1Ia3h4UHRocGVJ)
-- 頻道請點此：[![Chat](https://img.shields.io/badge/Join-QQ%E9%A2%91%E9%81%93-blue?logo=tencent-qq&logoColor=white)](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1olqdK&from=246610&biz=ka)
+- 加入後請找到 [「TLG插件-繁體中文化」論壇頻道](https://discord.com/channels/811185992198389800/1030943310799454269) 。
 - 繁體中文（台灣）化的貢獻，由於尚在做基礎建置，尚未建立多人分工的機制，故目前暫時不需要人手，更新頻率也會很高，不建議近期開始翻譯，有任何更新會在此處說明。
+
+
+# 版權聲明
+
+- 本項目之內容僅用於學習、交流使用，請於下載後 24 小時內自行刪除。
+
+## 遊戲素材之使用
+
+- 本項目內之遊戲素材，其版權屬於 [Komoe Technology Limited（繁體中文版）](https://www.komoejoy-sea.com/) 及 [株式会社Cygames（日文版）](https://www.cygames.co.jp/) 。
+
+## 字體使用
+
+- 本字型是基於 SIL Open Font License 1.1 改造 字嗨 製作之「[源樣黑體](https://github.com/ButTaiwan/genyog-font/)」字型，「[源樣黑體](https://github.com/ButTaiwan/genyog-font/)」是基於 SIL Open Font License 1.1 改造 Adobe 所開發、發表的「[思源黑體](https://github.com/adobe-fonts/source-han-sans/)」字型。
+- 本字型亦基於 SIL Open Font License 1.1 授權條款免費公開，關於授權合約的內容、免責事項等細節，請詳讀 License 文件。
+    - 本字型可自由使用在印刷、影像、網路或任何媒體上，不限個人或商業使用。
+    - 您可基於 SIL Open Font License 1.1 的規定再散佈或改造本字型。
