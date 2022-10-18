@@ -2,6 +2,7 @@
 [![Download](https://img.shields.io/github/v/release/MinamiChiwa/umamusume-localify-zh-CN?color=blue&logoColor=white&label=Download&logo=DocuSign)](https://github.com/MinamiChiwa/Trainers-Legend-G/releases/latest)
 [![Chat](https://img.shields.io/badge/Join-QQ%E9%A2%91%E9%81%93-blue?logo=tencent-qq&logoColor=white)](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1olqdK&from=246610&biz=ka)
 [![Discord](https://img.shields.io/discord/811185992198389800?color=blue&label=Discord&logo=Discord&logoColor=white)](https://discord.com/invite/umaconnect)
+[![Telegram](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps://t.me/TLG_zh_tw)](https://t.me/TLG_zh_tw/)
 # 注意
 
 - **本插件內所有翻譯內容均屬於原翻譯者，以任何方式（錄製影片、提取文本等）轉載或大段搬運譯文請註明原譯者或此倉庫的貢獻者列表及授權參考列表**
