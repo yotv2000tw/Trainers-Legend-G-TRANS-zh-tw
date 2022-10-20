@@ -77,7 +77,7 @@
     },
     "dicts": [ /*將會讀取的字典列表` (相對/絕對路徑)*/
         "localized_data/event.json", /*育成事件文本*/
-        "localized_data/LIVE.json", /*LIVE歌詞等*/
+        "localized_data/LIVE.json", /*演唱會歌詞等*/
         "localized_data/hash_entries.json" /*雜項文本*/
     ],
     "static_dict": "localized_data/static.json", /*static字典文件的路徑*/
