@@ -63,9 +63,9 @@
     "customFontLinespacing": 0.9, /*文字行間距，基準值為1.0*/
     "replaceAssets": true, /*是否開啟圖片等資源替換(true/false)*/
     "assetLoadLog": false, /*是否在debug輸出遊戲資源調用情況(true/false)*/
-    "autoFullscreen": false, /*在屏幕比例對應時自動設定為全屏 (true/false)
-                            - 如屏幕是16:9 並且橫屏，將會在橫屏播放劇情/live時全屏
-                            - 如屏幕是9:16，將會在絕大多數情況下全屏*/
+    "autoFullscreen": false, /*在螢幕比例對應時自動設定為全屏 (true/false)
+                            - 如螢幕是16:9 並且橫屏，將會在橫屏播放劇情/live時全屏
+                            - 如螢幕是9:16，將會在絕大多數情況下全屏*/
     "autoChangeLineBreakMode": true, /*根據橫豎屏模式自動切換"忽略換行符"模式*/
     "resolution_start": [-1,-1], /*設定啟動時的解析度, 格式: `array[w, h]`（[-1,-1]為默認）*/
     "aspect_ratio": [16.0,9.0], /*設定UI比例, 格式: `array[w, h]`（沒有需求可以不填）*/
