@@ -1,5 +1,5 @@
 {
-  "Title": "『bg』",
+  "Title": "「bg」",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,79 +9,79 @@
     },
     {
       "Name": "獨白",
-      "Text": "某天出門后——",
+      "Text": "當我們外出辦完事後──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "那，我就先回去了。",
+      "Text": "那我先走了。",
       "ChoiceDataList": [
-        "誒？！"
+        "咦！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……你什麼表情啦。\n還有什麼事嗎？",
+      "Text": "……怎麼，還有什麼事嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "雖然也沒什麼事兒……\r\n但是我難得拉著大進出門，\r\n她卻打算那麼冷淡地直接告別。",
+      "Text": "是沒有什麼事……\n但我們才剛出門辦完事，\n她那頗為冷淡的反應令我很介意。",
       "ChoiceDataList": [
-        "你今天……不太開心嗎？"
+        "難道今天不開心嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……為什麼這麼問？\r\n開不開心都一樣吧。",
+      "Text": "……為什麼這麼問？\n怎樣都無所謂吧。",
       "ChoiceDataList": [
-        "難得出門，我還是希望你能玩得盡興呢。"
+        "難得出門，我希望妳開心"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "哈，啰嗦。\r\n這是我自己的事情。",
+      "Text": "唉，煩死了。\n這是我自己的事吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "不管我開不開心都和你沒關係吧。",
+      "Text": "我開不開心，\n都跟你無關。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "還有什麼話要說嗎？\r\n我急著回去。",
+      "Text": "你要說的就這些嗎？\n我想回去了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……今天是新武器解禁的日子，\r\n我想早點回去試試看……",
+      "Text": "……今天可是新武器釋出日。\n我想早點去確認……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "的確，開心這種事情強求不來。\r\n但是，我也想讓大進留下一些開心的回憶，\r\n於是決定再努力一下。",
+      "Text": "開心的確是無法強迫的，但我還是希望她，\n在一整天的最後，能覺得今天出門是對的，\n我也想為此而努力。",
       "ChoiceDataList": [
-        "那就讓我「擅自」來讓你開心起來吧！",
-        "那就讓我「擅自」來讓你開心起來吧！"
+        "那我也要自作主張讓妳開心",
+        "那我也要自作主張讓妳開心"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……？\r\n你說什麼蠢話呢？",
+      "Text": "……啊？\n什麼東西，簡直莫名其妙。",
       "ChoiceDataList": [
-        "我想看見你的笑容！",
-        "我想看見你的笑容！"
+        "因為我想看到妳的笑容",
+        "因為我想看到妳的笑容"
       ],
       "ColorTextInfoList": []
     },
@@ -93,40 +93,40 @@
     },
     {
       "Name": "成田大進",
-      "Text": "……你果然是笨蛋啊。",
+      "Text": "……你是傻了嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "雖然擺出一副惡劣的態度，但她卻沒有走開，\r\n似乎在等著我出招。",
+      "Text": "……雖然語氣粗暴，\n但她並沒有離開。\n似乎正在等我出招。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "想想看逗她開心的方法。她的興趣是遊戲的話，\r\n那就選一些和遊戲有關的內容比較好。\r\n那麼——",
+      "Text": "關於讓她開心的方法，她的興趣是玩遊戲，\n也就是說，如果是有遊戲性的活動\n或許能吸引她，所以……",
       "ChoiceDataList": [
-        "詞語接龍！",
-        "來比賽跑步吧！"
+        "來玩接龍！",
+        "用你追我跑一決勝負！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "小屁孩嗎。絕對不幹。",
+      "Text": "你是小孩子啊，絕對不要。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "哈啊……我居然會期待你的提案……\r\n我也是個笨蛋啊……",
+      "Text": "唉……我居然等你，真是太蠢了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "這個提案拙劣的程度甚至讓我自己都吃驚……\r\n不過，這可是好不容易才抓住的機會，\r\n不可能就這樣讓她溜走！",
+      "Text": "這突兀的提議，讓她大翻白眼……\n然而這是好不容易才抓到的機會，\n我不能在此退縮……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -142,155 +142,155 @@
       "Name": "成田大進",
       "Text": "…………",
       "ChoiceDataList": [
-        "果醬！"
+        "果汁！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "………………我說……\r\n你這樣也不害臊的？",
+      "Text": "…………我說你。\n你不覺得丟臉嗎？",
       "ChoiceDataList": [
-        "的……德行！"
+        "嗎……媽寶！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "哈啊～……",
+      "Text": "唉～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "她繼續無視我的存在。\r\n而我則靠著畢生所學一個人進行著詞語接龍——",
+      "Text": "之後，即使被她無視，\n我仍想方設法地接下去……",
       "ChoiceDataList": [
-        "意麵！"
+        "天平！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "——我說，你差不多得了……",
+      "Text": "──欸，差不多可以……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "麵包店店員員",
-      "Text": "歡迎歡迎！\r\n我們家有剛烤好的麵包哦！\r\n口感鬆軟特別好吃哦♪",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大進",
-      "Text": "啊，麵包……",
+      "Name": "麵包店店員",
+      "Text": "歡迎光臨～！\n要不要試試剛出爐的蘋果麵包！\n蓬鬆柔軟很好吃喔♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……！！\r\n不、不是！那句不算！！",
+      "Text": "啊，蘋果……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "……！！\n剛、剛才的不算數！！",
       "ChoiceDataList": [
-        "誒？"
+        "咦？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "只是偶然而已！\r\n我正好在想要不要買麵包回去……！",
+      "Text": "我可不是在陪你玩接龍！\n我只是在想要不要買個麵包而已……！",
       "ChoiceDataList": [
-        "……哦哦！『意麵』和『麵包』！"
+        "……啊！「天平」和「蘋果」！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "哈、哈？！\r\n我——我我壓根沒注意到哦……？",
+      "Text": "啊，什麼？\n原來你剛才完全沒發現……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "啊……啊啊！\n都怪我說出口了……！",
+      "Text": "啊～可惡，我多嘴了……！",
       "ChoiceDataList": [
-        "是大進輸了哦！",
-        "是大進輸了哦！"
+        "妳輸了呢",
+        "妳輸了呢"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "我、我都說了不算數了……好啦別笑啦！！\r\n（日語里說出詞語發音末尾為ん的詞語算敗，\r\n麵包パン的ン和ん同音）",
+      "Text": "就、就說不算數了！\n真是……別嘻皮笑臉的！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "………………\n………………\n…………哈啊？",
+      "Text": "……啊？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……你覺得……\r\n你有任何可能在這方面和我比嗎？",
+      "Text": "我說你啊……\n首先，你覺得你跟我有得比嗎？",
       "ChoiceDataList": [
-        "……好像沒什麼可能呢！",
-        "……好像沒什麼可能呢！"
+        "……幾乎沒得比啊",
+        "……幾乎沒得比啊"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……那你為什麼，要選這個根本贏不了的專案？\r\n這世上可玩的東西不止這個吧？",
+      "Text": "那你為什麼要比會輸的比賽？\n應該還有很多可以選吧。",
       "ChoiceDataList": [
-        "因為我想陪大進玩你喜歡的東西……"
+        "我想用妳喜歡的事來比"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……\r\n……你把我當喜歡亂竄的小屁孩嗎？",
+      "Text": "……\n簡直把我當成愛亂竄的小鬼……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "哼，也行吧。\r\n你都這麼說了，我就接受挑戰。",
+      "Text": "算了。\n這可是你自己說的喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "拜。",
+      "Text": "那麼，再見。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "……！\r\n得追上她才行……！",
+      "Text": "……！\n我得追上去……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "……但是，這可是賽馬娘啊。就算她在放水，\r\n我也是拼上老命也沒辦法追上她，\r\n只能眼睜睜看著她的背影漸行漸遠——",
+      "Text": "可是賽馬娘就算沒拿出真本事也跑得很快。\n想當然不管我多努力奔跑，\n也不可能追得上──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……那傢伙，還沒到啊。",
+      "Text": "……那傢伙還沒追上來嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……為什麼一個普通人類會想和賽馬娘賽跑啊。\r\n這根本沒法比吧。\r\n……明明是個訓練員，也太笨了吧……",
+      "Text": "真是的，普通人跟賽馬娘，\n不管怎麼想都沒得比吧。\n都當訓練員了還笨得要死，",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "………………\r\n話說回來，想看見我的笑容……\r\n這什麼蠢話啊……",
+      "Text": "從一開始說什麼\n「想看到妳的笑容」……\n就很莫名其妙了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -302,13 +302,13 @@
     },
     {
       "Name": "成田大進",
-      "Text": "早知道該停下來等等他的……",
+      "Text": "是不是該停下來等他呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……不對，我是笨蛋嗎。\r\n唉……笨蛋。",
+      "Text": "……不，這也太蠢了吧。\n真是……有夠蠢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

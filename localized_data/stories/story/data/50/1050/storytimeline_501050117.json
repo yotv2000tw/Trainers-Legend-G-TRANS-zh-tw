@@ -1,5 +1,5 @@
 {
-  "Title": "『我請客』『好啊』",
+  "Title": "「我請客」「不用了」",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,7 +9,7 @@
     },
     {
       "Name": "",
-      "Text": "在春季『天皇賞』來臨前的某一天——",
+      "Text": "就在春季「天皇賞」\n即將到來的某一天──",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "天皇賞"
@@ -29,89 +29,89 @@
     },
     {
       "Name": "成田大進",
-      "Text": "……怎麼了？出什麼事了嗎？\r\n你看上去有點憔悴啊？",
+      "Text": "……妳是怎麼了？\n是不是有點憔悴啊？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "這個嘛……哈哈。\n你還真是眼尖啊。",
+      "Text": "啊，沒有啦……哈哈。妳真是敏銳啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "到也不是什麼大事。最近有點沒睡好而已。\r\n……所以才到你推薦的這個午睡地點來。",
+      "Text": "沒什麼，只是有點睡眠不足。\n……所以我才跑來妳推薦的午睡地點。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "是嗎……",
+      "Text": "是喔……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "那個啊。\r\n你有成田白仁最近的資料嗎？",
+      "Text": "欸。你有成田白仁最近的資料嗎？",
       "ChoiceDataList": [
-        "誒，成田白仁？"
+        "咦，成田白仁？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "嗯。",
+      "Text": "沒錯。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "能讓那傢伙憔悴成這樣的，\r\n也就只有她妹妹了吧。",
+      "Text": "……那傢伙的心會產生動搖，\n八成是因為她妹妹的事。",
       "ChoiceDataList": [
-        "那傢伙，是說琵琶晨光嗎？",
-        "那傢伙？是說琵琶晨光嗎？"
+        "那傢伙……是指晨光嗎？",
+        "那傢伙……是指晨光嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "算是吧。",
+      "Text": "是啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……說回白仁的話題。\r\n那傢伙最近有什麼大新聞嗎？",
+      "Text": "……回到白仁的事。\n最近她有什麼大新聞嗎？",
       "ChoiceDataList": [
-        "我看看啊——"
+        "呃──"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "這麼說著，我稍微調查了一下。\r\n白仁似乎在前不久的『皋月賞』中大放異彩。",
+      "Text": "在她的詢問下我搜尋到了\n前幾天舉辦的「皋月賞」的新聞。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "『皋月賞』第一……哼，\r\n還更新了時間記錄啊。",
+      "Text": "「皋月賞」第一名……嗯，\n而且還刷新了賽道紀錄。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "不愧「怪物」之名啊……",
+      "Text": "她還是一樣的「怪物」……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "晨光那傢伙，就是知道這件事後——",
+      "Text": "或許晨光那傢伙在知道這則新聞後──",
       "ChoiceDataList": [
-        "可能變得有些焦躁了吧",
-        "可能變得有些焦躁了吧"
+        "就焦慮了起來吧",
+        "就焦慮了起來吧"
       ],
       "ColorTextInfoList": []
     },
@@ -129,281 +129,281 @@
     },
     {
       "Name": "成田大進",
+      "Text": "那個……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "跟人談話的時候……\n一般來說都會怎麼做啊？",
+      "ChoiceDataList": [
+        "（大進是在顧慮她的朋友……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "……欸。\n你是不是在亂想些什麼？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "好了啦！快點回答！！",
+      "ChoiceDataList": [
+        "可以一起去吃飯喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "……吃飯？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拉麵店店員",
+      "Text": "歡迎光臨！！\n請選喜歡的位子坐喔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "啊，謝謝……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "……大進，妳……\n並不是這裡的常客吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "啊？怎麼可能是常客。\n我很少在外面吃飯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "也、也是。妳就是這種性格。\n既然這樣……嗯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "……妳為什麼要約我出來呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
       "Text": "……那個……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大進",
-      "Text": "要是有什麼事情想談的話……\r\n一般來說，會怎麼做……？",
-      "ChoiceDataList": [
-        "（大進在為自己的朋友著想……！）"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大進",
-      "Text": "……喂。\r\n你是不是在瞎想些怪事兒？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大進",
-      "Text": "好了！\u3000快告訴我啦！！",
-      "ChoiceDataList": [
-        "一般會一起去個吃飯吧？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大進",
-      "Text": "……這樣嗎？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
       "Name": "拉麵店店員",
-      "Text": "歡迎光臨！！\r\n請隨便坐！！",
+      "Text": "兩位賽馬娘！要吃什麼？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "啊……謝謝……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "……大進啊……你……\r\n呃……不是這兒的常客吧？",
+      "Text": "欸，啊、呃──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "哈？怎麼可能是啊。\r\n我很少在外面吃飯的……",
+      "Text": "蔬菜拉麵、胡蘿蔔增量……\n啊，其中一碗麵要少一點……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "說、說得也是。你確實很少到外面吃飯啊……\r\n那你為什麼……呃……呣……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "……為什麼，要請我出來吃飯呢？",
+      "Text": "……對了，我看過「日經賞」的影片囉。\n跑得很精采呢，大進。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……這個啊……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "拉麵店店員",
-      "Text": "二位馬娘！\u3000要吃些什麼？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大進",
-      "Text": "呃、這個……嗯——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大進",
-      "Text": "兩碗蔬菜拉麵，多加胡蘿蔔……\r\n啊，其中一碗少面少菜……",
+      "Text": "咦？啊，嗯……謝謝。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "……說起來，我看了『日經賞』的回放。\r\n跑得很棒啊，大進。",
+      "Text": "最後衝刺時追上來的速度真令人不寒而慄……\n我已經數不清自己為妳的\n尾段加速修正過幾次方程式了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "誒？\u3000啊、嗯……謝謝。",
+      "Text": "……這話的意思是「妳覺得我很強」嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "看著你在終盤的衝刺，我都開始脊背發涼了。\r\n……我都不知道為你的末腳修正過多少此方\r\n程式了。",
+      "Text": "嗯？是啊……說穿了就是如此。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……也就是說……\n你覺得我是個很強的人嗎？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "嗯？\r\n說實話……對。你很強。",
+      "Text": "這樣啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "嗯。",
+      "Text": "……我一直覺得，\n晨光妳是個難纏的傢伙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "……大進？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……我倒是……\r\n一直覺得你是個麻煩的傢伙。",
+      "Text": "我一直這麼覺得……到現在也是。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "……麻煩？",
+      "Text": "……啊，原來如此，是這回事啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "妳──是在鼓勵我對吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "我一直這麼覺得……哪怕現在也是。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "……哈哈，這樣啊。原來這麼回事啊。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "你約我出來吃飯——\r\n是不是想來鼓勵我？",
+      "Text": "什麼……才不是這樣！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "哈……？才不是這樣！",
+      "Text": "只是……我把妳當作難纏的對手，\n妳卻自己在那沒自信……這樣不對吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "……原來如此。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "也是──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "我是說……像你這種麻煩的傢伙……\r\n才不會這麼隨隨便便就喪失自信……吧。",
+      "Text": "嗚噗……都說過麵要少一點了，還是好多……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "……是嗎。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "也是啊——",
+      "Text": "沒事吧，大進？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "唔……明明都說了少面少菜，\r\n還是這麼多……",
+      "Text": "沒事才怪……唉。\n我再也不去那家店了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "大進……沒事吧？",
+      "Text": "是嗎？那真是太可惜了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "我還想說一定要跟妳再來一次呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "不可能沒事吧……哈。\r\n再也不來這家店了……",
+      "Text": "……是喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "真的？那可真遺憾啊。",
+      "Text": "欸，大進──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "我還想著下次要和你一塊再來呢。",
+      "Text": "妳願意相信我很「難纏」嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……是嗎。",
+      "Text": "……相信？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "那，大進——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "你……願意相信我的『麻煩』嗎？",
+      "Text": "沒錯……怎麼樣？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……相信你的『麻煩』？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "嗯。\r\n……如何？",
+      "Text": "這──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "這個嘛……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大進",
-      "Text": "當然相信了。\r\n畢竟你確實是個麻煩的傢伙。",
+      "Text": "我當然相信囉……\n事實上妳就是很難纏啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "……哼。\n哈哈哈哈哈！",
+      "Text": "噗……哈哈。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "這樣啊。……謝謝。",
+      "Text": "這樣啊……謝謝。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "（『相信』……嗎。）",
+      "Text": "（「相信」……啊。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "獨屬於春季的溫暖夜風拂過。\r\n想到這個詞，大進輕輕地笑了起來。",
+      "Text": "在春天的晚風吹拂下，\n成田大進微微勾起了嘴角。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

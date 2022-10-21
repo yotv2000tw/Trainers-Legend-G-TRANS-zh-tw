@@ -1,5 +1,5 @@
 {
-  "Title": "挑戰抓娃娃遊戲！",
+  "Title": "挑戰夾娃娃機！",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,68 +9,68 @@
     },
     {
       "Name": "獨白",
-      "Text": "這天，我和大進一起出門的時候——",
+      "Text": "某天，\n我跟成田大進一起出門時──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "那是……",
+      "Text": "……那是。",
       "ChoiceDataList": [
         "怎麼了？",
-        "怎麼啦？"
+        "怎麼了？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "怎麼說好呢……\r\n總之，你看那邊。",
+      "Text": "還怎麼了……\n你看那邊不就知道了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "我看向大進示意的方向。\r\n在遊戲廳裡面，\r\n有一個裝有嘚嘚玩偶的娃娃機。",
+      "Text": "我往成田大進指的方向看去，\n那裡有一台裝有賽馬娘主題玩偶的夾娃娃機。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "那玩意兒好像最近還挺流行的……\r\n不過我沒啥興趣就是了。",
+      "Text": "聽說那個最近很流行，\n不過我沒興趣就是了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "最近似乎能看見不少人抱著這玩意兒……",
+      "Text": "偶爾會看到一些人把它別在包包上。",
       "ChoiceDataList": [
-        "你也想試試嗎？"
+        "妳也試著把它別在包包上怎麼樣？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "哈？\r\n你剛聽我說話了嗎？我沒興——",
+      "Text": "啊？你有在聽我說話嗎？\n我說了我沒興趣──",
       "ChoiceDataList": [
-        "其實我很會抓娃娃哦！"
+        "而且那些玩偶做得那麼精緻！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……哈啊。隨你的便吧。\r\n有言在先，我可不會出手哦。",
+      "Text": "……唉。隨便你吧。\n先說好，我是不會去夾的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "要玩的話自己去玩。\r\n我也不知道你是不是真的能抓到啦。",
+      "Text": "要夾你去夾。\n……就不知道你夾不夾得到了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "——這個遊戲，絕不能輸！！",
+      "Text": "──這個挑戰，不能失敗！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

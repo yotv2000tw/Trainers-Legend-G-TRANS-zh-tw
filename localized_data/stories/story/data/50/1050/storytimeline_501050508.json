@@ -1,5 +1,5 @@
 {
-  "Title": "連戰疲勞",
+  "Title": "參賽的疲勞",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,54 +9,54 @@
     },
     {
       "Name": "獨白",
-      "Text": "我在校門前見到了大進。\r\n不過比起她平時那副兇巴巴的樣子，\r\n總覺得她今天好像有點沒精神。",
+      "Text": "我在校門口看到了成田大進，\n感覺她似乎不如平時有精神。",
       "ChoiceDataList": [
-        "你身體不舒服嗎？",
-        "你身體不舒服嗎？"
+        "難不成妳身體不舒服？",
+        "難不成妳身體不舒服？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……哈？\r\n你說誰身體不舒服啊！",
+      "Text": "……啊？你說誰不舒服！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "在比賽時我不也跑得挺好的嗎？！\r\n我才沒你想的那麼脆弱……！",
+      "Text": "我比賽時都跑得好好的不是嗎？\n我才沒那麼虛弱……！",
       "ChoiceDataList": [
-        "但是……"
+        "可是……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "吵死了，\r\n別把我想得那麼軟弱啊，笨蛋！",
+      "Text": "少囉嗦，別當我是溫室花朵！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "（……我在犯什麼傻啊……\r\n已經累到開始遷怒他人了嗎……）",
+      "Text": "（……我在做什麼啊。\n因為疲憊心情煩躁，還遷怒別人。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "（……就按照這傢伙說的，\r\n好好休息一下比較好吧……）",
+      "Text": "（就照那傢伙說的，\n稍微休息一下會比較好嗎……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "之後，與大進道別時，\r\n她離開時的背影看上去也不如先前那樣強勢了。",
+      "Text": "之後，我跟成田大進道了再見，\n而她離開時的背影也像顆洩了氣的皮球。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "也許是疲勞積累過頭了……\r\n有必要重新審視今後比賽計劃了啊。",
+      "Text": "或許她已經累積了不少疲勞。\n看來有必要重新調整今後的參賽計畫。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

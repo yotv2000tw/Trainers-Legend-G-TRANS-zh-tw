@@ -1,5 +1,5 @@
 {
-  "Title": "在神社祈願！",
+  "Title": "在神社祈求！",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,95 +9,95 @@
     },
     {
       "Name": "獨白",
-      "Text": "因為大進最近狀態似乎不怎麼好，\r\n我們決定來到神社祈願。",
+      "Text": "為了幫助狀態不佳的成田大進，\n我們來到了神社。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "在祈禱和抽籤之後——",
+      "Text": "在祈禱完，並抽了籤後──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "我還以為你要帶我去哪兒呢……\r\n原來是來神社啊。",
+      "Text": "還在想說，你這麼突然是要把我帶去哪呢……\n沒想到是要求神保佑啊。",
       "ChoiceDataList": [
-        "也許這也能讓你狀態好轉吧？"
+        "我希望這能讓妳的狀態變得好一點"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "哈啊。要是願望能這麼輕易就實現的話，\r\n我們哪還用得著這麼辛苦——",
+      "Text": "唉，要是這樣就能實現願望，\n誰還需要那麼辛苦……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "咦？這不是大進嗎？！\r\n大進——————！！！",
+      "Text": "咦？這不是大進嗎！\n喂～～～～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "嗯？大進你們也來參拜了嗎。",
+      "Text": "怎麼，\n妳們也來參拜啦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "已經拜完準備回去就是了。",
+      "Text": "我們要回去了。\n已經參拜完，也抽完籤了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "誒誒誒～～～？！再拜一次吧！\r\n就當陪陪我們！可以吧？可以吧？！",
+      "Text": "欸～～～！？那就再來一次吧！\n這次跟我們一起！好嗎！好嗎！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "兩次祈福比一次祈福有效，\r\n三次祈福比兩次祈福虔誠！\r\n一定拜得越多越有可能實現願望啦！！",
+      "Text": "拜兩次更勝拜一次！拜三次更勝拜兩次！！\n多拜幾次願望也比較會實現喔！！",
       "ChoiceDataList": [
-        "是、是這樣嗎……？"
+        "原、原來如此……？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "被獎券的氣勢壓倒，我們也陷進了她的節奏，\r\n最後來到神社前再一次參拜。",
+      "Text": "我們架不住興致沖沖的勝利獎券，\n只得再去祈禱一次了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "神明大人佛祖大人～！\r\n地靈靈天靈靈，一定要實現我的願望——！！",
+      "Text": "神啊佛啊～！\n請實現我的願望吧～～～～～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "神社裡沒有佛祖，獎券。",
+      "Text": "獎券，神社裡是沒有佛的喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……對她而言無所謂吧。",
+      "Text": "……這種事一點也不重要吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "快看快看，我是中吉哦！\r\n大家都抽中了什麼？",
+      "Text": "欸欸欸，你們抽到了什麼啊？\n我是中吉！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "我是吉。還不賴吧。\r\n大進怎麼樣？",
+      "Text": "我是吉。還不錯。\n大進呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -105,118 +105,118 @@
       "Name": "成田大進",
       "Text": "……大吉。",
       "ChoiceDataList": [
-        "好厲害啊，大進！",
-        "好厲害啊，大進！"
+        "大進妳真厲害！",
+        "大進妳真厲害！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……不就是大吉而已，\r\n有什麼好大驚小怪的？",
+      "Text": "這沒什麼，\n大吉並不是很稀奇吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "怎麼可能啦！\r\n這可是大吉哦？！",
+      "Text": "才沒這回事！\n那可是大吉耶！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "加上我的中吉和晨光的吉，\r\n這樣一來願望一定能實現啦！",
+      "Text": "加上我的中吉跟晨光的吉，\n願望一定能實現的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "大進的狀態也肯定能立馬恢復的！！",
+      "Text": "大進妳的狀態也\n一定會一轉眼就恢復的！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "哈？",
+      "Text": "啊？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "…………啊，暴露了啊。\r\n實際上……我們就是爲了讓你狀態好轉才\r\n來神社的。",
+      "Text": "…………啊～其實，今天我們是來祈求\n希望妳的狀態能變好的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "畢竟我們可是勁敵，\r\n我也希望能與萬全狀態的你交鋒啊。",
+      "Text": "因為我們想跟競爭對手，\n在最棒的狀態下競爭。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "什、什麼啊……",
+      "Text": "這算……什麼……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "我又沒拜託你們來做這種事情……真是的……\r\n………………一群笨蛋！",
+      "Text": "我可沒有拜託妳們做這種事啊。\n…………笨蛋！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "雖然我和她朋友們的祈福讓大進有些苦惱，\r\n但總之她的狀態還是好轉了。",
+      "Text": "之後，或許是本人與朋友們的祈禱上達天聽了，\n一直困擾著成田大進的狀態不佳\n就此消除了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……大兇。",
+      "Text": "……大凶。",
       "ChoiceDataList": [
-        "再、再去抽一次罷！"
+        "再、再抽一次吧！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "霉運退散霉運退散！！\r\n這次是大兇，下次肯定是大吉了！",
+      "Text": "贊成贊成～！\n大凶的下一籤一定是大吉！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "…………\r\n好像，簽已經被抽完了……",
+      "Text": "……可是，\n籤好像已經賣光了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "誒誒誒誒誒？！\r\n難道說大進的大兇換不掉了嗎？！",
+      "Text": "咦──！？這樣大進只能\n一直停留在抽到大凶的狀態耶！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……沒事。我也不怎麼在意……",
+      "Text": "沒關係，我又不在意……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "我很在意嗚哇啊啊啊啊啊啊～～～～～！！\r\n大進好可憐啊！！！！！！！",
+      "Text": "我很在意啊～～～～！！\n大進太可憐了────！！！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "啊啊啊啊吵死了！！\r\n沒必要哭成這樣吧！",
+      "Text": "啊啊啊，吵死了！！\n別哭了啦！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "大進費了好大勁才讓獎券平靜下來。\r\n最後也沒能讓她狀態好轉……",
+      "Text": "之後，成田大進好不容易才安撫好勝利獎券，\n然而到頭來，她的狀態不佳還是沒有消除。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

@@ -1,5 +1,5 @@
 {
-  "Title": "迎接有馬紀念",
+  "Title": "迎向有馬紀念",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,77 +9,77 @@
     },
     {
       "Name": "獨白",
-      "Text": "在『有馬紀念』當天，\r\n成田大進去參加賽前體檢之後——",
+      "Text": "那是發生在「有馬紀念」當天──\n比賽前送成田大進去過磅之後的事。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "（敲門聲……）",
+      "Text": "（咚咚……）",
       "ChoiceDataList": [
-        "在，請進？"
+        "是，請進"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "？？？",
-      "Text": "……打擾了。\r\n請問您就是成田大進的訓練員嗎？",
+      "Text": "打擾了……\n請問是成田大進的訓練員嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大進的母親",
-      "Text": "……初次見面。我是成田大進的母親。",
+      "Text": "……幸會，我是大進的媽媽。",
       "ChoiceDataList": [
-        "誒？！"
+        "咦！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "這樣說完之後，\r\n這位成年的馬娘沒有對我的驚訝做出迴應，\r\n只是深深地向我鞠了一躬。",
+      "Text": "一位成熟的賽馬娘\n不顧我的訝異深深地鞠了躬。\n這麼說來，她們的相貌確實相似。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "接著，我與大進的母親聊了一會。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "大進的母親",
-      "Text": "參加比賽的孩子們一般都出生在春季，\r\n大進卻出生得很晚……\r\n這也許就是她個子這麼小的原因吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "大進的母親",
-      "Text": "正因為如此，\r\n我才很擔心她會在比賽中受重傷，\r\n所以一直沒有好好支援她。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "大進的母親",
-      "Text": "明知道她想要奔跑，我卻還為把她個子生得小而\r\n道過歉……那時候的她發了相當大的脾氣……\r\n也許我不配以母親的身份來看她的比賽吧。",
+      "Text": "之後，我與成田大進的母親\n稍微談了一會兒。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "最後，大進的母親說著「把這個給她吧」，\r\n交給我一束花朵。",
+      "Text": "出賽的選手們個個都是春天出生的，\n成田大進卻晚了許多，\n或許是這個緣故，她長得很瘦小。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "正因為如此，成田大進的母親\n很擔心她會在比賽中受重傷，\n而沒辦法好好為她加油。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "對於即使這樣仍想賽跑的女兒，\n成田大進的母親曾為了把她生得瘦小而道歉，\n結果惹得她暴怒不已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "接著，成田大進的母親遞給我一把花束，\n並說「請轉交給我女兒」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大進的母親",
-      "Text": "如果告訴她是我送的的話，她一定不會接受。\r\n所以……就說只是個粉絲給她的就好。",
+      "Text": "請不要告訴她這是我送的，\n不然她一定不肯收下。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大進的母親",
-      "Text": "不過……就算為時已晚……\r\n今天的比賽，\r\n我也會好好地在觀眾席上為她加油的。",
+      "Text": "可是……至少今天這場比賽，\n我想打從心底為她加油。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -91,54 +91,54 @@
     },
     {
       "Name": "成田大進",
-      "Text": "……啊？花？",
+      "Text": "……嗯？花束？",
       "ChoiceDataList": [
-        "是、是粉絲送的！說是請你加油哦！",
-        "是、是粉絲送的！說是請你加油哦！"
+        "這、這是粉絲給的！她說希望妳「加油」！",
+        "這、這是粉絲給的！她說希望妳「加油」！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "哼……",
+      "Text": "是────喔……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……你們是不是都把我當笨蛋啊？\r\n你也是……媽媽也是。",
+      "Text": "……是把我當傻瓜嗎？\n不管是你……還是我媽。",
       "ChoiceDataList": [
-        "哎？"
+        "咦？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "我以前提到過『家裡有開店』吧。\r\n其實，我家開的是花店。",
+      "Text": "之前不是說過「我家是開店的」嗎。\n我家開的是花店。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "真是的……\n這光是看一眼包裝就知道是我家店裡的花了啊。",
+      "Text": "真是……看包裝方式的特徵我就知道了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "嘛……\r\n不管我媽媽有沒有看這場比賽，\r\n我要做的事情都不會改變就是了。",
+      "Text": "不過……\n我才不管我媽是否在看著我。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "我是爲了我自己才奔跑的。",
+      "Text": "我要做的，只有為自己而跑而已。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……所以，也要爲了我自己而取勝。",
+      "Text": "……只有跑贏而已。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

@@ -1,5 +1,5 @@
 {
-  "Title": "粉絲來信",
+  "Title": "粉絲信",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,133 +9,133 @@
     },
     {
       "Name": "成田大進",
-      "Text": "哈……哈……呼。\r\n好，休息五分鐘……",
+      "Text": "呼、呼……呼。\n好，休息五分鐘……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "戴著眼鏡的少女",
-      "Text": "那……那個！\r\n請問……您是成田大進小姐對吧……？！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大進",
-      "Text": "呃……是我。\n你是……？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "戴著眼鏡的少女",
-      "Text": "我……我是粉絲！！\r\n我是您的粉絲！！！",
+      "Name": "戴眼鏡的少女",
+      "Text": "請、請問！\n妳是成田大進小姐對吧……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "誒？！",
+      "Text": "咦……是我沒錯……妳是誰？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴眼鏡的少女",
+      "Text": "我是……\n大進小姐妳的粉絲！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "啊……啊……\r\n這、這樣嗎……\r\n……你……你好。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "戴著眼鏡的少女",
-      "Text": "突……突然向您打招呼，真是不好意思。\r\n但是，我……我無論如何都想要向您道謝。",
+      "Text": "咦！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……『道謝』？",
+      "Text": "啊～這樣啊……謝謝。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "戴著眼鏡的少女",
-      "Text": "是的。我一直戴著這種大眼鏡，\r\n所以常常被人戲弄……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "戴著眼鏡的少女",
-      "Text": "不過，看見了大進小姐努力的身姿之後，\r\n我就覺得……我也應該努力才對……！\r\n我也不能一直讓人把我當笨蛋！",
+      "Name": "戴眼鏡的少女",
+      "Text": "抱、抱歉突然跟妳搭話。\n可是……我想跟妳說聲謝謝。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "……這樣嗎。",
+      "Text": "……「謝謝」？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "戴著眼鏡的少女",
-      "Text": "然後……我終於第一次向他們反擊了……\r\n我向他們大喊道「別把我當笨蛋啊！」\r\n所以，我才想……來向您道謝——",
+      "Name": "戴眼鏡的少女",
+      "Text": "是的。因為我戴著大眼鏡，\n所以常常被人嘲笑……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田大進",
-      "Text": "……不。\r\n這事和我根本就沒關係。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "戴著眼鏡的少女",
-      "Text": "誒……啊……說、說得也是呢……\r\n抱歉，突然打擾您……",
+      "Name": "戴眼鏡的少女",
+      "Text": "可是看到大進小姐後，\n我也萌生出要好好加油的念頭。\n……想說不能一直被人小看下去！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "拿出勇氣，告訴自己不能再被當做笨蛋的人……\r\n是你自己。",
+      "Text": "……是喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴眼鏡的少女",
+      "Text": "所以，我前陣子第一次反擊\n叫對方「別取笑我」……所以我想說謝謝──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "你以後也能繼續像現在這樣，\r\n以自己為傲，昂首挺胸地活下去了吧。",
+      "Text": "……不。\n這跟我又沒關係。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴眼鏡的少女",
+      "Text": "咦……啊，也、也是。\n抱歉，突然打擾……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "所以，這和別人……\r\n和我沒關係。",
+      "Text": "……不想再被人小看而拿出勇氣的，\n是妳自己對吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "戴著眼鏡的少女",
+      "Name": "成田大進",
+      "Text": "所以妳就繼續保持，\n好讓妳可以自豪地面對自己吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大進",
+      "Text": "跟其他人……或是我，都沒關係。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴眼鏡的少女",
       "Text": "……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "這天，成田大進收到了一封粉絲來信。",
+      "Text": "那一天，\n成田大進收到了一封粉絲信。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "不過，內容好像有些奇怪——",
+      "Text": "但那封信的內容有點特別──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "『我會擅自為你加油的』……哼。",
+      "Text": "「我會擅自為妳加油」……喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "哈哈。這不是挺能說的嘛。",
+      "Text": "……哈哈。還挺會說的嘛。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

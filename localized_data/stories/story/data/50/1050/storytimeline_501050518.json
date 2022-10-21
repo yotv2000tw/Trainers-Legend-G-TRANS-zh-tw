@@ -1,5 +1,5 @@
 {
-  "Title": "完食。但是……",
+  "Title": "靠幹勁吃光了。可是……",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,25 +9,25 @@
     },
     {
       "Name": "成田大進",
-      "Text": "一份每日套餐B，三明治要沙拉醬。",
+      "Text": "……一份當日套餐B，\n配餐選沙拉。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "餐廳的阿姨",
-      "Text": "哎呀哎呀，抱歉哦！\r\nB套餐賣光了，只剩下A套餐了哦～",
+      "Name": "學生餐廳的阿姨",
+      "Text": "哎呀哎呀，抱歉！\n只剩下A套餐囉～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大進",
-      "Text": "誒……？「油炸拼盤」嗎？\r\n那——",
+      "Text": "咦……是炸物拼盤嗎？\n那麼──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "餐廳的阿姨",
-      "Text": "配菜也只剩下薯條了……\r\n你也是個還在長身體的馬娘呀，\r\n一定要多吃點長高點哦！",
+      "Name": "學生餐廳的阿姨",
+      "Text": "配餐也只剩下「滿滿的薯條」了……\n不過妳是還在發育的賽馬娘，\n要多吃一點趕快長大喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -39,7 +39,7 @@
     },
     {
       "Name": "成田大進",
-      "Text": "……唔……",
+      "Text": "……嗚噗。",
       "ChoiceDataList": [
         "沒事吧……？",
         "沒事吧……？"
