@@ -29,7 +29,7 @@
 - 您可以透過取得 Discord 頻道內的身分組，加入繁體中文（台灣）化的工作。
 - 頻道的位置如下圖所示：
 
-![Discord頻道示意圖](https://i.imgur.com/1gCVntG.png)
+    ![Discord頻道示意圖](https://i.imgur.com/1gCVntG.png)
 
 # 版權聲明
 
