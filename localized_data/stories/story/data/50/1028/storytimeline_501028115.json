@@ -1,0 +1,426 @@
+{
+  "Title": "今夜はことこと",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『安田記念』を終えてしばらく経ったある日。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "おはよう、トレーナーさん。",
+      "ChoiceDataList": [
+        "どうした？",
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "普段は明るいヒシアケボノが、\r\nどこか戸惑ったような表情をしていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "んっとね、そのー……\r\n気のせいかなって思ってたんだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "なんだか、脚に違和感があるの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医者",
+      "Text": "検査の結果ですが……ケガとまでは\r\n言えませんが、軽い炎症はあるようです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医者",
+      "Text": "レースやトレーニングによる脚への負荷、\r\n継続的な疲労が、違和感として\n出てきているのかもしれません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "継続的な疲労……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医者",
+      "Text": "ええ。ヒシアケボノさんの体は大変に大きい。\r\nその分、体重もあると言えます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医者",
+      "Text": "体重が重たく推進力が大きいほど、脚への、\r\n特に膝や足首など、筋肉でカバーしづらい\n箇所への負担は大きくなります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医者",
+      "Text": "今までは、生まれ持っての体の強さが\r\nヒシアケボノさんの激走を支えてきました。\nですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医者",
+      "Text": "少しずつ体が悲鳴を上げ始めている状況、\r\nと言えるかもしれません。",
+      "ChoiceDataList": [
+        "なるほど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医者",
+      "Text": "ヒシアケボノさんの体躯を活かした\r\nパワフルなレースは魅力的です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医者",
+      "Text": "しかし、負荷が大きくなれば、どうしても\r\nその分、摩耗も激しくなってしまう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医者",
+      "Text": "残りの競走生活期間に\r\n影響を与えるかもしれません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "『今後の方針について、よく話し合われて\r\nください』……かぁ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "んんっとどうしようか、トレーナーさん？",
+      "ChoiceDataList": [
+        "（あの体は、彼女の大きな武器だ）",
+        "（あの体は、彼女の大きな武器）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その武器がもろ刃の剣になってしまう\r\n可能性があることも理解はしていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "が、武器を活かして取った勝利は確かにある。\r\n歩んできた道に間違いはなかったはずだ。",
+      "ChoiceDataList": [
+        "（……とはいえ）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "体に影響が出ているということは、\r\n想定以上の負荷が掛かっていたということだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヒシアケボノの選手生命がかかっている。\r\n取り返しのつかないことになってはいけない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……トレーナーさん？",
+      "ChoiceDataList": [
+        "仕切り直しをしないか？",
+        "仕切り直しをしない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "仕切り、直し……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "1度レースから離れて体重を落とす。\r\nそして脚の負担が軽くなるような新しい\nレーススタイルを模索し、作り上げる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ポツポツ話す提案を\r\nヒシアケボノは最後まで黙って聞いていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "…………そっかぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……。\r\nあたし、あたしはね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "このまま、走りたいな。だって、みんな\r\n待ってるし、今、走るの本当に楽しくって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "でも、けど――そうだよねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさんは、あたしのために\r\n辛いこと、言ってくれてるんだよねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "…………。ちょっとだけ、\r\n考えさせてもらってもいいかなー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヒシアケボノの見つめる先には、\r\n剥がし漏れか、\n先日の『安田記念』のポスターが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヒシアケボノとタイキシャトルが対峙する\r\n大きなポスターが飾られていたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "何作ろうかなぁ。\r\nとりあえず、お湯沸かそ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "んん～。\r\n今と違う体のあたしか～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "さあ、注目は前走から大きく体重を落として\r\nきたヒシアケボノ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "持ち前のパワフルさは、やや鳴りを潜めた\r\n印象もありますが、その分足取りは軽やか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "徐々に位置をあげつつ、\r\n先頭をうかがっています！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うーん。確かに、ずっと続けられそうだな～。\r\nもっともっと強くなれるかもだし～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "…………でも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客A",
+      "Text": "あれがヒシアケボノ！？\r\n他の子と並ぶとやっぱり大きいな～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客B",
+      "Text": "ね～！\u3000レースも楽しみ！\r\n迫力ありそ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客A",
+      "Text": "デ、デッカかったぁー！\u3000ていうか、\r\n走ると迫力マジでエグいね！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "大きいってびっくりする声も笑顔も、\r\nエールも全部嬉しかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "『大きいボノちゃんと小さいビコーちゃんが\r\nそれぞれ一生懸命がんばって、\n全力でぶつかってる姿に感動しました』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "――えへへ、コメント嬉しいなぁ。\r\nみんな応援してくれてるよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "応援してくれる人もどんどん増えてって、\r\n迫力あるレースがいいねって言ってくれて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客A",
+      "Text": "ヒシアケボノとタイキシャトル……\r\nヘビー級のやりあいって見ごたえあるな～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客B",
+      "Text": "他の子のレースも面白いけど、\r\nボーノちゃんはやっぱり特別っていうか……\n迫力がすごくて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客B",
+      "Text": "本当、元気出るんだよね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "…………うん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あたしはまだ、今の体のままがいいなぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "でも、でも……走れなくなったら、\r\nレース見せられなくなっちゃうよねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "どうしようかな～。\r\nどうしようかな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……今日はとりあえず、雑炊にしようかな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヒシアケボノと、今後の話をしてから数日後。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさんトレーナーさん、\r\n長期休暇のお話なんだけどね？",
+      "ChoiceDataList": [
+        "……まとまった？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ええっとねぇ、その……もーちょっと、\r\n待ってもらっていいかな。あと……3――",
+      "ChoiceDataList": [
+        "3日？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "3か月ぐらい。",
+      "ChoiceDataList": [
+        "3か月ぐらい！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あのね……『スプリンターズS』でね、\r\nみんなの顔を見てから決めたいんだ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "どうかな～……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――ともあれ本人が納得できないことを\r\n強要するわけにはいかない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "脚への負担が軽いメニューで様子を見つつ、\r\nヒシアケボノの中で答えが出るのを\n待つことにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

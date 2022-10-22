@@ -1,0 +1,63 @@
+{
+  "Title": "不在の理由は……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "トレーニングに来ないマンハッタンカフェを\r\n心配して探していたところ、\n虚空に向かって手を振る彼女を見つけた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………さようなら。\r\n……寄り道せず帰ってね……。",
+      "ChoiceDataList": [
+        "……誰に声を？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……ああ、トレーナーさん……。\r\n迷子の子がいたので、道案内を…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……では、\r\nトレーニングへ向かいましょうか……。",
+      "ChoiceDataList": [
+        "もう時間は過ぎてるよ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………日が暮れてる……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………話したのは、数秒のはずですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………いえ、関係ありませんね。\r\nすみません……以後、気をつけます……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女はとても反省しているようだ。\r\nそれに、気をつけるとの事なので、\nこれ以上詳しく聞くのはやめておこう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

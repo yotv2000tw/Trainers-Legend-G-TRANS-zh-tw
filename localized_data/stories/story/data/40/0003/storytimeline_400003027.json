@@ -1,0 +1,295 @@
+{
+  "Title": "チュートリアル",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "お疲れ様です。現在、希望される方に、\n『グランドライブ』開催へ向けた\n育成について、ご説明していますが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "<username>さん、\r\n説明は必要ですか？",
+      "ChoiceDataList": [
+        "説明を聞く",
+        "説明を聞かない"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "それでは、何をご説明いたしましょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『グランドライブ』準備中の\n育成について聞いておきたいことといえば――",
+      "ChoiceDataList": [
+        "グランドライブについて",
+        "パフォーマンスについて",
+        "レッスンについて",
+        "もう大丈夫です"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『グランドライブ』についてですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "グランドライブとは、かつてウマ娘たちが\n自主的に開催していたライブです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "URA主導のウイニングライブが\n広まったことで、近年は行われておらず\n現状、あまり知名度は高くありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "そこで！\u3000今回ライブを再建するにあたり、\n新しいファンのみなさんへの知名度を\n上げるべく、告知ライブを開催します♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "告知ライブは計4回開催され、\nそれぞれ新しく披露した\n楽曲数に応じて評価されますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "計4回",
+        "新しく披露した",
+        "楽曲数に応じて評価されます"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "評価の高いライブの開催は、\nウマ娘たちの大きな成長につながります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "グランドライブを成功に導くためにも、\nより多くの楽曲を披露できるように\nがんばりましょう♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "また、今回みなさんには\nトゥインクル・シリーズに参加しながら、\nグランドライブの準備を進めていただきます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トゥインクル・シリーズに参加しながら"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "育成の状況次第では、\nグランドライブの告知期間中であっても\n育成終了となりますのでご注意くださいね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "育成の状況次第では、",
+        "グランドライブの告知期間中であっても",
+        "育成終了となります"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『グランドライブ』についての説明は\n以上となります。\nほかに聞きたいことはありますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『パフォーマンス』についてですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "トレーニングに成功すると、\n5種類あるパフォーマンスのうち\nいずれかを獲得できます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "パフォーマンス"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "どのトレーニングで\nどんなパフォーマンスが獲得できるかは、\n毎回異なるのでしっかり確認してくださいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "どんなパフォーマンスが獲得できるかは、",
+        "毎回異なる"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "また、トレーニングレベルや、一緒に\nトレーニングするウマ娘の人数に応じて、\n獲得できるパフォーマンス量も異なります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "特に友情トレーニングに成功すると、\n1度に2種類のパフォーマンスを\n獲得することができるようです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "1度に2種類のパフォーマンスを",
+        "獲得することができる"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "また、各種イベントでも\nパフォーマンスを獲得できることが\nあるようですよ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "効率的にパフォーマンスを獲得して、\nより多くの楽曲やライブテクニックを\n習得しましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "楽曲",
+        "ライブテクニック"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『パフォーマンス』についての説明は\n以上となります。\nほかに聞きたいことはありますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『レッスン』についてですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "レッスンでは、トレーニングで獲得した\nパフォーマンスを使って、\n楽曲やライブテクニックを習得できます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "レッスン"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "楽曲やライブテクニックを習得すると\n習得ボーナスと呼ばれる\nボーナスを獲得できますよ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "習得ボーナス"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "習得ボーナスは能力上昇や体力回復、\nトレーニング内容の強化など、\n育成に役立つ効果が盛りだくさんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "担当ウマ娘の成長のためにも、\nぜひ、レッスンをご活用くださいね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "また、レッスンで楽曲を習得すると、\n追加でライブボーナスと呼ばれる\nボーナスを獲得できます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ライブボーナス"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "新しく獲得したライブボーナスは、\n定期的に行われる告知ライブで披露すると、\n以降、継続して効果を発揮します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "継続して効果を発揮"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "習得ボーナスとは異なった効果が多いので、\nこちらも活用してみてくださいね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "ただし、それぞれのライブまでの期間に\n習得できる楽曲の数には限りがあるので\n注意してください！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ライブまでの期間に",
+        "習得できる楽曲の数には限りがある"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "また、習得するのに必要なパフォーマンスが\n不足している時は、\nレッスンの予約が行えますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "予約"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "レッスンを予約すると、トレーニング時に\nどのパフォーマンスが不足しているかを\n確認できるので、育成に役立ててくださいね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "どのパフォーマンスが不足しているかを",
+        "確認できる"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『レッスン』についての説明は\n以上となります。\nほかに聞きたいことはありますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "本当に大丈夫ですか？",
+      "ChoiceDataList": [
+        "はい",
+        "いいえ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "わかりました♪\u3000念のためお伝えしますと\r\n簡単にまとめたものがこちらにあります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "今の説明は、左上の『iボタン』を押せば\r\nいつでも見ることができますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "iボタン"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "それでは、がんばってください。\r\n陰ながら応援しています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "わかりました。それでは、がんばって\r\nくださいね！\u3000陰ながら応援しています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

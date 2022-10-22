@@ -1,0 +1,50 @@
+{
+  "Title": "不在の理由は……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "タマモクロスがトレーニングに来ない……。\r\nと思っていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "すまん！\u3000だいぶ遅れてもうた！",
+      "ChoiceDataList": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "運動前にキチンと食事せなって\r\n思っててんけど、注文し過ぎてもうてな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "途中で腹いっぱいになったんやけど、\r\n残すわけにはいかへんやろ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なんとか食べきってきたんやけど、\r\n時間がかかってもうて……。\nホンマにすまん！\u3000かんにんしてな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "タマモクロスが少食なことは知っているし、\r\n反省もしているようなので、\nこの件は軽く注意して終わりにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

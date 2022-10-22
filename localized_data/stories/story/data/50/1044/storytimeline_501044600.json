@@ -1,0 +1,37 @@
+{
+  "Title": "武者震い",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "もー、うるさーい！\nちょっと、観客騒ぎすぎじゃない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "使い魔、外行って静かにさせてきて！\nっていうか、ビシッと言ってきなさい！",
+      "ChoiceDataList": [
+        "なんて？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そんなに騒がなくても、\n魔法少女スイーピーが圧勝してあげるって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "アンタたちはそこで見ていればいいの。\n大天才の魔法は、最強なんだから！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

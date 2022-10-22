@@ -1,0 +1,337 @@
+{
+  "Title": "温泉旅行",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ユキノビジンとたくさんのレースを\n勝ち抜いてきた、ある日のこと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "おおお～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "すっげぇ、お城みてぇだ！\nこンなところに来られるなンて……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ユキノビジンが福引で引き当てた券を\n使って、温泉旅館に来ていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あたし、温泉大好きなンですよぉ！\nこう、体がとろけるみてぇで……。",
+      "ChoiceDataList": [
+        "とろける？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はいっ。\nコツがあって、こう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "だら～んと、全身の力を抜いて、\nお湯に身を任せるンです。\nぷかぷかぁっと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "そうすっと、とろけていくのが\nわかるンですよぉ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ただし、注意も必要でがんす！\n気を抜くと、頭もぼっちゃんですから。",
+      "ChoiceDataList": [
+        "……やったことがある？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "いえす、がんす……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅行客A",
+      "Text": "――あれ、ねぇ、あの子……\nユキノビジンちゃんじゃない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅行客B",
+      "Text": "わっ、本当だ！\nやばい、写真お願いする？\nでさ、ウマスタ投稿しちゃおうよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "再びブームを起こしたユキノビジンの\n人気は、いまだ衰えるところを知らない。\n彼女の意志もありいつもは対応を任せていた。",
+      "ChoiceDataList": [
+        "（でも、今日は……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あのう、トレーナーさん。\nあたし――",
+      "ChoiceDataList": [
+        "任せて"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "へっ？",
+      "ChoiceDataList": [
+        "すみません"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅行客B",
+      "Text": "あ……はい？",
+      "ChoiceDataList": [
+        "今日はユキノを休ませてあげたいんです"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女はファンの対応をすることに、\n喜びを感じている。けれど今日くらいは、\n素でいる時のように周囲を忘れてほしかった。",
+      "ChoiceDataList": [
+        "気づかなかったフリ、していただけますか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅行客A",
+      "Text": "あ、そうですよね……すみません、\n舞い上がっちゃって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅行客B",
+      "Text": "わかりました、どこにも書きません！\nユキノちゃん、ごめんね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……トレーナーさん。\n気遣ってくれて、ありがとがんす。",
+      "ChoiceDataList": [
+        "俺が嫌だったんだ",
+        "私が嫌だったの"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "へっ！？",
+      "ChoiceDataList": [
+        "ユキノとゆっくり話したいから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あ、そ、そのぅ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……行きましょうかっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "入浴中……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はぁ。\nいいお湯でがんした～……。",
+      "ChoiceDataList": [
+        "とろけた？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はい～。\n見ての通りです～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "お風呂をひとりじめできるなンて、\nすンげぇ贅沢な思い、\nさせてもらっちまいました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "いつか家族や村のみんな、\n美冬ちゃんも連れてきてあげてぇなぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "この旅館まるっと貸し切りできるくらい、\nがんばンねぇとですね！",
+      "ChoiceDataList": [
+        "新しい夢ができたな",
+        "新しい夢ができたね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "へへっ、はい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……夢かぁ。",
+      "ChoiceDataList": [
+        "どうかした？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あたし……\n新しい夢、もういっこあるンですけンど。",
+      "ChoiceDataList": [
+        "聞いてもいい？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……えっと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "や、やっぱり、\nなンでもねぇ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……あ、ああ！\u3000そういえばあたし、\n美冬ちゃんから旅館の写真ほしいって、\n言われてたンでした！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ちょっと撮ってきますねぇ！",
+      "ChoiceDataList": [
+        "ユキノ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今は少し遅い時間だ。どこかへ行って\nしまったら、1人では危ないかもしれない……\nそこで、後を追うことにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "――いンや、やっぱ言えねぇよぉ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "だってトレーナーさん、さっき\nすンげぇカッコよくて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "“これからも一緒にいてください”なンて、\nまともに顔見て言えねぇよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……あぅぅ、わかってる。\nわかってるけンど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "トレーナーさん待ってるから、またあとでな！\n……逃げてねぇって！\nおやすみ、美冬ちゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はぁ～……煽るンだもンなぁ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……っ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ト、トレ、トレ……！",
+      "ChoiceDataList": [
+        "……これからも、よろしくね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "は、はいぃ～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ユキノビジンとの間に、\nかけがえのない絆を感じた\nひとときだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

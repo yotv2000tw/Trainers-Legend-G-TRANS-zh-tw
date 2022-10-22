@@ -1,0 +1,600 @@
+{
+  "Title": "克己復礼即ち仁",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある休日、ヤエノムテキに誘われて\r\n彼女の地元へ向かっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "激情を抑えず全て出し尽くして走るには、\r\nやらねばならぬことがあります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "私が最も目を背けてきた\r\n私自身と向き合うこと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "私はなぜ、かように激情を抑えられず\r\n狼藉を働いてしまうのか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "その原因を、己の本質と向き合い、\r\n解き明かす必要があります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "故に、過去と向き合うため。\r\n金剛八重垣流の修行に倣おうと思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――ああ、着きましたね。\r\nでは参りましょう、回顧の地へ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "電車を降りて、そのまま山へ入った。\r\n道場修行の際に瞑想を行う場所へ\n向かっているという。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "山道を歩きながら、ヤエノムテキは\r\n彼女が抱く迷いについて語りだした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "これまで私は、自身と向き合うことを\r\n避けておりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "なぜなら……それは、\r\n己の醜さを追究することでもあるゆえ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "力を振りかざして思い通りにしたいという\r\n醜き感情が、どうして生まれるのか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "醜さの本質に辿り着いたとして、\r\n私の中には醜さしかなかったら……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "そう思うと……向き合うのが怖い。",
+      "ChoiceDataList": [
+        "やめてもいいんだぞ？",
+        "やめてもいいんだよ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――いいえ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……いいえ！\u3000それでも、私は先へ進みたい。\r\n武器を得て強くなる道を選びます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "私と、私の好敵手たちの時代を作るために！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "躊躇いを振り払うが如く、ヤエノムテキは\r\n熱の籠った言葉に決意をにじませた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――こちらが、金剛八重垣流にて\r\n瞑想修行を為す場所です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "瞑想には心身を正して臨むため、\r\nヤエノムテキは正装たる\n勝負服をまとっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "私はこれより瞑想に入り、\r\n己の心と向き合い、その本質を見極めます。",
+      "ChoiceDataList": [
+        "俺も一緒に瞑想するよ",
+        "私も一緒に瞑想するよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "一緒に形の演武をした時のように、\r\n感じ取れるものがあるかもしれないからと\n告げた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……！\u3000それは、心強い……\r\nありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "では――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（なぜ、感情的に振る舞って\r\n過去の自分のようになりたくないのか……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（――理由は明白。\r\n誰もあのような愚劣な私を望まぬゆえ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いヤエノムテキ",
+      "Text": "うるさいうるさいうるさいっ！\r\n弱っちいくせに逆らうなっ！\u3000文句言うな！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いヤエノムテキ",
+      "Text": "なら勝負してやるっ！！\r\n勝ったヤツがいちばんエライんだからなっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘の女の子A",
+      "Text": "きゃあっ！\u3000信じらんない！\r\nもうあっちで遊ぼ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘の女の子B",
+      "Text": "うんっ！\r\n……ヤエノちゃん、こわいからキライ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（乱暴な振る舞いに慄き従う者はいたが、\r\n皆、私を恐れていた。……嫌っていた）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（当然だ。道理を力で捻じ伏せ、\r\n無理を通す傲慢な行いを、誰が歓迎しようか）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（私も……是とは思っていなかった。\r\n間違っていると思いながらやめられなかった）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "力で従わせなければ、\r\n誰も私を受け入れてくれなかったから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "いつもイライラしてすぐにカッとなる私。\r\n嫌われるのは必定。だが嫌われたくなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "故に力を誇示して私を受け入れさせた！\r\n私を認めさせたのだ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……認められたかった……\r\n……嫌われたくなかった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "愚劣で粗暴で屑の如き私でも、\r\n認めてほしいと願ってしまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "我が粗暴なる振る舞いの根底にあるのは……\r\n激情の本質は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "浅ましく強烈な“自己顕示欲”だ――",
+      "ChoiceDataList": [
+        "“自己顕示欲”……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "烈火を抑えるは即ち“自己顕示欲”の抑制。\r\n認められたいと願わねば、\n粗暴な振る舞いに走ることもなくなる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "感情を抑え、力を振りかざすのをやめれば、\r\n皆、私を嫌わなくなった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "こんな私でも認めてもらえた。\r\n感情に振り回されない私は認めてもらえる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "――本当に？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "本当に感情に振り回されなくなったのか？\r\n“自己顕示欲”を抑制していると言えるのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "…………私は……私は…………！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "今も自己顕示欲を\r\n振りかざしているではないか！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "オグリさんが世代の代表はおかしいと怒り、\r\n認めさせると息巻いて！\n私を見ろと叫んでいる！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "大勢を覆したいのも、\r\n今は私の時代だと皆に認められたいだけ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "私は何も変わっていない！\r\n成長していない！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "今もまた、ただただ自分勝手な顕示欲を\r\n再び振りかざそうとしている！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……っ、無理だ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "こんな私が本能のまま、\r\n感情をむき出しにして走ったら……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "…………昔のように、暴走する……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "また癇癪を起こして力で他人を押さえつけ、\r\n私の存在を誇示して……讃えよと、\n私を嫌うなと……吼えるに決まっている……。",
+      "ChoiceDataList": [
+        "……それで、いいんじゃないか？",
+        "……それで、いいんじゃない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……え？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女の言う通り、癇癪を起こして\r\n力で他人を押さえつけ、存在を誇示しよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "だが、ヤエノムテキが振るいたい力は、\r\n昔と同じく暴力なのかと問う。",
+      "ChoiceDataList": [
+        "それとも、大地を蹴るその脚の力？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヤエノムテキの本質はずっと変わっていない。\r\n強烈な自己顕示欲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "昔はただ、自分を讃えてほしいと望んだ。\r\nその手段は暴力でもよかった。\n自分が上だと誇示することができれば。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "しかし、今は違う。金剛八重垣流を学び、\r\n力を大地へ向ける方法を身につけた。\nレースの世界へ身を投じた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして――出会った。\r\n互いに勝ちたいと切磋琢磨するライバル。\n苛烈な時代を共に進むかけがえのない同志。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それぞれに異なる強さを持った強敵たち。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして、超えたいと執念を燃やせる強者。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女たちと競い合ってきたことで、\r\n今、ヤエノムテキの自己顕示欲は\nレースへと向いている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ならば、心を滾らせ、力で1着をもぎ獲り\r\n他者を跪かせることの何が問題なのか？",
+      "ChoiceDataList": [
+        "だって、それがウマ娘のレースじゃないか",
+        "だって、それがウマ娘のレースでしょう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "…………あ…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……感情をむき出しにして走っても……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……私は……嫌われないでしょうか……？",
+      "ChoiceDataList": [
+        "みんなが君の執念を見て嫌うと思うか？",
+        "みんなが貴方の執念を見て嫌うと思うの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "皆さんは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "確かにヤエノはいつも冷静っスけど……\r\n力、出し切れてるっスか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "お前さん、やっぱり出し惜しみしやがったな。\r\nもっと走れんだろい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "うふふ、なんだか本当のヤエノちゃんに\r\n近づけた気がして、嬉しいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "オグリさんたちに一矢報いようと、\r\n圧倒的な世論を覆そうと、貴方は走り続けた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ものすごいオグリさんへの声援の中で、\r\n自分の走りを貫くヤエノさんの姿が……\n私を奮い立たせました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "私が競い合ってきた、皆さんは……。",
+      "ChoiceDataList": [
+        "みんな君を認めているから、大丈夫だ",
+        "みんな貴方を認めているから、大丈夫だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "…………そうでした……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "皆さんは、相手の強さを認められる方……。\r\n互いを超えようと切磋琢磨する中で、\n私は戦ってきた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "私が顕示欲から勝ちたいと願うことも。\r\n激情のまま荒ぶり走ることも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "皆さんなら、きっと――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――トレーナー殿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "『天皇賞（秋）』では、\r\n感情を抑えず、心のままに走り挑みます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……まだ少々、怖さもありますが……\r\n皆さんを信じます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "強くなるために選んだ私のこの道を、\r\n皆さんならば認めてくれると。",
+      "ChoiceDataList": [
+        "ああ、絶対大丈夫だ",
+        "うん、絶対大丈夫だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……はい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヤエノムテキの瞳に焔が映る。\r\n彼女の中で渦巻いて燃え上がる、\n激しくも鮮やかな焔だった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

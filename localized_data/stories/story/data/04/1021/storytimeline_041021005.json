@@ -1,0 +1,218 @@
+{
+  "Title": "櫛風沐雨",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ふんふん……お父ちゃん相変わらずやな～。\r\nははっ、チビたちにツッコまれとるやんけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "差し入れも喜んでもらえたみたいやな！",
+      "ChoiceDataList": [
+        "家族からの手紙？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せや。アンタのことも書いてあるで。読んでみ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "様々な筆跡が並ぶ手紙。ひらがな主体の文は、\r\nタマモクロスの弟妹が書いたのだろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "先日放送されたテレビ番組『トレセン学園1日入学！』\r\nそこで流れたタマモクロスの走りへの感想などが綴られている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "番組用にオグリやイナリと併走したな～。\r\n流してええって言われたのに、全員本気で走ってもうて。",
+      "ChoiceDataList": [
+        "競ってるシーンが使われてたな",
+        "競ってるシーンが使われてたね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ああ。お父ちゃん、トレーナーに感心しとったやろ。\r\nアンタのおかげでウチがごっつ成長したってな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "『トレーナーと“白い稲妻”を天下に轟かせぇ』、やって！\r\nお父ちゃんの期待、裏切るんやないで！",
+      "ChoiceDataList": [
+        "望むところだよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "はははっ、なら、返事にそう書いとくわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せや、またチビたちにお菓子つけて送ったろ。\r\nトレーナーも購買に付き合わへん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "家族にお菓子選んだってや。\r\n手紙でそう伝えるし、挨拶代わりにちょうどええやろ。",
+      "ChoiceDataList": [
+        "ぜひ選ばせて！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "確か……前にこのチョコ菓子がおいしかった言うてたな。\r\n同じのんの期間限定ピーチ味も出とるんか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おっ、このクッキー量が多くてええな！\r\n赤い箱が高級そうに見えんで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "よう見たら新製品のお菓子、いろいろあるやんけ。\r\n……トレーナーのオススメはどれや？",
+      "ChoiceDataList": [
+        "赤い箱のクッキーが美味しいよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女には食べ盛りの弟妹もいる。\r\nどうせなら量の多いお菓子がよいだろうと思い、薦めてみた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "そうか！\r\nほなら、クッキーと徳用せんべいは決まりとして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "う～～～ん……こないだ気に入っとったチョコ菓子もつけたろか。\r\n今月節約すれば、普通のんとピーチ味のん、両方買えるな。",
+      "ChoiceDataList": [
+        "無理して買わない方が……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "別に無理ちゃう。少し節約するだけや。\r\nウチにとっては平常運転やっちゅーねん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "しかし……先ほど見せてもらった手紙の文面が脳裏に浮かぶ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "手紙",
+      "Text": "『お菓子の差し入れおおきに。美味しかったで。タマも食べたん？\r\n差し入れがなくても、電話してくれるだけでええんやで。』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "タマモクロスの家族は、差し入れはなくてもいいと書いていた。\r\n彼女が節約で費用を捻出していることに気づいているのだろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "よし、この4つに決めたで！",
+      "ChoiceDataList": [
+        "自分の分は買わないのか？",
+        "自分の分は買わないの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチはもう、うまい飯たらふく食っとる。\r\nトレセン学園のおかげで毎食ごちそうや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "これ以上贅沢したらバチ当たんで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せやから自分で食べるより、家族に\r\nおいしいもん食べさしてあげたいんや。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "――考えたんや。ウチがなにしたら家族に楽さしてやれるか。\r\nそんで思いついたんが……トゥインクル・シリーズやった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "トレセン学園に通わしてくれた家族のためにも、\r\nウチは負けられへん！\u3000勝たなあかんねん！\u3000せやのに――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレセン学園に通わせてもらった恩もあり、\r\n彼女は家族のためを最優先に考える傾向がある。",
+      "ChoiceDataList": [
+        "節約はほどほどにな",
+        "節約はほどほどにね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "アホか！\u3000ウチの節約テクはプロ級や！\r\nってか急になんやねん、アンタはウチのお母ちゃんか！？",
+      "ChoiceDataList": [
+        "だって心配だから！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "素直か！！\u3000真顔で言うな、恥ずいわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "家族のためが彼女の原動力だ。だが、もう少し\r\n自分に甘くてもよいのでは……と思ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "Title": "見解マイルール",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今日は仕事の息抜きに山に来ていた。\n深い緑の中を散歩していると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ふう……はあ、いいね。\nランニングに山道を選んで正解だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "シービーちゃんったら、すぐ獣道に入ろうと\nするんだから……でも、気持ちいいのは同感！",
+      "ChoiceDataList": [
+        "（あの2人も来ていたのか）",
+        "（あの2人も来ていたんだ）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "あ。マルゼン、そこに休憩所があるよ。\n小腹も空いたし、少し――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "うさんくさい人",
+      "Text": "――ですから、\n登山途中におにぎりを食べるのは\nマナー違反なのです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "うさんくさい人",
+      "Text": "海苔と塩は海産物なので、山の神様の領域に\n海の神様のものを持ち込むのはNGなんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "登山客",
+      "Text": "えっ……とぉ、はは、そうですか……。\n初耳で……すみません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "あらら……ちょっーと、困った人ね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "あーむっ、もぐもぐ……。",
+      "ChoiceDataList": [
+        "（……あ）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "うさんくさい人",
+      "Text": "なぁっ！？\r\nあ、ああああアナタ！\u3000おにぎりを……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "止める間もなかったわね～。\nんもー、シービーちゃんったら……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……ごくん。\r\nん、鮭にして正解だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "マルゼン、足元気をつけて！\n橋の真ん中なら大丈夫そうだよー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "うさんくさい人",
+      "Text": "待ちなさ～いっ！\nさっきの私の言うこと聞いてました！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "うさんくさい人",
+      "Text": "つり橋は端を歩くのがマナー！\n真ん中を歩くことでとても偉ぶって見えて\nしまうため、謙虚に端を歩くべきなのです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "うさんくさい人",
+      "Text": "山の中では、転ばないように\n一歩一歩確実に、止まっていくべきですっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "失礼、先行かせてもらうよ！\nリズムよくいかないと、\n登れるものも登れない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "うさんくさい人",
+      "Text": "イーーーーッ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "うさんくさい人",
+      "Text": "あなた、何なんですかっ！？\nこんなに自由すぎる方、初めて見ました！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "うさんくさい人",
+      "Text": "その身勝手さは、周りを不愉快にするの！\n私の言う通り、マナーを守りなさい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "納得できないもの、キミの言うことは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "登山客",
+      "Text": "い、言っちゃった……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "古いつり橋を揺らしたほうが危ないし、\n自分のペースで山登りができないと\n余計な疲労を抱えることになる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "わからないな。キミはキミ自身の\n個人的な考えを『マナー』と呼んでいない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "従う意味がわからない。\nアタシはアタシの頭で考えて動くよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "うさんくさい人",
+      "Text": "なんっ、ですってぇ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "はいはい、ストップ～！\nイライラしちゃもったいないゾ☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "悪い思い出を作ったら、\nそれこそ山に悪いし、ねっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "うさんくさい人",
+      "Text": "……ふんだっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……ごめん、マルゼン。\nまたやったかも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "ふふっ、ホント不器用さん。\n納得できないことを心にしまっておけない。\nそれどころか、正面から突っ込んじゃう――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "あたしは好きだけどね、そういうところも♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自由奔放ではあるが……芯が通っており、\nとても気持ちのいい子だと思った。\nだからこそ、大変なことも多そうだが――",
+      "ChoiceDataList": [
+        "自分のスタイルを貫けるってすごい",
+        "……無理はしていないか？",
+        "……無理はしてない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自由奔放ではあるが……芯が通っており、\nとても気持ちのいい子だと思った。\nだからこそ、大変なことも多そうだが――",
+      "ChoiceDataList": [
+        "自分のスタイルを貫けるってすごい",
+        "……無理はしていないか？",
+        "……無理はしてない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……そうかな？\n自分の心にしか従えないだけだよ。",
+      "ChoiceDataList": [
+        "心に従えるから、君は強いのかな？",
+        "心に従えるから、貴方は強いのかな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "どうかな。キミの心がそう言ったなら、\nそうなのかも、ね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ならば、直感を信じてみようと思った。\nその走りを、改めて確かめにいこうと\n決めたのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……そうかな？\n自分の心にしか従えないだけだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……例えば、ほら。いい風が吹いてきた。\nねえ、一気に山を下ろうよ！",
+      "ChoiceDataList": [
+        "えっ、急に！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "走りたい気持ちは抑えられないからね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自分に正直で、少し不器用なウマ娘。\nだが、そこが彼女の強さの秘訣かもしれない。\n改めて、その走りを確かめにいこうと決めた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "黙っているほうが、堪えるよ。\nだって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "自分の人生だから。\nわからないまま、納得できないままは嫌だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自分に正直で、少し不器用なウマ娘。\nだが、だからこそ彼女は強いのかもしれない。\nその走りを、改めて確かめにいこうと決めた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

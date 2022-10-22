@@ -1,0 +1,492 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "夕方、商店街を歩いていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あっ。トレーナー！\nちょうどよかった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ちょっと代わりに引いといて！\nあたし、これからバイトなの！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ぎゅぎゅっと手の平に紙を\n押しつけられる。それをよく見ると――",
+      "ChoiceDataList": [
+        "……福引券？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "そ！\u3000ねらい目は、2等のにんじん山盛り！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "列はあっち！\u3000後は頼んだの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アイネスフウジンが指差した方向には\n買い物帰りのファミリーが\n長蛇の列を成している。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、楽しい楽しい福引だよ！\nどなたでもどうぞ～！",
+      "ChoiceDataList": [
+        "（いい賞を狙おう……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アイネスフウジンに手渡された\n福引券を使用し勇んで抽選器のレバーを回す！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なんとっ！\u3000おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [
+        "おお……！"
+      ],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ええ～～～～！？\n特賞って本当に当たるんだ～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "その運のよさ、あたしにも分けてよ！\n今度自分でチャレンジできる時に\n特賞当ててみせるからさ！",
+      "ChoiceDataList": [
+        "えっ、この温泉旅行券は……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ああ、それはあげちゃうの。\nせっかくキミが当てたんだもん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "横からもらうなんて、\nさすがに気が引けちゃうよ。\n早くそのポッケにしまっちゃいなって。",
+      "ChoiceDataList": [
+        "でも元々は君のだし……",
+        "でも元々は貴方のだし……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "いいって、ありがたく受け取るの！",
+      "ChoiceDataList": [
+        "いや、それはできないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ええ～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ぜぇ～……ぜぇ～……。\nトレーナー、いい加減\nさっさと受け取るの……！",
+      "ChoiceDataList": [
+        "でもこれは……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あ～～っ、わかった！\nじゃあこうするの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "この温泉旅行券はとりあえず保留！\n行ける時に行く。以上、いいね？",
+      "ChoiceDataList": [
+        "わかった……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "はぁ～……これで一件落着なの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……とりあえずこの部屋に置いておくからね。\n使いたくなったら\nいつでも使っていいんだからね～？",
+      "ChoiceDataList": [
+        "アイネスもなー！",
+        "アイネスもねー！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……もうっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "…………困った人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [
+        "1等だ！！"
+      ],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "いらっしゃーいっ！\n何名様で――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "トレーナー！？\n今日もラーメン食べに来たの！？",
+      "ChoiceDataList": [
+        "違う違う、1等が当たったから！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "え？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "すごーい、にんじんハンバーグじゃん！\n本当にもらってもいいの？",
+      "ChoiceDataList": [
+        "もちろん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ありがと～！\nバイト終わりにでも食べちゃおっと！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "というかトレーナー。もしかして\nこれを届けにわざわざバイト先まで？",
+      "ChoiceDataList": [
+        "ああ！",
+        "うん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "…………あはっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "明日でもよかったのに。\nキミってわりとかわいいところあるよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして1等のにんじんハンバーグを\nアイネスフウジンに渡したのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "2等賞～！！\n賞品は『にんじん山盛り』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "にんじんがいっぱいに詰まった段ボール。\nとりあえず学生寮の前まで\n運んできたのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "（ぐぅ～……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "（ぐぅ～……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……くっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "お腹が鳴るたびに目をキュッとつむる\nオグリキャップ。彼女のお腹は今、\n空腹の限界を迎えているのだろうか……。",
+      "ChoiceDataList": [
+        "（こういう時にアイネスなら……）"
+      ],
+      "ColorTextInfoList": [
+        "オグリキャップ"
+      ]
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あれ、オグリさん。\nおなかがすいちゃったんですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ふふっ、じゃあお裾分けですっ。\nたくさんはないので他の人には内緒ですよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あ～でも生よりも、調理済みの方が\n美味しいですし。あたし軽く\nなにか作ってからお渡ししましょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "あの～……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……それで鍋を振る舞っているわけね。\n突然『バイト後にトレーナー室に来てほしい』\nって連絡が来たからビックリしたの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "アイネス……！\nキミのトレーナーのご飯は美味しいな……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ウチのトレーナーは優秀ですから！\nではではあたしもご相伴にあずかろっかな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして段ボールいっぱいに\n入っていたにんじんは、一晩のうちに\n彼女たちのお腹の中へと消えたのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "3等賞～！\n賞品は『にんじん1本』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "1本だけか～。\nまあ福引だし、そんなもんだよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "でも急なお願い、聞いてくれてありがと！\n福引券の期限今日までだったから、\n無駄にしなくてすんだの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "今度トレーナーが\n福引券を余らせそうな時は連絡して。\nあたしが代わりに引いてあげるから！",
+      "ChoiceDataList": [
+        "そんなことあるかな……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あるある！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "…………たぶん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そしてアイネスフウジンににんじんを\n手渡してから帰路についたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [
+        "ハズレた……！"
+      ],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "はろはろ～、トレーナー！\n昨日渡した福引券のことだけどー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ってなんかしょぼくれてない？\n朝から元気ないぞー？",
+      "ChoiceDataList": [
+        "実は福引でハズレを引いて……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "えっ！？\u3000ウソ！？",
+      "ChoiceDataList": [
+        "ご、ごめん！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "えっ、いやいやいや違うの！\nまさかそんなことで\nへこんじゃってたなんて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あ～……こっちこそごめんね？\n妙な責任持たせちゃって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アイネスフウジンにも余計な気を\n使わせてしまったのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

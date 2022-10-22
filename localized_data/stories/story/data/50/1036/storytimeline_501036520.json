@@ -1,0 +1,283 @@
+{
+  "Title": "要件定義：最適なルートの構築",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日のトレーニング中のこと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……マンネリだな。\nこのまま試行してもしばらく結果は同じだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "発想の転換を狙うなら、\nこの辺で新しいデータを取って\nルーチンに組み込みたいところだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "今日に限ってコースは貸し切り、か。\nッたく、これじゃデータの集めようもねェ。",
+      "ChoiceDataList": [
+        "レース場に見学にでも行く？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "アリっちゃアリだが、移動時間が惜しい。\nちょっと待ってろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……こンなもンでいいか。",
+      "ChoiceDataList": [
+        "『駅中のたい焼き、超ウメェ』……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メッセージの送り先は栗東寮のグループだ。\n意味のない雑談の投稿に見えるが、\n一体どういうことだろう……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "黙ってりゃわかる。\n基礎トレでもして時間潰すぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "――というわけで、スペちゃん提供！\nたい焼きお茶会を始めよう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "うう～っ、私のたい焼きたち～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "仕方ないわ、スペちゃん。\nシャカールの投稿に釣られたとはいえ、\nちょっと買いすぎだったもの……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "もし、1人で全部食べてたら……\n体重激増、だったかも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "ごめんねスペちゃん、\n君のたい焼きをいただいちゃって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "フジ先輩！\nいえっ、私からお願いしたことですし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "そう？\u3000でも、お茶会というのは\n名案だったと私も思うよ。\nホラ、みんな嬉しそうだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "はいっ！\u3000ちょっとしか食べられなくても、\nみんなで食べれば楽しくって\nお腹いっぱいになると思ったので……えへへ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "……ふう。\n本当においしいたい焼きでしたね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アドマイヤベガ",
+      "Text": "完全に巻き込まれる形だったけれど……\nまあ、いいわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アドマイヤベガ",
+      "Text": "でも、予想外にカロリーを摂ってしまった。\nなにかで埋め合わせをしなくちゃ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "じゃあじゃあっ、\nみんなでトレーニングするのはどうかな☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あ、それ……いいですね。\n走れば腹ごなしにもなるでしょうし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "うんうん！\n美味しくって、トレーニングもできて……\nやっぱり、たい焼きってマーベラス☆★☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "う～ん、走るんならもう1つくらい\n食べてもよかったのかも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アドマイヤベガ",
+      "Text": "懲りないのね、あなた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "よ～しっ！！\nいっぱい走ってみんなにマーベラスを\nお届けしちゃお～☆★☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "素敵な意気込みだけど、\n準備運動も忘れずにね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "エアシャカールと待つことしばし――\n先程からウマ娘たちが、なぜか続々と\nトレーニングコースに集まってきていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ハ、不思議そうなツラしてンな。\n『風が吹けば桶屋が儲かる』ってヤツだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……つまり、先程送ったメッセージが\nきっかけとなって、たくさんのウマ娘が\nここへやって来たというのだろうか？",
+      "ChoiceDataList": [
+        "これでいろんなトレーニングができるな！",
+        "これでいろんなトレーニングができるね！",
+        "着眼点が普通じゃない……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……あァ？\nまさかてめェ、オレがお手て繋いで\n一緒にトレーニング……とか考えてンのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "効率的に考えろ。\nメッセージ1行で済ませたのも効率、\nこンだけウマ娘が揃ってンなら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "――1人ずつ相手するより、\n俯瞰してデータを取ったほうが効率的だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "普段は同時に併走しないようなヤツらも\n集まってるからな。\nいいサンプルになるだろうよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……ホラ、てめェもしっかり見とけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "エアシャカールの頭脳にはかなわない……\n改めてそう実感した出来事だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "だろうな。\nだが、数値化しちまえば考えつく方法だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "非現実的だの無茶だの……ウダウダと\nクダ巻いてるヤツはそうやって\n自分で手段を潰してンだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "チッ、喋りすぎたな。それより――ン？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "どうしたの？\u3000なんだか楽しそう……\nここで走りたいの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "おいおい、急に道をそれて\n一体どうしたって言うんだい、カフェ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "おや、不思議だねェ。こんなにたくさんの\nウマ娘が同時にトレーニングだなんて……\nこれは観察しておいたほうがよさそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……オイオイ、アイツらは呼ンでねェぞ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "だが、まァ……\nデータ収集のチャンスには変わりねェ。\nてめェもしっかり見とけよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "卓越したエアシャカールの思考に、\n改めて感心する出来事だった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

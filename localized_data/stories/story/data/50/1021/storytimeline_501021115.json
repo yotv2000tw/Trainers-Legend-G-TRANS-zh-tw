@@ -1,0 +1,573 @@
+{
+  "Title": "生まれ落ちた希望",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "お父ちゃんが……お父ちゃんが……\r\n倒れたやて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ナイショで……無理して踏ん張ってたって、\nそんな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "それで、それでお父ちゃんは今どこに！？\r\n病院やな。うんわかった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "トレーナー！",
+      "ChoiceDataList": [
+        "戻ろう、大阪へ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "京都から府中へ。そしてまた大阪へ。\r\nタマモクロスとトンボ返りの旅をする\nことになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの弟",
+      "Text": "タマねぇね……。お父ちゃん、大丈夫やった？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ああ、心配あらへん。お医者さんは\n少し休めば元気になる言うてたで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "病院に寄った帰り、タマモクロスの実家に\r\n来た。タマモクロスの説明には少し嘘が\nあった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『命に別状はないが、しばらくは安静。\n回復はいつになるかわからない』というのが\n医者の見立てだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "オマエらは心配せんで、遊んどきや。\n姉ちゃんがなんとかしたるからな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "弟や妹をなだめるタマモクロス。\nその表情からは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "普段の荒々しい感じは消え、\n少しずつ優しい顔になっていった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "すまんな、夕飯の買い出しまで\n付き合ってもろて。これでよしと。",
+      "ChoiceDataList": [
+        "タマモ、話がある"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "話……？\u3000なんや？",
+      "ChoiceDataList": [
+        "辞める気なのか？レース",
+        "辞める気なの？レース"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……！？\u3000アンタ、なんでそんな……。",
+      "ChoiceDataList": [
+        "顔を見ればわかる",
+        "顔を見ればわかるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……ったく、かなわへんな、アンタには。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……誰かが家におらんとあかんやろ。\r\nお父ちゃんが、どうなるかわからんとなりゃ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチは家族のために走っとるんや……。\n走るよりもっと必要なことがあるとなりゃ、\n仕方ないやんか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "『天皇賞（春）』……。親孝行の1つは、\r\nどうにかできたしな。だったら……。",
+      "ChoiceDataList": [
+        "辞めて、後悔しないのか？",
+        "辞めて、後悔しない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……せんと思う。トゥインクル・シリーズを\r\n制覇できんかったんは残念や。けど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "できる限り、全力でやったんや。\n心残りなんてあらへん。心残りなんて……\nなんにも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "………………！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なんで……なんでオマエが……。\nいや、なんでもあらへん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "タマモクロスは想いを断ち切り、\n翌朝、お見舞いがてら、家族に報告した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの母親",
+      "Text": "ほなタマ……アンタ、\r\nレース辞める言うんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……せや。しばらく動けんお父ちゃんや、\r\nチビたちの面倒見る。走ってる場合やない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチが……ウチが支えな……。\r\nウチの1番は家族なんや！\u3000せやから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "……トレーナーさん、ちとええか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自分に話しかけてきたのは、\n病床のお父さんだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "タマはこの先……どないなんや？\nもう、こっから先は厳しいんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "いろいろ言われてきた。\n貧しい子は走らへん。体の弱い子は走らへん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "でもな、俺らはタマを信じてきたんや。\r\nアンタの目から見てどうなんや？\nここまでなんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……その目を見て、思った。求められて\nいるのは、空気を読んだ気休めではない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "タマモクロスの飾りのない評価を、見通しを\n全力でひねり出さなければならない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その判断に、家族の行く末がかかっている。\n自分の目から見て、これまでとこれからの\nタマモクロスは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "トレーナー。ウチな、ちゃんと食うで。\n少しずつでも、ちゃんと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せや……せやったな……。\nウチの武器は……一瞬の閃き！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "これが新“白い稲妻”やー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "思い出す……稲妻の軌跡を……。白い稲妻は\nずっと地を這い、疾走し続けてきた。\nそしてこれから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "確信があった。この肝っ玉の強さ、\nハートの素晴らしさがある限り――",
+      "ChoiceDataList": [
+        "タマモクロスは――走るべきです"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "な！？\u3000トレーナー！？",
+      "ChoiceDataList": [
+        "なぜなら勝てるからです！この先も必ず！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "……そうか。そんならええ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "タマ、まだ帰ってくるときやない。\n走れ、タマ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せやけど、お父ちゃん……！！\r\nウチは家族のため――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "オマエが走るんが、家族のためなんや！\r\n1番の！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "…………ぇ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "強い思いのこもった言葉だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "知らんやろ。オマエがレースで走ってる時、\nどんなに家族がはしゃいだか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "どれほど嬉しかったか。\r\n昔っから駆けっこが好きやったオマエが、\nあんなに生き生きと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "オマエが生まれた日から……ウチら夫婦は\r\nずっと、こんな日を待ち望んどったんや。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "この子は希望や。恵まれへんかった\r\nウチらの希望や。きっと幸せになって、\nウチらに光をくれる……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "そりゃ苦しい時もあった。こっからも\nあるかもしれん。でもな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "オマエが元気に走ってくれれば、\n全部吹き飛んだ。吹き飛んだんや。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "走りで家を支えてくれるのが希望やない。\n走るだけで希望！\u3000それだけで希望なんや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "お父ちゃん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "……やり通した後なら、辞めてもええ。\nでもウチらのために途中で辞めさせたら、\nなんのために頑張ってきたんや。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "タマ、走れ！\r\n夢は――オマエに全部乗せとるんや。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの弟",
+      "Text": "そうや、タマねぇね！\u3000走ってくれ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "タマモクロスの弟も続いた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの弟",
+      "Text": "タマねぇねの走るとこ、おれ好きや！\n家にいて、遊んでくれるよりずっと！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの妹",
+      "Text": "うん！\u3000レースのお話、たのしいもんっ。\r\nおくってくれるお写真も！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの母親",
+      "Text": "タマ……家のことはなんとかなるさかい。\r\nせやから……走ってや。\nお父ちゃんに元気をあげてや。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの母親",
+      "Text": "この人にとってアンタは――\n『すべて』なんや。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "お母ちゃん……お父ちゃん……。\r\nオマエら……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "そうか、せやったんやな。\nウチが走ること自体が……希望……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "だったら……だったら、やったろやないか。\r\nウチは走るで。そして勝つ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "次の『宝塚記念』！\u3000だから、お父ちゃんは\r\n病気に勝ってや！\u3000チビたちは寂しさに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチが先頭を切ったる！\u3000だから、だから\n絶対勝つんや！\u3000やるで、みんなで！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの弟",
+      "Text": "うん、うん……タマねぇね！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――大阪の病院に響く、一家団結の声。\n結論は出た。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "タマモクロスはこれからも走り続ける。\n家族と一丸になって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "戻ってきたな……東京へ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "辞めても心残りはない。そう思ったんは\r\n本当や。ウチなりに全力でやってきた。\nでも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "それでも……自分の中に少しだけ\n消えない火花があったんや。",
+      "ChoiceDataList": [
+        "その火花は闘争心？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ちゃう。近いけど、少しちゃう。\r\nウチがどうしても消せんかったんは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……おかえり、タマ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "オグリ……。\nわざわざ迎えに来てくれたんか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "うん……。その、迷ったが……\r\nそれでも来たかったから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "もしかしたら帰ってこないような気がして。\r\nえと……その……おかえり、タマ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "もう言うたで、それさっき。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "（オグリ……なんでや。\r\nなんでなんやろうな……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "（確かにオマエはウチによう似とる。\r\n地方育ちやから、生まれに\n恵まれへんかったところも。でも……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "（なんであの時、オマエの顔が浮かんだんや？\r\n引退を考えた、1番大事な瀬戸際で）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "（一体なにが気になるんや？\r\nようわからんが……でも……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "こうして顔見て……改めて思ったわ。\r\nウチがオマエをほっぽって、\nどっか行くわけないやろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なあトレーナー？",
+      "ChoiceDataList": [
+        "そうだな……",
+        "そうだね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "タマモクロスの、オグリキャップを\r\n見る目には……さまざまな色が浮かんでいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "さあ行くで『宝塚記念』！\nそこでオグリ、オマエに見せたるわ。\n吹っ切れたウチの走りをな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

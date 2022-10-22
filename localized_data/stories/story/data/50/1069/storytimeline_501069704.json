@@ -1,0 +1,311 @@
+{
+  "Title": "頼られる意味",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "トレーナーさん！\u3000ビコーさんたちから、\nまたお誘いをいただいていまして。\nよかったら一緒に行きませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "以前あった遊園地での失敗も気になる。\r\n見守るつもりでついて行くと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "うーんっ！\u3000いい天気……\nなんだか芝生で寝たくなりますね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "ダメダメ！\u3000今日はキャロットマンとの\n記念撮影をリベンジするんだ！\u3000行くぞー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キャロットマン",
+      "Text": "おや、君たちは遊園地で……。\nあの時はすまなかったな！\nパンチの角度、こうだったかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "キャロットマンさん……。\nいえ、私のオーダーはいいんです！",
+      "ChoiceDataList": [
+        "（あれ……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "それより、ビコーさんと一緒に\r\n全力のキャロットマンパンチ、お願いします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キャロットマン",
+      "Text": "！\u3000わかった、じゃあ行くぞ！\nキャロットマン、パーンチ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "実はここの牧場、特大ケーキづくり体験が\nできるらしいんですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "本当！？\u3000わぁーい！\u3000楽しそうっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コック",
+      "Text": "あの、すみません。特大ケーキづくり体験は\n予約が必須でして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……っ……。",
+      "ChoiceDataList": [
+        "チ、チヨノオー、そう落ち込まず――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "でしたら、\r\n普通のケーキづくり体験の方でもいいですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "みんなでケーキを作れば、きっと\r\nとっても楽しいと思うんですっ！\n……ですよね、アケボノさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うん！\u3000そーしよ！\n楽しくおいしくが、1番ボーノだよ☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ふぅ～、遊んだ遊んだ！\n一旦ここで休憩しちゃいましょうか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『頼られたい』と思っていた頃の彼女なら、\n無理をしたり、落ち込んだりしそうだが……\n心からお出かけを楽しんでいるようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "って、あれ？\u3000トレーナーさん？\r\nどうしたんですか、ボーッとして。",
+      "ChoiceDataList": [
+        "無理をしていないか、気になって"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "無理って――……ああ、そうですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "えへへ……前の私なら『頼られたい』って、\n今日もきっと背伸びしてましたよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "でも……この間の、\nチケットさんとのお出かけで気づいたんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "患者さんから頼りにされるお医者さんって、\nなにを言うかとか……するのかじゃない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "患者さんと向き合って、寄り添うこと。\nそれが大事なんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "公園で見かけた先生も、私の恩師も……\nなんでも知っているから尊敬したんじゃない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "生徒を思ってくれる姿勢が、あったからで。\n……それから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "トレーナーさんだって、そうなんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "なにかすごいことを言ってほしいとか、\r\n戦績がどうだとか……私、思ったことない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "悩む私の力になりたいと思ってくれたり、\r\n無理をしてないかって、\nこうやって気づかってくれる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "そういうトレーナーさんだから、\n夢に向かって一緒に走りたい。\nそう思えたんだって……。",
+      "ChoiceDataList": [
+        "チヨノオー……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "大事なのは、なにを言うかでも\nするかでもない。その人のことを\n思うこと……そう、気づいたんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "それなら私、初めからできてた。\nあの遊園地のときから。だって、私は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "チヨノオーさーん！\n牛さんと綱引き相撲やらな～い？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "相撲ですか！？\nはーい！\u3000行司は任せてくださーい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "行ってきますね！\nみんなとの最高に楽しいお出かけの、続きに！",
+      "ChoiceDataList": [
+        "いいとこ見せておいで！",
+        "俺も頼りにしてるよ",
+        "私も頼りにしてるよ",
+        "俺もやろうかな",
+        "私もやろうかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "行ってきますね！\r\nみんなとの最高に楽しいお出かけの、続きに！",
+      "ChoiceDataList": [
+        "いいとこ見せておいで！",
+        "俺も頼りにしてるよ",
+        "私も頼りにしてるよ",
+        "俺もやろうかな",
+        "私もやろうかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ふふっ、もちろんです！\u3000お父さん相手に、\nどれだけ行司ごっこをしたことか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "まさに、『ウマ娘に勝負服』\n……といったところです！",
+      "ChoiceDataList": [
+        "えーっと……誰にも負けないってこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はい！\u3000その通りです！\nでは、行ってきます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "少しだけ成長した様子の彼女に\n頼もしさを感じつつ……格言がちょっとだけ\nわかった気がして嬉しく思うのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "トレーナーさん……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "なんというか……頼っている方に、\n言われると……し、しっぽがちょっと\nフワッとすると言いますか……その……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ええっと、と、とにかく！\n引き続き、よろしくお願いします！\u3000では！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "足早に駆けてゆく後ろ姿は、心なし\n少し大きくなったように見えたのであった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ええ！？\u3000トレーナーさんがですか！？\nそれこそ無理をしているんじゃ……。",
+      "ChoiceDataList": [
+        "今ならいける気がする！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……なにをするかではなく、どう思うか……。\nですもんねっ！\u3000よし行きましょう！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後……見事、牛に大敗を喫したが\r\nそれも含めて気合いの入る\nいい経験になったのだった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

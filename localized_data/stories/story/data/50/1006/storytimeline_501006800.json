@@ -1,0 +1,316 @@
+{
+  "Title": "聖夜に並んで走るため",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "オグリキャップとビワハヤヒデが\r\n外出してトレーニングをしたいというので、\n付き添うことにしたのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "よし、着いたな。",
+      "ChoiceDataList": [
+        "……え、雪山！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "山の頂上だ。適度に雪が積もっているからな。",
+      "ChoiceDataList": [
+        "は、話が見えない……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……心して聞いてくれ、トレーナー。\r\n私は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "サンタさんのトナカイと、併走したいんだ！",
+      "ChoiceDataList": [
+        "サンタさんの、トナカイと！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "……その気持ち、よくわかるよ。\r\n私もこの話を聞かされた時、\n今の君と同じ顔をしたからな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "え？\u3000サンタのトナカイの速度、ですか？\r\n北半球のみと仮定しても、子どもの数から\n導くに……おそらく光速に近いかと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "そんなにか……！\r\nいったいどんなトレーニングをすれば、\nそこまで速くなれるのだろう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "！？\u3000……まさか、\r\n追いつくつもりなのですか？\n亜光速で走る、トナカイに……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "もちろんだ。サンタさんたちと\r\n一緒に走るというのは、\nきっと楽しいはずだからな……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "……と、いう訳でね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "うん……！\r\nトレーナーも楽しそうだとは思わないか？",
+      "ChoiceDataList": [
+        "（とてもまっすぐな目だ……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "あの目で見られたら、\r\nさすがに止められない……わかるだろう？",
+      "ChoiceDataList": [
+        "…………よし、トナカイに追いつこう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "ああ……！\r\nよろしく頼む……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "さあ、ログハウスの飾りつけは完璧です。\r\nサンタクロースと同じ条件下で、\nオグリさんがどこまで力を発揮できるか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "うぅ……少し走って来たが、雪道だと\r\n足を取られて上手く走れないな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "あの中を自由自在に走れるなんて……\r\n強靭な足腰をしているんだな……トナカイは。",
+      "ChoiceDataList": [
+        "それなら、君も足腰を鍛えればいい",
+        "それなら、貴方も足腰を鍛えればいい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "でしたら、私にいいアイディアがあります。\r\n付いてきてください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "開けた山道に雪だるまを作ってきました。\r\nそれを避けるように走ってください。\n踏ん張る事で、足腰が鍛えられるはずです。",
+      "ChoiceDataList": [
+        "滑らないように気をつけて"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "もちろんだ。それに、ぶつかると\r\n雪だるまが痛がるだろうしな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "ふぅ……思っていたよりも\r\n難しいトレーニングだったが……。\nできないことはなかったな……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "しかし……サンタさんのトナカイは、\r\nこれにソリまで引いているのか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……ならば、私もやらない道理はないな……！\r\nソリには――トレーナーが乗ってくれないか？",
+      "ChoiceDataList": [
+        "俺！？",
+        "私！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "いい考えだと思います。\r\nサポートは任せてください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "かくして、オグリキャップの引く\r\nソリに乗る事となった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "どうだ、トレーナー……！\r\nしっかり、走れているだろうか……？",
+      "ChoiceDataList": [
+        "走れてる……と思う！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女の走りは、ソリを引いているとはとても\r\n思えない速さであった。\nそれほど彼女は本気という事なのだろう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ひとしきりトレーニングを終え、\r\n改めてタイムを計測してみたところ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "はぁ……はぁ……\r\nタイムどうだ？",
+      "ChoiceDataList": [
+        "よくなってる……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……やった！\u3000やはり雪の中での\r\nトレーニングは効果があるんだな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "それに…………ほっほっひっふ～～。\r\n……うん……やはり、この感覚は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……トレーナー！\u3000次はサンタさんの\r\nトナカイと実際に走ってみないか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "少し追いつけたこの脚を、\r\nぜひ試させてほしいんだ……！",
+      "ChoiceDataList": [
+        "どこで競うんだ？",
+        "どこで競うの？",
+        "焦ってやる必要はない",
+        "焦ってやる必要はないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "少し追いつけたこの脚を、\r\nぜひ試させてほしいんだ……！",
+      "ChoiceDataList": [
+        "どこで競うんだ？",
+        "どこで競うの？",
+        "焦ってやる必要はない",
+        "焦ってやる必要はないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "む……そう言えば……。そもそも\r\nサンタさんたちは、どこに住んでいるんだ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "……一説ではありますが、フィンランドに\r\n住んでいると、よく言われていますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "海外か……遠いな。\r\nそれに、海外のレースとなると、\n勝手も違うだろうし……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "とにかく、まずは日本だ。\r\n頑張らないとな、トレーナー……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "かくして、いつかトナカイと競うため、\r\n更なる邁進を決意する\nオグリキャップなのであった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "そうだろうか……？",
+      "ChoiceDataList": [
+        "実力をつけて会うべきじゃないか？",
+        "実力をつけて会うべきじゃない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "はっ！！\u3000確かに、その通りだ！\r\n生半可な実力では、トナカイにも失礼か。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "わかった……まずはもっと実力をつけよう。\r\n挑戦は、それからだな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "成果は着実に出ていますし、\r\nきっと先輩なら大丈夫ですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "！\u3000そうだな……！\u3000この調子で行けば、\r\nトナカイと併走できる日も近いはずだ。\nああ……楽しみだな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "オグリキャップは、輝かしい笑顔で\r\nそう誓ってみせるのであった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

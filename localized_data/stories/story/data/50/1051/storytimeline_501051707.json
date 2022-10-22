@@ -1,0 +1,161 @@
+{
+  "Title": "神社でお祈り！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "最近調子が上がらないニシノフラワーと\r\n神社にやって来た。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "鳥居をくぐる前には会釈をして、\n参道の中央は避けて進む……。",
+      "ChoiceDataList": [
+        "参拝マナーに詳しいな",
+        "参拝マナーに詳しいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "えへへ、そうしてお詣りしている方を\r\n見かけたことがあったので、勉強したんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "神さまにお願いするんですから、\r\n失礼がないようにしないと、ですよね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "それでは私、お詣りを済ませます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "神さま、いつも見守っていただき、\r\nありがとうございます。\nこれからもよろしくお願いします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "おねえちゃん、いっぱいおじぎしてたね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "横でニシノフラワーを見ていた女の子が、\r\n不思議そうに話しかけてきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "うん。神さまにお願いするときは\r\n2回おじぎして、2回パチパチしたあと、\nもう1回おじぎするんだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そうだ、一緒にやってみようか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "うん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "（ぺこり、ぺこり、ぱちぱち、ぺこり）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そうそう、上手にできたね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "えへへ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そこで、遠くから女の子を呼ぶ\n女性の声が聞こえてきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "あ、おかあさんだ！\nおねえちゃん、ばいばーい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "バイバ～イ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ふふっ。かわいかったですね。なんだか、\nお姉さんになった気分になりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ニシノフラワーは満足そうに笑い、\nその後、調子を取り戻したのだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "まずはお賽銭を……あっ！！",
+      "ChoiceDataList": [
+        "どうかしたのか？",
+        "どうかしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "お財布、忘れてきちゃいました……。\nいいご縁があるように、\n115円を準備しておいたのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "急いで自分の財布を見てみたが、\nタイミング悪く、小銭が入ってなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そんな、トレーナーさんは気にしないで\nください。ドジしちゃった私が悪いので……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ニシノフラワーは気持ちを落としてしまい、\nこの日以降も不調なままだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

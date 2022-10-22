@@ -1,0 +1,250 @@
+{
+  "Title": "キセキのカタチ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "やぁ、トレーナーさん。\r\n突然だけど……明日、時間は空いてるかな？",
+      "ChoiceDataList": [
+        "空いてるけど、どうかした？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "実はね、ボランティア活動の一環で、\r\n病院へ慰問に行くんだ。\nよかったら、トレーナーさんもどうかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "長期で入院している患者さんも多くてね。\r\nトレーナーさんの優しい笑顔が隣にあれば、\nよりみんなの心を癒してあげられるかなって。",
+      "ChoiceDataList": [
+        "もちろん行くよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "よかった！\r\nそれじゃ、明日はよろしく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもの患者",
+      "Text": "ウマ娘さんだ！\r\nわぁ、きれいなしっぽ！\nねぇねぇ。お姉ちゃんも、走るのはやいの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "ああ！\u3000今度、見せてあげるよ。\r\nお姉ちゃんは、車にだって負けないから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもの患者",
+      "Text": "えー！\u3000うそだぁ……へへっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性の患者",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "こんにちは。\r\n日差し、眩しくはないですか？\nカーテンを――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性の患者",
+      "Text": "……私のことはいいわ。\r\n私の話し相手なんて、気持ちが滅入るだけよ。\n他の子のところに行ってあげて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "笑顔を返してくれる人もいれば、\r\n俯いたまま顔をあげてくれない人もいる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "フジキセキは終始、表情を崩すことなく、\r\n穏やかな笑顔を浮かべていた。\nそして、慰問は終わり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "……本当はね、\r\nみんなを笑顔にして驚かせるような\nサプライズを考えていたんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "でも、できなかったよ。\r\nあそこにいる人たちは、\nさまざまな気持ちを抱えている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "……笑顔すらも、\r\n心に痛みを与えるかもしれないんだ。",
+      "ChoiceDataList": [
+        "フジキセキ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "元気づける……その行為の重さを\r\n思い知ったよ。まだまだだね、私も。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "――だけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "いいえ、まだここにいますよ。\r\nだって、貴方は私に会ってくれた。\n断ることだって、できたのに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性の患者",
+      "Text": "…………。\r\n楽しい話もできないのに？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "話そうとしてくれる……\r\nその気持ちが、どれだけ私に\n幸せをくれるのかわかりますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "ここに来て、貴方に会えてよかったです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性の患者",
+      "Text": "私を喜ばせるわけじゃなく、\r\nあなたが幸せなの？\n……ふふ、そう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性の患者",
+      "Text": "私でも、まだ誰かを\r\n幸せにすることができるのね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "……あの人は、私のレースを見てくれると\r\n言っていたよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性の患者",
+      "Text": "『私が幸せにしたあなたが勝ってくれる……\r\nそれって、まるで“キセキ”のようだわ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "私はいつも、誰かを笑顔にしたいって\r\n思ってる。それは、今も変わっていない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "だけどそこには、私が思っている以上に、\r\n色々な形があるんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "だから、私は……。",
+      "ChoiceDataList": [
+        "最高の“キセキ”を見せないと！",
+        "プレッシャーを感じる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "――ああ、そうだね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "笑顔を、幸せを……\r\n与えるんじゃなく、与えてもらった。\nそして、その先に続く勝利を求められた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "だからこそ、私は全力でレースに挑むよ。\r\n期待と、望まれる“キセキ”を\n見せるためにね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "眩しい空に向かって、\r\n決意を口にするフジキセキ。その横顔は、\n太陽にも負けないくらい輝いていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "……いいや、背中を押された気分だよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "必ず勝つよ。どんなレースだとしても。\r\n“キセキ”の名を持つ、私がね！",
+      "ChoiceDataList": [
+        "必ず勝つのだから――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "サプライズにはならないね、と\r\n悪戯っぽく言ってみる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "……ふふっ！\u3000ああ、確かに。\r\nとなると――ただの勝利ではいけない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "すべてを魅了するような走りで、\r\n最高の驚きを見せてあげないとね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

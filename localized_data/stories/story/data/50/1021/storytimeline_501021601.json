@@ -1,0 +1,37 @@
+{
+  "Title": "今度こそ！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ついにこの日が来たな！\r\n前走の汚名返上、ここでキッチリしたる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "アンタも大船に乗った気持ちで見とってや！\r\nウチが1着になるところ！",
+      "ChoiceDataList": [
+        "自信満々だね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "トーゼンや！\u3000気持ちが負けとったら\r\n勝てるもんも勝たれへんからな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ほな！\u3000行ってくるで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

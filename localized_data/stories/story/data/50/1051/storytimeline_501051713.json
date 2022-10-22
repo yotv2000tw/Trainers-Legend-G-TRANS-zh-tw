@@ -1,0 +1,129 @@
+{
+  "Title": "お大事に！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーニング中にニシノフラワーが\nケガをしたので、保健室にやってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ご心配をおかけしてしまい、\nすみませんでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "それでは、手当も済みましたし\nトレーニングに戻りましょう。",
+      "ChoiceDataList": [
+        "本当に大丈夫？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "おそらくは……\nあ、いえ！\u3000ほんとうに大丈夫です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "それに、このくらいのケガで休んでいたら\nいけない気がして……ですから……！",
+      "ChoiceDataList": [
+        "無理することが大人ではないよ",
+        "できることを探そう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ですけど……私は……。",
+      "ChoiceDataList": [
+        "リスクの少ない選択を取ろう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……そう、ですね。\nケガが悪化したら、それこそ大変ですし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "わかりました、\n今日はこのまま休むことにします……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ニシノフラワーは残念そうに言って、\n寮に帰っていったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "わぁっ！\u3000ありがとうございます！\nそれでは行きましょう、トレーナーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ふぅ～……ふぅ～……。\r\nこ、これくらい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……っ！\nい、いたた……。",
+      "ChoiceDataList": [
+        "痛むのか……？",
+        "痛むの……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "走るとズキッって痛みが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "すみません、大丈夫って言ったのに\n今日はもう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "これ以上のトレーニングは無理だと判断し、\nニシノフラワーを寮へ帰したのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "よかった……！\u3000トレーナーさん、\n軽く走るだけなら痛まないです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "しばらくはこのくらいのトレーニングに\nなりそうですが、よろしくお願いします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ニシノフラワーは嬉しそうに言い、\r\nケガに配慮しつつ、無理のない範囲で\nトレーニングをしてくれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

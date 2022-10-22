@@ -1,0 +1,389 @@
+{
+  "Title": "スイーツへの道のり！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "あーっ、トレーナーさん！\r\nもしかして、トレーナーさんもお買い物！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "スイーツ売り場へ買い物に来ると、\r\nウイニングチケットとユキノビジンを\n見つけた。",
+      "ChoiceDataList": [
+        "ああ、そっちも？",
+        "うん、そっちも？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "うんっ！\u3000ユキちゃんと一緒に\r\n『バエ』スイーツを買いに来たんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "えへへ……すみませン、チケゾーさんに\r\n付き合ってもらってて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "気になるスイーツがあるって話したら、\r\n一緒に行こうって誘ってくれたンです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "だってユキちゃんが気になるスイーツなら\r\nアタシも気になるもん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "絶対手に入れようね、『バエ』スイーツ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして一緒に買い物をすることにした。\r\nしかし、奥へ進めば進むほど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "さ、さすがスイーツ激戦区……！\r\n人がいっぱいですねえ……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "目的のお店は～……あわわ、\r\n奥の方みたいです。どうしましょう……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "う～～ん、そうだなぁ――あっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "こないだハヤヒデが言ってた！\r\n『ロンリ的に考えれば不可能はない』って！\nだからロンリ的に考えてみようっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "論理的に……？\r\nど、どうやればいいンでしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "えっとね！\u3000えっと、えぇっと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "えっと……\r\nうぅ～～～ん……？？？？",
+      "ChoiceDataList": [
+        "……作戦を立てるとか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "あ！！！！\r\nそう、作戦ッッッッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "でも、作戦って何すればいいんだろう……！？\r\nトレーナーさんはどう思う！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "改めて人混みを見る。\r\n方法があるとすれば――",
+      "ChoiceDataList": [
+        "早足でどんどん追い抜いていこう",
+        "人の流れを見極めて進んでいこう",
+        "人混みがなくなるのを待とう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "よし、それだーーっ！！\r\n早足でぐわ～っと進んでいこうッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "人と人の間をくぐり抜け、早足で進む\r\nことにした。しかし人混みの中では\nなかなか進むことができず――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "うぅぅ……ぜんぜん前に進めてない\r\n気がします～……。",
+      "ChoiceDataList": [
+        "だな……",
+        "だね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "――ユキちゃん、トレーナーさん、こっち！\r\nそこの角をギュンッて曲がって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "お店、見つけたよ～～～！！\r\nここで合ってるよね！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あ……はいっ、間違いねぇです！\r\nあたし、買ってきますねっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "さっき、ウイニングチケットは\r\n人混みを難なく早足で進んでいた。\nどうやったのかと聞いてみると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "う～ん、もしかしたら、\r\nレースと同じだからかな……？",
+      "ChoiceDataList": [
+        "どういうこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "例えばレースの途中で、\r\n『よし、スピード出すぞー！』って思うと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "どんなに前が塞がってても、\r\n絶対に前に進むんだ、って気持ちになるんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "もしかしたら、ウイニングチケットの中で\r\n前へ進む際のコツのようなものが\nあるのかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "やった！！\u3000無事に買えたね！！\r\nスイーツッッッ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はいっ♪\u3000チケゾーさんとトレーナーさんが\r\n協力してくれたおかげですっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "そうだ、もしよければこの後、\r\nみんなで一緒に食べませンか？\nお礼させてくださいっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "いいの！？\u3000……うぐっ、\r\nユギぢゃん、やざじいねぇ～～～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "よし、それだーーっ！！\r\n人の流れを見極めてぐわ～っと進もうッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "人の流れに沿って直進したり、\r\n曲がったりして進んでいった。すると\n徐々に方向感覚がなくなっていき――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あれ、お店はどっちでしたっけ……？\r\nこっち？\u3000それともあっちでしょうか……？",
+      "ChoiceDataList": [
+        "ええっと……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "2人とも、こっちだよ！！\r\nほら、お店の看板ッ――！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あ……ホントだぁ！！\r\nあたし、買ってきますねぇっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "さっき、ウイニングチケットは\r\n方向感覚を失わずに進んでいた。\nどうやったのかと聞いてみると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "う～ん、もしかしたら\r\nレースと同じだからかな……？",
+      "ChoiceDataList": [
+        "どういうこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "レースではね、自分の中でなんとなく\r\n勝負所を『ココ！』って決めるんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "そしたら不思議と迷わなくなって、\r\nぐんぐん進めるようになるんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "もしかしたら、ウイニングチケットの中で\r\n勝負所で力を出すコツのようなものが\nあるのかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "やった！！\u3000無事に買えたね！！\r\nスイーツッッッ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はいっ♪\u3000チケゾーさんとトレーナーさんが\r\n協力してくれたおかげですっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "そうだ、もしよければこの後、\r\nみんなで一緒に食べませンか？\nお礼させてくださいっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "いいの！？\u3000……うぐっ、\r\nユギぢゃん、やざじいねぇ～～～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "うんうん！\u3000待ってればそのうち、\r\nシュタタタって行けるようになるよね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "――そういえば、\r\nユキちゃんが気になってるのは\n『バエ』スイーツなんだよね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "でも、『バエ』ってどういう意味なのかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "ジョーダンもよく言ってるから、\r\nちょっと気になってたんだけど――\nバエ？\u3000ハエ……？\u3000う～ん？？？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あたしも詳しくないンですけど……\r\nSNSとかで見映えがいい、っていう\n意味で使われてるみたいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "見映え！？\u3000あっ、だから『バエ』なんだ！\r\nなるほど～～！！\u3000ユキちゃん物知りだね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "談笑しているうち、少しずつ\r\n人混みはなくなっていき――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "見て見て、空いてきたみたい！\r\n今なら買えるんじゃないかな！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ですねっ！\r\nあたし、買ってきますっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "やった！！\u3000無事に買えたね！！\r\nスイーツッッッ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はいっ♪\u3000チケゾーさんとトレーナーさんが\r\n協力してくれたおかげですっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "そうだ、もしよければこの後、\r\nみんなで一緒に食べませンか？\nお礼させてくださいっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "いいの！？\u3000……うぐっ、\r\nユギぢゃん、やざじいねぇ～～～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

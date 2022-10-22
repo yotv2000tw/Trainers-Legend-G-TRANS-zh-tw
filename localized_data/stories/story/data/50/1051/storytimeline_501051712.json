@@ -1,0 +1,44 @@
+{
+  "Title": "不在の理由は……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ニシノフラワーがトレーニングに来ない……。\nと思っていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "す、すみません！\u3000遅刻してしまいました！",
+      "ChoiceDataList": [
+        "何かあったのか？",
+        "何かあったの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "実は、花壇で今にも開花しそうな\r\nつぼみを見つけまして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "がんばれって応援しながらながめていたら、\r\nこんな時間に……。\nほんとうにごめんなさい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ニシノフラワーは反省しているようなので、\n気をつけるよう言ってこの件は終わりにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

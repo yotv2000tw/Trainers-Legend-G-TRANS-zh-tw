@@ -1,0 +1,266 @@
+{
+  "Title": "初詣",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――年が明けた。\r\nメジロブライトは今日からシニア級。\n大切な1年が始まる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "シニア級"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その飛躍を願うため、初詣に来たが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "トレーナーさま～。初詣の列～、\r\nなかなか進みませんのね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "松の葉の枝を、もう1度数え終えた頃には\r\n進みますでしょうか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……列は一向に動かない。進みが遅いという\r\nレベルではなく、微動だにしなかった。",
+      "ChoiceDataList": [
+        "……帰る？さすがに"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まあ～、トレーナーさま～。\r\n短気は損気～と言いますのよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ここはじ～っくりと待ちましょう。\r\nそのうち、ゆるゆると流れると\n思いますので～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "さすがに限界だった。これ以上待ったら\r\n日が暮れてしまう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まだ、かかりそうですわね～。それでは\r\nトレーナーさま、こういたしましょうか～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "拝殿も見えて参りましたし、まずはここで\r\n軽くお願い事をしてしまうというのは\nどうでしょう～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ほら～、お食事の前にも、\r\n前菜みたいなものがありますでしょう～？",
+      "ChoiceDataList": [
+        "軽くオードブル……みたいな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "はい～。待っている分、神さまも\r\nサービスしてくださると思いますので～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……こうして時間を持て余していても、\r\nしかたない。暇つぶしがてら、\n何かを祈ってみることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "それではトレーナーさま、\r\nともに願いましょう～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "2人で、心を1つに合わせる。\r\n思わず口をついて出てきた願いは……。",
+      "ChoiceDataList": [
+        "待ってる間、よく眠れますように",
+        "早く列が進みますように",
+        "神様の方から来てくれますように"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "待ってる間、よく眠れますように～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "す～……す～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "神の恩恵か自力か、メジロブライトは\r\nまたたく間に居眠りを始めた。そして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ふぁぁぁふぅぅぅ～。よく寝ましたわ～。\r\n神さまがお願いを叶えてくださった\nみたいで～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あら～、トレーナーさま？\u3000ここは\r\nどこでしょう？\u3000わたくし、神隠しされて\nしまいましたわ～。",
+      "ChoiceDataList": [
+        "……運んできたんだよ、ここまで"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "運んで……？\u3000まあ、トレーナーさまが。\r\nありがとうございます～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "静かなところに熟睡できたメジロブライト。\r\nおかげで少し元気になったようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "早く列が進みますように～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参拝客",
+      "Text": "おいおい、もっと前詰めろよ。\r\n空いてるんだから、どんどん行けって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "…………え？\u3000あら～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "奇跡が起きた。願いが届いたのか、みるみる\r\n列は進み、あっという間に拝殿の前へ……。\nそして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "うふふ～、いきなり神前に出てしまいました\r\nから、何も思いつきませんでしたわ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "考えれば考えるほど、\r\n頭がぽわ～っとするばかりで～。",
+      "ChoiceDataList": [
+        "結局、何を願ったんだ？",
+        "結局、何を願ったの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "結局～何も浮かばなかったので、\r\nこうお願いしましたのよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "『いろ～んなことが、\r\nよくなりますように～』って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロブライトらしい、ふわっとした願い。\r\nでも、それなりにいろいろ\nよくなった気がする。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "神さまのほうから来てくださいますように～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "向こうから出向いて来てくれれば、一瞬で\r\n済む。よこしまなことを考えていると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "あやや、どうしました、ブライトさん？\r\nもしかして初詣ですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "でしたら、もっと空いてる別のところに\r\n行きましょう！\u3000ご案内しますので！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まあ～フクキタルさま～。\r\nよろしくお願いいたしますわ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "とまあ、お詣りするなら、このような\r\n渓流でもいいわけです。川には水神様も\nいますからね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "自然のアチコチには、八百万の神が宿って\r\nいるワケです！\u3000楽しくお祈りして\n周りましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "はい～。たくさんお祈りできる上に、\r\nお散歩までできるなんて～。\nフクキタルさまは福の神ですわね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "神にも似た、ありがたいウマ娘が、\r\n新春パワースポットガイドをしてくれた。\nいろいろな知識も身についた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

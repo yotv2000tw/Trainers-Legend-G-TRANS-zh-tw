@@ -1,0 +1,37 @@
+{
+  "Title": "お肌の調子が……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "う～ん……やっぱり、\r\n少しは気にしたほうがいいのかな？",
+      "ChoiceDataList": [
+        "何を？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "さっき、ビコーちゃんがね～。\r\n『肌が怪人みたいに荒れてるぞっ！？』\nって教えてくれたの～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あたしは気にならないけど、ビコーちゃんが\r\nそう言うならお手入れするべき……かなあ～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "肌荒れを妙に意識してしまい、\r\n困った様子のヒシアケボノだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

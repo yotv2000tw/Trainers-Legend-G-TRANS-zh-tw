@@ -1,0 +1,56 @@
+{
+  "Title": "不在の理由は……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "サクラチヨノオーがトレーニングに来ない……\r\nと思っていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "すみません！\u3000遅刻してしまいました！",
+      "ChoiceDataList": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "トレーニングの時間までちょっと休もうと\r\n横になったら、いつの間にか寝ちゃって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "実は昨日の夜、怖い話の動画を観たせいで\r\nなかなか寝つけなかったんです……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "だから、気分転換にお菓子作りを始めたら\r\n夢中になってしまって、いつの間にか朝に……\nむしろそれが1番怖かったです……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "私の不注意でご迷惑をおかけしました。\r\n今後は気をつけます……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "サクラチヨノオーは反省しているようなので、\r\nこの件は軽く注意して終わりにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

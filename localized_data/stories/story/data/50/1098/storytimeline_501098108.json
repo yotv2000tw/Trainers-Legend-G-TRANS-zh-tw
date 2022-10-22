@@ -1,0 +1,436 @@
+{
+  "Title": "ファン感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――ファン感謝祭。トレセン学園内に\nファンを招いて行われる、スポーツの祭典。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "レースは大事だけど、お祭りも大事！\nお祝い事はしっかり楽しまないとね☆",
+      "ChoiceDataList": [
+        "リッキーはどの競技に参加するんだ？",
+        "リッキーはどの競技に参加するの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "えっと、風水と相性のいい\nスポーツといえば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうしてコパノリッキーが選んだのは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "リッキー☆\u3000ラッキー☆\u3000チア軍団！！\n風水チアで、味方を勝利に導こう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやら選手ではなく、\n応援での参加を選んだようだ。\nとすると一緒に応援する仲間は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "あー、もしかして\nアタシたちの助けが必要な感じ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "いいわ、リッキーさん。本気で取り組むなら、\n一流のチアの心構えというものを……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "あー、ごめん。ネイチャ、キング。\n風水のチアって、そういうのじゃないんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "励ますんじゃなくて――\n一方的に場を制するものだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ってわけで手伝ってもらうのは、この2人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "あの……何をすればいいのでしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "チア軍団？\u3000それってとってもマーベラス？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "左はマンハッタンカフェ。何者かに\n憑かれているという噂の、不思議系ウマ娘だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "右はマーベラスサンデー。マーベラスを愛し、\n結果的に全てをマーベラス化するウマ娘だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うんうん、私が場を仕切って、\nこの2人を効果的に配置すれば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "勝てない試合はひとつもない！\nそれじゃ言うとおりに陣取ってくれる？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カフェ＆マーベラス",
+      "Text": "……はい。\nうん☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうしてサッカーの試合が始まったが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "まずは“巽”【そん】。\n南東の方向、味方ゴールの裏に、\nマンハッタンカフェさんを配置する。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "相手の選手が……近づいてくる？\nもし、ここでゴールを決めたりしたら。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "――ユルサナイ。\nユル……サナイ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（\u3000オ\u3000オ\u3000オ\u3000オ\u3000オ\u3000ン\u3000ッ\u3000！\u3000）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "相手チームのウマ娘",
+      "Text": "な、なにあれ！？\nヤバッ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "さらに“乾”【けん】。\n北西の方向、敵側のゴールそばには、\nマーベラスサンデーちゃんを配置する。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "ピッ、ピッ、ピッ☆\u3000ピッ、ピッ、ピッ♪\nなんだかとってもマーベラス★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "シュート、シュート、マーベラス！\nバンバンゴール、マーベラス！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "味方のウマ娘",
+      "Text": "おおお、なんか入りそうな気がする！\nチャンスが来たら、打っとけ打っとけ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "――陰と陽。フィールドに2つの極が\nできると、そこには流れが。すなわち……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "有利不利の氣脈が生まれる。\nこれがホームとアウェイの理論。そして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "審判",
+      "Text": "（ピーッ！）試合終了ー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "やった……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "マーベラス☆\u3000マーベラス♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "点差はわずかだった。が、ボール占有率と\nシュート数に圧倒的な差が出た。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "まぎれもなくコパノリッキーの風水の力。\nだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ふぅ……無事に勝ててよかった～。\nそれじゃ、別のところに行こっか。",
+      "ChoiceDataList": [
+        "勝利の輪には加わらないのか？",
+        "勝利の輪には加わらないの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "加わるわけないよ～。私たちは表向き、\nなんにもしてないことになってるし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "風水チアは影の立役者。\n私たちはそれで満足だから。ね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "そう……ですね。\nそういうものかも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "マーベラス☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……なんだかよくわからないが、\nカッコいい系の集団だった。そして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "さてと、感謝祭の締めくくりに、\n私もなんか出ておこうかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "やっぱりちょっとぐらい、風水パワーで\n勝って、チヤホヤされたいじゃない？",
+      "ChoiceDataList": [
+        "水泳……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うん！\u3000もう残ってるプログラムが\nこれだけだから。いっくぞー☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうしてコパノリッキーは\n意気揚々とプールに飛び込んだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "あ、あれ……？\u3000そういえば私、\n小さい頃に水の中で……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "溺れかけた夢を見たことが……。\nあっ、脚がつっ……あいたたたっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "過去の記憶に気を取られた瞬間、トラブル\n発生。1選手としては、いい結果の\n残せなかったコパノリッキーだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――後夜祭。ここではコパノリッキーは\n影のヒーローではいられなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "わっ、ちょっと！\u3000何この人垣！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンA",
+      "Text": "リッキーちゃん、風水パワーください！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンB",
+      "Text": "僕にも風水占いをお願いします！\nあれ、占いじゃなかったっけ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "もはや風水ウマ娘、\nコパノリッキーはすっかり有名だった。\n身動き取れないほどの大人気で……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "どうしよう。さすがにこの人数の相手は\nしてあげられないかも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うーん、何かいい方法は……。",
+      "ChoiceDataList": [
+        "まとめてハッピーにはできないか？",
+        "まとめてハッピーにはできない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "まとめてハッピーに……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "コパノリッキーは少し考え込む。\nそして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "そっか！\u3000そうだよね！\u3000これだけの人数が\nいれば、普段できないことができる☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "みんなー、よく聞いてー！\u3000今から\nここにいる全員で“陣”を描くよー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "幸運を呼び込むハッピーの陣☆\n私は屋上から指示するから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうしてコパノリッキーは屋上へと\n駆け上がり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "坤【こん】の子たちー！\u3000もっと右ー！\nもうちょっと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うん、そこでOK！\u3000これでみんなで描く、\n大八卦の完成だよー☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（わああああああっ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "喝采が起こる。決して1人では描けない\n幸せの絵図ができた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うんうん、これで絶対みんな幸せになれる\nはず☆\u3000というわけでー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "これにてファン感謝祭、打ち上げー！\nリッキー☆\u3000ラッキー☆\u3000大ハッピー☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ドドーン！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "華やかに鳴り響く花火の音。こうして\nファン感謝祭は楽しく幕を下ろしたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Title": "レース入着",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "――チッ。1着を逃しちまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "どこかで計算が狂いやがったンだ。\n早くバグを潰さねェと……。",
+      "ChoiceDataList": [
+        "いい走りだったと思うよ",
+        "課題を改善すれば次に進める"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ぬりィこと言ってンじゃねェ。\n想定外の計算結果に、意味はねェんだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……まァ、上手くいったところもあったのは\n事実だけどな。そこは拾い漏らしはしねェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "オイ、帰るぞ。\nさっさとコードを組み直してェんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "言うのは楽だろうな。\nデバッグの経験すンのをオススメするぜ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "まァいい。試しにお前の考える課題を\n全てリスト化して提出してみろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "もしオレが気づいてない問題点を\n指摘できたら、褒めてやるぜ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

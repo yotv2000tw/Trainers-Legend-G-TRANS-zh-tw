@@ -1,0 +1,390 @@
+{
+  "Title": "新年の抱負",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "謹賀新年。年が明け――メジロブライトは\r\nクラシック級になった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ガラガラガラ～）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "トレーナーさま～、\r\n昨年中は大変お世話になりましたわ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "本年もよろしくお願いいたしますのよ～。\r\n謹んで～。",
+      "ChoiceDataList": [
+        "謹んで～"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……よくわからない返礼をしてしまったが、\r\n会話は成り立っているので、よしとしよう。",
+      "ChoiceDataList": [
+        "ところでブライト、今年の抱負は？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "抱負～。もちろん決まっていますわ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "――クラシック三冠でよき走りをすること。\r\nそしてメジロに栄冠を～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "のんびりしているメジロブライトだが、\r\nここだけは迷いなく答える。目標は\nハッキリと見えている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "とくに～、メジロではまだ誰も勝てていない\r\n『皐月賞』と『日本ダービー』で\n頑張りたいんですのよ～。",
+      "ChoiceDataList": [
+        "そうか、メジロ家はまだ……",
+        "そっか、メジロ家はまだ……"
+      ],
+      "ColorTextInfoList": [
+        "日本ダービー"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "言われて、改めて思う。メジロ家で\r\n『皐月賞』と『日本ダービー』を獲った\nウマ娘はまだ誰もいない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そこを見据えているなら……競合相手となる\r\nウマ娘も、すでにマーク済みかもしれない。",
+      "ChoiceDataList": [
+        "『皐月賞』、ライバルには負けられないな！",
+        "『皐月賞』、ライバルには負けられないね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ほわぁ～……ライバル……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あの～、トレーナーさま。どのような方が\r\nライバルなのでしょう～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……周辺事情はあまり見えていない\r\nようだった。そう、メジロブライトと\n同世代のウマ娘は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "そう、ブライト……。\r\nあなたは『皐月賞』を目指すのね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ブライト"
+      ]
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "私はまだ自分の走りが見えなくて。\r\nせめて『日本ダービー』に間に合えば……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――サイレンススズカ。物静かで、\r\n孤独を好むウマ娘だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "サイレンススズカ"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その迷える心が走りにも影響し、成績は\r\n今一歩。クラシックロードでの評価も、\n主役級からは一枚落ちる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "むむむむっ、見えます！\u3000見えますよ、\r\nブライトさん！\u3000アナタ、クラシック参道を\nひた走る気ですね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "きっと強力なライバルが現れるでしょう！\r\nまあ私なんですけどね。\n『なれたらいいな』ってだけなんですけど！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――マチカネフクキタル。\r\n占いやオカルトが趣味のウマ娘だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "マチカネフクキタル"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "頑張っているようだが、今のところは\r\n運頼みという、もっぱらの噂だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "スズカさまにフクキタルさま～。2人とも\r\nたまにお話はしていましたけれど～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "スズカ",
+        "フクキタル"
+      ]
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "そう、同期でしたのね～。\r\n今にして思えば～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "のんびり屋のメジロブライトは、\r\n話し相手としか思っていなかったようだ。\nだがライバル2人は当然……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "……私も無意識だったわ。\r\n走りを磨くことに手いっぱいで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "私もです！\u3000運気を高めるのに\r\n全集中でしたから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "全員が互いにノーマーク……。誰もが\r\n自分探しの真っ最中で、まだライバルにまで\n気が回らないようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あの～、トレーナーさま。せっかくの\r\nお正月ですので、お2人と仲を深めたいと\n思うのですけれど～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "誰となにをするのがよいでしょう～？\r\nでも、あえて1人で過ごすというのも～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "同期と過ごすお正月。\r\nさて、何をさせるのがいいだろう？",
+      "ChoiceDataList": [
+        "スズカと髪の編みっこ",
+        "1人で盆栽を眺める",
+        "フクキタルと人形遊び"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まあ、髪の編みっこ～。\r\nスズカさま、そのお綺麗な髪を\n結わせていただけませんか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "わたくし、子どもの頃から\r\n編みっこ大好きですのよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "編みっこ……。いいけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "それでは、行きましょう～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ス～イスイ、ス～イスイ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "あの……ブライト？\r\nずいぶん経ったけど、編み終わった？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "いえ～、まだ梳かしただけですので～。\r\n編むのはこれからですわ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "……まだまだかかりそうね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "サイレンススズカの身だしなみを\r\nじっくり整えたメジロブライト。\n戯れつつも、かなりの根気が養われた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "1人で盆栽を……。そうですわね～。\r\nご学友との遊戯はいつでもできますし～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ではおふたりとも、ごきげんよう～。\r\nわたくしは少しばかり鑑賞に～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（カコーン……。カコーン……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "…………ほぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "…………ほわぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロブライトはただただ盆栽を眺めている。\r\nそして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "トレーナーさま～。\r\nわたくし、気づきましたのよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "盆栽って『小さな宇宙』と言いますけれど～、\r\nこうしてよく見ると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "やはり宇宙ではなく、樹ですのね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……返答に困る。そんな中でも\r\nメジロブライトは着実に癒されていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "お人形遊び～。あ、そうですわ、\r\nフクキタルさま。この子にご興味は\nありますか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "『マキちゃん』ですのよ～。\r\nと～ってもいい子なんですの～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "おおお、こんなものをお持ちとは！\r\nブライトさんは信心深いのですねえ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "アレですよね。我が身のケガレを\r\n一身に受け止めてくれるという……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "……はい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "そもそも形代【かたしろ】とはですねぇ。\r\n古来よりミソギの際に用いる人形で……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "ブライトさんの身に降りかかる災厄を\r\n引き受けてくれるというわけです。\nありがたや～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まあ～。マキちゃん、かわいそう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "神社の前で、神道の教義を受ける\r\nメジロブライト。雑学が身についた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

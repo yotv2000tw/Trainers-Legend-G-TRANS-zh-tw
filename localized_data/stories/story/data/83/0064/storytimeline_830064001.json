@@ -1,0 +1,315 @@
+{
+  "Title": "ミイラハント～笑劇を打破せよ！～",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "忘れ物を取りにダンススタジオを訪れると、\r\nタマモクロスが声をかけてきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なあ、アンタ、少し時間あるか？\r\n平気ならウチらの練習見てほしいんやけど。",
+      "ChoiceDataList": [
+        "いいよ。何の練習？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "地域交流イベントで、『ミイラハント』\r\nっちゅうお化け屋敷を手伝うことになってな。\nウチら4人が準備担当やねん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ミイラハンターとお客さんが、\r\n襲ってくるミイラをおもちゃの鉄砲で\n倒していくアトラクションや。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ミイラは台本がねえってんで、\r\nアドリブ演技の練習をするとこなんでぃ！\n『えちゅーど』とかいうヤツさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "これからミイラを演じますので、\r\n感想を教えていただけますか～？\n『ミイラの未練』がエチュードの題材です。",
+      "ChoiceDataList": [
+        "わかった！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おおきに！\u3000ほな、頼むで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ヴボォォォォ～～……オタカラ……\r\nオタカラハ……ワタ……サン……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ヴォ～～……ヴォオオ！\u3000マツリダ！\r\nオマエモマツリニ、クワエテヤラァ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "私は～……もっとお世話をしたかったです～。\r\n誰か、甘やかさせてください～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "私の未練は……空腹だ。\r\nお腹が空いている……だから、襲って食べる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "あら～……それだと\r\n野菜が足りないんじゃないかしら。\nつけ合わせのお料理を作りますね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "ありがとうクリーク……！\r\nご飯とみそ汁も頼む。\nそれと、おかわりも……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "うふふ、いくらでも作りますよ♪\r\nお腹いーっぱい食べてくださいね～。\nオグリちゃんのお世話ができて幸せです～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "クリークのご飯、食べ放題…………天国だ。\r\n……じゅるり。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "って未練解消されとるやないかい！！\r\nなんでミイラ同士でほのぼのしてんねん！\nヒト襲えや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "大丈夫、私のお腹はペコペコだ。\r\nまだ食べられる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "そういう問題やない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "カットカット！\r\nタマ、お前さんまで\nツッコミ入れてどうすんでぃ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "す、すまん。つい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "で、お前さん。あたしらの芝居はどうでぃ？\r\n遠慮なく言ってくんなぁ！",
+      "ChoiceDataList": [
+        "面白かった！",
+        "恐怖感が足りないかな……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "あかんやん！！\r\nお化け屋敷なのにおもろいて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ツッコミまくっとったウチも悪いけど、\r\nそもそもオグリとクリークがボケすぎや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "まあ、ごめんなさい……。\r\nボケたつもりはなかったんだけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "それが天然ボケやっちゅーねん。とりあえず、\r\nこの緩みまくった空気なんとかせんと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "本番ではハンターもいんだろ？\r\nハンターが空気を締めてくれりゃあ、\nなんとかなるんじゃねぇか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せやな。ミイラハンター役って誰なん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "私だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "オマエかい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "はよ言えや！\r\nなんでミイラの練習に混じってんねん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "ミイラハンターとして、ミイラの気持ちは\r\n知っておくべきなのかと……違ったのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "気持ち知ったら倒しにくくならんか？\r\nはぁ……前途多難やなぁ……。\nひとまず対策は持ち帰りや。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "それからオグリは、ハンター役の勉強な。\r\nハンターが出てくる映画でも観て、研究せえ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "なるほど、わかった。\r\nやっぱりタマは頼りになるな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せやな……ホラーのはずが、\r\n完全にお笑いのノリやったで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "それなら、恐怖演出に凝るのはどうでしょう？\r\n音や感触が恐怖感を増すって言いますよね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "あ！\u3000実際に恐怖体験をしてみませんか？\r\n夜の学園を回って、恐怖演出を探すんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "……わ、悪くねぇが……いやっ！！\r\n夜まで校舎に残るのはまずいだろ！\u3000なぁ！",
+      "ChoiceDataList": [
+        "俺が同行すれば問題ないよ",
+        "私が同行すれば問題ないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……や、やっぱり夜の校舎は不気味やな……。\r\nさっさと演出になりそうなん見つけようや。\n手っ取り早く、この足音とかどうや？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "足音といえば～、知ってます？\r\n夜の校舎を走っていると、赤い光が\n追いかけてくるっていう噂があるんですよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なんで今その話すんねん！\r\n演出と関係ないやろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "……あら？\r\n何か……聞こえませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "…………て……な…………ス………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……い、いや……いやいやいや！\r\nウチはなんも聞こえてへんで！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "――あ、赤い光。\r\nクリークが言っていたのは、あれのことか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "……赤……レイな………マー……ラース……☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモ＆イナリ",
+      "Text": "ぎゃあああああああっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "あ……あかん！！\u3000こんなん子ども泣くわ！\r\n怖くしすぎん方がええ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "老若男女、みんな楽しめるんが1番や！\r\nもうお笑いお化け屋敷でいこ！\u3000なっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

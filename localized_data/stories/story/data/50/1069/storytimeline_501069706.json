@@ -1,0 +1,295 @@
+{
+  "Title": "ウマ娘演歌大会！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "え、ええ、演歌大会……。\nぜ、絶対に成功させないと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "事の発端は、\r\nサクラチヨノオーとのお出かけを終え、\n学園に戻っている最中のことだった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "――チヨノオーさん！\n『ウマ娘演歌大会』、出てもらえませんか！？",
+      "ChoiceDataList": [
+        "ウマ娘演歌大会……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "はい！\u3000ご年配の方向けの催し物で……\r\n1人、ケガで欠場になってしまって。\nそこへ――",
+      "ChoiceDataList": [
+        "俺たちが通りかかった、と",
+        "私たちが通りかかった、と"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "チヨノオーさん……よく、鼻歌まじりに\r\nこぶしの利いた演歌、歌ってますよねっ！\nだから……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "あわわ、そ、そんな……恐縮ですっ！\n私の演歌なんて、少しかじった程度ですし。\n……でも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "『口に苦しも1ハロンから』。\r\nなにごとも、勇気の1歩目が大事……。\n……トレーナーさん！",
+      "ChoiceDataList": [
+        "頑張っておいで"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうしてサクラチヨノオーは\n演歌大会に参加することとなったのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "はああぁぁああぁぁぁ～～～♪\nわが恋がぁぁ～～風に呑まれぇ～～～\n暗い波にぃぃ消えぇぇぇ～～～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おばさんA",
+      "Text": "さ、さすがキタちゃん……！\n胸の高鳴りが止まらないわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おじさんA",
+      "Text": "こぶしもビブラートも素晴らしくて……\nあぁ、もう年だな……涙が――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メイショウドトウ",
+      "Text": "（ううぅぅ～～舞台なんて、緊張がぁ……。\nで、でもでもぉ……オペラオーさんとの\n演劇のためにぃぃぃ、度胸をぉぉぉ……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メイショウドトウ",
+      "Text": "はあぁぁぁあぁぁ～～～！\nこの雪がぁ～～貴方をぉ～包み込んでぇ～～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おじさんB",
+      "Text": "いいぞー！\u3000ドトウちゃーーーん！！\n繊細な声が素敵だぞー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "――はぁぁ～～、みんなすごい……。\r\n思わず聞き惚れちゃった……けど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "私、この後に歌うんだよね。\n……ど、どうしよう……手が……震えて……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "司会者A",
+      "Text": "さぁ、キタサンブラックさんもうなる実力者！\r\nサクラチヨノオーさんの登場です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "（わ、わわ、私も上手に、歌わなきゃ……。\nえーっと、えーっと……\n上手な演歌は、どう歌えばいいんだっけ？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "サクラチヨノオーは1人震えてしまっている。\r\nしかし、何も心配は要らない。\n彼女は強い勇気を持った子だから――",
+      "ChoiceDataList": [
+        "『口に苦しも1ハロンから』！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "（そうだ……迷っている暇なんかない……\nまず……口を開いて……\n1歩目を、踏み出すんだ――！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "く……く、雲はぁ……薄くぅ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "やああぁぁぁあぁぁ～～～♪\n月の陰りはぁ～～あなたの敬慕ぉ～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おじさんA",
+      "Text": "おっ！？\nなんて気持ちの入った歌い方なんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おばさんA",
+      "Text": "すごいっ……！\n伝わってくるわ！\n彼女の真っすぐな純粋さがっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はあぁぁぁあぁぁ～～～！\n夜の健気な桜よぉぉ～～私の想いぃぃ～～\n届いていますかぁ～～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客たち",
+      "Text": "（ワアアアアアァァァァァ……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はあああぁぁぁぁぁ～～～～～～。\nなんとか、なんとか無事終わりましたぁぁぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "チヨノオーさん！\u3000あたし、感動しました！\n気持ちが……ドォーンって伝わってきて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メイショウドトウ",
+      "Text": "わ、私も、心がポカポカしましたぁ……！\nチヨノオーさんの歌声がとても心地よくてぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ええっ！\u3000そんなそんな！\nお2人に比べれば、私なんて……！",
+      "ChoiceDataList": [
+        "とっても感動したよ",
+        "アンコールしたいな！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "！\u3000トレーナーさん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "み、みなさん……ありがとうございます！\n顔、熱くなっちゃいました……えへへ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "でも――ちゃんと歌えたのは、\nトレーナーさんのおかげなんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "どうしよう、どうしようって思ってるときに\r\n声が聞こえて……それで、気づいたんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ステージの上では1人でも、1人じゃない。\n支えてくれて、見てくれてる人がいる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "だから――その感謝を込めて、歌おうって！",
+      "ChoiceDataList": [
+        "その気持ち、ちゃんと伝わってきたよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はい！\u3000……えへへ。\n『ウマ娘演歌大会』、また参加したいな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客たち",
+      "Text": "――おっ！\u3000アンコールしてもいいのかい？\n――嬉しいねぇ！\u3000アンコール、アンコール！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "こ、これは……？",
+      "ChoiceDataList": [
+        "みんなの歌が最高だった証だ",
+        "みんなの歌が最高だった証だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メイショウドトウ",
+      "Text": "あわわわわ……だ、大丈夫でしょうか……？\n急なアンコール……\n上手くいくでしょうかぁぁぁ……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "大丈夫です！\u3000だって……\n『口に苦しも1ハロンから』！\n……ですよね、トレーナーさん！",
+      "ChoiceDataList": [
+        "ああ！",
+        "うん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "よーし！\u3000まず1ハロン！\n3人で力を合わせて\nアンコール頑張るぞー！\u3000おー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チヨノオー&ドトウ",
+      "Text": "オーーー♪\r\nお、おぉ～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

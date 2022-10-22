@@ -1,0 +1,450 @@
+{
+  "Title": "初詣",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "新年。\r\n参拝のため、神社へ行くと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "はい、どーぞ☆\r\nあったかくてとーってもボーノだよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ヒシアケボノが、\r\n商店街の人々と共に、甘酒を配っていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あ！\u3000トレーナーさんだ～！\r\nハッピーニューイヤ～！",
+      "ChoiceDataList": [
+        "おめでとう。その甘酒は？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あのね、商店街でボランティアの募集が\r\nあったから参加してみたの～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "甘酒をたっぷり作って、\r\nみんなに渡すんだ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人A",
+      "Text": "すごく助かってるんですよ。\r\nボーノちゃん、力持ちだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人B",
+      "Text": "甘酒以外も用意しようって言ったのも、\r\nボーノちゃんのアイディアなんですよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人B",
+      "Text": "普段より受け取ってくれる人が多くってねー。\r\nやっぱり嬉しいものね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "えへへ。\r\nほめられちゃった～。",
+      "ChoiceDataList": [
+        "甘酒以外？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "確かに、よく見ると甘酒以外に、コーヒーと\r\nホットチョコレートも用意されていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "甘酒が苦手な人のために、\r\n代わりに体があったまりそうなもの\nないかな～って思って考えたんだ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "そうだ！\u3000トレーナーさんも好きなの\r\n飲んでいってほしいなぁ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "どれがいいかな？\r\n甘酒はビタミンたっぷり栄養たっぷりで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "コーヒーは、商店街のカフェで買った豆でね。\r\n全部がんばるぞ～ってなれちゃう♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ホットチョコレートもおすすめだよ～。\r\nなんだかねぇ、特別なおいしさなんだ～。",
+      "ChoiceDataList": [
+        "甘酒で、栄養たっぷり！",
+        "コーヒーで、全部頑張る！",
+        "ホットチョコレートで、特別なパワー！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "わかった～！\r\nお腹から、すごくポカポカになるよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう言って手渡された甘酒。\r\n奥深い甘さとトロリとした口当たりが、\nとても美味しい甘酒だった！",
+      "ChoiceDataList": [
+        "美味しい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "よかった～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "昨日から、みんなで仕込んだんだ。\r\n楽しかったな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あ、そうそう！\u3000それでね、その時\r\nトレーナーさんの話になったんだ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人B",
+      "Text": "そうそう！\u3000すごく大切な人で、\r\n優しくて、頼りになって、それで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人B",
+      "Text": "いつもおいしそうにご飯を\r\n食べてくれるんだって、ねぇ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人C",
+      "Text": "ねぇ～！\u3000ボーノちゃんも\r\nトレーナーさんにご飯を作るの、\nすごく楽しいなんて言うから……ねぇ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人B",
+      "Text": "なんだか久しぶりのときめく話で、\r\n盛り上がっちゃって！\u3000ごめんなさいね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あはは、なんかねぇ、みんなで\r\nわ～ってなって面白かったんだ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "なにはともあれ、商店街の皆さんと\r\n一緒に、楽しい1日を過ごせたようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "了解で～す♪\r\nお砂糖とミルクはいりますか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "砂糖とミルクについても伝え、\r\n温かいコーヒーを受け取る。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "深い香りと味わいが特徴的な\r\nとても美味しいコーヒーだった。",
+      "ChoiceDataList": [
+        "美味しい……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "よかった～、あたしもそのコーヒー\r\n大好きなんだ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "豆もね、ちょっと買っちゃった。\r\n今度ケーキと一緒に飲もうね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参拝客",
+      "Text": "すみません、\r\n甘酒1つもらえますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あ、はーい♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参拝客",
+      "Text": "……あれ？\r\nボーノちゃん？\u3000ですか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うん、そーだよ～。\r\nあ、もしかしてもしかして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参拝客",
+      "Text": "ファンです～！\u3000似てる子がいるなって\r\n思ってたんですがまさか本人だなんて～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参拝客",
+      "Text": "レース見て、パワフルで大迫力のレースに\r\n度肝抜かれたっていうか、こんな子が\nいたんだって、完ッ全に心奪われちゃって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参拝客",
+      "Text": "次の『高松宮記念』、ビコーさんとの対決、\r\nすっごく楽しみにしてます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "えへへ、嬉し恥ずかしだな～。\r\nありがと、がんばるね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、甘酒を受け取った参拝客は\r\n大きく手を振りながら笑顔で去って行った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ホットチョコレート？\r\nトレーナーさんったら、お目が高いね～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "頬っぺた落ちないよ～にねぇ。ふふ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう手渡されたホットチョコレート。\r\n濃厚な味わいが特徴的でとても美味しかった。",
+      "ChoiceDataList": [
+        "ボーノ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ね～！\r\nあたしも大好きなんだ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "と、そこへ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "あれ！？\r\nボノとボノのトレーナーだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "わあ！\u3000ビコーちゃん！\r\nあけましておめでと～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "おめでと！\r\nなにしてるんだ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あのね、あったかい飲み物配ってるんだ～。\r\nビコーちゃんもなにか飲む～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "へぇ～！\r\nあ、じゃあホットチョコレート――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "って、ダメだ！\u3000今急いでるんだった！\r\n今日な、正月特番でヒーロー特集があってさ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ありゃりゃ！\r\nそれは見逃せないね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "そうなんだ！\r\n急いで参拝だけしに来ててさ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "だからごめん、ありがと！\r\nがんばってな、ボノ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うん！\r\nまたあとでね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……ビコーちゃん、なにお祈りしたんだろ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "『高松宮記念』のことお祈りして\r\nくれてたら、嬉しいな～。",
+      "ChoiceDataList": [
+        "そうだな",
+        "そうだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あ、そういえば\r\nトレーナーさんは、もう参拝やった～？",
+      "ChoiceDataList": [
+        "まだだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ほんと？\r\nちょっと一緒に行ってきてもいいかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさんと一緒に、がんばるぞって\r\nやりたいな～って思って～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人A",
+      "Text": "ああ、今暇だし、\r\n大丈夫だから、行っておいで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ありがと～！\r\nすぐ戻るね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そんなわけで、少しだけ急いで\r\n参拝の列へと並び――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（パンパンッ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "お祈りはもちろんあれだよね～、\r\nトレーナーさん☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "『高松宮記念』と～……それからのレースも、\r\n2人でいっぱいがんばれますよ～に！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "えへへ、参拝すると、なんだか\r\nパワー出てくるね～。ぱわわわ～って！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "今年もがんばるぞ～！\r\nがんばろ～ねっ、トレーナーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――そんな、明るい雰囲気で始まった元旦。\r\n今年も良い1年になりそうだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

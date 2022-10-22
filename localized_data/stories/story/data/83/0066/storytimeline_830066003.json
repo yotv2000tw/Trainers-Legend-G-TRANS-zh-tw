@@ -1,0 +1,237 @@
+{
+  "Title": "ステータス『楽しい！』",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "廊下で会ったミホノブルボンと\r\n話していると、ライスシャワーが\n小走りでやって来た。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "ブルボンさん、\r\n仮装パーティーの衣装は決まった？\nこの前、クリークさんから話を聞いて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "――状況に変化なし。\r\n日々、あらゆる場面で意識していますが、\n仮装すべき対象を発見できません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "そ、そうなんだ。でも……\r\nたくさんたくさん考えてくれたんだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "それでも、見つけられないのです。\r\n……私は走ることばかりで、\nつまらないウマ娘なのかもしれません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "そんなことない！\r\nだって、ブルボンさんは……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "……っ。あのね、まだ決まってないなら、\r\n『オバケ』とかどうかな！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "お化け……幽霊ですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "う、うんっ。幽霊なら中身は関係ないし、\r\n衣装も簡単にできると思うのっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "ライスはヴァンパイアをやる予定だから、\r\nブルボンさんはヴァンパイアの屋敷に\n住んでるお友だちの幽霊さん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "なるほど……幽霊であっても、\r\n中身は『私』なのですね。\n確かに、表情などは関係ありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "設定を記録。メモリに保存。\r\n仮装は『ヴァンパイアのお友だち幽霊』に\n決定しました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "あ……！\u3000よかったぁ……！\r\nそれじゃ、さっそくお買い物だねっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "わっ、かわいい生地……。\r\nでも幽霊さんは無地のほうがいいかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "定番は白と推測します。\r\nしかし、仮装の場合に当てはまるかは\n定かではありません。",
+      "ChoiceDataList": [
+        "飾りとかつけたら？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "あっ、いいかも……うん、そうしよう！\r\nブルボンさん、飾り付けるなら\nこっちの花とリボン、どっちがいい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "どちらも、デザインに問題はないかと。\r\nお友だちであるヴァンパイアさんの\nご趣味に合わせるのはいかがでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "そ、そっか！\u3000じゃあ、ライスが\r\n選ばなくちゃだね。んっと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "あ、あの……\r\n荷物、大丈夫？\n持ってもらっちゃって……。",
+      "ChoiceDataList": [
+        "任せて！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "えへへ……ありがとう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "？\u3000ブルボンさん？\r\nどうかした……？\nもしかして、疲れちゃった？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……いえ。ただ、買い物の間、\r\n私は正しく発言・行動ができたのか、\nという疑問が生じています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "私の買い物であったにもかかわらず、\r\n機械的な返事しかできませんでした。\nですから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "楽しかったよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "え……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "ブルボンさんは確かに……その、\r\nあまり顔には出ないかもしれないけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "でも、聞いたら必ず答えてくれるでしょ？\r\n嘘もつかないし、ちゃんと言葉にしてくれる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "そのおかげで……ライス、不安に思って\r\n1人で考え込んだりしなくて済んだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "ライスのお願いでオバケになって\r\nもらうのに……ブルボンさんは、\n真剣に考えてくれたから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "すっごくうれしくて……\r\nいまもうれしい気持ちでいっぱいなの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "だから、つまらなくなんかない。\r\nブルボンさんは、ライスのことを\nいっぱい楽しい気持ちにさせてくれる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "表情が変わらなくても、関係ないの。\r\nライス……そのままのブルボンさんが、\n大好きだよっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "…………。\r\n……そう、ですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "私、も……です。それに、\r\n『ヴァンパイアのお友だち』\n……とても、楽しみです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "あ……う、うんっ。\r\n衣装、がんばろうね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "後日、幽霊とヴァンパイアが手を繋いで\r\n笑っているのを見かけた。ふわふわと\n舞う布が、とても楽しそうに揺れていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

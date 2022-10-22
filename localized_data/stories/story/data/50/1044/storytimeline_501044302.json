@@ -1,0 +1,534 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "スイープトウショウと\n商店街を通りかかった時のこと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ん？\u3000なにかしら、あれ。\nなんか並んでる……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、楽しい楽しい福引だよ！\nなにが当たるか運試しにどうだい～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "へー、福引！\u3000なかなかたのしそうじゃない！\n使い魔、アレやるわよ！",
+      "ChoiceDataList": [
+        "でも福引券がないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ないならもらえばいいじゃない！\nなんでもいいから買い物するわよ！\nお菓子とか洋服とかカツカレーとかっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "とにかく福引まわすの！\nまわすまで帰らないんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "スイープトウショウに請われるまま、\n買い物をして福引券を手に入れた！\n当然、自腹だ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "じゃ、引くわよー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "クローブ☆クローブ☆クローバ～～っ！\n幸運の魔法よ、アタシにチカラを貸しなさい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "スイープトウショウは魔法を唱えると、\n勢いよく抽選器のレバーを回す。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なんとっ！\u3000おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "や――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "やった～～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "特賞！\u3000特賞だって！\nつまりイチバンすっごいのよ、使い魔っ！",
+      "ChoiceDataList": [
+        "さすがは君の魔法だ！",
+        "さすがは貴方の魔法だね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "えへへっ、そうでしょそうでしょ！！\nアタシは偉大で無敵な\n魔法少女スイーピーなんだからっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "偉大な魔法少女は心も広いから、\nチケットはアンタにあげる。さ、帰るわよ！",
+      "ChoiceDataList": [
+        "いいの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "だって温泉なんてヒマそうじゃない。\n広いお風呂はたのしそうだけど、\n学園のだって十分広いもん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "温泉旅行券をもらってしまった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "あ、そうだ！\u3000それあげるかわりに\n遊園地とかに連れてってよ！\nあと動物園と～、いちご狩りと～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "なんせ特賞なんだから\nそれくらいの価値があるってことよね！",
+      "ChoiceDataList": [
+        "じゃあ都合のいいタイミングで……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "しょーがないわねー。\nま、アタシだってヒマじゃないし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "レースの魔法をカンペキに覚えて、\nみんなをアッと言わせるほうが先だもん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "特賞のお返しは、\nそれが済んだらしてもらうから！\n忘れないように、約束の魔法ねっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "プリッジ・プレッジ・アナガリス！\nこの約束は、絶対に破れないんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "先にやりたいことがある。\nそう言ってもらえたことが嬉しかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女が大きな目標をやり遂げたら、\nその時は存分に祝ってあげたい――\nこの旅行券はそんな約束の証だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "わあ、なかなかおいしそうじゃない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "今日の晩ごはんはこれで決まりっ！\n使い魔、とっとと準備しなさい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "八百屋のおじさん",
+      "Text": "つけ合わせに野菜もどうだい？\n今日は飛び切りおいしいピーマンがあるよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "え～っ、いらないいらないいらないっ！！\nハンバーグだけで充分おいしいもん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そんなことより、早く帰って食べるわよ！\nほらほら、急ぎなさい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "スイープトウショウになかば引きずられつつ\n学園へ戻り、自室のキッチンで\nハンバーグを調理することになった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……って、ちょっと！！\nなんでピーマン添えてるのよ！！",
+      "ChoiceDataList": [
+        "余ってるのがあったから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "～～～～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "余っててもいらないに決まってるでしょ！\nせっかくの1等賞が罰ゲームになるじゃない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "まったく、ピーマンはアンタにあげるわ。\nハンバーグ作ってくれたごほうびよ、\nありがたくいただきなさい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "せっせとピーマンをこちらに渡してくる\nスイープトウショウだったが、\nおいしいハンバーグにはご満悦の様子だった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "2等賞～！！\n賞品は『にんじん山盛り』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "2等だって！\nなかなかすごいんじゃない！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "それで、山盛りにんじんって\nどんなものかしら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "きゃっ！？\u3000す、すっごい量……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "あはは、さすがのウマ娘さんでも\n食べきれないかもなあ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "はー！？\nぜんぜん1人で食べられるんだけど！？\n魔法少女スイーピーをなめないでよね！",
+      "ChoiceDataList": [
+        "本当に食べられる……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "食べられるわよっ！\n欲しがったって、わけてあげないんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、スイープトウショウは意気揚々と\n山盛りのにんじんを持ち帰ったのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……飽きた。あーきーたーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "もういらない！\u3000別のもの食べたい！\n使い魔～！\u3000なんとかしてよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "食べきれはするが、飽きる……！\nどうしたものかと頭を悩ませて――閃いた！",
+      "ChoiceDataList": [
+        "にんじんをお菓子にする魔法をかけよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "にんじんをお菓子にする魔法……？\nなにそれ、ちょっとおもしろそうじゃない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "せ～のっ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トレーナー＆スイープ",
+      "Text": "クック☆コンフェクト☆クック！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "やったわ！\n特製にんじんパフェ、できあがり～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……って、これ魔法じゃなくて\nお料理の気がしなくもないけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "まあいいわ、たのしかったし！\n使い魔にも、ひと口くらいならわけてあげる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "上機嫌なスイープトウショウに\nほっと胸を撫でおろす。\nどうやら、満足いただけたようだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "3等賞～！\n賞品は『にんじん1本』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "んもーっ！\u3000なんで特賞じゃないのよっ！\nちゃんと魔法を唱えたのに！",
+      "ChoiceDataList": [
+        "でも、おいしそうなにんじんだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "む……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そう言われてみると、\nたしかに濃いオレンジ色でツヤツヤで……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（カリッ……シャクシャク……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "お……おいしいっ！？！？\nなにこれすっごくおいしいわよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そっか！\u3000魔法のおかげで\nイチバンおいしいにんじんを\n引き当てられたんだわっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ふふんっ！\u3000やっぱりアタシってば\n天才魔法少女で間違いないわね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "スイープトウショウは喜んでくれたようだ。\n内心ホッとしながら、\n一緒に帰路についた……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "は……ハズレぇ～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そんなはずないわよ！\nちゃんと幸運の魔法をかけたんだもん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "うう～、やだやだやだ！\u3000もう1回引くの！\n使い魔っ、早く福引券もらってきて！\nアタシの魔法が失敗するなんて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "へ……へっくちょんっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "んもー！\u3000くじは当たらないし\n寒くてくしゃみ出るし、なんなのよー！\nへっくちょんっ！",
+      "ChoiceDataList": [
+        "はい、ティッシュ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "うう……こうなったらとことんティッシュを\n使ってやるわ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "（チーーーーンっ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "寒空の下、ティッシュに当たり散らすように\n鼻をかむスイープトウショウなのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

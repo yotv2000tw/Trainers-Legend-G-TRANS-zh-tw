@@ -1,0 +1,293 @@
+{
+  "Title": "“我が弟子”へ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……お出かけ中、サクラチヨノオーが\n幼いウマ娘と一緒にいるのを見かけた。\n挨拶しようと、声をかけると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いウマ娘",
+      "Text": "――おすッ！！\u3000ししょうッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "押忍ッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……はっ、つい反射的に。\nチヨノオーさん、この子は？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "や～、ここで会えてよかったですヤエノさん！\r\nこの子、あなたに弟子入り志願らしくて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ヤエノさんの走る姿を見て以来、\r\nずっと憧れてるそうなんです！\nちょっとお願い、聞いてあげてくれませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いウマ娘",
+      "Text": "――ごくいッ！！\nししょうの、ごくいの言葉！\nほしいんですッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "子どもはそう言うと、1枚の紙を\n取り出した。それにヤエノムテキからの\n『極意の言葉』を書いてほしい、らしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……なるほど。1つの真理は、\n即ち修行の指針そのものとなり得ますからね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ふぅむ。古典にはいささか通じておりますし、\n金剛八重垣流にも修行者への教訓は\n多く伝わっておりますが……これは難しい。",
+      "ChoiceDataList": [
+        "どうしてだ？",
+        "どうして？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "幼子が真剣に頼んでいるのです。\n安易に他者の言葉を借りるのではなく、\n私自身、心から極意と思える言葉でなければ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いウマ娘",
+      "Text": "おすッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……可愛い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "あの、私のチヨノートでお役に立てませんか？\r\n最近は調子がよくて、格言大豊作ですし\nよければ1つお譲りしますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "むむ……チ、チヨノオーさんの格言……\nお気持ちは本当にありがたいのですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "たった1つの言葉とはいえ、\n考え出すとなかなか出てこない。\nその後もヤエノムテキは悩み――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ううむ。教えの肝を言葉にまとめることが、\nこうも難しいとは……これも私の未熟ゆえか。",
+      "ChoiceDataList": [
+        "……大事なのは“言葉”か？",
+        "……大事なのは“言葉”かな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……？\u3000今、それ以上に\n大事なことがあるでしょうか？",
+      "ChoiceDataList": [
+        "身になる教えを授けること"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "…………！\nそうか！\u3000まさに……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "肝要なのは“よき言葉”を与えることに\r\nあらず。“よき教え”を授けること……！\nで、あるならば……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……そして。ヤエノムテキは、1文字も\n書くことなく、子どもに紙を返した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いウマ娘",
+      "Text": "……ごくい、もらえないんですか？\nわたし、ヤエノししょうの\nでしになれない……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……さにあらず。\n真にその紙に筆を走らせるべきは――\n貴方自身、です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いウマ娘",
+      "Text": "…………？\nおすっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "毎日の努力を、その真っ白い紙に記しなさい。\n貴方が本当に走者たり得たいのであれば、\n何があろうと毎日欠かさず。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "先ほども申したように、\n金剛八重垣流にも教訓や格言は多くあります。\nだが、あくまでそれは“道標”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――教えを“実”にできるのは、\nその道を己の力で歩む者のみ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "私も、かつては力任せに暴れることしか\n知らなかった。されど毎日の稽古を続け、\n少しずつ“技”を五体に刻んでいきました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "小さな1歩でも、ただ歩み続ける者だけが\r\n“本物”となる。私は、それを道場で学び……\n今も、歩み続けている最中です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……師の意図、わかっていただけますか？\n我が弟子よ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いウマ娘",
+      "Text": "……！\u3000おす！！\nありがとうございます！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いウマ娘",
+      "Text": "この紙がまっくろになるくらい\nしゅぎょうして……そして！！\nつぎのおしえを、こいに来ます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "うむ！\u3000一心に励め！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして、子どもは一礼を残し、\n駆け去っていった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "うわぁ～……すごいっ！\n本当に、師匠！\nって感じのやり取りでしたね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……私が“師”など、おこがましい。\n実は、そんな迷いもあったのですが……\n少し気が変わりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "己が得たものを、次の世代に伝えていく。\nそれだけでも、生涯かけて道を進み続ける\n理由たり得る……そう、悟りました。",
+      "ChoiceDataList": [
+        "いつか、師弟対決ができるといいな",
+        "いつか、師弟対決ができるといいね",
+        "……君こそもう、“本物”じゃないか？",
+        "……貴方こそもう、“本物”じゃない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "己が得たものを、次の世代に伝えていく。\nそれだけでも、生涯かけて道を進み続ける\n理由たり得る……そう、悟りました。",
+      "ChoiceDataList": [
+        "いつか、師弟対決ができるといいな",
+        "いつか、師弟対決ができるといいね",
+        "……君こそもう、“本物”じゃないか？",
+        "……貴方こそもう、“本物”じゃない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "そうですね。私が、道を歩み続け、\r\n無限に強くなっていけば、それも可能。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "事実、我が祖父母は、年を経るごとに\n強くなっておられる。たゆまぬ鍛錬に\n不可能はなし。レースも同じこと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……進まねば。これからも、長い長い道程を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "とんでもない。むしろ、片時でも\n自分でそう思ってしまううちは、\n“本物”とは呼べない、と心得ております。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "己が未熟であると思うからこそ、\n今より先へ進める……。これもまた極意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "つまりは……私には、\r\n“よき師”がまだまだ必要なのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

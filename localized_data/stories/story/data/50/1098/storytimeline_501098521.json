@@ -1,0 +1,53 @@
+{
+  "Title": "夜ふかし気味で……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ふ～む、なるほど……。これなら、\n昨日試した方法と組み合わせれば……。\n……ふむふむ、ふ、ふ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ふわあぁぁぁ～……。",
+      "ChoiceDataList": [
+        "最近ずっと眠そうだな",
+        "最近ずっと眠そうだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うん……風水の本をいくつか海外から\n取り寄せたんだけど、\nどれも理論が興味深くてさ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "読んでは試し、読んでは試しってやってたら、\n眠る時間があまりなくなっちゃって……。",
+      "ChoiceDataList": [
+        "あまり無理しないようにな",
+        "あまり無理しないようにね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "はぁ～い……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "勉強熱心なのはなによりだが、\nコパノリッキーは\n明らかに寝不足になっていた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

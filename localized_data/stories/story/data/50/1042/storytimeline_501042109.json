@@ -1,0 +1,452 @@
+{
+  "Title": "クリスマス",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "年の瀬、シーキングザパールから\n『クリスマスパーティー』の招待状が届いた。\n案内に導かれるまま会場へ向かうと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "――来たわねトレーナー。\nフフ、時間ぴったりよ。",
+      "ChoiceDataList": [
+        "あ、ああ……でも……",
+        "う、うん……でも……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "貴方はきっと、こう思っているのでしょう？\n『ホワイ？\u3000こんな場所でパーティー？』と！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ほーっほっほっほっ！\nほーーっほっほっほっほっほーーーーっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "――カモンッ！\n今宵を彩る、私たちのウィング！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（バラバラバラバラバラバラバラバラ……）",
+      "ChoiceDataList": [
+        "へ、ヘリコプターっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "フフフ……パピーのツテを借りて、\nチャーターしたのよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "さぁ、レッツフライト！\nブリリアントなイブの夜景を見に……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あれよあれよという間に座席に座らされ、\n気がつけば星の海を飛んでいた――",
+      "ChoiceDataList": [
+        "うわ、すごい……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "どうしても、貴方にこれを見せたかったの。\n見慣れた景色も視点を変えれば\nジュエリーのようでしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "店の灯り、家の灯り、オフィスの灯り、\nメニィピーポーの小さな光は……\nその全てが美しい宝石になれるのよ……。",
+      "ChoiceDataList": [
+        "なるほど、これも可能性だな",
+        "なるほど、これも可能性だね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "……オウ！\u3000そうよ！\u3000まさにその通り！\nフフ、もう言わなくてもわかってしまうのね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "さぁ、もうすぐ着くわ……\n今宵のメインアクティビティ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうして、つかの間のフライトを経て、\n降り立った場所は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エルコンドルパサー",
+      "Text": "ワアアアーーオッ！！\nパール先輩、ヘリで来たデェェース！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "グラスワンダー",
+      "Text": "まあ、トレーナーさんもご一緒なのですね？\nなんだか祖国でのパーティーを思い出します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エルコンドルパサー",
+      "Text": "わかるデース！\nエルのママとパパもホームパーティーには\n腕を組んで一緒に行ってたデース！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "グラスワンダー",
+      "Text": "欧米ではよく見る光景ですからね。\nふふふ、パール先輩らしいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "メリークリスマス！\u3000エブリワン！\nホワイトパールが空から降って来たわよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "すっげー！！\n空からなんてヒーローショーでも見ないぞ！\nパール先輩はゴージャスだなー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "あら？\u30002人ともスクールウェアで来たの？\nもしや、トレーニング帰りかしら？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "えへへ、当たり～☆\n時間ギリギリだったから\nこのまま急いで来ちゃった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "ううう、ごめんな。\nもっとオシャレしてくればよかったよな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "いいえ、ノープロブレム！\u3000むしろオーケイ！\nこんなこともあろうかと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "２人",
+      "Text": "うおおおっ！\nわあぁっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "すご～い！\u3000用意してくれてたの～っ！？\nかわいい～～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "おおおっ！\u3000ありがとうっ！\n一気にパーティーって感じになったぞ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "フフフ……！\nますますボルテージが高まったようね……♪",
+      "ChoiceDataList": [
+        "さすが、用意がいいんだな……！",
+        "さすが、用意がいいんだね……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ホストとして当然の気遣いよ。\n全ては素敵なパーリィを実現させるため。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "私はディスティニーを感じる仲間たちと\n最高の思い出を作りたかった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "そして！\u3000みんなに貴方を\nもっとよく知ってもらうために、\nふさわしい場を作りたかった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "だって貴方は、私の自慢のトレーナーだもの！",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "グラスワンダー",
+      "Text": "なるほど、それでこのような場を。\nあなたの強さの秘訣は、彼にあると……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "グラスワンダー",
+      "Text": "なるほど、それでこのような場を。\nあなたの強さの秘訣は、彼女にあると……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――彼女はグラスワンダー。\nアメリカ生まれの大和撫子で、\n確かな実力を持った芯の強いウマ娘だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "グラスワンダー"
+      ]
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "そう言っても過言ではないわ。\nフフ……興味があるみたいね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "グラスワンダー",
+      "Text": "ええ、お強い方々のことは気になりますとも。\n歩んできた道も、目指す先も……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "グラスワンダー",
+      "Text": "私もこの先、\nあなたの胸を借りるかもしれませんから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "そのファイティングスピリット、グッド……！\nオーケイ！\u3000今夜はたくさん話しましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ほーっほっほっほ！\u3000さぁエブリワン！\nパーティー、スターティンよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、クリスマスの夜は\nにぎやかに更けていくのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ラグジュアリーなホテルの屋上だった。\n屋上から階下へ降りるなり、彼女は言った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "プレゼントは夜景だけじゃないわ。\nスペシャルなクリスマスディナーを、\nフォー・ユー！！",
+      "ChoiceDataList": [
+        "せ、生徒からそんな高価なプレゼント……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ノープロブレム！\nマミーが『いつもお世話になっている彼を\n招待してあげて』って、予約をしてくれたの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ノープロブレム！\nマミーが『いつもお世話になっている彼女を\n招待してあげて』って、予約をしてくれたの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "マイパピー＆マミーは、海外転勤が多いから、\n私を近くで支えてくれる貴方を、\n本当に特別に思っているみたいよ……♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "このサンキュー、無下にするのはノーグッド！\nそれほど感謝しているということなのだから。",
+      "ChoiceDataList": [
+        "……わかった。そういうことなら！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "フフフ、アンダスタンみたいね。\nそうよ、貴方はスペシャルなギフトを\n受け取るべき、素晴らしい人間なの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "だって、この私をオールウェイズ支えて、\nここまで走り続けてきたのだから……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ほら、ついていらっしゃいな。\n今夜はロマンチックに楽しみましょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "――それじゃあトレーナー。\n美しい夜景と、聖なるイブに、乾杯。",
+      "ChoiceDataList": [
+        "乾杯"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ン～、今年のスパークリング\nキャロットジュースはいい出来ね……♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "この豊かなテロワール、\nフレッシュな甘み、ノルマンディー産かしら？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ソムリエ",
+      "Text": "――ご名答です。いつもながら、\n素晴らしい味覚でいらっしゃいますね。",
+      "ChoiceDataList": [
+        "すごい……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "フフフ、幼いころからよく飲んでいたもの。\nこれくらいイージーよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "貴方はどんなテイストがお好みかしら？\n2本目は、私がセレクトしてあげるわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そして、食後のコーヒーが運ばれて来た頃、\n用意してきたプレゼントを取り出した。\n少し緊張しながら手渡す。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "まぁ……！\n貴方もプレゼントを用意してくれていたの？",
+      "ChoiceDataList": [
+        "ささやかなものだけど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ンン～～～……\nンンン～～～～～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "…………………………。",
+      "ChoiceDataList": [
+        "（もっと奮発すればよかったかな……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "センッッキューッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "『ささやか』……だなんて……\n貴方からのギフトなら、\nなんだってプレシャスに決まっているわ。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "見ての通り、私はゴージャスなウマ娘だけど、\nプレゼントもそうである必要はないの……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "だって……嬉しいのはマインド！\nそして悩んでくれたタイム！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "それら全てが、私と貴方に\n最高のエクスペリエンスを創るのだから……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "フフフ、フフフフフ……！\nねぇ、さっそく開けてもいいかしら？",
+      "ChoiceDataList": [
+        "もちろん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ワーオッ！！\u3000アメージングッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、ファビュラスでロマンチックな\nクリスマスの夜は更けていった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

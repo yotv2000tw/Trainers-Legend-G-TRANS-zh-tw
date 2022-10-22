@@ -1,0 +1,255 @@
+{
+  "Title": "デビュー戦の後に・意外な弱点",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メイクデビュー。タマモクロスは\n無事に走り切ったものの……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "くぅぅ……なんや？\n脚が……おぼつかん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ジュニア級でも揉まれるとキツいんか？\r\n腹から力が……湧いてけぇへん……。",
+      "ChoiceDataList": [
+        "タマモクロス！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "いったん休ませてから、今日の振り返りと\n今後の予定について話すことにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "べ、別に大したことやあらへんっ。\nちょっと疲れただけや。",
+      "ChoiceDataList": [
+        "ちゃんと食べなかったのが響いたのでは？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "う、それは……。\r\nまあ少しはあるかもしれへんけど……。",
+      "ChoiceDataList": [
+        "大事なレース前なのに、なぜ……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "うう、それは……。たいした話や\nないんやけど、その、な……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチ、そんなに食えへんのや。\n昔っから、そうやったから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ほら、チビたち！\u3000姉ちゃんの食いもんも\r\nやるで！\u3000それじゃ足らへんやろ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの弟",
+      "Text": "ええっ、いいのタマねぇね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの妹",
+      "Text": "ねぇねもたべたいんじゃ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチは今ハラいっぱいなんや。さっき\r\nお隣さんから、かすウドンもらってしもてな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せやから姉ちゃんの代わりに食っとき。\r\nよう食わんと、大きくなれへんで？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……チビたちに優先して食わせてたら、\r\n胃が小さくなってしもたんや。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せやから、あんまり食わんで\r\n集中するのが、ウチのやり方やねん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "染みついたやり方は、簡単には変わらへん。\r\n今さら食う量、増やそうとしても……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……おそらく試してはみたのだろう。\nでも食べられないようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "とはいえ長年の食習慣を変えていかなければ、\nアスリートらしい体を作ることはできない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ええねん。飯なんか食わんでも、\nウチには浪速のド根性がある！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "この根性で、次はGⅠ行くで！\n『ホープフルS』とかどや？\n早いところ、故郷に錦を飾らんと――",
+      "ChoiceDataList": [
+        "目指すのはいいけど、目標にするのは……"
+      ],
+      "ColorTextInfoList": [
+        "GⅠ",
+        "ホープフルS"
+      ]
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なんでやねん！\u3000いけるわ！\nノリ悪いわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "トレーナー、ここは勢いやろ。難しいこと\n言わんで、ノッときゃええねん！",
+      "ChoiceDataList": [
+        "将来のためにも、体作りを優先しないか？",
+        "将来のためにも、体作りを優先しない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "そんな、ちんまいことやってられへん！\nウチは大丈夫や！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "家族のために、どんなガタイの\r\nええヤツも弾き飛ばしたる！\nもうデビュー前のウチやないで！",
+      "ChoiceDataList": [
+        "じゃあ明日テストしてみる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おう？\u3000テスト？\u3000やったろやないか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ボーーーノーーー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "どわぁぁぁぁ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ボイーン！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "大相撲メイクデビュー場所。タマモクロスは\r\nビッグな横綱ヒシアケボノに、押し出しで\n敗れた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ヒシアケボノ"
+      ]
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "弾き飛ばせるかー、こんなん！",
+      "ChoiceDataList": [
+        "じゃあ体作りに専念する？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "チッ、上にはこんなデカいヤツがゴロゴロ\r\nおるんか。やとしたら……たまらんわ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "わかった。しばらくは体を強くしながら、\nせこせこレースやな。で、いつまでや？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "考える。今から体質改善に望んでも、\n一朝一夕に効果が出るわけではない。\nとすると、いったんの区切りは……。",
+      "ChoiceDataList": [
+        "――来年の春。クラシック三冠の手前まで"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "長いわ！\u3000やっぱ、すぐGⅠ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ボ～ノ～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "だぁぁぁぁ、わかった！\u3000わかったわ！\n来年の春までやな。なら、そこまで\n食いまくったる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――こうして来年の春までは、\r\nじっくりレースに出ることにしたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

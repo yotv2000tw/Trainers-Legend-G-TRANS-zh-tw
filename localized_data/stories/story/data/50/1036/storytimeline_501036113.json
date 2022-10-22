@@ -1,0 +1,489 @@
+{
+  "Title": "Noizy Dayz",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "――はァ……は～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "さすがに……心拍の限界まで……\n負荷かけ続けンのはヤベェな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "はァ……タイムは？",
+      "ChoiceDataList": [
+        "キープできてるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "は～～……もう1セット……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……やるか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その日エアシャカールは、\n心肺機能を強化するため、朝早くから\nプールトレーニングに励んでいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "はァ……時間だな。\n片づけ任せる。",
+      "ChoiceDataList": [
+        "授業、頑張ってな",
+        "授業、頑張ってね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "アー。",
+      "ChoiceDataList": [
+        "（授業かぁ……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、取材に関する確認事項を\n伝え忘れていたことを思い出し、\nせっかくなので彼女の教室まで向かった。",
+      "ChoiceDataList": [
+        "（クラスでの様子も知っておきたい）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "――だから、『たかし君』の存在について\n議論すンのは無駄だっつってンだろ。\n絡ンでくンな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "『たかし君は5.6km先を歩くお兄さんに\n5分後に追いつきました』……この時点で\nバカだろ。とりあえず人の名前つけただけだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "私が議論したいのは、\n『たかし君』そのものではなく、\n彼を実在させる方法についてだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "私とシャカール君が組めば、\n時速67kmで走る人間の可能性も追求できる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "レースの研究にも活きるかもしれない！\nワクワクするねぇ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "なぁ、カフェもそう思うだろう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "カフェ"
+      ]
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "知りません……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "つれないねぇ。\n……と？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "シャカール君、君にお客さんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ア？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "――いや、その件はお前に任せる。\n必要なら記者側にデータ渡しとけ。",
+      "ChoiceDataList": [
+        "じゃあ、こっちで対応しておく"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "つか、そンだけの用事なら\nLANEで済ませろよ。",
+      "ChoiceDataList": [
+        "近くを通りかかったから……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "というより、普段のシャカール君の様子を\n見ておきたかったんじゃないのかな？",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "うんうん。君は本当にシャカール君への\n興味関心が強いねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "であれば、改めて\n友人紹介もしたほうがいいかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "はァ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "知っていると思うが、私はアグネスタキオン。\nそしてこちらがマンハッタンカフェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "アグネスタキオン",
+        "マンハッタンカフェ"
+      ]
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……こんにちは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "実験が大好きなウマ娘、アグネスタキオンと\n不思議な雰囲気を持つマンハッタンカフェ……\nいずれも将来有望なウマ娘だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "我々はまだデビューしていないが、いずれ\nシャカール君とぶつかることもあるだろう。\n……いや、確証のない話だがね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "シャカール君は日々、私やカフェのような\n素晴らしい友人に囲まれて、面白おかしい\n愉快な学園生活を送っているよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "だろう、2人とも？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シャカール＆カフェ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "もう用は済ンだな？\nさっさと行け。",
+      "ChoiceDataList": [
+        "あ、ああ……",
+        "う、うん……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "先ほどの様子を見ていると、\nクラスで彼女は自分らしくやっているらしい。\nほんの少し、普段の雰囲気が見えた気がした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "……ふふっ♪",
+      "ChoiceDataList": [
+        "……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "あら。\nキミがとても嬉しそうで、つられちゃった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――ファインモーション。ある王族に連なる\n高貴な身分のウマ娘で、エアシャカールと\n一緒にいるところをたまに見かける子だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ファインモーション"
+      ]
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "ねぇ、楽しいお話？\nもしよかったら、聞かせてくださる？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "ふふっ、そうだったんだ。\nタキオンはやっぱり、楽しい子だねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "タキオン"
+      ]
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "分野はきっと違うのでしょうけれど、\nタキオンと難しい話をしている時の\nシャカールは、私には楽しそうに見えるよ。",
+      "ChoiceDataList": [
+        "確かにそう見えた……かも"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "なら、合っているのかも！\nトレーナーの貴方が言うんだから。",
+      "ChoiceDataList": [
+        "今は、“トレーナーなだけ”なんだけどね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "理解度は出会った時点から深まっていない。\nそれに関係性自体も、期待されているのは、\n現状では不確定要素としてだけだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "でも……今は、なんだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "あのね。私がシャカールと初めて話した時……\n『近寄るな』って言われたの！",
+      "ChoiceDataList": [
+        "へ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "真っすぐ、目を見て。『関わるな』って、\n言葉でも態度でも拒絶されたの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "それがすごく新鮮で、嬉しかったんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "迂遠な言葉も美しくて好き。\nそこに込められる思慮が好きだよ。でも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "思考と言葉と体、全てをズレなく、\nシャカールは見せてくれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "だから私も、できる限り\n素直でいたいなって思うの。",
+      "ChoiceDataList": [
+        "素直？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "うん。ただ自分であること……\nどうあるか迷わないことかなって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "自分の成すべきことをすることが、\n彼女と向き合うことに繋がると信じてる。",
+      "ChoiceDataList": [
+        "成すべきこと……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "シャカールと一緒だと、\nより一層、感じるの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "自分がどうしたいのか……\nどうすべきなのか。",
+      "ChoiceDataList": [
+        "ファインモーション、君は……",
+        "ファインモーション、貴方は……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "あ！\u3000今日の話だけれど。\nシャカールにはヒミツね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "『何を吹き込んでたんだ』！\nって、言われちゃうから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインのSP",
+      "Text": "殿下、そろそろ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "ええ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "またゆっくり、おしゃべりしようね。\nそれじゃあ、ごきげんよう♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ファインモーションの言葉を反芻する。\n自分の成すべきこと……それをもっと、\n考えるべきなのかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……オイ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "お前……ファインと話してただろ。\n騒いでンの、廊下からも見えたぜ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ファイン"
+      ]
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "あの殿下サマに、\n一体なにを吹き込まれてたンだ？",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……オイ、なににやけてンだ。\nマジで吐け、今ココで。",
+      "ChoiceDataList": [
+        "秘密の約束なんだ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "チッ……。\nぜってェ余計なこと言ったな、アイツ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "つか、\nヘラヘラしてる暇あンのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "7cmは動く余地すらねェ。\n遊ンでる時間使ってお前も考えろ。",
+      "ChoiceDataList": [
+        "考えろ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "言っただろ。\n不確定要素でもなンでも、有用なら使う。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "それはお前のアイディアも同じだ。\nミリも期待してねェが、\n同じ0でもあるのとないのとでは違う。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "だから考えろ。\n本物の置物扱いがイヤだったらな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "エアシャカールは自分の存在そのものを\n不必要だと言ったことはない。ならばまだ、\nトレーナーとしてすべきことは必ずある。",
+      "ChoiceDataList": [
+        "ありがとう、頑張る！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "張り切れとは言ってねェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

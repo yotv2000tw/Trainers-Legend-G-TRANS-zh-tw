@@ -1,0 +1,78 @@
+{
+  "Title": "レース入着",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ただいま～！\n本気でぶつかってきたよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "けど、少し足りないというか……\r\n最後にこう、もう1回――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ドスコーイ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "っていきたかったな！\nくぅ～！",
+      "ChoiceDataList": [
+        "でも充実したレースだった",
+        "次は白星をあげよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーニングの成果が出た\nいいレースだった、と伝えた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ありがと～、トレーナーさん！\nじゃあ、このままがんばれば……！",
+      "ChoiceDataList": [
+        "もっと強くなれる！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うん！\u3000あたし、もっとがんばって、\nもっと強く、もっと大きくなるからね～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うん！\u3000次は文句なしの、\nボーノな白星ゲットだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさん、帰って稽古しよ！\n思いっきりぶつかってくからね～！",
+      "ChoiceDataList": [
+        "ぶ、ぶつかるのはちょっと……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あ、えへへ……は～い！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

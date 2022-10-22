@@ -1,0 +1,240 @@
+{
+  "Title": "届けボーノ！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――厳しいトレーニングであっても、\r\nヒシアケボノは常に笑顔だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女のために、出来る限りのことをしたい。\r\nそう思い、睡眠時間を削りながら\n試行錯誤していた、ある休日のこと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさん、こんにちは！\r\n休日なのに、やっぱりここにいたね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "おやつの時間だよっ☆\u3000休憩しよ～！",
+      "ChoiceDataList": [
+        "いや、まだやることが……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "1名様、ご案内しま～す！",
+      "ChoiceDataList": [
+        "え！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "よいっしょ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "危ないから、じっとしててね～！\r\nしゅっぱ～つ☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "突然、ヒシアケボノに担がれ、\r\n連れて来られたのは――",
+      "ChoiceDataList": [
+        "どうして、カフェテリアに……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "お願いして、ちょこっとだけ\r\nキッチン貸してもらったんだ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "いくつかはもうできてるの！\r\nすぐに持ってくるからね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさん、お待たせっ☆\r\nまずはドーナツのアイス添えで～す！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "机の上に置かれたのは半分チョコのかかった\r\n可愛らしいドーナツと、エメラルド色の\n綺麗なアイスクリームだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "だが、それよりも気になったのは――",
+      "ChoiceDataList": [
+        "それ、勝負服？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うんっ、すっごくいいよねっ。\r\nお願いしたとおりに作ってもらえて嬉しい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あっ、アイスが溶ける前に食べてっ。\r\nまだまだ次が出てくるからね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "キッチンから次々に運ばれてくるスイーツ。\r\n優しい甘さが体に染み渡り、お腹も\nいっぱいになり始めた頃、ふと気がついた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ん？\u3000どうしたの～？",
+      "ChoiceDataList": [
+        "もしかしてこのスイーツって……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あ、気がついた！？\u3000えへへ、そうなんだ～。\r\nいま出したものぜーんぶ、\nこの勝負服にあるものなの～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ドーナツ、アイス、いちごケーキ――\r\n確かに、すべて勝負服にデザインされている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "んっとぉ……トレーナーさん、\r\nドーナツやケーキ、ボーノだった？",
+      "ChoiceDataList": [
+        "とっても！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あははっ、よかった！\r\nやっぱりボーノって、幸せだよね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "満たされて、幸せな気持ちになって……\r\n自然と笑顔になれちゃう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "だから、レース前や終わった後、\r\nみんながこの勝負服を見て、少しでも\nそんな気持ちになってくれたらな～って！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "それで、今のトレーナーさんみたいに\r\n心から笑ってくれたら、すっごく嬉しい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……言われてみれば、このところ忙しさに\r\n追われて表情も険しくなっていたかも\nしれない。",
+      "ChoiceDataList": [
+        "ありがとう、ごちそうさま！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "どういたしまして！\r\nでもまだクッキーが残ってるから、\n焼いてくるねっ☆",
+      "ChoiceDataList": [
+        "靴と背中にあるクッキーだね",
+        "手伝うよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "せいか～い！\r\nでも、他にも色んな形を作るよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "えへへ～。トレーナーさんは\r\nどんな形が好きかな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "待っててね！\r\nい～っぱい笑顔になれるように、\nボーノを届けるからっ☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "温かで優しい甘みのクッキーは、\r\nまるでヒシアケボノの願いを\n表しているようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "えっ、大丈夫だよ～！\r\nトレーナーさんは疲れてるんだし、\n今日はゆっくり――",
+      "ChoiceDataList": [
+        "一緒に『ボーノ』を作りたい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "一緒に、ボーノを……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……そっか。うん、そうだね！\r\nあたしとトレーナーさんは、\n一緒じゃなくちゃ☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "いっぱい作ろ、トレーナーさん！\r\nたくさんのボーノ！\u3000たくさんの笑顔を☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "2人で作ったクッキーの味は、\r\n色々な形、味が混じり合い、楽しくて\n最高にボーノ！\u3000な仕上がりだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

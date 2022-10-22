@@ -1,0 +1,669 @@
+{
+  "Title": "凸凹ぶつかり稽古！？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "TVの音",
+      "Text": "『――こうして、相撲部屋の明日を担う若い\r\n兎真山【うまやま】と牟守海【むすのうみ】\nは今日もぶつかり稽古を続けるのだった……』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……はぁ～、面白かった～！\u3000やっぱり、\r\n『映画・青春どすこい物語』はいいなぁ～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさん、\r\nテレビ貸してくれてありがとう～！",
+      "ChoiceDataList": [
+        "いえいえ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ビコーちゃんは、どうだった～？\r\n最後の兎真山と牟守海のライバル対決！\n胸が熱くなったね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "……決めた！！\r\nボノ！\u3000アタシと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "ぶつかり稽古しよう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……ええっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "――さあっ、遠慮しないで\r\n思いっきりぶつかってきてくれ、ボノ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ん～……やっぱりやめようよ～？\r\nビコーちゃん、ケガしちゃうかも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "けど、全力のボノとぶつかり合いたいんだっ！\r\n兎真山と牟守海がでっかくなれたみたいに――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "アタシもぶつかって強くなりたい！\r\n胸を貸してくれっ、ボノ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うぅん、気持ちはわかるけど……\r\nあたしが本気でぶつかったら、ビコーちゃん\n天井突き抜けちゃうかも～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "うっ！？\u3000そ、それは困る……！\r\nじゃあ、ボノが本気出せる勝負にしよう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "例えば……食べるのは！？\r\n早食いとか大食いなら、アタシもできる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "なるほど～、食べる対決かぁ。\r\nそれなら危なくないかな～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさんはどう思う～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "食べる対決なら危険も少なそうだが、\r\n勝負が変わるならそもそも対決の意味も\nなさそうな気もする。ここは――",
+      "ChoiceDataList": [
+        "早食い対決にしよう！",
+        "大食い対決にしよう！",
+        "対決はなし！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "は～い。\r\nじゃあ、準備しよっか～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "早食いといえばホットドッグ……は、\r\nなかったから、焼きそばパンだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "よーし！\u300010個勝負だね！\r\nビコーちゃん、負けないよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、焼きそばパン早食い対決が\r\n始まり……結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "わぁ～、勝てた～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "くそ～っ！\u3000早食いは自信あったのに……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "2人とも最初からハイペースで食べ続けたが、\r\n中盤からヒシアケボノがペースを上げ、\n見事勝利した！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "やっぱり食べることじゃ敵わないのか！？\r\nうーっ、悔しい～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ビコーちゃん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……あたし、口がおっきいから～。\r\nいっぱい詰め込めたみたい～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "……ん？\u3000ホントだ！\r\nボノ、口おっきいなぁ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……そういえば～、\r\nまだお腹すいてるかも～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ビコーちゃん、\r\n食べちゃおうかなぁ～……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "……！？\u3000だ、ダメダメ！\r\nアタシは食べちゃダメだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あっ、逃げちゃった～。\r\nお醤油かけてちゅるっとさせて～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "こらっ、ボノ！\u3000なにす――あははっ！！\r\nちょ、くすぐりは卑怯だぞっっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うふふ、おいしくなるおまじないだよ～。\r\nこしょこしょ～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "対決の結果はどこへやら……しばらく、\r\n2人の軽やかな笑い声が響いたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "――やったぁ！！\r\nアタシの勝ちだぁ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "おめでとう～、ビコーちゃん！\r\nすっごい速かった～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ヒシアケボノも健闘したが……\r\nビコーペガサスの執念が勝ったようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "へへん！\u3000早食いはできるほうなんだ！\r\n磨き上げてきたからな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "キャロットマンを見るのにさ、\r\nご飯食べながらだとちょっと失礼だろ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "だから早く食べる癖がついたんだ！\r\nお母ちゃんには怒られるけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "それだけキャロットマンが好きなんだね～。\r\n早食いはビコーちゃんの武器だったんだ～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "武器……！\u3000よーし、\r\nもっと磨き上げるぞ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "じゃあ、あたしもお手伝いするよ～。\r\n焼きそばパン、い～っぱい作るからね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "おお～、さすがボノ！\r\nベジー博士みたいだ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "よーしっ！\r\n2人で早食いを極めようっっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "お～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "なんだか話が食い違ってきた気もするが……\r\n念のためよく噛んで食べるよう話しつつ、\n2人の挑戦を見守ることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "は～い。\r\nじゃあ、準備しよっか～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "肉まん、いっぱい仕込んできたから、\r\nいくらでも食べてね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "うわぁ、アツアツで美味しそう……！\r\n早く食べよう、ボノ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、肉まん大食い対決が\r\n始まり……結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "――ごちそうさまでしたっ☆\r\nふぅ～、お腹いっぱい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "も、もう入らない……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "肉まん3個同時食いなどの大技を見せた\r\nヒシアケボノが大差勝ちした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "……ごめんっ、ボノ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……？\u3000どうしたの～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "兎真山と牟守海みたいな、\r\nいい勝負したかったのに……\nアタシ、ダメダメだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "ボノにとっていいライバルになれなかった……\r\n悔しいなぁ～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ビコーちゃん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……『だったら次は勝ってみせなよ、\r\nキャロットマン！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "……！\u3000そのセリフは……キャロットマンの\r\nライバル・キューカンバーマンと\n戦った時の……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "『君が何度でも挑んでくれば、その分\r\n私は強くなれる……だからキャロットマン！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "――『その心に正義の炎が\r\n燃え続ける限り、ぶつかってこい！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "そっか……そうだったのか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "兎真山と牟守海は、キャロットマンと\r\nキューカンバーマンだったのか……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ね、似てるよね～。\r\nだからね、ビコーちゃん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "またいつでもぶつかっておいで。\r\nあたしはそれが嬉しいからっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "……ああっ！\r\n次はご飯もので決着をつけよう！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、ヒシアケボノとビコーペガサスは、\r\nぶつかり合いで友情を深めたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "――55個め！\u3000トレーナーさん、\r\n次の肉まんお願いしま～す♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "あ、アタシも――うっ……。",
+      "ChoiceDataList": [
+        "……勝負そこまで！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "……！",
+      "ChoiceDataList": [
+        "勝者、アケボノ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "勝った～……けど、ビコーちゃん大丈夫～？\r\nお腹、痛くない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "ボノのトレーナーが腹9.5分目で\r\n止めてくれたから、大丈夫だ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "けど、悔しいなぁ……！\r\nあと半分くらいは入ったのに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "じゃあ、デザート食べる～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "へっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あたしもまだお腹すいてるんだ～。\r\nせっかくならいっぱいまで食べようよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "リクエストくれたら、なんでも作るよ～。\r\nあ、バケツいっぱいの杏仁豆腐はどう～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "ボ、ボノ～～っっ！\r\nさっきのは強がりだっ！\u3000もう入らないよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ありゃ、そうなの～？\r\nけど、デザートは別腹っていうし――",
+      "ChoiceDataList": [
+        "ア、アケボノ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、大食い対決は余力を残した\r\nヒシアケボノの勝利で終わった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "――んん～っ♪\r\nふっくらふわふわでおいしいねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "これ、ボノが作ったのか！？\r\nホントにふわっふわだぁ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ふふっ♪\u3000実はね～、仕込むついでに\r\n小籠包とかシューマイも蒸したの～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "食べる～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "……！！\r\n食べたいっっ！\u3000お手伝いするぞ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "――は～、全部美味しかった！\r\nボノの中華料理、味が濃くって好きだ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "えへへ、たくさん食べたね～。\r\nお腹いっぱいで動けないや～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさんも、おいしかった～？\r\n今日はもう大満足だね～♪",
+      "ChoiceDataList": [
+        "……勝負は？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "……あっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……食事を思い切り楽しんだことで、\r\n2人の対決は流れてしまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "ええっ！？\u3000どうしてだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "対決ともなれば、ヒートアップして\r\n万が一にも危険を伴うかもしれない。\nけれど正直にそう伝えるのもヤボなので……。",
+      "ChoiceDataList": [
+        "もうぶつかり稽古は始まってる！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……！！\r\nなるほど～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "な……なんかカッコいいけど！\r\nどういう意味だっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あのね～、トレーナーさんは、\r\n気持ちのお話をしてるんじゃないかな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ビコーちゃんが、あたしと全力で\r\nぶつかりたいって思ってくれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "兎真山が、牟守海に挑んだことが、\r\n全部の始まりだったみたいに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "！！\r\nそれって……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うん～。ビコーちゃんはもう、強くなる\r\n最初の一歩を踏み出せてるってことだよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "な、なるほどー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ふふっ。じゃあ力試しに、\r\n一緒に走りに行こうか～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "ああ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして2人は争うことなく、\r\n仲良くコースへ向かったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

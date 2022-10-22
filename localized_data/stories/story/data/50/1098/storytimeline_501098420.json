@@ -1,0 +1,40 @@
+{
+  "Title": "目標達成の後に・入り混じる黒白",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "コパノリッキーは仲間たちとトレーニングに\n励む。その中で、芝でも走れる可能性が浮上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "クラシック級では三冠路線の方が注目され\nやすく、風水も広めやすい。ダートか芝か――\nコパノリッキーは選択を迫られる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "クラシック級"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "だがコパノリッキーは――\nあえて『選択しなかった』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "まずはダートの『伏竜ステークス』に出走し\n適性を見る。その上で、芝GⅠへの挑戦を\n再度検討することにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "伏竜ステークス",
+        "GⅠ"
+      ]
+    }
+  ]
+}

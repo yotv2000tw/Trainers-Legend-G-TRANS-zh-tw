@@ -1,0 +1,356 @@
+{
+  "Title": "今はまだ蕾だけれど",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "よろしくお願いします、トレーナーさん！",
+      "ChoiceDataList": [
+        "無理せずゆっくりやっていこう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はい！\u3000治すこと優先……リハビリがんばるっ、ですね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "リハビリ中で本格的なトレーニングには入れない。\r\nしかし、やれることがないわけではない。むしろ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先輩トレーナーA",
+      "Text": "お、<username>！\u3000なんだか元気になった？\nよかった、心配してたんだよー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先輩トレーナーB",
+      "Text": "落ち込んでたからさ、みんなで飯でもご馳走してやろうって――",
+      "ChoiceDataList": [
+        "先輩がた！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "うわっ！\u3000な、なに！？",
+      "ChoiceDataList": [
+        "実は教えていただきたいことが……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先輩トレーナーA",
+      "Text": "足りないものを補いたい、か……よし、任せて！\u3000経験することも\n大事だけど、先輩として伝えていくことも必要だと思うから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先輩トレーナーB",
+      "Text": "俺の担当した子で、同じケガをした子がいるんだ。\nその時の資料が残ってるから、あとでコピーを渡すよ。",
+      "ChoiceDataList": [
+        "お2人とも、ありがとうございます……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "頑張れ、後輩！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "先輩たちからのアドバイス、図書室の本、過去の資料――\r\nありとあらゆるものから、リハビリのメニューを考えていく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それだけでは足りない、リハビリ後のことも\nしっかりと考えていかないと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "トレーナーさん、お昼ご飯はもう食べましたか？",
+      "ChoiceDataList": [
+        "え、もうそんな時間？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はい。実はもうちょっぴり過ぎてます。\nそれで、あの……これを、トレーナーさんに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "一緒に食べようと思って、作ってきたんです。\n甘酢の肉団子は、ちょっと自信ありなんですよ。えへへ。",
+      "ChoiceDataList": [
+        "ありがとう、嬉しいよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ふふっ、よかったぁ。他にも食べたいものがあったら、\n教えてください。次のときの参考にします♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――そうして、リハビリの日々はあっという間に過ぎていき、\nついにトレーニング再開の日がやってきた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "いよいよ、ですね……！\nよろしくお願いします、トレーナーさ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "ウェイ、ウェーイ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "併走、ウェーイ！\u3000マジ短コース、爆逃げ決めてくし～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "マジ、それな～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "むっ。次は坂路ですか、いいでしょう！\u3000どんな坂も壁も\n乗り越えてみせますとも！\u3000なんせ学級委員長ですから！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（みんなすごい……！\u3000でも、私も今日からはっ）",
+      "ChoiceDataList": [
+        "まずは負荷の軽いダート練習から始めよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "えっ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "このメニューじゃ心配？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……。いいえ！\u3000トレーナーさんが作ってくれたメニュー、\n私、信じてます。だからもう、焦ったりしませんっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あらためて、よろしくお願いします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうしてトレーニングは開始され、\n順調に本来の走りを取り戻していったニシノフラワー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "このまま彼女のために全力を尽くそうと学び続けていた、\r\nある日のこと――学園で、模擬レースが開催された。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "も、模擬レース……うう、緊張します……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（あのときは、全然追いつけなくて……苦しかったけど）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（でも、でも……トレーナーさんと一緒にがんばってきたから、\r\nきっと、前みたいな走りには――……？）",
+      "ChoiceDataList": [
+        "だだっ、大丈夫、大丈夫！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……トレーナーさん、震えてます。\n緊張しているんですか？",
+      "ChoiceDataList": [
+        "ちっとも！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……裏返った声では、説得力は皆無だ。\r\nだが、いかに緊張していようとも、彼女への信頼は揺るがない。",
+      "ChoiceDataList": [
+        "今のフラワーなら勝てる……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "！\u3000トレーナーさん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……すぅ、はー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "――はい！\u3000行ってきます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "※SE用のダミーテキストです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『今のフラワーなら勝てる……！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（震えた声……でも、はっきりと言い切ってくれた。\n勝てるって。今の私なら勝てるって）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（だから、私も応える。\n信じてくれたトレーナーさんへ、勇気を送るの）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（大丈夫、大丈夫です。そうやって、励ますように。\n私の走りで、伝えなきゃ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（お父さんやお母さんが笑ってくれた――あのときみたいに！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はぁぁああああ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（たくさんの人たちの勇気となれるように……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況係のウマ娘",
+      "Text": "……ゴォォオオル！\n1着はニシノフラワー！\u3000ニシノフラワーです！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "トレーナーさん！",
+      "ChoiceDataList": [
+        "おめでとう、おめでとう！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はいっ、はい！\u3000ありがとうございます！\n私、私……これからもっと、もっと……！",
+      "ChoiceDataList": [
+        "君のトレーナーとして、頑張るぞ！！",
+        "貴方のトレーナーとして、頑張るよ！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……っ！\u3000トレーナーさぁあん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "歓声の中で、ニシノフラワーは笑う。それはいつか一緒に見た、\n花々の姿を思い出させるような笑顔だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（私のトレーナーさんは、とっても一生懸命な人です。\r\nがんばり屋さんで、つい無理をしてしまう人）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（――だからいつか、GⅠで1着になって、\r\nあなたに勝利をプレゼントしたいです）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（がんばり屋さんのトレーナーさんへ。\r\nいつも支えてくれて、ありがとう）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（勇気をもらってくれて、ありがとうって）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

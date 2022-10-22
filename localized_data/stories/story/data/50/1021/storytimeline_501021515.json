@@ -1,0 +1,206 @@
+{
+  "Title": "ウチに似合う服",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある休日の昼下がり。\nショッピングモールでなじみの声を聴いた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "よーし！\n覚悟は決まったか、クリーク！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "はい、タマちゃん先輩♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おっ、トレーナーやんか！\nアンタも勝負に参加するんか？",
+      "ChoiceDataList": [
+        "なんのこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "知らんかったん？\n今日は、このモールの大バーゲンやで！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "お姉さん系ブランドの『ヴァイオレット』も\n売り出すそうなんです♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "百戦錬磨のタマちゃん先輩と一緒に、\n私もお洋服を手に入れちゃいますよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おう、大先輩に離れずついてこいや！\nトレーナー！\u3000アンタもや！",
+      "ChoiceDataList": [
+        "ええっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "行くで！\u3000出走じゃあ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "はぁ……はぁ……。",
+      "ChoiceDataList": [
+        "はぁ……はぁ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "激しい戦いやった……ルーキーには\nちいとばかし早すぎたかもな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ほれ、ウチの戦果を見い！\n財宝秘宝ザックザクやろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "『ヴァイオレット』の服がこんなに？\nあっ、これ私が欲しいって言っていた服……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ふふん！\u3000もしもん時に備えるのも、\n大先輩のつとめやで？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "さすがです、タマちゃんせんぱ～い♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "でも、私のサイズばかり……タマちゃんにも\n『ヴァイオレット』の服を着てほしいです～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "へぇっ！？\u3000いやいや、ウチはええ……！\nそないひらひらな服、ガラやないしっ！",
+      "ChoiceDataList": [
+        "いや絶対似合うよ",
+        "ならこっちはどう？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なななっ、何言うとんじゃ！？\n似合わんに決まっとるやろ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ふふっ♪\nトレーナーさんもそう仰っていることですし、\nちょ～っと、お着替えしましょうね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "んなあぁぁぁ～！？\nなんたる怪力やぁ～～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "やっぱり～♪\nとてもお似合いですよ、タマちゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "めっちゃぶかぶかやん！？\u3000こんなん、\n幼稚園児のスモックみたいでいやや～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "タマモクロスは足早に\n着替え直しに行ってしまったのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おおっ！\u3000稲妻柄のロングパーカー……！\nええセンスしとるな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "うんうん。やっぱウチは\nこういうカッコええのが合っとる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "さすがウチのトレーナーや！\nそこんとこ、ちゃーんとわかっとるやん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "残念～。でも、そちらの服も素敵ですね♪\n元気な魅力が引き立ちそう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "タマちゃん先輩、\nさっそくお着替えしてみませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おう！\n新生タマモスタイル、見せたるわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "タマモクロスはスーパークリークと共に、\n意気揚々と着替えに向かうのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

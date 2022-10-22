@@ -1,0 +1,70 @@
+{
+  "Title": "頭痛で憂鬱",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "用事があって図書室へ出たら\r\nトーセンジョーダンを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "あ～～～きっつ……まーだ頭痛する～……。",
+      "ChoiceDataList": [
+        "頭痛？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "んー？\u3000なんだアンタかー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "さっきダチに勉強教えてもらったら\r\n頭キリキリしてさ～……。",
+      "ChoiceDataList": [
+        "勉強してたのか！？偉いな！",
+        "勉強してたの！？偉い！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "何その反応……むっかつく……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ダチがスケ空けて教えてくれんだから\r\nこーゆーときくらい真面目にやっし！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "だから疲れてんの～。\r\nアンタにかまってる暇ねーから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "っ……！\u3000またズキズキしてきた～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後も彼女の頭痛はなかなか治らず、\r\n悩みの種となるのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

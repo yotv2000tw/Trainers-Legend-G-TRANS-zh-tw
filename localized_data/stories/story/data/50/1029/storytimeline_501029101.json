@@ -1,0 +1,604 @@
+{
+  "Title": "新年の抱負",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あけましておめでとがんす！\n今年もよろしくお願いします！",
+      "ChoiceDataList": [
+        "よろしくな！",
+        "よろしくね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "新年を迎え、ユキノビジンは\n真っ先に挨拶へと来てくれた。\nだが……。",
+      "ChoiceDataList": [
+        "なぜジャージ……？"
+      ],
+      "ColorTextInfoList": [
+        "ユキノビジン"
+      ]
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "びしばし、\n鍛えてほしいですから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "今年からクラシック級ってことで、\nあたしもいよいよ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "クラシック級"
+      ]
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "――トリプルティアラに\n挑戦でがんす……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "きっと『阪神JF』の時以上に、\nキラキラな子が多いと思うンです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "きっとたくさん、\nたーくさんがんばンないと勝てません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "なので、早速トレーニングを……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "意気込みや気合いは素晴らしいが、\nただでさえ頑張り屋なユキノビジンだ。\nお正月はむしろリフレッシュしてほしい。",
+      "ChoiceDataList": [
+        "年内頑張ったし、焦らなくても大丈夫！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "そう……ですか？\nええと、だったら……今日はお休み……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……ン？\nお休みって、何すンだべ？",
+      "ChoiceDataList": [
+        "えっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あたし、今日はすっかりトレーニングの\nつもりで、なーんも考えてなかったンです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "おせちもお雑煮も寮のみんなで\n作って食べたし、あとお正月っぽいこと……。",
+      "ChoiceDataList": [
+        "実家ではどうしてたんだ？",
+        "実家ではどうしてたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "えっと、美冬ちゃんと遊んだり、\n妹の世話したり……ごろごろしたり。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……ごろごろ、ですかねぇ。\nおこたが最高なンだぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "でも！\u3000せっかく都会さ来たンだ。\nおこたからは離れねぇと！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "なンかありますかねぇ？",
+      "ChoiceDataList": [
+        "のびのび全力で遊ぶ！！",
+        "まったりコーヒーでも飲む",
+        "モデルの過ごし方を真似る"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "確かに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あたし、元々体動かすの好きなンです。\nこっちきてから、そういうのが詳しい先輩に\nいろいろ教えてもらって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "近場にアスレチックがあるンですよぉ！\n行きましょ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ね、いい感じでしょう？\nンじゃあ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "ユキちゃんだ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ユキ"
+      ]
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "すごーい！\u3000超偶然！\nあけましておめでとうー！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "チケゾーさぁん！\nあけましておめでとうございますっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "チケゾー"
+      ]
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "トレーナーさん！\u3000この方が、\nあたしにここのこと教えてくれた\nチケゾーさんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "ウイニングチケットでーーす！！\n走るの大好き、夢はダービー！\nよろしくお願いしまあああああああす！",
+      "ChoiceDataList": [
+        "あ、ああ！",
+        "う、うん！"
+      ],
+      "ColorTextInfoList": [
+        "ウイニングチケット",
+        "ダービー"
+      ]
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "チケゾーさんも、\n体動かしにきたンですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "うん！\u3000ゴロゴロしてたら、\nウズウズしてきてさぁ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "ほら、今年はダービーでしょ？\nじっとしてらんなくて！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "で、トレーニングしようと思ったんだけど、\n『昨日もギリギリまでやってたんだから\n休め』って注意されてさ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ああ～！\u3000わかります……！\nあたしも、本当はトレーニングしようと\n思ってましたぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "そっか！\u3000ユキちゃんも今年、\nトリプルティアラに挑戦するんだっけ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "お互い、夢を叶えるためにがんばろう！\nえい、えい、おー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "おー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "ってことでさ！\nせっかくだし、一緒に遊ばない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "もちろんです！\nよろしくお願いします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "――じゃあ、次はあの山に登ろっか！\n行こう、ユキちゃん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はぁい！\nトレーナーさんも～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、タフな2人の遊びに\n付き合うことになり……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "――あのぅ、トレーナーさん……。\n大丈夫ですか？\u3000千鳥足になってます。",
+      "ChoiceDataList": [
+        "ま、まずいかも……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "だったら、アタシ抱えていきましょうか？\nトレーナーさんくらい軽いですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あたしも大丈夫です！\n2人で抱えていきましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ウマ娘2人に交代で抱えられ、\nにぎやかな1年の幕開けとなった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ああ～、なるほどぉ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "急がないのは、大事ですよねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "この前、同室のカフェさんに教えてもらった\n素敵な喫茶店があるンです！\nあそこはまったりできそうでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "カフェ"
+      ]
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ね、どうですか？\nいい雰囲気でしょう？",
+      "ChoiceDataList": [
+        "ああ……でも、どうして小声？",
+        "うん……でも、どうして小声？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "こういう店では、\n大人っぽくしたほうがいいのかなぁって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……気にしないでください。\nカジュアルな喫茶店ですから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "こんにちは、ユキノさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あっ、カフェさん！\n朝ぶりですねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "はい。……ここの喫茶店、\n気に入ってくれたんですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "カフェさんに勧められたパフェ、\nとっても美味しかったので！\nトレーナーさんにも紹介したいなぁって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "そうですか。\n……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……パフェ以外にも美味しいスイーツが\nあるの、ご存じですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "えっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "プリンです。素材からこだわって\n作られているので、1日数量限定なんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……今日はお客さんも少ないので、\nまだあるんじゃないでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "プリン……！",
+      "ChoiceDataList": [
+        "注文しようか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "やったぁ！\nお願いします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "では、私はこれで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "へ。\nもう行っちゃうンですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "もしよかったら、\n一緒にって思ったンですけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "せっかくですし、お2人で\nゆっくり過ごしたらいかがでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "カフェさんもいてくれたら、\nもっと嬉しいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ねえ、トレーナーさん！",
+      "ChoiceDataList": [
+        "もちろん"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……では\n少しだけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "お隣りへどうぞ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、3人でのんびりとした\n新年を迎えたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はわー！\nナイスです、トレーナーさんっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "前にシチーさんの雑誌で、\n休日の過ごし方紹介してるのがあって……\nあたし、スクラップしてンです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "調べてきますンで\nちょっと待っててくだせぇ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "――都会ってほにすげぇや。\n年明けでもやってる店あンだもんなぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "シチーさん、化粧品よく見に行くらしくて。\nあたしもここでなンか、かわいいの……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "あれ、ユキノじゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "お？\u3000マジだ。\nあけおめ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "わ、わあ……！\nあ、あけましておめでとがんす！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "おめでと。で、なにしてんの……\nって、買い物か。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "美意識たっか！\u3000あたしらなんか\n今からラーメンだかんね。\n暇つぶしが飯って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "アタシは行かないってば。\nつかどーでもよくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "……向こうのシリーズ。\nプチプラで質いいから、\n興味あれば見てみなよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "へっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "化粧品、見に来たんでしょ。\nアタシのおススメ……みたいな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あ……ありがとうございますっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……ほーん？\nやっさし～じゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ねぇ～。なんかさぁ、\nあたしんときと態度違くね～？\nロコツ～。ヒイキ～。ずっりぃ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "は？\nアンタにはサンプルあげてんじゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "じゃなくてぇ。あたしにもやさしくさぁ、\nもっと愛感じるしゃべりち・て☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "うざ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……すげぇ。本物のギャルさんたちは、\nお正月でも元気なンだなぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "勉強になるなぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、ユキノビジンと\n楽しく新年を過ごした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

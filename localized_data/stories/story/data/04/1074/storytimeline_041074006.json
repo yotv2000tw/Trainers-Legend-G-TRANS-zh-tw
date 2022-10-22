@@ -1,0 +1,332 @@
+{
+  "Title": "足音、ふたつ乱れて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある休日、さしたる目的もなく街を歩いていると\r\n見慣れた姿を見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あら？\u3000まあ、トレーナーさま。\r\nごきげんよう、素敵な偶然ですわね～。",
+      "ChoiceDataList": [
+        "どこかへお出かけ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "はい～……あ、そうですわ。\r\nトレーナーさま、もしお暇でしたら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "遊園地へ、ご一緒しませんこと～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "せっかく、お父さまがペアチケットをくださったのに\r\nすっかり有効期限のことを忘れてしまっておりまして～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "うふふ。恥ずかしながら、トレーナーさまとお会いできなければ\r\nペアチケットの片方を無駄にしてしまうところでしたわ～。",
+      "ChoiceDataList": [
+        "そういえば、君のお父さんって……",
+        "そういえば、貴方のお父さんって……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ええ、テーマパークのオーナーさんをしておりますの。\r\nですからわたくしも、こういう場所には慣れておりますのよ～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "なので……\r\nあらあら、これはよい機会かもしれませんわね？",
+      "ChoiceDataList": [
+        "何の話……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "うふふ。本日はわたくしが、\r\nし～っかり！\u3000エスコートいたしますわ～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう言って、珍しくメジロブライトが率先して\r\nテーマパーク内を案内してくれることになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まあ、こちらのアトラクション……1時間待ちなのですわね。\r\nう～ん、ちょっぴり長いかしら？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "トレーナーさま、\r\n別のアトラクションも見てみましょう～。",
+      "ChoiceDataList": [
+        "えっ……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロブライトが、時間を気にして予定を変えた……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まあ、こちらは120分待ち……\r\n120分待ちということは、2時間待ちということですわね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "残念ですけれど、ここもナシ、といたしましょう～。\r\n2時間待ちということは、先ほどの倍ということですものね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あら、こちらは3時間……遊園地の待ち時間って、\r\n意識してみると長いんですのね～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "少し並べば乗れそうなアトラクションもあるのだが、\r\nメジロブライトはそれを避けるかのように次々と場所を変える。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "遊園地をてきぱき楽しむ……\r\nなかなか難しいことだったのですね～。ええと、次は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "……あっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "トレーナーさま、トレーナーさま！\u3000あちらをご覧になって。\r\nあのアトラクションは、15分待ちですって～！",
+      "ChoiceDataList": [
+        "やったな！",
+        "やったね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "だがその時、自分は気づいていなかったのだ。\r\n何故このアトラクションだけ、こんなに待ち時間が短いのか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ガタ……ゴト……ガタ……ゴト……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "来ますわ～……来ますわよ～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ゴトンッ……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ゴォォォォォ！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まあ～、落ちてますわ～。",
+      "ChoiceDataList": [
+        "うわあああああああーーーー！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "乗せられたアトラクションは『大回転・激烈地獄めぐり』。\r\n絶叫マシンとは得てして人気になるものだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――これに限っては、『三半規管が壊れる』『真剣に気絶した』等\r\nあまりの恐怖により、逆に人が寄りつかないという代物だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "恐ろしい体験をしてしまった……。\r\nたまらずベンチで休むことにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "トレーナーさま、大丈夫ですか？\r\nまあ、おめめがぐるぐるになっていますわね～。",
+      "ChoiceDataList": [
+        "あ、ああ……",
+        "う、うん……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "う～ん、わたくしがてきぱきさんになれば\r\nトレーナーさまにも楽しんでいただけるかと思ったのですが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "なんだか、普段よりお疲れな気がいたしますわ。\r\nどうしてでしょう～？",
+      "ChoiceDataList": [
+        "ちゃんと楽しいぞ",
+        "ちゃんと楽しいよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "無理をせずとも、言葉を交わしながら遊園地を歩いているだけで、\r\n自分は充分に楽しい。そう伝えると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "そう、なのでしょうか～？",
+      "ChoiceDataList": [
+        "次はゆっくり、あれに乗ってみようか",
+        "次はゆっくり、あれに乗ってみよっか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あれ、とは……ああ～、観覧車ですわね。\r\nでも、待ち時間が1時間半もありますわよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "乗ったら、今日はおそらく、それでおしまいになりますわ。\r\nそれでもよろしいのですか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "頷いてみせると、彼女はまだ何か言おうとして――\r\nしかし途中でそれをやめ、観覧車の列に並んだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "もう、すっかり日が暮れてしまいましたわね～。\r\nああ、でも、ご覧になって。遊園地がライトアップされて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "とっ……ても、綺麗ですわね～。\r\n観覧車の上からだと、遊園地がみ～んな見えますわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ふふ……先ほどの絶叫マシンに乗り込む方がいますわね～。\r\nその向こうでは、パレードが出発するところですわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "皆さま、とっても楽しそうでいらっしゃいますわ。\r\nどこもかしこも、うきうきすることだらけですものね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ええ、ええ。\r\n当然ながら、わたくしも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "トレーナーさま。\r\n本日はありがとうございました～。",
+      "ChoiceDataList": [
+        "こちらこそ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "やっぱり……エスコートとは、難しいものですわね～。\r\n観覧車に乗ろ～、と決められたのも、トレーナーさま自身ですし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "でも……おかげさまで、と～っても！\r\nわたくしも、楽しめたんですのよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "……ふふ。ちょっぴり失敗しても……\r\n2人でいれば、なんとかなってしまいますのね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "さ、帰りましょうか。\r\n遅くなってしまいましたけれど、2人ですから大丈夫。",
+      "ChoiceDataList": [
+        "寮の門限はどうかな……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "2人で謝れば、きっと大丈夫ですわ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、寮長からちょっぴりお小言はいただいたものの……\r\n2人で楽しい休日を過ごすことができた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

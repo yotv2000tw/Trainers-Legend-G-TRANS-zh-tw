@@ -1,0 +1,277 @@
+{
+  "Title": "闇に溶ける夕",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日、通りを歩いていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黒服A",
+      "Text": "……こっちだ。\r\n早く来い。",
+      "ChoiceDataList": [
+        "あの姿は……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タキシード姿の女性",
+      "Text": "わが社主催のカジノゲーム大会へようこそ！\r\n互いに賭けるのは己のプライドだけ。\n1日限りの勝負をお楽しみくださいませ♪",
+      "ChoiceDataList": [
+        "こ、ここは……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ったく。不似合いな面があると思えば、\r\nまたアンタか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "一応言っとくが、ここは健全な大会だぜ？\r\n登録もしてねぇヤツが首突っ込んでも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観衆",
+      "Text": "お、おい。あのお方だ……っ。\r\n伝説のディーラー“天使様”だ……！\nああ、本当にお目にかかれるなんて……！！",
+      "ChoiceDataList": [
+        "天使様って、前に河川敷にいた……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真夜中の天使様",
+      "Text": "おや、アンタらは……ふふ。\r\n久しぶりだねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……これはこれは。見たところ、\r\n天使様はよほどの人気者のようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真夜中の天使様",
+      "Text": "そしてその人気者に選ばれたのはアンタ。\r\nじゃあ――互いのプライドを賭けようか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観衆",
+      "Text": "あの天使様直々に指名した相手だと……！？\r\n誰ぇ……あのウマ娘……？\nクスクス、天使様に勝てるわけないわ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真夜中の天使様",
+      "Text": "種目はポーカー。チップはボーイから\r\n受け取って。ルールは基本とほぼ同じだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真夜中の天使様",
+      "Text": "ただ特別ルールが1つ。\r\nフラッシュ以上の役は“ご祝儀”が必要さ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "フルハウス、フォーカード……\r\nそこらが出ればベットとレイズ用以外にも、\nチップを支払えってことか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……オイ。トレーナー、私の壁をしろ。\r\n手札をギャラリーから隠したい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――こうして始まったポーカー勝負。\r\n1度目はキングのペアでこちらの勝利。\n2度目は引き分けたが3度目は再び勝利した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "気運は確実にナカヤマフェスタにあった。\r\n相手の残りチップを削り、迎えた4巡目。\nさらなる追撃のチャンスが訪れた――",
+      "ChoiceDataList": [
+        "（エースのスリーカード！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真夜中の天使様",
+      "Text": "……コール。アンタは？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……ブタだ。フォールド、降りるよ。\r\n1度、外の空気を吸わせてくれ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "今のでカードは全部使い切ったろ。\r\nついでにシャッフルでもしといてくれよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "フゥー……。",
+      "ChoiceDataList": [
+        "スリーカードができていたのに……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "――Show one, Show all。\r\n終わった勝負とはいえ、中身をバラすなよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "それに向こうはフラッシュ以上が入っていた。\r\nあのまま乗ってたら“ご祝儀”の発生さ。",
+      "ChoiceDataList": [
+        "え……っ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "勘だけどな。それよりも今回は、\r\nカードを混ぜさせることが重要だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……今回のポーカーは勝負が終わるたびに\r\n札を捨て、新しいカードを配る形式だった。\nつまりできたんだよ、カウンティングが。",
+      "ChoiceDataList": [
+        "カウンティング……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "残りカードを知るための技術さ。\r\nその証拠に向こうは必ず私のカードを\n開かせていた。だが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "山札を使い切り、デッキ全てを混ぜさせれば\r\n向こうの情報という貯金はゼロになる。\nここが“豪運”を使うべき――勝負時なのさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "なァ、互いにオールインしないか？\r\n差額は気にしなくていいからよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真夜中の天使様",
+      "Text": "！\u3000せっかくのリードを無にするのかい？\r\nそんな条件……アタシは受けちまうよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "頼むよ。緊張で肩も凝ってきたし……\r\n保険なぞに甘んじず、“飢え”たいのさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "さあ、ディーラー。\r\n私はそのカードをチェンジしてコールだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ナカヤマフェスタは目を閉じたまま、\r\n1枚のカードを指さす。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――その姿は、以前の神経衰弱大会で見た\r\nスペシャルウィークの姿に似ていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "数分後、会場は騒然としていた。\r\n謎のウマ娘がストレートフラッシュで、\n伝説のディーラーを下したと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そしてそのウマ娘は1勝負した後に、\r\n他の勝負師を相手取ることなく\n早々と姿を消してしまったと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――後日。学園で、\r\nナカヤマフェスタの姿を見かけた。",
+      "ChoiceDataList": [
+        "君は……",
+        "貴方は……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "っと、アンタか。あの時は世話かけたな。\r\nけどあれだけ騒々しくなれば、\n誰だって逃げるさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "私は人気者になりに行ったんじゃねぇ、\r\n勝負をしに行ったっていうのによ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう語る彼女の先にはバスが待っていた。\r\n……そういえば今朝のニュースで、\n彼女の出走情報を見た気がする。",
+      "ChoiceDataList": [
+        "君は次の勝負に行くんだな",
+        "貴方は次の勝負に行くんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ああ。ちょいとばかし骨が折れそうだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ククッ……まあ、見ときなよ。\r\n面白い勝負にしてやるからさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

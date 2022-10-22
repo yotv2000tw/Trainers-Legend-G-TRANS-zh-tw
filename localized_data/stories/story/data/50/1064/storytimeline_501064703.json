@@ -1,0 +1,337 @@
+{
+  "Title": "感情のハザード",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "お出かけの帰り道、メジロパーマーに\n他に行きたい場所はないかと尋ねると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あ、今日は逆にさ、\nトレーナーが行きたいとこ行かない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "相変わらず忙しそうだしさ、\nちょっと息抜きでもしよ！\u3000ね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "というわけで、気分転換にと\n街を散歩することになったのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "え！？\u3000ゴルフショップできてる！\nうっわ～、あのドライバー飛びそう～！",
+      "ChoiceDataList": [
+        "ちょっと覗いてみる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あーいや、また今度でいいかな。\n今は散歩してるワケだし！",
+      "ChoiceDataList": [
+        "（あれ……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "いつもなら喜んで見に行くはずだが……\nどこか様子がおかしい。\nそして、違和感はその後も続き――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "観たい映画？\u3000どの作品も気になるかな！\nだからさ、トレーナーが好きなの観よう！",
+      "ChoiceDataList": [
+        "じゃあこの『今月のイチオシ作品』はどう？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "えーっと、『難解なアートラビリンス』か！\nこういうの新鮮でいいかも！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "お、おお……おお……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……難解と銘打っていただけあって、\n正直ほとんど理解ができない映画だった。\n上級者向けのものだったらしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いやー終わったね～！\u3000見たな～！\nなんていうか……オシャレだったね！",
+      "ChoiceDataList": [
+        "たしかに、オシャレではあったな",
+        "たしかに、オシャレではあったね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "そうそう！\u3000映像が！\n映画のスクリーンってやっぱり迫力あるよね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "私の最近の悩み？\n……うーん、そうだなぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ゴルフのアイアンが、\nスライスしちゃうことくらい？\nこれっていう悩みはないかな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "トレーナーのほうこそ、最近調子どうなの？\nなんかあれば、話聞くよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "合間に様子を窺うも、はぐらかされてしまう。\nそして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あー、もう寮についちゃった。\nあっという間だなぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "今日は1日ありがとね！\nトレーナー、楽しかった？",
+      "ChoiceDataList": [
+        "楽しかったけど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ん？\u3000あ、なんかお悩みがある感じ？\nいいよいいよ、付き合っちゃうよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "このパーマーさんに、なんでも聞いちゃって！",
+      "ChoiceDataList": [
+        "……パーマーは、楽しかったか？",
+        "……パーマーは、楽しかった？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "私……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "え、そりゃもちろん！\nトレーナーが楽しんでくれたら、\n私も嬉しいし！",
+      "ChoiceDataList": [
+        "それは俺も同じだ",
+        "それは私も同じだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "えっ？\u3000どゆこと？",
+      "ChoiceDataList": [
+        "本当に、楽しめたか？",
+        "本当に、楽しめた？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うん、楽しめた……っていうか、\nよかったって感じ？\n今日は君に迷惑かけなかったから！",
+      "ChoiceDataList": [
+        "迷惑？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あ、いやね、最近トレーナーに\n迷惑かけちゃってるな～って思ってさ！\nほら、この前もさ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "仕事の予定あるのに、私が牛乳売るの、\nバリバリ手伝ってくれたじゃん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あの時だけじゃなくてさ、\nいつもトレーナー、\n私の頼みを聞いてくれて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "私の気持ち、マジで大事にしてくれる。\nそれってすっごく嬉しいことでさ！\nでも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "それで振り回しちゃうのは\nちょっと違うかもな、って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……だからさっ！\u3000これからは\n気をつけようって、そう思ってたとこ！",
+      "ChoiceDataList": [
+        "パーマー……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いや～、にしても気つかってるの\nバレバレだった？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "自然にやったつもりだったのにな～。\nそか、トレーナーにはわかっちゃうのか～。",
+      "ChoiceDataList": [
+        "俺に気を使う必要なんてないよ",
+        "私に気を使う必要なんてないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "へっ？",
+      "ChoiceDataList": [
+        "君を支えるのが生きがいなんだから",
+        "貴方を支えるのが生きがいなんだから",
+        "俺たちらしい関係でいい",
+        "私たちらしい関係でいい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "へっ？",
+      "ChoiceDataList": [
+        "君を支えるのが生きがいなんだから",
+        "貴方を支えるのが生きがいなんだから",
+        "俺たちらしい関係でいい",
+        "私たちらしい関係でいい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "！\u3000トレーナー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "そっか……そうだよね。\nだって、あの時も……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……？\u3000ちょい待ち。\n今トレーナー、なんて言った？",
+      "ChoiceDataList": [
+        "『君を支えるのが生きがいなんだから』？",
+        "『貴方を支えるのが生きがいなんだから』？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いやいや、生きがいって……！\nトレーナー、君、ヤバイこと言ってるの、\n気づいてる……？",
+      "ChoiceDataList": [
+        "え？ヤバいことって？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あははっ。\n君、案外そういうとこ鈍いもんな～。\nま、それがいいとこでもあるんだけどね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "じゃ、私、もう戻るね！\nまた明日～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "思いがちゃんと伝わっているといいのだが――\nそう思いつつ、メジロパーマーの後ろ姿を\n見送ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "！\u3000トレーナー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ふふっ、今日の私たちヘンだったね。\nギクシャクしてたっていうか、なんていうか。",
+      "ChoiceDataList": [
+        "自然な関係が1番だと思う"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "それな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "やめやめっ！\u3000私たちは私たちらしく。\nウェーイっつって、アゲめでいかないとね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ようやく、らしさを取り戻してくれた\nメジロパーマーを見て、\nほっと安心したのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

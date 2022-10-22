@@ -1,0 +1,567 @@
+{
+  "Title": "いいじゃん？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "街の人A",
+      "Text": "お、月刊トゥインクル出てんじゃん。\r\nやっぱ『桜花賞』の特集でけーな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "街の人B",
+      "Text": "だけど、あの『皐月賞』の子も\r\nすごかったよね！\u3000えっと、確か――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘A",
+      "Text": "あ、ジョーダン！\u3000昨日あげてたネイル、\r\nかわいかった！\u3000あれ、勝ちすぎ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "っしょ～？\u3000わあってんね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "せーのっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘たち",
+      "Text": "～～♪\u3000好きピと好きピでー？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ジョーダンたち",
+      "Text": "つながりたーい☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "お～、イイ感じじゃね？\r\nウマトックあげよー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ウマトック"
+      ]
+    },
+    {
+      "Name": "先生",
+      "Text": "こら、トーセンジョーダンさん！\r\n数学の呼び出し、忘れてたでしょ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "うわ。あー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "逃げっか～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘たち",
+      "Text": "いえーっ☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生",
+      "Text": "あ……！\u3000もう！\r\nトレーナーさんにも言っておきますからね！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "は！？\u3000それ、ひきょーすぎん～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "あ。ジョーダンさんじゃん。\r\nちわーっす。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "え。なにそれ。\r\nシチーからのさん付け、やなんだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "ふふっ、ごめんごめん。\r\nでもさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘B",
+      "Text": "ぎゃ～！？\u3000ジョーダンさん、\r\nシチーさんと絡んでる～！？\nつよ！\u3000あのコンビ、つよすぎ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "……ふふふっ、随分慕われてんじゃん。\r\n頑張れ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "もーっ、な～に～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘たち",
+      "Text": "がんばー！\u3000ジョーーーダーーン！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……へへ。\r\nはーい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "この日は野外ステージで特別講師陣による\r\nトレーナー向け講演を受講していた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "あれ、<username>トレーナー？",
+      "ChoiceDataList": [
+        "桐生院トレーナー！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女は同時期にトレセン学園の\r\n所属になったトレーナーだ。同じトレーナー\nとして切磋琢磨しあう同志である。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "<username>トレーナーも\r\n『トレーニング用蹄鉄への新提案』\nの受講を？",
+      "ChoiceDataList": [
+        "はい、それと……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "！\u3000もしや『推奨すべきプライオメトリクス』\r\n『レースパターンと競走者の思考』の\nプログラムまで受講される予定で？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "よかった……！\u3000私もなんです。\r\nご一緒してもいいですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "もしノートにとりきれない部分が出たら、\r\nお互いにフォローができないかと思いまして。",
+      "ChoiceDataList": [
+        "それはぜひ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "っ、ありがとうございます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "……予備動作から見る逃げウマ娘の\r\n追い抜き方。2人1組で前を走るウマ娘の\n動きから内外のコースを予測して……ふむ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "ミークは先行と差しが得意ですから、\r\nこの練習は効果がありそうです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "あのっ、<username>トレーナー！\r\nよろしければ、先ほどのトレーニング方法を\n合同で試してみませんかっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "それは願ってもない申し出だった。\r\nトーセンジョーダンも先行や差しが得意だ。\nきっと覚えて損がないだろう。",
+      "ChoiceDataList": [
+        "こちらこそお願いします！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "ありがとうございますっ！\r\nではよろしくお願いいたします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ということで、桐生院トレーナーの\r\n担当ウマ娘・ハッピーミークと\n合同トレーニングを組むことになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ハッピーミーク"
+      ]
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "……どうも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "ミーク。今回は2人に\r\n第3コーナーからの“追い抜き”を\nテーマにしたレースをしてもらいます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "……む。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "ただし、一方は追い抜き側として、\r\n第4コーナーまで必ず後ろに控えてください。\nそして前の子の“予備動作”を見るんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "前を走るウマ娘が内外、どちらに動くのか。\r\n加重と抜重状態……その予備動作を見分け、\n追い抜くのに効率のいいコースを――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "え。なんかレベチじゃん。\r\nむず。キャパいわ。",
+      "ChoiceDataList": [
+        "もう少し説明をかみ砕きましょうか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "！\u3000そ、そうですね。\r\n失礼しました。えっと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "……大丈夫、トレーナー。\r\n無理やり簡単にしなくても。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "私、トレーナーの言ってたこと\r\nわかりたい……難しい言葉も勉強します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "……ミーク。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……アンタ、結局さっきの話わかった？\r\nあたしはつらみざわなんだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "…………難しかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "やっぱ、じゃ～ん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "でも私のトレーナーは\r\n私のために一生懸命してくれるから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "……私も応えたい。\r\n難しくても、がんばる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……でも。わかりたくても、\r\nわからん時あんじゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "…………そゆとき、どうすんのよ。",
+      "ChoiceDataList": [
+        "ジョーダン！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……トレーナー？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "なに？\u3000今からじっせん？\r\nするんじゃねーの？",
+      "ChoiceDataList": [
+        "どう走ればいいか、わかるか？",
+        "どう走ればいいか、わかる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "あー……まー……えっと。\r\nあー…………。",
+      "ChoiceDataList": [
+        "第4コーナーで耳が動いたら、内からガチで"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "は？\u3000相手の？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "んな簡単なことでいいの？\r\nなんかかじゅー……なんちゃら\nとかの話じゃなかった？",
+      "ChoiceDataList": [
+        "大丈夫、難しく考えなくていい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……ふーん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして簡易競走が始まった。\r\n今回はトーセンジョーダンが\n“追い越し”側だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "逃げ側は逃げ側の予備動作をしたら……\r\n相手のかく乱もできて…………あれ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "？\u3000足音が全然近づかない。\r\n追い抜くつもり……なさそう？\nじゃあこのまま……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "……逃げ切れるかも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "（あの子の耳が第4コーナーで\r\nこっち向いた……っ！\u3000……てことはっ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "！\u3000……スパート、かけてきた！\r\n抜かれないように…………あれ？\nわっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "第4コーナー中に耳を絞り、スパートを\r\nかけるハッピーミーク。だが遠心力を受け、\n彼女の位置は外側へと膨らんでいく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "たぁぁぁあああああっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その内側から攻める\r\nトーセンジョーダンの前に壁は何もない。\n彼女はそのままゴールを駆け抜けた……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "<username>トレーナー、今のは……。",
+      "ChoiceDataList": [
+        "……かなり限定的な作戦ですが"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "……確かにコーナー中に相手がスパートを\r\nかけたならば、内側が空きやすい。\nどうあがいても遠心力で外に膨らむから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "そしてウマ娘はスパートをかけようとすれば、\r\n無意識に耳を絞る子も、少なくありません。\n……ミークにもその傾向がありました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "――思えば全て基礎中の基礎ですね。今日\r\n学んだ“予備動作”という言葉に捉われて\n私の頭からは、その考えが抜けていました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "トレーナー。私、抜かれました……。\r\n教えてもらってたのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "……ミーク。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "……貴方は悪くありません。\r\n私こそごめんなさい。ただ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "今日はとても学びがある日だったんです。\r\nなので反省会をしませんか？\n貴方に……教えたいことが沢山あるんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "！\u3000うん……します。\r\n私、トレーナーの言ってたこと、\nもっとわかりたい……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そしてこの日の合同トレーニングは\r\n解散となった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……トレーナー。\r\nアンタってさ、頭いーよね。",
+      "ChoiceDataList": [
+        "でも最終的に追い抜いたのは君の力",
+        "でも最終的に追い抜いたのは貴方の力"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "うっわ、そーいうとこ、よくないぞー。\r\n素直に受け取れー？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……だって頭いーじゃん？\r\nジョーダン抜きで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……アンタの作戦、ちゃんとわかれたら。\r\nあたしも、もっと強くなれんのかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

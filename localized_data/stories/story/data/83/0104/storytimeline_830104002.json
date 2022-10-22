@@ -1,0 +1,209 @@
+{
+  "Title": "虹色クッキング",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "カフェテリアの厨房に、\nゼンノロブロイたちがいるのを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "まず材料ですが、作中では虹の根元にある\n七色に光るにんじんが使われていますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ほえ～、虹かぁ！\nタイミングよく出てくれるといいんだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "虹はまだなんとかなりそうですが、\n七色に光るにんじんとなると現実には……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "ここはやはり、代わりになるものを考えて\n組み合わせるのが賢明でしょうか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "たとえば、それぞれの色のにんじんとか？\n青色にんじんに、紫にんじん？\nむむむ……こっちも難問の予感だ～。",
+      "ChoiceDataList": [
+        "一体、何を作ってるんだ？",
+        "一体、何を作ってるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "え、えっと、最近読んだ本に出てきた\n『七色にんじんのケーキ』を\n再現しようとしていまして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "3人の料理人がフードトラックで\n旅をしながら、いろんな土地で料理をする\nお話なんですけど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "冒険の果てに手に入れた材料で作るケーキが、\nそれはそれは見た目鮮やかで\n美味しそうなんです……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "空想の料理なので再現は難しいでしょうが、\nそれでも挑戦してみることで\n物語の世界に少しでも触れられるかなと……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エルコンドルパサー",
+      "Text": "冒険、探検、エル発見！\nただいま戻りましたデェェェス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エルコンドルパサー",
+      "Text": "ほらほら、見てくださいロブロイ！\n集めて来ましたよ\n『宵闇を混ぜた真っ黒クリーム』の材料！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エルコンドルパサー",
+      "Text": "99％カカオチョコレートに竹炭パウダーに、\nとどめはイカ墨ペースト！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "エルさん、ありがとうございます……！\n『真っ黒クリーム』、さっそく\n試作してみましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして手探りのケーキ作りが始まり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ロブロイたち",
+      "Text": "できたーーー！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エルコンドルパサー",
+      "Text": "ブエノーー！\u3000真っ黒デコレーション、\nなかなかの再現度じゃありませんかッ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "はい、本当に……！\u3000これで切った断面が、\n綺麗な七色の層になっていれば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エルコンドルパサー",
+      "Text": "ケ！？！？\u3000なんですコレ！？\n断面ぐちゃぐちゃマーブル模様デェス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "うわあーっ！\u3000スポンジの間から、\n緑色のなにかがこんにちはしてるっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あ……っ、そ、そういえば紫の色素の\nアントシアニンは変色しやすいって\n料理の本で読んだことが……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "色が混ざらない方法も、\n調べたほうがよかったですね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "す、すみません、みなさん……っ。\n私の下調べが足りず……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "どんまいどんまい！\u3000最初なんて\n上手くいかんのが普通！\u3000もっかい頑張ろっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エルコンドルパサー",
+      "Text": "アスィ・エス！\n強者は失敗から学ぶもの、パパの教えデス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "みなさん……！",
+      "ChoiceDataList": [
+        "心強い仲間だな",
+        "心強い仲間だね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "は……はい、本当に。私1人では、\nきっと失敗に落ち込むだけでしたけど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "みんなと力を合わせてなにかを作る。\nそんな特別な体験の再現には、\n成功していたんですね……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ほわぁ……！\u3000このケーキ、\n見た目はアレだけど、うまうまだよぉ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エルコンドルパサー",
+      "Text": "ケ！？！？\u3000ずるいデスよタンホイザ！\nエルエルも食べますーー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あっ、ま、待ってください。私も……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "賑やかにケーキをシェアする3人。\nみんなで協力した時間が、より美味しさを\n引き立たせているようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

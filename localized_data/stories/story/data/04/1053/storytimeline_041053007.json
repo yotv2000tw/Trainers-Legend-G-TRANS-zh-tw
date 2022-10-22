@@ -1,0 +1,381 @@
+{
+  "Title": "事件発生！？走れバンブー！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "毎年恒例の夏合宿――普段とは違うシチュエーションに\nバンブーメモリーのトレーニングにもいっそうの力が入る。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "燃えろ熱血トレーニングッ！！\n夏合宿バージョン・その十ーーーーーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "っはぁー！\nどうだったっスか、アタシの砂浜ダッシュ！",
+      "ChoiceDataList": [
+        "いい感じだったぞ！",
+        "いい感じだったよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "っし！\u3000砂浜って、脚にかかる負荷は高いけど、\n爪の負担を気にせず走れるのは助かるんスよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……ん？\nあの2人、前のゲーセン事件の――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "見覚えのあるウマ娘達",
+      "Text": "はああああああっ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "へへっ♪\nこの調子なら、早く終わりそうじゃない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "うんうん！\n頑張ったし、ちょっとくらいは遊んでもいいよね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "ふっ……息抜きは大事っスからね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "よーし、アタシももう1本いくっスよー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "えっ？\nあの2人が戻ってきてない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘C",
+      "Text": "うん……。\nメッセージ送っても、返答がなくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "むむむ、由々しき事態っス！\n行き先は聞いてないっスか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘C",
+      "Text": "特には……けど昼間、知らない男の人に声掛けられてた。\n近くを案内してあげるとか、一緒に遊ぼうとか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "それっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "生徒の危機は風紀委員が守るっ！\nアタシ、2人を助けてくるっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘C",
+      "Text": "あっ、トレーナーさんとか、\n大人の人にも連絡しないと……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘C",
+      "Text": "……しないと、ダメだよね？\nえっと、バンブーのトレーナーさんは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "うーん……本当によかったのかなぁ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "軽そうな男",
+      "Text": "へーきへーき！\nちょっとくらい遅くなってもバレないって♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "待つっス！\nもうバレバレっスよ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "このままじゃ厳重注意どころじゃ済まされないっス！\n2人とも、一緒に帰るっスよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "またそうやって……あたしたちは……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "走りだけじゃなくて、遊びも大切なんスよね？\nきっとアタシの剣道と同じくらい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "えっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "アタシもちょっとだけ学んだっス。\n息抜きの楽しさ、大切さ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "けど、このまま規則を破ったら、遊ぶことも走ることも\nできなくなるっス！\u3000そんなのもったいないっスよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "よ、余計なお世話だし！\nあたしたちのことなんか、全然知らないくせに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……確かにアンタたちのこと、\n1から10まで知ってるわけじゃないっス。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "けど、これだけは知ってるっスよ。\nアンタたちも、レースに勝ちたいウマ娘なんだって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "遊びたいならいくらでも遊べるっス。でもアンタたちは、\n厳しい特訓こなして、走ることに向き合い続けてる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "夢があるんスよね！\u3000勝ちたい想いがあるッ！\nだけど問題を起こせば、それが叶わなくなる……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "アタシはそんなのイヤっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "風紀委員長……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "軽そうな男",
+      "Text": "あのさぁ、そういう熱血一直線みたいなの？\nもう流行らないよ。時代遅れ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "軽そうな男",
+      "Text": "この子たちが行きたいって言ってるんだからさ～。\nほら、行こう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "あっ、こら！\u3000待つっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "軽そうな男",
+      "Text": "放せ！\n……くそっ！\u3000荷物が……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "なにこのメモ……\n『名門トレセン学園生、合宿中に夜遊びか』！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "このスマホ、録画機能がONになってるっスね……なるほど。\nアンタ、スキャンダル狙いのゴシップ記者だったんスね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "軽そうな男",
+      "Text": "コイツ……！\u3000さっさと返せッ！！",
+      "ChoiceDataList": [
+        "バンブー！！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "警察のおじちゃん",
+      "Text": "そこの不審者、動くな！\u3000警察だ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "間一髪――不審者の男がバンブーメモリーを捕まえる直前、\n警察と共に駆けつけることに成功したようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "トレーナーさん！？\n警察の人も、なんで……。",
+      "ChoiceDataList": [
+        "君たちが危ないかもって学園の子に聞いてさ",
+        "貴方たちが危ないかもって学園の子に聞いて"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "警察のおじちゃん",
+      "Text": "じゃあ私はこれで。\n……ほらアンタ、話は署で聞かせてもらおうか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "こ、怖かったぁ～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "もう大丈夫！\nこれで風紀は守られたっスよ！",
+      "ChoiceDataList": [
+        "全然大丈夫じゃない！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "へっ？",
+      "ChoiceDataList": [
+        "事件に巻き込まれるかもって心配したぞ！",
+        "事件に巻き込まれるかもって心配したよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "ご、ごめんなさいっス……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "ぷっ、怒られてやんの～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "う、うるさいっス！\nもとはと言えば、アンタたちが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "うん、私たちが悪かったよ。\n風紀委員長、本気で心配してくれてたのに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "まぁ、さすがに懲りたよね。\nそれに……あたしたちにも一応あるからさ。……夢ってヤツ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "なら、なによりっス！\nお互い、夢に向かって全力疾走するっスよーーー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後――2人のウマ娘はしっかりと風紀を守り、\n合宿最終日に行われる夏祭りで思いっきり羽を伸ばした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "うんうん！\nやっぱり健全に走り、楽しむのが1番っス！",
+      "ChoiceDataList": [
+        "バンブーも楽しむんだぞ",
+        "バンブーも楽しむんだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "はいッ！\u3000風紀は守るし、息抜きもする！\nそんでレースは絶対勝つ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "けど……今回みたく間違いがあったら、\nちゃんと叱ってください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "トレーナーさん！\nこれからも、ご指導よろしくお願いするっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

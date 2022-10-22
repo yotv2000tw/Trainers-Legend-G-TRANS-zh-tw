@@ -1,0 +1,44 @@
+{
+  "Title": "頭痛で憂鬱",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "あー、なんやねん。痛ったいなぁ。",
+      "ChoiceDataList": [
+        "どうしたんだ……？",
+        "どうしたの……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "今朝から頭がズキズキするんや。\r\n誰かウチのこと噂しとるんかな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "――って、なんでやねんっ！\r\nそれはクシャミや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……痛たたた。大声出すと頭痛いわ。\r\nうかつにツッコミもできへん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "タマモクロスはしばらく頭痛に悩まされ、\r\nツッコミを控えようとするのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

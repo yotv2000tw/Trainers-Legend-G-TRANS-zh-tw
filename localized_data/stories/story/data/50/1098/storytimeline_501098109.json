@@ -1,0 +1,434 @@
+{
+  "Title": "クリスマス",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "リッキー☆\u3000ラッキー☆\u3000ハッピーホリデー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "夜の大井レース場♪\u3000たまにはレースじゃ\nなく、遊びに来るのもいいよね☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "（トレーナーは飲み物を買いにいったまま\nだし……。しばらく1人で、\n景色でも眺めてよっかな）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "（もうすぐ『東京大賞典』……。\nクリスマスが明けたら、ここで……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "（でもどうして私、アキュートさんや\nタルマエに勝ちたいって、\nあんなに強く感じたんだろ？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "（互角に走ることで、風水パワーは十分に\n示せたのに。ただの競争心？\u3000それとも……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ひとりぼっちのウマ娘",
+      "Text": "はぁ……せっかくのクリスマスなのに\n1人かぁ。恋愛運とかさっぱりだよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ひとりぼっちのウマ娘",
+      "Text": "生まれつきカワイイ娘とかお嬢には\nかなわないのかな、やっぱり……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人組ウマ娘A",
+      "Text": "あー、もう年末かー。『東京大賞典』とか\n1度でいいから出たいよねー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人組ウマ娘B",
+      "Text": "夢見るなっつーの。結局、\n出られるのは才能ある娘ばっかじゃん。\n早咲きにしろ、遅咲きにしろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "（いろいろなウマ娘がいる……。\n本当にいろいろな……。でも、みんな……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "――！！\nそっか、そういうこと！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "だから私は勝たなきゃって感じたんだ。\n並ぶだけじゃなく、超えなきゃって。",
+      "ChoiceDataList": [
+        "おまたせ、リッキー"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "あ、トレーナー♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "買ってきた飲み物を渡し、\n2人で周辺を散歩することにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "わー、キレイ☆\u3000クリスマスの\n大井レース場や、その近くって、\nこんなふうになるんだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "なんだっけ？\u3000東京メガイルミ？",
+      "ChoiceDataList": [
+        "ああ、そうだ",
+        "うん、そうだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――冬季の大井。レースの行われない日、\n場内は華やかにライトアップされる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『東京メガイルミ』は、大井レース場が\n開催する、冬の目玉イベントだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "この輝きを見てると……思うんだよね。\nこれこそ“都市風水”って。",
+      "ChoiceDataList": [
+        "――都市風水？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うん、いつもはちょっと\n殺風景なレース場周辺だけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "『夜の楽しみを作りたい』『にぎわいを\n作りたい』っていう想いがナイターレースや\nこのイルミネーションを生み出した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "その裏にはたくさんの気持ちが息づいている。\nつまり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "これも人の営みの表れなんだよ。\n輝きの1つ1つに意味が……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "どうした？",
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "風水解説をしている途中で、なぜか\nコパノリッキーはいきなり黙ってしまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ねえトレーナー。\nなんか、つまらなくない？",
+      "ChoiceDataList": [
+        "え……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "せっかく遊びにきたのに、風水解説なんて。\nそんなの、いつだってできるし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ってわけで今日は――風水なし。",
+      "ChoiceDataList": [
+        "え、なし！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うん、吉凶とか方角読みとか封印するから。\n頭からっぽにして遊ぶけど、いい？",
+      "ChoiceDataList": [
+        "ああ、もちろんいいけど",
+        "うん、もちろんいいけど"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "よーし☆\u3000じゃあ今日は思いつくままに\n行動しちゃおっと♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "大変なレースが続いた反動か、\nコパノリッキーはハメを外したいようだった。\nそして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "まずはクリスマス・ディナーだね☆\nおしゃれな注文だったら、私におまかせ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "レストラン店員",
+      "Text": "あのー、テーブルに\n置ききれないのですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ええっ、スペシャルプレートって、こんなに\n大きいの？\u3000全種類頼んじゃったよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "この辺も景色キレイだね。\nちょっと歩こうか、トレーナー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "なんだか夢の国のウマ娘になったみた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ドンガラガッシャーン！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ひゃあっ、何これ～？\u3000なんでこんな\nところに、お掃除セットが置いてあるの～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ううう……風水さえあれば、\nこんなことにはならないのに～。",
+      "ChoiceDataList": [
+        "リッキー、もしかして……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "な、なに、トレーナー？",
+      "ChoiceDataList": [
+        "風水なしだと……ただのドジっ子？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "そんなことないよ～！\nそんなはずは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ロマンいっぱいのクリスマスくらい、\nちゃんとできるんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ついてきて、トレーナー！\nこれから挽回――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ゴイイイイインッ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "いったぁぁぁぁい☆！？？？？？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後もコパノリッキーは大騒ぎ。隠れた\n一面の見えた、楽しいクリスマスになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後もコパノリッキーは大騒ぎ。風水の\n裏に隠れた、愉快な一面を見せてくれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして帰り道――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "あれ、トレーナー。\nあの出店の人が売ってる石……。",
+      "ChoiceDataList": [
+        "あの石がどうかした？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "中央アジア産のラピスラズリ。\nすっごく大きな力を秘めてる。\nどうしてあんなものが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "偶然流れてきたのかな？\nすごいハッピーパワーを秘めてるけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "値札を見ると――決して安いものでは\nなかった。でも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "コパノリッキーが言うなら、それだけ\n価値のあるものなのだろう。ならば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ええっ、どうして買ってくれるの！？\nこんな貴重なものを。",
+      "ChoiceDataList": [
+        "ちょっとしたクリスマスプレゼントかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "全然ちょっとしてないよ……。\nすごいレア物だし、それに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "――この開運パワー。\nもし使い方を間違えたりしたら……。",
+      "ChoiceDataList": [
+        "間違えないよ、リッキーは"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それは自信があった。コパノリッキーは\nたとえどんな大きな力でも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "必ず正しい使い方で、みんなを幸せにして\nくれる。どんな強い力も預けられる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "……信じてくれてるんだね、私のこと。\nだったら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うん！\u3000このクリスマスプレゼント、\n受け取っておくよ。そして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "トレーナーのくれた幸運、独り占めしたり\nしない。私のハッピーはみんなのハッピー♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "コパノリッキーはクリスマスプレゼントの\n包みを、頭上高く掲げると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "氣よ届け！\u3000みんなの元へ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "夜空が一瞬で星空に変わった……\nように見えたのは気のせいだろう。でも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "コパノリッキーのみんなの幸せを願う\n気持ちは確かに広がっていった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

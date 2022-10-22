@@ -1,0 +1,43 @@
+{
+  "Title": "寝不足で……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ふわあぁ～……！",
+      "ChoiceDataList": [
+        "お、大きなあくび……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "昨日の夜ね～。ベッドに入ってから、\r\nなんでかちっとも眠れなくて～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "でも気にすると余計眠れなくなるっていうし、\r\nま、いっか～って横になってたんだけど～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "そうしたら、そのまま朝になっちゃったの～。\r\n眠ろうとしたほうがよかった？\nふわあぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……ヒシアケボノは、\r\nあまりよく休めなかったようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

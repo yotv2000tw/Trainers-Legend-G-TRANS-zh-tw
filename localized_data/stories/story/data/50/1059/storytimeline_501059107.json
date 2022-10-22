@@ -1,0 +1,427 @@
+{
+  "Title": "バレンタイン",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今日はバレンタインデー。友情、恋慕、感謝、\r\n様々な想いをチョコレートに込めて、\n大切な誰かに贈る日だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "…………トレーナー。\r\nちょっと、いい？",
+      "ChoiceDataList": [
+        "何かあったのか？",
+        "何かあった？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "そういうわけじゃないんだけど……\r\nほら今日、アレでしょ？\u3000バレンタイン。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ま、まぁ……デビューからずっと\r\nお世話になってるし？\u3000一応、礼儀としてね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "トレーナーにはお世話になってるから、\r\nちゃんと渡さないとなって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……どーぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……どーぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "はい。\r\n有名なブランドだし、味は保証するよ。",
+      "ChoiceDataList": [
+        "ありがとう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "捜しましたわ、ドーベル～。\r\nやはりここにいましたのね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ブライト？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "お願いです～。わたくしにチョコ作りを\r\n教えていただけませんか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "――つまり、チョコを溶かすためには\r\n鍋で温めちゃダメなの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "なるほど、これが『ゆせん』～。\r\nばっちり覚えました～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "もう……当日じゃなくて\r\nもっと前に相談してくれてもよかったのに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "そうですわね～。\r\nわたくしとしたことがうっかり～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……っていうか、\r\nなんでトレーナーまで作ってんの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……っていうかトレーナーも、わざわざ\r\n付き合ってくれなくてもよかったのに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "皆で作るほうが楽しいですよ～。\r\nね、トレーナーさま？",
+      "ChoiceDataList": [
+        "俺も感謝の気持ちをチョコで伝えたい",
+        "私も感謝の気持ちをチョコで伝えたい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "皆で作るほうが楽しいですよ～。\r\nね、トレーナーさま？",
+      "ChoiceDataList": [
+        "俺も感謝の気持ちをチョコで伝えたい",
+        "私も感謝の気持ちをチョコで伝えたい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……へー……。\r\nそういう相手、いるんだ……。",
+      "ChoiceDataList": [
+        "気になる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ならいいけど……\r\nそれって理事長とか、たづなさんとか？",
+      "ChoiceDataList": [
+        "気になる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ま、まさか……！！\r\nほら、変なこと言ってないで手、動かす！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "その顔……からかってるでしょ？\r\nいいよ、言わなくて。さっさと続きしよう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "できましたわ～！\r\nありがとう、ドーベル～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "できましたわ～！\r\nありがとう、ドーベル～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "どういたしまして。\r\n2人とも、お疲れ様。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あとはライアンお姉さまたちに\r\nお渡しするだけですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "少々作りすぎてしまいましたし、\r\nここで試食会をいたしませんか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "作ったチョコを、皆で交換こいたしましょう♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ちょ、ちょっと……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ふふっ。わたくしもお2人のチョコを\r\nいただきますわ～。",
+      "ChoiceDataList": [
+        "ドーベル、もらってもいい？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "えっ！？\r\nま、待って！\u3000心の準備が……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "えっと……あー、うん。\r\nトレーナーが欲しいなら。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "じゃなくてっ！\r\nえーと、その、ああもう！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ちゃんとしたお店のじゃないし、\r\nその……あんま期待しないでよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "た、食べればいいじゃない！\r\n味は保証しないんだからね……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "誰かにあげるアテもないし……\r\n好きなだけどうぞ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "言いながら、こちらの作ったチョコレートを\r\n口に入れるメジロドーベルの頬は、\nほんのりと赤く染まっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……メジロドーベルに渡す予定だった分は\r\nまた後ほど渡すことにしよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ライアンお姉さまたちにお渡しする前に、\r\nドーベルたちにもと思いましたが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "お2人とも、最初の相手はわたくしよりも\r\nふさわしい方がいらっしゃいますでしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "なっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "無粋なことはせず、ここはハンカチを\r\n噛みつつ、静かに去りましょう～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ちょ、ちょっと待って？\r\nまさか最初から――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ふふっ。\r\n後ほど改めてお渡しに参りますね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "うぅ……。\r\nブライトってば……！",
+      "ChoiceDataList": [
+        "……2人になっちゃったな？",
+        "……2人になっちゃったね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "へ、変な言い方しないで！\r\nそんなこと言われると、余計――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……さっきのブライトの言葉、\r\n気にしないでいいからね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "余計……バカ……っ！！",
+      "ChoiceDataList": [
+        "とりあえず甘いものでも食べて落ち着いて",
+        "渡したいのはドーベルにだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "トレーナーのチョコ、結構いい出来だし、\r\n渡す相手も喜んでくれるよ。",
+      "ChoiceDataList": [
+        "とりあえず甘いものでも食べて落ち着いて",
+        "渡したいのはドーベルにだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "なに言って……って、チョコ？",
+      "ChoiceDataList": [
+        "ハッピーバレンタイン！……不格好だけど",
+        "不格好だけど気持ちはちゃんとこめたから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ア、アタシに？",
+      "ChoiceDataList": [
+        "ハッピーバレンタイン！……不格好だけど",
+        "不格好だけど気持ちはちゃんとこめたから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "な、な、な……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "トレーナー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "なんでアンタはそうやって……っ！\r\nアタシができないこと、簡単に――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……なんかカッコ悪いな、アタシ。\r\n尻込みして、既製品に逃げようとして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……………………ずるいのよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……ありがとう。\r\nそうだよね、大切なのは気持ち……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……はぁ。\r\n逃げの手打ってたアタシ、バカみたい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "トレーナー。2回目になっちゃうけど、\r\n受け取ってくれるかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "受け取って。……言っとくけど、自分だけ\r\n押しつけて終わりなんて、許さないんだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ブランド品みたいに完璧じゃないけど……\r\n今のアタシの精一杯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "Title": "完成の調味料",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヒシアケボノと夏合宿へとやってきて、早数日。\nあっという間に最終日を迎えてしまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "厳しいトレーニングも笑顔でこなしてきたヒシアケボノに、\n今こそ『想いを込めたご馳走』を用意しよう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "お疲れさま、トレーナーさん！\n夏合宿、楽しかったね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ね、今日のお夕飯はどうしよっか！\n合宿所で用意されるものもいいけど、せっかくならあたしが――",
+      "ChoiceDataList": [
+        "用事を思い出した！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "わわっ！？\u3000い、いきなりどうしたの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "用事って、お仕事？\u3000あたしお手伝いしようか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさん、夏合宿の間もずーっとがんばってたし、\n少し休んだほうがいいんじゃないかな～。",
+      "ChoiceDataList": [
+        "大丈夫、元気いっぱい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "おお～。あははっ、そっかそっかー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "お夕飯を一緒に食べられないのは残念だけど、\nまた今度ね！\u3000それじゃあ、お疲れさま～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……気づかれずに済んだようだ。\nあまり時間はない、急いで準備をしなくては。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "何はなくとも食材だ。ウマ娘たちに、どこか良い店はないかと\n聞いてみることにしたのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "ボノにご馳走を？\u3000だったら、私らも混ぜてよっ。\nいつもご飯作ってもらったりしてるし、お礼したい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "あたし、いい店知ってる！\u3000魚とか、いっぱい売ってた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘C",
+      "Text": "八百屋さんもあったし、そっちは私が行ってくるよ。\n肉系は、あんたに任せていい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘D",
+      "Text": "オッケー！\u3000他にもお礼したい子たちがいるだろうし、\nウチ、声かけてくるねっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あれよあれよと人数が増えていき、\n各自、手分けして準備をすること2時間――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うわっ、うわっ、うわ～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "どうしたの、このごちそう！！\u3000串焼き、焼きそば、\r\nわっ、アヒージョまで！？\u3000……あっ、ちゃんこ鍋もある！",
+      "ChoiceDataList": [
+        "ヒシアケボノの為に用意したんだ",
+        "ヒシアケボノの為に用意したんだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "え……あたしのため？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "実はね、日頃のお礼をするっていうボノのトレーナーさんに、\n私らが乗っからせてもらったの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "いつもおいしいご飯、ありがとね！\nお礼したいって、ずっと思ってたんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘C",
+      "Text": "ボノが作ってくれたご飯を食べると、\n元気になれて明日も頑張ろうって思えるの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘D",
+      "Text": "いっつもこっちばかり嬉しくさせられてるしさ、\nウチらも喜んでほしいっていうか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "みんな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……っ、うん！\u3000あたし今、すっごく嬉しい！\nお腹もペコペコ！\u3000もう、いただきますしてもいい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "あははっ、もちろん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "それじゃあ……せーっの！",
+      "ChoiceDataList": [
+        "いただきます！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "全員",
+      "Text": "いただきまーす！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "賑やかな夜の砂浜。食欲をそそる香りと、\n楽しそうなウマ娘たちの笑い声。そして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ボーノ！\u3000あっちもそっちも、すっごくボーノ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "みんな、ありがとう！\u3000トレーナーさん、ありがとう！\nおいしいって、幸せだね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヒシアケボノの幸せな笑顔が、そこにはあった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "後片づけも終わり、みんなが合宿所に戻ったあと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "はー☆\u3000お腹いっぱい！\n今日は本当に、ありがとう！",
+      "ChoiceDataList": [
+        "お礼にはなったかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "もっちろん！\r\nとってもとっても、嬉しかったよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "それとね、あたしわかったんだ。\n……食べる側が込める想いのこと！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "『いただきます』って、言うでしょ？\nきっとあの瞬間に、最後の味付けが終わるんだねっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "『ありがとう』『嬉しい』、そんな気持ちが集まって、\r\n料理を完成させるの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "たくさんの具材みたいに、たくさんの気持ちがあって作られる。\nそれが、きっと『真のちゃんこ』なんだよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あたしはずっと、おいしく食べてもらうことばっかり\n考えてて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "食べてくれる人の感謝の気持ちとか、無視してたわけじゃ\nないけど、意識してこなかったなーって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "だから『いただきます』を、しっかり受け取って、\r\nみ～んなが、心から満足したって思えるようにしたいっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "それでようやく『ごちそうさま』に\r\n辿り着くのかな～って。",
+      "ChoiceDataList": [
+        "そうだな",
+        "そうだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "えへへ。\n……あのね、トレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あたし、みんなを笑顔にしてあげられるような、\nちゃんこ鍋みたいなウマ娘になりたいって思ってたけど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "それだけじゃなくて、笑顔にしたいって思ってもらえるような、\nそんな『真のちゃんこ鍋』みたいなウマ娘にもなりたいな。",
+      "ChoiceDataList": [
+        "もう思われてるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "本当？\u3000……そっか。\nトレーナーさんは、そう思ってくれてるんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ふふふっ。\nトレーナーさんは、あたしにとってのダシだね！",
+      "ChoiceDataList": [
+        "……うん？ダシ？？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "そう！\u3000あたしがちゃんこ鍋なら、トレーナーさんはダシ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "絶対に、なくてはならない大切なもの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヒシアケボノらしい変わった表現の仕方だったが、\nその笑顔と言葉からは、深い信頼が感じられた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

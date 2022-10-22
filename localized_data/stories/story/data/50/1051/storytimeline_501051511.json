@@ -1,0 +1,287 @@
+{
+  "Title": "メイド・イン・フラワー",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーニング終わり。\r\n今後の予定を確認しようと手帳を取り出し――",
+      "ChoiceDataList": [
+        "あっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "手を滑らせて、落としてしまった！\r\n落とした先は運悪く、水たまりで……。",
+      "ChoiceDataList": [
+        "はぁ、新しいの買わないと……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あの、よろしければ手帳カバーを、\r\nお作りしましょうか？",
+      "ChoiceDataList": [
+        "え、手帳カバー？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はい！\u3000気休め程度かもしれませんが、\r\n今後少しは手帳を保護できると思いますので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ありがたいが、\r\nニシノフラワーの手間にならないだろうか。\nであれば――",
+      "ChoiceDataList": [
+        "そこまでしてもらうのは、悪いよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "あ～らら、もったいないっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セイウンスカイ",
+      "Text": "もったいないですよートレーナーさん！\r\nフラワーの作ってくれる\nカバーって超逸品なんですよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セイウンスカイ",
+      "Text": "この前作ってもらった釣り具カバーなんて、\r\n海風山風なんのそのってぐらい頑丈でして～。",
+      "ChoiceDataList": [
+        "そんなに頑丈なのか",
+        "そんなに頑丈なんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セイウンスカイ",
+      "Text": "それはもう。使い心地も抜群！\r\nもう1つ作っていただきたいくらいですよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "型紙から作ったので不安だったんですが、\r\n気に入っていただけてうれしいです……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "では、釣り具カバーもう1つ作りますね！\r\n布はまだまだ余っていますので――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "ふぅン？\r\nでは、私も研究用にいただこうか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "フラワー君のアームカバーは、\r\n実に素晴らしいものでね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "科学的、物理的問わずっ！\r\nありとあらゆる爆発から\n幾度となく私の上腕を守り抜いてきたんだ！",
+      "ChoiceDataList": [
+        "す、すごい頑丈さだな",
+        "す、すごい頑丈さだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "そう！！\r\nそれに肌触りもよく、実に快適なのだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "その強度や構造は興味深い……\r\n私の研究に応用できるとみていてね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "解析作業のために、是非！\r\nアームカバーをもう1ついただきたいのだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "いや……ここは共同研究という形でいこう！\r\nラボは好きに使っていいぞ、ん？\u3000どうだね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あ、ありがとうございます。\r\n熱心に考えていただいて……うれしいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ただ、私はふつうに作っているだけですので、\r\n研究だなんてたいそうなものでは……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タイキシャトル",
+      "Text": "ノンノンッ！\r\nフラワーのカバーはまさにアメイジング！",
+      "ChoiceDataList": [
+        "こ、今度はなんだ！？",
+        "こ、今度はなに！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "タイキ先輩！\r\nあ、あめいじんぐ……ですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タイキシャトル",
+      "Text": "イエス！\u3000ガンスピンの練習用に\r\n作ってもらったグリップカバーは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タイキシャトル",
+      "Text": "何度落としても！\u3000何度擦っても！\r\nまったく破れマセン！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タイキシャトル",
+      "Text": "本場アメリカでも、\r\nあんなカバーは見たことないデス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タイキシャトル",
+      "Text": "つまり――No.1！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……こうして気づけば、\r\n辺りにはニシノフラワーのカバー愛好者が\n集まり、思い思いに賛辞を述べていた。",
+      "ChoiceDataList": [
+        "すごい人気だな",
+        "すごい人気だね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "こんなに喜んでいただけるなんて……\r\n好きで作っていただけなので、\nむしろおせっかいだったら、って――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "みんな",
+      "Text": "お節介？\u3000まさか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "えっと、えっと……ありがとうございます！\r\nうれしい、です！\u3000うれしくて、その……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ううっ……ほっぺたが、熱いですっ！",
+      "ChoiceDataList": [
+        "俺も手帳カバーが楽しみだ",
+        "私も手帳カバーが楽しみ",
+        "もっと喜んでいいと思うよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ううっ……ほっぺたが、熱いですっ！",
+      "ChoiceDataList": [
+        "俺も手帳カバーが楽しみだ",
+        "私も手帳カバーが楽しみ",
+        "もっと喜んでいいと思うよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "は、はい！\u3000手帳カバーですね！\r\n任せてください、すぐにお作りしますっ！",
+      "ChoiceDataList": [
+        "お願い"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "喜んでもらえるよう……\r\nせいいっぱい、心をこめますね！\nもちろん、みなさんの分もっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セイウンスカイ",
+      "Text": "またまたファンが増えちゃったか……。\r\nま、そうなっちゃいますよね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ええっ！\u3000これ以上ですか……？\r\nど、どうすれば……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タイキシャトル",
+      "Text": "ドーンッ！\u3000と胸を張りまショウ！\r\nフラワーは、みんなのNo.1なんですカラ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……わかりました！\r\nみなさんへの感謝を込めて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "えいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "みなさん、ありがとうございます……！\r\nそのお気持ちが、ほんとうにうれしいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その言葉に愛好者一同は、\r\n静かに頷くのであった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

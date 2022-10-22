@@ -1,0 +1,338 @@
+{
+  "Title": "タスクを再実行します。",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ファン感謝企画が行われるらしく\n実行委員たちの様子を見てくるよう頼まれた。\nその、企画名とは……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "『ワクワク☆人気ウマ娘たちが選んだ\nとっておきプレゼント当たっちゃう！\nキャンペーン♪』です。",
+      "ChoiceDataList": [
+        "わかりやすい名前……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "的確な名称にできたようでなによりです。\n本企画では学園指名の複数名に各自1点ずつ\n『プレゼント』を用意してもらいます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "現在、参加者たちの『プレゼント』提出が\n遅れているため『催促ミッション』を実行中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "しかし、『催促』には高度な\nコミュニケーション能力が必要と判断。\n実行前に『作戦』の検討を実行中です。",
+      "ChoiceDataList": [
+        "相手を気遣ってるんだな",
+        "相手を気遣ってるんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……肯定。実行委員として、\n対象に余計なストレスをかけたくありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ステータス『圧』が発生しないよう。\nなにか、軽減できる方法は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "――！\u3000演算完了。『名案』が浮上しました。\nトレーナーさん、今、時間はありますか？",
+      "ChoiceDataList": [
+        "へ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "3人で会話すれば、2人きりの状態より、\n緊迫した雰囲気を軽減できると予測します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "つまり『あなたの同行を希望』します。\n……お願いできないでしょうか。",
+      "ChoiceDataList": [
+        "そのくらいお安い御用だよ",
+        "じゃあ善は急げだ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "最初のターゲットは、コパノリッキーさん。\n今日はまっすぐ寮に帰ったそうですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "あれ、ブルボンさんたち？\nこの氣はもしや……プレゼントの件かなっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ラッキー☆\u3000いい巡り合わせだねー！\nちょうど買ってきたところだよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "はい！\u3000コパッと開運☆\u3000な、\nふくろうの置物だよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ありがとうございます。\n確かに受け取りました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "遅れてごめんね。どーしても吉方位で\n買いたくて、ちょっと隣の県まで行ってたの！",
+      "ChoiceDataList": [
+        "そんなに遠くまで……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "えへへ♪\u3000吉方位の効果は、普段暮らしてる\n場所から離れるほど強くなるものだからね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "お店を探すの大変だったよ～！\nでも！\u3000当たった人にラッキーになって\nほしいから、がんばっちゃった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "なるほど……当選者のステータス『幸運』の\nために、手間暇をかけたことを理解しました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ただ物を贈るだけではなく、\n深い『想い』を、込めているのですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "だね☆\u3000ブルボンさんのプレゼントが\n当たった人もいい氣を受け取れるといいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "――っ！",
+      "ChoiceDataList": [
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "私の……プレゼ……ト…………。\n…………………………。\n………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "はっ！\u3000急に陰陽の氣に、乱れがっ……！？\nむむむ、中庸に整えないと……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "再起動完了――先ほどは失礼いたしました。\nもう大丈夫です。",
+      "ChoiceDataList": [
+        "えっと、ブルボンのプレゼントは……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……バックグラウンドで選定中でしたが、\n選定基準がメモリに存在せず、\n思考への負荷が増加……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "最初のターゲットを発見。休憩中と判断。\n――接近します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "ふぅ……あら？\n2人とも、どうしたの……？",
+      "ChoiceDataList": [
+        "例のプレゼントを預かりに！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "あぁ……！\u3000ごめんなさい。\nすっかり忘れていました……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "いえ、期限を延長しましたので、\nそれまでに回収できれば問題ありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "けれど……また忘れたら困るから、\n今すぐ用意するわね。少し待っていて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "――はい、これ……。",
+      "ChoiceDataList": [
+        "これは……蹄鉄？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "はい、ロッカーから新品をとってきました。\nまとめ買いしているからたくさんあるんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "確認します。……ステータス『関心』。\nこれが、スズカさんの愛用品なのですね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "ふふっ、今の反応、\n前にファンの人にあげた時と同じだわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "実は……デビューしてすぐの頃にもね、\nファンに蹄鉄をあげたことがあるの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "何をあげるか迷っていたらリクエストされて、\n『スズカの愛用品だ！』って喜ばれたのよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "それ以来、こういう時はいつも蹄鉄を\n1セットあげるようになったの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "私は……走ること以外には詳しくないけど、\nこれなら自信を持って贈れるわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "なるほど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "ところで、ブルボンは何にしたの？\nどんなものを選んだのか楽しみだわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "――っ！",
+      "ChoiceDataList": [
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "私の……プレゼ……ト…………。\n…………………………。\n………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "あ、あら……？\u3000エネルギー切れ、かしら？\nお、おやつのいちご大福ならあるけど……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "再起動完了――先ほどは失礼いたしました。\nもう大丈夫です。",
+      "ChoiceDataList": [
+        "えっと、ブルボンのプレゼントは……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……バックグラウンドで選定中でしたが、\n選定基準がメモリに存在せず、\n思考への負荷が増加……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "処理を一時停止し他タスクを優先したところ\n非アクティブ状態が続き、いつの間にか\n強制終了となっていました……。",
+      "ChoiceDataList": [
+        "忘れてたんだな……",
+        "忘れてたんだね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ステータス『迂闊』……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ですが、今回の催促ミッションで\n多くのサンプルデータが得られました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "データをインストール後、すみやかに\nタスク『最適なプレゼントの選定』を\n再実行します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

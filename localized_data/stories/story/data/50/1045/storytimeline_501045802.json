@@ -1,0 +1,295 @@
+{
+  "Title": "Curse or Wrap",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今宵、恐ろしいモンスターたちが\r\nあなたに忍び寄る……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ほ～ら……あなたも……\r\n呪ってあげるぅぅ～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ディレクター",
+      "Text": "……カァッット！！\u3000リハは完璧ですね！\r\nいや～、あなたに出演を依頼してよかった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ありがとうございます～。\r\n『どきどき☆ホラーナイト』の宣伝担当、\nしっかり務めさせていただきますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今日は遊園地のイベントPR動画撮影の日。\r\nモンスターに扮したスーパークリークらが\n園内の客を襲う……という内容らしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……で、なんで見学してたウチと\r\nトレーナーがエキストラ参加やねん。",
+      "ChoiceDataList": [
+        "一緒に頑張ろう！",
+        "一緒に頑張ろうね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "んまあ、クリークの晴れ舞台やしな。\r\n……しゃーない、ぼちぼちやろか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "2人ともありがとうございます～。\r\nみんなで楽しい動画にしましょうね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ディレクター",
+      "Text": "では、エキストラの方が逃げ惑うシーン！\r\n4……3……2……アクション！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狼男",
+      "Text": "ワォォォオオオオーーーン！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゾンビたち",
+      "Text": "ウウゥ～～……ウオォ～～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "……さあ、私と一緒に……\r\n永遠の眠りを～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ひえ～！\u3000作り物でも迫力満点や！\r\nっしゃ、しこたまビビったるで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゾンビたち",
+      "Text": "ウアァァ……アァァァア～～……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ぎゃあああ～～～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "えっ……！？\u3000タマちゃん……大丈夫かしら。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ディレクター",
+      "Text": "次は森のシーン！\u3000ここで狼男が\r\n学園のトレーナーさんにガバーッと噛みつく！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狼男",
+      "Text": "ガルルルルッ……ガァァァッ！",
+      "ChoiceDataList": [
+        "うわああぁ～～っ！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "トレーナーさん！\u3000私……私……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "もう我慢できません！\r\n2人から離れてください、狼男さん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狼男",
+      "Text": "が……ガルッ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "急になに言うとんねん！？\r\nオマエは襲う側のミイラやろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "いいえ……ミイラじゃなくてマミーですよ～。\r\n怖くなかった？\u3000ケガはしてない？\n痛いところに包帯巻き巻きしますからね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なっ……！\u3000ウチら本気で\r\nビビってへんし、噛まれてもないで！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "大丈夫、ぜんぶマミーに任せてください～。\r\n後でいいこいいこもしてあげます♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狼男",
+      "Text": "グ、グルルルル……グガァア～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "……あらあら、仲良くできない子には……\r\nいいこになる呪いをかけちゃいますよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ディレクター",
+      "Text": "…………カット、カァァァッット！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "……えっ、あっ、ごめんなさい！\r\n私、撮影だってことをすっかり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ディレクター",
+      "Text": "あなたたち…………サイッコー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "いや、なんでやねん！\r\nクリークのアドリブ強すぎたやろ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ディレクター",
+      "Text": "OK！\u3000母性に目覚めたマミーの感動大作！\r\n素晴らしい演技でしたっ！\nこの動画は話題になりますよ～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "そうなんですか？\u3000私はただ2人を\r\nほっとけなかっただけで……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ディレクター",
+      "Text": "その自然な感じがよかったんですよ！\r\n学園のトレーナーさんも、そう思いますよね？",
+      "ChoiceDataList": [
+        "クリークらしくてよかったと思います！",
+        "イベントの宣伝にはならない気が……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "本当ですか？\u3000それならよかったです～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ディレクター",
+      "Text": "ええ、その調子でドンドンいきましょう！\r\n母性に目覚めたマミーのシーンから、\n続きをお願いします！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ええっと……こんな感じ、でしょうか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "タマちゃん……いいこいいこ……\r\nよしよし……してあげる～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "それ演技とちゃうやん！\r\nどのモンスターよりも怖いわ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "後日、母性溢れる動画が話題となり\r\nイベントは初日から大盛況だったらしい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "や、やっぱりそうですよね……！\r\nすみません、勝手なことをして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ディレクター",
+      "Text": "確かに通常のパターンもお願いしたいですね！\r\n……狼男が襲うシーンからいきましょうか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狼男",
+      "Text": "ウガァァーーー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "うぎゃああ～～っ！\u3000くわばら～～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "や、やっぱりダメです！\r\n2人には手を出さないでくださ～い！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、何度か撮り直しをしつつ、\r\nなんとか撮影を終わらせたのだった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "Title": "スイーピーと伝説の教え",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ねえっ、見てあのポスター！\n『ついに明後日、フロアの魔術師降臨！』\nですって！",
+      "ChoiceDataList": [
+        "うーん、想像している魔術師と違う気が……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そんなの、見てみないとわかんないじゃない！\n魔術師に会いたい！\u3000行くったら行くの！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "以前の残念魔法スポット巡りを考えると、\n今回も魔法とはかけ離れた残念な結果に\nなってしまいそうだが――",
+      "ChoiceDataList": [
+        "……よし、行ってみよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "スイープトウショウが望むのなら\nたとえ魔法とかけ離れていても、\nしっかり案内して楽しませてあげたい……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "うっわー！\u3000すっごくにぎやか！\nみんなでクラクラするほどの大騒ぎをする\n……これが、ウワサに聞いた魔女集会ね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "それに魔術師の登場は……場所も時間も秘密！\n魔術師らしいサプライズ！\u3000絶対見つけるわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "会場内にあるどこかのステージに、\nサプライズで登場するという魔術師。ならば、\n全体を見渡せる場所にいるのがよさそうだ。",
+      "ChoiceDataList": [
+        "中央ステージに移動しよ――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "MC",
+      "Text": "おおっと！\u3000会場入り口でゲリラ開催！\n新鋭シンガー、アダムが登場だ～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "陽気なお兄さん",
+      "Text": "アンタどこ行くんだよ！\u3000見なきゃ損だぜ！？\n一緒に入り口までダッシュすんぞ！",
+      "ChoiceDataList": [
+        "えっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "使い魔、どこ行くのよ！\n中央ステージ、先に行っちゃうわよー！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "陽気なお兄さん",
+      "Text": "え？\u3000アダムじゃなくて、\n例の魔術師を見に来た！？\u3000悪い悪い！\n詫びに確かな情報、教えるからさ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "あー！\u3000やっときた！\nまったく、ご主人を待たせていいご身分だわ！",
+      "ChoiceDataList": [
+        "魔術師の情報を掴んだぞ！",
+        "魔術師の情報を掴んだよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大声ではしゃぐ観客達",
+      "Text": "――わぁぁ！！\u3000大音量、カマせ～～！！\n――さいっこ～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "なーーにーー？\n聞こえないんだけどーー！？",
+      "ChoiceDataList": [
+        "と、とにかくこっちに来て！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ふーん、ここに魔術師が……\nたしかにスタッフっぽいのが動き回ってるわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "けほけほっ……ん～、\nさっき大声を出したせいかしら？\n魔術師とちゃんとしゃべれるといいけど。",
+      "ChoiceDataList": [
+        "ドリンクを買ってくるよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "おいしー♪\u3000使い魔、なかなかいい働きね！\nあとは魔術師が来ればカンペキっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客たち",
+      "Text": "ここだよな、例の魔術師くるの！\nもっと前で見ようぜ！\u3000――って、やば！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ドン！\u3000パシャッ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "あーーーーっ！\u3000限定ドリンク！\nお気に入りの靴下～～～！！",
+      "ChoiceDataList": [
+        "い、急いで洗おう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "えーっ！？\u3000洗ってる間に\n魔術師のステージ終わっちゃったの！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……結局、今回も失敗してしまった。\nよりによって、スイープトウショウが\n望んだイベントを台無しにした形で……。",
+      "ChoiceDataList": [
+        "……ごめん、失敗ばっかりで"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……、\n……はーあっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ほーんと、アンタってばダメダメよね。\n1回つまずいたらドンドンつまずいちゃって。\nウジウジして――",
+      "ChoiceDataList": [
+        "うっ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "こんなのを失敗だって思ってるなんて！",
+      "ChoiceDataList": [
+        "……え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "いい？\u3000アンタは使い魔なりたての\n見習いみたいなもの！\u3000わかる？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "この天才魔法少女のアタシとは違うのよ？\nカンペキにできるわけないじゃない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "このアタシだって、昔は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "けほっ、けほっ！\nうう、なんでお鍋が爆発したのよ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "派手にやったねぇ！\u3000でも大丈夫。\nケガがなければ、今回はそれでヨシさね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ぜんぜんよくないもん！\u3000材料ダメにしたし、\n鍋だって……焦がしちゃった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "お鍋が爆発することを知ったスイーピーは、\n次からは慎重にやるだろう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "そうやってみんな、上達していくんだ。\n今重ねたのは失敗じゃない。成功のもとさ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "だから、落ち込むことはない！\nこれからもじゃんじゃん、重ねていくんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "グランマは、この世に失敗なんてないって\n教えてくれたのよ。アタシもそう思うわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "アンタだっておんなじでしょ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "この前の魔法スポット巡り、\n情報に振り回されちゃったみたいだけど……\nその分、今回はすごく調べてたじゃない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……まあ、慣れない魔法集会で\nうまく立ち回れなかったみたいだけど？\nそれだって、次に活かせばいいじゃない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "アンタががんばっただけ、ちゃーんと\n使い魔としての階段は登ってるんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "だから、手を抜かず精進し続けなさい！\nアタシの使い魔なんだからね！！",
+      "ChoiceDataList": [
+        "嬉しいよ、ありがとう",
+        "頑張り、見ていてくれたんだな",
+        "頑張り、見ていてくれたんだね",
+        "最強の使い魔を目指すよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "だから、手を抜かず精進し続けなさい！\nアタシの使い魔なんだからね！！",
+      "ChoiceDataList": [
+        "嬉しいよ、ありがとう",
+        "頑張り、見ていてくれたんだな",
+        "頑張り、見ていてくれたんだね",
+        "最強の使い魔を目指すよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "あら、喜ぶのはまだ早いわよ！\nアタシはまだ満足してないんだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そうね……お腹すいちゃったし、\nまずはなんか甘い物でも持ってきなさいっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "満面の笑みを見せるスイープトウショウに\n約束をした。きっとこれからも、\n彼女を喜ばせるために精進してみせると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "見てたってほどじゃないわ！\nなーんかドタバタしてショゲてるから\n目についただけ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "とにかく！\u3000このアタシの使い魔なんだから\n情けない顔をするのは、もうなしよっ！\n今度は魔法でお仕置きしちゃうんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "素直でなくとも、確かに気にかけて\nくれている。そのことが嬉しくて、\n胸が温かくなったのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "あら、やる気なのはいいことだわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そーよ、魔女仲間に自慢できるくらいの\n最強の使い魔になってもらわなきゃ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "いつかは“大魔女”スイーピーの\n使い魔になるんだから、ね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

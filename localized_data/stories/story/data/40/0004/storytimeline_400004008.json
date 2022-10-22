@@ -1,0 +1,310 @@
+{
+  "Title": "誰が為に最強は有る",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "乙名史記者による密着取材記事は、\r\n思いのほか好評だった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "通行人A",
+      "Text": "へえ、<chrname>のトレーナーって\r\nこんなトレーニングしてるんだな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "通行人B",
+      "Text": "すごいスパルタみたいな噂あったけど\r\nイメージ変わるよねー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "記事が世に出回るたび、\r\n妙な噂は少しずつ消えていった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "<chrname>と、そして\r\n乙名史記者と駆け抜ける日々は\nあっという間に流れて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "遅くまでお疲れ様です。\r\nレースのローテーションでもお考えですか？",
+      "ChoiceDataList": [
+        "そちらこそ、お疲れ様です"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "私は好きでやらせていただいておりますから。\r\n……でも、今日はいつもの\n密着取材ではないんです。",
+      "ChoiceDataList": [
+        "えっ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "たった今、連絡がありました。\r\n『トゥインクルスタークライマックス』\n出走決定です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……おめでとうございますっ！！",
+      "ChoiceDataList": [
+        "ありがとうございます！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "ついに……やりましたね！\r\nいかがですか、今のお気持ちは！",
+      "ChoiceDataList": [
+        "出走できると信じていました"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "ふむふむ、確固たる自信……！\r\n『最強』の名は誰にも渡さない、\nということですね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "折角なので写真もいただきたいのですが……\r\nトレーニングコースを背景に1枚、\nよろしいでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "はい！\r\n結構です、ありがとうございます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "誰もいないコースを\r\nずいぶん贅沢に使ってしまいましたね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "おかげでコースを全力疾走する\r\nトレーナーさんという\n珍しいショットを撮れましたが！",
+      "ChoiceDataList": [
+        "いきなり併走し始めるから焦りましたよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "そちらのほうが臨場感が出るかと思って……\r\nふう、久々に全力で走った気がします。",
+      "ChoiceDataList": [
+        "足、速いですよね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "ふふ、そうですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……今日は取材も終わりましたし、\r\n軽い立ち話でもいかがでしょう。",
+      "ChoiceDataList": [
+        "構いませんよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "ありがとうございます。\r\nでは、コースでも眺めながら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "――今度はゆっくり走りましょう！",
+      "ChoiceDataList": [
+        "ええ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "乙名史記者は言葉通り\r\nゆっくりとコースを回りながら話を続けた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "先程、足を褒めていただきましたよね。\r\n私、確かに田舎では\n足が速いほうだったんですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "小さい頃は、それを自慢にも思ったりして。\r\nでも、ある日――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "私のクラスに、\r\nウマ娘が転校してきたんです。",
+      "ChoiceDataList": [
+        "ウマ娘が……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "当然なんですが、もうその子がすごく速くて！\r\n全く追いつけないんです。尻尾も掴めない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "それっきり陸上はやめました。\r\n人間がウマ娘に勝とうとするなんて、\nバカバカしい話ですが……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "乙名史記者はどんどんスピードを上げていく。\r\nこちらはついていくので精一杯だ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "どうやったって敵わないなら！\r\n彼女が『最強』と呼ばれるところが見たい！\nそんな欲深い夢を抱いたりもしました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "彼女は本当に強かった！\r\n子ども用のレースクラブだったとはいえ、\n何度も1着でゴールしてくれました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "でも……！\r\nはあ、はあっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ゴール板を越えて、\r\n乙名史記者はふと立ち止まる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……その子は、ある大きなレースで\r\n1着になれませんでした。そしてそのせいで、\nクラブで『1番』だと認めてもらえなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "そこから彼女の運命は変わってしまった。\r\n本当に実力はあったんです。素質も実績も\nおそらくクラブで1番でした。でも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……結局、その子はレースの道を\r\n進むことをやめました。\nよくある話ですが。",
+      "ChoiceDataList": [
+        "よくある話、ですか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "ええ、よくある話です。\r\nたった1度の勝敗で運命は決まってしまう。\n道が閉ざされてしまうこともある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "でも、私……いまだに、\r\nあの子が世界で1番脚が速いと、\nそう思えてならないんです。",
+      "ChoiceDataList": [
+        "……だから新レースを？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "もちろん、それだけが理由ではございません。\r\nしかし、そうですね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "あの子がいたから、私は記者として\r\n私の信じる『最強』の形を\n世に知らしめようとしているのだと思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "多くの人に見てほしいのです。\r\n本当に強いウマ娘が、\nその強さを証明する瞬間を。",
+      "ChoiceDataList": [
+        "だから、たくさんの観客を呼びたいんですね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "ええ。\r\n『トゥインクルスタークライマックス』は、\n私のもう1つの夢なんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "最初の夢は、結局叶わなかったけれど……。",
+      "ChoiceDataList": [
+        "きっと素晴らしいレースになります"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "そうですね！\r\nずっと、取材させていただきましたから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……改めて、出走おめでとうございます。\r\nなんだか自分のことのように嬉しいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『最強』が決まる日が近づいている。\r\n<chrname>と\n2人で来たこの道を――",
+      "ChoiceDataList": [
+        "（夢の先まで、行けるだろうか）",
+        "（夢の先まで、行けるかな）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "進むしかない。\r\n<chrname>と走ると約束した日から\n夢は始まっていたのだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

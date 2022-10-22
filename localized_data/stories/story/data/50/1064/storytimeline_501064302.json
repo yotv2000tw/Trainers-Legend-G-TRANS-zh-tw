@@ -1,0 +1,503 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロパーマーと共にレースを終えた、\nその帰り道のこと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あれ？\u3000トレーナー、前に人だかりが……。\r\nもしかして特売とかかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、楽しい楽しい福引だよ！\r\nそこのポニーテールのお姉さん、\nやっていかないかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "おー福引かー。誘われたからには\r\nノっとかないとね。やったりますか！",
+      "ChoiceDataList": [
+        "福引券は持ってたっけ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ご心配なく。さっき打ちっぱなしの\n会計の時に、もらったのがあるんで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "私さ……。抽選券とかポイントカードとか、\n全部きちんと持ってないと\n気が済まないんだよね。あはは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "令嬢らしからぬ日常のしっかり加減は、\r\nいかにもメジロパーマーらしかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "それじゃ2人で、力を合わせて回そっか。\r\nさぁレバーを握って！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ビンゴパーリィ、ヒャッハー！！\r\nいいの、当ったれー！！！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "テンションをブチアゲながら、\r\n一緒に抽選器を回す。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なんとっ！\u3000おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "お、温泉～！？\u3000ヤッバ！！\r\nマジ特賞来ちゃった～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いや……パーリィ気分でビンゴしたら、\r\nまさか温泉パーティー当たっちゃうなんて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あぁぁ～、なんかバイブス上がり過ぎて、\nヘンになってきた～！\n落ち着け、落ち着け、私～……。",
+      "ChoiceDataList": [
+        "おめでとう、よかったな",
+        "おめでとう、よかったね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "う、うん……。すごく嬉しいけど、\r\nちょっと責任も感じちゃうよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "行くからには、ちゃんと仕切らなきゃ。\r\n旅行先の情報チェックして、\n旅のしおりとかも作って……。",
+      "ChoiceDataList": [
+        "そんなの、いらないんじゃ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "え、そう……？\u3000メジロのみんなで行く時は\r\nわりと私が準備してたんだけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "それではメジロパーマーが\nリラックスできない。だから――",
+      "ChoiceDataList": [
+        "準備は禁止。楽しむことに集中して"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "楽しむオンリー！？\u3000うわ、それ、すごいね。\r\nでも、いいのかな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "こういうイベントの時って、いつもなんか\r\nしてたから、落ち着かなそう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "罪悪感をなくすには、せめて……。\r\nそうだっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "この旅行はトゥインクル・シリーズで、\r\nいい成績残せた時のゴホウビってことで\nいい？\u3000それなら……。",
+      "ChoiceDataList": [
+        "ああ、もちろん",
+        "うん、もちろん"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "よし、じゃあそれで！\u3000めちゃ頑張ったら、\n温泉でブチアガりってことで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あああ、またバイブス上がってきた……！\r\nっし！\u3000やるぞ、やるぞ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ガッツを燃やすメジロパーマー。\n爆逃げの彼方に、\n目指すべき素晴らしい目標ができた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "おおお、すごいのゲット！\r\nジューシーヒーハーなの、来たー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あ、このハンバーグ……美味しそうだけど、\nついてるソース、少し味が濃そうだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "味付けは食べる人にお任せでもいいのかな？",
+      "ChoiceDataList": [
+        "塩でも振る？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うーん、それでもいいけど、\nさすがに食塩だけだと味気ないかもね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あ、そうだ！\u3000ね、トレーナー。\r\nよかったら部屋のキッチン貸してよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "私流でよかったら、\r\nちゃっちゃっとやるからさ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ジュウウウウ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "でーきた！\u3000はい、食べてみて。テキトーに\r\n醤油とオニオンで味付けただけだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "うながされて、ひと口食べてみる。\r\nと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "どう、味は？",
+      "ChoiceDataList": [
+        "さっぱりしてて美味しい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あはは、でしょ！\u3000まあ飾り気はないけど\nその分、塩分控えめでヘルシーだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "じゃっ、私も食べよっかな。ご飯とスープも\r\n作っといたから、よかったら一緒に！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "即席のアットホーム夕食会。\nこうしてメジロパーマー特製の\nハンバーグ定食を楽しんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "2等賞～！！\n賞品は『にんじん山盛り』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "おおーっ、けっこういい引き！\nかなりの量だね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "んー、こんなにもらえるんなら\r\nカートで来た方がよかったかもね。",
+      "ChoiceDataList": [
+        "カートって車？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あ、いや、ゴルフカート。もしああいうのが\r\nあったら、運ぶのに便利かなって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ま、ゴルフカートも本物の車も\r\n持ってないんだけどね。あったら\nドライブとか行けて、楽しそうだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ま、夢見ててもしょーがないし、\n自力で運びますか！",
+      "ChoiceDataList": [
+        "手伝うよ、2人で持とう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いいの……？\nなんか私、つい自分でやっちゃう方で……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "でもトレーナーがそう言ってくれるなら\r\n甘えよっかな。よし、一緒に持と！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうしてトレーナー室へと運び込み、\r\nとりあえず1本ずつ焼いて食べることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あむ、ん、ん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "んー、甘くておいしっ！\r\n力仕事した後だと、とくに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "トレーナーも食べて食べて！\n労働の対価は、バッチリ頂かないとね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "促されて1本食べる。働いた後だけに\nその美味しさはひとしおだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "3等賞～！\n賞品は『にんじん1本』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うおっと、たった1本か～。\r\n勢いだけはよかったんだけどね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ま、いっか。にんじんは私にとって\r\n縁起のいい野菜だし。",
+      "ChoiceDataList": [
+        "縁起のいい野菜……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "そ。トレーナー、にんじんをよく見てみて。\r\nあの形、なんに見える？",
+      "ChoiceDataList": [
+        "えーと……ロケット……とか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "おお、ご名答！\u3000そ、ロケット！\r\nロケットっていえば\nロケットスタートだよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ロケットスタートからの爆逃げ勝利は、\r\n私の勝ちパターンだし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "そう考えると悪くない！\r\nここはレッツ・ポジティブシンキング！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "じゃっ、食べながら帰ろっか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "景品はイマイチだったものの、\nメジロパーマーはそんなに\n気にしていないようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うわ……やっちゃった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あの、さ……トレーナー。\nこういう時にやることはひとつだよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "見たくない現実に出くわした時は\r\nこれあるのみ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "爆逃げだぁぁぁ！\nあー、見たくない見たくない、認めなーい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ティッシュなんてなかったー！\r\nくっそーーーっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……認めないと言いながら、律儀に悔しがる\nメジロパーマーなのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "Title": "たまには他力も",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――ある日、公園付近を歩いていると\n撮影中のゴールドシチーを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スタッフA",
+      "Text": "一旦撮影止めまーす！\nシチーさん、休憩入られてくださーい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "はーい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シチーのマネージャー",
+      "Text": "シチー、今日はお弁当作ってきたから\nこれ、食べてね。\n少しでも体調が悪いと思ったら言うのよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "……わかってるってば。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "……はあ。マネジ、最近やけに過保護だな。\n食事も、なし崩し的に頼っちゃってるし……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "（こんな大げさな弁当……仕事の度に\n用意してもらうとか、ウケる……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "（……でも、自分で作ろうったってキツいし。\n料理本読み込んでも、全然上達しない……）",
+      "ChoiceDataList": [
+        "何か悩みごと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "アンタ、学園のトレーナーの……。\nいや、ちょっと……自分の世話くらい\n全部自分でやんないとなって、考えてただけ。",
+      "ChoiceDataList": [
+        "苦手なことなら頼ってもいいんじゃないか？",
+        "苦手なことなら頼ってもいいんじゃない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "え……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "人に頼るのは勇気がいることだが、\n頼ったからこそ得られるものも\nたくさんある……と助言してみる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シチーのマネージャー",
+      "Text": "シチー、お弁当食べられた？\nお腹の調子とか、問題ないかしら。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "ああ……大丈夫だって。\n全部食べたよ、ごちそうさま。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シチーのマネージャー",
+      "Text": "本当に？\u3000あなた、すぐ我慢するから……。\n食生活に心配があるなら、\nこっちでちゃんと対策も考えるわよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シチーのマネージャー",
+      "Text": "撮影がある日は、昼のお弁当だけじゃなくて\n夕飯の手配も検討するし……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "いいって、そういうのは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "いや、食事は確かに気にはなってるけど……\nそうじゃないっていうかさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シチーのマネージャー",
+      "Text": "やっぱり気になってるんじゃないの。\nここは私に任せて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "だから、そうじゃなくて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "（……このままマネジに気遣わせて\nばっかりじゃ、なにも解決しない。\nけど、自力では……解決できない）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "（――頼ったからこそ、得られるものがある。\nそれなら……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "……あのさ、アタシ、ちゃんと自分で\n弁当作れるようになりたいんだよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "だから食事を手配するとかじゃなくて、\nその……料理、上手くなれるように\n……教えてほしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シチーのマネージャー",
+      "Text": "シチー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シチーのマネージャー",
+      "Text": "……ふふ、いいわよ。\n今度私の家で一緒に料理してみましょ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "昼休み、何やら人を捜してる様子の\nゴールドシチーを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "――あっ、ユキノ！\nちょっといい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "もぐもぐ……うンめぇ～！\nすンごく美味しいです、シチーさんっ！\nこのウインナーも、焼き加減がサイコーです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "……よかった。",
+      "ChoiceDataList": [
+        "マネージャーに教わって、上達した？",
+        "人に頼るのもたまにはいいよな",
+        "人に頼るのもたまにはいいよね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "……よかった。",
+      "ChoiceDataList": [
+        "マネージャーに教わって、上達した？",
+        "人に頼るのもたまにはいいよな",
+        "人に頼るのもたまにはいいよね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "あー……うん、まぁ、それなりにね。\nあれから何度か教わってるし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "……うん、我ながらそこそこ美味しい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "（……自分でできる限り努力する。\nそれは大前提だけど……行き詰まった時は、\n人を頼るのも大事ってことかな）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "……まぁ、そうかもね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "（もっと練習して、いつかちゃんと\n1人で自炊できるようにならなきゃな）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ほンとにうンめぇです～！\nこれが都会のお弁当の味……っ！\n感動だべぇ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "……ふ、も少し落ち着いて食べなよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "（マネジに教わりながら、\nたまにこうやってユキノに食べてもらって\n感想聞くのも……アリかもね）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "Title": "家族（？）でショッピング！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マヤノトップガン",
+      "Text": "みんなー！\u3000早く早くー！\r\nはやりのカフェで大人のコーヒーゼリー\n食べよー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "いや、おもちゃ屋だ、おもちゃ屋！\r\nキャロットマンのカッコいい乗り物とか\n絶対みんな気に入るからっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "まったく2人ともお子ちゃまなんだから。\r\n少しは黒魔法とかに興味持ったらどう？\nアタシみたいにねっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "はいは～い、みんな落ち着いて～。\r\n後でちゃんと全部回るからね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "走らないようにしましょうね～。\r\nウマ娘は小走りでも、\nちょっぴり速いですから。",
+      "ChoiceDataList": [
+        "ここは人も多いしね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "ご、ごめんなさーい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マヤノトップガン",
+      "Text": "ごめんなさーい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ふふっ、ちゃんと反省できて\r\nえらいですよ～♪\u3000いいこいいこ～♪\nなでなでなで～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "3人",
+      "Text": "あぁ～～～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今日は4人と一緒に\r\nショッピングへ来ていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "学園でばったり鉢合わせし、\r\nみんな行き先が同じだったため\n一緒に遊ぶことになったのである。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "なー、トレーナー！\r\nおもちゃ屋へ先に行こう！\n戦隊もののカッコよさわかってくれるよな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マヤノトップガン",
+      "Text": "違うよ～！\u3000カフェが先～！\r\n大人の魅力、わかってるよね！\nカフェでコーヒーゼリーだよね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "2人から両手をぐいぐい引っ張られる。\r\nまるで親に甘える子どものようだ。",
+      "ChoiceDataList": [
+        "ちゃ、ちゃんとどっちも行くから！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ふふっ、モテモテですね。\r\nそれで？\u3000どちらから参りましょうか？",
+      "ChoiceDataList": [
+        "おもちゃ屋で楽しく！",
+        "カフェでゆっくり"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "おおおぉぉぉっ！？\r\nキャロットマンの新作武器が出てるっ！？\n来てよかった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マヤノトップガン",
+      "Text": "わぁ～！\r\nカワイイ手鏡！\nこういうのも売ってるんだぁ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ふ、ふんっ！\u30002人ともお子ちゃまね！\r\nおもちゃ屋ではしゃぐなんて……！\n…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう言いながら、スイープトウショウは\r\nある一点をじっと注視している。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そこには『魔法少女のステッキ』の\r\nおもちゃが並べられていた。",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "スイープトウショウの注意を引いて\r\nもらいたい。スーパークリークに\n目配せをすると、彼女は小さく頷いた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "スイープちゃんはあのステッキが\r\n欲しいんですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……っ！？\r\nい、いい、いらないわよっ！\nあんな子どもっぽいの……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "あのステッキかわいくて、\r\nでもどこかかっこいいですもんね。\n私も欲しくなっちゃうわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "えっ！？\u3000クリークもっ……！？\r\nクリークもそうなのっ！？",
+      "ChoiceDataList": [
+        "2人とも、ステッキ買ってきたよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……っ！？！？\r\n……！？\n…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……も、もう買っちゃったのなら\r\nしょうがないわね。\nい、いらないけど……もらってあげる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マヤノトップガン",
+      "Text": "あ～！\u3000スイープちゃんズルい～！\r\nマヤもこの大人っぽい\nキレイな手鏡欲しい～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "アタシもっ！\r\nキャロットマンのこの新作武器が\nカッコよくてたまらないんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……思わぬ出費になったが、\r\nなんだか悪い気はしないのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "トレーナーさん\r\n今日はありがとうございました。",
+      "ChoiceDataList": [
+        "とても楽しかったよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マヤノトップガン",
+      "Text": "……にぎゃい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "マヤノトップガンが食べたがっていた\r\n大人のコーヒーゼリーは、\n想像よりもずっとビターだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコー＆スイープ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "コーヒーゼリーが苦くて、\r\n子ども3人のテンションが\nぐっと下がってしまっている！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ふふっ、このコーヒーゼリーは\r\n本当に美味しいですね。\nみんなの分も食べちゃいたいくらい♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マヤノトップガン",
+      "Text": "……っ！",
+      "ChoiceDataList": [
+        "お、俺ももっと欲しいなぁ！",
+        "わ、私ももっと欲しいなぁ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "でもそうすると、みんなの分の\r\nデザートがなくなってしまいますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "これは仕方がありません。\r\nみんな、新しいデザートは\n何が食べたいですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "コーヒーゼリーをくれたお礼です♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マヤノトップガン",
+      "Text": "い、いいのっ！？",
+      "ChoiceDataList": [
+        "もちろんっ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "やっ、やったあ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "しょ、しょうがないわねぇ！\r\nコーヒーゼリーをゆずってあげるわっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして子どもたちの味覚の平和は\r\n守られるのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "トレーナーさん\r\n今日はありがとうございました。",
+      "ChoiceDataList": [
+        "とても楽しかったよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ふふっ、本当に楽しい1日でした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "今日はとっても賑やかで……\r\n本当に家族で遊びに来たみたい。",
+      "ChoiceDataList": [
+        "家族か……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "小さな3人が手のかかる元気な子ども。\r\nそして、そうだとすると、\nスーパークリークと自分は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "クリーク先輩！\u3000トレーナー！\r\nなにしてるんだ？\n置いてっちゃうぞー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "あら、うふふ、急ぎましょう。\r\n子どもたちが待っています♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ね、お父さん♪",
+      "ChoiceDataList": [
+        "……っ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ね、お母さん♪",
+      "ChoiceDataList": [
+        "……っ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ふふっ、冗談です♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "Title": "読書少女と秘密の作戦会議",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『読書推進週間』の催し物について、\r\nゼンノロブロイ、スイープトウショウと\n作戦会議を行うことになったのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "なっ、なによ、あのぶ厚い紙の束！\r\n魔法書っ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "いえ……？\u3000私がピックアップした本の\r\nおすすめポイントをまとめた資料です。",
+      "ChoiceDataList": [
+        "この量は……ハードルが高いかも"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "こんなのみんな見る気にならないわよっ！\r\nグランマみたいにもっとわかりやすく！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "ええっ……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "花の色を変える魔法も箱から鳥を出す魔法も、\r\nグランマは目の前でやって見せてくれたの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ぶ厚い魔法書を読むより、\r\nそっちのほうがよっぽどわかりやすかったわ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "なるほど……。",
+      "ChoiceDataList": [
+        "体験で魅力を伝えるのはいい案かも"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "私たちがやるなら……本の見どころを\r\n再現した展示コーナー……ですかね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "いいじゃない！\r\n本の中に入ったみたいでたのしそう♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "では催し物の内容は決定ですね！\r\nあと必要なものは――",
+      "ChoiceDataList": [
+        "魅力的な宣伝かな？",
+        "雰囲気をもっと出すとか……",
+        "衣装も凝った方がいいと思う！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "たしかに、いくら展示を頑張っても、\r\n見に来てもらえなければ意味がないですし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "人通りの多い街頭なら……\r\nいい参考例があるかもしれませんね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――ということで、会計を済まし、\r\nカフェの外を散策することになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "チラシ配りや声かけは鉄板ですね……加えて、\r\nなにか興味を引くものがほしいところですが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女の子A",
+      "Text": "わぁっ！\u3000マジカル☆ダビ子だ！\r\nダビ子がほんとにいる～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ダビ子ですって！？\r\nどこどこっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "ス、スイープさん！？\r\n待ってくださーい……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魔法少女姿のウマ娘",
+      "Text": "マジマジ☆マジカル♪\r\n『マジカル☆ダビ子・リターンズ！』ショー\nで、ダビ子が華麗に大活躍っ☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魔法少女姿のウマ娘",
+      "Text": "よいこのみんなー！\r\nこの後、イベントステージで会おうねっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "行く行く！\r\n絶対行くわ～～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "さあ、2人とも！\r\nダビ子ショーを見に行くわよ！",
+      "ChoiceDataList": [
+        "宣伝の参考探しは！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "た、多分大丈夫です……！\r\n今、その参考を見ることができたので……。",
+      "ChoiceDataList": [
+        "どういうこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "その……私たちもダビ子さんみたいに\r\n宣伝してみればいいんじゃないかなと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "ただ声かけをするだけではなく、\r\n先ほどのように登場人物になりきれば、\nより興味を引けると思います……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "は、恥ずかしいですが……人通りの多い\r\n中央広場で宣伝すればきっと……！",
+      "ChoiceDataList": [
+        "いいと思う、やってみよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "アタシもアタシも！\r\n魔法少女の姿だったらやってあげてもいいわ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "ありがとうございます……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ふふん、じゃあ今度こそ\r\n心置きなくダビ子ショーに行けるわね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "（2人と一緒ならきっと大丈夫……。\r\n……催し物の魅力、ちゃんと伝えよう……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "たしかに、物語の雰囲気をもっと出せれば\r\n没入感も、より深まりますね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "雰囲気ねぇ……そんなふわふわしたもん\r\nどうやって出すのよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "あそこにいるの、カフェじゃない！\r\n紅茶飲んでるなんて珍しいわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "たしかに……カフェさんって\r\n生粋のコーヒー党だったはずでは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "な、なになに！？\r\n停電っ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あ……！\r\nよかった、明かりが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ひえぇ！？\u3000またっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ガタガタガタ……ッ！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "ひぃぃっ……！？\r\n今度は変な音が……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "……こ、今度こそ\r\n大丈夫でしょうか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……あ……。\r\nアナタたちも……来ていたんですね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "は、はい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "……あれ？\u3000カフェさん、\r\n今、入口から入ってきましたよね……？",
+      "ChoiceDataList": [
+        "じゃあ、さっき見かけたのは……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ロブロイ＆スイープ",
+      "Text": "…………！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "ううぅ……しばらく\r\nあのお店に行けないかもしれません……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "なんなのよ、もー！\r\nおばけ屋敷でもないのに、あんな……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "そうですね……\r\nまるでホラー小説みたいな――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あの……先ほどのように、照明や音――\r\n演出を凝れば雰囲気作りが\nできるんじゃないでしょうか……！",
+      "ChoiceDataList": [
+        "確かにそうかも！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "こ、怖かったですけど……\r\nいいお手本に出会えた……のでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "だとしても、\r\nあんな思いはもうこりごりよ～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、涙目の2人とともに\r\nその日は帰路についたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "はい、展示物だけでなく、\r\nスタッフの衣装も大事かもしれませんね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "うんうん！\u3000魔法の物語コーナーには、\r\nそれっぽい子がいてほしいもの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "たしか……ライブ衣装でファンタジーの\r\n世界観に合うものがありましたね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "じゃあそれで！\r\n他はどうする？\u3000どっかで借りる？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あっ……！\u3000フジ先輩なら、\r\n衣装について詳しいのでは……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "元子役の方ですし、\r\n舞台衣装を豊富に取り扱っているところを\nご存じかもしれません……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "なるほどね……君たちのおかげで\r\n今年の『読書推進週間』は面白くなりそうだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "衣装のことなら知り合いにあたってみよう。\r\n大抵のものは揃うはずだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "やったぁ！\r\nアンタもなかなか使えるじゃない♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "ひたむきに頑張るポニーちゃんの瞳を\r\n曇らせたくないからね……。その笑顔を\n守るためならどんな苦労も厭わないさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あ……っ、あわわ……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "フ、フジ先輩の言葉って……どうしてこう、\r\nいつもドキドキしてしまうんでしょう……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "ふふっ。それは私が君を\r\nドキドキさせたいと思っているから、かな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "台詞1つで聞き手が抱く感情は大きく変わる。\r\n……これは、舞台の演技にもいえることさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "自分はどんな人物なのか、\r\nなにを思い、なにを伝えたいのか――\n頭の中に思い描いて演じる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "そうすれば、観客はおのずと\r\n物語の世界へと引き込まれていくんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "物語の……世界へ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "その……もっと教えて頂けませんか？\r\n演じることの心得……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "案内側も登場人物になりきれば、きっと\r\nもっと素敵な催し物になると思うんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "お安い御用さ！\u3000物語を愛する\r\nポニーちゃんのため、一肌脱ごうじゃないか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あ、ありがとうございます……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、フジキセキから演技に対する\r\n心得を聞き、またひとつ賢くなれた気がした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "……という形で、物語の魅力を伝える\r\n展示コーナーを開催したいと考えています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "私はみなさんに本の魅力を伝えたい……\r\n素晴らしい物語を埋もれさせたくないんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "図書委員のウマ娘A",
+      "Text": "……確かに、それなら\r\nみんなに興味を持ってもらえるかもね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "図書委員のウマ娘B",
+      "Text": "うん……大変そうだけど、やってみたいかも。\r\n私も好きな本のこと、知ってもらいたいし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ゼンノロブロイの熱意は図書委員たちに\r\n伝わり、催し物の内容は無事、決定した。\nあとはただ、本番に向け準備を進めるのみ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

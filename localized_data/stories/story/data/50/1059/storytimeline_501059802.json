@@ -1,0 +1,455 @@
+{
+  "Title": "香りを重ねて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日、メジロドーベルに誘われて\n『モイストポプリ』という室内香を\n作るイベントにやってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ハーブ好きの彼女のためにも、\nいい香りの物が作れるように\n全力でサポートしなければ……！",
+      "ChoiceDataList": [
+        "さあ、どのハーブを摘めばいいんだ？",
+        "さあ、どのハーブを摘めばいい？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……いや、\nそんな張り切るイベントじゃないから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あははっ、落ち着いて、トレーナー。\nそんなに張り切りすぎなくても大丈夫だよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "それより、ここまで結構歩いたし……\nちょっと休憩にしたい。アンタも座って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ここまで結構歩いたし、疲れたでしょ？\nハーブティー持ってきてるから、休憩しよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……チョコとかあるから、食べとけば？\n途中でバテられたら困るし。",
+      "ChoiceDataList": [
+        "けど、イベントは？",
+        "けど、イベントは？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "チョコとかもいろいろ持ってきてるんだよね！\n動くんだから、糖分は必要でしょ？",
+      "ChoiceDataList": [
+        "けど、イベントは？",
+        "けど、イベントは？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "イベントは夕方までやってるから。\nほら、早くあっちの日陰行って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "夕方までやってるから大丈夫！\nほら、あっちの日陰で休もうよ。\nこっちこっち！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "珍しく強いその押しに負け、\nメジロドーベルから優しい介抱を受けた。\nそしていざ、ハーブ集めが始まると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "珍しく強いその押しに負け、\nメジロドーベルから優しい介抱を受けた。\nそしていざ、ハーブ集めが始まると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あ、あそこ、ローズマリーがある……。",
+      "ChoiceDataList": [
+        "じゃあ、あれを摘もうか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "いや、でもどうかな。\nすっきりできて、励めるだろうけど、\nもっとやらないとって感じにもなるし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "それだと本末転倒か。\nやっぱり、他のハーブにしたほうが……。",
+      "ChoiceDataList": [
+        "もしもし？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "な、なんでもないから！\nとりあえずこれは保留。あっちのほう、探そ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あ……な、なんでもない。\nとりあえずローズマリーは保留で。\nあっちにも行ってみよ、トレーナー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "この崖を登れば、\nきっとあのハーブがある……！",
+      "ChoiceDataList": [
+        "こ、この崖を登る！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "だって、『ムニャ』が必要なの！\n高地に生える、あのハーブが……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "リラックス効果があって、健康にもいいし！",
+      "ChoiceDataList": [
+        "ケガをしたら健康どころじゃないぞ……！",
+        "ケガをしたら健康どころじゃないよ……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "張り切るイベントではない、と言いながら\n必死な様子の彼女に違和感を覚えつつ、\nその後もハーブ集めに付き合い……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "後日『モイストポプリ』が完成したと\n連絡がきた。出来を見せてくれるのだろうか？\nと思っていると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……はい。この前の『モイストポプリ』。",
+      "ChoiceDataList": [
+        "……ん？",
+        "……ん？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "はいっ。この前作った『モイストポプリ』！",
+      "ChoiceDataList": [
+        "……ん？",
+        "……ん？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "なに、受け取ってくれないわけ？\nできは……一応、保証できるつもりだけど。",
+      "ChoiceDataList": [
+        "え！？こ、これ君のじゃ……",
+        "え！？こ、これ貴方のじゃ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あれっ……受け取ってくれないの？\nいい香りしたし、できにも少しは\n自信あるんだけど……。",
+      "ChoiceDataList": [
+        "え！？こ、これ君のじゃ……",
+        "え！？こ、これ貴方のじゃ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "いや、アタシは何個か持ってるから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あれ？\u3000アタシそんなこと言ったっけ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "その……ちょっと前に、\nチーフトレーナーから電話があったの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……実はさ、ちょっと前に、\nチーフトレーナーから電話があったの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あの、お久しぶりです！\nどうかされたんですか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あの、お久しぶりです！\nどうかされたんですか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チーフトレーナー",
+      "Text": "『最近どうしてるかなと思ってね。\n頑張りすぎて無理してない？\nちゃんとお休みも取ってる？』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "もちろん、しっかりいただいています！\nメジロ家のみんなでお茶会をしたりとか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "本当に、アタシは大丈夫なんです……。\n……アタシのほうは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チーフトレーナー",
+      "Text": "『？\u3000ベルちゃん……？』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あ、いえ！\u3000なんでもないんです。\n全然、大丈夫ですから……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チーフトレーナー",
+      "Text": "『そう……。ひとついい？』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "は、はい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チーフトレーナー",
+      "Text": "『ベルちゃんはね、貴方が思っている以上に\n人のことを思いやれる優しい子よ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チーフトレーナー",
+      "Text": "『だから、もっとその優しさに自信をもって。\nそうすれば、何事も上手くいくはずだから』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チーフトレーナー",
+      "Text": "『ふふっ。頑張ってね、応援してるわ！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "！\u3000……は、はい！\nお電話ありがとうございました。失礼します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……アンタ、いつもアタシのことばっか\n気にかけてるでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……トレーナー、\nアタシに休むよう言ってくれたりして\nいつも気にかけてくれてるでしょ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "それが、さすがに\n見てられなかったっていうか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "だから……アタシからも、少しはなにか\n気遣いを返したかったの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ハーブ集めの際、張り切らないでと言いつつ、\n必死だった訳は……全て\nこちらを気づかってのことだったようだ。",
+      "ChoiceDataList": [
+        "俺のために、ありがとう",
+        "私のために、ありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ハーブ集めの際、張り切らないでと言いつつ、\n必死だった訳は……全て\nこちらを気づかってのことだったようだ。",
+      "ChoiceDataList": [
+        "俺のために、ありがとう",
+        "私のために、ありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "！？\u3000べっ、別に、アンタのためじゃない！\nあの人の期待を裏切りたくなかったってだけ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ううんっ、こちらこそだよ。\nいつも大切にしてくれて感謝してる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "それに……お互いが元気じゃないと、\n勝てるレースも勝てないでしょ。",
+      "ChoiceDataList": [
+        "これからも一緒に頑張っていこうな",
+        "これからも一緒に頑張っていこうね",
+        "今度はこっちが労わないとな",
+        "今度はこっちが労わないとね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "だから……喜んでもらえてよかった。\nちょっとはいつものお返し、\nできたってことだもんね。",
+      "ChoiceDataList": [
+        "これからも一緒に頑張っていこうな",
+        "これからも一緒に頑張っていこうね",
+        "今度はこっちが労わないとな",
+        "今度はこっちが労わないとね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "せっかく作ったんだから、\nその分は働いてもらうから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "うん！\u3000期待してるねっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "いい匂いにかまけて、手抜かないでよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "まずは明日からのトレーニングも、\n一緒に頑張ろうね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "いいって、それ言い出したらキリないでしょ？",
+      "ChoiceDataList": [
+        "キリのある関係じゃないだろ？",
+        "キリのある関係じゃないでしょ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "いいって、それ言い出したらキリないでしょ？",
+      "ChoiceDataList": [
+        "キリのある関係じゃないだろ？",
+        "キリのある関係じゃないでしょ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "は？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ちょ、ちょっと待って……。\nえっと、それって、……どういう……。",
+      "ChoiceDataList": [
+        "トレーナーとして、力の限り付き合うよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……はぁ～～～。\nビックリするような言い方しないでよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あ……あぁー！！\u3000もうっ、今更？\nそれっていつもやってくれてることでしょ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……まあ、お返ししたいって言うんなら\n好きにすれば。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……ビックリした。\nアタシ、てっきり……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

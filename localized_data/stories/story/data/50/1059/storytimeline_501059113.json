@@ -1,0 +1,537 @@
+{
+  "Title": "約束、ふたり",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロドーベルのデビュー戦が無事終わり、\r\n次の目標を決める必要がある。\n一般的にウマ娘が目指す王道路線といえば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "皐月賞、日本ダービー、菊花賞の\r\nクラシック三冠路線か――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "皐月賞",
+        "日本ダービー",
+        "菊花賞",
+        "クラシック"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "桜花賞、オークス、秋華賞の\r\nトリプルティアラ路線だ。",
+      "ChoiceDataList": [
+        "（まずはドーベルの希望を聞きたいな）"
+      ],
+      "ColorTextInfoList": [
+        "桜花賞",
+        "オークス",
+        "秋華賞"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "時を同じくして、夕空の下を駆ける\r\n2つの影があった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "やぁぁぁぁ～～～っ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "くっ……はぁぁぁぁっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "はぁっ……はぁっ……はぁっ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "……ふふっ、やりましたわ～！\r\nわたくしのほうが、先でしたわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "うん、すごかった……！\r\n圧倒されちゃったよ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "それはなにより♪\u3000少しは\r\nトレーニングの成果も出ましたでしょうか～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "トレーニング……そういえばブライト、\r\n最近メニュー変えたんだってね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "前よりもっと自分を追い込むように\r\nなったって……ライアンが、心配したり\n成長を喜んだりで、忙しそうだったよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まあ♪\u3000ふふふ、ライアンお姉さまったら。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "……でも、わたくしだけではありませんわ。\r\nメイクデビュー以来、あなたも変わりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "え……そ、そう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あら、自覚はございませんの～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "……むか～しむかしから見てきましたから、\r\nわかります。ドーベル、目が変わりましたわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "そうですわね、今のあなたとなら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ん？\u3000……なに、ブライト？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ふふっ……ドーベル。\r\nこのあと少々、お時間いただけませんこと？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "はぁ、よい眺めですわ～。\r\nうんと遠くまで見渡せますわね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……ブライト。\r\nこんなところまで来て、どうしたの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ふふ……ねえ、ドーベル。\r\nメジロ家は、あちらのほうかしら～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "思い出しますわね～。\r\nあそこで、あなたと過ごした日々――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "幼い頃、書斎に2人で忍び込みましたよね。\r\nあの時は確かドーベルが、わたくしの手を\n引いて回ってくださいましたわね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あれは……バレたら叱られるっていうのに、\r\nブライトがあんまりのんびり歩くから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "その節はお世話になりました～♪\r\n……それで、たくさん目にしましたわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "棚に並んだ、無数の栄光の証……\r\nメジロの紡いできた、偉大なる歴史を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "マックイーンさまやライアンお姉さま、\r\nパーマーさま……そのほかたくさんの\n諸先輩がたが、メジロの栄光を継ぎました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "マックイーン",
+        "パーマー"
+      ]
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "継承し、研磨し、昇華させ……\r\n皆さまがたのおかげで、メジロの名は\n今なお燦然と競走界にて輝き続けております。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "では、わたくしたちは？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "いつまでも『メジロの末っ子たち』……\r\n過去の栄光に庇護され、\n誇り高き蹄跡に憧れるばかりでしょうか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "わたくしは、そうは思いませんわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ブライト……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ドーベル。わたくしは必ずやあなたに続き、\r\n鮮烈なデビューを果たし――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ゆくゆくは、クラシック三冠を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "敬愛するライアンお姉さまさえ逃した\r\nかの猛々しき威光を、わたくしが、\nわたくしこそが必ず、メジロに捧げますわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "そして必ずや――わたくしこそが、\r\n“メジロの新しき栄光”となってみせます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "っ……！\r\n新しき、栄光……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "はい～。\r\n――それで、ドーベル。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あなたは、どうなさいますか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "アタシ……は……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（ずっと……アタシだけが、\r\n暗いところにいると思ってた）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（自分の脚で明るいほうへと歩いて行ける\r\nブライトやライアン、マックイーンたちとは\n……『違ってしまった』、って）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（だけど――！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "今の、全力……出せたんだっ……！\r\nここで……レースで！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ワァアアアアアアアッ！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（みんなのおかげで走り切れた。\r\nアタシでもできるんだって、\n少しだけ、自信を持てた……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（あの時の高まりがこの胸に残る今なら、\r\nきっと……！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "………………アタシ、も。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "アタシ、だって……！\r\nブライトと、同じものを目指してみせる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "アタシは、ティアラを狙いに行く。\r\n『桜花賞』『オークス』『秋華賞』、\n3つのレースすべてを獲って――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "メジロの至宝……史上初の\r\nトリプルティアラをもたらした、\nあのラモーヌさんに続いてみせる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ラモーヌ"
+      ]
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "だから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "1人で先には行かせないよ。\r\n一緒に描こう、ブライト。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "アタシたちで“メジロの新たな栄光”を……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ふふふっ……やっぱり♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "今のドーベルならきっと、\r\nそう仰ってくださると思っていましたわ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……え。まさか、試したの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "いえいえ、試したなどと～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あなたの気持ちを、\r\nあなたの言葉で聞きたかっただけですわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "はぁ……そういうところ、敵わないなぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ふふっ。では～、改めまして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "この手を取ってくださるかしら、ドーベル？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "――うん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベル＆ブライト",
+      "Text": "三冠とティアラを。\r\nメジロに新たな栄光を、2人で――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "2人の誓いが、夕日に向け高らかに響いた――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その日の夜、メジロドーベルは\r\n全てを打ち明けに来てくれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "同期のメジロブライトと共に、\r\n“メジロの新たな栄光”を紡ぎたいこと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして、そのために\r\nトリプルティアラを狙いに行きたいこと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "いつかラモーヌさんが描いた栄光に……\r\nアタシも、続きたいの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……わかってるよ。今のアタシじゃ、\r\nそんなこと言うにはまだ足りないものが\n多すぎるって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "でも――！",
+      "ChoiceDataList": [
+        "足りないものは、これから一緒に補おう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……！！",
+      "ChoiceDataList": [
+        "俺は君をさらに強くするためにいるんだ！",
+        "私は貴方をさらに強くするためにいる！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "さらに、って……もう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "トレーナー……\r\n本当、アンタって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……じゃあ、クラシックで\r\nティアラ路線へ進むために、まずは\n『阪神ジュベナイルフィリーズ』に行かせて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "阪神ジュベナイルフィリーズ"
+      ]
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……じゃあ、クラシックで\r\nティアラ路線へ進むために、まずは\n『阪神ジュベナイルフィリーズ』に行かせて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "阪神ジュベナイルフィリーズ"
+      ]
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "まずは前哨戦『阪神JF』で結果を残して……\r\nティアラ戦線本番に向けて、力をつける！",
+      "ChoiceDataList": [
+        "よし、そうしよう！",
+        "うん、そうしよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "目指すは『阪神JF』、\r\nそしてトリプルティアラ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロドーベルは、貴きメジロの一員として\r\n立派に歩み始めたのだった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

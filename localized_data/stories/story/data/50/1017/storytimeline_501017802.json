@@ -1,0 +1,321 @@
+{
+  "Title": "鮮やかな記憶",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ある日、シンボリルドルフと\r\n食事をとっていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "ふぅ……ごちそうさま。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "テーブルには食べたハンバーガーの包みが\r\n美しい正方形に折りたたまれていた。\nまた、彼女の口元には汚れひとつない。",
+      "ChoiceDataList": [
+        "君はハンバーガーも綺麗に食べるんだな",
+        "貴方はハンバーガーも綺麗に食べるんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "ん……普通じゃないか？",
+      "ChoiceDataList": [
+        "“普通”というには……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "食事中も所作が美しかった。\r\nそれを彼女に伝えると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "ははっ……\r\n私の兄姉に会えば、さらに驚くことになるぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "2人はまさに行儀作法のお手本だからね。\r\n昔は2人の様子をよく真似したものだ。",
+      "ChoiceDataList": [
+        "末っ子だったのか？",
+        "末っ子だったの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "ふふっ、いや。\r\n私の下にはもう1人、妹がいてね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "……あの子の前では孟母三遷とばかりに\r\nよい姉であるように努めていたかな。",
+      "ChoiceDataList": [
+        "きっと妹さんもできた子なんだろうな",
+        "きっと妹さんもできた子なんだろうね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "ああ、とてもいい子に育ったよ。\r\nだが彼女はそれだけではなく――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ルドルフの父親",
+      "Text": "ルドルフ、今年の目標は決めたかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いルドルフ",
+      "Text": "はい、お父様。兄様と姉様にも\r\nご相談して決めました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ルドルフの父親",
+      "Text": "そうか、では祈りを込めて。\r\nまずはお辞儀をして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ルドルフの妹",
+      "Text": "あー、バイトのみこさんだー！\r\n今日もバイトー？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いルドルフ",
+      "Text": "なっ……ご、ごめんなさい！\r\nこら、巫女のお姉さんはお仕事中だ。\n邪魔をしてはいけないよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巫女",
+      "Text": "ふふっ、いいのよ～。それにしても\r\n去年お話ししたことをよく覚えてたね。\nお参りの後はおみくじも引くの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ルドルフの妹",
+      "Text": "ひくー！\u3000えへへ、おねーちゃんも\r\nよくアタシのことおぼえてたねー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "妹は目を離すとすぐにどこかへ飛び出して、\r\n誰かと友人になって帰ってくるような子でね。\nその明るさは素晴らしいのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ルドルフの妹",
+      "Text": "よっ、ほっ！\u3000ねーさまー！\r\nこっちこっちー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いルドルフ",
+      "Text": "そこにいたのか……！\u3000な、なぜ獅子舞と\r\nいっしょに踊っているんだ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "……騒動の中心になることも多くて。\r\nおかげで妹と出歩く時は、\nよく彼女の手を握って過ごしていたかな。",
+      "ChoiceDataList": [
+        "それは随分と……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "あはは。自由奔放な妹だろう？\r\nだがそのおかげで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ガシャァッ！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "少女",
+      "Text": "おかーさん！\u3000お水、とんでった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "少女の母親",
+      "Text": "こ、こらっ！\u3000申し訳ございません！！\r\nお洋服にかかりませんでしたか……って、\nく……靴がっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "いえ。この程度、問題ありません。\r\n元気いっぱいなお子さんですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ガチャッ！\u3000カランカランカラン……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "少女",
+      "Text": "おかーさん、スプーンもおちちゃったー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "少女の母親",
+      "Text": "なっ……どうして投げちゃうの！？\r\nもうお願いだから、じっとしてて……。",
+      "ChoiceDataList": [
+        "（かなりの暴れん坊さんだ……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "……ふむ。なあ、君。\r\n少しいいかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "少女",
+      "Text": "？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "……ぴょんぴょんぴょん。",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "おみみが？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "少女",
+      "Text": "！\u3000ぴょん！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "ぴょんぴょんぴょん。\r\nおひざに？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "少女",
+      "Text": "ぴょん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "そうそう。ご飯を待つ間はおひざに？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "少女",
+      "Text": "ぴょん！\u3000えへへ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "ふふっ、手遊びが大好きな女の子だったね。",
+      "ChoiceDataList": [
+        "君も随分上手にあやしていたな",
+        "貴方も随分上手にあやしていたね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "はは、それは妹のおかげかな。\r\nどうすればじっとしてもらえるのか、\n試行錯誤の日々だったから。",
+      "ChoiceDataList": [
+        "……優しいお姉さんだな",
+        "……優しいお姉さんだね",
+        "優しいお母さんになりそう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "はは、それは妹のおかげかな。\r\nどうすればじっとしてもらえるのか、\n試行錯誤の日々だったから。",
+      "ChoiceDataList": [
+        "……優しいお姉さんだな",
+        "……優しいお姉さんだね",
+        "優しいお母さんになりそう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "もちろん、厳しくすべき時も\r\nあるとは理解しているがね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "……無邪気な子ほど可愛いものだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "ははっ、“母”か。\r\n私が母になった時か……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "……………うん。\r\n……そうだな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "だが慈母敗子という言葉もある。\r\n自分の娘であれば、わからんぞ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう冗談めかして笑う\r\nシンボリルドルフだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

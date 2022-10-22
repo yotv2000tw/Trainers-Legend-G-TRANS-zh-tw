@@ -1,0 +1,328 @@
+{
+  "Title": "頼りになる人ツアー？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……はぁ。",
+      "ChoiceDataList": [
+        "……大丈夫か？",
+        "……大丈夫？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "あっ――……だ、大丈夫です！\n……えっと、ちょ、ちょっとお腹が空いて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "がんばるぞ～～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "スッキリした～～！！\u3000やっぱり\nモヤモヤって、叫んで吹き飛ばすに限るな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "モヤモヤを……吹き飛ばす……。\n……モヤモヤを……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ど……どうしたら……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "どうしたら、もっとカッコよく\n頼られるようになるのーーーーっ！！",
+      "ChoiceDataList": [
+        "それって……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやら彼女は、\n以前ビコーペガサスたちと行った遊園地での\nことで悩んでいたようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "おおー！\u3000カッコよく頼られるか！\nなんか青春って感じで、いい目標だねっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "いつ達成できるかわからないし、\nどうしたらいいかもわからないんですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "私が目指したことだから……\n諦めたく、なくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "そんなの簡単だよ、チヨちゃん！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "見に行けばいいんだよぉー！！\nチヨちゃんがそう思う人たちをっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "頼りになる人と言えば、お医者さんかぁー！！\nたしかに！\u3000お腹痛いのも治しちゃうもんね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "は、はい！\u3000ドラマとかでも、\nこう……名医が出てきて『必ず助けます！』\nみたいに、頼れることを言ったりするので――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "あれ？\u3000あそこにいるのって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "患者",
+      "Text": "――今日まで大変お世話になりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医者",
+      "Text": "退院おめでとう。……あの時は\n『元通りに治せるかどうかわからない』\nなんて、言ってしまってごめんなさい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "患者",
+      "Text": "ううん……あの言葉があったから、\n信頼できたんです。真摯に向き合ってくれる\nこのお医者さんならって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "うおお～～っ！\u3000退院おめでたいね～～！！\n2人ともよかった～～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "（治せるかわからない、なんて……\n頼りがいのある言葉じゃないのに。\n……でも……）",
+      "ChoiceDataList": [
+        "チヨノオー？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "あ――えっと、次に行きましょうか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子A",
+      "Text": "先生、このお花知らないのー！？\nなんでなんで？\u3000先生なのに～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "先生も知らないことはいっぱいあるよ。\r\nみんなと同じさ。じゃあ、わからないことが\nあったら、みんなはどうするのかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女の子A",
+      "Text": "えーっと……勉強する！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "そうだね。だから、次にそのお花を見た時に、\nみんなに説明できるよう、先生がんばるよ。\nだから、みんなも勉強がんばるんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ふふっ……昔、桜餅を一緒に作った\n先生を思い出しちゃいました……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "おお～！\u3000もしかして、\nそれが和菓子作りの師匠さんだったり！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "いえ、それが先生お料理が全然だめで。\r\nなのに一生懸命レシピを調べてきてくれて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "それが……すごく、嬉しくて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "そうだ……頼りになるって、きっと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "よーしっ！\u3000次はどこに行こうか！？",
+      "ChoiceDataList": [
+        "明日もあるから、そろそろ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "ええー！？\u3000せっかくいいところなのに！\nね、チヨちゃん！\nまだ答えも見つかってないし、続けたいよね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……いえ、充分です！\u3000トレーナーさん、\n私のためにありがとうございます。",
+      "ChoiceDataList": [
+        "答え、見つかった？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "見つかった……というか、気づいたというか。\r\n私がやってきたことは、\n間違ってなかったかもって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "もちろん、まだ全然だめなとこばかりで、\n目標まですっごく遠いんですけど……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "だからこそ……\nこのまま、頑張り続けようかなって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "頑張って……頑張り続ければ。\nきっと……届く気がするので！",
+      "ChoiceDataList": [
+        "頑張りすぎないようにな",
+        "頑張りすぎないようにね",
+        "その調子だ！",
+        "その調子！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "頑張って……頑張り続ければ。\r\nきっと……届く気がするので！",
+      "ChoiceDataList": [
+        "頑張りすぎないようにな",
+        "頑張りすぎないようにね",
+        "その調子だ！",
+        "その調子！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ハッ！\u3000そ、そうですね。\n遊園地での二の舞にならないようにしないと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "私、頑張りすぎないくらいに頑張れるよう、\n頑張りたいと思います！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "がんばりすぎ……がんばれる……んん？？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "よくわかんないけど……がんばれチヨちゃん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "よーしっ！\u3000今まで通りに頑張る、\nということで――学園まで走りましょう！",
+      "ChoiceDataList": [
+        "……え！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "そっか！\u3000いつもやってるトレーニングを\nまずはがんばるってことだね！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "よぉーーしっ！\nそれなら、アタシもとことん付き合うぞーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "チヨノー・オー！\r\nチケゾー・オー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "勢いよく駆けてゆく2人を、\n慌てて追いかけるのだった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

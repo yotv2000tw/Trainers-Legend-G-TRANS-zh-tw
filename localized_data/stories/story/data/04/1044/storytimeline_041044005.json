@@ -1,0 +1,277 @@
+{
+  "Title": "とげとげベイビーローズ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ある日、図書室に立ち寄ると、\nスイープトウショウが熱心に調べものをしていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "見つけたっ！\u3000まさにこれだわ。\n前に見かけた気がしたのよね！",
+      "ChoiceDataList": [
+        "勉強中？偉いな！",
+        "勉強中？偉いね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ふんっ、アタシがえらいのなんて当たり前じゃないっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そんなことより、急がないと追いつかれちゃうわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "『ソーンズ☆ソーンズ☆エントワインッ！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "スイープトウショウさん、見つけましたよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ちょっとー！\u3000なんでよっ！\n足止めの魔法を使ったはずなのにっ！",
+      "ChoiceDataList": [
+        "足止めの魔法？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "ああ、トレーナーさんもご一緒でしたか。\n実はスイープトウショウさんがですね――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "宿題をやってこなかったので、\n代わりに補習をしようとしたところ逃亡しまして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "当たり前でしょ！\r\n居残りなんてぜ～ったいイヤ！\u3000イヤったらイヤっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "それより、なんで魔法が効かないのよ！\nちゃんと本に書いてあったとおりにしたはずなのに～！",
+      "ChoiceDataList": [
+        "（勉強してたんじゃなかったのか……！）",
+        "（勉強してたんじゃなかったんだ……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "いいですかスイープトウショウさん、\r\n先生はただ宿題をやってほしいわけじゃありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "今後競技者を続けていくうえで、勉強とトレーニングの両立は\nとても大切――――その練習のために宿題を出しているんですよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "うるさいっ、アタシに命令しないで！\nやりたくないものはやりたくないのっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "スイープトウショウさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "次第に大声になる2人に、周囲から非難の視線が注がれる。\nこれは2人を落ち着かせないとまずいかもしれない。",
+      "ChoiceDataList": [
+        "先生、よければ任せていただけませんか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "トレーナー室に場所を変え、改めてスイープトウショウに\n宿題を片づけてしまおうと持ちかけたのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "なによ～、使い魔まで宿題宿題って！\n先生のこと追い払ってくれたんじゃなかったのっ！？",
+      "ChoiceDataList": [
+        "宿題はやらなきゃダメだぞ",
+        "宿題はやらなきゃダメだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "だったら使い魔がやればいいでしょ！！",
+      "ChoiceDataList": [
+        "そんな無茶な！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "無茶じゃないもんっ！\n使い魔なんだからご主人さまの命令は聞きなさいよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう言って、駄々をこねだすスイープトウショウ。\r\n興味がないものに見向きもしないのはある意味素直だが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ふと、ひとたび興味を持った時の彼女のことを思い返してみた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "見つけたっ！\u3000まさにこれだわ。\n前に見かけた気がしたのよね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ちょっと、なに黙ってるのよ……？",
+      "ChoiceDataList": [
+        "宿題を魔法で片づけない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "は？\u3000……魔法で答えを埋めるってこと？\nふーん、ちょっとおもしろそうじゃない。",
+      "ChoiceDataList": [
+        "それもいいけど、君に魔法をかけるのは？",
+        "それもいいけど、貴方に魔法をかけるのは？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "魔法をアタシに？\u3000どういうことよ。",
+      "ChoiceDataList": [
+        "問題が速く解ける魔法をかけるんだ！",
+        "問題が速く解ける魔法をかけるんだよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "え～、なんかまわりくどくない？\nスピードアップの魔法……ってことよね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "う～ん……まぁいっか。そっちもおもしろそうだし！\nそれじゃいくわよ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "『刹那に綴れ！\u3000アルストロメリア☆』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "さあ、さっそく1問目は～……\r\nちょっと、こんなの楽勝じゃない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "本当に魔法がかかったように、\r\nスイープトウショウは宿題をテキパキとこなしていく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "この問題は～……いけない、スピードが落ちてきたわ！\n『駆けるがごとく解け、アルストロメリア☆』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "すごい、あっという間に終わっちゃったわ！\n見なさい使い魔！\u3000これが魔法少女スイーピーの魔法よ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自ら決めたことをやる時の彼女は、\nやはり素晴らしい輝きを見せてくれる。",
+      "ChoiceDataList": [
+        "やっぱり君の魔法はすごいよ！",
+        "やっぱり貴方の魔法はすごいね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ふふん、当然でしょ？\u3000これで先生をぎゃふんと言わせられるわ！\nさっそくびっくりさせてやるんだからっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "――全問正解です。まったく、貴方はやればできるんだから\nすぐ逃げようとしないこと。それから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "トレーナーさんにお世話になったのでしょう？\n後できちんとお礼を言うようにね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "も～～っ！！\u3000なんでアタシの魔法に驚かないで、\r\n使い魔の話になるのよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "いいわ、宿題なんて魔法ですぐってわかったもん。\r\n2度と居残りしろなんて言わせないんだからっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう話すスイープトウショウの瞳は生き生きと輝いている。\nやはり好きなことなら頑張れるのだなと、実感を深めた一幕だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

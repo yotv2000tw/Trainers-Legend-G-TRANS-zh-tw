@@ -1,0 +1,408 @@
+{
+  "Title": "温泉旅行",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "到着しましたわ！\r\n温泉旅館に！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "この日はカワカミプリンセスと共に\r\n以前商店街で当てた『温泉旅行券』を\n使うべく、旅館へとやって来ていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "温泉施設は全て使い放題！\r\n高級料理も食べ放題ですって！",
+      "ChoiceDataList": [
+        "1日ゆっくりできそうだな",
+        "1日ゆっくりできそうだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ええっ。体もゆるゆる溶けちゃうくらい、\r\nゆ～ったり温泉を堪能いたしましょう♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "そしてお風呂からあがったら、\r\nトレーナーさんのお部屋へ集合で\nお願いしますわ！",
+      "ChoiceDataList": [
+        "俺の部屋？",
+        "私の部屋？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "確か食事は部屋ではなく、\r\n専用の広間で取る予定だったが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……もう、鈍感な方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "あまりこういうことは\r\n声に出して言うべきではないのですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "枕投げデスマッチ用の枕を\r\n私の部屋から、かっさらって参りますから♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "いっぱい勝負しましょうねっ☆\r\n腕が鳴りますわ～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "入浴中……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "はあ～、気持ちよかったですわ～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "枕投げも……お食事の時間まで……\r\nたくさん……できそうで……。",
+      "ChoiceDataList": [
+        "眠そうだな",
+        "眠そうだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "い、いえっ。私は……\r\nトレーナーさんと旅館を堪能するまでは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "全力で堪能するためにも睡眠は大切"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……ひゃい……。\r\nわかりましたわぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……？\u3000あら、トレーナーさん？\r\nどこにいらっしゃいますの……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "妖精",
+      "Text": "プリンセス、やっと目が覚めたファイ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ぎえぇぇぇ～～！？\r\nリ、リスがしゃべってる～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "妖精",
+      "Text": "プ、プリンセス！\u3000落ち着いてファイ！\r\nボクは君の心に、闘志の華を見つけて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "――え。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "貴方……もしかして、\r\nプリファイの……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "妖精",
+      "Text": "そうファイ！\u3000ボクは光のターフの使者！\r\n君をプリファイへと導く、妖精ファイ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "妖精",
+      "Text": "ふむふむ……ここなら誰もいなさそうファイ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "妖精",
+      "Text": "ねえ、プリンセス！\r\nどうかこのガラスの靴を履いてファイ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "妖精",
+      "Text": "君は次世代のプリファイにふさわしいウマ娘！\r\n君の運命はここから始まるんだファイ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "私の……運命？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "妖精",
+      "Text": "うん！\u3000君の運命の人――\r\n王子様も君を待っているファイ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "…………私の王子様。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ごめんなさい、妖精さん。\r\n私はそのガラスの靴を履きません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "妖精",
+      "Text": "なっ、どうして！？\r\n君は待ち望んでいたはずファイ！\n運命というものを……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "いえ、私の運命は自分で選ぶもの。\r\nこの自分の脚で歩み続けていくものです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "そして何よりも王子様は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "妖精",
+      "Text": "わ！？\u3000揺れてる！？\r\nゆ、夢の世界が……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……やっぱりこれは夢でしたのね。\r\n早く起きなきゃですわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "妖精",
+      "Text": "待ってくれファイ！\r\n君の願いの足音は確かに聞こえていた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "妖精",
+      "Text": "この夢はボクらをつなぐ最後のライン！\r\nこれが途絶えたら、もう君は、\nプリファイになることができないファイ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "妖精",
+      "Text": "君を導く王子様は。\r\nううん、伝説のトレーナーは……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "いいえ、私が履くべき靴は、\r\n取るべき手は既に決まっていますの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "だって私はプリンセス。\r\n他の誰でもない私の理想を求める姫ですもの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……むにゃむにゃ……\r\nさようなら、妖精さん……。",
+      "ChoiceDataList": [
+        "おはよう、プリンセス"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……とれーなーさん、\r\nおはようございますわ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ふわぁ……お夕食のお時間は……。",
+      "ChoiceDataList": [
+        "まだ大丈夫だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "そうですのね……。",
+      "ChoiceDataList": [
+        "もう少し寝ててもよかったのに"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……大丈夫ですわ。\r\n私も、起きたかったので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "…………あの、トレーナーさん。",
+      "ChoiceDataList": [
+        "どうした？",
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "3年間はあっという間でしたわね。\r\nいろんな道を2人で辿って参りました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "その道は決して平坦ではなかった。\r\nでこぼこで、ちょっと\n茨もあったかもしれません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "でも貴方は私の手を放さずにいてくれた。\r\n導いてくれた。そして私たちは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……お互いに、お互いを選んだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ねえ、トレーナーさん。\r\nこれからも私の手を握り、\n共に駆け抜けてくださいますか？",
+      "ChoiceDataList": [
+        "もちろんだ",
+        "もちろんだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ふふっ……よろしくお願いしますわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "では早速枕投げをいたしましょう！\r\n私の体力は全快ですわよ！",
+      "ChoiceDataList": [
+        "えっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "だって貴方との時間のために\r\nお休みさせてもらったんですもの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "私、トレーナーさん相手でも\r\n手を抜きませんからねっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（……そう、私は選んだのです）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（もし突然、知らない男性が……\r\n伝説のトレーナーを名乗る\n違う王子様が現れたとしても）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（もし突然、知らない女性が……\r\n伝説のトレーナーを名乗る\n違う王子様が現れたとしても）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（私の王子様は――貴方がいい）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "カワカミプリンセスとの間に、\nかけがえのない絆を感じた\nひとときだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

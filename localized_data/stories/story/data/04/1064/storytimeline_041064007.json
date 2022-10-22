@@ -1,0 +1,375 @@
+{
+  "Title": "メジロパーマーのトレーナー",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "夏合宿。メジロパーマーは、トレーニングにも真面目に取り組み、\r\nその上で自分らしさを活かすように、楽しそうに走っている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "何も問題はない――の、だが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あ。トレーナー、先に休んでていいよ？\r\n喉渇いてない？\u3000私のことは気にせず、休憩とってね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "っていうか、ちょっと顔が赤いような……！？\r\n日陰に入って、日陰に！\u3000たしか濡れタオル、あったよね！？",
+      "ChoiceDataList": [
+        "パ、パーマー！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "落ち着いてと言うより先に走り去っていく。\r\n……一体、どうしたのだろうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "元々、気遣い屋ではあるのだが……\r\n彼女のそれは、もっとさりげなく行われるものだったはず。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――まさか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あははっ、そっかそっか。文句かー。\r\nでもわざわざトレーニング中に言ってきたってことはー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "私の走りについて、かな？\r\nうーん、なるほどね！\u3000まーわからなくもない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あの時のことを気にして……？\r\nだとしたら、このままにはしておけない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "口を滑らせて、聞き出された自分の責任だ。気遣うべきはこちらで、\r\nメジロパーマーには伸び伸びとしていてもらいたい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……確か、今夜はお祭りがあったはず。\r\nよい機会なので、メジロパーマーを誘ってみることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うっわー！\u3000賑わってるー！\r\n屋台も思ってたより、ずっと出てるねっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ね、トレーナーは、なにが食べたい？\r\nそれとも先に遊ぶ？\u3000どこでも付き合――",
+      "ChoiceDataList": [
+        "パーマーは何したい？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "え、私？\u3000うんと……私よりさ、トレーナーのしたいこと――",
+      "ChoiceDataList": [
+        "パーマーのしたいことを一緒にやりたい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "えっ、あ……っと……ええ？\r\nでも、私は別に、その……。",
+      "ChoiceDataList": [
+        "……嫌なら、諦める"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "嫌じゃないよ！？\u3000ぜんっぜん嫌じゃない！\u3000マジで！\r\nだから、そう……射的！\u3000射的から行こう！\u3000ねっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "トレーナー、欲しいものある？\r\n任せといて、絶対に私が取るからさ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……ごめん。ハズれた。全部、ハズれた。\r\nおっかしいなー？\u3000どうして明後日の方向に飛んで……って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "えっ、落ちた！？\u3000スゴッ！\u3000トレーナー、射的うまい！！\r\nなんで！？\u3000ヤバイんだけどっ。",
+      "ChoiceDataList": [
+        "欲しいものある？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いいの！？\u3000じゃあ、1番上にある置物みたいな……って、\r\nダメダメ！\u3000トレーナーの好きなもの取ってよっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "型抜き、ムッズ！\u3000今度こそ商品取って、\r\nトレーナーにあげようと思ってたのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "トレーナーは、どう？\u3000うまく型が……\r\nあっ、もう少しだね！\u3000そーっと、そーっと……。",
+      "ChoiceDataList": [
+        "続きは任せた……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "えー！？\u30001番大事なトコなんだけど！？\r\nや、でもやる……やるよ！\u3000任されたからにはっ。",
+      "ChoiceDataList": [
+        "じゃあ、これ……あっ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あっ！？\u3000割れた！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……あははっ！\u3000トレーナー、めっちゃビックリした顔して……\r\nふふっ、ヤバ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "どんまいどんまいっ、次は成功させよ！\r\nほら、あっちに水風船とるやつあるし！\u3000一緒に頑張ろー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "はー……楽しかったー……。めっちゃ遊んで、\r\nお腹もいっぱいになるまで食べたし。満足、満足♪",
+      "ChoiceDataList": [
+        "楽しかったならよかった"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……逆に、気を使われちゃったなー。\r\nごめん、最近の私がおかしいこと、気づいてたんだよね？",
+      "ChoiceDataList": [
+        "やっぱり前に言われたことが……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ん？\u3000ああ、他のトレーナーから言われたってやつ？\r\n違う違う！\u3000そんなん私はヘーキだし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ただ、いつも支えられてばっかなのは、どうなんだ！？\u3000って。\r\nや、もちろんそれがトレーナーの仕事なんだろうけどねっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "やってもらってる分、できる限り返していくぞーって\r\n気合い入れたら、こんなことに。あははっ、失敗失敗！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "迷惑かけないようにって、必要以上に意識しちゃってたみたい。\r\n変な気を使わせて、ごめん！\u3000もうっ、恥ずかしいなー。",
+      "ChoiceDataList": [
+        "そんなこと気にしなくていいよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "や、でもさ。トレーナーの負担が――",
+      "ChoiceDataList": [
+        "パーマーを支えるのが楽しいのに"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……え？\u3000あれ……や、ちょっと待って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（トレーナーが、トレーナーの仕事をしてる。\r\n真面目に、真摯に向き合って、本気で）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（担当のウマ娘がついたから。\r\n『トレーナー』として仕事ができるようになったから）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（だから、トレーナーとして……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（……『私』の、トレーナーとして……？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『パーマーのトレーナーになれてよかった』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……っ！！！！！",
+      "ChoiceDataList": [
+        "ど、どうした！？",
+        "ど、どうしたの！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（トレーナーはトレーナーの仕事をしてるって……\r\nでもそれは、トレーナーになれて嬉しいってだけじゃなくて）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（……『私』のトレーナーになれたことが、嬉しいの？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（ト、トレーナーとして……『私』を支えるのが、\r\n楽しいんだって……言ってるんだよね……！？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あー……あああー……！",
+      "ChoiceDataList": [
+        "パーマー！？食べ過ぎた！？それとも熱！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……。トレーナー。",
+      "ChoiceDataList": [
+        "う、うん？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……私、めっちゃ頑張る。\r\nめっちゃ走って、めっちゃ勝つ。マジで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "これが私の、私たちの走りだって。\r\nみんなに見せつけて、絶対に勝つよ。それで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……トレーナーが、私のトレーナーになって\r\n正解だったって言えるようにするから！！",
+      "ChoiceDataList": [
+        "じ、じゃあ、俺も！",
+        "じ、じゃあ、私も！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロパーマーに『トレーナーになったのが君でよかった』と\r\n言ってもらえるように頑張ると告げ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あああああ……！",
+      "ChoiceDataList": [
+        "パーマーーー！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ううう……私のトレーナー、ヤバイ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "もしや、暑いのだろうか？\r\n座り込んでしまったメジロパーマーを、手で必死にあおぐ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "慌てるこちらをチラリと見て、メジロパーマーは顔を赤くしたまま、\r\nクスクスと笑ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

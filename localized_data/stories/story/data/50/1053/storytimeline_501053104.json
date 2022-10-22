@@ -1,0 +1,489 @@
+{
+  "Title": "夏合宿（2年目）にて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "合宿も半ば――バンブーメモリーは\n限界まで自分を追い込むように、\nハードなトレーニングに打ち込んでいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "ゴールッッ！！\nハァハァ……ハァハァ……ふぅ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "トレーニング、終わりじゃないっスよね？\nアタシ、まだ動けるっス！",
+      "ChoiceDataList": [
+        "もう体を休めて、明日に備えよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "平気っスよ！\u3000むしろ明日に備えて、\n合宿所で筋トレやっておくっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "今日もご指導ありがとうございましたッ！\nまた明日、お願いします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "バンブーメモリーが最高に燃えているのは、\nやはり『日本ダービー』――\nそしてライバルたちの激走の影響だろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "熱心なのはよいが、過度なトレーニングに\nよる疲労やケガが心配ではあった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ありゃあ、たしかにやりすぎだな。\nどうでい、あたしらに任せてみないか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "声をかけてきたのはバンブーメモリーの先輩、\n江戸っ子気質のイナリワン。そして、\nシニア級で名を馳せるタマモクロスだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "イナリワン",
+        "シニア級",
+        "タマモクロス"
+      ]
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "あんな追い込んじまってよ。\n黙ってらんねえや。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せやせや！\u3000かわいい後輩のため、\nウチらが一肌脱いだろうやないか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "『お祭りトレーニング』！！\nなんスか、それ！\u3000初耳っス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "おいおい、トレセン学園夏合宿の伝統だぜ？\nお前さん知らないのかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トレセン学園"
+      ]
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "経験者が誘うもんなんやけど、\nウチらが初めての声かけっちゅーわけか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "でも、今日からでも遅くない！\n『お祭りトレーニング』は効率よく、\nゴリッゴリに鍛えられんねん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "ゴリッゴリっスか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "しかも楽しくて、体の負担も少ない！\n安心して鍛えられる優れもんよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "おおっ！\u3000つまり、トレーナーさんにも\n心配かけなくて済むっスね！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "『お祭りトレーニング』、やりたいっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "よしきた！\u3000なら、どこを鍛えると\nしようかねえ、トレーナーさん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そんなトレーニングは聞いたことがないが、\nイナリワンたちには考えがあるのだろう。\nここは2人の話に合わせよう……！",
+      "ChoiceDataList": [
+        "筋力アップコースはどうだ？",
+        "筋力アップコースはどうかな？",
+        "粘り強さが手に入るアレをやろう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "『お祭りトレーニング』で筋力がッ！\n早くやりたいっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おっ、乗り気やな！\nよっしゃ、トレーニング場に行くで～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "おお！\u3000ここが……！\nあの、何をやればいいっスか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "おう！\u3000あそこにパイナップルがあるだろ？\nあいつを収穫する――“収穫祭”を始めるぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "パイナップルの収穫！？\n変わったトレーニングっスね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ごっつ重いんやで、あれ！\n生半可なパワーじゃビクともせん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "でな、収穫したパイナップルの果汁を絞って\nスペシャルなかき氷を作るんや！\n祭りっていうたらかき氷やろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "まさに“収穫祭”じゃないっスか！\nアタシ、とるっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "うおぉぉぉぉっ！\u3000パイナップルゥゥッッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "ふぬぬぬっっ！\u3000あれ！？\nめちゃくちゃ固いっス……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "へへっ、コツがあんのさ！\n力任せにせず、引っ張りながら\n体をひねってみな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "えっと……こうひねって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "おお！\u3000ちょっとずつ抜けてきた！\nスゴイっス、イナリ先輩！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "イナリ"
+      ]
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "その調子や！\u3000んで、思いっきり\nグッ……！\u3000っで、ガッ……や！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "ぷ、くくっ……！\u3000なんスかそれ～～！\n笑わせないでほしいっス～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "あっはっはっは！\n力み過ぎずに、そのまま引っ張りな！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "は、はいっ！\u3000いくっスよ！\nせーーーのッッ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "いや～、果汁が美味しかったっスね！\n普通のかき氷に戻れそうにないっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "へへっ、疲れた体に沁みただろ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "これぞ“収穫祭”の醍醐味やな！\n気分はどうや、バンブー？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "筋トレもできて、美味しい\nかき氷も食べられるなんてサイコーっスよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "そいつぁ重畳だ！\nこれからも楽しくやろうや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "はい！\u3000イナリ先輩、タマモ先輩！\nトレーナーさん！\u3000ありがとうございました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "タマモ"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『お祭りトレーニング』を堪能し、\nバンブーメモリーは肩の力が抜けたようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "アレってなんスか！？\nめちゃくちゃ気になるっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ごっつ粘り強くなれる方法があんねん！\nきっと気に入るで～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "特訓は単純でい。\nこいつを使って“クマジロー”を仕留める！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……おもちゃの鉄砲？\u3000射的っスね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "そうとも！\u3000毎年、多くの猛者が挑み、\n破れた巨大ぬいぐるみ“クマジロー”！\nそいつを獲る！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "強敵っスね！！\nうおぉぉぉぉっ、燃えてきたっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "まずはあたしが手本を見せてやる。\n狙うは急所に一発……これぞ粋ってもんよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（パンッ……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "台座狙い……！\u3000クマジローが揺れとる！\nこのままいけるんちゃうか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ピタッ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "くぅ～～～！\u3000惜しい！！\nけど、チャンスはまだ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ふっ、勝負は1度きりさ。\n潔さも江戸っ子の粋よ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "イナリ先輩……！\u3000渋すぎるっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "イナリ"
+      ]
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "いや、弾数あんのに撃たなもったいないやろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチには矜持もなんもない！\nただチビたちの土産をゲットするだけや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おりゃりゃりゃりゃりゃりゃ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "すごい連射っス！\u3000これなら……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "って、全部ハズレとるやん！？\n勢いで照準がブレてもうた～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "さすがクマジロー……噂に違わぬ強さでい。\n――だが、次こそバンブーが\nでっけえ花火を見せてくれるだろうよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せやな！\u3000やったれバンブー！！\nウチらの戦い、無駄にするんやないで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "2人とも……くうッッ！\nアタシやるっス！\u3000期待に応えてみせるっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "アタシがやるべきことは2つ！\nイナリ先輩が示してくれた弱点の台座を狙い、\nタマモ先輩のように、一気に……叩き込む！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "タマモ"
+      ]
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "どりゃぁぁぁぁッッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ゆ、揺れまくっとるで！\nいける！\u3000いけるでバンブー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "いっけぇぇぇぇーーーー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なんや、悪いな！\nせっかく獲った“クマジロー”譲ってもろて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "弟さんたちにあげてください！\nアタシは倒せただけで満足っス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……もう戦えないのは寂しいっスけどね。",
+      "ChoiceDataList": [
+        "新しい強敵を探せばいい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……！\u3000そうっスね！\nこんな楽しいチャレンジなら大歓迎っスよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "またみんなで一緒にやりましょう！\n『お祭りトレーニング』サイコーっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "先輩たちの協力で、バンブーメモリーは\n楽しく不屈の精神を鍛えられたようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "Title": "目が離せないお嬢様たち",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "カフェテリアで食事をしようとしていると、\r\n近くにいるメジロブライトと\nファインモーションの会話が聞こえてきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "王子さまからメール？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ええ～、今朝方わたくし宛に届きまして、\r\n『ある国の王子をしています』と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "なんでも、お金がたくさん余っていて\r\n有効に使ってくれる人を探しているとか～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "うーん、慈善事業？\r\nでも、王族がそんなメールを送るかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "それで、返信はしたの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "はい、見ず知らずの方からお金を受け取る\r\nわけにはいかないので、『結構です』と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "するとまたメールが届きまして、\r\n王子が事故を起こしてしまったと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "まぁ、すごいタイミング！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "それでケガを負ってしまい、\r\n治療費が必要だから援助してほしいらしく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "……あれれ？\u3000でも、その方は\r\nお金が余っていたはずだよね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "お金は事故ですべて燃えてしまったそうです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "う～ん、全額現金で持っていたの……？\r\nしかも全部燃えただなんてすごい規模の\n火災だけれど、そんなニュースは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……さすがに黙っていられないので、\r\n話に入らせてもらうことにした。",
+      "ChoiceDataList": [
+        "それ、全部ウソだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "……え？\u3000そうなのですか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "あははっ、道理で都合がよすぎると思った！\r\n相手が王子というのも、事故でケガをした\nというのも、全部そうかしら？",
+      "ChoiceDataList": [
+        "そうだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まあ～、そうだったのですね！\r\nでしたら、ほっとしました～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "事故に遭われた方など、\r\nいらっしゃらなかったのですね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "騙されかけたにもかかわらず\r\nメジロブライトは胸をなでおろしている。",
+      "ChoiceDataList": [
+        "どこまでも優しいね……",
+        "もう少し世間勉強が必要かも……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "突然、事故と言われましたので、\r\n深く考えずに心配してしまいましたわ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "うーん、そういった善意を利用しようと\r\nする方も、残念ながらいらっしゃるから……\n一緒に気をつけようね、ブライト！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "かしこまりましたわ～。\r\nご忠告いただき、ありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "なるほど～、世間勉強ですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "メールが嘘かどうか、\r\n見分けられればいいんだけれどね。",
+      "ChoiceDataList": [
+        "知らない人からのメールは全部無視で"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "そっか！\u3000ひとつひとつ目を通さないとって\r\n考えから、改めたほうがいいんだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "ご忠告、感謝いたします。\r\n以後、気をつけますわ～。",
+      "ChoiceDataList": [
+        "できればメールアドレスを変更しよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "たしかに！\u3000王子を名乗る人から\r\nまた連絡がきたら困っちゃうものね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "かしこまりました～。\r\n……それで、アドレスの変更とは？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファインモーション",
+      "Text": "ええっと……ごめんなさい！\r\n私も護衛の方にやってもらってばかりだから、\nわからないの～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして、メジロブライトのアドレス変更の\r\n手伝いをすることになったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

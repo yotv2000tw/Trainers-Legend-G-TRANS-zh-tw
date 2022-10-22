@@ -1,0 +1,432 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "買い物帰り、\n高く空に響き渡るような声に振り返ると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "呼んでいる……温泉が、今、私を！\n――そう、ウェルカムと！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ほら！\n貴方にも聞こえるでしょう！？\u3000トレーナー！",
+      "ChoiceDataList": [
+        "え！？あ、はいっ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "反射的に返事をしてしまったが、\n一体、なんのことだろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、楽しい楽しい福引だよ！\nどなたでもどうぞ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……なるほど。どうやらあの福引を引きたい\nらしい。ちょうど買い物をして福引券を\nもらったばかりだ。ここは――",
+      "ChoiceDataList": [
+        "1枚だけだけど、どうぞ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "フフッ、さすがね！\u3000さぁ、準備はできたわ！\n行くわよ……！\u3000レッツ……フクビキ・ゴー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自らの運を試すかのように、\nシーキングザパールは、真剣な面持ちで\n福引きに視線を向けている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "私たちのホットでビッグなドリームを飾る\nフューチャーとなるのよ！\nカモン、温泉トラベルー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "シーキングザパールが勇んで\n抽選器のレバーを回した！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なんとっ！\u3000おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ほーっほっほっほっ！！\nまた1つ！\u3000このシーキングザパールの\n可能性を示してしまったわね！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "これからますます忙しくなるわ。\n泉質を確認、ゴージャスなディナーも\n調べておかなくてはならないもの！",
+      "ChoiceDataList": [
+        "食事まで？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ええ、食材を知っておくことで\nよりいっそう、お料理の味がディープに\nなるとは思わなくて？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "さぁ、わかったなら\nトレーナー、いまからしっかりと\n準備を進めておくのよ！",
+      "ChoiceDataList": [
+        "え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "あら、どうしたの？\n貴方も行くのよ、温泉。",
+      "ChoiceDataList": [
+        "そうなの！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "フフッ、当然でしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "私がまた新たな可能性を世界に示し、\nワールドワイドに活躍する時がきたら、\n温泉でこの身を更に磨きあげるの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "その時は貴方もしっかりと磨きあげて\nおかなくてはならないでしょう？\n私の隣に立つのだから！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "いつの間にか一緒に……いや、\nシーキングザパールの中では初めから\n一緒に行くことになっていたようだ。",
+      "ChoiceDataList": [
+        "わかった、準備しておく"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ええ、ファビュラスに輝きましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ほーっほっほっほっ！\u3000待っていなさい！\n近い未来、このシーキングザパールが、\n世界をも輝かせてあげる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "シーキングザパールは受け取った\n温泉チケットを高々と掲げる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そこに込められた願いへと\nたどり着けるよう、\nまた努力していこう……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ふぅん、なるほどね。",
+      "ChoiceDataList": [
+        "なるほどって？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "企業のトラップよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "エクセレントな舌を持つ\nこのシーキングザパールに、ハンバーグの\nテイスティングをしてほしいってわけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "遠回しなアプローチ……可愛いわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "フフ。私が一言『デリシャス』と口にすれば、\nそれはもう世界的に認められたも同然！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "いいわ！\u3000そんたくはなしで、\nいただかせてもらいましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "トレーナー、レッツ・クッキングよ！\nにんじんもお肉も私にふさわしく高級！\n失敗は許されないわね！！\u3000ファイト！",
+      "ChoiceDataList": [
+        "俺が焼くの！？",
+        "私が焼くの！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "あら、突然のディナーの誘いに\n戸惑ってしまったかしら？\n遠慮することはなくってよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "学園の厨房を借り、\n高らかに笑うシーキングザパールと\n特上にんじんハンバーグを楽しんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "2等賞～！！\n賞品は『にんじん山盛り』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "フフッ、まるでフューチャーを\n表しているようね！",
+      "ChoiceDataList": [
+        "どういうこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ごらんなさいな、この山盛りのにんじん……。\n段々と歓声が聞こえてくるわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "そう、これは……\n私をまぶしく見つめる大勢のファンの姿！！",
+      "ChoiceDataList": [
+        "な、なるほど……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "いい気分ね！\u3000さぁ、トレーナー！\nファンのみんなを我が家に招待しましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ほーっほっほっほ！\n今日はご馳走よ～！\n美味しくクッキングしてあげましょ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "我が家ではなく学園……\nファンに見えるのにクッキング……\nというツッコミはなしにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "フンフンフ～ン♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "シーキングザパールが嬉しそうな顔が\n見られただけで、福引は1等賞と同じ\n価値がある……と、思ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "3等賞～！\n賞品は『にんじん1本』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "あら、困ったにんじんね。\nそんなに私のもとに来たかったのかしら。",
+      "ChoiceDataList": [
+        "そうかもね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "だったら、私を選んだこと\n後悔させるわけにはいかないわね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "グラッセ！\n世界一、スゥイートに仕上げて\nあげましょ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "トレーナーにも半分あげるわ！\nついてらっしゃいな！\nほーっほっほっほ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "にんじん片手に駆け出した\nシーキングザパールを必死に追いかけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "あら、ティッシュ。",
+      "ChoiceDataList": [
+        "えっと……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "落ち込むだろうかと慰めの言葉を\n考えていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "メイド・イン・アメリカ！\n理解したわ！\u3000これは私の手元にくる\nデスティニーだったのね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "フフッ、しっかりと持ち帰らせて\nいただくわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "シーキングザパールは嬉しそうに\nティッシュをポケットにしまい込んだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……それはメイド・イン・アメリカではなく、\nアメリカの人気キャラクターが描かれている\nだけだということは、胸にしまっておいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

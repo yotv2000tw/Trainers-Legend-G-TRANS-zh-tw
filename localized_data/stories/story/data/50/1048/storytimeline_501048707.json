@@ -1,0 +1,199 @@
+{
+  "Title": "神社でお祈り！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "最近調子の悪いトーセンジョーダンを連れて、\r\n神社へお参りに来てみたところ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "えっ、ナカヤマじゃーん。お参り来たん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "まさか、ただの散歩だよ。\r\nどこかに賭けの相手でもいないかと思ってね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "アンタこそ、参拝たァ珍しいじゃねぇか。",
+      "ChoiceDataList": [
+        "最近、調子が悪いみたいで……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "へぇ、そいつは奇遇だな。\r\n実は最近、私もおかしいほど負け続きでね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "こういう時は何でもいいから1度勝つことだ。\r\n……なァジョーダン。私と賭けをしないか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "へっ？\u3000賭け？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "あァ、勝ってツキってヤツを上向かせるのさ！\r\nだがッ！\u3000負けたら今以上の負のループ！\n地獄のどん底だ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "え～めんど。ツキとか知らんしー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ほお……負けるのが怖いのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "はぁ……？\u3000んなこと言ってないんだけど。",
+      "ChoiceDataList": [
+        "無理に対抗することないしな",
+        "無理に対抗することないしね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "いやムリとかじゃねーし！\r\nいーよ、やってやろーじゃん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ククッ！\u3000そう来なくっちゃな！\r\n勝負はそうだな、次にこの境内へ来るのが\nヒトかウマ娘か当てる……ってのはどうだい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ふーん……じゃー\r\nあたしはウマ娘に賭ける！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "それじゃ私はヒトだな。\r\nさァ、勝負開始だ――ッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "うぉおおおおおーーーーーッ！！\r\nどこにいるんだよぉ～～～～～～っ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "誰か来たっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "チケゾーさんじゃーんっ！\r\nやたっ！\u3000あたしの勝ち～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "あっ！\u3000ジョーダンいたぁぁ～～～～っ！\r\n探してたんだよっ！\n早く伝えたくてぇぇーーーっ！",
+      "ChoiceDataList": [
+        "何かあったのか？",
+        "何かあったの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "なんかね！\u3000寮の部屋にジョーダン宛の\r\nプレゼントが届いてたんだぁぁーーっ！\nすっごいおしゃれな箱のーーーーーっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "マ！？\u3000それ当たったのかも！\r\nネット応募のヤツ！\nうっわ！\u3000いーこと続きじゃ～～んっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "そーだったんだ！？\u3000よかったねっ！！\r\nジョーダンがうれしそうでアタシもうれしい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……ハッ。完敗だな……。\r\nツキは完全にアンタに向いちまったらしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……そだ、アンタだいじょぶなの？\r\nその、どん底？\u3000だっけ……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "アンタらに心配されるタマじゃねぇよ。\r\nククッ、むしろアツくなってきやがった。\nさァて、ここからどう這い上がるか……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ナカヤマフェスタは満足げに去っていった。\r\n以来、トーセンジョーダンの不調は、\n嘘みたいによくなったのだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――しかし、境内には誰も現れなかった。\r\nもうすぐ寮の門限だ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "下がる～……。\r\nなんで誰もこないわけ～？\u3000マジないわー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……仕方ねぇ、今日のところはドローだ。\r\nこの決着はいつか必ずつけるからな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして勝負はお預けとなった。\r\nツキとやらも変わらず、\nトーセンジョーダンの調子は悪いままだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

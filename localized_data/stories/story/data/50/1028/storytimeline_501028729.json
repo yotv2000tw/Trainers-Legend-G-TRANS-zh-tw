@@ -1,0 +1,43 @@
+{
+  "Title": "クレーンゲーム失敗……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "とっても惜しかったよ～！\nあと一歩、って感じ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "もしかして……トレーナーさん、\nお腹すいてたのかなぁ？",
+      "ChoiceDataList": [
+        "どうだろう……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "きっとそうだよ！\nお腹が減ると、実力が出せないもんね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "帰ったらクッキーを焼くから、\n一緒に食べよ！\u3000トレーナーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "残念な結果に終わった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

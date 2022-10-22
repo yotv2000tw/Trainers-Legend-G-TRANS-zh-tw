@@ -1,0 +1,564 @@
+{
+  "Title": "でこぼこスパイス",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "たあああああーーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "体づくりを中心にトレーニングを組み、\r\n1年が経った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ヒシアケボノの体は、彼女の力を\r\n最大限に活かせるくらいまでに仕上がった。",
+      "ChoiceDataList": [
+        "そろそろ、大きなレースに挑戦しようか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今ならきっと、彼女の実力を\r\n遺憾なく発揮したレースができるはずだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "わあ、やったー！\u3000なにに出るの～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "チャレンジになるかもしれないが、\r\nせっかくだからGⅠを狙っていきたい。",
+      "ChoiceDataList": [
+        "『スプリンターズステークス』は？"
+      ],
+      "ColorTextInfoList": [
+        "GⅠ"
+      ]
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あ！\u3000短距離の大きなレースだよね！\r\nそれ、ビコーちゃんも出るって言ってた～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "いいね～、ワクワクしてきたな～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そんな方針で動き始めて、\r\n数日経ったある日のこと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "あ、あの、トレーニング\r\n終わったばかりですみません！\nなんだかすごい走りを見たなと思って……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "ヒシアケボノさんですよね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "トレセン学園へ取材へやってきていた\r\n記者から声をかけられた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "なるほど～！\u3000いよいよ、横綱級の\r\nスプリンターが本格始動というわけですね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "えへへ、そんな感じ～。\r\n横綱級ってカッコいいねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "ということは、もしかして今大活躍中の\r\nビコーペガサスとの戦いも……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "そうだねぇ～。\r\nビコーちゃんともいっぱい戦えたらいいな♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そんな言葉に、記者は小さく息をのんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "これは、これからのスプリント戦線が\r\n面白くなってきそうですね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "あの、差し支えなければ今のお話、\r\n記事にさせて頂きたいのですが……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "もちろんもちろん～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "翌日、早速ネット記事として大きく\r\n取り上げられ、その日以降、取材の\n申し込みを受ける日々がしばらく続いた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『ウマ娘のヒシアケボノが、\r\nスプリンターズSに参戦すると\n話題になっています』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "スプリンターズS"
+      ]
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『大きな体でスピード満点、大迫力の\r\n走りをする彼女ですが、そんな彼女の\nライバルは――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『小さな体ながら気迫全開で切れ味鋭い\r\n末脚を披露するウマ娘、ビコーペガサス！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『その身長差はなんと36cm！\r\nどんなレースになるのか、楽しみですねー』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "解説A",
+      "Text": "『ええ。他のスポーツでしたら、まず\r\nここまで体格差のある選手同士が同じ舞台で\n競い合うことはなかなかないですからねー』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "解説A",
+      "Text": "『トゥインクル・シリーズの面白いところ\r\nですね。私も今からレースが大変楽しみです』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "わあ、そうなんだねぇ。\r\nこりゃ～がんばらなくっちゃだね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "しかし、その後、\r\n少しだけ気にかかるトークが交わされた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "解説A",
+      "Text": "『しかしこう、2人並ぶと面白いですよね。\r\nすごく大きいウマ娘とすごく小さいウマ娘で』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『ですねぇ。デコボココンビといった感じで、\r\n何だか可愛らしいですよね』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "解説A",
+      "Text": "『ですねぇ。なんというか、こう……\r\n子どもの人気も出るんじゃないかなぁ』",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "番組放送後、コメントに触発されたのか、\r\n2人の身長差だけを好奇な目で見る反応が\n増え始めてしまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "SNS",
+      "Text": "『確かに何より絵面がいいわ』\r\n『レースどころじゃなくなりそうで草』\n『当日、写真撮りに行こうかなw』",
+      "ChoiceDataList": [
+        "（……催し物みたいな扱いだなぁ）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "？\u3000どうしたの、トレーナーさん？\r\n悩みごとかな～？",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "顔に出しているつもりはなかったが、\r\n気づかれてしまったようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "それとも、お腹すいちゃった～？\r\nボーノなおやつ、作ろっか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "今だったらねぇ、冷蔵庫ににんじんあるから\r\nにんじんチップス作れるよ！",
+      "ChoiceDataList": [
+        "その――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "誤魔化しても心配をかけてしまうだろう。\r\n最近感じていた違和感を正直に伝える。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うーん、そっか～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "おっきいあたしとちっちゃいビコーちゃんが\r\n走ったら、面白いんだね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "とはいえ、2人とも本気でレースに挑んで\r\nおり、その先に見ている夢だってある。",
+      "ChoiceDataList": [
+        "面白がらずに、レースを見てほしい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "そ～だねぇ。トレーナーさんがそう\r\n思ってくれてるの、嬉しいな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "でもでも、あたしはね、面白そうって見に\r\nきてくれるのも、ラッキーかなって思うんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あたしとビコーちゃんの勝負が面白そうって\r\nまず足を運んでもらって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "そこから、レースを見て、熱いな～って\r\n思ってもらうのも、素敵だよね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あたしとビコーちゃんのレースだもん、\r\nきっとお腹いっぱい大満足になれるよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう力強く話すヒシアケボノ。\r\n悩む様子はなく、真っすぐに前を向いている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ヒシアケボノがどっしり構えているのなら、\r\nトレーナーはそれ以上にしっかりしなければ。",
+      "ChoiceDataList": [
+        "……ごめん"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "え？\r\nなんで？\u3000どうしたの？",
+      "ChoiceDataList": [
+        "最高に熱い、いいレースをしよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "！\u3000うんっ！\r\nがんばってこーね、トレーナーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "数日後。\r\nビコーペガサスと、併走をすることになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ボノ＆ビコー",
+      "Text": "とりゃああああー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ふぅ、はぁ、はぁ……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "はぁ～～、最後の最後に抜かれちゃった～。\r\nビコーちゃん、またまた速くなったねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "……っ、ボノこそ！\r\n追いつくの、ギリギリだったぞーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そんな賑やかなトレーニング後。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "ええ！？\u3000キャロットマンが！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ビコーペガサスの好きなヒーローが\r\nイベントで商店街に来ているということで、\n急遽会いに行くことになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キャロットマン",
+      "Text": "会いに来てくれてありがとう！\r\nこれからも、応援よろしく！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "お、おうっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "……っあの、アタシ、……っアタシな！\r\nアンタみたいなヒーローに憧れてるんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "だから今、レースがんばってて……\r\n上手くいかない時は、\nヒーローの事思い出して――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "そしたらいっつも、\r\nうおおーってなるんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "だから、だから――\r\nこれからもがんばってください！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キャロットマン",
+      "Text": "ははっ、うん！\r\n君の言葉、しっかり覚えておくよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "キャロットマン、カッコよかったねぇ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "…………ビコーちゃん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "――ん、ああ！\u3000えっと、その……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "と、ビコーペガサスはどこか改まったような\r\n表情でヒシアケボノを見上げた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "あのな、ボノ。アタシ、レースな、\r\n本当にな、すごくがんばりたいんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "ボノはアタシの夢、知ってるよな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "もちろんだよ～。\r\n入学した時から言ってたもん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ヒーローみたいな、みんなに\r\n勇気をあげられるレースをしたい、だよね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "そうなんだ！\u3000……けどな、アタシ、\r\n実はまだGⅠレース1回も勝ててなくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "でも、だから、ボノが一緒に\r\n走ってくれるの、すごく嬉しいんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビコーペガサス",
+      "Text": "キャロットマンもライバルがいたから強く\r\nなった。アタシもボノがいればがんばれる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ビコーちゃん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "えへへ。あたしもね、ビコーちゃんとの\r\nレース、すーっごく、うおおーってなるよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "もーちょっとで追いつかれそう、\r\nでも絶対追いつかれたくないってなるの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "だから、だからね。『スプリンターズS』、\r\nもっと強くなっておくから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "それで、次は絶対に勝つからね、\r\nビコーちゃん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ヒシアケボノとビコーペガサス。お互いの\r\n存在がとてもいい刺激となっているようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "顔を合わせるたび喧嘩したり、\r\nなにも言わずに背中を追いあったり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そんな目に見える関係ではないが、\r\n2人は2人なりのやり方でお互いを\n高めあっている。",
+      "ChoiceDataList": [
+        "大切なライバルなんだな",
+        "大切なライバルなんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ライバル……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あはは！\u3000うん、うんっ。そーだね！\r\nあたしとビコーちゃんは、ライバルだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "2人が目指す『スプリンターズS』に向けて、\r\nトレーニングに励む日々が続いたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

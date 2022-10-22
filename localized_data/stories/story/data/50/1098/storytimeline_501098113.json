@@ -1,0 +1,593 @@
+{
+  "Title": "旧縁は沙流のように",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして、強くなるために協力してくれる\nウマ娘探しを始めたコパノリッキーだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ホッコータルマエ",
+      "Text": "ええっ『トレーニングに協力しろ』？\nたしかに助けてくれる人は大事って\n言ったけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ホッコータルマエ",
+      "Text": "ごめん……私は手伝えないよ。\n目標に向けてスケジュール組んじゃったし、\n今は余裕もないから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ワンダーアキュート",
+      "Text": "ほぉほぉ、トレーニングの相手かい？\nもちろん大歓迎だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ホント！？\u3000ありがとうアキュートさん☆\nそれじゃあ早速、模擬レースを……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ワンダーアキュート",
+      "Text": "ほうぅりゃあああああああ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ううう～……。\nトレーナー、強すぎて相手にならないよ～。",
+      "ChoiceDataList": [
+        "それはそうだろうな……",
+        "それはそうだろうね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――ワンダーアキュート。性格こそ\nおばあちゃんのようにほっこりしているが、\nダート指折りの強豪の1人だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "出走レース数は30近く。GⅠ勝ち星こそ\nないものの、2着が2回。そして重賞3勝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "GⅠ"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ダートの名ウマ娘、スマートファルコンと\n僅差の激戦を繰り広げたこともある。\nトレーニング相手としては格上すぎた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "スマートファルコン"
+      ]
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うーん、協力にOKしてもらえても、\n強すぎるウマ娘じゃ“相生”……\n互いを高めあう関係にはなれないよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "私と同じく、デビュー直後か、\nデビュー前のウマ娘じゃないとダメかも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "でもダートでもヘッチャラそうな\nパワーのあるウマ娘なんて思いつかないし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "確かにホッコータルマエと\nワンダーアキュート以外は、\nパッとは浮かばない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "しかし、あえて\nつながりを探るとするならば……。",
+      "ChoiceDataList": [
+        "何か風水的なヒントとかないか？",
+        "何か風水的なヒントとかない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ヒント……。そういえばラッキーカラーは\n“黒”って出てたような……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "“黒”。それがただひとつの足がかりの\nようだ。とりあえず関連しそうなウマ娘を\n探し、連れてくることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "リッキーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "キタちゃん！\nそっか、キタちゃんがいたっけ☆",
+      "ChoiceDataList": [
+        "もしかして知り合い？"
+      ],
+      "ColorTextInfoList": [
+        "キタ"
+      ]
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うん！\u3000実は小さい頃、\n同じ公園でよく遊んだことがあって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "キタちゃん、そうなの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "うん！\u3000まだダイヤちゃんと会う前の話！\n一緒に駆けっこしたりしてたんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ダイヤ"
+      ]
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "リッキーさんは、砂場でなくした\nオモチャとかすぐに見つけてくれたんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――キタサンブラック。\nコパノリッキーより年下で、\nお助け大将と呼ばれる人情厚いウマ娘だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "キタサンブラック"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "文字通り、名前に“黒”のつくウマ娘。\n試しに連れて来たら……\n因果は過去からつながっていたようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そしてこちらのウマ娘はサトノダイヤモンド。\nサトノグループの令嬢で、\nキタサンブラックの親友でもある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "サトノダイヤモンド"
+      ]
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "キタちゃん、実は私、一緒にトレーニング\nしてくれるウマ娘を探してるんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "よかったら手伝ってくれない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "はい、もちろんです！\u3000お助けならドーンと\nお任せ♪\u3000それにー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "たくさん遊んで、たくさんお世話に\nなったリッキーさんのためなら\nますます喜んで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ありがとう☆\u3000でも懐かしいね、\n一緒に遊んだあの頃。あの公園……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "やさしいおじさんやお姉さんがたくさんいて、\n私たちを見守ってくれたっけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "管理人のおじさん",
+      "Text": "さあ2人とも。遊びやすいように、\n危ない柵は外しておいたからね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "管理人のおじさん",
+      "Text": "これでぶつかる心配もないし、\n思いっきり駆けていいよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "そうですね！\u3000とってもよくしてくれて。\nおかげで毎日、思う存分、走れましたよね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "キタちゃん、あの時みたいにもう1度！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "はい、同じ公園で育ったウマ娘同士、\n頑張りましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あのっ、でしたら私にも\nお手伝いさせていただけませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "えっ、ダイヤちゃんも？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "うん。3人いた方が、トレーニングの種類に\nよっては、やりやすいと思うし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "私にも、ぜひ力にならせてもらえれば。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うん、ありがとう！\nならダイヤちゃんもよろしくね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "親友のサトノダイヤモンドも、\n前向きに協力を申し出てくれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして3人の仲は日々深まり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "リッキーさん、今日もよろしくお願いします！\n私、朝から待ちきれなくて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "今日の風水のお告げはなんですか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "えっと今日は……『木は金から\n剋【こく】される』。ダイヤちゃんにとって、\n木との相性はよくない日みたいだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "木はよくない日……！\u3000だったら！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ウッドチップコースで走りましょう！\u3000ね？\n私なら大丈夫ですから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "リッキーさんの風水、本当にすごいです。\nとてもよく当たって、だから……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "その分、試練の破りがいもある！\nもう最高です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "あはは……リッキーさん、なんか\nすっかり気に入られちゃいましたね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "う～ん、ダイヤちゃんを少し\n取られちゃったような～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "サトノダイヤモンドは\n異常にジンクス破りにこだわるウマ娘。\nそことの相性も抜群のようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "トレーナー！\u3000おかげでだいぶ勢い\n出てきたかも☆\u3000この3人なら♪",
+      "ChoiceDataList": [
+        "ああ、ともに走りを磨いていこう！",
+        "うん、ともに走りを磨いていこう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "3人は見事に相生の関係だった。\n競い、高めあうトライアングル。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "新たな絆を得たことで、コパノリッキーの\n前途は大きく開けたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そしてその日の帰り道のこと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "あ……。あの娘……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "校門で、ふとコパノリッキーが立ち止まる。\nその視線の先には――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "別れのあいさつをするウマ娘と\nトレーナーの姿があった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "去りゆくウマ娘",
+      "Text": "お世話になりました、今まで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "見送るトレーナー",
+      "Text": "ええ、でも残念ね。まさか自分から\n身を退きたいだなんて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "去りゆくウマ娘",
+      "Text": "仕方ないです。ケガは治っても、\nこんな調子じゃ……。それでは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "一礼して去るウマ娘。\nその背に……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "あの――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "コパノリッキーはたまらない様子で\n声をかけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "何か走りに問題があるんだよね？\nあんまり前向きになれないとかだったら……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "去りゆくウマ娘",
+      "Text": "それで済んでたのは……\nもう半年くらい前かな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "え……半年前……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "去りゆくウマ娘",
+      "Text": "最初は気持ちの問題だったんだけど、\nそこから食も細く、夜も遅くなって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "去りゆくウマ娘",
+      "Text": "トレーナーも相談に乗ってくれたんだけど、\n迷惑かけるのが、逆につらくなっちゃって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "そうだったんだ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "あのっ！\u3000だったら……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "去りゆくウマ娘",
+      "Text": "決まったんだ、働くお店。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "……え？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "去りゆくウマ娘",
+      "Text": "だからこれを機にやり直すつもり。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "去りゆくウマ娘",
+      "Text": "きっとね、才能が足りなかったんだよ。\nそう割り切れてるから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "去りゆくウマ娘",
+      "Text": "ごめんね、心配させちゃって。\nじゃあ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "あ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そのウマ娘は少し寂しげな笑みを残し、\n去っていった。トレセン学園では、\nわりとよくある光景だが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トレセン学園"
+      ]
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "どうにか……できたよね、きっと。",
+      "ChoiceDataList": [
+        "さっきのウマ娘を？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うん、たとえば『東に赤』。\n毎朝、朝日の出る時間に起きてみるとか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "そんな小さな心がけからでも、立ち直れる\nことってよくあるんだよ。でも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "手を差し伸べられないなら、見送るしかない。\nそんなことがトレセン学園に入ってから、\n何度も。だから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "どうにかしたい。私にできることを1つでも。\nたとえ今は無理でも。だから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "強くなって、風水を広めたい！\n一刻も早く、たくさんの人を\n助けられるように！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "がんばらないとね、トレーナー！\nキタちゃんやダイヤちゃんと一緒に！",
+      "ChoiceDataList": [
+        "……ああ！",
+        "……うん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ただ勝利のための強さではなく――\n誰かを支えうる優しい強さを。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それを求めるコパノリッキーの瞳は\n真っ赤な夕陽より、熱く燃えていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

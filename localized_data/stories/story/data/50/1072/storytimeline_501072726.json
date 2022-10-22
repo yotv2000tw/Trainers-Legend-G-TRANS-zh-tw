@@ -1,0 +1,79 @@
+{
+  "Title": "クレーンゲームに挑戦！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日、ヤエノムテキと出かけた先で……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……あっ。",
+      "ChoiceDataList": [
+        "どうかしたのか？",
+        "どうかしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……いえ、お気になさらず。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヤエノムテキが咄嗟に目を逸らした場所に\r\nあったのは、ウマ娘たちをモチーフにした\nぬいぐるみが入った、クレーンゲームだった。",
+      "ChoiceDataList": [
+        "もしかして、欲しいのか？",
+        "もしかして、欲しいの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "欲しいか欲しくないかではなく、\r\n手にしてはならぬものです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "もしもあれを手にしてしまうことがあれば、\r\n腕に抱えるようなことがあれば、私は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "くっ……つぶらな瞳……護りたい……！",
+      "ChoiceDataList": [
+        "なら、取って護ってあげよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "護るためにも我が手の中に……\r\n確かにそのような考え方もありますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "わかりました、トレーナー殿。\r\nご成功をお祈りしております……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――このゲーム、負けられない！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

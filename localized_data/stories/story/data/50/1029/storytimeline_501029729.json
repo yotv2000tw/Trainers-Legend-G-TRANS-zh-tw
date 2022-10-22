@@ -1,0 +1,43 @@
+{
+  "Title": "クレーンゲーム失敗……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ああ、惜しい……！\nあと少しでしたね。",
+      "ChoiceDataList": [
+        "取ってあげられなくて、ごめん"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "そ、そンな……！\nぜんぜん、お気持ちだけでうれしいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あたしなンて、クレーンの動かし方も\nよくわかってねンですから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "操作できてるだけで、すげぇですよ……！\nだから、あンまりお気になさらないでけせ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "残念な結果に終わった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

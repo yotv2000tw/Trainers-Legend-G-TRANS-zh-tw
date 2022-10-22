@@ -1,0 +1,397 @@
+{
+  "Title": "ちょっぴり、曇り",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "それは、『オークス』に向けた\nトレーニング初日のこと。新しいメニューを\nニシノフラワーに渡すと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あれ……\n今までと全然、ちがいますね……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "スタミナ強化メニューが増えて、\nトレーニング時間も長くなってます。",
+      "ChoiceDataList": [
+        "2400mに対応するためだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『オークス』は『桜花賞』より800mも\n距離が延びる。対応するためには、ハードな\nトレーニングもこなさなければならない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そうですよね。いっぱいがんばらないと、\n走りきれない……ですよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "大丈夫ですっ。どんなトレーニングでも、\nせいいっぱいがんばります！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "『オークス』でも、トレーナーさんに\nすてきな結果をお見せしたいですから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ニシノフラワーはまた、自分のために\n頑張ろうとしてくれている。その想いに\nトレーナーとして応えたいが、ひとまずは――",
+      "ChoiceDataList": [
+        "無理な時は必ず伝えてくれ",
+        "無理な時は必ず伝えてね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はぁっ……はぁっ……。\nふぅっ……ふ……。",
+      "ChoiceDataList": [
+        "大丈夫？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はいっ……だい、大丈夫、ですっ……。\nでも、ちょっと休憩、お願いしま……す。",
+      "ChoiceDataList": [
+        "（思ったより消耗が激しい……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "2400mを走ってもらうと、彼女の武器である\n軽やかなスピードが失われてしまっていた。\nやはり彼女には難しい距離なのかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "それでも、ニシノフラワーの希望もあり、\n日々トレーニングを進めていたのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "――……あれっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "『戸惑い』を検出。\nいかがしましたか、フラワーさん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（ミホノブルボンさん。\r\n同室の、とってもかっこよくて\n優しいお姉さん）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ミホノブルボン"
+      ]
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あ……その、体重が……。\nちょ、ちょっと待ってくださいっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……やっぱり、いつもより落ちすぎてる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あの、体重計、\n故障してるかもしれません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……他の方にも乗ってもらいましょう。\n私が確認すると、破壊の恐れがあるので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……はぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ほんとうに、こんなに急に\r\n体重が変わっちゃうなんて。\nちゃんとご飯も食べてるのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ここ数日、フラワーさんは激しい\nトレーニングに集中していました。結果、\n体が負荷に耐えられず、体重に表れたかと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "うぅ、そうですよね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……このことをお伝えしたら、\r\nトレーナーさん、心配しますよね。\nただでさえ、体のことがあるのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そうしたら、トレーニング、\nお休みになっちゃうかな。\nレースも近いのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "まだ練習でも、ちゃんと走れてないんです。\nもっともっと、がんばりたいなぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "感情面は判断しかねます。\nしかし合理的に考えれば、このまま\n負荷をかけ続ければそもそも走れなくなる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "よって、私の回答はこうです。\n即座にマスターへ報告し、\nメンテナンスを優先すること。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……そう、ですよね。\nじゃないと、もっと迷惑をかけちゃう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……ご報告、いただけますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はいっ。アドバイスありがとうございます、\nブルボンさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ブルボン"
+      ]
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "――……というわけなんです。\nトレーナーさん、私……。",
+      "ChoiceDataList": [
+        "休憩期間を作ろうか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はいっ。\nごめんなさい……。",
+      "ChoiceDataList": [
+        "大丈夫、休めばすぐに戻るよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そう……ですかね？\nそうだといいなぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ハードなトレーニングに切り替えた影響が\r\n出ることは、予想できていた。その対応も\nある程度考えている。ただ気になるのは……。",
+      "ChoiceDataList": [
+        "教えてくれてありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……ほんとうは、ちょっぴり迷ったんです。\n大したことないかもしれないし、\nトレーナーさんを心配させたくないなぁって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "でも、ブルボンさんも背中を押してくれて。\nちゃんと言って、よかったんですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……彼女に迷う余地を与えてしまった。些細\r\nなことでもすぐ頼ってもらえるトレーナーに\nならなければ、今後彼女を支えられない。",
+      "ChoiceDataList": [
+        "（頼れるところを見せないと！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "トレーナーさん。\n休憩期間ってことは、このあとは……。",
+      "ChoiceDataList": [
+        "お休みだな",
+        "お休みだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そうですよね。トレーニング以外に、\nなにかできることってありますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "レースも近いですし、\nやれることはやっておきたいんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どうやらトレーニングを中断させてしまった\nことに、責任を感じてしまっているようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今、彼女にできることはいつもの体重に\r\n戻すことと、リラックスしてもらうこと。\nその2つをクリアするためには……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あ、あの、トレーナーさん……。",
+      "ChoiceDataList": [
+        "さあ、好きなものを頼んで！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そんなこと、できません～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ご飯なら、私、お料理しますからっ。\nひとりでちゃんと、がんばれますよ？",
+      "ChoiceDataList": [
+        "はい、メニューを見て"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あう、\nトレーナーさん――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あ。\nサバの味噌焼き定食、おいしそう……。",
+      "ChoiceDataList": [
+        "了解！すみませーん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ひゃあっ！？\r\n今のはうっかり……トレーナーさ～ん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そのほかにも、彼女の好きな惣菜や\n和菓子もたくさん注文し……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はふぅ～……。\r\nおなかいっぱいです～……。",
+      "ChoiceDataList": [
+        "美味しかった？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はいっ……。すごく久しぶりに、\n好きなものをいっぱい、ゆっくり\n食べられた気がします。",
+      "ChoiceDataList": [
+        "このあとはお茶でも飲みに行く？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "えっ、いいんですかっ？\nお忙しいんじゃ……。",
+      "ChoiceDataList": [
+        "美味しいところ、知ってるんだ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "おいしいところ……！",
+      "ChoiceDataList": [
+        "お茶菓子もあるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "お茶菓子……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あ、あの、私行ってみたいです！\nトレーナーさんのオススメ、教えてください！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ニシノフラワーの力みはとれたようだ。\nこれからも、真面目な彼女の負担にならない\n程度に、甘やかしていこうと考えた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "Title": "始まらない私",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――また、タイミングを逃した……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "せっかく選抜レースで気になる子を見つけたのに、\n声をかける前に他のトレーナーと契約されてしまった……。",
+      "ChoiceDataList": [
+        "はぁ……へこむなぁ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "お～～～。おっきなため息ー。",
+      "ChoiceDataList": [
+        "っ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "陽気なウマ娘",
+      "Text": "あははっ！\u3000ごめんごめん、驚かせちゃった？\r\nそっちの陰で昼寝してたんだけど、つい気になっちゃってさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "陽気なウマ娘",
+      "Text": "で、へこむって？\u3000よかったら話、聞かせてくれない？\n言葉にするってだけでも、けっこー楽になるもんだよ。",
+      "ChoiceDataList": [
+        "いやいや、生徒に話すようなことじゃ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "陽気なウマ娘",
+      "Text": "ふんふん、な～るほど。ってことは仕事の悩みかな？\nもしくは、表には出せない学園の闇を見た！\u3000とか……！？",
+      "ChoiceDataList": [
+        "いや、仕事の悩みで……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "陽気なウマ娘",
+      "Text": "あははっ！\u3000そっかそっか、仕事のお悩みかぁ～。\r\n大変そーだよね～トレーナー業って。今は担当の子いるの？",
+      "ChoiceDataList": [
+        "き、気になる子はいたんだけど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "陽気なウマ娘",
+      "Text": "けど？\u3000その子の担当には、なんなかったワケだ。\nそれでそれで――？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "と、いう感じであれよあれよと引き出され……。\n聞いてもらっているうちに、いつしか心が軽くなっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "陽気なウマ娘",
+      "Text": "気持ち切り替えたらさ、また見に行ってみたら？\u3000選抜レース。",
+      "ChoiceDataList": [
+        "ありがとう、そうしてみるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "陽気なウマ娘",
+      "Text": "ふふっ、じゃあ待ってるね！\n次のレースには、なんと～……私も出るからさっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "陽気なウマ娘",
+      "Text": "あはは、しかも満を持しての初出走！\u3000気になるっしょ～？\n……なーんて、これ宣伝ねっ？\u3000ま、気楽な感じで来てみてよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "おどけたように笑う陽気なウマ娘。\r\nそんな彼女を見て、思わず訊ねる。",
+      "ChoiceDataList": [
+        "待って――君の名前は？",
+        "待って――貴方の名前は？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "陽気なウマ娘",
+      "Text": "ん、私？\u3000私の名前は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナーA",
+      "Text": "やっぱり今日の注目は『メジロライアン』ですね！\n調子もよさそう……！\u3000あぁ、期待しかない……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナーB",
+      "Text": "あれ、隣にいるのもメジロの子だったか……？\n名前はメジロ～、なんだっけ……イマイチパッとしないんですよね。",
+      "ChoiceDataList": [
+        "（『メジロパーマー』、だ……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――屋上で出会った彼女は、あの名門メジロ家のウマ娘だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロ家とは、『メジロ』の名を冠する\r\n優秀なウマ娘を数多く輩出している名門だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "中でもメジロライアン、メジロマックイーンなど、特に才能を\r\n感じさせる子たちは、入学当初から大きな話題を呼んでいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "おっ、君！\u3000来てくれたんだー！！\n応援しててよ～、今日は頑張るからっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ま、注目度じゃーライアンには全然かなわないんだけどさ。\nあはは、私どーにもパッとしなくって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……でもさ、見ててよ。私もメジロのウマ娘なんだから。\nここで決めなきゃメジロの名折れ、ってね！",
+      "ChoiceDataList": [
+        "あ、ああ……応援してるよ！",
+        "う、うん……応援してるよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あくまで朗らかな調子は崩さないまま。だがどこか硬い表情を\r\n一瞬見せたようにも思えた、そんな彼女のレースがついに始まり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロパーマーは先頭に立って、逃げていた。\r\n……パッと見でも感じるほど、美しく模範的なフォームだ。",
+      "ChoiceDataList": [
+        "（名家の令嬢らしい走り、なのかな）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "だが、レース終盤にさしかかると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "――ここだっ！\u3000はああぁぁぁぁーーーーーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "っ……！\u3000はぁっ、はぁっ、はぁっ、はぁっ……！",
+      "ChoiceDataList": [
+        "（あれ、メジロパーマー……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "各々スパートをかけるウマ娘たちに、次々と追い抜かされていく。\r\nもがくような表情、それに反して固まりきった『綺麗な』フォーム。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それは“きちんと走りすぎている”というか、\r\n守りに入っているかのような――",
+      "ChoiceDataList": [
+        "（どこか堅苦しい走りだ……）",
+        "（どこか堅苦しい走り……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "はぁっ……はぁっ……あ～～～クソッ、最下位とか……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ダメじゃん！\nメジロのウマ娘がこんなんじゃ、みんな――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナーA",
+      "Text": "やっぱりあなたが1着かぁ！\u3000メジロの名は伊達じゃないね！\r\nさっそくだけど、お話いいかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナーB",
+      "Text": "うんうん、さっすがメジロ家！\u3000期待通りの強さだよ！\nぜひうちのチームに……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "あわわっ……じゅ、順番にいいですかっ？\nここじゃ邪魔になっちゃうので、あっちでお話を……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……あっ、はは。私ってば『メジロの名折れ』とか、なーに\nズレた心配してたんだか！\u3000誰も私の名前なんか出してないじゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いやマジ、気にすることなかったなー！\n注目されなきゃ……失望もされないんだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "…………ホント、ね……。",
+      "ChoiceDataList": [
+        "……あの"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "おっ、と……あはっ、どもどもー！\u3000レース、どうだった？\nいい子いたかな？\u3000って、ライアン1択だよね～そりゃ！",
+      "ChoiceDataList": [
+        "そんなことは――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いーのいーの、わかってるから！\u3000メジロ家にはさ、\n才能のある子がいっぱいいるんだ。私が眼中にないのも仕方ない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "けどもちろん、あきらめてなんかないよ？\u3000今のままじゃダメなら、\nもっと強くなるしかないっ。落ち込んでる暇なんてないなーい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "この後も早速トレーニングしなくっちゃね！\nもっとスタミナつけて、基礎からしっかり見直して――",
+      "ChoiceDataList": [
+        "本当に、それでいいのかな……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "え……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "レースを見て思った。今の彼女は『メジロ家』らしく、\nという想いがプレッシャーになっているのでは……と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それゆえに、走りが硬くなっている気がする。\r\n基本に忠実なのはいいことだが、稀にそれが合わない子もいる……。",
+      "ChoiceDataList": [
+        "もっと君に合うスタイルがあるかも……",
+        "もっと貴方に合うスタイルがあるかも……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "！\u3000私に合う、スタイル……？\nそれって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "…………や、ありがと！！\nちょっと……考えてみるよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

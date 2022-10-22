@@ -1,0 +1,44 @@
+{
+  "Title": "レース疲れ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ボーノ、ボーノ……\nボ～～～～～ノ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……よーし、まだ大丈夫。\nボーノな気分で乗り切るぞ～……！",
+      "ChoiceDataList": [
+        "ど、どうした？",
+        "ど、どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あっ、トレーナーさん！\nううん、なんでもないよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "今日もトレーニング、\nよろしくお願いしま～す☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ヒシアケボノはこう言っているが、\r\nどこか無理をしているようにも見える。\nレースの予定を見直すべきかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

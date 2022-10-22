@@ -1,0 +1,349 @@
+{
+  "Title": "ドキドキフルーツフェス",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日、カフェを訪れると\r\n何か妙にこそこそしているメジロライアンと\nアイネスフウジンを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "あわわ……マックイーン\r\n大丈夫かなぁ……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "がんばれーなの！\r\nもっと積極的にいくの！",
+      "ChoiceDataList": [
+        "……何してるんだ？",
+        "……何してるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライアン＆アイネス",
+      "Text": "わあっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "し、しーっ！\r\nちょっとこっちに……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロライアンに引き込まれ、\r\n自分も陰に隠れてこそこそすることとなった。\n2人の視線の先には……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "このフルーツ！\r\n本当にみずみずしいですわねっ！\n驚きましたわっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "はい、想像以上でした。\r\nマックイーンさんの下調べに感謝ですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "い、いえ、そんな大層なことでは\r\nありませんわっ。\n今日は日頃の勉強のお礼ですしっ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "マックイーンは今日、\r\n日頃のお礼をするために\nイクノちゃんを遊びに誘ったんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "『旬のフルーツのスイーツフェス！』で\r\n一緒においしいデザートをっ！\nって意気込んでいました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "でもマックイーンすごく緊張してて……！\r\nもうあたし、心配で心配で\nいてもたってもいられなくて……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あんな様子のマックイーンちゃんを\r\n放っておけないの～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "バイトでたまたま見かけたんだけど、\r\nなんとかして手助けできないかな！？",
+      "ChoiceDataList": [
+        "楽しく食事してるみたいだけど？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "いえ、よく見てください！\r\n若干顔が引きつっています。\nだからきっとマックイーンは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "（つい自分の好みでスイーツフェスに\r\n来てしまいましたけど、イクノさんは\n楽しめているでしょうか！？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "（イクノさんの好きな蹄鉄のお店とかに\r\n行くべきでしたでしょうか……！？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "（今日は日頃のお礼ですのにーーー！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "って考えているに違いありませんっ！",
+      "ChoiceDataList": [
+        "さすが同じメジロ家……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "マックイーンちゃんの\r\n背中を押してあげたいの！\nどうにかならないかな！？",
+      "ChoiceDataList": [
+        "バイトの立場を活かそう！",
+        "メジロの絆で助けよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "なるほど、あたしの出番だね！\r\nよーし！\u30002人にサービスできるよう\n店長とお話ししてくるのっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "アイネス、この変装グッズ使って！\r\nサングラスにウィッグにマスク……\nこれでバレずに接客できるはずだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ありがとう！\r\n行ってくるのー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "謎の店員",
+      "Text": "お待たせしましたの。\r\nこちら『2人用ビッグパフェ』で\nございますの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "おや？\u3000そのようなメニューは\r\n頼んでいないと思いますが？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "謎の店員",
+      "Text": "こちら、フルーツフェスの\r\nサービス商品となっておりますの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "謎の店員",
+      "Text": "サイズの大きい商品ですので、\r\nお2人で力を合わせて\n『あ～ん』し合っての完食が必須なんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "あ、『あ～ん』ですのっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "謎の店員",
+      "Text": "はい♪\r\nでは、失礼しますなの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "あ、あああ……『あ～ん』だなんてっ……！？\r\n『あ～ん』だなんてっ……！？\nあ、ああ……『あ～ん』！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "マックイーンさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "あ～ん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……っ！？\r\nあ、ああああ、あ～ん！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ぱくっ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ん～……♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "美味しいですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "はっ、え、ええと……！\r\n口の中もですが、その……\n胸の奥まで、甘さでいっぱいですわ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "なんと。それほどまでにスイーツを\r\n気に入られたのですね。なによりです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "初めから心配は要らなかったかもしれないが、\r\nイクノディクタスはとても楽しそうに\nしていたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "わかりました！\r\nマックイーンのためにひと肌脱いできます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あたし、店長から\r\n制服借りてくるのー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "ありがとう！\r\n変装グッズのサングラスとウィッグも\n用意してあるし……よし、やるぞっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "謎の店員",
+      "Text": "お客様、失礼します。\r\n本日はフルーツフェスをご利用のみなさまに\nクーポン券をお配りしております。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ん……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "謎の店員",
+      "Text": "こちら『スポーツ用品店割引クーポン』です。\r\nぜひ、お2人でご利用くださいませ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……なにをやっておりますの、ライアン？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "謎の店員",
+      "Text": "えっ……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "謎の店員",
+      "Text": "バ、バレた！？\r\nどうして、ウィッグまで被っているのに！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "さすがに気づきますわっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "あちらに私たちの様子を覗く\r\nアイネスさんとトレーナーさんを\n発見しました。",
+      "ChoiceDataList": [
+        "げっ……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライアン＆アイネス",
+      "Text": "逃げろー！",
+      "ChoiceDataList": [
+        "み、みんな待って……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "もうっ！\r\n勝手についてきてっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "ふふっ、賑やかな家族で\r\nいいですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "初めから心配は要らなかったかもしれないが、\r\nイクノディクタスが楽しそうにしている\n様子がちらっと見えたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

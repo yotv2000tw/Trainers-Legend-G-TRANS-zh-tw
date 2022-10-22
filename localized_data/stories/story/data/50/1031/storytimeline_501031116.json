@@ -1,0 +1,287 @@
+{
+  "Title": "次の一歩へと",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医師",
+      "Text": "……脚の腫れが気になりますね。\r\nしばらく休みを取ってみてはいかがでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医師",
+      "Text": "他も一通り検査を行いましたが、\n特に大きな問題もなさそうですし。\nまあ要経過観察、ですね。",
+      "ChoiceDataList": [
+        "…………よかった"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……うん、よかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ヴー、ヴー！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "わっ、LANE件数……40件！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "お父さんもお母さんも\r\nメッセ送りすぎなの……。",
+      "ChoiceDataList": [
+        "それだけ心配だったんだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……あはは。それはそっか。\r\n娘がダービー後にいきなり病院！\nだもんね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ダービーには彼女の家族が応援しに来ていた\nこともあり、今回の件は既に連絡済みだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ご家族には大事には至っていないと説明し、\r\n後の付き添いはこちらで担当していたが……\nずっと不安はあったことだろう。",
+      "ChoiceDataList": [
+        "今度、休むついでに帰省はどうだろう？",
+        "今度、休むついでに帰省はどうかな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……ん～、そうだね。\r\n直接、顔見せた方が安心するかも。",
+      "ChoiceDataList": [
+        "久々に家で“お姉ちゃん”もしてきなよ",
+        "久々に家で“お姉ちゃん”もしてきたら？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "確かにっ！\u3000脚を休めている間、\r\nヒマヒマで退屈になりそうだしね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "そしてその間、トレーナーは次の目標\r\n『菊花賞』のトレーニング考えとくこと！\n頼んだよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――ということで休暇申請を行い、\r\n1週間ほど彼女を実家で休ませることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "トレーナー、あたしがいなくても\r\n変な物を食べちゃダメだからね？",
+      "ChoiceDataList": [
+        "食べないから！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "え～、本当～？\r\nじゃあ行ってくるのー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そしてアイネスフウジンが乗った電車が\r\n駅を離れるまで見送った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーナー室に戻ると、\nこの前までダービー用の資料で\n雑然としていた部屋が綺麗になっていた。",
+      "ChoiceDataList": [
+        "……アイネスが掃除してくれたのかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "綺麗になった机の上で考える。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "クラシック三冠最後の\n『菊花賞』は3000mのスタミナ勝負。\nアイネスフウジンが挑めば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室の先生",
+      "Text": "……彼女の体が耐えきれなくなるのでは、\nという懸念がある、と。",
+      "ChoiceDataList": [
+        "……はい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室の先生",
+      "Text": "……そうですね。ダービー後の様子は、\r\n学園スタッフとしても心配でしたし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室の先生",
+      "Text": "よりサポートは必要でしょう。\r\n体もですが、特に心のバランスも心配です。",
+      "ChoiceDataList": [
+        "心ですか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室の先生",
+      "Text": "ええ。体に無理をさせると、\r\n心にもガタが来るものです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室の先生",
+      "Text": "どうかこれまで以上に手厚く、\r\n彼女を見守ってあげてくださいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あっ、トレーナー！\r\nただいまなのっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして、あっという間に1週間がたった。\r\n病院でも検査を受け、トレーニングを\n開始することも問題なさそうだったが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "トレーナーっ！\r\n大っっ事な話があるの！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ジムに到着するなり、\n彼女は前のめりに口火を切った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あのさ。これからのレース、\nもっと効率的な走り方を目指していい？",
+      "ChoiceDataList": [
+        "効率的な走り？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "うん。あたし、その……\r\nダービーでバタンキューしちゃったでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "だから次からはそうならないようにしたいの。\r\n……疲れないようになりたくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "新しい走り、開拓！\u3000みたいなっ！\nどうかな！？",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女から持ちかけられたのは、\r\n願ってもない相談だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ウマ娘の中には慣れ親しんだ走りを\r\n変えることを極端に苦手とする娘もいる。\nそのため長期戦になる覚悟も必要だが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女の体の負担を軽減できるなら、\r\n是非試してみるべきだ。",
+      "ChoiceDataList": [
+        "いいと思う！合宿でもやってみよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……っ！\u3000うん！\r\nメニューの変更もよろしくねっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "これで、もっと。\r\n体がいつでも動かせるようになったら……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……あの、店長。\r\n相談があるんだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コンビニの店長",
+      "Text": "ん？\u3000アイネスどうした～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――もうすぐで夏合宿の季節がやってくる。\nそれまでに彼女のための\n新しいトレーニングを考えなくては。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女の次の目標は『菊花賞』だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

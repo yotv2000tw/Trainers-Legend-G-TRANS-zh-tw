@@ -1,0 +1,429 @@
+{
+  "Title": "ファン感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "もうすぐ春のファン大感謝祭。\n応援してくれているファンとの交流を、\nニシノフラワーも楽しみにしているようで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "今日のお昼の打ち合わせなんですけど、\nトレーニング前にずらせますか……？",
+      "ChoiceDataList": [
+        "もちろん大丈夫だ",
+        "もちろん大丈夫だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ありがとうございます！\nお昼の時間を、折り紙に使いたいんです。",
+      "ChoiceDataList": [
+        "折り紙？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "実は、ファン大感謝祭に来てくれる\nみなさんに、折り紙のお花を\nプレゼントしたくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "本物のお花よりも長く残って、\n思い出になるかなぁって考えたんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "普段、応援してくれるみなさんに、\nお礼ができるチャンスかなって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……喜んでもらえる、でしょうか？",
+      "ChoiceDataList": [
+        "すごく喜んでもらえると思う！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ほっ……。\nありがとうございます！",
+      "ChoiceDataList": [
+        "俺も手伝わせてくれる？",
+        "私も手伝わせてくれる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "えっ……でも、\nトレーナーさんもお忙しいのに。",
+      "ChoiceDataList": [
+        "細かい作業が好きなんだ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そうだったんですね……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "じゃあ、お願いします！\n一緒にすてきなお花を折りましょう♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女は気づいていないが、2人だけでは\n十分な量の花を作れないかもしれない。\nそれでは彼女がガッカリしてしまいそうだ。",
+      "ChoiceDataList": [
+        "（こっそりたくさん作っておこう……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "というわけで、ファン大感謝祭に向けて\nトレーニングの合間に、できるだけ多くの\n折り紙の花を作ることになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（今日はお天気がいいから、\nお外で作業しようかな……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タイキシャトル",
+      "Text": "オゥ、フラワー！\n今日もラブリーフラワーですネ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "タイキ先輩！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "タイキ"
+      ]
+    },
+    {
+      "Name": "タイキシャトル",
+      "Text": "Sunbathingデスカ？\nワタシもトゥギャザーさせてクダサイ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あ、実は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タイキシャトル",
+      "Text": "なるほど、エキサイティング！\nならワタシもヘルプしマス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ええっ！\u3000でも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タイキシャトル",
+      "Text": "面白いことはみんなでエンジョイ！\nワタシのモットーです♪\n折り方、教えてクダサイ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（タイキ先輩のおかげで、とっても大きな\nお花も仕上がって……楽しかったなぁ♪）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "――ン？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "フラワー君。ポケットから何か落ちたよ。\n……折り紙の花？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あ、ありがとうございます！\n私、今――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ふぅン。なるほど。\n君は本当に無私だねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "むし……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "……今やっている研究が手詰まりでね。\nちょうど気分転換を探していたところなんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "落とした花はサンプルとして預かるよ。\n後日、研究室へ来たまえ。\nカフェもそれとなく煽っておこう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……？\nは、はい……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セイウンスカイ",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（びっくりしたぁ。研究室に行ったら、\n色とりどりのお花ができてたんだもん）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（不思議な形のお花もあって、すごかったな。\nタキオンさんが手伝ってくれてたなんて。\nみんな、優しいなぁ――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "タキオン"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "（ふわっ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ん？\u3000今の音……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あ！\u3000あれって……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そして迎えた、春のファン大感謝祭当日。\nそれなりの量の花を折れたので、\n携えて彼女と待ち合わせたのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（どどんっ……！）",
+      "ChoiceDataList": [
+        "こ、この大量の段ボールは……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はい！\u3000ぜんぶ折り紙のお花です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "タイキ先輩やタキオンさんが手伝ってくれて、\nこんなにたくさん仕上がりました♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "それに、どなたか知らないかたも、\nいっぱい折って畑に並べてくださってて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "本物のお花みたいでびっくりしました。\nいつかちゃんと、お礼がしたいな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "それで、トレーナーさんの、\r\nそのおっきなかばんは……？",
+      "ChoiceDataList": [
+        "頑張ってみたんだけど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……！\nそんなにたくさん……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……私、とっても優しいかたがたに囲まれて、\r\nほんとうに幸せです♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ありがとうございますっ。さっそく、\r\nファンのみなさんに配りにいきましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "――いつも応援ありがとうございます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フラワーのファンA",
+      "Text": "わぁっ……！\u3000かわいいお花！\nフラワーちゃん、ありがとう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "えへへ、今日はたくさん楽しんで、\nいっぱいにこにこしてくださいね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フラワーのファンA",
+      "Text": "はぁ～……こんな孫がほしい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ニシノフラワーの折り紙のお花は、\nファンに喜んでもらえたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フラワーのファンA",
+      "Text": "おおお……！\u3000フラワーちゃんからの花！\n額に入れて飾ります！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そ、そこまでしていただかなくても……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "でも、ありがとうございます……♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フラワーのファンB",
+      "Text": "フラワーちゃん、このお花、\nなんだか細かくうねるんだけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あ、それはタキオンさんが\n手伝ってくださったお花です！\n面白いですよね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ニシノフラワーの手作りの花は、\nファンの方々に大盛況だった。\nすると……小さなウマ娘の少女がやってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フラワーのファンC",
+      "Text": "あのっ……！\nわたしにも、おはな、くださいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "！\nはい、ちょっと待っててくださいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フラワーのファンC",
+      "Text": "ありがとうございます！\n……あ、あの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フラワーのファンC",
+      "Text": "わたし、いつかフラワーさんみたいな、\nすてきなお姉さんになるのが夢なんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "！\n私が、お姉さん……ですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フラワーのファンC",
+      "Text": "はい！\u3000やさしくて、走るとかっこよくて、\nすてきなお姉さんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ありがとう、ございます……♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "この日はファンだけではなく、\nニシノフラワーの心にも残る\n1日となったようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "Title": "フォーゲットミーノット！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "記憶が、ねえ～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "大声に驚きキタサンブラックと駆けつけると、\nそこには困った様子のゴールドシップがいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "ねえよ～、アタシの昨日の記憶っ！\r\n鞄の中も木のウロの中も、\n捜したけれど見つからねえよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "お、落ち着いてくださいっ！\n何かお手伝いできることはありますかっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "う……ぐすんっ、アタシの大事な記憶ちゃん\nきっとどこかに落としたんだわ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "頼むよ～！\u3000アタシの記憶捜してくれよ～！\r\nこのままじゃ誰かに拾われちまうよ～！",
+      "ChoiceDataList": [
+        "（記憶って、落ちてるものなのか……？）",
+        "（記憶って、落ちてるものなのかな……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "わかりましたっ！\u3000お手伝いしますから\nゴルシさんの記憶、見つけましょうねっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして3人で学園を回ることになったが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "感じるっ！\u3000呼ばれてるっ！\nきっとこの辺にラインの黄金がっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "この辺ですねっ！\u3000よおし、落ちたり\r\n埋もれたりしてないか、しっかり捜しますっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "……ううん、雑草が多くて捜しづらいですね。\r\nついでに草むしりもしちゃいましょうか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "うおおお、記憶ッ！！\u3000発見ッ！！\r\nだがこれは先週、火星人と戦った時の記憶ッ！\nつまり、捜してるのはこいつじゃあない……！",
+      "ChoiceDataList": [
+        "か、火星人と！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "そうでしてよ。とても素敵なひと時でしたの♪\nオラッ、次行くぞ、次っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "しーーーっ、静かに！\u3000気づかれないように、\r\n慎重に記憶の野郎を捜すんだ……っ。",
+      "ChoiceDataList": [
+        "（記憶に気づかれないように……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "なるほど、静かに……。\r\nあっ、崩れそうな本は片づけておきますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "惜しい！\u3000こいつぁ明日の記憶ッ！\nなになに、ゴルシ様が大統領になるだって！？",
+      "ChoiceDataList": [
+        "（大統領は無理がある……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "お待たせしました～！\u3000脚元危なかったので、\r\n出しっぱなしの機材片づけてきました！\nさ、記憶捜しを続けましょうっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "ふう……なかなか見つかりませんね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "でもっ、あたしもまだまだ手伝いますからっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "キタサンブラックはめげていないが、\nこれ以上うさんくさい話に付き合わせて\nいいのだろうか。",
+      "ChoiceDataList": [
+        "まだ記憶喪失って信じてる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "信じるかどうかは、関係ないですよ！\r\nただゴルシさんを助けたいだけなので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "困った人を見て見ぬふりはできないですもん。\nだからとことん付き合いたいんですっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "ありがとな、キタサン……。でもよぉ、\n思いつく場所は全部回っちまったんだ……。",
+      "ChoiceDataList": [
+        "諦めずにもう1度校内を回ろう！",
+        "誰かの助けが必要かも……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "いや、いい……過去に囚われんのはヤメだ。\r\nきっと大事なのは、今過ごしてる時間なんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "でも、記憶がないままなんて心配です……。\nあたし、まだまだ手伝えますよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "いいさ。充分ヒマつぶしに――じゃねぇや。\nもっと大切なことに気づけたからな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "過去よりも今！\u3000それを教えてくれた\nオマエらに、いいものやるよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "塩もみ込んで、枕の下にでも入れときなッ！\r\nいい夢みろよッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "……何かの、おまじないでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "でも、なんだかゴルシさん、すっきりした\n顔に見えましたよねっ！\u3000よかったっ！",
+      "ChoiceDataList": [
+        "……で、その紙には何て？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "えっと……『全て私がやりました』？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "ふふっ、そのようだな。粉骨砕身、痛み入る。",
+      "ChoiceDataList": [
+        "シンボリルドルフ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "立ち聞きしてすまない。\n実は学園のために尽力してくれた者が\nいると聞いて、礼を伝えにきたんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "草むしりに図書室の整理、出しっぱなしの\r\nライブ機材の片づけ。どれも困っていると\n目安箱に投書があった案件ばかりでね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "捜し物のついででしたけど、\r\nお手伝いできたならよかったです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "ついでであれほどとは、感に堪えないな。\n善因善果――と言うには些少に過ぎるが、\nぜひ君の行いに報いらせてほしい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "うわあ、美味しいクッキー！\u3000これ、\n後でゴルシさんにもお裾分けしたいですっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "いつでも助けの手を惜しまない。\nキタサンブラックの懐の深さを感じた\n1日だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "そうですね！\u3000誰かを呼んだらもしかして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "やっと見つけましたわ、ゴールドシップさん！\n貴方、昨日――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "まあ待てよマックイーン。まさか記憶喪失の\n相手に昨日あったことを尋ねようってのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "記憶喪失？\u3000貴方が？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "では昨晩、私の部屋の前で奇妙な歌を\n歌っていたこともお忘れだと言うんですね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "覚えてません～っ！\nアタシ、なにもしてません～っ！",
+      "ChoiceDataList": [
+        "（なるほど、このためだったのか！）",
+        "（なるほど、このためだったんだ！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "はぁ……またよその方を巻き込んで……。\n言っておきますが、叱りに来たわけじゃ\nありませんのよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "最近、どうも寝つきが悪くて。\nですから夜中に貴方が歌いだした時は、\nどうしてくれようと思ったのですけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "貴方の歌を聞いたら、なぜかぐっすり\n眠れてしまって。一応……お礼に。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "でも、覚えていないなら仕方ありません。\nこちらは持ち帰ることにいたしますわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "なんだよなんだよマックちゃぁ～ん！！\nなんかくれんならすぐに思い出すっつーの！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "もうっ、現金な方！！\n……すみませんキタさん、トレーナーさん、\nこの方のお世話、ありがとうございました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "行っちゃいましたね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "でもよかった！\u3000ゴルシさん、\nすぐ思い出せるって言ってましたもんね。\nこれで安心しました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "最後までゴールドシップを信じ、\n嬉しそうにするキタサンブラックなのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

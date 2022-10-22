@@ -1,0 +1,493 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "夕暮れ時。トレセン学園への\n帰り道を歩いていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "あれ？\u3000前の方にすごい人だかりが！\n何だろ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "トラブル……のはずはないよね。\nちゃんと運の悪い道は避けてるし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、楽しい楽しい福引だよ！\nどなたでもどうぞ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "福引かー♪\u3000あ、トレーナー！\nあの抽選器の形！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "なんだか“八卦”にそっくりじゃない？\n絵に描いたような八角形☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "もしかして福引って風水由来なのかも！",
+      "ChoiceDataList": [
+        "可能性はありそうだな",
+        "可能性はあるかもね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "確証はない。でも、おみくじや\n神道とつながりがあるのかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "福引が私たちを呼んだのか。\nあるいは逆に私たちが求めたのか。\n因果はわからない。でも！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "こうして出会った以上、引かない手は\nないよね♪\u3000力を貸して、トレーナー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、コパノリッキーとともに\n抽選器のレバーを握り――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "当たるも八卦！\u3000当たらぬも八卦！\n福引よ、私たちの運勢を示せ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "はぁあああああああ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "一緒に抽選器を回す。\nその結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なんとっ！\u3000おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "わぁ☆\u3000やったぁぁぁ！！！！！\nまさか特賞だなんて、すごすぎだよー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "これはきっと偶然じゃなく運勢の啓示だよね。\nすなわち――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "温泉地に行き、湯に溶け出た\n大地のパワーを存分に吸い、\nみんなのために生かせ……ってことみたい♪",
+      "ChoiceDataList": [
+        "よし、じゃあ早速予約を……",
+        "よーし、じゃあ早速予約を……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "待って！\u3000そうしたいのは山々なんだけど……\n風水では温泉について、こんな教えがあるの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "『弥生三月、吉方位の温泉に入ると\n一生着物に困らない』っていうんだけど。",
+      "ChoiceDataList": [
+        "着物って……洋服に困らないってこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ううん。着物は、あらゆる財産を指し示して\nいるの。つまり将来裕福になるには、\n3月に行った方がいいと思うんだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "でも、今年のそのあたりって、\nもう予定が目白押しだよね？\n直前直後に大きなレースもあるし……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "確かにその通りだ。\nこういう時は――",
+      "ChoiceDataList": [
+        "龍脈が鎮まるのを待つか",
+        "龍脈が鎮まるのを待とうか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うん、そうだね！\u3000それが風水的には正解☆\n大荒れのシーズンを無事乗り切ったあと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "つまり来年の3月に、2人でゆっくり経脈を\n整えるのがいいんじゃないかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ふふ、フフフフ☆",
+      "ChoiceDataList": [
+        "……嬉しそうだな",
+        "……嬉しそうだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "あうっ、だってつい～。なんだかんだ\n言っても、その……温泉旅行だしね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "がんばった暁には、いっぱい遊んじゃうぞー！\nリッキー☆\u3000ラッキー☆\u3000大ハッピー♪☆★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "あふれる喜びは隠せない。来年、晴れて\n出かけられるように、実績を積んでいこう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "わー、すっごい☆\nこれはなかなかのラッキーフードかも！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ふーむ、このハンバーグを考えた人、\n実は風水に通じてるのかもね。",
+      "ChoiceDataList": [
+        "どうしてそう思うんだ？",
+        "どうしてそう思うの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ほら、景品をよく見て。暗褐色の肉の中央に、\nオレンジのにんじんがドーンと\n突き刺さってるでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "これにより氣の流れが数段よくなってる。\n運気も上がるし、それに加えて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "栄養も満点！\u3000こんなの食べれば、\nお腹の底から元気になるに決まってるよー☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "さらに仲良し同士、\n楽しく食べれば、もう大ハッピー♪\nトレーナー、帰って食べよ食べよ☆",
+      "ChoiceDataList": [
+        "ああ！",
+        "うん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "運気も栄養も満点のハンバーグ。\nラッキーフードは、コパノリッキーに\nかなりの気力を授けてくれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "2等賞～！！\n賞品は『にんじん山盛り』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うわー、これだけ量があると、\n色の圧もすごいね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "にんじん……オレンジ……オレンジ色かぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "そだ、食べる前に！",
+      "ChoiceDataList": [
+        "何か思いついたのか？",
+        "何か思いついたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うん！\u3000トレーナー、\nちょっと部屋貸してくれる？",
+      "ChoiceDataList": [
+        "――え！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ふぅ、これでよしと。こうして食べる前に\nまずは玄関に置いておけばー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "いい氣を呼び込んでくれること間違いなし！\n玄関は幸運の入り口だから♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "あ、でも幸運の通り道『ラッキーゾーン』が\nもう少し片づいてた方がいいかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "トレーナー、ご飯の前に\n私、部屋のお掃除もやっちゃうね♪\n大得意だからまかせて！",
+      "ChoiceDataList": [
+        "ああ、ありがとう",
+        "うん、ありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして綺麗になった部屋で、\nにんじんをたくさん食べた。\n不思議とおいしさも倍増だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "3等賞～！\n賞品は『にんじん1本』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "にんじんが1本！？\nこれって、もしかして……！！",
+      "ChoiceDataList": [
+        "風水的によくないのか？",
+        "風水的によくないの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うん！\u3000だって1本だけしか\nもらえなかったんだよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "なんだか残念だし、\nそれにすっごく悔しいよね！",
+      "ChoiceDataList": [
+        "ああ、それはまあ……",
+        "うん、それはまあ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "風水……はあまり関係ないような気もした。\n単に感情の問題な気が。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "冗談はさておき……流れがよくない方向に\n行ってるのはたしか。注意はしとこうかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ブッブー！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "トレーナー、車！\u3000気をつけて！",
+      "ChoiceDataList": [
+        "ふぅ、危なかった……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ほらね。ささいなところにも\n吉凶は現れるものだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "今日はおとなしく帰ろっか。\nで、あんまり行動しないようにしよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "下り調子の日は、余計なことはしないに限る。\nにんじんを半分こして食べ、早めに寝た。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ティッシュ……。これって残念なように\n思えるけど、でも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "風水的にはわりと使い道あるんだよね。",
+      "ChoiceDataList": [
+        "どんな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ほら、風通しが悪い時って、\nどうしても湿っぽくなるじゃない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ティッシュはそういう悪しき湿気や水分を\n払うのに使えるから。たとえば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "……悔し涙を拭く時とか。\nうううう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "残念ではないと言いつつ、\nやはり残念だったようだ。\n涙はぬぐえても、悔しさはぬぐえない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

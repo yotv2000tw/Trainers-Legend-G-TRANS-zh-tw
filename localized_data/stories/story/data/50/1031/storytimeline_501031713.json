@@ -1,0 +1,129 @@
+{
+  "Title": "お大事に！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーニング中にアイネスフウジンが\r\nケガをしたので、保健室に連れてきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "大丈夫、大丈夫。\r\n大したことないから、心配しないで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "処置も終わったし、\r\n早くトレーニングに戻ろっ。",
+      "ChoiceDataList": [
+        "本当に大丈夫なのか？",
+        "本当に大丈夫なの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "もちろん！\u3000もうほとんど痛くないから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "それに走ってたほうがきっと元気になるの！\nほら、あたし走るの大好きだから♪",
+      "ChoiceDataList": [
+        "心配だから、ちゃんと休もう",
+        "無理のない範囲でやろう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "んも～、大げさなの。\r\nあたしはこう見えて、つよつよなんだよ？",
+      "ChoiceDataList": [
+        "でも、もし悪化したら……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "うっ。そんな顔をされると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "わかったの。キミに心配かけたくないから、\r\n今日はもう休むことにするね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アイネスフウジンは少し残念そうに言って、\r\n寮に帰っていったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "さすが～！\u3000話がわかるの！\nそれじゃあ、さっそくコースに行こう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "――いたっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "軽く走ってもらっている最中、\r\nアイネスフウジンは痛みで顔を歪めた。",
+      "ChoiceDataList": [
+        "大丈夫……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "うぅ……。あんまり大丈夫じゃないかも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "かっこいいこと言ったのに、ごめんね。\r\nやっぱり今日は無理みたいなの……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アイネスフウジンはトレーニングを断念し、\r\n無念そうに寮へ帰っていったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……ふぅ。軽く走るくらいなら、\r\n問題ないみたい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "えへへ。ケガしちゃったけど、負けずに\r\nトレーニングできてることがうれしいの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アイネスフウジンはケガに配慮しつつ、\r\n無理のない範囲でトレーニングをしてくれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

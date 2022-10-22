@@ -1,0 +1,56 @@
+{
+  "Title": "寝不足で……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ある日、学園内を歩いていると\nじっと佇むバンブーメモリーを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "はッ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "すみません、寝てたっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "せっかくいただいた休暇、\nしっかり休もうと早寝したら\n思った以上の早起きをしてしまって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "この程度の眠気に負けちゃダメっスよね。\n気合い入れないと……ぐぅ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "バンブーメモリーはしっかりと\n休むことができなかったようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

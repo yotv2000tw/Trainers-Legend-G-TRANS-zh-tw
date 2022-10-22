@@ -1,0 +1,443 @@
+{
+  "Title": "がんばりやさん、ふたり",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『阪神JF』――\nジュニア級のトップを決めるGⅠレース。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "トップレースになればなるほど求められる\nレベルが高くなり、その分体に負担がかかる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "“飛び級”でまだ体の幼い\nニシノフラワーにとって、デビュー戦以上の\n消耗を強いられるだろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今後戦っていくには適切なケアの知識が要る。\nだが、まだ未熟なトレーナーの自分には\n知識も経験もない。そこで――",
+      "ChoiceDataList": [
+        "先輩！今日はよろしくお願いします！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先輩トレーナーA",
+      "Text": "お、来たな！\u3000こっちは準備できてる。\n体のメンテナンスについてだったよな。\nこれ、俺が持ってる資料！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先輩トレーナーA",
+      "Text": "あと、卒業生の子も呼んでおいたぞ。\n自分たちでは何をしてたのかとか、\n参考になる話もあるだろうから。",
+      "ChoiceDataList": [
+        "ありがとうございます……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あれ、あそこにいるの……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "どうした、フラワー君。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（アグネスタキオンさん。\r\nむずかしい研究をたくさんしていて、\nおしゃべりが楽しいかたです）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "アグネスタキオン"
+      ]
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あ、えっと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "……ふぅン。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "フラワー君、実はね、私の白衣なんだが。\n諸事情で今ボロ雑巾になっている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "見るも哀れ、着るも哀れでねぇ。\nちょっと見てもらってもいいかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "は、はい。\nがんばってみます……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "――やぁっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ぜえっ……っはぁ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "GⅠに向け、トレーニング強度を上げた。\r\nするとニシノフラワーは普段の練習でも、\n深い疲労を感じるようになった。",
+      "ChoiceDataList": [
+        "フラワー、アイシングをしよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ぁ、はい……。",
+      "ChoiceDataList": [
+        "ビタミンたっぷりのドリンク、作ったよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……！\nあ、りがとう、ございます……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "先輩から学んだことは彼女のケアに\n活かせている。しかし、まだまだ根本的な\nところの理解が足りないようにも思う……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "更にまた別の日。\r\nウマ娘の身体構造について、\n更に知識を深めようと調べていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "――その文献は適切じゃないな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "と、いうより、君が今優先すべきは\n机上の空論ではなくトライアル&エラー。\nつまり実地作業だと思うが。",
+      "ChoiceDataList": [
+        "君は……",
+        "貴方は……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "アグネスタキオン、しがないウマ娘さ。\n出し抜けに恐縮だが、私は日々――\nウマ娘の“体”について研究している。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ふぅン、やはりね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "君、フラワー君のトレーナーだろう。\n彼女にはなかなか世話になっていてねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "先輩として、私に協力できることがあれば\nなんでもしてあげたいと思っているんだよ。\n心から！\u3000善意で！",
+      "ChoiceDataList": [
+        "ぜひ、話を聞かせてほしい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "任せたまえ。フラワー君“の”\n負担“は”軽くなるよう、\n私の知識を貸してやろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ところで君、協力には簡単な条件が\nあってだね。いやなに、あるドリンクを\n飲んで『軽く』動いてもらえればいいんだが。",
+      "ChoiceDataList": [
+        "了解！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "――トレーナーさん、\n遅いなぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（この前、お話ししてた人……\r\n先輩のトレーナーさんだよね）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『俺はまだまだ未熟だから』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『私はまだまだ未熟だから』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（もしかして……私のために、\nまたお勉強、がんばってくれてるのかな？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "（私がまだ、小さい子だから……。\n……トレーナーさん、大変になっちゃうんだ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "フラワー君、お待たせ。\nちょっと彼が張り切りすぎてね。",
+      "ChoiceDataList": [
+        "ぜえ……ぜえ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "フラワー君、お待たせ。\nちょっと彼女が張り切りすぎてね。",
+      "ChoiceDataList": [
+        "ぜえ……ぜえ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "トレーナーさん、どうしたんですか！？\nというか、どうしてタキオンさんも……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "タキオン"
+      ]
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "いやぁ、ちょっとした行き違いがあったんだ。\n私はある成分が心肺機能にどう作用するか、\nサンプルを増やしたかっただけなんだが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "つまり軽い動作テストだ。でも彼は\n『頑張れば頑張るほど意見をもらえる』と\n大変！\u3000素敵な！\u3000勘違いをしてくれてね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "つまり軽い動作テストだ。でも彼女は\n『頑張れば頑張るほど意見をもらえる』と\n大変！\u3000素敵な！\u3000勘違いをしてくれてね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "フフフッ、おかげで実に有意義な結果が出た！\nフラワー君のためのアドバイスも、\n当然上乗せしてあげたさ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……！\n私のために……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "というわけで、後は2人で\nトライアル&エラーしてくれたまえ。\n私は研究に戻ろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "そうだ。白衣の借りは返したよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……ごめんなさい。",
+      "ChoiceDataList": [
+        "どうして謝るんだ？",
+        "どうして謝るの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "だって、私のせいで……\nトレーナーさん、大変ですよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女はどうやら、自分の“体”のせいで\n負担をかけていると思ってしまったようだ。\n確かに特殊なケースかもしれない。だが……。",
+      "ChoiceDataList": [
+        "君のために頑張れるのは嬉しいよ",
+        "貴方のために頑張れるのは嬉しいよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "っ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "私……\nその気持ち、すごく……わかります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……よしっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "トレーナーさん、休んでてください。\n私、お水とってきますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そのあと、走ってきますから！\n見ててくださいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はああああっ……！",
+      "ChoiceDataList": [
+        "（……！速い！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ニシノフラワーは、最後の直線で素晴らしい\nキレを見せた。前日のトレーニングから、\n更に成長している……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はぁっ……はぁっ……！",
+      "ChoiceDataList": [
+        "フラワー、ドリンク！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はぁ、ありがとうございます……。",
+      "ChoiceDataList": [
+        "秘密の特訓でもした？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "いいえ。\nただ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "トレーナーさんもがんばってるって思ったら、\nなんだか、力が湧いてきたんですっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そう……そうみたいなんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "トレーナーさんのがんばりが、\n私をいっぱい成長させてくれるんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "一生懸命、ありがとうございます。\nぜんぶ、伝わってますから！",
+      "ChoiceDataList": [
+        "フラワー……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "トレーナーさんだけじゃなくって、\n私もがんばりたいんです。だから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "今日学んだこと、\n教えてもらってもいいですか？",
+      "ChoiceDataList": [
+        "ああ！",
+        "うん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "初めてのGⅠ、不安も大きい。だが……\nニシノフラワーと一緒ならば、\n必ず駆け抜けられる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

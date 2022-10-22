@@ -1,0 +1,37 @@
+{
+  "Title": "今度こそ！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "いよいよっスね！\n必ず名誉挽回してくるっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "へへへっ……\nもう出ていっちゃっていいっスかね！？",
+      "ChoiceDataList": [
+        "緊張してないみたいで、よかった"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "そんなの当然っスよ！\nあんなにトレーニングしたんですから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "ライバルたちとの勝負、楽しんでくるっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "Title": "もぐもぐ、ガタゴト、主人公",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "トゥインクル・シリーズに挑み始めて3年、\nようやく一区切りついたある日の昼下がり。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性A",
+      "Text": "『普通の子だからこそ、あの子が勝つ姿に\nすごく勇気をもらっちゃって！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニュースキャスター",
+      "Text": "『有馬記念で見せたマチカネタンホイザの\n勝利は、多くの人々に勇気を与えました――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ニュースを見ていると、\nマチカネタンホイザが訪ねてきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "私の地元、一緒に行きませんか？",
+      "ChoiceDataList": [
+        "いいけど、どうして急に"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "えへ、両親とピクニックしようかって\n話になったんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "それで、ついでにごちそうしてくれるって\nいうので、トレーナーも一緒にと思って！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "んと、待ち合わせは\nこの辺のはずなんだけど……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの母親",
+      "Text": "あ、いたいた、タンホイザ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "大きな重箱を抱えた夫婦が、\nこちらへ向かって手を振りながらやってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの父親",
+      "Text": "遅くなりました、準備に手間取ってしまって。\nいつも娘がお世話になっています～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの母親",
+      "Text": "ふふ、大切な人を連れてくるって\n言ってたから、そわそわしちゃった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの母親",
+      "Text": "夫婦で腕をふるったので、\n今日は楽しんでいってくださいね。",
+      "ChoiceDataList": [
+        "はい、ありがとうございます"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの母親",
+      "Text": "……にしてもまさか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの母親",
+      "Text": "こんなに誠実そうな人が恋人だったなんて！\nやるじゃない、タンホイザ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "こ、恋人じゃないよ！？\nトレーナー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの母親",
+      "Text": "……あっ、やだ、そういうこと！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "なにはともあれ、ほどよい場所を探し\r\n移動することになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの父親",
+      "Text": "せっかくだからフカヒレでも煮ようと\r\n思ったんだけど、納得いく味にならなくてね。\n普通のおかずしかなくて申し訳ない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう言って並べられた重箱は……\nさすがとしか言いようのない\nクオリティだった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "わぁあ……！\u3000トレーナー！\nこれすごいですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ハンバーグもエビフライも、\nお煮しめ、巻きずし、卵焼きも……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "全部お店で大人気のおかずなんです～！\nありがとう、お父さん、お母さん！",
+      "ChoiceDataList": [
+        "いただきます！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どれもこれも想像以上の絶品で……\n彼女のレベルの高い『普通』の出どころが、\n少しわかったような気がした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの母親",
+      "Text": "にしてもホント、この子は昔から、\nここぞって時に弱くって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの母親",
+      "Text": "学校対抗ウマ娘リレーに選抜された時は\n自主練を張り切りすぎて、\n体壊して当日に高熱を出しちゃうし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの父親",
+      "Text": "勤労感謝の日にご馳走を作ろうと\r\nしてくれた時も、試作品を作りすぎて\nお小遣いが足りなくなったり。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "あ、あんまり昔の話はしないでよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの母親",
+      "Text": "でもね、だからこそ『有馬記念』は……\nよかったわねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの母親",
+      "Text": "ビシッと勝ってみせて、\n会場中が大歓声で、ねぇ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの父親",
+      "Text": "ああ。2人して泣いちゃったよ。\nよく頑張ったな、タンホイザ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "お父さん、お母さん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの父親",
+      "Text": "トレーナーさんも、ありがとうございます。\nこの子をあんな大舞台まで支えてくれて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの父親",
+      "Text": "派手な輝きがある子ではないんです。\r\nでも我々にとっては特別な宝物だから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの母親",
+      "Text": "この子がああやって誰より輝いて\nみんなの勇気と言われるようになって、\n本当に嬉しくって……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "おどうざん、おかあざん……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タンホイザの母親",
+      "Text": "今日はたくさん食べて行って！\nぐす……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "泣きながら重箱をつつく3人……。\n両親からの深い愛情を感じた\nひとときとなった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ふ～、お腹いっぱい……！\n美味しかった～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "にしても、あんなに泣いちゃうなんて、\n思いもよりませんでした。",
+      "ChoiceDataList": [
+        "てっきり涙もろいのかと"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "いやいやー、普段は普通なんですよ！\r\n思い出話して感極まったりはなかなか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "でも、嬉しかったなぁ！\n2人があんなに喜んでくれてたなんて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……ホントに、\nありがとうございますトレーナー。",
+      "ChoiceDataList": [
+        "君自身の頑張りだよ",
+        "貴方自身の頑張りだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "いやぁ、1人じゃダメでしたよ～。\nあはは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ここぞって時にポカする私を、\n粘り強く見守ってくれてましたし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "1番大事な気持ち、取り出して\n教えてくれたのも、トレーナーでしたもん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "前に進む力をくれた。\nだから……そか、そうだな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "この3年間、私の中の『主人公』は、\nトレーナーだったのかもですねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……なんちて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "と、マチカネタンホイザは\nどこか神妙な顔つきになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "あのぅ。私ここから先も、結構やらかすと\n思うんです。ここぞって時に風邪ひいたり。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "でも、やっぱり私にはあなたしかって、\n思うので、だから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "こんな私ですけど、これから先も、\n一緒に歩いて行ってくれますか？",
+      "ChoiceDataList": [
+        "もちろん"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "えへ、嬉しい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "じゃあ、よろしくです、トレーナー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "いつもより少しだけはにかんだ表情で、\n彼女は小さく頭を下げたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "車掌",
+      "Text": "『ドア、締まります。\r\n次の駅は――……』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……ああっ、降り逃した！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『普通』で頑張り屋でちょっぴり締まらない\n彼女との日々は、まだまだ終わらない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

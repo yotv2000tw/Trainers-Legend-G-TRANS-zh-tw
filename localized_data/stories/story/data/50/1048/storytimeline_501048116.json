@@ -1,0 +1,614 @@
+{
+  "Title": "ばかなんだもん",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "――つーかさ。あたしにしては\r\n今まで、よく頑張ったんじゃない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "『皐月賞』にも出て。爪も治って。\r\nGⅡとかでもいい成績だして。\nいや、マジ。上出来じゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "だからみんなの頭には\r\n去年までのあたしだけが残ればいい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "もうこれから先は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "――ダサくなるあたしを見ないで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘B",
+      "Text": "ママの車来たよー！\r\n今日はみんなで海行こー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘Ａ",
+      "Text": "うぇ～い☆\u3000打ち上げ打ち上げー☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘C",
+      "Text": "……ジョーダン？\u3000だいじょぶそ？\r\nつーか今日もトレーニング休みなの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "え？\u3000あ、うん！\r\n全然だいじょーぶ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "しばらく脚休めとけって言われたし。\r\n……だからトレーナーには\n連絡しないでヘーキっぽい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘D",
+      "Text": "………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘E",
+      "Text": "おっ、なにスマホいじってんのー？\r\n好きピへのLANEか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘D",
+      "Text": "……っ、ちがうって。もう！\r\nほら、行こっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "正月休みも終わり、学園が始まって数日。\r\nいまだトーセンジョーダンからの連絡はない。",
+      "ChoiceDataList": [
+        "（既読はつくけど……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "連絡用のアプリ【LANE】で連絡しても、\r\n彼女のクラスに足を運んでも。\n逃げられ続け、一向に連絡は取れないままだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ガララ……）",
+      "ChoiceDataList": [
+        "もしかして……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生",
+      "Text": "失礼いたします。\r\nジョーダンさんのトレーナーさん、\nお話、よろしいでしょうか？",
+      "ChoiceDataList": [
+        "……お話ですか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生",
+      "Text": "ええ。担当クラスの子から\r\nこんな連絡がありまして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘Ａ",
+      "Text": "青春のバカやろ～～～っ！\r\n選抜レースでまた負けたぞ～～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘B",
+      "Text": "うわっ、足つめてーっ。\r\n冬の海きびちー。レベチー☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘たち",
+      "Text": "あははははっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "（……ああ、いいな。海、か）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "（このまま足つけたら、ネイル剥がれっかな。\r\n保湿用のオイル、持ってきてねーし）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘C",
+      "Text": "……ジョーダン？\r\nジョーダンも海入るん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "あー……そだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "（……ああ。でも爪とかもさ、\r\nどうでもよくなっちゃえば）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "――もう、悩まなくていいのかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘D",
+      "Text": "……？\u3000ジョーダン……？",
+      "ChoiceDataList": [
+        "待て！！",
+        "待って！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……っ！？\r\nなんでトレーナーがここに……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘D",
+      "Text": "……っ、ごめん。ジョーダン！\r\nやっぱ最近のジョーダンの様子が心配で――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘D",
+      "Text": "『先生、助けて！！\u3000ジョーダンの\r\nトレーナーさんの連絡先しらない！？』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘D",
+      "Text": "『ジョーダン、全然元気なくて。\r\nあたしらが励ましてもうまくいかんくて。\nこれから海に行くんだけど――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "でも、なんで……。\r\nんな連絡、先生にまでするとか……。",
+      "ChoiceDataList": [
+        "それだけ君が心配だったんだろ",
+        "それだけ貴方が心配だったんだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "お、大げさすぎだって！\r\nあたしたちってただノリで\nバカ騒ぎするような関係だし……。",
+      "ChoiceDataList": [
+        "本当にそれだけの関係だと思うか？",
+        "本当にそれだけの関係だと思ってる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘A",
+      "Text": "ちょちょちょ何ゴト！？\r\nつか、トレーナーさんなんでいんの！？\nしかもおこ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘B",
+      "Text": "ま、待ってダメだって！\r\nジョーダン、去年頑張ったじゃん！？\nだから今日くらい楽しんでほしーの！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘A",
+      "Text": "またあーしたちの星として、\r\nジョーダンにはがんばってほしいし！\u3000ね！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘A",
+      "Text": "ほんと、なんか……ギャルの星っつーか……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『みんな、君に憧れたみたいだな』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『みんな、貴方に憧れたみたいだね』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……でもっ、でも……あたしは\r\n憧れられるようなウマ娘じゃないじゃん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ギャルの星なら、ほかにもいんじゃん！\r\nシチーとか、ヘリオスとか、パーマーとか！\nあたしよりもすげーのがさぁ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "しかもあたし、バカだから！\r\nもうムリ！\u3000シニアじゃ戦えないって！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "負けて負けて負けまくるって！\r\nつーか挑むことすら場違いだって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ボロボロのレースして、\r\nダッセー結果しか出せなくなるってぇ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘C",
+      "Text": "……でも、アタシたちもバカだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘C",
+      "Text": "ジョーダンにすげーって憧れちゃうんだ。\r\nだって最初にマジですげー夢を\nもらっちゃったんだもん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘C",
+      "Text": "1度負けても何度負けても。\r\nジョーダンなら絶対にかっこいい姿\n見せてくれそうな気がするしさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……っ！！",
+      "ChoiceDataList": [
+        "……そう、君はバカだ！",
+        "……そう、貴方はバカだ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "はあ……っ？",
+      "ChoiceDataList": [
+        "すごい大バカだ！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『ビッグになりたい』という\r\nふわふわな目標だけを指針に、\n恐れずに三冠路線への挑戦を掲げ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『皐月賞』では自らの選手生命もかかって\r\nいるというのに『走りたい』という\n気持ちだけで、ケガすら乗り越えようとして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "っす～。チップ5個作ったわ。\r\nえらくね？\u3000あたし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "じゃあ15秒ね！\u3000やっから！\r\nはかってよ！？\u3000よーい……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――なにもわかっていなくたって、\r\nバカ正直にトレーニングにも向き合って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "がむしゃらに挑戦し続けてきた。\r\nバカみたいに頑張ってきた。",
+      "ChoiceDataList": [
+        "だから強くなれた"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……なんだよ。\r\nそれ……っ。",
+      "ChoiceDataList": [
+        "だからいつだって戦ってきた"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どんな困難が相手でも、戦ってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "もしもトーセンジョーダンが賢い子だったら。\r\n着実な目標を立てて、爪の異変が起これば\n『皐月賞』を回避しただろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『有馬記念』のメンバーを見て、\r\n自分から出走希望を取り消すことも\nしたかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "“常識”的に、できないことを理解し、\r\n壁を見るたびに諦める選択を考慮したはずだ。",
+      "ChoiceDataList": [
+        "だけど君はバカで、常に挑もうとした",
+        "だけど貴方はバカで、常に挑もうとした"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "周りからどう言われようとも\r\nどのような厳しい壁であっても\n『超えられるかも』と能天気に挑んできた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして実際に――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ま。今までもなんとかなったじゃん。\r\nなら、頑張るしかなくない？",
+      "ChoiceDataList": [
+        "挑む君はカッコよかった",
+        "挑む貴方はカッコよかった"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……ジョーダン言わないでよ。",
+      "ChoiceDataList": [
+        "違う、本当にカッコよかったんだ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トーセンジョーダンの友人たちも、\r\nこくりと頷いた。",
+      "ChoiceDataList": [
+        "だから、もっとバカになってみようよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "また今度、常識という壁が現れたなら、\r\nバカになって挑んでみればいい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "だって彼女は今までもそれを\r\n超えてきたウマ娘なのだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ぐすっ……んなの……。",
+      "ChoiceDataList": [
+        "でも最強のバカってカッコよくない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "…………。\r\n……バカかよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……っ……アンタって本当にバカ！\r\nバカバカバカバカバーーーカッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "最強のバカってさぁ……。\r\nんなの聞いたことないし。んなの……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……あたしみてーなバカしか、\r\nなれねーっしょ……っ！",
+      "ChoiceDataList": [
+        "そうだよ！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……っるっさい……っ、ばか……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――トーセンジョーダンは目じりに\r\nためていた涙をようやくこぼしたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "ソイソース麺・汁・具！！\r\n3つ合わせて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "追いオリーブ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……で、アレを目標にしろって？\r\nジョーダンっしょ？",
+      "ChoiceDataList": [
+        "最強なら超える壁の1つかなって……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "はぁ～～～……いやー……。\r\nあれはさすがにないて。あ～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "だがゴールドシップは『大阪杯』を含めた\r\n春シニア三冠にも出走を表明している\n実力者だ。常識外のウマ娘としても――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ゴールドシップ"
+      ]
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "マ～～ジですげーバカだけどさぁ……。\r\nやるしかないん？\u3000その『大阪杯』だっけ？",
+      "ChoiceDataList": [
+        "ああ、まずは『大阪杯』で",
+        "うん、まずは『大阪杯』で"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……はぁ～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……追いオリーブ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あ……ジョーダン！\r\nおかえり！\u3000トレーニング中？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "！？\u3000パーマー！？\r\nえと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシチー",
+      "Text": "……目標、出来た？\r\n走るなら付き合うけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……ありがと。\r\nじゃあ後でさ、お願いしてい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "――これから最強、目指すんで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

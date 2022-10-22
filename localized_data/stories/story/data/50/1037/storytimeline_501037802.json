@@ -1,0 +1,242 @@
+{
+  "Title": "笑顔のクッキー",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "休日。ボランティア活動の一環で、\r\n子どもたちにお菓子作りを教えることに\nなったのだが、1人隅に立つ子どもがいた――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "どうしました？\r\nまだ手をつけていないようですが。\nなにか問題でも？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "物静かな子ども",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "すでに開始から12分31秒が経過しています。\r\n難しいと思うことがあれば手伝いますから、\n気負わずに挑戦してみませんか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "物静かな子ども",
+      "Text": "…………。\r\nいっぱい……いるから、いい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "興味はあるが、輪に入るのが苦手なようだ。\r\n恐らくは、緊張もあるのだろう。\nならば無理に誘うよりも――",
+      "ChoiceDataList": [
+        "いつでも参加していいから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "物静かな子ども",
+      "Text": "…………。ん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "安心したような顔を見せ、子どもは頷いた。\r\n問題はなさそうだが、気にはかけておきたい。",
+      "ChoiceDataList": [
+        "完成したら分けてあげよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "……ええ、そうですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "さあ、完成です。皆さん、頑張りましたね。\r\nTeezeit.お茶を淹れて\n早速、出来立てをいただきましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもたち",
+      "Text": "いただきまーす！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "元気な子ども",
+      "Text": "おいしい！！\r\nおれがつくったのが1番！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハキハキとした子ども",
+      "Text": "わたしのがおいしいよ！\r\nきれいにできてるし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "ふふ。いい笑顔ですね。\r\n……と、そうです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "クッキーが出来ましたよ。\r\n私が作ったものですが……\n一緒に食べませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "物静かな子ども",
+      "Text": "……いいの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "ええ、もちろ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "元気な子ども",
+      "Text": "ダメだよ！！\r\nその子はつくってないじゃん、ずるい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その声に、物静かな子どもは\r\nクッキーに伸ばしていた手を\n引っ込めてしまった。すると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "皆さん。\r\nお菓子を作るのは、楽しかったですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参加した子どもたち",
+      "Text": "楽しかったー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "元気な子ども",
+      "Text": "うん！\u3000いっぱいコネコネしてね、\r\nくるまとかネコとかつくったんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "よかったです。ですが、それと同じくらい\r\n作ったものを食べてもらうのは\n嬉しいものですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "どうでしょう。私のクッキーを貴方に\r\nあげますから、貴方のクッキーを1つ、\nこの子にあげてはくれませんか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "元気な子ども",
+      "Text": "おねえちゃんのクッキーくれるの！？\r\nうー……じゃあ、いいよ。\nはい、これあげる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "物静かな子ども",
+      "Text": "あ……ありがとう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "意外だった。エイシンフラッシュは、\r\nもっと厳しく諭すのかと思っていた……と、\nそう口にすると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "……新しいことに挑戦する戸惑い、緊張。\r\n努力したものへの執着、自尊心。\nこれらは、私の中にも存在しています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "ですが、悪いこととは言い切れません。\r\n迷いは心の準備期間。執着は努力のきっかけ。\nマイナスに見えても、成長の糧となるもの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "……と、私は母から教わりました。",
+      "ChoiceDataList": [
+        "勉強になる"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "ふふっ、そうですか。\r\nそれはなによりです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "物静かな子ども",
+      "Text": "おいしい……！\r\nすごい、じょうずだね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "元気な子ども",
+      "Text": "……！\u3000だろ！？\u3000おれがつくったんだ！\r\nあっちにもっとあるよ！\u3000行こ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "物静かな子ども",
+      "Text": "うんっ！",
+      "ChoiceDataList": [
+        "2人とも笑顔になったな",
+        "2人とも笑顔になったね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "ええ。お菓子には、\r\n笑顔を引き出せる力がありますから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "分け隔てなく、笑い合うことができる。\r\n……だから、私はお菓子作りが好きなんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "クッキーを頬張る子どもたちを見つめ、\r\n柔らかな微笑みを浮かべる\nエイシンフラッシュだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

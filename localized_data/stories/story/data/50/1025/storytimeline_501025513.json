@@ -1,0 +1,300 @@
+{
+  "Title": "ズット、ズット、待ッテイタ……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ガタン……ゴトン……）",
+      "ChoiceDataList": [
+        "（ここは……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "確か、さっきまでマンハッタンカフェと\r\nトレーニングをしていたはず――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それが、どうしてこんな場所に……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "ここは――\r\nおぼろの夢、時のゆらぎ……\n思念がねじれ、交差する場所……。",
+      "ChoiceDataList": [
+        "……え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "そして今、『何か』が悲しみに泣いている……\r\nこの電車を走らせるほどに強く、切なく……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "驚いて窓の外を見ると、\r\nどこまでも夜空が広がっている。\n確かに、現実世界ではなさそうだ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "気づけば、電車の速さが増している……。\r\nどこへ向かっているのだろう……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンス？",
+      "Text": "『次は、気羅堕橋【けらだばし】――\r\n気羅堕橋【けらだばし】――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "馴染みのない地名は、きっと願いの表れ……\r\n『何か』が想い焦がれて、やまないもの……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "よくよく、地名に思いを馳せ……\r\n降りるべきか否か、決めるべきかと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "そうすれば『何か』も、きっと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（――ブツッ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "マンハッタンカフェの言葉が真剣みを\r\n帯びた瞬間、声は途絶え、電車が急停車した。\n窓の外に見えるのは坂路、ダート、そして――",
+      "ChoiceDataList": [
+        "（芝……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『よくよく、地名に思いを馳せ……\r\n降りるべきか否か、決めるべき』と\nマンハッタンカフェは言っていた。ならば――",
+      "ChoiceDataList": [
+        "降りる",
+        "乗っている"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "気羅堕橋【けらだばし】という地名は、\r\nもしかしたら……。ある推測をもって、\n降りることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "すると――\r\nさっきまでと違い、地面がしっかりしている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "トレーナーさん……\r\nここにいらしたんですか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……？\r\nその、白いものは一体……。",
+      "ChoiceDataList": [
+        "……白いもの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "慌てて振り返ると、彼女の言う通り\r\n白いもやのようなものが立ちのぼっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "なるほど、気羅堕橋【けらだばし】――\r\n逆から読んで『しばだらけ』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "夢の中の『何か』は、誰かと一緒に\r\nもう1度、ここへ来たかったようです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "そして今、その願いが叶えられました……\r\nさようなら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "白いもやが、きらきらと空に消えていく。\r\n『何か』は想いを遂げ、姿を消したようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "今日は……改めて、トレーナーさんの\r\n優しさに触れたような気がします……。",
+      "ChoiceDataList": [
+        "そうか？",
+        "そう？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "ええ……アナタは、目に見えないものの\r\n存在を受け入れてくれる……。\nその声に、耳を傾けてくれる……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "救われているのは、私だけじゃない……。\r\nそれが、はっきりとわかりました……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "不思議なものに寄り添い、\r\n代弁する彼女の行動にこそ、\n優しさを感じた気がした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "まだ降りるべきではない……そう思い、\r\n乗っていることにした。\n再び、電車が動き出す――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ガタン……ゴトン……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（――ガタンゴトン、ガタンゴトン）\r\n（――ガタンゴトン、ガタンゴトン）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "気のせいだろうか……\r\n電車がさらに加速している気がする。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（――ガタンゴトン、ガタンゴトン！！）\r\n（――ガタンゴトン、ガタンゴトン！！）\n（――ガタンゴトン、ガタンゴトン！！）",
+      "ChoiceDataList": [
+        "（気のせいじゃない……！！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "まずい、と思った瞬間、\r\nつき飛ばされるような感覚があった。\nそして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（タッタッタッタッ――！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "気づけば中央広場に転がっていて、\r\n偶然、生徒がこちらに走ってきていた……！\nこのままでは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "トレーナーさん――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――間一髪。\r\nマンハッタンカフェが駆け寄り、\n助けてくれた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "なるほど、夢の中でそんなことが……\r\n気羅堕橋【けらだばし】――\n逆から読んで『しばだらけ』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "夢の中の『何か』は、誰かと一緒に\r\nもう1度、あの場所へ行きたいようです。\n……行ってみましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……うん、やっぱり、\r\nここへ来たかったんだね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "刹那の間でも、アナタに安らぎが\r\nありますように……\nさようなら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "白いもやのようなものがたちのぼり、\r\nきらきらと空に消えていく……。\n『何か』は想いを遂げ、姿を消したようだ。",
+      "ChoiceDataList": [
+        "よく願いがわかったな",
+        "よく願いがわかったね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "彼らは弱いし、すぐに消えてしまうから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "儚く散ってしまうその前に――できる限り、\r\n寄り添いたいと思っています……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その言葉からは、不思議なものに\r\n寄り添おうとする彼女の優しさが\n伝わってくるようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "Title": "お肌の調子が……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "廊下を移動中、悲嘆にくれる\r\nカワカミプリンセスを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ああ！\u3000姫たる私の顔が！\u3000こんなっ！\r\nありえませんわ～～！",
+      "ChoiceDataList": [
+        "どうかしたのか？",
+        "どうかしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "トレーナーさん、聞いてくださいませ！\r\n昨日、美容のためにきゅうりパックと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "泥パックとお茶パックと蜂蜜パックを\r\nまとめて試したら……お肌が！\u3000荒れ荒れに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "姫たるもの、顔面だって強くあるべき\r\nですのに……情けないですわっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "肌荒れに落ち込む\r\nカワカミプリンセスなのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

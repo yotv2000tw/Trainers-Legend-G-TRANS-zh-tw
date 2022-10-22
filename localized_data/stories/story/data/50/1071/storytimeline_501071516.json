@@ -1,0 +1,90 @@
+{
+  "Title": "良薬は口に苦し",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "食事時にカフェテリアに行くと、見慣れない\r\n料理を並べたメジロアルダンを見つけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "トレーナーさん、こんにちは。\r\n見てください、珍しいお料理ですよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "こちらは薬膳といって、\r\n内臓の働きを助けてくれるお食事なんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "なんでも、こちらで試験的に導入したものの\r\n味が独特なのもあって、注文されないらしく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "食材を無駄にするのは心苦しいですし、\r\n私はこうしたお料理を食べ慣れていますので、\n多めに注文させていただいたのです。",
+      "ChoiceDataList": [
+        "ちょっと多すぎない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "少々頼みすぎてしまったきらいはありますが、\r\nたくさん栄養を摂取しようと思います。",
+      "ChoiceDataList": [
+        "過剰摂取になっちゃうよ",
+        "どんどん食べて体を強くしよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……やはり、この量は多すぎるでしょうか。\r\nですが、残すわけには……。",
+      "ChoiceDataList": [
+        "食べるのを手伝うよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……ありがとうございます。\r\nお言葉に甘えさせていただきますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "それでは、どのくらいが適量なのか栄養を\r\n計算してみますので、少々お待ちください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、メジロアルダンが注文しすぎたと\r\n判断した分を代わりに食べてあげたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "はい。レースで勝てる体を作りますので、\r\n期待していてください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、メジロアルダンは薬膳を完食し、\r\nたっぷりと栄養を取ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

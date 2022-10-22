@@ -1,0 +1,59 @@
+{
+  "Title": "不在の理由は……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "イナリワンが来ない……\nと思っていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "すまねえダンナ！\u3000遅れちまった！\n面目次第もねえ！",
+      "ChoiceDataList": [
+        "どうして遅れたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "すまねえアネゴ！\u3000遅れちまった！\n面目次第もねえ！",
+      "ChoiceDataList": [
+        "どうして遅れたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "そいつは言いっこなしだ！\n言い訳しないのが江戸っ子ってもんよ！",
+      "ChoiceDataList": [
+        "……今後は気をつけてね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "くうっ……！\u3000人間ができてやがる！\nそれに比べてあたしは……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "本当にすまねえ！\n味噌汁で顔洗って出直してくらあ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "結局遅刻の理由はわからなかったが、\n深く反省しているようなので、\n許してあげることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

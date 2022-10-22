@@ -1,0 +1,250 @@
+{
+  "Title": "シンボリの名を持つ者",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "休日、レース場の見学をすることにした。\r\n多くのウマ娘がコースで待機する中――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ひと際、眼光の鋭いウマ娘がいた。\r\nあれは……シリウスシンボリだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "誰より勝利に飢えた顔をしていた彼女は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "レース中盤から一気に勢いをつけ、\r\n全員を抜き去って見事に勝利した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスの取り巻き",
+      "Text": "シリウス様～～！\r\n今日もとっても素敵な走りでした～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "ハッ、そんなに騒ぐなよ。\r\n大したレースじゃねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "シリウスシンボリの周りには多くの記者や\r\n取り巻きがおり、祝福の言葉であふれていた。\nが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "おめでとうございます！\r\n余裕のある勝ちっぷりでした！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "やはり『シンボリ』の名は伊達では\r\nありませんね！\u3000この喜ばしい結果について、\n幼馴染のシンボリルドルフさんにもご報告を？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "…………。\r\n…………へぇ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "……なるほど。\r\nアンタは“皇帝”サマに興味津々ってワケだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "ならここで時間を潰すより、\r\nアンタが直々に伝えてきたらどうだ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "えっ？\r\nいえ……そういうことでは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "記者は取り繕うとしたが、\r\nシリウスシンボリの威圧感に耐えられず、\nその場を後にした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "“皇帝”シンボリルドルフ。\r\nその名を聞いたことで彼女の\n様子が変わったように見えたが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "オイお前ら、何しけたツラしてんだ。\r\n祝勝会の準備はできてんだろ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスの取り巻き",
+      "Text": "……っ、はい、もちろんですっ！\r\n盛大にお祝いしましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "ああ、それと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "アンタは何の用だ。ジロジロ見てたからには、\r\n言いたいことがあるんだろ？",
+      "ChoiceDataList": [
+        "（……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "この状況と、\r\n突然声をかけられたことには戸惑ったが、\n告げるべき言葉なら決まっている。",
+      "ChoiceDataList": [
+        "1着おめでとう！",
+        "噂通りの実力だった"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "ハッ、当然の結果だ。\r\nで――アンタは何をしてくれるんだ？",
+      "ChoiceDataList": [
+        "え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "祝ってくれるんだろ。\r\n具体的には何をしてくれるんだよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "祝いの言葉ならもう告げた。\r\n他に一体何をすればいいというのだろう……？",
+      "ChoiceDataList": [
+        "（……プレゼントを渡すとか？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "（……花束を渡すとか？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "（――正解がわからない！！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "ククッ、ハハハッ！\r\nこのくらいでそんなに戸惑うなよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "だが、今日はその顔でよしとしよう。\r\n……次に会った時も、期待してるぜ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "弄ばれた……のだろうか。とにかく\r\nシリウスシンボリは愉快そうに去っていった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "ほう、『噂通り』か。悪くねぇ。が……\r\nまだ足りねえな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "『噂通り』じゃなく『噂以上』。\r\nそうだろ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "アンタにはきちんと礼儀を教えてやる必要が\r\nありそうだ。例えば、そうだな――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "……耳をこっちに向けてみろ。",
+      "ChoiceDataList": [
+        "？？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "訳がわからないまま、とりあえず耳を\r\n彼女のほうに向けた。すると――",
+      "ChoiceDataList": [
+        "……！？！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "い、いきなり耳を触られた……！！\r\nそして、軽く折り曲げられた……！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "ハハハッ！\r\nウマ娘流の『こんにちは』だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "挨拶は大事だ。……次は自分でできるように、\r\nちゃんと練習しとけよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "なんだろう……初めての体験に、\r\nしばらく動悸が収まらなかった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

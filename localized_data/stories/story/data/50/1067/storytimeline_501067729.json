@@ -1,0 +1,39 @@
+{
+  "Title": "クレーンゲーム失敗……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "――終わって、しまいましたね。",
+      "ChoiceDataList": [
+        "面目ない……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "だ、大丈夫ですよ！\r\nこのタイプは、アームの操作が\n難しいですから……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "難度が高すぎるようでしたら、\r\n今度よい機会を見つけて、\n会社の人に伝えておきますので。",
+      "ChoiceDataList": [
+        "い、いや大丈夫！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "残念な結果に終わった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

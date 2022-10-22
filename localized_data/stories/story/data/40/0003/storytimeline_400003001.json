@@ -1,0 +1,418 @@
+{
+  "Title": "グランドライブ再建計画、始動！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "この日は、謎のプロデューサー\nライトハローの懸命な誘いを受け、\n彼女の事務所へと訪れていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "えーっと。\n『グランドライブ』ですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "ええ。1年に1回行われていたそのライブ\nでは、トレセン学園に所属するウマ娘全員が\nステージに参加していたそうです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トレセン学園"
+      ]
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "そして、1人1人が自分のファンに\n向けて感謝の想いを歌っていたと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "ウマ娘全員が！？\nそ、そんなの夢のライブじゃない！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "ファル子やりたいっ！\nはいっ、やってみたいです！！",
+      "ChoiceDataList": [
+        "でもなぜ、今はやっていないんですか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "恐らくトゥインクル・シリーズが\n以前よりも大きく成長したからかと思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トゥインクル・シリーズ"
+      ]
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "……レースが増え、登録ウマ娘が増え。\nグランドライブの形態では\nカバーできなくなったそうです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "元々、グランドライブはウマ娘たちが\n独自で行っていたイベント。片手間に\n準備するには負担が大きくなりすぎた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "そしてある日URAから『ウイニングライブ』\n形式はどうか、と提案されたそうです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "そもそもが応援への感謝であるなら、\n各レース後に行った方が効率がいい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "レースに紐づければURA側で管理できる。\nそうすればウマ娘の負担も減るはずだろうと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "ウイニングライブは、\nグランドライブ以上の人気を博しました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "勝利したウマ娘も敗北したウマ娘も、\nなにより彼女たちのファンも。\n心からセンターを望むようになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "本当にみんなを魅了したんです。\nグランドライブを忘れさせるくらい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "ウイニングライブはあらゆるウマ娘にとって\n夢となり、トゥインクル・シリーズの地位を\n更なる高みに押し上げる一助となりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "でも少しだけ思うんです。\n……前提と目的が入れ替わっている子が\n生まれているんじゃないかって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "ウイニングライブは勝者の舞台という\n意識が先行するようになったあまりに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "勝利しなければ、センターにならなければ、\nファンへの感謝は伝えられないって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "私さ。このダンスに慣れたくないんだ。\n笑顔で普通に踊れちゃったら、\n一生センターに届かなくなる気がするから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "…………っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "だから私は彼女たちに今一度、\nグランドライブという場を提供したいんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "ウマ娘たちが素直に純粋に、\nファンへの感謝を伝えられる場所を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ウマ娘たちが素直に純粋に、",
+        "ファンへの感謝を伝えられる場所"
+      ]
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "よろしくお願いいたします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "URA理事",
+      "Text": "うーん……ですが、時代が変わり、\nウイニングライブが主流となった今、\n復活させるのはいかがなものかと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "URA理事",
+      "Text": "それにこれ以上、ウマ娘たちにとって\n負担になるイベントが必要とも思えない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "URA理事",
+      "Text": "特に誰からも要望は届いていないですし……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "では、復活に対する賛同者が\n集まったならばいかがでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "もしもその声が学園にあふれたなら、\n理事会の考えは変わりますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "URA理事",
+      "Text": "…………少なくとも考慮する\n可能性は出てくるかもしれませんね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "以上が現状の説明です。\nこれを踏まえてあなた方には\nぜひ協力をお願いしたく――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "……ファル子も協力する。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ファル子"
+      ]
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "協力したい！\u3000だって本当はみんな、\nファンの応援に応えたいはずなんだもん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "トレーナーさんもお願い！\u3000このライブは\n絶対に必要なライブだと思うの！",
+      "ChoiceDataList": [
+        "……そうですね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "……！\u3000ありがとうございます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "ねえっ、みんなの協力が必要なら、\n署名活動とか告知ライブとかやってみない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "告知ライブ"
+      ]
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "告知ライブ、ですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "うん。だってまずグランドライブの存在自体\nファル子だって知らなかったもん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "だからまずは教えてあげようよ！\nこれはみんなが感謝を歌えるライブだよって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "それにライブって全然知らない人の歌でも、\n最初は聞く気がなくても、\nつい聞いちゃうことってあるでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "それって歌には力があるからだと思うの。\nだから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "みんなに『協力してー！』って全力で\n歌えば、参加者も増えるんじゃないかな！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "……なるほど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "ということで告知ライブ用の\nステージを押さえました！",
+      "ChoiceDataList": [
+        "早いっ！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "さすがに学内行事ではないので、と\n学内ステージの使用は不可でしたが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "その分、1番学園に近くて人通りもある\nステージをレンタルして参りました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "おぉ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "知り合いの音響さんと照明さんにも\n声をかけています。準備が整い次第、\nいつでもスタートできますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "わわっ、すごーいっ！\n今すぐにレッスン始めなきゃ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "えっと、一緒に踊る子のスケジュール管理と、\nダンスの先生にも声をかけて、\nああっ、セットリストも考えなきゃ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "スマートファルコンが目を回しながら、\n頭を抱えている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……さすがにそれらの仕事を彼女が回すには、\n負担が大きすぎるだろう。",
+      "ChoiceDataList": [
+        "スケジュールとかの調整は俺がやるよ",
+        "スケジュールとかの調整は私がやるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "えっ、本当？\n任せちゃってもいいの？",
+      "ChoiceDataList": [
+        "ああ！",
+        "うん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "わあっ……！\u3000ありがとう！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "私にもお手伝いできることがあれば\nお声がけください！\u3000尽力いたします！",
+      "ChoiceDataList": [
+        "みんなで頑張りましょう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "はいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ということで今後は<chrname>の\nトレーニングをしつつ、\nライブ活動に向けて準備をする必要がある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "聞けばダンスやボーカルレッスンは\n体幹トレーニングなど通常のトレーニング\nにも通じる部分があるという。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "トレーニングの傍ら、“レッスン”も行えば\n<chrname>の能力を向上させ、\nライブの成功も近づくかもしれない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "レッスン"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "……それにライブ経験自体も、\n<chrname>の\n成長にもつながるかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女に軽く打診をしつつ、\n最初の『1stライブ』は\n12月後半に開催することを説明する。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "12月後半に開催"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "グランドライブの実現に向け、\nまずは『1stライブ』を成功させよう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

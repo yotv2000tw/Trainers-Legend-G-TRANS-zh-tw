@@ -1,0 +1,220 @@
+{
+  "Title": "ミイラハント～目覚めよ狩人！～",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "廊下を歩いていたら、すれ違いざまに\r\nタマモクロスに声をかけられた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ああ、アンタ。もし困ってるオグリを\r\n見かけたら、手ぇ貸したってくれへんか？",
+      "ChoiceDataList": [
+        "構わないけど……どういうこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "私たち、この前お話ししたお化け屋敷\r\n『ミイラハント』の練習中なんです～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "で、ウチらはミイラ、オグリはハンターやろ。\r\n敵のウチらが助けるわけにはいかへんねん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "どうにも敵同士でなれ合っちまって\r\n緊迫感が出ねぇんで、その対策さ。\nんじゃ、いっちょ頼まぁ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "む……小学校は、この場所に階段がないのか。\r\n外へ行くにはどうしたら……。",
+      "ChoiceDataList": [
+        "もしかして、道に迷ったのか？",
+        "もしかして、道に迷ったの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "ああ。お化け屋敷の練習で、学園内を\r\n本番の小学校校舎に見立てているんだ。\nそれで迷ってしまって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ヴガァアアアア！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "ああ、イナリ。道がわからなくて……\r\nゴールまではどの道を通ればいいんだ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "って、なんであたしに聞くんでぇ！\r\nあたしは敵だろぃ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せめてそこのトレーナーに聞けや。\r\nウチらとはバチバチやらなあかんねんで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "タマたちは頼りになるから……。\r\nそれに、3対1はずるい。2対2にしよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ったく……無茶言いよるで。\r\n――ならこうしよか。ハンターが\nミイラに勝ったら、2対2にしちゃる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ハンターの武器……おもちゃの鉄砲で\r\nウチらを倒してミイラを全滅させるか、\nゴールの三女神像まで逃げ切るか。どや？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……勝てばいいんだな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おーおー、ずいぶん簡単にゆうてくれるやん？\r\nウチはゴールでアンタを待ち伏せて襲うで。\nってことは、三女神像まではレースになるな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "アンタがレースでウチに勝てるわけないやろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "…………レースなら…………勝つのは私だ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "オグリちゃーん！\r\nそっちじゃなくて、こっちですよー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "バン！！\r\n……弾が当たった。クリーク、撃破だ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "っとォ、オグリのヤツ、やるじゃねぇか！\r\nようやくマジになったみてぇだな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "やっぱアイツを焚きつけるには\r\nレースが1番ってことや…………なッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "はぁ……っ、待て！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "感じるでぇ……！\r\nこの圧、オグリが迫ってきとる！！\nけど、1着は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "はあああああああっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチのモンや！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチらの勝ちや、オグリ！\u3000完全勝利や！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "はぁ、はぁ…………くっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "タマにばかり気ィ取られてたみてぇだが、\r\nあたしもお前さんの背中に触れたからなぁ！\nお前さんのゴールより早かったろぃ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "走りで負けて、ゲームでも負けて……\r\n弱すぎやんなあ、オグリ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……もう、負けない！！\r\nタマたちに勝つ方法を考える！\u3000絶対に勝つ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "それでええ。ハンターはお客さんを導き、\r\nお客さんと協力するんや。ウチらやない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "うふふ、オグリちゃん、よくできましたね～。\r\nいいこ、いいこ～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "～～～～ッ、クリーク！！\r\nアンタは特訓続行、練習中の甘やかし厳禁や！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

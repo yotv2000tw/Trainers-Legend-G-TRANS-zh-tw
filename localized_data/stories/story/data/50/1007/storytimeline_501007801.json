@@ -1,0 +1,773 @@
+{
+  "Title": "海の家（族）",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "合宿中、ちょっとした買い物で\n海の家に寄ると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "ヘーイ、ラッシャーイ！\nお客さん、お1人？\u3000お2人？\u30003ダース？",
+      "ChoiceDataList": [
+        "……何してるんだ？",
+        "……何してるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "商売に決まってんだろ！\nこの海の家はゴルシ様たちの\n手に落ちたんだからなあ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "このまま海の大宮殿にランクアップさせて、\n564年後に海底遺跡として発掘される\nくれー稼いでやるぜ！\u3000なあ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ふ、テメーとならあながち絵空事じゃねえな。\n塗り替えてやるか……この世界の商売の形を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "店内を見回すが、店員の姿はない。\nまさか、本当に乗っ取ったのだろうか……？",
+      "ChoiceDataList": [
+        "（だ、大丈夫なんだろうか……！？）",
+        "（だ、大丈夫なのかな……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "しっかし、いいとこに駆けつけてくれたぜ！\nオメーがいればアタシら海の家族に敵はねえ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "深海の水圧だろーと潰れねえ絆がここには\nある……！！\u3000アタシらは最強の家族だ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "ナカヤマがおやっさん！\u3000アタシ苦学生！\nそこのカモメが陰で見守るヒロインで、\nトレーナーは愛用の紙コップだっ！！",
+      "ChoiceDataList": [
+        "えっ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "うっし、まずはメニュー開発行くか！\nとりあえずガラムマサラ1000倍焼きそばは\n外せねーよな、おやっさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "永久凍土かき氷とか、アンチョビ満開\nアゲアゲ団子とか……！\u3000ウオオ、\nインスピレーションが湧いてたまらねーぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……ふ、いいんじゃねえか？\nテメーの好きにやってみな。",
+      "ChoiceDataList": [
+        "えっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あらゆる意味で不安しかない……が、\n今は昼時。悩む間もなく、多くの生徒たちが\n群れをなして海の家へ殺到してきた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客の生徒たち",
+      "Text": "『ナイアガラ花火じゅうたん揚げ』、\n『海洋深層水古代スープ』……？\n何これ、どんな料理！？\u3000頼んでみようかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……お邪魔する。ゴルシの焼きそばは\n美味しいからな……また食べたくなった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "おう、出やがったなストマックモンスター！\nオメーはゴルシちゃん特製、ガラムマサラ\n1000倍焼きそばで迎え撃ってやらあ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "む……！？\u3000こ、これは……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……美味しい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客の生徒たち",
+      "Text": "おおっ、オグリ先輩も認めた……！\n本当に美味しいんだ！\u3000すみません、\nこっちもくださーい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "サンキュー！\u3000そんじゃ盛況に\nお応えして564秒サービスタイムだ！\nヒマラヤ盛りでご提供だぜええええ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客の生徒たち",
+      "Text": "やったー！\u3000じゃあ私も私もー！",
+      "ChoiceDataList": [
+        "爆売れしてる……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……やはりヤツは、\n自由にやらせてみた方が面白い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "それに、あの天性の人懐っこさ。\n……私にゃ縁のない持ち物だな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "おうおう、おやっさん！\u3000紙コップ！\nぼーっとしてねえで手伝ってくれ！\nファミリーの力を合わせんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ふ――ああ、待ってな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "無事、盛況のまま終わることができた！\nそして、店じまいの準備をしていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "あ、あの……！\u3000お姉ちゃんたち……\nありがとうございました！",
+      "ChoiceDataList": [
+        "えっと……君は？",
+        "えっと……貴方は？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "……ここ、わたしのおじいちゃんのお店なの。\nでも、おじいちゃん、\nあつさでたおれちゃって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "……おじいちゃん、トレセン学園の人たちが\n楽しみにしてるから、しめるのはダメだって。\nムリして、お店あけようとしてたの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "そうしたら、お姉ちゃんたちが、\nまかせておけ、って――",
+      "ChoiceDataList": [
+        "そういうことだったのか……",
+        "そういうことだったの……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……へっ、よしなよ。少なくとも私は、\n同情で引き受けたわけじゃねえ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ただ……奇想天外、何をしでかすか\nわからねえヤツと何かをやってみる……\nそいつに興味が湧いただけさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "定石に頼り、そつなくこなすだけ……\nそんなのよりは、よほど心が躍るからな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "へっへっへ、楽しみにしときな！\n明日からは呼び込みにイルミネーション\nつけたゴルシ神輿が出動するからよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "すごい！\u3000なにそれなにそれ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ふ……全く、定石からは程遠いヤツだぜ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "――おい。それならよ、\nその神輿に屋台も合体させちまって、\n移動式海の家にしちまったらどうだ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "おう、いいじゃねーか！\n余ってるジェットエンジンあっからよ、\nそいつもくっつけちまおうぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "ほ……ホント！？\nそれでそれで！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "奇想天外が奇想天外を呼び……\n2人は協力して、合宿の合間に\n海の家を盛り上げていくことになるのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "ヘーイ、ラッシャーイ！\nお客さん、お1人？\u3000お2人？\u30003ダース？",
+      "ChoiceDataList": [
+        "……何してるんだ？",
+        "……何してるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "商売に決まってんだろ！\nこの海の家はゴルシ様たちの\n手に落ちたんだからなあ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "このまま海の大宮殿にランクアップさせて、\n564年後に海底遺跡として発掘される\nくれー稼いでやるぜ！\u3000なあ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ふ、テメーとならあながち絵空事じゃねえな。\n塗り替えてやるか……この世界の商売の形を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "店内を見回すが、店員の姿はない。\nまさか、本当に乗っ取ったのだろうか……？",
+      "ChoiceDataList": [
+        "（だ、大丈夫なんだろうか……！？）",
+        "（だ、大丈夫なのかな……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "しっかし、いいとこに駆けつけてくれたぜ！\nオメーがいればアタシら海の家族に敵はねえ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "深海の水圧だろーと潰れねえ絆がここには\nある……！！\u3000アタシらは最強の家族だ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "ナカヤマがおやっさん！\u3000アタシ苦学生！\nそこのカモメが陰で見守るヒロインで、\nトレーナーは愛用の紙コップだっ！！",
+      "ChoiceDataList": [
+        "えっ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "うっし、まずはメニュー開発行くか！\nとりあえずガラムマサラ1000倍焼きそばは\n外せねーよな、おやっさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "永久凍土かき氷とか、アンチョビ満開\nアゲアゲ団子とか……！\u3000ウオオ、\nインスピレーションが湧いてたまらねーぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……ふ、いいんじゃねえか？\nテメーの好きにやってみな。",
+      "ChoiceDataList": [
+        "えっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あらゆる意味で不安しかない……が、\n今は昼時。悩む間もなく、多くの生徒たちが\n群れをなして海の家へ殺到してきた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客の生徒たち",
+      "Text": "『ナイアガラ花火じゅうたん揚げ』、\n『海洋深層水古代スープ』……？\n何これ、どんな料理！？\u3000頼んでみようかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……お邪魔する。ゴルシの焼きそばは\n美味しいからな……また食べたくなった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "おう、出やがったなストマックモンスター！\nオメーはゴルシちゃん特製、ガラムマサラ\n1000倍焼きそばで迎え撃ってやらあ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "む……！？\u3000こ、これは……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……美味しい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客の生徒たち",
+      "Text": "おおっ、オグリ先輩も認めた……！\n本当に美味しいんだ！\u3000すみません、\nこっちもくださーい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "サンキュー！\u3000そんじゃ盛況に\nお応えして564秒サービスタイムだ！\nヒマラヤ盛りでご提供だぜええええ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客の生徒たち",
+      "Text": "やったー！\u3000じゃあ私も私もー！",
+      "ChoiceDataList": [
+        "爆売れしてる……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……やはりヤツは、\n自由にやらせてみた方が面白い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "それに、あの天性の人懐っこさ。\n……私にゃ縁のない持ち物だな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "おうおう、おやっさん！\u3000紙コップ！\nぼーっとしてねえで手伝ってくれ！\nファミリーの力を合わせんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ふ――ああ、待ってな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "無事、盛況のまま終わることができた！\nそして、店じまいの準備をしていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "あ、あの……！\u3000お姉ちゃんたち……\nありがとうございました！",
+      "ChoiceDataList": [
+        "えっと……君は？",
+        "えっと……貴方は？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "……ここ、わたしのおじいちゃんのお店なの。\nでも、おじいちゃん、\nあつさでたおれちゃって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "……おじいちゃん、トレセン学園の人たちが\n楽しみにしてるから、しめるのはダメだって。\nムリして、お店あけようとしてたの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "そうしたら、お姉ちゃんたちが、\nまかせておけ、って――",
+      "ChoiceDataList": [
+        "そういうことだったのか……",
+        "そういうことだったの……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……へっ、よしなよ。少なくとも私は、\n同情で引き受けたわけじゃねえ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ただ……奇想天外、何をしでかすか\nわからねえヤツと何かをやってみる……\nそいつに興味が湧いただけさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "定石に頼り、そつなくこなすだけ……\nそんなのよりは、よほど心が躍るからな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "へっへっへ、楽しみにしときな！\n明日からは呼び込みにイルミネーション\nつけたゴルシ神輿が出動するからよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "すごい！\u3000なにそれなにそれ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ふ……全く、定石からは程遠いヤツだぜ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "――おう、待ちな。せっかくの海だ。\n私の考えじゃ、ここは断然、\nイルミネーション船だね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "ああ？\u3000船じゃあキャタピラが\nつけらんねーじゃねーか！\u3000いただけねーな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ふ……じゃあここは競い合って\n決めてみようか？\u3000キャタピラとスクリュー、\nどっちが上か……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "共鳴しながらも切磋琢磨しあう2人――\nおかげで、海の家は翌日からも\nなんだかんだ盛況を極めたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "ヘーイ、ラッシャーイ！\nお客さん、お1人？\u3000お2人？\u30003ダース？",
+      "ChoiceDataList": [
+        "……何してるんだ？",
+        "……何してるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "商売に決まってんだろ！\nこの海の家はゴルシ様たちの\n手に落ちたんだからなあ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "このまま海の大宮殿にランクアップさせて、\n564年後に海底遺跡として発掘される\nくれー稼いでやるぜ！\u3000なあ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ふ、テメーとならあながち絵空事じゃねえな。\n塗り替えてやるか……この世界の商売の形を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "店内を見回すが、店員の姿はない。\nまさか、本当に乗っ取ったのだろうか……？",
+      "ChoiceDataList": [
+        "（だ、大丈夫なんだろうか……！？）",
+        "（だ、大丈夫なのかな……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "しっかし、いいとこに駆けつけてくれたぜ！\nオメーがいればアタシら海の家族に敵はねえ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "深海の水圧だろーと潰れねえ絆がここには\nある……！！\u3000アタシらは最強の家族だ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "ナカヤマがおやっさん！\u3000アタシ苦学生！\nそこのカモメが陰で見守るヒロインで、\nトレーナーは愛用の紙コップだっ！！",
+      "ChoiceDataList": [
+        "えっ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "うっし、まずはメニュー開発行くか！\nとりあえずガラムマサラ1000倍焼きそばは\n外せねーよな、おやっさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "永久凍土かき氷とか、アンチョビ満開\nアゲアゲ団子とか……！\u3000ウオオ、\nインスピレーションが湧いてたまらねーぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……ふ、いいんじゃねえか？\nテメーの好きにやってみな。",
+      "ChoiceDataList": [
+        "えっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あらゆる意味で不安しかない……が、\n今は昼時。悩む間もなく、多くの生徒たちが\n群れをなして海の家へ殺到してきた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客の生徒たち",
+      "Text": "『ナイアガラ花火じゅうたん揚げ』、\n『海洋深層水古代スープ』……？\n何これ、どんな料理！？\u3000頼んでみようかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……お邪魔する。ゴルシの焼きそばは\n美味しいからな……また食べたくなった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "おう、出やがったなストマックモンスター！\nオメーはゴルシちゃん特製、ガラムマサラ\n1000倍焼きそばで迎え撃ってやらあ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "む……！？\u3000こ、これは……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……美味しい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客の生徒たち",
+      "Text": "おおっ、オグリ先輩も認めた……！\n本当に美味しいんだ！\u3000すみません、\nこっちもくださーい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "サンキュー！\u3000そんじゃ盛況に\nお応えして564秒サービスタイムだ！\nヒマラヤ盛りでご提供だぜええええ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客の生徒たち",
+      "Text": "やったー！\u3000じゃあ私も私もー！",
+      "ChoiceDataList": [
+        "爆売れしてる……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……やはりヤツは、\n自由にやらせてみた方が面白い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "それに、あの天性の人懐っこさ。\n……私にゃ縁のない持ち物だな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "おうおう、おやっさん！\u3000紙コップ！\nぼーっとしてねえで手伝ってくれ！\nファミリーの力を合わせんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ふ――ああ、待ってな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "無事、盛況のまま終わることができた！\nそして、店じまいの準備をしていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "あ、あの……！\u3000お姉ちゃんたち……\nありがとうございました！",
+      "ChoiceDataList": [
+        "えっと……君は？",
+        "えっと……貴方は？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "……ここ、わたしのおじいちゃんのお店なの。\nでも、おじいちゃん、\nあつさでたおれちゃって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "……おじいちゃん、トレセン学園の人たちが\n楽しみにしてるから、しめるのはダメだって。\nムリして、お店あけようとしてたの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "そうしたら、お姉ちゃんたちが、\nまかせておけ、って――",
+      "ChoiceDataList": [
+        "そういうことだったのか……",
+        "そういうことだったの……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……へっ、よしなよ。少なくとも私は、\n同情で引き受けたわけじゃねえ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ただ……奇想天外、何をしでかすか\nわからねえヤツと何かをやってみる……\nそいつに興味が湧いただけさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "定石に頼り、そつなくこなすだけ……\nそんなのよりは、よほど心が躍るからな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "へっへっへ、楽しみにしときな！\n明日からは呼び込みにイルミネーション\nつけたゴルシ神輿が出動するからよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな女の子",
+      "Text": "すごい！\u3000なにそれなにそれ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ふ……全く、定石からは程遠いヤツだぜ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ま、だがほどほどにしときな。\nアンタの考えは面白れえが、あんまりやると\n最終的に海の家じゃなくなっちまいそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "なんだよオイ！\u3000そこは進化していくから\n面白れーんじゃねーかよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "店主のじいさんへの義理もあるだろうが。ま、\n舵取りはこの“おやっさん”に任せときな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ぽんぽんと肩を叩きながらなだめる\nナカヤマフェスタ。2人の協力で、\n海の家は翌日以降も盛況を極めたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

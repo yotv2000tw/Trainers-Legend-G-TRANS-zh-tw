@@ -1,0 +1,407 @@
+{
+  "Title": "あなた“と”輝くステージで",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "あの……ハローさん。あなたにとって\nグランドライブはなんですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "その、ウマ娘としてじゃなくて、\n1人のファンとして答えを聞きたくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "……あなたも誰かのステージを観たい、\nファン、だったんですよね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "……ファンにとっての、\nグランドライブの意味。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ヴー、ヴー）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "はい。お世話になっております、\nライトハローです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "え……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "トレーナーさん！\nこちらですか？",
+      "ChoiceDataList": [
+        "ライトハローさん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーツ姿の女性",
+      "Text": "あ、来た来た！\nねえ、グランドライブっていつやるんですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帽子を被った男性",
+      "Text": "実は毎回ここでやってるライブを楽しみに\nしててさ。何か協力とかできないかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年配の女性",
+      "Text": "もしポスターとかあるのなら、\nうちの店に飾りたいんだけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "この方たちは……。",
+      "ChoiceDataList": [
+        "ファンの方たちみたいです"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "ファンの……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドレスを着たファン",
+      "Text": "みんなが出られるライブなんでしょう？\nもしかして自分の推しも出るのかなって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コック帽のファン",
+      "Text": "力になりたいんだ。いつもは、\n観に行くことしかできないから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "眼鏡をかけたファン",
+      "Text": "協力者を集めてるって聞いたからさ。\nウマ娘のとはわかってるんだけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "眼鏡をかけたファン",
+      "Text": "俺たちも協力者になれたりするかなっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "……こんなに、沢山の方が。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "訪れたファンは次々に声をかけてくる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "最初はウマ娘の協力者を増やすための\nライブだったが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今やその知名度は、人気は、\n学園を越えて広まっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "……あの、トレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "もう1度、ライブを始めてもいいですか。\nこの方たちのためにも。",
+      "ChoiceDataList": [
+        "……やりましょう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "……はい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "――今回のライブから、\nみなさんにお願いがあります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "少し形式を変えさせていただきたくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "どんなふうに変えるの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "……声をたくさん出します。\nファンの方が。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ほぉ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "いつもよりも騒がしくなるかもしれません。\nちょっとだけ音が聞こえづらくなるかもです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "すでにその件についてはファンの方にも、\n音響さんにも、行政さんにもお伝え済みです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "だから……聞いてください。\nファンの方たちの声を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……わかりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "よろしくお願いいたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンA",
+      "Text": "……ぜひグランドライブを実現してください！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンB",
+      "Text": "もちろん自分の応援しているウマ娘が\nウイニングライブのセンターに\n立ってくれるなら、それが1番嬉しいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンC",
+      "Text": "でも私たちが伝えたい気持ちは、\n『おめでとう』だけじゃないんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "……そうですよね。それ以外の気持ちが、\n私たちにはありましたから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうしてライブは始まった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "スマートファルコンたちが\nステージに立つと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンA",
+      "Text": "L・O・V・E・ラブリー！\u3000ファル子ッ！\nファンサも神！\u3000推せるウマドルNO.1！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンA",
+      "Text": "サイッコーに輝く貴方が～～……好きーっ！！\nホントにホントに大好きだよーーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンB",
+      "Text": "ブルボン、私の夢はあなただった！\nどんな時でも強くて美しくて、へこたれない！\n私にとっては……あなたが夢そのものだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンC",
+      "Text": "タキオン……！\u3000タキオン様……っ！\nあなたの見果てぬ場所までお供を。\nいえ、見守らせてください！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンD",
+      "Text": "スズカーっ！\u3000俺たちの前に\nまた姿を見せてくれてありがとう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンD",
+      "Text": "それだけで俺たちは幸せなんだ……ッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンE",
+      "Text": "本当にありがとう……！\nみんなー、ありがとうー……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "……みんな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "ど、どうしたの？\nブルボンちゃん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "わかりません。\nわかりませんが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "私は『嬉しい』……です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "みなさん、ありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "今日はお互いに伝えたいことが、\nきっとたくさんあります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サイレンススズカ",
+      "Text": "……一緒に歌いましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "トレーナーさん。私、やっぱり\nグランドライブを復活させたいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "私たちから……ファンからだって、\nあの子たちに感謝を伝えたいんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "だからもう1度、練り直します。\n『グランドライブ再建計画』を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライトハロー",
+      "Text": "ウマ娘、だけじゃなくて。\nウマ娘とファンのためのライブとして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "学生服のウマ娘C",
+      "Text": "あの人たち……また歌ってる。\nどうしてわかってくれないの……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファン",
+      "Text": "君は……歌わないのかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "学生服のウマ娘C",
+      "Text": "……あなたは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

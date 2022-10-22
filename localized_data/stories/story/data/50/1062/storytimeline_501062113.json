@@ -1,0 +1,575 @@
+{
+  "Title": "あの子と、その子と、隣の子",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "マチカネタンホイザのデビュー戦を終え、\nしばらくたったある日。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "トレーナー！\nてーへんだてーへんだー！",
+      "ChoiceDataList": [
+        "どうした？",
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "えーっと、あのその！\nとりあえず、テレビテレビ、テレビです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "促されるまま慌ててテレビをつけると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『今年デビューの注目株たちにインタビュー！\n本日の注目株は、デビュー戦で素晴らしい\n才能をみせたミホノブルボンです！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "わあ、本当にテレビの中でブルボンさんが\n走ってる走ってる～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ブルボン"
+      ]
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "いやぁ、取材されてたって聞きまして！\nすごいですよね～！\u3000同時期に\nデビューしたものとして誇らしいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "デビュー戦の舞台となった中京レース場は\nミホノブルボンの才能に色めき立っていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男性A",
+      "Text": "出遅れスタートからの、直線一気で\n1着ゴールイン！\u3000いやぁ、シビれたねぇ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性A",
+      "Text": "足腰もすごくしっかりした子だし、\nきっとどんどん伸びてくんじゃないかなー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "注目の大型新人と言われていますが、\nズバリ、トゥインクル・シリーズにおける\n現時点での目標などは！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ターゲットは\nクラシック三冠達成のみです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "なるほど……！\n失礼ながら少々意外でした、\nてっきり短距離路線かと……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "適性は短距離向きですが、関係ありません。\n三冠達成は変更不可です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（おお……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "カメラの前でそう平然と宣言する姿は\nすっかり堂に入っていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "おーう……！\u3000カッコいいですね！\nさすがブルボンさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ん？\u3000ていうか、三冠路線ってことは\n私、ブルボンさんと戦うことになります？",
+      "ChoiceDataList": [
+        "そうなるな",
+        "そうなるね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "あらー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "一方その頃、\n学生寮のロビーでも同じ番組が流れていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『――続いて、クラシック級とシニア級で\n活躍中のウマ娘特集です！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "シニア級"
+      ]
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "っていうとやっぱ、あの2人？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "今や最強ステイヤーと謳われる、\nメジロマックイーン！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "メジロマックイーン"
+      ]
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "そして、『日本ダービー』『皐月賞』と、\n無敗で二冠をさらった天才トウカイテイオー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トウカイテイオー"
+      ]
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "たはー、さすがっすわ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『主役級ウマ娘がそろい踏みです！\u3000いずれ\nぶつかり合う日が来るかもしれませんね』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "専門家",
+      "Text": "『そうですね。しかし、トウカイテイオーの\nダービー直後のケガの件は残念だなぁ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "専門家",
+      "Text": "『全治半年だっけ？\u3000菊花賞は出走しない\nって聞いて。三冠確実だと思っていたので』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『そうですねー。三冠ウマ娘誕生の瞬間を\n待ち望んでいた声は多くありました。私\n個人としても、彼女の出走見送りは残念です』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "……出られてたら、三冠確実……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "……\n……そう、だよね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "数日後。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "むーん、今日も走った走った！\nお疲れ様でした、トレーナー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ん？\u3000あれって……ネイチャ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "マチカネタンホイザの視線の先を追うと、\nどこか暗い表情でグラウンドを眺める\nナイスネイチャがいた。",
+      "ChoiceDataList": [
+        "どうしたんだろう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "うーん……。実はですねトレーナー。\nそのぅ、数日前からあんな感じでして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "さすがにちょびっと心配だなぁ。\n……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ちょっと、お話ししてきます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ナイスネイチャの今日の運勢は、\n小吉！\u3000ちょっとブルーな1日かも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "でも大丈夫！\u3000ラッキーウマ娘は\nマがついてザで終わる彼女！\nおしゃべりすれば、気分はハッピーに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "え、どしたの、急に？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "え？\u3000ええっと……\nフクちゃん先輩ごっこ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "フク"
+      ]
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "今ならラッキーウマ娘が、\nなんでもお話聞いちゃうぞ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……なんちて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "――っふ、ふふ……！\nなにしてんのよ、ホント……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "……はぁ、ありがと。\n心配かけちゃってたね。ごめん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "じゃ、ちょっとだけ聞いてくれる？\nマがついてザで終わるウマ娘さん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "……アタシさ、\n『菊花賞』出たいって思ってんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "もともとは、テイオーに触発されてさ、\nいっちょやったるか！\u3000って、\nそれなりに走り込んでたんだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "……テイオーが『菊花賞』出られないの、\n惜しまれてる番組見ちゃってさ、思ったの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "出てりゃ三冠確実だったなんて、\n好き勝手言ってくれちゃってるなーって……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "そんなん、テイオーが1番思ってる\nはずじゃん！\u3000でも、出られないんだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "小さい頃からの夢、無敗の三冠ウマ娘\nになるってずっと努力してたのに、\n無理になっちゃって……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "すっごい悔しい気持ちを我慢してんのに、\n周りからは『出てれば確実だった』って\n言われるなんてさ……キツイっしょ。かなり。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……うん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "……それに、『菊花賞』を勝った誰かも\nきっとこう言われるわけよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "テイオーの出られなかった\n『菊花賞』を勝ったウマ娘って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "もし仮にさ、アタシが『菊花賞』勝てたと\nしたら、きっとめっちゃ嬉しいよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "けどさ、テイオーが出ていればって\n枕詞もずっとついてくるんだろうなって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "はは、レース走る前から\nなに言ってんだって感じだわ。\nけどなんか、無駄なこと色々考えちゃって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "あーもう！\u3000ダサいなアタシ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "今はもっと集中してガンガン\n走り込まないといけないのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "うつむくナイスネイチャの顔を、\nマチカネタンホイザはそっと見つめた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "タンホイザなら、こういう時どうする？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "へ？\u3000私なら？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "んんー、そだねぇ……でも私も、普通に\nネイチャとおんなじこと思ってたと思うよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "だってやっぱり気になるもん、\nモヤモヤしちゃうと思う。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "けどやっぱりさ、それはそれとして\n頭の端っこで『菊花賞』勝ちたいって\n気持ちはずっとあると思うんだよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "……うん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……だから、そだな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "『もしテイオーがいたら』って言わせない\nくらいの勢いで1着獲ろうとするかな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "……え？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "うん、それしかないと思う！\nみんながテイオーなんて忘れるくらい――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ぶっちぎりで勝つ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "……。\n…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……あれ？\u3000聞いてる？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "急な沈黙。あっけにとられたような\n2人の表情。そして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "……っ、ふふ、あははは！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "え？\u3000え！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "あーもう！\u3000そうでした、アンタはそういう\nやつだった。……目ぇ覚めたわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "前向いて踏ん張らなきゃ、\nメソメソしてたってしょうがないんだわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "……うん、勝つ。ぶっちぎりで勝つよ、\nアタシ。絶対に無理なんかじゃない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……！\nなんかわかんないけど、元気出た？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "出た出た、……ありがと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ひゅ～！\u3000やったやったやった！\nどうする？\u3000夕日に向かって走る！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "あはは！\n絶対ヤだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "じゃれあうように学園へ帰っていく2人。\nナイスネイチャの表情は晴れやかだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "『たとえ太陽のようには輝かずとも、\nその武器は唯一無二ッ！\n誰かの手を取り背を推す力さえある！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あの日の秋川理事長の言葉が、\n高い空から聞こえてきたような気がした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

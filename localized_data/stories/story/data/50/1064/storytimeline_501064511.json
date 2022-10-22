@@ -1,0 +1,321 @@
+{
+  "Title": "お悩み相談マスターの日常",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今日はメジロパーマーと\nランチの予定なのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "――ま、そんな感じで、まずは気楽に\nやってみるのがいいかもねー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "なるほど……いや～、さすがパーマーさん。\nさっそく商店街のみんなに提案してみます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うんうん！\u3000いや～ネイチャも\n相変わらず張り切ってんねー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "いやいや、できる範囲の恩返ししてるだけで。\nじゃ、トレーナーさんも、お邪魔しました！",
+      "ChoiceDataList": [
+        "全然大丈夫！頑張ってね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後も、メジロパーマーに\n相談を希望する者は引きも切らず――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ちょっと大変かもだけど、うまくやれば、\n総務委員の仕事が楽になるんじゃない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "……その発想はありませんでした。\nなるほど、業務フローを効率化する\nよい機会でもありますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "早速、管理マニュアルの改善に\n着手することにしましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いや～、そうやってすぐ動くの\nさすがだよね！\u3000委員のみんなも、\nきっとイクノに感謝してるんだろな～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "――ほら、聞こえない？\n『花壇も伸び伸びできていいなぁ～』って、\n嬉しそうな声。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ふふっ……はい。\nお花さん、風にゆれて、気持ちよさそうです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ありがとうございます！\n植木鉢をわってしまったからって、\n私がずっとしおれていたらダメですね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うん、その顔その顔っ！\nフラワーの笑顔でさ、花たちを\nいっぱい照らしてあげないとね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "清掃スタッフ",
+      "Text": "ああ、何でこんなことで悩んでたのかしら。\nパーマーちゃん、ホントいつも助かるわ！\nありがとね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロパーマーに相談を終えた相手は、\nみんな笑顔になって帰っていく。\n学園の生徒も、スタッフも。……そして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "発見ッ！\u3000メジロパーマー！\nトレーニング終わりに失礼するっ！",
+      "ChoiceDataList": [
+        "理事長！どうしたんですか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "皆の相談に乗り、相手に寄り添いつつも、\n視野を広げる手助けをしていると聞くっ！\nその振る舞い、まことに感心ッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "その手腕と経験を見込んで、\nパーマーに相談したいことがあるっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "わわ！\u3000お誘いありがとうございます！\n私がなにかお力になれるなら喜んで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "――って感じで、不安に思ってる子もいます。\nだからこそ、サポートの余地はあるかなって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "感謝ッ！\u3000貴重な意見、大変参考になったっ！\n今後の計画に活用させてもらうっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "こちらこそ！\u3000理事長の計画を聞いて\nワクワクしちゃいました！\nこれからもっと素敵な学園になりそうですね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いやー、今日もいろんな人と話せて\n大勝利だったわ～！",
+      "ChoiceDataList": [
+        "すごく楽しそうに相談に乗るよな",
+        "すごく楽しそうに相談に乗るよね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あはは、そう見えた？\n人の話聞くの、好きなんだよね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "誰かが前を向く瞬間を見るとさ、\n私もなんか、力が湧くっていうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "相手の心に、パッと火がついてさ、\nその火が、私の心にも燃え移って――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "私も負けてられない、\n頑張るぞ、って思えるんだよね。",
+      "ChoiceDataList": [
+        "せっかくだし、ちょっと走ろうか？",
+        "相乗効果ってやつだな",
+        "相乗効果ってやつだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "私も負けてられない、\n頑張るぞ、って思えるんだよね。",
+      "ChoiceDataList": [
+        "せっかくだし、ちょっと走ろうか？",
+        "相乗効果ってやつだな",
+        "相乗効果ってやつだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "おっ、いいね～。\nバイブス上げちゃいますか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "はぁ、はぁ、はぁ……。\nいやぁ、なんかアオハルって感じすんね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ガサゴソ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ん？\u3000そこの茂みに、なんかいる？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "野良猫",
+      "Text": "にゃ～ん……。",
+      "ChoiceDataList": [
+        "猫？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "おっと、しかもなにやらお悩みな様子？\nほらおいで、話聞いたげるよ。",
+      "ChoiceDataList": [
+        "いや、さすがに猫までは……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "野良猫",
+      "Text": "にゃん……にゃんにゃん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ほうほう。縄張り争いに負けたと。\n……でもさ、逆に考えてみるのどう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "新しい世界に飛び込む、チャンスだって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "野良猫",
+      "Text": "にゃー！",
+      "ChoiceDataList": [
+        "せ、成立してる……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "猫の相談にも乗ってしまうメジロパーマー。\n彼女の懐の広さを垣間見たのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あー！\u3000そうそうそうそう！\nそういうこと～！\u3000それが言いたかったんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "と、いうワケで……\nトレーナー、心配しないで？",
+      "ChoiceDataList": [
+        "え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "今日1日さ、心配してくれてたでしょ？\nいろんな相談に乗って大変そうだな、とか。",
+      "ChoiceDataList": [
+        "少しだけ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あはは、そうだよね。ならさ、\nこれから私が相談に乗ってるのを見たら、\n逆にこう考えてほしいんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "『相手に元気をあげてるんじゃなくて、\n元気を分けてもらってるんだ』って！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "どう？\u3000これならトレーナーも安心っしょ？",
+      "ChoiceDataList": [
+        "そうだな……！",
+        "そうだね……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あらゆる悩みに手を差し伸べ、\n前向きにさせてくれるメジロパーマー。\nその姿勢に学ぶことが多い日だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

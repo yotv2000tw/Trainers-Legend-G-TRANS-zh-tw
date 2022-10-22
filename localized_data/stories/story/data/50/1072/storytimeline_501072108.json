@@ -1,0 +1,575 @@
+{
+  "Title": "ファン感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今日は春のファン大感謝祭。\r\nウマ娘たちと応援してくれるファンが\n交流できるイベントである。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヤエノムテキは、校門の近くに立ち、\r\n来場者にパンフレットを配っていた。",
+      "ChoiceDataList": [
+        "生徒会の手伝い？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "トレーナー殿。\r\nいえ、手伝いというものでもなく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "空き時間のため、ファンと\r\n交流を図ろうと立っている次第。\nパンフレットはあれば便利かと思い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンA",
+      "Text": "あ！\u3000ヤエノムテキさんだ！\r\nいつも見ています！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンA",
+      "Text": "私、レースでもライブでも、\nヤエノムテキさんの凜々しいところが好きで！\nカッコいいなって思ってるんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "はい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンA",
+      "Text": "えっと……それで……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "はい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンA",
+      "Text": "あっ……こ、これからも頑張ってください！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……む……先ほどから、\r\nどうにも会話が続かず……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "あー、ヤエノは愛想がいいとは\r\n言えんしなぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチらは慣れとるけど、初めてやと\r\nちと気後れしてまうかもしれん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "武道家特有の圧みたいなの\r\nにじみ出てるしなあ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "通りすがりのタマモクロスと、\r\n江戸っ子かたぎのウマ娘・イナリワンが\n声をかけてきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "イナリワン"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "2人とも面倒見のよい性格だから、\r\nヤエノムテキを気遣ってくれたのだろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "！\u3000なるほど……愛想……\r\n確かにあまり意識しておりませんでした……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "けど、無理に愛想よう振る舞っても、\r\nヤエノらしくないしな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "そうさなあ、武骨なとこがヤエノらしいし、\r\nファン的にもそっちを見てえだろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ふーむ……ならいっそ、その\nとっつきにくそうな雰囲気を活かしてみるか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "雰囲気を活かすとは……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "とりあえず、ついてきな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "さあさあ、寄ってってくんな！\n大富豪真剣勝負！\u3000勝者には賞品もあるぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "『無敵のポーカーフェイス』で連戦連勝、\r\nヤエノムテキに挑む猛者はおらんか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンB",
+      "Text": "ヤエノムテキ殿と真剣勝負だと……！？\r\n某も参加させていただきたく！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンC",
+      "Text": "俺、ヤエノムテキの気合いが入った感じが\n好きなんだよな！\u3000大富豪なら俺にも\n勝ち目がありそうだし……やってみるか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――そちらの貴方。\r\nよろしければ、いかがですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンA",
+      "Text": "えっ！？\u3000私ですか？\r\nヤ、ヤエノムテキさんからお誘いなんて……\nやりますっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "んじゃ、あたしも参加させてもらうぜい！\r\n勝負事には江戸っ子の血が騒ぐってもんよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ほな、勝負開始や！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――回避。\r\n次、どうぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンC",
+      "Text": "ここでパス！？\u3000なぜだ？\r\n勝負はまだ中盤……出せる手がないのか？\nいや、切り札をとっておいた可能性も……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンC",
+      "Text": "くっ……読めない！！\r\n表情が微動だにしない……ッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "これでどうでい！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンB",
+      "Text": "フッ、ならば某は――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンB",
+      "Text": "！？\u3000なんだ……この気配は……\r\nヤエノムテキ殿から感じる……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンB",
+      "Text": "フ……フフ……この圧倒的な迫力は……\r\n某に下手を打つなと警告しているのか……！\nならば勝負ッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "私の番ですね。\r\nでは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンB",
+      "Text": "なっ！？\u3000あの圧は某の失策を誘うもの……！\r\nぬかったわぁっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "おっと、無敵のポーカーフェイスも\r\nここまでかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "隙ありぃッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンB",
+      "Text": "くっ……パス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "はぁっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "上がりです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "なあっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "そうか……まんまと\r\n誘いにのっちまったわけか。\nあたしの負けでい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "勝負あったな！\r\n1抜けで、勝者ヤエノっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "押忍！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンA",
+      "Text": "ヤ、ヤエノムテキさんの生押忍……！\r\nこんな間近で聞けるなんて……！\u3000最高……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンB",
+      "Text": "憧れのヤエノムテキ殿との真剣勝負、\r\n己の未熟さを思い知らされました。\nご指導感謝いたしますッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "指導のつもりはなかったのですが、\r\n学びの一助となれたのなら何より。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンA",
+      "Text": "ヤエノムテキさんと大富豪ができて\n楽しかったです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "私も、皆さんとの交流で\r\n有意義な時間を過ごさせていただきました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "じかに接することができて、レースに臨む際、\r\n皆さんのお顔が思い浮かぶことでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "応援くださっている方の形容がわかると\r\n心強さが一段と増します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "本日は私と交流を持っていただき、\r\nありがとうございました。\n今後もよろしくお願い申し上げます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンC",
+      "Text": "あはは、やっぱり律儀で丁寧な方ですね！\r\nこれからも応援させてください！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ヘヘッ、どうやらここが正念場か？\r\nさぁてどうしようかねえ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンC",
+      "Text": "なっ……なんだ！？\u3000急に空気が重く……！\r\nぐっ、すごい圧だ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンB",
+      "Text": "これは、ヤエノムテキ殿とイナリワン殿が\r\n発される気迫か……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンB",
+      "Text": "ぬうっ……なんたる重圧感……！\r\n真剣勝負とは、これほどまでに……ッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンA",
+      "Text": "こ、これが……ヤエノムテキさんが\r\n身を置いている勝負の世界……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "いざ、勝負ッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンB",
+      "Text": "……パス。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "もらったぁっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "これで上がりです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "なあっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "くそっ、読み負けたか……\r\nあたしの負けでいッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "勝負あったな！\r\n1抜けで、勝者ヤエノっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "押忍！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（おおおおおおおお～っ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンB",
+      "Text": "ヤエノムテキ殿、お見事でした！！\r\n勝負の中で感じた貴殿の気迫、感服いたした！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "いえ、気の利いた話もできず\r\nすみませんでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンA",
+      "Text": "でも、大富豪をしている間、\nヤエノムテキさんが発される空気から、\n貴方の想いを感じることができました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンC",
+      "Text": "俺も……真剣勝負を通じて\r\n貴方をもっと知れた気がします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "なんと……！\u3000確かに、\r\n真剣勝負の中の私こそ、我が本質なり。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "それをお感じいただけたとは……！\r\nこれ以上に嬉しいことがございましょうか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "私も皆さんのこと、\r\n今日の白熱した真剣勝負のことは忘れませぬ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "今後、レースに臨む際も、\r\n皆さんのお顔が思い浮かぶことでしょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "本日は心より感謝申し上げます！\r\n今後もなにとぞ、よろしく応援のほど！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノのファンC",
+      "Text": "あはは、ヤエノムテキさんって\r\n意外と情熱的だったんですね！\nますますファンになりました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "イナリさん、タマモさん、\r\nありがとうございました。\nおかげでファンの方と交流ができました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "イナリ"
+      ]
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "なぁに、これくらいお安い御用さ！\r\n誰にでも不得手はある、\n助け合うのが人情ってもんよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチらの出しもんも盛り上げてもろたし、\r\nお互いさまっちゅーこっちゃ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ふふっ、このご恩は忘れません。\r\nおふたりがお困りの時は、今度は私が。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "っとーに真面目なヤツだなあ！\r\nま、そこがヤエノのいいとこさな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "恐れ入ります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ファンとの直接交流は、\r\nヤエノムテキの大きな励みとなったようだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

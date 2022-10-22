@@ -1,0 +1,393 @@
+{
+  "Title": "正しきを為すが義",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『毎日杯』に向け、ヤエノムテキの\r\nトレーニングは順調だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "はぁっ……はぁっ……！\r\nタイムは……。",
+      "ChoiceDataList": [
+        "昨日より縮まってる！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――よし！",
+      "ChoiceDataList": [
+        "もう1本、次はラップを意識して"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "はい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "振り向いたヤエノムテキが\r\nぴたりと動きを止める。その視線の先には――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はぁっ、はぁっ、はぁっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "く……っ、脚、重っ……。\r\nやっぱりパワーが足りないんだ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……筋トレ増やさなきゃ。\r\nえっと、坂を上るときは……そっか、\n腹筋や背筋が弱いのかも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "それから……横移動もしながら上るときは、\r\n蹴り出す方向で加速度も変わるかな……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "よーし！\r\n次は斜めに移動しながらもう1本っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "チヨノオーさん――",
+      "ChoiceDataList": [
+        "彼女、気合い入ってるな",
+        "彼女、気合い入ってるね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ええ。先日のレースで悔いの残る\r\n走りをしたと嘆いていましたから……\nその対策を講じているのでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "レースを振り返って課題を洗い出し、\r\nトレーニングに反映する。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "また、トレーニング中も1本走るごとに、\r\n問題点を検討し、次の課題とする。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ただ漫然と本数をこなすのではなく、\r\n走った後に考え、目標を立てて次を走る。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "己の欠点と向き合い、解決する。\r\nチヨノオーさんは、その反復ができる方です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "並大抵の精神力ではありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "武道の経験則からも、地道な積み上げは\r\nいずれ必ず大きな成長を生む……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "侮りがたし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "うぅ～ん、やっぱりイメージだけじゃ\r\n仕掛けのタイミングは掴みにくい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "ハァイ、チヨちゃん♪\r\nどうしたの？\u3000なにか困りごと？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "チヨ"
+      ]
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "マルゼンさん！\r\nあ、えっと……いえ、大丈夫です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "マルゼン"
+      ]
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "んもう、そんなだから放っとけないのよね～。\r\nちょっちあたしに似てるっていうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "ね、併走相手を探してたりしない？\r\nあたし、走れるわよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ええっ！？\u3000どうしてわかったんですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "だってこの間のレース、後ろにつけたけど\r\nなかなか前に行けず、苦労してたじゃない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "チヨちゃんのことだから、\r\nその対策をしてるんじゃないかなーって、ね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "そ、その通りです……！\r\nでも……併走、ほんとにいいんですか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "モチのロンよ！\r\nあたしが託した想いを受け止めて、\n頑張ってくれているんだから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "お手伝いくらいしたいじゃない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "あ……ありがとうございますっ！\r\nぜひっ、よろしくお願いします！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "サクラチヨノオーはマルゼンスキーと\n併走をするようだ。マルゼンスキーは、\n“スーパーカー”の異名を持つウマ娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "マルゼンスキー",
+        "スーパーカー"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "トゥインクル・シリーズでの経験も豊富な\n彼女と走れば、学べることは多いだろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "マルゼンスキー"
+      ]
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……面倒見のいいマルゼンさんのこと。\r\nチヨノオーさんは、この併走で\n己の弱点に気づけるでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "そして、チヨノオーさんは\r\n弱点を克服し強くなる……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "悠長にしてはいられぬ！\r\n1本、参ります！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "コースでのトレーニングを終えて\r\nジムへ移動すると、見知った顔があった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――……ふぅっ…………\r\nここまで、ですね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "アルダンさん、大丈夫ですか？\r\n顔色があまりよろしくないようですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……ヤエノさん。\r\nご心配には及びません。お構いなく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "差し障りがあれば、\r\nこうして息を入れておりますので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "でしたら、よいのですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ヤエノムテキが心配するのも無理はない。\r\nメジロアルダンは体が弱く、\n何度も入退院を繰り返してきた身だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そのため、かなり前に本格化――\r\nウマ娘としての成長期を迎えていながら、\nデビューを見送り続けていると聞いた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "体に負荷をかけすぎれば、\r\n再び入院ということにもなりかねない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "今は、少しずつでもトレーニングを\r\n積んでおきたいのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "安穏と過ごしていては、\r\nヤエノさんたちに追いつけませんから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "今年必ずデビューすると仰っていましたね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "はい。本格化を迎えてから、\r\n私は多くの時間を空費してしまった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "他の娘たちと比較するに、\r\n私に残された時間は、\nもう幾許もないでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "故に、私は今年あらゆる\r\n手を尽くしデビューを果たさねばなりません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "なにも成せずして朽ち果てるより、\r\n刹那であれど、ターフにて輝きたい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "…………っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "全て、決意の上での選択です。\r\nどうか私のことはお気遣いなく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "きっぱりと言い放ち、メジロアルダンは\r\nトレーニングへ戻っていった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……なんたる覚悟……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "命を賭してでも走る、その気概を感じました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――だが、私も負けられない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "『火水合一』を極め、\r\n勝利を盤石なものとせねば！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "トレーナー殿、お願いいたす！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "2人のライバルがヤエノムテキに火をつける。\r\n彼女の瞳の奥に、確かに燃える焔が見えた――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

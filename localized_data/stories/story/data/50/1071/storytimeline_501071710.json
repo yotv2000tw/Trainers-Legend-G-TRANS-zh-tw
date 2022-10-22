@@ -1,0 +1,50 @@
+{
+  "Title": "レース敗北",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "このような結果となってしまい、\r\n申し訳ありません……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "努力を怠ったつもりはなくとも、まだまだ\r\nできることがあったのではと悔恨の思いです。",
+      "ChoiceDataList": [
+        "走りに問題はなかった",
+        "次は勝とう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ありがとうございます。そうですね、\r\n私もちゃんと力を発揮できていたと思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "あとは1着になれる実力をつけるだけです。\r\n今後ともよろしくお願いいたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……！\u3000もちろんです。\r\nこのまま諦めるつもりはありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "この悔しさをバネに、明日から\r\nまたトレーニングを頑張りますので、\nどうぞよろしくお願いいたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "Title": "バレンタイン",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "はい、それじゃあお大事にね！\nまた悩んじゃった時は来て。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "はい、次の方どうぞー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今日はバレンタインデー。\nなのにメジロパーマーは\nなぜか医者のように、応診に追われていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "あの……パーマー。少し相談が。\r\n最近、なんだか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "パーマー"
+      ]
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "イクノさんにチョコをあげたい気分が\n高まっていますの。差し上げた方が\nよろしいと思いまして？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "イクノ"
+      ]
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "マックイーン……。\nそっか、イクノディクタス、ねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "イクノディクタス"
+      ]
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（イクノ……。\nわりと生真面目で、鉄のオンナって\n評する人もいるみたいだけど……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（別に冷たい娘じゃないんだよね。\nちゃんと気持ちもわかってくれるってか）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うん、あげてみたらいいんじゃない？\r\n喜んではくれると思うし、それに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "自分のバイブスが本物かどうかは、\r\nいろいろ試してみないとわかんないしね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "いろいろ試してみる……。\r\n……わかりましたわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ふふっ、やはり貴方は頼りになりますのね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ふ～、肩凝った～。\nあれだけの人数と話すと、さすがにね♪",
+      "ChoiceDataList": [
+        "教室で何してたんだ？",
+        "教室で何してたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ん～、バレンタインの相談的な？\n私、いっつも持ちかけられるんだよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "この時期はよく、ぶっちゃけ話されて。\nで頼られたら、応えて\nあげたくなっちゃうじゃん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――心許せる相談役。\nどうやらメジロパーマーは、\n学園の中でそんな位置づけのようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "相談に乗ってあげるのは、もちろん\nいいことだが、逆に気になるのは……。",
+      "ChoiceDataList": [
+        "パーマーのほうには悩みはないのか？",
+        "パーマーのほうには悩みはないの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "私？\u3000私はわりと自分で解決しちゃうほう\nだから。特に小さい悩みはね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あ、でも……ひとつだけ、\nちょっと迷ってるのがあったか。",
+      "ChoiceDataList": [
+        "あるなら聞きたいけど"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "え、トレーナーが？\n聞き役になってくれるの？",
+      "ChoiceDataList": [
+        "ああ、ぜひ",
+        "うん、ぜひ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "そっか。ちょっとややこしいけど、でも……\nそう言ってくれるなら、話してみよっかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロパーマーはおずおずと切り出した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "チョコをさ、あげたい相手がいるんだよねー。\nでも、なんていうか、あげちゃうと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "これまでの関係ってか距離感？\nバイブス？\u3000その辺が変わっちゃいそうでさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あげても……ヘーキかな？\r\nさらっと渡せば。",
+      "ChoiceDataList": [
+        "平気だと思うけど"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "『アイツ、実は意識してたんだ』とか\r\n思われない？\u3000これまでと変わらない？",
+      "ChoiceDataList": [
+        "ああ、多分な",
+        "うん、多分ね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "絶対！？\u3000ホントに！？\r\n絶対の絶対の絶対！？",
+      "ChoiceDataList": [
+        "そ、そこまではわからないけど、落ち着いて"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ご、ごめん……。つい熱くなっちゃった。\nどうしても関係壊れるのは嫌だったから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "でもトレーナーがそういうんなら\r\n大丈夫かな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あの……これっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう言うとメジロパーマーは\r\n背後から包みを取り出した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "大丈夫……だよね？\nこれまでと変わらないって言ってたし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "だったら渡したいし、食べてほしいってか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "本当なら、バレンタインうぇぇぇい☆とか\r\nノリで行きたかったんだけど、さすがに、ね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うう……ごめん、度胸なくて……。\r\nもらってくれる？",
+      "ChoiceDataList": [
+        "もちろん、ありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ありがたくチョコを受け取る。それは\nとてもていねいに包まれていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "私さ。別に多くは望まないんだ。\nでも今みたいに、\nちょっとした悩みができた時は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "軽く相談に乗ってくれる？\nこういう微妙な話できる相手って、\nなかなかいなくてさ。",
+      "ChoiceDataList": [
+        "ああ、約束する",
+        "うん、約束する"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "そか、そかそか。\r\nあはは……よかった～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うわ、もうなんか手、汗だく！\r\n今年1番緊張したかも。\nヤバイよね、バレンタインって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "肩をすくめながら笑っている。\nどうにかメジロパーマーの気持ちの\n行き場になってあげられたようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "肩をすくめながら笑っている。\nどうにかメジロパーマーの気持ちの\n行き場になってあげられたようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その帰り道のこと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あのさ。チョコあげたついでになんだけど、\r\nこれから帰りにさ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いや、多くを望むワケじゃないよ！？\nでもよかったら～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンA",
+      "Text": "あ、メジロパーマーだ！\nなんかさ、ウワサによると\n恋愛相談に乗ってくれるらしいよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ファンB",
+      "Text": "ホント？\u3000ファンの私たちも\r\nワンチャン見てもらえるかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ええっ、学園外にも広まってる的な？\nでも、まあ2人ぐらいなら……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ドドドドドドッ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大量のファンたち",
+      "Text": "ウオオオオオッ、パーマー！！！\n聞いてくれ、パーマー！！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ええええっ、ちょっ！？\nこんなには無理～！！\nバレンタインデー終わっちゃう～～～！！",
+      "ChoiceDataList": [
+        "逃げよう、パーマー……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "えっ！？\u3000逃げるって……。",
+      "ChoiceDataList": [
+        "早く！こっちへ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ためらうメジロパーマーを先導し、\n全力で脱出した！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "はぁ、はぁ、あ～苦し……。\r\nちょっと本気で走っちゃったかも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あ、トレーナー、景色見て見て！\r\nうわっ、きれー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "なんか偶然いいところに逃げてきたかも。\r\nトワイライトis最っ高！\u3000Fu～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう言いながら夕日を見るメジロパーマーは\r\nとても嬉しそうだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ね、トレーナー。\nたくさんの人に囲まれるのもいいけど、\nあまりにも増えすぎちゃったらさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "逃げちゃうのもいいかもね、2人で！",
+      "ChoiceDataList": [
+        "逃げるって……どこへ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "んー、どこでも！\r\n行き先は問わず！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "思うままに旅して暮らすのもいいかも。\nもし本当に、自由に\n生きられるようになったら。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "私はそれでもいいんだ。\n相談に乗ってくれる人がいれば、それでね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "これが～、なんだその。私からの\r\nバレンタインメッセージ。なんつって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "吹いてきた少し暖かい夕風が、\r\nメジロパーマーの後れ毛を揺らしていった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

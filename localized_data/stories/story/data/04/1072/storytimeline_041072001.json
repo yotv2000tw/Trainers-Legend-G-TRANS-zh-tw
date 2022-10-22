@@ -1,0 +1,364 @@
+{
+  "Title": "夕空に舞う",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日の夕暮れ。買い出しの帰りに、河川敷を通りかかると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――――破ッ！！",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "さながら研ぎ澄まされた剣先が如く、鋭く響いた気合いの声に\nびくりと足が止まる。思わず、そちらを見やると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "スゥッ――…………\nフゥー…………。",
+      "ChoiceDataList": [
+        "確か、あの子は……ヤエノムテキ……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――ふッ！\u3000……はァッ！\n……せいッ！\u3000……たぁッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "夕空の下、裂帛の気合いと共に繰り出される彼女の拳が、\r\n蹴りが、手刀が、空を裂き地を震わせる――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "フゥ――――ッ…………！！\n――――破ァッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "…………フゥッ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……気づけば、見惚れきっていた。猛々しさと静けさの見事な調和。\r\n弛まぬ鍛錬を感じさせる、体の隅々まで洗練された美しい動き……。",
+      "ChoiceDataList": [
+        "（まるで……『舞い』のようだった……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――失礼。そこな御仁。",
+      "ChoiceDataList": [
+        "っ！？は、はい！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "その襟のバッジ、学園のトレーナーとお見受けいたします。\r\n私に、何かご用でしょうか。",
+      "ChoiceDataList": [
+        "いや……ごめん、つい見惚れてて……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "それは……いえ、未熟な私には身に余るお言葉です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "今も、こうして『形』を演じ雑念を払わねば、\r\n明日に迫った選抜レースに向け猛る心を抑えきれずにいたところ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ただ、修行不足の身なれど、明日は実力の全てをお見せする所存。\r\n……もし暇あらば、足をお運びいただけると僥倖です。",
+      "ChoiceDataList": [
+        "しょ、承知いたしました……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どこか、古風な武芸者を思わせるその言動に、\r\n思わずこちらも襟を正してしまう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "すると、そこへ――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "不良ウマ娘A",
+      "Text": "オイオイオイオイ！\u3000困るッスよ～、トレセン学園のおジョー様ァ！\nここぉ、ウチらの『ナワバリ』なんスけどぉ～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "不良ウマ娘A",
+      "Text": "勝手に使いやがったっつーんならぁ、\n『使用料』もらわねーとなァ～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "突然、なんだかガラの悪そうなウマ娘たちが現れた……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……『縄張り』、とは？\u3000私の記憶が正しければ、\r\nこちらは河川敷に作られた公園の一部であったはずですが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "不良ウマ娘A",
+      "Text": "うるせ～～～！\u3000口答えしてんじゃねぇ！！\n姉貴ぃ、コイツ生意気ッスよ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "不良ウマ娘B",
+      "Text": "……豪気なことだな。けどその威勢、いつまで続くかね？\nケガしたくなきゃ従いな――かけっこ好きのお嬢ちゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "リーダー格と思しき不良ウマ娘が威圧感を放つ！\r\n……さすがに見過ごすわけにはいかない！！",
+      "ChoiceDataList": [
+        "やめるんだ、君たち……！",
+        "やめなさい、貴方たち……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "不良ウマ娘A",
+      "Text": "あァん！？\nなんだテメェ、しゃしゃってんじゃねェよ――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――――喝ッ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘たち",
+      "Text": "ひゃっ……！！\nっ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヤエノムテキの鋭い一声を浴び、不良のウマ娘たちは\r\n雷に打たれたかのように動きを止めた……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "さて。……――続けますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "静まり返った水面が如く静穏な――\nだが、底知れぬ何かを秘めた声で彼女が問う。すると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "不良ウマ娘B",
+      "Text": "……行くよ。相手が悪い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "不良ウマ娘A",
+      "Text": "え、ちょっ、姉貴！？\nま、待ってくださいよぉ～～～！！",
+      "ChoiceDataList": [
+        "（い、行っちゃった……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……追い払うためとはいえ、突然声を荒げてしまい、\r\n申し訳ありません。驚かれたでしょう。",
+      "ChoiceDataList": [
+        "いや、むしろ助けてくれて感謝だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それに、不良たちを黙らせるほどの猛々しさを秘めながらも、\r\n眉ひとつ動かさぬ冷静さでもって場を静めた彼女の姿は――",
+      "ChoiceDataList": [
+        "すごくカッコよかった！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……恐縮です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女はいったい、レースではどんな走りを見せてくれるのだろうか？\r\n期待を抱きつつ、その日は別れた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして、翌日。期待に胸を躍らせながら、\r\nヤエノムテキが出ている選抜レースを観に行くと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナーA",
+      "Text": "さっきのスーパークリーク、素晴らしい走りでしたね……！\r\nすでにある種の貫禄を感じます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ベテラントレーナーA",
+      "Text": "オグリキャップも……“怪物”と呼ばれるだけはあるな。\r\nまだ粗削りではあるが、可能性を感じずにはいられない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ベテラントレーナーA",
+      "Text": "他にも、将来有望な子は多い……\nこれは相当、強豪ぞろいの世代になりそうだな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……。私も……今度こそ、果たさねば。\n修行の成果を発揮し、誇りある勝利を、今度こそ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "はっ、はっ、はっ、はっ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "出走ウマ娘A",
+      "Text": "……。\n……よしっ、ここで――はぁあああっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "っ！！\u3000……させる……ものか……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――オォォォォオオオオオオッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "出走ウマ娘A",
+      "Text": "ふふっ、やっぱ乗ってきた……！",
+      "ChoiceDataList": [
+        "（あれ……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ベテラントレーナーA",
+      "Text": "ヤエノムテキ……釣られたな。気持ちが前に出過ぎている。\nあれでは、最後まで脚がもたないぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナーA",
+      "Text": "うーん、『また』ですか……ちょっと注目してたんだけど、\nあのクセが抜けない限りは、厳しいかな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……奇妙な光景だった。昨日、自分の目の前で炎のような闘争心を\r\n完璧に理性で抑え、冷静に振舞っていたはずのヤエノムテキは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "このまま……押し切って、やるッ……！！\nハァァァァァァッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……っ、はぁっ、はぁっ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ただ猛々しく、荒々しく、己が内から溢れ出るそれに\n振り回されたままの走りで、敗北を喫していた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "はぁっ、はぁっ、はぁっ、はぁっ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "くッ……また、私は……またもやッ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "未熟！\u3000あまりにも……未熟すぎる！！\n我が内なる『烈火』を御すためには、もっと……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その横顔があまりにも悔しそうで……\n立ち去るヤエノムテキを呼び止めることは、できなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

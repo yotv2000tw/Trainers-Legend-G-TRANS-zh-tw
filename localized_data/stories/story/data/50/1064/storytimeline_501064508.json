@@ -1,0 +1,50 @@
+{
+  "Title": "レース疲れ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "とりま、レースが済んだから\n次の目標に向けたトレーニングを……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……う～ん。",
+      "ChoiceDataList": [
+        "どうした？",
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……なんだろ。こんなこと言っちゃって\nごめんなんだけどさ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "――不自由な感じ、するんだよね。\n思い切り、走ってるつもりでも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あはは、ちょっと疲れてんのかな。\nま、だいじょーぶ。今日は早めに寝とくから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "このところ、レースで忙しかったせい\nかもしれない。これは、スケジュールを\n見直す必要がありそうだ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

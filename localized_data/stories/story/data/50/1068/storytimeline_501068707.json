@@ -1,0 +1,203 @@
+{
+  "Title": "神社でお祈り！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日の帰り道、キタサンブラックが\n神社へ行きたいと言うので\n立ち寄ることになった。",
+      "ChoiceDataList": [
+        "急にどうしたんだ？",
+        "急にどうして？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "その、実はですね。\r\n最近調子が悪いな～って思ってて。\nそれをご近所さんにお話ししたら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ご近所さんA",
+      "Text": "ふぅん、なかなか調子が戻らないの。\nそれは困ったわねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ご近所さんB",
+      "Text": "ならいっそのこと、厄除けなんかどう？\nあたし、調子が悪い時にたまに行くのよ。\n神社なんかで手を合わせて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ご近所さんA",
+      "Text": "病は気からっていうものねぇ。\n案外効くかもよ？\u3000あっはっは！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "たしかに！\nその手がありましたね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "と、いうわけでして、\nちょっとだけ待っててもらってもいいですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "…………。\n……よし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "お待たせしましたトレーナーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "神さま、\n厄除けのお願い聞いてくれるといいなぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "と、そこへ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ご近所さんA",
+      "Text": "あら、キタちゃん！\n偶然ねぇ。……もしかして、厄除け祈願？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "あ、はい！\u3000そうなんです！\r\nたった今終わったところで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ご近所さんB",
+      "Text": "あはは！\u3000先越されちゃった！\u3000実はね、\nキタちゃんの調子が戻りますようにって\nあたしたちもお祈りしに来てたとこで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "ええっ！？\nあたしのために、わざわざ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ご近所さんA",
+      "Text": "キタちゃんが元気ないのはヤだもの。\nってわけで、ちょっと失礼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうして2人は拝殿へ向かい、\nしっかりと手を合わせた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ご近所さんA&B",
+      "Text": "キタちゃんの調子が早くよくなりますように。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "……！！\nあ、ありがとうございます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "ていうか……あれ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "なんだか本当に、嬉しくって、うずうずして！\n元気になってきました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ご近所さんの真心を受けて、すっかり\n調子を取り戻したキタサンブラックだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "……あっ！",
+      "ChoiceDataList": [
+        "どうした？",
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "あたしったらお願いばっかりしちゃいました！\n神社にはお祭りでお世話になってるのに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "ご挨拶とお礼もちゃんと言わないと！\nごめんなさい、もう少しだけ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "いつもありがとうございます。\nお祭りはみんなの笑顔でいっぱいです……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "……それに、あのことも……。\nあ、あと、去年の夏のお神輿も――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "キタサンブラックの熱心なご挨拶は\n想像以上に時間がかかり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "お、お待たせしましたぁ～……！\nお礼ちゃんと言えました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "……ふぅ、けど、なんだかヘトヘトです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "逆に疲れが溜まってしまったのか、\n調子はいまいちよくならなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

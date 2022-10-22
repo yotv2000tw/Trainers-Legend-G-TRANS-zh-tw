@@ -1,0 +1,44 @@
+{
+  "Title": "寝不足で……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ニシノフラワーが休みをとった次の日、\r\n彼女とミーティングをしていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "………………あっ！\nご、ごめんなさいっ！\u3000私、今――",
+      "ChoiceDataList": [
+        "珍しいな",
+        "珍しいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あぅ……すみません……。\r\n昨日、ちょっと怖い夢で目が覚めて……\nそのあと、あまり寝れなくて……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どうやらニシノフラワーは、\r\n怖い夢を見たせいで、あまり\n休むことができなかったようだ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

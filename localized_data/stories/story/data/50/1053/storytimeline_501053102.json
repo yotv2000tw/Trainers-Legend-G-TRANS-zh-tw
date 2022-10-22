@@ -1,0 +1,341 @@
+{
+  "Title": "初詣",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "いよいよ始まるシニア級。\nその年始、バンブーメモリーはというと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テレビの音声",
+      "Text": "『――それではここからは、大盛り上がりを\n見せた昨年のトゥインクル・シリーズを\nレース映像と共に振り返っていきましょう！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トゥインクル・シリーズ"
+      ]
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "おっ、始まったっスね！！\nわくわく！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今日はバンブーメモリーの希望で、\nトレーナー室にて昨年のレースを振り返る\nテレビ番組を一緒に見ていた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テレビの音声",
+      "Text": "『昨年を語るうえで欠かせないのはやはり\nこのウマ娘！\u3000“怪物”オグリキャップ！\nあまたの名勝負を作り上げてくれました！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "怪物",
+        "オグリキャップ"
+      ]
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "おお～～ッ！！\nいきなりオグリ先輩ッ！！\nさすがっスね！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "オグリ"
+      ]
+    },
+    {
+      "Name": "テレビの音声",
+      "Text": "『“白い稲妻”タマモクロスとのレースは、\n多くの方の心に残ったかと思います。\nかくいう私もすっかりファンになり――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "白い稲妻"
+      ]
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "おぉぉぉ……！\nお2人ともカッコいいっス……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テレビの音声",
+      "Text": "『――今やトゥインクル・シリーズの\n中心と言っても過言ではないでしょう。\n今後はオグリキャップの時代となるかも――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "オグリ先輩の、時代……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――結局、番組はオグリキャップを中心に\n振り返るのみで、実質オグリキャップ特集\nと言っていい内容のまま終わった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "う～ん、短距離走ってるアタシはともかく、\nヤエノたちも全然取り扱われなかったのは、\nちょっと意外というか、残念というか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "まあでも、それだけオグリ先輩の活躍が、\nみなさんにとって鮮烈だった……\nってことっスよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……うん。やっぱり、そうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "アタシは……アタシもいつか……\nオグリ先輩と本番のレースで……\n走りたい……！",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "バンブーメモリーが口にした\nオグリキャップへの強烈な意識。\nそれが自分に対し、過去の情景を呼び起こす。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "――……とても、いいレースだった。\nまた戦ってほしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……！！\u3000もちろんっス！！\u3000絶対！！\nまた一緒に走るっスよ、オグリ先輩っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "トレーナーさ……、……ッ。\nう……うぐぅ～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "悔しいっ！\nトレーナーさん、アタシ、悔しいっス……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――まだバンブーメモリーがデビューする前。\n種目別競技大会でオグリキャップと競い、\n未来への誓いと悔しさを得た、あの日。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……あの時からずっと、\nバンブーメモリーにとってオグリキャップは、\nいつかまた挑戦したい特別な存在なのだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――トレーナーさん。\nアタシがオグリ先輩と\nこの先戦う可能性って、ありますか？",
+      "ChoiceDataList": [
+        "……マイルのGⅠでなら、あるいは"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "オグリキャップの今日までの出走歴を見るに、\n彼女の主戦場はマイルと中距離だ。\nマイルのGⅠに現れる可能性は十二分にある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "マイル――\nアタシが最強でサイコーを目指す\n2つの舞台のうちの1つ……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "………………っし！！\nアタシ、決めたっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "いつか、マイルのGⅠでオグリ先輩と戦う時、\nアタシはオグリ先輩に勝ちますッ！\nマイル最強を目指す者として、必ずッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "そして、堂々と言えるようにしますッ！\nマイルにはアタシが……\nバンブーメモリーがいるってことをッ！！",
+      "ChoiceDataList": [
+        "バンブー……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "これだけオグリキャップが称賛される風潮を\n前にしても、恐れなく彼女に挑もうとする\nバンブーメモリーの姿は、とても頼もしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "きっと、この不撓不屈の精神こそが\nバンブーメモリーの唯一無二の強さなのだと、\n改めて思わされる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――でもまずは短距離の『高松宮記念』！\n絶対にそこでサイコーへの1歩をつかむっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "そして、マイルのGⅠにもつなげて！\n今の宣言を現実にするっス！！",
+      "ChoiceDataList": [
+        "……そうだな！",
+        "……そうだね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうしてバンブーメモリーと気持ちを\n前向きに改めたところで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――バンブーメモリーと2人で、\nシニア級の成功を祈願しに初詣にやってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参拝客A",
+      "Text": "オグリ、今年はどれぐらい勝つかな～。\nもしかして年内無敗とかやったりしてな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参拝客B",
+      "Text": "いや、わりとあるんじゃないか？\nマジで今オグリが強すぎるし。レースあると\nいっつもSNSでトレンドにあがるし――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "今すれ違った人たち、\nオグリ先輩の話してたっスよ？\nどこでも話題になってるっスね～！",
+      "ChoiceDataList": [
+        "それだけブームを起こしているんだろうね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "こりゃ、アタシなんか眼中に入ってないって\n感じっスね。\nいやあホント、ブームってすごいなぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "ま、それはそれ！\nアタシはアタシの道をがんばるのみ！\n今年は去年以上に祈願に力が入りそうっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "そういえば、トレーナーさんは\n今年はどんなことをお願いするんスか？",
+      "ChoiceDataList": [
+        "健康ッ！！",
+        "成長ッ！！",
+        "開運ッ！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "おおっ、いいっスね～！\nレースもトレーニングも、\nまず健康あってっスよね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "よーっし！\nここはアタシもトレーナーさんに倣って\n自分の健康を祈願するっスー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうして2人でこれからの健康を祈願し、\nシニア級への挑戦が始まるのだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "おおっ！\u3000さすがの向上心っスねッ！\nアタシも成長したいっス！\n心も体も走りも何もかもッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "よぉし！\u3000アタシも自身の成長を祈願して、\nトレーナーさんと一緒に高みを目指すっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうして2人で更なる成長を祈願し、\nシニア級への挑戦が始まるのだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "か、開運っスか！？\nちょっと意外なチョイスが来たっスね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "でも確かに、勝負の世界には運も大事……\nそう考えると、めっちゃいい願い事な\n気がしてきたっス……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "はいはいはいッ！\nアタシもトレーナーさんと一緒に、\n開運祈願するっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうして2人で開運を祈願し、\nシニア級への挑戦が始まるのだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "夕暮れ時。商店街でタマモクロスと\nコロッケをかじりながら歩いていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ん、なんや？\n前の方に、人だかりが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、楽しい楽しい福引だよ！\u3000そこの\n小さいウマ娘ちゃん、やっていかないかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "誰が小さいウマ娘ちゃんや！\r\n園児扱いすんなや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "けどおっちゃん、ええ度胸や。\r\n景品根こそぎかっさらって、度肝抜いたるわ。",
+      "ChoiceDataList": [
+        "福引券1枚しかないけど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ズコーッ！\u3000少なっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "まあええわ。1番の目玉を引き当てて、\n涙目にさせたろやないかい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ほなトレーナー、いくでー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "一緒にレバーを掴み、稲妻の如き速さで、\n抽選器をガラガラと回した！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なんとっ！\u3000おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なーんや温泉か。食いもんやないん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "でぇぇぇぇええええええ！？\u3000温泉～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "お、お、お……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "温泉～～～！？",
+      "ChoiceDataList": [
+        "今、同じこと2回言ったよな？",
+        "今、同じこと2回言ったよね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "どアホ！\u3000なんでアンタがツッコむんや！？\n逆やろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "でも……どどど、どうしたらええねん。\nウチが特賞やなんて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "こんなんもらっても、どうしたらええか、\r\nわからへん……。わからへんわ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "涙目にさせると言ったタマモクロスが、\n逆に涙ぐんでいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "お遊びの旅行やなんて、ガキの頃はどんなに\r\nせがんでも行かれへんかったのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "こんなん、どないしたら……。\n受け止めきれんわ……。",
+      "ChoiceDataList": [
+        "なら返す？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "返すかい！\u3000せっかく当たったのに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せや！\u3000ならその温泉旅行券、\nアンタが持っといてくれへんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "その旅行は副賞や。\n漫才とかのグランプリでも、優勝したら\n副賞がもらえるやろ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "その温泉旅行は、ウチがトゥインクル・\r\nシリーズを制した時のご褒美や。どや？",
+      "ChoiceDataList": [
+        "いいと思うよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "よっしゃ！\u3000ほな頼むで！\u3000温泉かぁ。\nついにウチにも運が向いてきたんかな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おっと浮かれてる場合やないで。\r\nご褒美のためにも気ぃ入れていかんと！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "心に気合いのムチが入る。温泉を引き当てた\nことで、タマモクロスのガッツは、\n熱湯のように燃え盛っていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おおお、お惣菜のボスが当たったでー！\r\nこれなら腹も大満足やー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "しっかし、おもろい見た目よなあ。\r\nハンバーグに、にんじんが刺さっとる……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なあ、なんでにんじんがツッコまれたんか、\r\nアンタわかるか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "にんじんがツッコまれた理由……。\nしばらく考えて思いついたのは……。",
+      "ChoiceDataList": [
+        "ハンバーグがボケたから？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ハンバーグが……ボケた？\nそんで、にんじんが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "だーっはっはっは！\u3000んなワケあるかーい！\nアンタの方が、ハンバーグより\nええボケするやんか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "はぁ～、笑ったら余計、腹減ってしもたわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ほなこれ、もらって帰ろか。\nそんで一緒に晩飯や！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、もらった特上にんじんハンバーグを\nともにつつきながら、楽しい夕飯タイムを\n過ごした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "2等賞～！！\n賞品は『にんじん山盛り』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おおお、このにんじん……全部？\nやったでー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "山盛り……山盛りや！！\nウチの大好きな言葉の1つや！",
+      "ChoiceDataList": [
+        "他はどんな言葉が好きなんだ？",
+        "他はどんな言葉が好きなの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "他は『半額』とか『見切り品』とか\nその辺やな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "さてと、このにんじん、\r\n半分は実家に送ってやるかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "『福引で当たったで！』って手紙も添えて。\r\nきっと喜ぶで。",
+      "ChoiceDataList": [
+        "せっかくなら記念写真も送るとか、どうだ？",
+        "せっかくなら記念写真も送るとか、どう？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おおっ、記念写真！\u3000それええな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なら満面の笑みで撮ったろ！\r\nトレーナー、横並べや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "山盛りにんじんの前でVサインをする\r\nタマモクロス。その写真を見た弟と妹は\n『すごいすごい！』と大喜びだったらしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "3等賞～！\n賞品は『にんじん1本』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "1本！？\u3000しょうもな！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "でも、まあええか。食いもんなら、\nいくらあっても困らへんし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "前にもっとガッカリした時もあったしな。\r\n1番ガッカリした景品といえば……。",
+      "ChoiceDataList": [
+        "なんだったんだ？",
+        "なんだったの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ガキの頃、めっちゃ腹減ってる時に\r\n『残念賞のアクセサリーでぇぇぇす』って\n言われた時があってな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なんとか食えんか思ったけど無理やったわ。\nせめて駄菓子でもくれっちゅーねん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ほんならポリポリ食いながら行こかー。\nアンタにも葉っぱ、やるさかい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "タマモクロスは葉っぱをくれた。\nにんじん1本でも、少しは腹の足しに\nなったようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "がくしっ！\u3000っておい！\nこっちが涙目やんか！",
+      "ChoiceDataList": [
+        "泣いても涙ふけるな",
+        "泣いても涙ふけるね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ははは、せやな！\u3000ティッシュで\nむしろ当たりちゅーもんや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "って、ごまかされるかーい！\u3000そもそも\nハズレやなかったら泣くこともないやろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "はぁーあ、ツイてへんなぁ……。\r\n結局ウチの人生、ずっとこんなんか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ささやかな運試しに敗れ、タマモクロスは\nしょんぼりしていた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

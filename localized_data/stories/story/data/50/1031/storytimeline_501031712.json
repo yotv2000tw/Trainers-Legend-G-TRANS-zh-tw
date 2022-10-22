@@ -1,0 +1,50 @@
+{
+  "Title": "不在の理由は……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アイネスフウジンがトレーニングに来ない……\r\nと思っていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ごめんね……すっかり遅くなっちゃったの。",
+      "ChoiceDataList": [
+        "今日はどうしたんだ？",
+        "今日はどうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "実は、自転車がパンクしちゃって、\r\n修理してたらこんな時間に……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "よく前輪をパンクさせちゃうんだよね、\r\n前に体重を乗せすぎかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "とにかく、ごめんなさいなの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "遅刻は不可抗力だが、アイネスフウジンには\r\nちゃんと反省するように伝えたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

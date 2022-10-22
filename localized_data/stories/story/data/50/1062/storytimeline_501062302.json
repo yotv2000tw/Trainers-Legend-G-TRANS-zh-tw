@@ -1,0 +1,455 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日、商店街の近くを通りかかると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "人が集まってますね？\nどうしたんだろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、楽しい楽しい福引だよ！\nどなたでもどうぞ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "わぁ、温泉旅行券か～！\nいいですねぇ。",
+      "ChoiceDataList": [
+        "やってみる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "やってみちゃおっかな！\nあの、すみません、福引1回やりたいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "はい、それじゃ福引券1枚ね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "はっ、そっか。福引券……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "わわ、ちょっと待っててください、\nお買い物してきます～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後急いで福引券を手に入れてきた\nマチカネタンホイザ。\n改めて、福引抽選器のレバーを回した！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なんとっ！\u3000おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ええええええ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ややや、やったやった、\nやっちゃいました、トレーナー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "うわあ、嬉しい～！！",
+      "ChoiceDataList": [
+        "おめでとう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "えへへ、\nそれで、いつ行きましょうか！？",
+      "ChoiceDataList": [
+        "え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "温泉旅行ですよ～。今は少し忙しいし、\r\nもう少し落ち着いてから、ですかね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう言われてみれば、ペアチケットだ。\nといっても――",
+      "ChoiceDataList": [
+        "俺がペアでいいの？",
+        "私がペアでいいの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "え？\u3000はい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……は、もしや\nトレーナーを誘うのって変です……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "その、こういうののペアはやっぱり\nトレーナーかなって思って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "1番お世話になってる人ですし、\r\n相棒というか、そのぅ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……ヤだったら、いいんですけど。",
+      "ChoiceDataList": [
+        "嫌なわけない！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "！\u3000ホントですか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "わあ、やったやった！\nそれじゃまた、改めて計画立てましょ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "えへへ、楽しみだな～。\nトレーナーと湯けむり温泉ミステリー――",
+      "ChoiceDataList": [
+        "……ミステリー？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "あ！\u3000ちがちが、\n枕詞を言ったら勝手に口が！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "何はともあれ、楽しみな予定が1つ増えた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "おお～！\u30001等賞！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "温泉旅行は逃しましたが、\r\nでもすっごく美味しそう～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "そだ、せっかくだし一緒に食べませんか？\n今日の夕飯とかにしちゃって！",
+      "ChoiceDataList": [
+        "君がいいのなら",
+        "貴方がいいのなら"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "もちろんですよ～。\nそだ、せっかくなんで付け合わせ作りますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ってことで……\nちょっとスーパー行ってもいいです？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうして、マチカネタンホイザは\n美味しい夕飯を用意してくれた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "『特上にんじんハンバーグ』と\r\n付け合わせのサラダ、コーンスープと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "そうめんです！",
+      "ChoiceDataList": [
+        "そうめん"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "結構ハンバーグが大きめ重めっぽいので、\n主食はつるっとしたものがいいかな～って！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "あ、ネギと大葉も刻んだんです。\n持ってきますねー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "何はともあれ、用意してくれた料理も\r\nとても美味しく、楽しい夕飯時を過ごせた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "2等賞～！！\n賞品は『にんじん山盛り』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "2等賞か～！\u3000惜し～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "でも、これはこれで嬉しいですね。\n全部ツヤツヤで美味しそう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "そだ、せっかくだし\nみんなにおすそ分けしちゃおっかな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "うちの大衆食堂、よくご近所さんが\nお野菜分けてくれてて、おすそ分けするの\nちょっと憧れだったんですよねぇ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "奥さん、夜分遅くにすみません～。\r\nうちの畑でにんじんがたくさん\n採れちゃって～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "まあ、嬉しい。わざわざすみません！\nちょっと待ってて、うちもじゃがいもが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "ってなにやらすんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その日、学生寮はいつもより\n少しだけ賑やかだったらしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "3等賞～！\n賞品は『にんじん1本』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "あちゃー、3等かー！\n残念残念。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "まぁでも、\n福引なんてこんなものですよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "せっかくだから\nこのにんじんで美味しいもの食べたいな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……うちの食堂のきんぴら美味しいん\nですよね。レシピなんだったっけなー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ちょっと電話してみます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "あ、もしもし？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、実家の食堂で振る舞われている\r\nというきんぴらごぼうを、作ってくれた\nのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "あちゃ～！\u3000残念！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "温泉旅行は無理でも、せめてにんじん1本\nくらいならって思ったんですけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ぬん、世知辛いですねぇー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後少しだけ、元気をなくして\r\nしまったマチカネタンホイザだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

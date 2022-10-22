@@ -1,0 +1,300 @@
+{
+  "Title": "Logic and technique.",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "出かけた帰りにショッピングモールへ寄ると、\nイベントで盛り上がる人々の声が聞こえた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "どなたか、この中から好きなカードを1枚――\nそこのポニーちゃん、お願いできるかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "あわ、わたしですかっ！？\u3000ひゃいぃ……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ふゥん、マジックショーね。",
+      "ChoiceDataList": [
+        "興味あるのか？",
+        "興味あるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "別に。ただ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ああいうカードマジックには、数学の\nロジックが使われてるのも少なくねェからな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "せっかくだし、少し見ていこうよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "返事はないが立ち止まってはくれたので、\n少し離れた場所でフジキセキのショーを\n見学することにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "やあ、見てくれてたなんて嬉しいな。\n楽しんでもらえたかな？",
+      "ChoiceDataList": [
+        "とても楽しかったよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "それはよかった♪\n知った顔が見えたものだから、\nつい張り切ってしまったよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "シャカールも、その様子なら\n及第点はくれそうな感じかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……悪くなかった。\nパケットの入れ替えも自然で、\n視線誘導に関しちゃプロ並みだったな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……ンだよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "いや？\u3000ずいぶん詳しいんだと思って。\n……ねえ、シャカール。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "君、私と一緒に\nショーに出てみる気はないかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "あァ！？\u3000なンでそうなる！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "実は最近、今のショーを更に進化させるには\nどうするべきか悩んでいて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "君のような、スマートで\n論理的なタイプが隣にいてくれたら、\n素敵なスパイスになると思うんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "断る。オレにメリットがねェ。",
+      "ChoiceDataList": [
+        "違う相手を誘ったほうが……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "レースに関係ないショーの出演など\nエアシャカールにはノイズでしかない。\nもっと適任がいるだろうと考えていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "だったら、新しいマジックの案出しだけでも\n手伝ってくれないかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ハ？\u3000そもそもオレは\n別にマジックに詳しいワケじゃ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "新しい視点をもらえるだけでもいいんだ。\nショーに新しい風を吹き込みたいんだ\n――頼むよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "あァクソッ。徐々に要求下げて\n妥協のライン探ンのやめろ、鬱陶しい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "わかった。\nそンなに言うなら今から考えてやる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "えっ『今から』……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "宣言通り、なんとエアシャカールはその場で\n即興のマジックを作り上げてしまった――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "――これで、3つあるカードの列の\n任意の場所にカードを移動することができる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "3列なら3進数に、4列なら4進数に。\n位置情報を数値に変換する簡単な仕掛けだが\n……まァ、数理的な部分は理解しなくていい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "手順があってりゃ失敗はねェからな。\n数学ってなこういう完全マジック――つまり\n手先の技術ナシのマジックに多用されてる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "正しい引数を渡せば正しい結果が返る。\nまともに組ンだプログラムと同じってワケだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "すごいな！\u3000手順は簡単なのに結果は鮮やか。\nどう演出しようか、ワクワクしてきたよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "これを今、君は即興で考えたって言うのかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "別に大したもンじゃねェだろ。\nこンなの理屈さえ知ってりゃ誰でもできる――",
+      "ChoiceDataList": [
+        "俺にも作れるってこと？",
+        "私にも作れるってこと？",
+        "それでも即興で作れるのはすごい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "別に大したもンじゃねェだろ。\nこンなの理屈さえ知ってりゃ誰でもできる――",
+      "ChoiceDataList": [
+        "俺にも作れるってこと？",
+        "私にも作れるってこと？",
+        "それでも即興で作れるのはすごい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "そうか、確かに自分で作れるようになれば\nショーの進化だって自由自在だね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "シャカール、よければ私たちの\nマジックの先生になってくれないかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "オレが先公って柄かよ……冗談じゃねェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "そうだね。それに、裏の理屈が難解でも\n見せる結果はシンプルでわかりやすかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "やっぱり、君は見せる側も向いてると思うな。\nショーに興味がわいたら声をかけて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "あほくさ……誰かとツルむなンてごめンだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "もう行く。言っとくが、\nこれ以上の手伝いはお断りだからな。",
+      "ChoiceDataList": [
+        "あ、待って一緒に――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "いい――1人にしろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "つれなくその場を後にしたエアシャカール。\n気難しくも素晴らしい能力を持つ彼女に、\n自分には何ができるだろうと考えるのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

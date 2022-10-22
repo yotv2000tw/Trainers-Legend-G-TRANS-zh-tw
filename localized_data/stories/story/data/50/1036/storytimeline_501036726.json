@@ -1,0 +1,65 @@
+{
+  "Title": "クレーンゲームに挑戦！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日、エアシャカールと出かけた先で――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "エアシャカールの視線の先には、\nウマ娘たちをモチーフにしたぬいぐるみが\n入った、クレーンゲームがあった。",
+      "ChoiceDataList": [
+        "もしかして、ほしいのか？",
+        "もしかして、ほしいの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "あァ？\u3000ンなわけねェだろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "クレーンゲームを考察したことがあってな。\nデジタルと力学を合わせた遊びだからよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "その経験からいくと、あのぬいぐるみは\n上手くやれば簡単に獲れるはずだ。",
+      "ChoiceDataList": [
+        "じゃあ、試してみる",
+        "じゃあ、試してみるね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "いいぜ、見ててやる。\nぬいぐるみの重心、それとクレーンの\n移動フレームを計算しながらプレイしろよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――このゲーム、負けられない！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
