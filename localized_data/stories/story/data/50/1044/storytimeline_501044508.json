@@ -1,0 +1,55 @@
+{
+  "Title": "レース疲れ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーニング開始前、スイープトウショウに\n今日のメニューを説明していたのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……やだ。\nダートで走ると、砂が靴の中に入るから\nやりたくない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "それから坂路トレーニングもやだ。\n疲れるんだもん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "気が乗らない様子のスイープトウショウ。\nであれば、興味を惹くためには……。",
+      "ChoiceDataList": [
+        "魔法のトレーニングを間に挟もう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "…………やだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "今日は動きたくない気分なの！\nここでテレビ観てる！\nもうここから動かないんだからっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "興味を持ちそうなことにすら食いつかない。\nレースの疲労が残っているのかもしれない。\nスケジュールを見直す必要がありそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

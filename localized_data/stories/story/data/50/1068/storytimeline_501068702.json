@@ -1,0 +1,310 @@
+{
+  "Title": "寄ってらっしゃい見てらっしゃい！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "帰り道。ナイスネイチャに呼びこまれ、\nキタサンブラックと商店街主催の\nフリーマーケットに来ていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "どーよ、商店街イチのパンのお味は？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "んぅ～～っ！\u3000美味しかったぁ！\n添えたあんずジャムもまた絶品で……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人A",
+      "Text": "だよね～、美味しいよね～。\n……美味しいはずなんだけど、なぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "食べてくれる人が来れば……ねぇ。",
+      "ChoiceDataList": [
+        "言われてみれば、客足が……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "確かに、フリマ全体が閑散としてるような……\nでも、何ででしょう？\nこの美味しさなら評判になりそうなのに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "近くで大きいイベントやってるらしくてさ、\nそっちに人が流れてんだよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人A",
+      "Text": "このフリーマーケットは、今度やる\n『商店街・大感謝祭』の宣伝も兼ねててね。\nでも、これじゃ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "まあまあ、腐らずやってきましょ！\nこうやって喜んでくれるお客もいるんだしさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "……～～あのっ！\nあたしに任せてもらえませんか！？",
+      "ChoiceDataList": [
+        "何か考えがあるのか？",
+        "何か考えがあるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "トレーナーさんも来てください！\nそれと、追加でパンとジャムも買って――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "よし！\u3000パンとジャムも広げた。\nあとは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "さあトレーナーさん！\nひたすら食べましょう！！",
+      "ChoiceDataList": [
+        "えっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "あんずジャムにイチゴジャム、\nキウイジャムにブルーベリージャム！\nなんでもつけ放題です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "どれからいきます？\n定番のイチゴジャムとか、どうですかね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう言うと、キタサンブラックは\nイチゴジャムを塗ったパンを手渡してきた。\n勧められるまま、食べてみると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "……どうですか！？",
+      "ChoiceDataList": [
+        "お、美味しい……！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "通行人",
+      "Text": "ほんとだ、美味しそう……\nなんかイベントで売ってるのかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "そこのフリマで買ったんですよ～！\n美味しいものも、掘り出しものもありますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "通行人",
+      "Text": "へー……そんなのやってたんだ。\nちょっと見ていく？",
+      "ChoiceDataList": [
+        "すごい、1組呼び込めた……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "よしっ、この調子で行きましょう！\nちょっと場所変えますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "っぷはぁ～！\u3000このキウイジャムのパン、\n疲れた体に染みますね～♪",
+      "ChoiceDataList": [
+        "酸っぱくて後味もいいな",
+        "酸っぱくて後味もいいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ランニング中の人",
+      "Text": "へー……なんか、\nお腹すいて来ちゃったね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "あ！\u3000よろしければ、お1つどうぞ。\nこれ、あっちのフリマで売ってたやつで……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ワイワイ……ガヤガヤ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "ちょちょっ、お客さん増えてるよ……！\nキタサン、あんたこの短時間でなにしたのさ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "えへへ！\u3000楽しそうな雰囲気って、\n気になって見に行きたくなるものですから！",
+      "ChoiceDataList": [
+        "というと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "用事があっても、楽しそうな声がしたら\nついつい見に行っちゃいませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "『何やってるのかな？』\n『ちょっと見てみようかな？』……って。\nその時点で、もうお祭りの参加者なんですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "あとは熱気が巻き込んでくれます！\nあたしたちは堂々と楽しんで、\nじゃんじゃん熱気を生み出せばいいんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "パワフル～……！\nでも、勉強になりますわ。",
+      "ChoiceDataList": [
+        "だから外ではしゃいだのか",
+        "だから外ではしゃいだんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "はい！\nでも、ここまで盛り上がったのは\n商店街のみなさんのおかげです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "みなさんの明るい接客や、商品にかける愛情。\nそれがあったから、ここまで盛り上がった。\n……あたしはそう思います！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "ふふっ。やれやれ、言ってくれるね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人A",
+      "Text": "そうそう！\n和気藹々と人情溢れる雰囲気が\n商店街のウリってね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人B",
+      "Text": "お客さんが来てくれれば、\nあとはこっちのものですよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "てなワケで……ありがとね。\n今度のお祭りも、どーにかなりそうだわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "なんの！\n美味しいパンとジャムのお礼です！",
+      "ChoiceDataList": [
+        "粋なお礼だな！",
+        "粋なお礼だね！",
+        "呼び込み、楽しかったしな",
+        "呼び込み、楽しかったしね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "なんの！\n美味しいパンとジャムのお礼です！",
+      "ChoiceDataList": [
+        "粋なお礼だな！",
+        "粋なお礼だね！",
+        "呼び込み、楽しかったしな",
+        "呼び込み、楽しかったしね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "！\u3000……粋、ですか？\nえっへへ、いやぁ、あたしはまだまだ～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "よっ！\u3000小粋な大将！\nもっと胸張っちゃいなさいな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "え～、そ、そうですか～？\nじゃあ、本気にしちゃいますよ？\u3000てへへ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "（父さん、あたし……\nちょっとは、父さんみたいにできたかな？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "その通りです！\nさっすがトレーナーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "情けは人のためならず。\n自分も楽しむため、ですもんね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

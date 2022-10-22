@@ -1,0 +1,320 @@
+{
+  "Title": "めんこい人形",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "トレーナー室の扉を開けると、\n――そこは異空間だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おどろおどろしい声",
+      "Text": "サビシイヨ……ドコ……？\nヒトリニシナイデ……。",
+      "ChoiceDataList": [
+        "だ、誰かいるのか！？",
+        "だ、誰かいるの！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おどろおどろしい声",
+      "Text": "……アナタハ……ワタシノミカタ……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "謎の声と共に、冷たく硬い何かが首に触れる。\nそのまま、徐々に力が加わり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "――さん、\nトレーナーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "床に寝っ転がってたンで、\nまンずたまげましたよ～！\n大丈夫です？\u3000具合でも悪いンですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "さっきのはいったい何だったのだろう？\nそう思い、辺りを見回すと\n机の上に見慣れない人形が置かれていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あンれぇ？\u3000この人形、カフェさんのだ！\nタキオンさんとカフェさんのお部屋へ遊びに\n行った時、見せてくれたやつ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ただ、もう少し髪の毛が短かった気も\nすンですけど……。",
+      "ChoiceDataList": [
+        "なにそれこわい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "まンず、カフェさんに知らせましょ。\nこの近くに落っこちてて、誰かが\n届けてくれたのかもしンないですし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "ありがとうございます。\n勝手に逃げ出したみたいで……。",
+      "ChoiceDataList": [
+        "逃げ出した！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "やっぱりカフェさんの人形でしたか～。\nよかった、持ち主が見つかって！",
+      "ChoiceDataList": [
+        "な、なんでそんなに普段通りなんだ……？",
+        "な、なんでそんなに普段通りなの……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "んー、田舎ではこういうの、\nしょっちゅうあったンで\n慣れてるっていいますか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "そもそも、こういう子たちも、あたしと\nあンま変わんないなって思うンで！\nほら、あたしたちも動くし、髪伸びますし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おどろおどろしい声",
+      "Text": "サビシイヨ……サビシイ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あれま、おしゃべりもできるンですね！\nけンど、カフェさんと会えたのに\n寂しいって……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……出会った時からずっと何かを恋しがって\nいるんです……。これ以上、ご迷惑を\nかけないうちに……連れて帰りますね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "マンハッタンカフェが連れて帰ると\n言ってくれて、内心ほっとしていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "待ってください、カフェさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あたしたちで、\nなンとかできねぇでしょうか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "この子の声、まンず悲しそうだったし、\nこのままさよならすンのはかわいそうです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "ですが……\n負担を、かけてしまいませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "大丈夫ですよぉ！\nねっ、トレーナーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "なにも大丈夫ではないが、2人とも\n期待の瞳でこちらを見つめてくる……。",
+      "ChoiceDataList": [
+        "あまりタフじゃないので成仏させたいかも",
+        "根性を出して共生の道を選ぶ……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "む、無理やりはダメですよっ？\n成仏させるなら、\nこの子も納得する方法でないと……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "納得……未練がなくなれば、\n在るべき場所に帰る子もいますけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ンなら、寂しさがなくなるように、\nあたしが見守っててあげますよ！\n元気ならありあまってますンで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ほら、よしよし。\nめンこいめンこいな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おどろおどろしい声",
+      "Text": "……アッタカイ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はい、トレーナーさんもカフェさんも、\nこの子なでてあげてくなンしぇ。",
+      "ChoiceDataList": [
+        "め……めんこいめんこい……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "めんこい……めんこい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "3人で人形をなでまわすこと数時間……\nあの不思議な声はぱったりと\n聞こえなくなった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ですね。言ったらわかってくれるかも\nしンねぇですし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "したら、あたしが説得してみます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "人形さん、どした？\nそンなに寂しかったンか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ンだども、急にモノ浮かせたり\n話しかけっと、まンずたまげて、\nみんな逃げちまうよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "お利口さんにしてれば、\nみんなも仲良くしてくれっから。な？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おどろおどろしい声",
+      "Text": "ホン……トウ……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ンだ！\nあんたは、こーンなにめンこいンだから。\nあたしもいっぱい遊んでやっから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "人形と目を合わせ、優しく笑うユキノビジン。\nその説得が通じるのだろうかと思ったが――\n不思議な声はぱったりと聞こえなくなった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "ユキノさんは……本当に不思議な方ですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "おかしなことがあっても……\n他の方が怖がる子たちがいても、\nいつも穏やかで、優しくて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "私とも……\n怖がらずに同室でいてくれて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "なに言ってンですか～！\nあたしは、今までもこれからも\nカフェさんとおんなじ部屋がいいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "迷惑かけるからって、カフェさんたちの\nお部屋に持ってってる人形とか雑貨とかも、\nこっちに持ってきちゃっていいンですよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "それに……学園に来たてで心細かった\nあたしに、あったけぇコーヒー出してくれた。\n……優しいのはカフェさんの方ですから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……ありがとう、ございます……。\n……帰ったらまた、コーヒー淹れますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ユキノビジンとマンハッタンカフェ、\n2人の絆に触れて、\nこちらの心も温かくなるのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

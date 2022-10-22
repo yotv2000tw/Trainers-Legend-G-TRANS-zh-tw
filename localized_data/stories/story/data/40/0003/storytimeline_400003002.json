@@ -1,0 +1,60 @@
+{
+  "Title": "説明≠命令",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "これからグランドライブのための\n告知ライブやトレーニングをする計画を\nミホノブルボンに打ち明けた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ミホノブルボン"
+      ]
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "オーダー、把握。\n命令を承りました。",
+      "ChoiceDataList": [
+        "いや、命令じゃなくて相談だよ",
+        "ううん、命令じゃなくて相談だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……相談？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ライトハローは『グランドライブは\n感謝を伝えるためのライブ』と言っていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "だからこそ特にミホノブルボンには\n命令としてではなく“自分の意志”や\n“気持ち”でステージに上がってほしかった。",
+      "ChoiceDataList": [
+        "まずは見学して、その後に決めてもいい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "いつかミホノブルボン自身が参加したいと\n望む日が来たら……その時は彼女にも、\nステージに参加してもらうことにしよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

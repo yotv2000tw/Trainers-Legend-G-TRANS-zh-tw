@@ -1,0 +1,525 @@
+{
+  "Title": "私は姫？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "言葉では『意見』と一言で言える内容でも、\r\nその中身自体には色んな要素が含まれる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――応援、賞賛、嫉妬、批判。\r\n全てが全て、心地よいものだけではない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "カワカミプリンセスが部屋に来ないうちに、\r\n新しく届いた“ファンレター”の\n中身を確認する。",
+      "ChoiceDataList": [
+        "……この意見は段ボールにしまっておこう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "先日『エリザベス女王杯』を走ったばかり\r\nということもあり、この日のトレーニングは\n軽めのものを組んでいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……ふう、はあ……。",
+      "ChoiceDataList": [
+        "まだ疲れは取れていないかな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "い、いえ、全然！\r\nどうぞ、腹を割ってトレーニングを！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "とはいえ彼女の体は硬く縮こまっている。\r\nこれまで見せてくれた\nのびのびとした走りではなく――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組プロデューサー",
+      "Text": "いたいた、トレーナーさん！\r\nカワカミプリンセスさん、お久しぶりです～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "貴方は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組プロデューサー",
+      "Text": "実はトレーナーさんには話していたんですが、\r\n今度カワカミプリンセスさんに、\nウチの番組で生出演していただきたくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……そうなんですの？",
+      "ChoiceDataList": [
+        "君が出演したいなら、だけど",
+        "貴方が出演したいなら、だけど"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組プロデューサー",
+      "Text": "ティアラ路線を終えた今、\r\n貴方の言葉を直接視聴者に伝えたいんです！\nぜひ、よろしくお願いします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……直接、私の言葉を。\r\n…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……私、出演しますわ！\r\nどうかお願いいたします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして今回の生中継会場に、\r\nカワカミプリンセスとやって来た。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組プロデューサー",
+      "Text": "……トレーナーさん、トレーナーさん！\r\nちょっとこちらへ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組プロデューサー",
+      "Text": "先日お話した通り、今回は慰労を兼ねて、\r\nティアラ路線お疲れ様でしたケーキも\n用意してますからっ、サプライズですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組プロデューサー",
+      "Text": "まず最初にプレゼントして、\r\n次に今後の抱負を語ってもらうという流れで！",
+      "ChoiceDataList": [
+        "きっと彼女も喜んでくれると思います"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組プロデューサー",
+      "Text": "ケーキもトレーナーさんに聞いて\r\n好みの味にしましたし……はは、楽しみです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、ついに生中継が始まった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タレント",
+      "Text": "さあ、今週も始まりました！\r\n『みんなでウマ娘レース！』\n今週は生放送でお送りしま～す♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タレント",
+      "Text": "そしてゲストはこの方、今ノリにノる\r\n旬の彼女、カワカミプリンセスさんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……よろしく、お願いしますわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タレント",
+      "Text": "あら、緊張していますか？\r\nふふっ、ではここでとっておき！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タレント",
+      "Text": "番組からカワカミプリンセスさんに、\r\nサプライズプレゼントでーす！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "サプライズプレゼント……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "以前、トレーナーさんがお持ちになってた\r\n……サプライズプレゼント。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タレント",
+      "Text": "ふふっ、素敵なケーキですよねっ！\r\nカワカミプリンセスさんがお好きな\nフルーツも全部のせですよ～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……なさい……ごめんなさい……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "私、全然優雅じゃなくて、姫らしくなくて。\r\n『エリザベス女王杯』のレースにも\n相応しくない品位のなさで……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "今までの私の無礼をお許しください……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タレント",
+      "Text": "へ……カワカミプリンセスさん……？",
+      "ChoiceDataList": [
+        "ごめんなさい、少しいいですか！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "トレーナーさん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "肩を震わせて涙を浮かべる\r\nカワカミプリンセスを控室へと連れて行く。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "申し訳ございません……。",
+      "ChoiceDataList": [
+        "……どうしたんだ？",
+        "……どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……私、見たんです。\r\nたくさんのお手紙を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "『私の応援していたウマ娘の一世一代の\r\nオークスを台無しにして、傷つけられた』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "『ティアラ路線の最後を飾る秋華賞。\r\n全部、“私が私が”のコメントで、\n競い合ったウマ娘を称える言葉もなし』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "『全部全部、自分勝手。最低のお姫様』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "『歴史と品格あるエリザベス女王杯の\r\nレース自体に相応しくなかったお姫様――』",
+      "ChoiceDataList": [
+        "……そんなことはないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "嘘を仰らないでください……。\r\nだって、私、私――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗毛のウマ娘",
+      "Text": "……ね、ここオークスの出走者会見なんだよ？\r\nもっとちゃんとしたほうがいいんじゃない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "だって私こそがプリンセスっ、\r\n敵は全員はっ倒してみせますとも！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "私、プリンセスとしてっ、\r\n『エリザベス女王杯』で\n1着になりますわ～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "姫とは、勇敢でおてんばで、\r\n相手をきちんと思いやれる\n――品格のある存在なんですよ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……プリンセスとは心から清く正しく、\r\n相手を重んじる、強い人。\nプリファイでそう学んできたのに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "私、私だけが主役って言ってた。\r\nみんなをライバルではなくて、\n倒すべき敵だって言ってた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "おごって、他の娘をないがしろにしてた。\r\nあまりに自分勝手だった……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "無自覚に自分勝手に人を傷つけてた……\r\n全部、全部私の責任で……っ！",
+      "ChoiceDataList": [
+        "……君のせいじゃない",
+        "……貴方のせいじゃない"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "そんなわけはございません。\r\nだって、わたっ、私は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "全然姫らしくないと言われて当然です……！\r\n私は……私が恥ずかしい……！",
+      "ChoiceDataList": [
+        "そんな……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今にも押しつぶされそうな顔で、\r\n大きな瞳に涙をいっぱいためた彼女。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女は自分だけを責め続ける。\r\nその想いを背負うべきは本当に彼女だけか？",
+      "ChoiceDataList": [
+        "違う、指導できなかった俺の責任だ",
+        "違う、指導できなかった私の責任だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――トレーナーなら、指導者なら。\r\nちゃんと正しく導くべきだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『……この意見は段ボールにしまっておこう』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "秘密にして、目を背けさせるのではなく。\r\n意見をかみ砕き、彼女に必要なことは\nきちんと教えておくべきだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女が過去を振り返った時に、\r\n自分を恥じないような素敵なウマ娘へと\n導くのが、トレーナーの役目だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "でも行動を起こしていたのは、\r\n私自身で……。",
+      "ChoiceDataList": [
+        "そうだとしても、俺も反省したいんだ",
+        "そうだとしても、私も反省したい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "…………。\r\n……で、でも。",
+      "ChoiceDataList": [
+        "そんな想いを背負わせてごめん"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……トレーナーさん……じゃ、\r\nな、なくって……私の……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "わたくし、の……っ。",
+      "ChoiceDataList": [
+        "……お互いに成長しよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "…………ぐすっ、\r\nう、うぅ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "うわぁぁぁぁあああ～～んっ。\r\nごめんなさい～～～っ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "大声で泣く彼女。その涙がやんだ時、\r\n2人でこれからのことを誓い合ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組プロデューサー",
+      "Text": "本当に大丈夫ですか……？\r\nまだ確かに生放送は終わっていませんが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "先ほどは誠に申し訳ございませんでした。\r\nその意味を兼ねて、\nラストに一言だけ出演させてください。",
+      "ChoiceDataList": [
+        "俺も同席させてください",
+        "私も同席させてください"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組プロデューサー",
+      "Text": "……わかりました。\r\nでも無理はしないでくださいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……はい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タレント",
+      "Text": "では最後に、皆さんへ。\r\nカワカミプリンセスさんから\n一言ご挨拶があるそうです～。",
+      "ChoiceDataList": [
+        "先程は申し訳ございませんでした"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "先ほどは突然取り乱してしまい、\r\n驚かせてしまい、申し訳ございません。\nスタッフさんにも大変心配されてしまって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "でもこれからはプリンセスとして、\r\n恥じない行動をとります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……だからどうか見守っていてくださいませ。",
+      "ChoiceDataList": [
+        "よろしくお願いします"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "カワカミプリンセスは画面の先の\r\n人々に向かって真摯に自分の決意を語った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……番組には70件もクレームが来たらしい。\r\nこちらから番組プロデューサーに\n謝りの連絡も入れたのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『今回の件は気にしないでほしい。\r\n自分たちはカワカミプリンセスさんの\nファンでい続ける』と告げられた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――彼女の当面の目標は『金鯱賞』。\r\nその時には彼女が胸を張って\n誇れる姫になれるよう支えよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "金鯱賞"
+      ]
+    }
+  ]
+}

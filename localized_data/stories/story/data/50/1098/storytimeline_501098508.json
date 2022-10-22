@@ -1,0 +1,44 @@
+{
+  "Title": "レース疲れ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ふぅ～……。",
+      "ChoiceDataList": [
+        "ため息なんて珍しいな",
+        "ため息なんて珍しいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "あ、いけないいけない！\n元気でハッピーじゃなきゃね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "……とはいえ、体は嘘をつけないなぁ。\nやっぱりいつもより疲れがたまってるかも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "体調が整ってないと、運気も下がっちゃう！\nまずはしっかり休んで英気を養わなくちゃね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやらコパノリッキーは、疲れが\nたまっているようだ。今後の出走予定を\n見直した方がいいかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "Title": "ハッピー☆ラッキー☆カムカム",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "コパノリッキーと共に\n動物園を訪れたところ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聞き覚えのある声",
+      "Text": "ぎえぇぇぇっ！？\n待ってください、お猿さーん！！\nそのぬいぐるみは私のですよぉ～～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "んんっ？\u3000この声、フクキタルさん！？\nちょっと行ってみよう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "わ、私の『開運ペンギン』が\nお猿さんのものに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "なんてどん底アンハッピーっっ！！\n運勢だってきっと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "や、やっぱり、大凶～～～～～！！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "おーいフクキタルさーん！\n大丈夫～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "ああっ！！\nアナタはリッキー大先生っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "このフクをっ！\u3000不幸なフクをなにとぞっ！\n先生の風水でお助けくださいませぇぇぇ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ふむふむ――それで、\nお土産屋さんのくじで当てたぬいぐるみを\nお猿さんに持っていかれちゃったと。",
+      "ChoiceDataList": [
+        "とんだ災難だったな",
+        "とんだ災難だったね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "はい……。くじは売り切れたので\nぬいぐるみを買い直すこともできず、\n気分も運気もどん底で……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "オッケー、事情はわかった！\nそのご相談、コパッと解決しちゃうよっ☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "フクキタルさんの本命卦は『乾』だったよね！\n今日は土の氣と相性が悪いみたい。\n方位は北東、黄・茶色、山・土・石とか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "確かにここは……動物園の北東ですっ！\nそれに、山・土・石がそろった猿山、\n茶色の猿……ひぃぃぃっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "そう怖がらないで！\n木の氣で土の氣を弱めれば悪い流れも整うよ！\nこの動物園なら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "じゃじゃーん！\u3000ここが、\nうさぎのふれあいコーナーでーす☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "東の方角に緑の木々、\nそして木の氣を象徴するうさぎ――\nたっぷり木の氣を蓄えられるよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "はああああっ、まさに天国……！！\nドトウさんふうに言うならば、\n『救いはここにあった』……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ふわ～♪\n緑ともふもふの癒し空間、最高だったね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "あ、あのぉ～……。\nこれで木の氣をしっかり蓄えられましたよね？\n運気もきっと爆上がりしますよね？？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "んー……もちろんハッピーには近づくよ？\nけど、風水はあくまでいい氣を引き寄せ、\n環境を整えるための手段だからね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ハッピーは自分の力でつかむもの！\n幸せになるためには、自分自身が\n前向きな気持ちで進むことが大事なのっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "な、なるほどぉ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "フクキタルさんならそれができる！\nいつも真剣に幸福を願ってるんだもん！\n私も協力するから、一緒にハッピーつかもう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "むむむ……な、なんかリッキーさんに\nそう言ってもらえると、\n上手くいくような気がしてきました……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "ぬいぐるみは……さすがに\n諦めないといけないでしょうけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ううん、まだやれることは残ってるよ！\nねっ、トレーナー！",
+      "ChoiceDataList": [
+        "スタッフに事情を説明してみようよ",
+        "ここ以外にもお土産屋さんがあるかも"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "そうだね！\u3000ぬいぐるみのこと、\n相談するだけしてみようよ！\nもしかしたらいい流れになるかもっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スタッフ",
+      "Text": "――本当にごめんね、お嬢ちゃん！\n同じぬいぐるみ、\n倉庫にあったから持ってきたよ。はい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "あ、ありがとうございますっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "スタッフさんに相談するなんて考え、\nすっかり頭から抜け落ちていました！\nさすがはリッキー大先生がた！",
+      "ChoiceDataList": [
+        "お役に立ててなによりだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "それで、フクキタルさんは\nこれからどうするの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "そうですね……\nまた不幸なことがあったら怖いですし、\nなにも起こらないうちに帰ろうかと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ええっ！\u3000もったいないよ～！\nそれに、せっかく会えたんだし、\nもっと一緒に遊ぼう！？\u3000絶対楽しいよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "リッキーさん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "そうですよね……前向きに、\nハッピーを掴むのは自分自身――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "はい……ぜひ、ご一緒したいです……！\n動物園の中、まだまだ全然回れてないですし、\n来たからには思いっきり楽しみたいです……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "その意気だよ、フクキタルさんっ！\nよーし、改めてレッツゴー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後3人で動物園を回り、\nハッピーな時間を\n過ごすことができたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "それだっ！\u3000お土産屋さんの場所も\n園内マップに載ってるはずだから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ふむふむ……あっ、もう1カ所あるよ！\n行ってみようっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "あった……！\nまだいっぱい賞品が残ってますっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "あとは引くだけ……風水の加護はありますが、\n元々の運気は大凶――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "大丈夫だよ！\u3000風水も私たちもついてる！\n自分を信じて、\n前向きに動けばハッピーはつかめるよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "だ、大先生～！！\nそ、そうですね……前向きに――\nマチカネフクキタル、行きますっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "も、もう1回っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "まだまだ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "今度こそ――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "や、やったー！\u3000『開運ペンギン』！\n手に入れましたっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネフクキタル",
+      "Text": "幸福を掴むには\n自身の前向きな気持ちが大事――\nリッキーさんの助言のおかげですっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "私と風水は道を示しただけだよ！\nハッピーを呼び込んだのは、\nフクキタルさん自身っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "コパノリッキーの言葉に、\nマチカネフクキタルは誇らしそうな\n表情を浮かべていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

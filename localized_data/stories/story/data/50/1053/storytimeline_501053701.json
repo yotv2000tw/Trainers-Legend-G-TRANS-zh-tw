@@ -1,0 +1,49 @@
+{
+  "Title": "休息はバッチリ！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "トレーナーさん、おはようございますッ！\nしっかり休んだおかげで、元気いっぱいっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "実は、休みを利用して\n海まで走って来たんスよ！",
+      "ChoiceDataList": [
+        "海まで！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "はい！\nでっかい海に向かって走る爽快感といったら、\nたまんないっスから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "おまけに、夕陽に向かって夢を叫んだりして、\nサイコーの休みだったっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "さあ、今日からまたトレーニングで\n熱くなるっスよーッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやらバンブーメモリーは\n休日を満喫できたようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

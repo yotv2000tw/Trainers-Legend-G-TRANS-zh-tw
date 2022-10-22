@@ -1,0 +1,234 @@
+{
+  "Title": "いただきます！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ヒシアケボノが親しくしている漁業組合の方に\r\n許可をもらい、やってきたのは――あの、無人島だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うーん、気持ちいい！\r\n絶好の昆布とり日和だね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "それにしても……トレーナーさん、大荷物！\r\nなにをそんなに持ってきたの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "大量のお水に、火打金に……\r\nあっ、食べられる野草図鑑もある！",
+      "ChoiceDataList": [
+        "前回、島に取り残されたから……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あははっ。そうだったねー。\r\nトレーナーさん、ここに倒れてたんだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あの時は、びっくりしたな～。\r\n目を開けなかったら、どうしようかと思ったよ。",
+      "ChoiceDataList": [
+        "あの時は君が女神に見えたよ",
+        "あの時は貴方が女神に見えたよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あははっ、大袈裟だな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "でも、女神さまもあたしみたいに大きかったのかな？\r\n知ってる子がいたら、今度、聞いてみよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "とりあえずその荷物は置いて……始めよっか！\r\nおいしいおいしい、昆布とり～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "魚介もとっていいって！\r\nトレーナーさんは、鳥に取られないよう見張っててね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "昆布と魚介をとりに行ったヒシアケボノを見送って、\r\n日陰で荷物番をすること2時間――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさーん！\u3000お待たせー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "貝も魚もおっきいのがとれたよ～！\r\nこれ使って、今からお昼ご飯作るからね～っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "今日は土鍋を持ってきたんだ～。\r\nきっとおいしくなるよ～！",
+      "ChoiceDataList": [
+        "手伝うよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あっ、トレーナーさんは、ゆっくり休んでて！\r\n疲れたでしょ？\u3000見張りって気を使うもんね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "少しだけ待ってて～。\r\n食べたら、元気いっぱいになれるから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ヒシアケボノは手際よく準備を始めている。\r\nここで手伝えることはなさそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "とは言え、ボーッとしているのも申し訳ない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "野草の図鑑もあることだし、\r\n何か食材を探してみることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……しばらく探してみたが、それらしいものは見つからない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "キノコ類は見つけたが、図鑑があっても素人目では危険だ。\r\n残念だが、ここは諦めた方がいいだろう。",
+      "ChoiceDataList": [
+        "……戻ろうかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさーん！\u3000トレーナーさーん！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "発見！\u3000よかった～。\r\nどうしたの？\u3000迷子になっちゃった？",
+      "ChoiceDataList": [
+        "いや、食材を探しに……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "え？\u3000あっ、もしかして、すっごくお腹すいてる？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "大丈夫だよ！\u3000料理はお鍋だけじゃないからねっ。\r\n串もあるし、焼き物も作るよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "すぐに用意するから、\r\nもうちょっとだけ待っててね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "力士の食事かと思うほどの量が、目の前に並ぶ。\r\n魚や野菜の串焼き……更には鍋の締めに米まで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どれも味は最高で、これだけの量だと言うのに\r\n手はまったく止まらず――すべて平らげてしまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "満足してくれた？",
+      "ChoiceDataList": [
+        "それはもう……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "おいしく食べてくれて、嬉しいな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさん、いつもニコニコして食べてくれるから、\r\nあたしもすっごく幸せなんだ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "やっぱりトレーナーさんに担当になってもらって、よかった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "お腹がすいた時は、いつでも言ってね～。\r\nまたたっくさん作るから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "満足そうなヒシアケボノの笑顔。彼女は料理を提供するだけで\r\n嬉しそうだが、やはり何かお返しはしたい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "機会を作って、今度はこちらからご馳走しようと決めたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

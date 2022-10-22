@@ -1,0 +1,552 @@
+{
+  "Title": "ファン感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今日は春のファン大感謝祭！\n学園にファンを招き入れて行われる大規模な\nイベントなのだが、バンブーメモリーは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "風紀委員のウマ娘",
+      "Text": "――報告！\n屋台通りのトラブル件数は依然ゼロのまま！\n各屋台からの共有事項なし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "うん、順調な滑り出しっスね！！\n報告お疲れさまっス！\n引き続きよろしくお願いするっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "こちらバンブーメモリー！\n屋台通り、異常なしッ！\n引き続き巡回しますッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――バンブーメモリーは風紀委員として、\n生徒会指揮下で治安維持の見回り業務を\n行っており、自分もそれを手伝っていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "いや～、にしても大盛況っスね！\n嬉しい限りっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリのファンA",
+      "Text": "――オグリキャップが出るやつ、\nまだギリギリ見られそうだな。急ぐか～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリのファンB",
+      "Text": "――ママ～、あそこで売ってる\nオグリちゃんの人形買って～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリのファンC",
+      "Text": "――とにかくオグリだ！\nオグリをこの目で見ないことには、\n来た意味がない！\u3000うおおおおお！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "ハハっ、すごいっスねぇ！\u3000見てのとおり\n今年はオグリ先輩目当ての方が多くて、\n例年よりにぎわっているらしいっスよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "せっかくたくさんの人が来てくれているし、\n今年も安全なイベントにしないとっスね！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――ん？\nあれって……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "…………トレーナーさんッ！\nしばらくここの見守り、任せていいっスか！",
+      "ChoiceDataList": [
+        "いいけど、どうかしたのか？",
+        "いいけど、どうかしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "野暮用っス！\n終わったら戻るっスから！\nもしあれだったら休憩しててくださいっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "…………はぁ。\n私、なにやってるんだろう……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――チヨノオーーーーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "やっぱりチヨノオーだ！\nこんなところで何してたんスか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ば、バンブーさん！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "確か今日、チヨノオーはにんじん食い競走に\n出る予定っスよね？\nもうすぐ集合時間っスよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "せっかく復帰も決まったんですし、\nファンのみんなに元気なところ見せないと！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "あ…………\nえっと……その――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……何かあったんスか？\nさっき見かけた時も、今も、\nなんか元気ない気がするっスけど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "…………私って、出る意味あるんでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "えっ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "体は復帰できる状態になったけど……\nみなさんがシニア級で成長されているなかで、\n私は、なにも変わっていなくて……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "それに世間はもう……\n去年の『日本ダービー』のことを……\n覚えてなんかいなくて……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "みんな……オグリさんのことを見ている。\nひと際まばゆい輝きで……\n時の止まった私なんか、消えちゃっていて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……それだけじゃないんです。\n私、心のどこかで、気づいちゃったんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "休養している間に……\n私の成長できるピークは、\nとっくに終わっちゃったんだって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "私はもう……ずっとこのまま。\nあとは下がっていくだけなんだって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "これ以上強くなれなくて……\n憧れを……追いかけることもできなくて……\nそのうえ、忘れられそうになっていて……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "そんな……枯れちゃった私が……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "人前に出る意味って……ありますか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――――あるに決まってるじゃないっスか！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "っ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "アタシはチヨノオーの復帰をずっと\n楽しみにしていたっス！\u3000もう一度、\nチヨノオーが走るのを見たいっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "それだけチヨノオーの走りが熱かったから！\nチヨノオーの“夢”が輝いていたからッ！！\nずっとずっと！\u3000待っていたんス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "アタシですらこんなに求めているなら……！\nチヨノオーが大好きなファンのみなさんは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "もっとずっと！\nチヨノオーの復帰をッ！\n待っているに決まってるじゃないスかッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "だから自分の復帰が求められていないとか！\n自分の限界が来てしまったとか！\nそんなの決めつけるには早過ぎっスよ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "アタシは、チヨノオーがもう一度憧れを、\n“夢”を追いかける姿を信じるっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "そして、チヨノオーのファンが今も\nチヨノオーが走ることを待ち望んでいるって、\nアタシは信じてるっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――集合時間が近いっス。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "チヨノオーが走る意味が本当にないのか、\nアタシの言ったことが間違っているのか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……今日だけ、確かめてみるのはどうっスか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イベント実況",
+      "Text": "――注目のにんじん食い競走、\n間もなくの開始となります！\n今年はどんな戦いになるのでしょうか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チヨノオーのファンA",
+      "Text": "いよいよサクラチヨノオーが見られるぞ！\n久々で楽しみだな……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チヨノオーのファンB",
+      "Text": "チヨノオーちゃんの元気な姿、\n早くみたいよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "（ほら、やっぱりそうだ――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イベント実況",
+      "Text": "――それでは選手の入場です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チヨノオーのファンA",
+      "Text": "あっ、チヨノオーだ！！\n……って、アレ？\nなんかちょっと、元気ない……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チヨノオーのファンB",
+      "Text": "緊張しているのかな？\nどうしたんだろう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "チヨノオー……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "フレーーッ！！\u3000フレーーッ！！\nトォー！\u3000レェー！\u3000セェー！\u3000ンーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客",
+      "Text": "えっ！？\u3000な、何！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "どうもッ！\u3000さすらいのひとり応援団ですっ！\nみなさんもぜひ一緒に、\n応援してくださいっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "フレーーッ！！\u3000フレーーッ！！\nサクラ！\u3000チヨノ！\u3000オーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "こんな感じで！！\u3000応援したいウマ娘の\n名前をぜひ叫んであげてくださいっス！！\nさぁ、アタシに続いてくださいッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "フレーーッ！！\u3000フレーーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チヨノオーのファンA",
+      "Text": "よ、よし……！\nじゃあ俺も……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チヨノオーのファン達",
+      "Text": "フレーーッ！！\u3000フレーーッ！！\nサクラ！\u3000チヨノ！\u3000オーッ！！\nがんばれがんばれチヨノオーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "みなさん……\nバンブーさん……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "私……焦り過ぎてたのかな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "…………私、また頑張ってみます。\nもう一度、みなさんの前で咲けるように――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "もう一度、\n“夢”を追いかけられるように……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "へへっ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "さてそれじゃあ、もう少し応援してから\nトレーナーさんの所に戻るとするっスかね！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "フレーーッ！！\u3000フレーーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――トレーナーさんッ！\nただいま戻ったっス！！\n長い時間すみませんでしたッ！！",
+      "ChoiceDataList": [
+        "……なんだか声、ちょっと枯れた？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "へへっ、実はですね――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、バンブーメモリーの声が少し枯れた\n理由を知って、どこか誇らしい気持ちに\nなるのであった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "へへっ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "さてそれじゃあ、もう少し応援してから\nトレーナーさんの所に戻るとするっスかね！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "フレーーッ！！\u3000フレーーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーのファンA",
+      "Text": "えっ！？\u3000バンブーメモリーがいる！\nしかもなんか応援してる！？\nこれは……交ざらなきゃ損だろ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーのファンB",
+      "Text": "お、推しと一緒に大声で応援ができるの！？\nこれは未知の体験ッ……！\n燃えてきたァッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーのファン達",
+      "Text": "フレーッ！！\u3000フレーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "おおっ！？\n応援の声が一段と熱くなった！？\nこれは……負けてられないっスねぇ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "フレーーーーッ！！！！\nフレーーーーッ！！！！\nトォー！\u3000レェー！\u3000セェー！\u3000ンーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――トレーナーさんッ！\nただいま戻ったっス！！\n長い時間すみませんでしたッ！！",
+      "ChoiceDataList": [
+        "……なんだか声、ちょっと枯れた？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "へへっ、実はですね――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、バンブーメモリーの声が少し枯れた\n理由を知って、どこか誇らしい気持ちに\nなるのであった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

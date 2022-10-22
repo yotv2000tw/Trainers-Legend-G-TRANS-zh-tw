@@ -1,0 +1,441 @@
+{
+  "Title": "ファン感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――ファン感謝祭。トレセン学園内に\r\nファンを招き入れて行われるイベント。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トレセン学園"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "普段はなかなか見られない、\nウマ娘たちの球技大会なども開催される。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "球技かー。イイね！\u3000ね、トレーナー。\nメジャーな球技っていえば、\nやっぱアレだよね！",
+      "ChoiceDataList": [
+        "サッカー？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ううん、ゴルフ！\u3000サッカーもいいけど\r\nやっぱゴルフっしょ！\u3000ってワケでー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "今日は私が主役！\u3000パーマーチャージ\r\nガンガンかましてくぞー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして芝コースを改装しての\nゴルフ大会が始まった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ふふーん♪\u3000やったことないけど、\r\n格好だけは誰よりもゴルファーなの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "さーて、つぎは第2打……。6番アイアン？\nううん、ここはやっぱり1番ウッドで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "え、1番？\nティーショットでもないのに？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "だって1番以外だと、\nなんか自分に負けたような気がして！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "いくぞいくぞ～。ピンそばに\r\nピッタリ寄せるぞ～。せーの……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "えい、えい、むん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "おお、やってるやってる！\r\nよぉし、私も！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして競技は進み――メジロパーマーは\n見事、マッチプレーの決勝まで勝ち進んだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "さてさて決勝のお相手はと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "よろしくお願いします、パーマーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ミホノブルボンかー。私と同じ逃げウマ娘。\r\n脚質は同じだけど……。",
+      "ChoiceDataList": [
+        "タイプは正反対だな……",
+        "タイプは正反対だね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロパーマーは\nフィーリングで逃げるタイプだが、\nミホノブルボンは計算して逃げるタイプ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "いわば感情派vs頭脳派のゴルフ勝負。\nはたして結果はどう出るか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "――計測。\r\n風速は――北北西から3.8m/s。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "スライス軌道で射出すれば、\nバンカーの脇0.52mに着地すると予測。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "フェイズ――発射へ移行。\r\n2、1、フッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ええっ、こんなショット打てる\nウマ娘がいたの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "トレーナー、これは強敵かも！",
+      "ChoiceDataList": [
+        "頑張れ、パーマー！",
+        "頑張って、パーマー！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（今度は私の番……。コースよし、集中よし、\r\nあとは――勝利にかけるバイブスだけ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（みんなが私の勝利を祈ってくれるなら――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（……あ、あれ？\u3000あんまり視線を感じない。\r\nもしかして私のギャラリーって少なめ？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（ウマ娘ゴルフって、あんまり\r\n人気ないのかな。ええい、ままよ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "やり、ら、ふぃー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うわっ、ダフった！\u3000やっちゃった～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャラリーたち",
+      "Text": "あああああ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロパーマーはうまく風を\n掴むことができず、そして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イベント実況",
+      "Text": "優勝は――ミホノブルボンさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（パチパチパチ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ふ～、やられちゃった～。\r\nおめでとう、ブルボン。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "すごいね。レースでもあんな感じで、\r\n正確に走ってるんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "はい。白状しますと、\r\n今日のゴルフフォームは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "パーマーさん、あなたの動きを\r\nトレースさせてもらいました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "え、私の……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "はい。とても合理的でしたので。\r\n実は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "レースも少し参考にさせてもらっています。\n特に最終直線における根性は素晴らしいので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "――要望。これからも理想的な走り方の\r\n例示をよろしくお願いします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "そっか～。他のウマ娘の走りも\nそこまで研究してるんだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "今日は負けて当たり前かな。\r\nこっちもいい勉強させてもらったかも！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ブルボン！\u3000また勝負しよ、\r\nレースでもゴルフでも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "――了承。ぜひよろしくお願いします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "敗れたものの、タイプの違う逃げウマ娘との\r\n競技は、とてもいい経験になったようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客A",
+      "Text": "パーマー……！\r\nがんばって、パーマー……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客B",
+      "Text": "俺たちがついてるぞ。\r\n最後まで集中を……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ふと周囲を見ると、多くのファンが\nメジロパーマーの健闘を祈っていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "手を合わせて祈る大軍団に囲まれて、\r\nメジロパーマーは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いっくぞー。\r\nやり、ら、ふぃー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャラリーたち",
+      "Text": "おおおおおおおっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "最高のショットは青空に吸い込まれるように\r\n伸びていき、そして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イベント実況",
+      "Text": "優勝は――メジロパーマーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（パチパチパチ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "やったね、トレーナー！\r\nなんかすっごく心強かったっていうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "てか私のギャラリー、やけに多くなかった？",
+      "ChoiceDataList": [
+        "そうだな、あの人たちは……",
+        "そうだね、あの人たちは……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "優勝したメジロパーマーの周りに、\n同じ缶バッジを身につけた\nファンたちが集まってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客A",
+      "Text": "おめでとう、メジロパーマー！\r\n私たちはパーマーの私設応援団だよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客B",
+      "Text": "うん『パーマーズ・アーミー』っていうんだ。\r\nみんな、メジロパーマーの走りが大好きな\nメンバーさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "パーマーズ・アーミー……！\nそっか、そんなのまで\n結成してもらえるようになったんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "トレーナー、ファンってありがたいね！\r\nしかも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "メジロ・アーミーじゃなくて、\r\nパーマーズ・アーミーなんだね！",
+      "ChoiceDataList": [
+        "ああ、君だけの応援団だ！",
+        "うん、貴方だけの応援団だね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自由を求めて走り続けた結果、いつの間にか\r\n草の根のファンも、こんなに増えたようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "みんな、ありがと！\nゴルフだけじゃなくレースでも\nもっともっと楽しませられるように――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "『天皇賞（春）』はホールインワン\r\n狙っていくよ！\u3000よろー、うぇいうぇぇい☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ワアアアアアアアアアアアッ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "歓声に包まれるメジロパーマー。\nファンとの間に、確かな絆を感じることの\nできたイベントだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

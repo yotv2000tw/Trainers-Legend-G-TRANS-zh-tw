@@ -1,0 +1,276 @@
+{
+  "Title": "山育ちはたくましい",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "休日。リフレッシュに登山に来てみたところ、\n吊り橋のほうから聞き慣れた声が……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "むむ、あれは……！\u3000タキオンさんっ、\n向こう岸に、例の山菜っぽいのが見えますっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "おおっ、本当かい？\u3000でかしたぞユキノ君！\nさっそく採取するとしよう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "じゃじゃっ！？\u3000トレーナーさんでねぇか。\nこったな山ン中で会うとは……奇遇ですねぇ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ブチブチブチっ！\u3000ガシャーーーーンっ！）",
+      "ChoiceDataList": [
+        "つ、吊り橋が……っ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "……おやおや、これは。\n帰り道がなくなってしまったね？",
+      "ChoiceDataList": [
+        "ええっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "2人は山菜採りに来たらしい……。\nアグネスタキオンが特殊な成分を含む山菜を\n求め、ユキノビジンに協力を仰いだそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "……スマホも圏外のようだね。\n帰れないと思うと急にお腹が空いてきたな。\n誰かお菓子とか持ってきてないのかい？",
+      "ChoiceDataList": [
+        "どうしよう、まさかこのまま遭難……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "2人とも、こういう時は慌てて騒ぐと\n体力がムダになっちまいます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "お菓子はねぇですけど、\nまずは腹ごしらえしましょう。\nここは、あたしにまかせてくなンしぇ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "――ヤマメ、捕まえましたっ！\nいや～、奥に川があってよかったです～！\nささっ、竹に入れて鍋にしますよっ！",
+      "ChoiceDataList": [
+        "な、何か手伝うことは……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ありがとがんすっ！\nそれじゃあ、枯れ木を集めてきてください！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "タキオンさんは、山菜洗ってくれますか？\n魚さばいたらきのこも入れて鍋にしますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "うーん……山菜って苦いんだろう……？\nやれやれ、まるでやる気がわかないな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "大丈夫です、あく抜きしますから。\nほら、ちゃっちゃと洗えばすぐですよ！",
+      "ChoiceDataList": [
+        "頼もしいな",
+        "頼もしいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "えへへ、山育ちですからね～。\nこういうのは慣れてンですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "実家さいた頃、おじいちゃんと\nおばあちゃんにいろいろ教わったンです――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジンの祖母",
+      "Text": "ユキちゃんや～、見ろ、グミの実なってるだ。\n山で迷子さなったら、これ食ぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジンの祖父",
+      "Text": "じゃじゃ、イノシシの足跡あンなぁ。\n見ればどっちさ行ったかわかンだ。\nおめも覚えどけよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "わあ～っ！\u30002人はほに物知りだなはん♪\nなあなあ、こっちの草は食えンのか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "――ですから、山ンことは詳しいンですっ！\nこういう時はじゃんじゃん頼ってください！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "って……\nン……？\u3000何の音だ……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "鹿か？\u3000イノシシ……？\u3000いや。\nもしかすっと、……熊かもしンねぇ。",
+      "ChoiceDataList": [
+        "えっ……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ふぅン……ウマ娘の脚なら\n逃げ切れないこともない、が……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……2人とも、ゆっくりあたしの後ろに……。\n急に動いちゃダメだ、少しずつ離れて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……いざという時は、あたしが鼻蹴って\n足止めするンで、タキオンさんは\nトレーナーさん担いで走ってください。",
+      "ChoiceDataList": [
+        "ユキノ……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "…………っ！\u3000来る……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "登山者A",
+      "Text": "おお～っ！\u3000いい匂いがすると思ったら！\nこっちの『超上級者向け登山道』にいるとは、\nあなたがた、なかなかの“通”ですね～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "どでンしたです～～～っ！\nあたしってば『熊かも』なンて……！",
+      "ChoiceDataList": [
+        "助かったな……！",
+        "助かったね……！",
+        "いや、守ってくれてありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "どでンしたです～～～っ！\nあたしってば『熊かも』なンて……！",
+      "ChoiceDataList": [
+        "助かったな……！",
+        "助かったね……！",
+        "いや、守ってくれてありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "うううぅぅぅ……！\u3000ほあぁぁ～～っ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ユキノ君？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ほ、ほっとしたら腰抜けただぁぁ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "冷静に見えたが、熊が怖くないわけがない。\n安堵した様子の彼女に胸がいっぱいになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ほらほらしっかりしたまえよ。まったく……\n君というやつは、強いんだか弱いんだか……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はああぁぁっ……！\u3000怖かっただぁ～～！\n生きててよかっただぁ～～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "いえいえっ、本当はなンも危ねぇこと\nなかったンですからっ！\u3000熊も、遭難も……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "何を言うんだい。\n非常時に君の存在が周囲に大きな安心感を\n与えていたのは紛れもない事実だよ。",
+      "ChoiceDataList": [
+        "おかげで落ち着いて行動できた"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "そ、そうですか～～っ？\n役に立ってたなら、よかったです……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "えへへ……！\nそれじゃ、鍋食べて帰りましょうか？\nみんな無事で……ほにほによかったでがんす。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

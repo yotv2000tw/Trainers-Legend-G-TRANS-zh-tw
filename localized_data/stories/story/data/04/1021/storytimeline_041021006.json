@@ -1,0 +1,367 @@
+{
+  "Title": "雲居",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "休日、買い物に出た先でタマモクロスを見かけた。\r\n彼女はぼんやりとその場に立ち尽くしている。",
+      "ChoiceDataList": [
+        "タマモクロス？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "！！\u3000トトト……トレーナーっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "よう来た！\u3000ホンッッッマよう来たな、ありがとう！！\r\n心の底から待っとったでぇ～～～～！！",
+      "ChoiceDataList": [
+        "ぐ、偶然だぞ……？",
+        "ぐ、偶然だよ……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なんでもええ！\r\nあんな、ウチな、アウェイで1人めっちゃ困っとってん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "こないな高級店で買い物したことないやろ？\r\nどこ入ればええかわからんくて、途方に暮れとったんや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "頼む！\u3000ウチの両親の結婚記念日のプレゼント、\r\n一緒に探してくれへんか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "――で、チビたちはお祝いにお好み焼き作るらしいねん。\r\nウチはそれ手伝われへんから、代わりになんか買うて送ったろ思て。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "予算はあんまかけられへんのやけど……なにがええかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "先ほど彼女はここの店を高級と言っていたが、\r\n本来は学生でも入れる価格帯のお店だ。それが高いとなると――",
+      "ChoiceDataList": [
+        "ちょっといいお菓子はどうだ？",
+        "ちょっといいお菓子はどう？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "お菓子なら低予算でも豪華に見えるものが多い。\r\n贈答用のお菓子にのしを付けてもらえば、お祝い感も出るだろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "そこそこの予算で豪華に見えるなんて最高やん！\r\nお菓子ならチビたちも食べられるな。……うん、そうしよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ということで、スイーツ売り場に来たのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "う、ウソやろ……ケタ1個間違うてへんか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なんっ……これ……チョコ1個でチョコが5箱買えんで！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "1か月のおやつ代がひと口で消えるなんて……んなアホな！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ありえへん……ありえへん……\r\nみんな普段からこんな高いもん食べとるんか……？",
+      "ChoiceDataList": [
+        "特別な時に食べるくらいかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "贈答用か、自分で食べる場合も毎日ではないと説明する。\r\n高級菓子は特別なもので、自分へのご褒美として買うのだと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "自分へのご褒美……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "聞いたことはあるけど、ホンマにやってる人おったん？\r\nえ、なんで贅沢するん？\u3000貯金せえへんの？\u3000謎やわぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "しっかし、この値段……\r\nなに買うたらええか、本格的にわからんなってきたわ……。",
+      "ChoiceDataList": [
+        "少し休憩しないか？",
+        "少し休憩しない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……せやな。ウチも落ち着いてゆっくり考えたいわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ふーーーっ……ようやくひと息つけたわ。\r\nさて、なに頼もかな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……パンケーキってこんなするんか。\r\nプレゼントも買わなあかんし、どうせならそっちに回したいな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "あー、ウチ、水だけでええわ！\u3000あんま腹空いとらんしな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カフェ店員",
+      "Text": "失礼いたします。ご注文はお決まりですか？",
+      "ChoiceDataList": [
+        "パンケーキとジュースを2人分"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カフェ店員",
+      "Text": "パンケーキとジュースをお2つですね、かしこまりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ちょお、なに勝手に注文しとんねん！",
+      "ChoiceDataList": [
+        "俺と君へのご褒美だよ",
+        "私と貴方へのご褒美だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "タマモクロスも自分も、日々のトレーニングを頑張っている。\r\nそのご褒美として食べたいから付き合ってほしいと告げた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "それに、ただ奢るわけじゃない。\r\nこれを食べてもっと頑張ってほしいと、発破をかけてもいるのだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……アンタの考え、わかったで。\r\nウチに“自分へのご褒美”を体験さしたいんやろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチが自分へのご褒美を理解できひんから……。\r\nほなら、断る理由もあれへん。体験さしてもらうわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ふっふっふ……タダでお高いパンケーキが\r\n食べられるやなんて、ついてるでー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カフェ店員",
+      "Text": "お待たせいたしました、パンケーキとジュースです。\r\nごゆっくりどうぞ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "お、きたきた！\r\n……ずいぶんフワッフワやねんなぁ。どれどれ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……ふあっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "（口に入れた途端、とろけて卵の風味がふわっと広がって……\r\nあっという間に消えてもうた……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "（バターの塩味とクリームの相性が抜群や……。\r\n後味も軽くて……何枚でもいけてまうや～～～ん……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "う\u3000っ\u3000っ\u3000ま\u3000！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "トレーナー、これ……やっっっばいな！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……確かに、これはもっかい食べたなる味や。\r\nちょっと無理してでも食べたい思う気持ちもわかる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "――せやから、“自分へのご褒美”か……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……けど、家族にも食べさせてやりたいな。\r\n両親にもチビたちにもご褒美あげたいやん。",
+      "ChoiceDataList": [
+        "きっと、家族も同じ気持ちだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "タマモクロスの家族だって、彼女に美味しいものを食べてほしい、\r\n頑張ったらご褒美をあげたいと思っているはずだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "家族が、ウチにご褒美を……。\r\n……そういえば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの弟",
+      "Text": "あー！\u3000ねぇねのコロッケだけ、1つ多い！\u3000なんでー？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロスの父親",
+      "Text": "それはタマへのご褒美や！\u3000レースで1着取ったからな！\r\nタマ、それ食べて次もええ走りするんやで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "そや……ウチ、ご褒美もろてたわ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "家族もウチもおんなし気持ち……当たり前やんな。\nあかん……ウチ、また視界が狭なってたな……。",
+      "ChoiceDataList": [
+        "たまには自分も甘やかしたら？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……ウチはもう充分なんやけど……少し考えてみるわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……さて、と。パンケーキ、食べんで！\r\nこんなおいしいもん残したないからな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう言うとタマモクロスは、うまいうまいと言いながら\r\nすごい勢いでパンケーキを口へ運びだした。",
+      "ChoiceDataList": [
+        "そんなに慌てなくても……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチは完食したいねん！！\u3000しっかり味わいたいねん！\r\nけど、限界が……限界がもうそこまで来とる……！",
+      "ChoiceDataList": [
+        "限界？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……慣れへん高級ずくめでキャパオーバーや……\r\n今、背中冷や汗ダラッダラやねん……意識飛びそう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――まさか、そこまで高級耐性がなかったとは。\r\nだが、冷や汗を流しつつも、彼女はパンケーキを頬張るのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

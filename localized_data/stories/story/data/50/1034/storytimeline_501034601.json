@@ -1,0 +1,37 @@
+{
+  "Title": "今度こそ！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ついにこの日が来やがった！\n待たせ過ぎだってんだ、べらぼうめえ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "前走は情けねえ走りを見せちまったからな、\n汚名返上の場を待ってたんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "もう同じ轍は踏まねえ！\nそんじゃ、ちょっくら喧嘩してくらあ！",
+      "ChoiceDataList": [
+        "応援してるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "おう！\u3000今度こそ檜舞台に立派な華あ\n咲かせてやっから、期待しててくんな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

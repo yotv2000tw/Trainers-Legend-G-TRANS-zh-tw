@@ -1,0 +1,479 @@
+{
+  "Title": "夕陽にときめいて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "少女漫画の主人公",
+      "Text": "（もう帰らないと……でも、\r\nこの気持ちだけは……今、伝えたい……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "少女漫画の主人公",
+      "Text": "（ここで素直にならないでどうするの、私！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "少女漫画の主人公",
+      "Text": "あのさ、最後に観覧車に乗らない……？\r\n夕陽がよく見えそうだし――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロドーベルと、\r\nお出かけ先から電車で帰っていたのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "はぁ～…………遊園地かぁ～……。",
+      "ChoiceDataList": [
+        "遊園地？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "は？\u3000え、いや、別に……？\u3000ちょっと、\r\n読んでた漫画に出てきただけで……。",
+      "ChoiceDataList": [
+        "近いし、行こうか遊園地？",
+        "近いし、行こっか遊園地？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あ、ううん……ちょっと漫画に\r\nのめり込みすぎちゃって。",
+      "ChoiceDataList": [
+        "近いし、行こうか遊園地？",
+        "近いし、行こっか遊園地？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……は？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "えっ……い、いいの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "いや、フットワーク軽すぎじゃない！？",
+      "ChoiceDataList": [
+        "駅から近かったし、つい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "い、いきなり来ちゃったけど……\r\nよかったの？",
+      "ChoiceDataList": [
+        "駅から近かったし、つい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ついって……\r\nホント、時々強引なんだから……。",
+      "ChoiceDataList": [
+        "ごめん。お詫びに奢るから",
+        "お詫びに何か奢るから、ね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あ、いや、一緒に来られて嬉しいよ？\r\nただ急すぎて……。",
+      "ChoiceDataList": [
+        "ごめん。お詫びに奢るから",
+        "お詫びに何か奢るから、ね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（ん？\u3000お詫びに奢るって……\r\nこの展開どっかで…………）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（ん？\u3000お詫びに奢るって……\r\nこの展開どっかで…………）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……もしかして、さっき\r\nアタシの画面見てた？",
+      "ChoiceDataList": [
+        "画面……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……な、なんでもない。\r\nなんでもないから……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "いや、違うなら別にいいんだけど……うん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、メジロドーベルを連れまわして\r\nしまったお詫びとして、\nジュースを買ったのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、メジロドーベルを連れまわして\r\nしまったお詫びとして、\nジュースを買ったのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女の子A",
+      "Text": "うぇぇ～～ん！\r\n私のジュースーーーー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あ、あの子……ジュース\r\n落としちゃったのかな……？",
+      "ChoiceDataList": [
+        "どうしたんだ？大丈夫？",
+        "どうしたの？大丈夫？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女の子A",
+      "Text": "う、うう……ジュース落としちゃった……\r\n買ったばっかりだったのに……ひっぐ。",
+      "ChoiceDataList": [
+        "まだ飲んでないし。俺のをあげるよ",
+        "まだ飲んでないし。私のをあげるね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女の子A",
+      "Text": "え、いいの！？\r\nありがとーお兄ちゃん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女の子A",
+      "Text": "え、いいの！？\r\nありがとーお姉ちゃん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（うそ……また漫画と同じ展開…………？\r\nた、確か、次のページは――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（うそ……また漫画と同じ展開…………？\r\nた、確か、次のページは――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ジュースの……シェア！？",
+      "ChoiceDataList": [
+        "どうかした？",
+        "どうかしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ううん……！\u3000なんでもないから……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（どうしよ……漫画の内容だし、\r\nその通りにする必要もないけど……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（でも実際、ジュースを飲めないのは……\r\n可哀想だし……ひと口くらいなら……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（いやいやいや……さすがに無理。\r\n飲みかけだし……）",
+      "ChoiceDataList": [
+        "ジュース飲まないのか？",
+        "ジュース飲まないの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "わ、わかってるって……！\r\n今飲むから……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "う、うん……ありがと。\r\n大丈夫だから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それから、いくつかアトラクションに\r\n乗ったのだが、メジロドーベルはずっと、\nどこか浮かない様子であった……。",
+      "ChoiceDataList": [
+        "今日は、ごめん",
+        "今日は、ごめんね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……なんでアンタが謝るの？",
+      "ChoiceDataList": [
+        "あんまり楽しめてないみたいだったから……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "えっ？\r\nど、どうしてトレーナーが謝るの……？",
+      "ChoiceDataList": [
+        "あんまり楽しめてないみたいだったから……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あ、いや、それは……\r\nこっちの事情っていうか、その……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あ、いや、それは……\r\nこっちの事情っていうか、その……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（これだけ優しくしてもらってるのに……\r\nなにやってんだろ…………アタシ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（ここで素直にならないで……どうするの！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……ねえ。じゃあ……\r\n最後にあと1つ、付き合って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あ、あのさ……！\u3000なら、最後に観覧車とか\r\n乗りたいなって思うんだけど……いい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうして、2人で観覧車に乗り込み、\r\nゴンドラは頂点に達した……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうして、2人で観覧車に乗り込み、\r\nゴンドラは頂点に達した……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "今日は……その、\r\nなんていうか……ありがと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "今日はありがと。\r\n急だったけど、すごい楽しかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ちゃんと、楽しかったから……\r\nそれは知っておいてほしくて……それだけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "多分、トレーナーと一緒だから、\r\nこんなに、楽しめてるんだと思う。\nそれが、言いたくて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "じゃあ、そろそろ帰ろ。\r\n門限に間に合わなくなっちゃう。",
+      "ChoiceDataList": [
+        "また行こうな",
+        "また行こうね",
+        "次はどこに行きたい？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "じゃあ、そろそろ帰ろ。\r\n門限に間に合わなくなっちゃう。",
+      "ChoiceDataList": [
+        "また行こうな",
+        "また行こうね",
+        "次はどこに行きたい？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "まあ、考えとく……。",
+      "ChoiceDataList": [
+        "せっかくだし、友だちも誘う？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "次は、予定を立てて行こうね。",
+      "ChoiceDataList": [
+        "せっかくだし、友だちも誘う？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "それはいいかもね……。\r\nあ、でも2人組の方がお得って\n向こうのチラシに書いてある……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "それはいいかもね……。\r\nあ、でも2人組の方がお得って\n向こうのチラシに書いてある……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう言われ、手元のチケットを\r\nよく見てみると……。",
+      "ChoiceDataList": [
+        "これ、カップル割だ！？",
+        "これ、カップル割！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "は！？\u3000それで入ってたのアタシたち！？\r\nうそでしょ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "じゃあ、スタッフの人たちが\r\n妙に微笑ましそうにしてたのも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "じゃあ、そのチケットで観覧車とか……\r\nあああ～……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あああ～……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロドーベルが真っ赤に見えるのは、\r\nきっと、赤い夕陽のせいだろう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロドーベルが真っ赤に見えるのは、\r\nきっと、赤い夕陽のせいだろう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "次？\u3000い、いいけど、\r\nどこがいいのかな……。",
+      "ChoiceDataList": [
+        "今日は漫画がきっかけだったよな？",
+        "今日は漫画がきっかけだったよね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "まあ……そうだけど。",
+      "ChoiceDataList": [
+        "その漫画だと他にどんな所に行くんだ？",
+        "その漫画だと他にどんな所に行くの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "他にって……今回はたまたま地球にいる回\r\nだったから当てはまっただけで……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "普段は、火山の星とか、小惑星デブリとか。\r\n時々、異世界に飛んだりとかしてるし……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "地球にいても、基本的にはマリアナ海溝とか\r\nバミューダトライアングルにしか\n行かないから、参考にならないと思うよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "いったい彼女が読んでいるのは\r\nどんな漫画なのだろう……？\n今度はそれが気になってしまうのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

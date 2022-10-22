@@ -1,0 +1,367 @@
+{
+  "Title": "『想いはバブリーに包め』",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある休日、街中を歩いていると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "よっ……いい軽さですよっ！\nほっ……これ、どうでしょうっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "うーん……どうでしょっ？\nいったん、バブリーから離れてもいいかも～。",
+      "ChoiceDataList": [
+        "何してるんだ……？",
+        "何してるの……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ひゃあっ、トレーナーさん！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "こんにちは～。カレンたち、\nマルゼンさんへのプレゼントを\n考えてたんです♪",
+      "ChoiceDataList": [
+        "プレゼント？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "そうなんですっ！\nこの後、マルゼンさんのトークイベント、\n『ひっぱれ☆とーきんぐぅ♪』があるんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "なんと今日で134回を数える\n大人気イベントでして！\nちなみに今回の会場では4回目で――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "で、カレンたち、ご招待いただいてっ。\nそのお礼に、なにかプレゼントしたいって、\nチヨノオーさんが！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "カレンさんと一緒なら、\nいいものを渡せるんじゃないかなって！\nウマスタ、すごい参考になるんですよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "えへ、ありがとうございますっ♪\nでもカレン的には『いいもの』っていうか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "おおおお～～～～っ！？！？\nチヨちゃんにカレンちゃんだっっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "チヨノオーさんがいるってことは……\nもしかして、マルゼンさんのイベントに？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "そうなんですっ！\nスペさんたちもですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "はいっ。その前に、マルゼンさんへの\n差し入れを探しにきたんですっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "それも一緒です～！\u3000やっぱりここ、\nマルゼンさんっぽいお店ですよねっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "あ！\u3000でも……みんなで\n似たようなものを渡すことに\nなっちゃいますかね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "なら、マルゼンさん『っぽい』じゃなくて、\n自分があげたいものにするのはどうでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "あげたいもの……\nあげたいもの……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "わかったぞ～～～～！！\nコロッケだーーーーーー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "それって揚げたいものじゃ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "でも……それなら、私も\nマルゼンさんに故郷の美味しいものを\n食べてほしいべ………！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "チケゾーさん、待ってください！\n北海道物産展～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "あ、あっという間に……！\nみんな、考えてたことがあるんですね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "チヨノオーさんも、ですよね？\n『自分が』あげたいもので選んじゃいましょ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ええええ～～～～……！\nハードルが高い……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "あのマルゼンさんですよっ？\n私なんかが選んだもので、\n喜んでもらえるとは……。",
+      "ChoiceDataList": [
+        "マルゼンスキーはどんな子？",
+        "チヨノートに答えはもうあるかも"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "へ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "……マルゼンさんって、\nプレゼントに優劣とかつけますっけ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……！\nつけ、つけません、絶対っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "私なんかにも優しくしてくれて、\nプレゼントとかも……渡したいって\n想いを大切にしてくれる方で、だから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "だから……わかりましたっ！\n私のあげたいものを、渡します！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "お、やっぱりあるんですね～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はいっ。ずっと前から、\nもらってくれたら嬉しいなって\n思ってたものがあるんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "おこがましいかなって、やめてたけど……\n挑戦してみます……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "――あら、これ……\n桜のキーホルダー？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "は、はい……！\nちょっと和風の、飾り紐もついてて、\nかわいいかなって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "えと、それで……実は私も、\n同じものを持ってまして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "あら、そうなの！？\nお揃いじゃない～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "か、勝手にすみませんっ！\n気持ち悪かったら捨ててください～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "ふふっ、もちろん捨てないわよ。\nチヨちゃんの気持ち、嬉しいわ！\nありがとね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "……本人、気づいてないっぽいですけど。\nチヨノオーさん、けっこう情熱的ですね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして、サクラチヨノオーは見事、\n憧れの人へのプレゼントを渡せたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はっ……！？\nたしかに！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "最近のインタビューで、\nマルゼンさん、近況について話してたし……！\n『これが欲しい』ってヒントがあるかも！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "わ、すご～い！\u3000文字がびっしり……！\nこれ全部マルゼンさんのことですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はい！\u3000大事だなって思った部分は、\nメモしてるんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "へ～……もはや、全文\n写してるくらいのミチミチ具合ですね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "そうなっちゃうんですよねぇ～……っと、\r\nあった！\u3000『月刊トレムディ』の最新号！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ふむふむ……『お疲れちゃん』\n『熱海でローマ』『ずっこけ』\n『アーバンなマッサージ機』……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "……えっと、暗号です？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "わかりました！\nここから導き出される答えは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "――まあ、入浴剤セット！？\nありがと～んっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "最近、体が凝りに凝ってて～、\nちょうど癒しが欲しかったの～！\nす～っごく嬉しいわ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "えへへ……♪\n喜んでもらえて、幸せですっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "ふふっ……1番の癒しは、\nチヨちゃんの笑顔、だけどね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……！\nわ、わぁ～……そんな、わぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "……あたしのこと、よく見てくれてるのね。\nホントに、ありがとっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "えへへっ……はいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

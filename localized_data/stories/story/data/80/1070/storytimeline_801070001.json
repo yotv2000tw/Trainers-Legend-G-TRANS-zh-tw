@@ -1,0 +1,188 @@
+{
+  "Title": "教えてやろうか？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある休日のこと――\r\n息抜きに外でランチをすることにしたのだが、\nメニューには難しい横文字ばかり並んでいる。",
+      "ChoiceDataList": [
+        "（何がなんだか……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "へぇ、\r\nフレンチには慣れてないって顔だな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "隣のテーブルから声がかけられたので\r\n振り返ると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "メニュー、わからねぇんだろ？\r\n教えてやろうか。",
+      "ChoiceDataList": [
+        "いいのか？",
+        "いいの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "ああ。ただし、私は教えるだけ。\r\nうまい食事にありつけるかはアンタ次第だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どこか含みのある言葉だ。\r\n教えを乞うべきだろうか……？",
+      "ChoiceDataList": [
+        "自力で頑張る",
+        "教えてもらう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "あっそ。じゃ、頑張れよ。\r\n上手くいくといいが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "しかし、自力で料理を頼んでみたところ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "オイオイ、全部野菜料理かよ！\r\nアンタ、持ってるな？",
+      "ChoiceDataList": [
+        "やってしまった……",
+        "やっちゃった……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "そんな悲しそうな顔するなって。\r\n食事は楽しむもんだろうが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "仕方ねえ、ちょっと手伝ってやる。\r\nほら、皿貸しな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "完食、と。\r\nそれなりにうまかったが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "野菜ばかりじゃつまらねぇ。食べ足りねぇ。\r\nなあ、アンタもそうは思わないか？",
+      "ChoiceDataList": [
+        "え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "たとえば今、目の前にいて……\r\n柔らかそうで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "――え！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "フッ、ハハッ、ハハハッ！\r\nそんなに警戒すんなよ。\n別に取って食ったりはしねぇさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "……今は、な？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "へぇ、素直ないい子だ。\r\nじゃあ、まずは前菜から――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう言うと、シリウスシンボリは\r\n意味を教えつつ代わりに注文してくれた。\nすると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "前菜にスープにメイン。\r\nなかなかいいバランスじゃねぇか。",
+      "ChoiceDataList": [
+        "教えてくれてありがとう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "『ありがとう』？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "オイオイ……礼を言うのはちょっと\r\n早いんじゃないか？",
+      "ChoiceDataList": [
+        "え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どういうことかと考える間もなく、\r\n運ばれた料理をシリウスシンボリが\n自分のテーブルへ移していく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "残念だが、私は手本を見せただけだ。\r\nつまりこの料理は私のもの。",
+      "ChoiceDataList": [
+        "えぇ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "ハハッ、そんな顔するなよ！\r\n……もっとからかいたくなるだろ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "さ、今度は自分で注文してみな。\r\n賢くなったかどうか、\nちゃんと見ててやるからよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

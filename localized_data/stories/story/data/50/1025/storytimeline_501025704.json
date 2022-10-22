@@ -1,0 +1,342 @@
+{
+  "Title": "2人だけのフレーバー",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "マンハッタンカフェとのお出かけの後、\r\n学園の校門まで帰ってくると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……トレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "よかったらこの後また……\r\nコーヒー、いかがですか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "トレーナーさんに……\r\n味わってほしい豆があるんです……。",
+      "ChoiceDataList": [
+        "いただこうかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……ありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "では、しっかりと私を見て……\r\nついてきてください……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "マンハッタンカフェに案内されたのは、\r\n学園内の彼女の私的スペースであった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "さっき言った豆は、これです……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "マンハッタンカフェはそう言って、\r\n卓上に透明な瓶に入れて置かれた\nまだ挽かれてない状態の豆を示す。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "これは……私のコーヒーノキから……\r\n収穫した豆を……私が焙煎したものです……。",
+      "ChoiceDataList": [
+        "それって――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "1本のコーヒーノキが……\r\n実が収穫できるぐらいに成長するのには……\n早くても……3年、かかります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "それに、収穫できるのは……\r\n1年に1回だけで……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "これは、マンハッタンカフェが自分で育てた\r\nコーヒーノキから収穫し加工した\n貴重な豆に違いなかった。",
+      "ChoiceDataList": [
+        "……こんな貴重なもの、いいのか？",
+        "……こんな貴重なもの、いいの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……貴重だからこそ、です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "トレーナーさんの好みに合わせて……\r\n私が焙煎しました……。\nきっと……飲みやすいと思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "だから――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……………………一緒に、飲みませんか。",
+      "ChoiceDataList": [
+        "喜んで！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "すぐ、淹れますね……\r\n少しの間、待っていてください……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "室内に、マンハッタンカフェが\r\nコーヒーを淹れる音が静かに響いている……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "私の両親も、コーヒーノキを育てていて……\r\n1年に1度、家族みんなで……\n集まって飲むんです……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "その時間は、いつだって朧月の夜みたいに……\r\n優しくて……心地よくて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "トレーナーさんとも……\r\nそんな時間をと……思って………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………お待たせしました。\r\nどうぞ――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "淹れられたコーヒーを口に含む。\r\nすると、その風味と温かさが、\n心身に染み渡っていく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……その後はマンハッタンカフェと\r\n向かい合い、2人で静かに\nコーヒーを堪能する――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "…………結局、お互い一言も発することなく、\r\nコーヒーを飲み終えた。\nその余韻が残る中――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……………………どう、でしたか？",
+      "ChoiceDataList": [
+        "こんな美味しいコーヒー初めてだ",
+        "こんな美味しいコーヒー初めて",
+        "素敵な時間をありがとう",
+        "俺もカフェに、コーヒーを淹れてあげたい",
+        "私もカフェに、コーヒーを淹れてあげたい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……………………どう、でしたか？",
+      "ChoiceDataList": [
+        "こんな美味しいコーヒー初めてだ",
+        "こんな美味しいコーヒー初めて",
+        "素敵な時間をありがとう",
+        "俺もカフェに、コーヒーを淹れてあげたい",
+        "私もカフェに、コーヒーを淹れてあげたい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………大袈裟、です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "でも――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………私も同じ、です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "幾千の言葉より濃密な時間がこめられた一杯。\r\nその味を自分はこれから先も\n忘れないだろうと思える夜になった――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………私の方こそ、です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "トレーナーさん……\r\nありがとうございます……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………また……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "また来年も…………\r\nこんな風に一緒に――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "コーヒーを、飲んでくれますか……？",
+      "ChoiceDataList": [
+        "来年も、再来年も、また飲もう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……はい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "来年も……再来年も……\r\nまた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女と来年飲むコーヒーはどんな味だろうか？\r\nそんな、少し遠くの未来に\n思いを馳せる夜になったのだった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………………。\r\nそれでしたら…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "一緒に、育ててみますか……？\r\n………コーヒーノキ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "新しく植えるとなると……\r\n3年以上は、かかりますが――――",
+      "ChoiceDataList": [
+        "その時を楽しみにして頑張るよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………ふふっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……先の長い話に、なっちゃいましたね。\r\n……でも――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……私も、楽しみにしています……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "きっと、その豆で淹れるコーヒーは、\r\n今日飲んだものよりも美味しいに違いない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そんな――――\r\n夜よりも黒く、香り深い未来に、\n2人で思いを馳せる時間になった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

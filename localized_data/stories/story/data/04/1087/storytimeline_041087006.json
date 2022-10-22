@@ -1,0 +1,363 @@
+{
+  "Title": "レンズはいま何色ですか？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ん～。右、左、奥～。\nマーちゃんグッズはどこですか～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "はてはて。見つかりません。\nそれとも、新商品は別のところでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そろそろ何かしらのグッズが出ているかも、と\nアストンマーチャンとウマ娘グッズを見に来たのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "う～ん、まだないみたいですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "でも特番にも出ましたし、デビューもしましたから。\nきっともうすぐ、ここにもズラ～リです。",
+      "ChoiceDataList": [
+        "楽しみだな",
+        "楽しみだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "はい、楽しみです。ワクワクさんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――正直、グッズ化そのものは難しくはないだろう。\nだがここに並ぶほどとなると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "大丈夫、大丈夫。たくさん強くなって、活躍しましょう。\nそうしたら、たくさんのヒトがマーちゃんを目に映します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "映したらガツンッです。マーちゃんのラブリーさに\n観客席のみなさんもお茶の間のみなさんも、ハートをガシッです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "言葉も空気もフワフワとして柔らかい雰囲気だが、\nその想いはどこまでも一途で強い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "本当に悲しいのは忘れられることです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "忘れさせない。ずっと覚えていてもらう。\nその願いは、なんとしても叶えてあげたい。",
+      "ChoiceDataList": [
+        "ん？あれは……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "トレーナーさん？\u3000そろそろ帰る時間です。\nいったい何を見て――",
+      "ChoiceDataList": [
+        "……ごめん、先に帰ってて！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "きょとんとした顔のアストンマーチャンに手を振って、\n目に入った『それ』に向かい、足早に歩いた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "んん～？\u3000あわてんぼうのトレーナーさん、めずらしいですね～。\n……ふむ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『一緒に手作りの香り袋を作ってみませんか』\nそんな手芸店のポスターが目に入った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自分なりにアストンマーチャンをイメージした色とデザインで\n小さな香り袋を作った。中には、まだ何も入ってはいないが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "でも特番にも出ましたし、デビューもしましたから。\nきっともうすぐ、ここにもズラ～リです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "はたから見れば『たかがグッズ』だと『大袈裟』だと言われるかも\nしれない。けれど、その願いの根本にあるものはあまりにも深く――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アストンマーチャンの夢を叶えるために、担当トレーナーになった。\nそのためになら、どんなに儚い希望にだって、すがりつきたい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "だからこれは、願掛けのようなもの。グッズと呼ぶには不格好で、\nたったひとつしかない小さな香り袋だが、それでも――",
+      "ChoiceDataList": [
+        "君の夢が叶うように――",
+        "貴方の夢が叶うように――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……それは、マーちゃんの夢、ですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……どこへ行くのかなって、チラチラしていました。\nそうしたら、するりと手芸屋さんに入っていって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "布を選んで、糸を選んで、手作りコーナーに、ちょこん。\nお店の方にたくさん聞いて……ちょっぴり緊張していましたね。",
+      "ChoiceDataList": [
+        "そ、そこまで見られて……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "はい。トレーナーさんはすごく真剣な横顔で、チクチク、チクチク。\n気がついたら、マーちゃんはずーっと見ていたのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "なぜでしょう。わかりません。\nでも、ずっとずーっと、波の音を聞くように立っていたのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……香り袋、マーちゃんの色をしています。\nマーちゃんに似ています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "まるでトレーナーさんが、新しいマーちゃんを作ったみたい。",
+      "ChoiceDataList": [
+        "これは、その……願掛けっていうか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アストンマーチャンのグッズと呼ぶような大層なものではなく、\n自己満足の願掛けであると伝える。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "願掛け？\u3000……マーちゃんを忘れないように？\nそれを持っていないと、マーちゃんのこと忘れちゃいますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "それはいけませんね～。どうしましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "冗談なのか本気なのかわからない空気感で、\nアストンマーチャンがこちらを見つめてくる。",
+      "ChoiceDataList": [
+        "忘れるわけないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……そうなんですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "当然だ。毎日どころか1日に何度も考えている。\nトレーニングやアストンマーチャンの夢のことを。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そんな状況で、忘れるなんて無理があるだろう。\n日々重ねる記憶を思い出しては、未来のことを考えて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "覚えているのに、何度も思い出す……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "覚えている、考える、思い出す。",
+      "ChoiceDataList": [
+        "マーチャン？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "違いますね。覚えてもらうことと、思い出すことは。\n似ていても、まったく違います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "トレーナーさんは、わたしを覚えていて、\nその上で何度も思い出しているんですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "止まらないもの。継続、繰り返し。波のように、何度も。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……うう～ん？？",
+      "ChoiceDataList": [
+        "ど、どうかした？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "なんだか、ムズムズします。\nムズムズ、くすぐったい。なのに、いやな気分じゃない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "不思議。なんでしょう？\u3000ムズムズ……うう～ん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "首を傾げるアストンマーチャンにつられて、\nこちらも首を傾げてしまう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ふいに近づき、アストンマーチャンはこちらの手に握られていた\n中身のない香り袋を見つめる。そうしてツンと、指先でつつき――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "香り袋、マーちゃんにください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "マーちゃん、それがほしいです。\nダメですか？",
+      "ChoiceDataList": [
+        "別に構わないけど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こんなのでいいのかと持ち上げて改めて香り袋を見つめた。\n……やはり、少々不格好だ。作り直そうかと尋ねると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "いいのです。最初に作られた、それが特別なのです。\n……ああでも、やっぱりムズムズします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "見ていると、よけいにムズムズムズムズ。\nなぜなんでしょうね～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アストンマーチャンに香り袋を渡す。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "不思議そうな顔で、でもどこかはしゃぐように、\nアストンマーチャンは香り袋を見つめては首を傾げる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それを何度か繰り返してから、振り向いて\nじっとこちらの瞳に入り込んでくる。そして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "トレーナーさんのレンズは、いつも空の色に変わりますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう言って、背中を向けて歩き出したのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

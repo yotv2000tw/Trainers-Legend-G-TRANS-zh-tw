@@ -1,0 +1,385 @@
+{
+  "Title": "ゆたかなる友情",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロドーベルと出先から帰っていると、\r\nメジロマックイーンのポスターを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "通行人A",
+      "Text": "あ。あれマックイーンのポスターじゃない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "通行人B",
+      "Text": "ホントだ。こないだのレースよかったよなぁ。\r\nさすがメジロのウマ娘って感じでさ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "大丈夫？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……別に。\r\nその通りだなって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "いや、さすが、\r\nマックイーンだなって思っただけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "日頃の立ち居振る舞いもそうだけど……。\r\nアタシよりいろいろな物を\n背負っているはずなのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "日頃の立ち居振る舞いもそうだけど……。\r\nアタシよりいろいろな物を\n背負っているはずなのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "堂々とした雰囲気と、それに伴う実力……。\r\nやっぱり、メジロの顔だなって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その時、通りの本屋から現れたのは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "マ、マックイーン……！？\r\nこんなとこで奇遇だね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ど、ドーベル！？\u3000あの……これは別に、\r\nユタカ特集は関係なく……そのー……。",
+      "ChoiceDataList": [
+        "ユタカ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "え、ユタカって……\r\nもしかして、あのユタカのこと……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "！？\u3000その口ぶり……もしや、\r\nドーベルも……ユタカをご存じでして！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "“ユタカ”という共通の話題のもと\r\n2人は意気投合し……ファミレスで\n話すことになったのだった。",
+      "ChoiceDataList": [
+        "ユタカってそんなに有名なの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "そりゃ当然でしょ……。あ、そうだ。\r\nこないだの新しいのは、もう見た？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "もちろん！\u3000あ、そうだ。\r\nこないだの新しいのは、もう見た？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ええ。リアルタイムで見ましたわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ええ。リアルタイムで見ましたわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あ、マックイーンはそっち派なんだ。\r\nごめんアタシ、まとめて見る派でさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ああ、確かにそちらの方が、\r\nじっくりと楽しめますものね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ただ、リアルタイムもハラハラ感が\r\nあって、なかなかいいものでしてよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "んー……魅力的だけど、場所がねー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "場所……？\u3000ああ、直接ということでしたら、\r\n確かに距離がありますものね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "え、距離って……\r\n雑誌くらいならどこでも買えない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "雑誌……？\u3000いえ、私は球場の話を……。",
+      "ChoiceDataList": [
+        "……2人とも、別の話してない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "え……漫画家のユタカの話でしょ、これ？\r\n『燃えろ！\u3000芝崎女子サッカー部』の……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ええ！？\r\n野球選手のユタカのことでは……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ごめん……アタシ、同じ話題で\r\n話せると思って、嬉しくて……つい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "私もです……喜びを共有できると思い……。\r\nしかし、漫画家のユタカさんですか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ドーベルがあれだけ熱弁するんですもの、\r\nさぞ面白い漫画を描かれるのでしょうね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ふふっ、その件も含めて、\r\nまた後日、ゆっくりとお話しましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "マックイーンにあんな一面が\r\nあるなんてね……意外だった。",
+      "ChoiceDataList": [
+        "みんないろんな面を持ってる"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……だね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "いろんな面ね……。\r\n確かに、そういうものかも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "もっと知りたいな……\r\nいろんなマックイーンの一面……。",
+      "ChoiceDataList": [
+        "漫画を貸してあげたら？",
+        "野球観戦、一緒にするとか！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "でも、ちょっと見てみたいな、\r\nアタシの知らない、マックイーンを……。",
+      "ChoiceDataList": [
+        "漫画を貸してあげたら？",
+        "野球観戦、一緒にするとか！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "いや、それだと押しつけがましいでしょ……。",
+      "ChoiceDataList": [
+        "興味は持ってたみたいだったよ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……やるとして、押しつけがましくないかな？",
+      "ChoiceDataList": [
+        "興味は持ってたみたいだったよ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "それは……そう言ってたけど……。\r\nまあ、一応聞いてみるかな…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……わかった。\r\n聞くだけ聞いてみる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "後日、カフェテリアで2人が何やら\r\n愉快そうに会話しているのを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "後日、カフェテリアで2人が何やら\r\n愉快そうに会話しているのを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "そんな～……！\u3000次巻まで女子サッカー部の\r\n行く末は、お預けですの……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "！\u3000……ふふっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "あっ……コ、コホン。\r\n少し、はしたなかったですわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ううん、違うの……アタシも同じこと\r\n思ってたから驚いたっていうか……嬉しくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "かくして、漫画家ユタカのおかげで、\r\n2人の距離は少し近くなったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……一緒に、か。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "確かに……\r\n気になってはいたし……頼んでみようかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "後日、メジロマックイーンと3人で\r\n野球観戦に出向いた帰り道……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "後日、メジロマックイーンと3人で\r\n野球観戦に出向いた帰り道……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ああ、あんなに声を張り上げて……\r\nお恥ずかしい限りですわ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "いや、気持ちはわかるよ。あのホームランは、\r\nすごいカッコよかったし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "そう！\u3000その通りですわ！\r\n点差を広げられていながらも、\n勝利を諦めなかったからこその一振り……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あの緊張感は、なかなか味わえないよね……。\r\nマックイーンが夢中になる理由、わかった\nっていうか……もっと知りたくなったかも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "でしたら！\u3000是非、また一緒に行きましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "うん。また行こうね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後も、メジロマックイーンと試合に\r\nついて語り合いながら仲良く帰るのであった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "Title": "萌えは無限の可能性",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "この本を戻しておしまいっと。\r\nさて、次の仕事もらってきましょうか。",
+      "ChoiceDataList": [
+        "何してるんだ？",
+        "何してるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "あ、トレーナーさん。\r\n図書委員のお手伝いですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "今度のチケット戦争は大激戦必至ですので、\r\nできる限り徳を積んでおかねば……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "つまり、チケットの当選確率を上げたいので、\r\n運に恵まれるための善行を積んでいるようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あの……デジタルさん、ええと、\r\nも、申し訳ないのですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "ロブロイさん……！\r\nあ、追加作業ですか？\u3000なにをしましょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あ、ありがとうございます！\r\n実は、返却期限を過ぎた本を回収したくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "私と一緒に、このリストの方たちを\r\n回っていただけないでしょうか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "わかりました。リストの方との\r\n交渉はあたしにお任せください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "た、助かります……！\u3000みなさん\r\nトレーナーさんなので、少し不安で……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "面識のない大人の方相手は緊張しますよね。\r\nあたしは趣味の活動で交流することもあって、\n慣れてますから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "じゃ、行きましょうか。まずはどなたです？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "えっと……<username>さんです。",
+      "ChoiceDataList": [
+        "…………はい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "……察しました。\r\nトレーナー室へ向かいましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "――いや、知ってましたが。\r\nトレーナーさんのデスク周り、\n地層化してますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "もしかして、本がどこにあるかわからず、\r\n返却できなかったのでしょうか……？",
+      "ChoiceDataList": [
+        "……その通りです。すみません"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "仕方ないですね……地層を片しますか。\r\n空箱借りますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "では……本、文房具、ゴミ、本、本、円盤、\r\n本、本、ゴミ、文房具、本……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "は、速い……！\u3000種類ごと空箱に分けて……\r\n手元を見てないのに、ミスがないです……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "あ、図書室の本発見。\r\nついでなんで、箱の中身も収納しときますか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あっという間に片づきましたね……。\r\nしかも、本はきちんとカテゴリごとに並べ、\n文房具は使いやすい形に収納されて。",
+      "ChoiceDataList": [
+        "片づけが得意なんだな！",
+        "片づけが得意なんだね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "あたしの部屋も物が多いんで。\r\n本やグッズの収納は慣れてるんですよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "この調子で、他のトレーナーさんの\r\n本も回収しちゃいましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "うぅ……なんですかあの部屋たちは……。\r\nロブロイさんをお連れするんじゃなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "地層どころか、貝塚群でしたよ！\r\nトレーナー室どうなってるんですか！？\nまあ片づけてやりましたけど！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "よくあの短時間で片づきましたよね。\r\n私はほとんど見ているだけで……すみません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "いえ、お手伝いを志願したのはあたしですし。\r\n片づけは、あたしが徳を積みたいだけなので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "と、徳……？\r\nでも、ちょっと終わりが見えませんね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "ええ……なんとかしないと。\r\n終わらないと徳が……徳がマイナスに……。",
+      "ChoiceDataList": [
+        "1人にかける時間を短縮しよう！",
+        "地道に片づけていくしかない"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "……そうですね。\r\n本の回収だけを目標に、作戦を変えましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "まず、返却依頼のメッセージカードを作り、\r\nこれで説明時間を省略します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "そのカードを、リストの\r\nトレーナーさんにお渡ししましょう！\nこれなら分担して回れますよね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "はい……！\u3000渡すだけなら、\r\nあまり緊張しなくて済みそうです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "ウマ娘ちゃんの行動は把握済みなので、\r\nそのトレーナーさんの居場所も推測可能です！\nさあ、ダッシュで配ってきましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナーA",
+      "Text": "……この本の返却を。遅くなって悪かった。\r\nしかし、よく俺が高架下にいるって\nわかったな。ハハハッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "今の方が最後ですね。\r\n意外と早く終われてよかったです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "はい。デジタルさん、\r\n本当にありがとうございました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "日頃から徳を積もうと心がけているなんて……\r\nまるで勇者のようで、尊敬します……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "はぅっ！\u3000……え、笑顔……まぶし……！\r\n………………うぅ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "（チケットの当選率アップのためだなんて、\r\n今さら言えません……ッッ！！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "ですよね……元々、徳を積みたくて\r\n自分に課したノルマですから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あの……デジタルさん、無理はなさらずに。\r\n今日は本当にありがとうございました。\nとても助かりました……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "ぁ……ぁあぁ……ロブロイさんの笑顔……\r\n優しみが深い……ハァン、癒されるぅ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "――充填完了ッ！\u3000デジたん復活！！\r\n推し浴びさせていただきましたッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "残りはあたしが片づけてきまーーすッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "本の回収＆汚部屋の駆逐完了ッ！！\r\nいやー、何度『いっそ焼き払ってしまえ』と\n思ったことか！\u3000終わってよかったです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "ええっ！？\u3000リスト全員、\r\n部屋まで片づけ終えたんですか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "す、すごい……こんなの、奇跡ですよ……！\r\nさっきはあんなに疲れきってたのに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "ロブロイさんの、推しの笑顔があれば、\r\nあたしは何度だって復活できます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "……か、カッコいい……！\r\n勇者ウマ娘シリーズの主人公みたい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "はわ、ロブロイさんの瞳がキラキラ……\r\nか、可愛い……最高のご褒美ですぅ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "……こ、これで運使ってたりしませんよね！？\r\nノーカンですよね！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

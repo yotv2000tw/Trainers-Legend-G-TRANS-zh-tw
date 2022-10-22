@@ -1,0 +1,44 @@
+{
+  "Title": "クレーンゲーム失敗……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "ああ～……惜しかったっ！",
+      "ChoiceDataList": [
+        "ごめんな……",
+        "ごめんね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "わぁ～っ！\n落ち込まないでくださいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "あたしのために挑戦してくれただけでも、\nすっごく嬉しいんですっ。\nだから、本当に気にしないでください～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "そうだっ、甘いものでも食べませんかっ！\r\nおまんじゅうとか……あ、ケーキとかっ！？\n和でも洋でも付き合いますよっ、ねっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "残念な結果に終わった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "Title": "お姉ちゃんにも弱点はある",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アイネスフウジンと出かけた後、\r\n今日のバイト先だという遊園地まで\n送りにやってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "トレーナーってば、心配しすぎ！\nまだ明るいし、わざわざ送って\nくれなくてもよかったのに。",
+      "ChoiceDataList": [
+        "お出かけの延長みたいなものだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ふふっ、でもまあ、ありがと！\r\nよーし、清掃作業がんばるの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バイトリーダー",
+      "Text": "あっ、アイネスちゃん！\r\nよかった、早めに来てくれてて……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "やほやほ、リーダー！\r\nそんなに急いでどうしたの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バイトリーダー",
+      "Text": "ちょっとスタッフに欠員が出てさ、\r\n持ち場を急遽組み替えたんだ。\nアイネスちゃんはお化け屋敷担当ね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "お、お化け屋敷っ……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "表情を強張らせ、\r\n立ち尽くすアイネスフウジン。そういえば、\n彼女は怖いものが苦手だったような……。",
+      "ChoiceDataList": [
+        "……大丈夫？怖いんじゃ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "だ、大丈夫大丈夫！\r\nお化け屋敷くらいへっちゃらなの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "とは言うものの、\r\nあまり大丈夫そうには見えない。\nやはり心配だ。ここは――",
+      "ChoiceDataList": [
+        "あの、俺は彼女のトレーナーなんですが……",
+        "あの、私は彼女のトレーナーなんですが……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バイトリーダー",
+      "Text": "えっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "えっ……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "私服に着替え、仕事場のお化け屋敷へと\nやってきたアイネスフウジンは、\n少しばかり不満そうだった。というのも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "も～、ほんとに心配しすぎ！\r\nリーダーさんがいいって言ったからいいけど、\nバイトを見学したいなんて……。",
+      "ChoiceDataList": [
+        "ごめん、でも心配だったから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……まあ、人手的な意味では\r\n助かるけどね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "このお化け屋敷、機械の故障で閉鎖中でさ。\r\n今は他のスタッフさんもいないの。\nだから、ちゃんと掃除も手伝ってね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "せっかくだし掃除の極意を教えてあげるの！\r\nまずは上のホコリから落として――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ガタン！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "にゃっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……な、な～んだぁ。\r\nあたしが掃除機に足ひっかけちゃった\nだけだったの……あはは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……ふう！\u3000だいたい終わったかな。\r\nなんか普段より疲れた気がするけど――あれ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "もー、なんでソファの下に雑巾が落ちてるの。\r\n片づけ忘れてたかなー……よいしょっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ズルリ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "え……？\r\nこれって雑巾じゃなくて、包帯……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "よくよく見るとソファの下にはミイラの\r\n人形が、アイネスフウジンを見つめるように\n横たわっていて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……わああ～っ！？",
+      "ChoiceDataList": [
+        "お、落ち着い――うわっぷ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "トレーナー、助けてなの～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "お疲れ様でしたー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "なんとか掃除を終えたものの、すっかり\r\n疲れてしまった様子のアイネスフウジン。\n何か、声をかけてあげたいところだが――",
+      "ChoiceDataList": [
+        "無理なものは無理って言っていいんだ",
+        "無理なものは無理って言っていいんだよ",
+        "珍しい反応が見られた"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "なんとか掃除を終えたものの、すっかり\n疲れてしまった様子のアイネスフウジン。\n何か、声をかけてあげたいところだが――",
+      "ChoiceDataList": [
+        "無理なものは無理って言っていいんだ",
+        "無理なものは無理って言っていいんだよ",
+        "珍しい反応が見られた"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……確かに、意地張っちゃったかな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "バイトのリーダーさんね、\nあたしがトレーニングある時、\nいつもシフトを調整してくれるの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "だから、こういうところで恩返しできたら……\r\nって思ったんだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "トレーナーがいなかったら、\r\n逆に迷惑かけちゃってたかも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……そうだよね！\u3000頼る時はちゃんと頼る。\r\nそれで、もらった親切は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "レースで返す！\r\nそれでこそあたし、でしょ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "責任感の強いアイネスフウジン。\r\n今日の出来事を、彼女なりに\nレースへの熱意につなげてくれたようだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あっ、面白がってるでしょ！\r\nこらこら～、からかわないの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "はあ～……とはいえ、今日はほんとに\r\n情けないとこいっぱい見せちゃったなー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ねえトレーナー、今日のことはみんなに\r\n内緒にしといてほしいな。\nさすがに恥ずかしすぎるの～……。",
+      "ChoiceDataList": [
+        "もちろん"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どれだけ情けないところを見せられたって\r\n内緒にしておく。そう伝えると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ふふっ。どうかな？\nもうあたしの情けないところなんて、\n見られないかもしれないけど～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……でも、ありがと！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "穏やかに笑うアイネスフウジン。\r\nどうやら、またひとつ信頼関係を\n深めることができたようだ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

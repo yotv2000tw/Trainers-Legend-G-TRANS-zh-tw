@@ -1,0 +1,401 @@
+{
+  "Title": "語り合いたい！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "それで、やっぱり本巻の私の好きなシーンは\r\n主人公と敵の英雄が勇ましく決闘をする\nシーンですね。盛り上がりました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "わかります。私としましては本巻、\r\n現実の神話の要素がふんだんに\n盛り込まれていたのが嬉しかったです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "創作物なのにかなりの現実的な考察が\r\nなされていたところもポイントでしょう。\n実際にあり得そうなトレーニング法でした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "図書室に行くと、ゼンノロブロイ、\r\nメジロアルダン、ビワハヤヒデの3人が\n声量を抑えながら何かを語り合っていた。",
+      "ChoiceDataList": [
+        "こんにちは"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あっ、こんにちは。\r\nごめんなさい、うるさかったでしょうか？",
+      "ChoiceDataList": [
+        "大丈夫だよ。何について話してたんだ？",
+        "大丈夫だよ。何について話してたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "最近出版された小説の新刊の感想を\r\n語り合っていたのです。\nとっても面白い小説でして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "もう本当に面白くてっ！\r\nたくさんたくさん語り合いたいんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "しかし、最新巻について語り合える\r\n仲間が少ないのがいささか問題だな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "それは……仰る通りですね……。\r\n作品への熱を発散しきれません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "こんなに面白いのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "隠れた名作というやつだろうか？\r\n確かに作品の感想を語り合えないのは\n少々寂しいものだ。",
+      "ChoiceDataList": [
+        "俺もその小説を読んでみようかな",
+        "私もその小説を読んでみようかな",
+        "その本のおすすめポイントを教えて？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "隠れた名作というやつだろうか？\r\n確かに作品の感想を語り合えないのは\n少々寂しいものだ。",
+      "ChoiceDataList": [
+        "俺もその小説を読んでみようかな",
+        "私もその小説を読んでみようかな",
+        "その本のおすすめポイントを教えて？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "3人の瞳の輝く様子が見えた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "ほ、本当ですか！？\r\nう、嬉しいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "お気遣いいただきありがとうございます。\r\nふふっ、本当に嬉しいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "この図書室にも単行本が揃っていたはずだ。\r\n早速持ってこよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "うふふ、ハヤヒデさんも\r\n張り切っておりますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自分の提案に3人が喜んでいる。\r\n彼女たちは本当に本が好きみたいだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そんな彼女たちの役に立てて、\r\n自分の胸にも喜びが込み上げてくるのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……なんて、この時はまだ\r\nそんな甘いことを考えていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "これで34巻……。\r\n最新巻まで含めたシリーズ本編全巻分だ。",
+      "ChoiceDataList": [
+        "お、多っ！？！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ビワハヤヒデの前に、\r\n山のように本が積まれていたっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "このシリーズのスピンオフが\r\nまだ12巻分あったな。\nそちらも持ってくる。",
+      "ChoiceDataList": [
+        "まだ増えるのかっ……！？",
+        "まだ増えるのっ……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "あっ、ハヤヒデさん。\r\nよかったらこのシリーズのファンブックも\n持ってきていただけないでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "はい、わかりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "わあ～！\u30006巻なんて懐かしい！\r\n私、この巻の英雄に至るための修行編が\n好きでした！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "前のほうの巻をまた読み直そうかしら。\r\n新たな考察、発見があるかもしれませんし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "とんでもないほどの長期シリーズ。\r\n自分もタイトルくらいは知っていた。",
+      "ChoiceDataList": [
+        "も、もしかして……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あ、あはは……そうです。\r\n最新巻を語り合えないのって、最新巻に\n追いついている人が少なくて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "さすがにご迷惑だったでしょうか……？",
+      "ChoiceDataList": [
+        "そっ、そんなことないぞっ……！",
+        "そっ、そんなことないよっ……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "本当ですか！？\r\nうれしいですっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーナーたるもの、\r\nここで引き下がるわけにはいかない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ウマ娘たちの笑顔のためなら\r\nたとえ火の中水の底！",
+      "ChoiceDataList": [
+        "（全巻制覇ファイトぉぉぉっ……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうしてしばらくの間\r\n夜更かしが続いてしまうのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "は、はいっ！\r\n興味を持ってもらえましたか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ふっ、これは気合いを入れて\r\nアピールしないといけないな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "3人が心なしかうきうきとし始める。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "この作品はですねっ、\r\nなにも特別な力を持たない主人公が\n英雄になっていくお話なんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "時代背景や世界設定がとてもしっかり\r\nした作品でして、本当に1つの世界の歴史を\n覗いているような奥深い小説なんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "主人公の機転が巧みでな、\r\nファンタジーの中においてもなるほどそれは\n現実的で論理的、と思わず感心するほどだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "3人は楽しそうに作品について語っていく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "嬉しそうな3人の姿を見て、\r\n自分の胸にも喜びが込み上げてくるのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……なんて、この時はまだ\r\nそんな甘いことを考えていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "それでですねっ！\r\nこの作品は伏線の数もものすごくて！\nとても精密にお話が作られているんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "3巻の伏線がこの前の32巻で回収されたの\r\nですが……それまでその描写が伏線である\nこと自体に誰も気付けなかったんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あっ、ネタバレだから\r\n詳しくは話せないのですが……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "この作品は現実にある神話のエピソードも\r\nふんだんに取り入れられておりまして、\nとても考察しがいのある作品なのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "過去の逸話に出てくるモチーフやシンボルが\r\n後のお話とちゃんと関わってくることも多く、\n歴史的な観点からも面白いお話なんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "あっ、ネタバレだから\r\n詳しくは話せないのですが。",
+      "ChoiceDataList": [
+        "（熱量……！熱量がすごいっ！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "話し始めてから1時間以上。\r\n彼女たちの話が止まる気配は見られない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女たちの熱気を甘く見ていたっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "少なくとも8巻まではぜひ読んでくれたまえ。\r\nその巻での『ファンタジー世界における\n物理法則』の捉え方が独特で見事だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ネタバレだから詳しくは\r\n話せないがな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あっ、それを言ったら12巻の\r\n主人公の英雄という存在への考え方、\n価値観も面白くっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "21巻で描かれている歴史のモチーフに\r\n対する考察の仕方も斬新でありまして。",
+      "ChoiceDataList": [
+        "……オッケー！全部読もうっ！",
+        "……オッケー！全部読むよっ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ロブロイ＆アルダン",
+      "Text": "本当ですかっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……そう答えるしかなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーナーたるもの、\r\nウマ娘たちの笑顔のためならなんのその。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自ら彼女たちの熱気の中に\r\n飛び込んでいくしかないのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

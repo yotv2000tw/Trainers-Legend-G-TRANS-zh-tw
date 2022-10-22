@@ -1,0 +1,294 @@
+{
+  "Title": "お願い、お姉さん！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "休日、ショッピングモールを歩いていると、\r\nコスメショップの前で見知った顔を見つけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "こちらの指輪はどうだ？\r\n色といい質感といい、悪くないぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "ハヤヒデ。\r\n……それ、イヤーカフって書いてある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "――何！？\u3000どう見ても\r\n指輪にしか見えないが、違うのか……。",
+      "ChoiceDataList": [
+        "大丈夫？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "おや、トレーナー君。\r\nすまない、少々混乱していて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "というのも、マーベラス君の頼みで\r\nマヤノ君へのプレゼントを選んでいてな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "どうしよ、どうしよ～～っ！\r\nマーベラスが湧かないよ～～～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "マーベラス君、何かあったのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "あのねあのね、マヤノがレースに勝ったの☆\r\nだからマーベラスなプレゼントしたいの★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "でもマヤノが欲しいものは、\r\n『大人のオンナになれるグッズ』なんだって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "それってどういうやつ？\u3000甘いの、辛いの？\r\n熱いの、冷たいの！？\u3000全然わかんな～～い☆\nあははははっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "――こうして、プレゼント選びを\r\n手伝うことになったんだ。その場に\n居合わせたタイシンも含めてな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "ハヤヒデがすぐ首突っ込むから……。\r\nしかも、マーベラス本人はどっか行ったし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "自由な彼女のことだ。他に興味が\r\n移ったんだろう。後で連絡を取ればいい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "それで、話を戻すが――\r\n我々はマヤノ君の欲する『大人のオンナに\nなれるグッズ』を選ばなければならない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "が、そもそも『大人のオンナ』とは……？\r\nどういう定義なんだ？\u3000年齢のことか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "話を聞いているうち、なんとなく\r\n『大人のオンナ』という言葉に\n引っ張られすぎている気がした。",
+      "ChoiceDataList": [
+        "もっとシンプルに考えてみたら？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ほう……シンプルに？",
+      "ChoiceDataList": [
+        "2人がいいと思うものを選べばいい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "なるほど、それもそうだな。我々がいいと\r\n思わなければ、相手にも伝わるはずがない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "――よし。ではタイシン、\r\nそれぞれ1つずつ選んでくることにしよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "しばらくして、2人はそれぞれ\r\nプレゼント候補を携えて戻ってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ビワハヤヒデは赤いマニキュアを\r\nナリタタイシンは銀色の耳飾りを\n選んできたようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "では第三者であるトレーナー君に聞きたい。\r\nマニキュアと耳飾り、どちらがいいだろうか？",
+      "ChoiceDataList": [
+        "ハヤヒデの選んだ色っぽいマニキュア",
+        "タイシンの選んだクールな耳飾り"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ほう、私に賛同してくれるか。",
+      "ChoiceDataList": [
+        "でも、どうしてそれを？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "実は、以前のクリスマスパーティーでの\r\n格好を思い出したんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "あの時、衣装に合わせてマニキュアを\r\n塗ったんだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "指先が色づくだけで印象が変わるのが\r\n面白くてな。マヤノ君にもその面白みを\n楽しんでもらいたいと思ったんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……へえ、初耳。そんなこと思ってたんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ナリタタイシンもマニキュアの案に賛成し、\r\nプレゼントが決まった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "マヤノ、ハッピーマーベラス！！\r\nレース勝利おめでとう～～～☆★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マヤノトップガン",
+      "Text": "え、プレゼント！？\u3000しかもマニキュア！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マヤノトップガン",
+      "Text": "すっごく大人のオンナっぽい！\u3000色気爆発？\r\nって感じだね♪\u30003人ともありがとう～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ふふ、大成功のようだ。\r\n苦労して選んだかいがあったな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……ふぅん、そうなんだ。",
+      "ChoiceDataList": [
+        "でも、どうしてそれを？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "前に、クリスマスパーティーがあってさ。\r\nそこでハヤヒデにあげたヤツ思い出しただけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "あのときの銀色の耳飾り……\r\n悪くなかったなと思って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ほう、そんな細かい部分にもこだわって\r\nくれていたのか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "別に、そこまでは――\r\n……っていうかプレゼント、早く決めるよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ビワハヤヒデも耳飾りの案に賛成し、\r\nプレゼントが決まった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "マヤノ、ハッピーマーベラス！！\r\nレース勝利おめでとう～～～☆★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マヤノトップガン",
+      "Text": "え、プレゼント！？\u3000しかも耳飾り！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マヤノトップガン",
+      "Text": "すっごく大人のオンナっぽい！\r\nクールにキメ！\u3000って感じだね♪\n3人ともありがとう～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マヤノトップガン",
+      "Text": "……あ、でもこの耳飾りにはどんな服が\r\n似合うんだろう？\u3000マヤ、教えてほしいな～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……え？\r\nこれ、もしかして続く流れ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ははっ、随分と頼られたものだ。\r\n先輩として、嬉しいことこのうえないな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

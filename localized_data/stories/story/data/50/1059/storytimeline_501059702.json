@@ -1,0 +1,387 @@
+{
+  "Title": "今のアタシは……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロドーベルと駅前に出かけた帰り道――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女の子A",
+      "Text": "ねぇねぇ、お父さん！\n神社のお祭り寄ってこうよ～！\u3000いいでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女の子の父",
+      "Text": "仕方ないなぁ、少しだけだぞ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "へぇ、今日お祭りやってるんだ……。\n……ふぅん。",
+      "ChoiceDataList": [
+        "気になるなら行ってみようか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "え……！？\u3000い、いい……！\n別に気になってなんかないし！",
+      "ChoiceDataList": [
+        "じゃあ俺につき合ってほしい",
+        "じゃあ私につき合ってほしい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……い、いいよ。\nそうなんだ、って思っただけだし。",
+      "ChoiceDataList": [
+        "じゃあ俺につき合ってほしい",
+        "じゃあ私につき合ってほしい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "は？\nちょ、ちょっと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "は？\nちょ、ちょっと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "まったく。\nホント、アンタって強引――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……はぁ、少しだけだからね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "あれ、ベルちゃん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "あれ、ベルちゃん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "えっ……お父さん！？\nどうしてここに……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベルの父親",
+      "Text": "出張でこっちに来ていてね。ベルちゃんの\n顔を見に行く途中だったんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ちょっと……！\u3000子どもじゃないんだから、\nもうベルちゃんって呼ばないでよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベルの父親",
+      "Text": "はは、そうだね。こうして\nトレセン学園で頑張っているわけだし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベルの父親",
+      "Text": "トレーナーさんも……\n娘がいつもお世話になっています。\nお話はよく聞いていますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "べ、別に……！\n普通に現状報告しただけでしょ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "まぁ……\n一応、現状報告は必要でしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベルの父親",
+      "Text": "娘は貴方にすごく感謝しているみたいでね。\nこれからもよろしくお願いします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベルの父親",
+      "Text": "娘は貴方にすごく感謝しているみたいでね。\nこれからもよろしくお願いします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ちょ、ちょっと！\nやめてってば……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "よ、余計なおせっかいしないでよ……！\n感謝ならちゃんと伝えてるし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベルの父親",
+      "Text": "お祭りかぁ。懐かしいな。\n小さい頃、一緒に回ったね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベルの父親",
+      "Text": "お祭りかぁ。懐かしいな。\n小さい頃、一緒に回ったね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……小さい頃の話ね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベルの父親",
+      "Text": "祭りの終盤には花火が上がってさ……。\nあの時のベルちゃん、可愛かったなぁ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いドーベル",
+      "Text": "わぁ～！\u3000大きな流れ星がたくさん！\n早くお願いごとしなきゃ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベルの父親",
+      "Text": "あはは！\u3000流れ星とはちょっと違うかな。\nあれは打ち上げ花火っていうんだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いドーベル",
+      "Text": "えぇ～！？\u3000流れ星だよ～！\nアタシのお願い、叶えてくれるんだもん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いドーベル",
+      "Text": "お星さま、お星さま……。\nおっきなレースでも勝てるような\nすごいウマ娘になれますよーにっ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベルの父親",
+      "Text": "――ってさ。",
+      "ChoiceDataList": [
+        "へぇ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "なにその顔、バカにしてんの……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "わ、笑わないでよ……！\n今はちゃんと区別ついてるし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベルの父親",
+      "Text": "ははっ。でも元気そうでなによりだよ。\n表舞台にも出るようになって\n無理してないかと心配だったからさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベルの父親",
+      "Text": "ははっ。でも元気そうでなによりだよ。\n表舞台にも出るようになって\n無理してないかと心配だったからさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドーベルの父親",
+      "Text": "……さて、もう少し一緒にいたかったけど、\r\nそろそろ行かなきゃ。またね、ベルちゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "だからベルちゃんって――\n……もう、またね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "はぁ……。\n表舞台に出るようになって、\nちょっとは成長できたって思ってたけど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "それでもまだ……心配かけちゃうくらい、\n未熟だってことなのかな。",
+      "ChoiceDataList": [
+        "そう気を落とさないで"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "べ、別に……！\nア、アンタには関係ないでしょ……！",
+      "ChoiceDataList": [
+        "もっと活躍して立派なところを見せよう",
+        "お父さんはドーベルを認めてくれているよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "うん……。だけどやっぱり……\n少しだけ、気になっちゃうかも。",
+      "ChoiceDataList": [
+        "もっと活躍して立派なところを見せよう",
+        "お父さんはドーベルを認めてくれているよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "もっと……。",
+      "ChoiceDataList": [
+        "不安がなくなるくらい、たくさん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "もっと……。",
+      "ChoiceDataList": [
+        "不安がなくなるくらい、たくさん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "言われなくても……！\u3000今後も勝ち進んで、\n誰もが認める立派なウマ娘になるんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……確かに、うじうじ考えているよりも\n動かないと始まらないよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……だからアタシ、今よりもっと強くなる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "アタシ、強くなる。\n今よりも、もっともっと……！\nお父さんに胸を張れるくらいに……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロドーベルの強いまなざしには、\r\n彼女の決意がありありと表れていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロドーベルの強いまなざしには、\r\n彼女の決意がありありと表れていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "なっ……！\n知った風な口きかないでよ……！",
+      "ChoiceDataList": [
+        "娘を大事にしているのが伝わってきたから",
+        "娘を大事にしているのが伝わってきたから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……どうして断言できるの。\nトレーナーはお父さんじゃないのに。",
+      "ChoiceDataList": [
+        "娘を大事にしているのが伝わってきたから",
+        "娘を大事にしているのが伝わってきたから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……親バカなだけ。\n昔からずっと過保護で、心配性で、ホント――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "そっか……ならわかるでしょ？\n愛されてるってわかるから、余計悔しいの。\n心配させちゃった自分が、ふがいなくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……はぁ。少しは娘離れしてもらうためにも、\nもっと強くならないと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "だからアタシ、強くなる。\n今よりも、もっともっと……\nお父さんに胸を張れるくらいに……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "やれやれといった感じのメジロドーベルだが、\n強くなりたいという気持ちは固いようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロドーベルの強いまなざしには、\r\n彼女の決意がありありと表れていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

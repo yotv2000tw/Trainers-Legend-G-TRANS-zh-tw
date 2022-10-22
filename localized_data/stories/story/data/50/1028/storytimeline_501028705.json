@@ -1,0 +1,312 @@
+{
+  "Title": "宇宙の食卓",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヒシアケボノとのお出かけ後、\r\n駅前でプラネタリウムのチラシをもらった。\n今日は宇宙関連事業の専門家が解説員らしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "星と宇宙のお話が聞けるんだ！\r\nあ、チラシに割引券もついてるね～。",
+      "ChoiceDataList": [
+        "行ってみる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うん！\u3000楽しそう～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "おおおー！？\r\nアケボノ、やっほーマーベラース☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "やっほー！\u3000偶然だね！\r\nマーベラスちゃんもお星さまを見にきたの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "そうだよ☆\r\nキラキラのマーベラスを探すの★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "マーベラス、あるといいね。\r\nあ、始まるみたいだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドーム型の天井に星空が広がる。\r\n映し出される星座の解説に加え、\n恒星や銀河の構造などが詳しく語られる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "宇宙にはすごい数の星があるんだね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ねえねえ、宇宙人ってなにを食べてるのかな？\r\n地球のお料理は食べてくれるかな～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性A",
+      "Text": "クスッ……宇宙人とか信じてるヒトいたんだ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男性A",
+      "Text": "SF映画を信じちゃってんだろ。\r\nピュアピュアじゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "そうだよね……自分の目で見てないから、\r\n信じられなくても仕方ないよね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "銀河系には、ハビタブルゾーンに位置する\r\n地球型惑星がいくつも存在してるんだよ！\nその惑星は水を有している可能性があるの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "生命体が存在してもおかしくない環境だね！\r\n宇宙はまだ謎だらけで、可能性も未知なんだ！\nマーベラスだね☆\u3000スペースマーベラース★☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男性A",
+      "Text": "お、おい……行こうぜ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星と宇宙の解説員",
+      "Text": "ふふ、宇宙に興味を持ってもらえて嬉しいよ。\r\nさっきの質問には、よければ僕が答えよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星と宇宙の解説員",
+      "Text": "宇宙人の食事はわからないけれど……\r\n地球の料理は、食べてくれるかもしれないね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ほんとですか！？\r\nじゃあ、一緒にちゃんこ鍋が食べたいな～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星と宇宙の解説員",
+      "Text": "鍋は……少し難しいかもしれないな。\r\n無重力空間では、具や汁がバラバラに\nなってしまうから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ええっ！？\r\n具や汁がバラバラ……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星と宇宙の解説員",
+      "Text": "だから、宇宙食も汁物はとろみをつけて\r\nいるんだよ。表面張力でくっつくようにね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "宇宙食ってどんなの？\u3000美味しい？\r\nマーベラス？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星と宇宙の解説員",
+      "Text": "だいぶ美味しくなったと思うよ。\r\n宇宙飛行士に美味しいものを食べてほしいと、\nたくさんの人たちが研究をしているんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "マーベラス☆\u3000アケボノと一緒だね！\r\n美味しいでみんなをマーベラスにしてくれる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "本当だね。宇宙食も、おいしいものを\r\n食べてほしい思いで作られてるのか～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あたし、宇宙食のこと\r\nもっと知りたくなっちゃった！",
+      "ChoiceDataList": [
+        "作ってみる？",
+        "宇宙食を買って食べてみよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "わあ！\u3000『宇宙ちゃんこ』、作ってみたい！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星と宇宙の解説員",
+      "Text": "それなら、宇宙飛行士が宇宙食を食べている\r\n動画を見ると、参考になると思うよ。\n食レポもしているからね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "休憩がてら、早速宇宙飛行士の動画を\r\n見てみることにした。字幕が入っているので、\nこういう場所でも見られるのがありがたい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うわわ、水ってこんな風に分裂しちゃうの！？\r\n汁がバラバラになるって、これだったんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "おお～？\u3000缶詰、逆さにしてもこぼれない！\r\nマーベラス！！\u3000でも、うまく混ざらないね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "無重力だからみんな浮いちゃって\r\n混ざらないんだね～。\n宇宙でお料理するの、難しそう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あ……宇宙飛行士さん、\r\n和食が嬉しいって言ってるね……。\n食事が1番の楽しみだって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……お鍋も食べられたら、嬉しいよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あたし、宇宙ちゃんこのレシピ、考えてみる！\r\nそれで作るところをウマスタで流したら、\n宇宙食開発の参考になるかもしれないよね！",
+      "ChoiceDataList": [
+        "いい考えだと思う！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "マーベラス☆\u3000やろやろー★\r\nちゃんこ鍋を宇宙に届けよう☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うん！\u3000いつか宇宙飛行士さんと宇宙人で\r\nちゃんこ鍋を囲めたらいいな～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あっ、本当だ！\r\nお土産コーナーに宇宙食も売ってるんだね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "カレーとご飯、鶏の味噌煮の宇宙食を購入し、\r\n学園に戻って食べてみることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "それじゃ、いただきまーす！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "カレーライス、マーベラース☆\r\n味はとってもスパイシー★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "鶏の味噌煮も味が濃いめかな。\r\nダシにとろみをつけてるんだね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "無重力空間では味の感じ方が変わるため、\r\n宇宙食は味を濃いめにしているらしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "他にも塩分を控えたり、栄養価を高めるなど、\r\n宇宙飛行士の健康にも配慮されているようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "宇宙食って、そんなに色々\r\n考えて作られてるんだね。\n宇宙飛行士さんのためを思って……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "この味にたどり着くまで、\r\nすごくすごく努力したんだろうなぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "美味しいはマーベラスだね☆★☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うん。『おいしい』は味だけじゃない……\r\nあたしもそれを忘れないようにしなきゃって、\n改めて思ったよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

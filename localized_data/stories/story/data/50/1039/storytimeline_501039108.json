@@ -1,0 +1,455 @@
+{
+  "Title": "ファン感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今日は春のファン大感謝祭。\r\nさまざまな催しで盛り上がる中――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "うおっ！？\u3000客、多いな～。\r\nあ、スカーレットもいんじゃねぇか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "スカーレット"
+      ]
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "ウオッカ！？\u3000アンタも\r\n『ティアラ路線トークショー』を見に来たの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ウオッカ"
+      ]
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "『ティアラ路線トークショー』……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "……だと思った。はぁ……もう始まるし、\r\n見るならフラフラせず、黙って見なさいよ。\n真剣なアタシの邪魔をしないでよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "なっ、お前こそ俺の邪魔すんなよな！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "三つ編みの少女",
+      "Text": "こっちこっち。おねえちゃんが\r\nお話するのこっちだよー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "日焼けした少年",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗毛のウマ娘のファン",
+      "Text": "……っ、\r\nまたあの娘と同じイベントなのね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "みなさま、本日は私たちのトークショーに\r\nお集まりいただき、超絶感謝申し上げますわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗毛のウマ娘",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "昨年は大変お世話になりました。\r\nプリンセスたるもの、私は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客A",
+      "Text": "確かに昨年はプリンセス大活躍だったしね～！\r\n名前通りの大人しい子じゃなかったけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗毛のウマ娘のファン",
+      "Text": "……はぁ。またあの子、姫とか言っちゃって。\r\n自己中心よね。1人で目立とうとしてるの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "……カワカミ“プリンセス”！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "『姫』という言葉に対するイメージには、\r\n可憐さ、高貴さ、清廉さ……など\n様々なものがあると思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "だから私たちは『姫』と言っても\r\n違うものを思い浮かべる。\nそしてそれは、同じものにはならない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……お互いにお互いを、\r\n“違う”と傷つけあうこともあるでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "――だけど私は自分が思う姫になりたい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "私には反省すべきことはたくさんありました。\r\nでも誇れるところもありました。\nだから……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "三つ編みの少女",
+      "Text": "……おねえちゃん……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "私は……っ！\r\n………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "日焼けした少年",
+      "Text": "……泣くなよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "日焼けした少年",
+      "Text": "俺はカッコいいプリンセスに憧れたんだ！\r\nアンタみたいなプリンセスになりたいんだ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "集まった観客がざわつき始める。\r\n自然と人垣が分かれていき、\nその円の中には少年と……女性がいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドレス姿のマダム",
+      "Text": "ケンくん！？\u3000……もしかしてまだ、\r\nプリンセスになりたいだなんて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "日焼けした少年",
+      "Text": "母さんは！\u3000母さんは……っ、\r\n俺にはお姫さまはムリだって、\n諦めたほうがいいって言ったけど……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "日焼けした少年",
+      "Text": "俺……やっぱりなりたい……！\r\nなりたいんだ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "日焼けした少年",
+      "Text": "カワカミプリンセスみたいな、\r\nカッコよくて、強くて、キラキラな……\nお姫さまになりたいんだ……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドレス姿のマダム",
+      "Text": "そんなこと言っても、せめて王子様で……。\r\n貴方はだって……。",
+      "ChoiceDataList": [
+        "……そうだろうか！？カワカミプリンセス！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "いいえっ。彼がプリンセスになれるかは、\r\n彼の心の持ちよう、努力次第ですわ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドレス姿のマダム",
+      "Text": "っ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "私にとってプリンセスとは諦めない者。\r\nプリンセスらしさとは心の持ちよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "貴方が思う姫と、私が思う姫が違うように、\r\nきっと……彼が思い描く姫の形も違います。",
+      "ChoiceDataList": [
+        "そこに間違いも正しいもありません"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ええ。だからこそ私たちは\r\n自分で自分を律さなければならない。\n自分らしさと自分勝手をはき違えないように。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "振り返った時に恥じる行動ではなく、\r\n自分で誇れる自分でい続けるために。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……誰のためでもなく、自分のために。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（パタパタパタ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗毛のウマ娘",
+      "Text": "……私も、それでいいと思いますっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗毛のウマ娘のファン",
+      "Text": "え、貴方は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗毛のウマ娘",
+      "Text": "彼女の姫発言とか、会見の時困ったけど、\r\n彼女は私じゃないから。\n彼女は彼女で、私は私だから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗毛のウマ娘",
+      "Text": "私、あなたの事本当は素敵だと思った！\r\nでもそれ以上に、私は自分の夢の方が\nもっと素敵だとも思ってる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗毛のウマ娘",
+      "Text": "だから今度のレースでは負けないよっ！\r\nどっちの方が成長できたか。\nレースがあったら、また勝負しよう！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗毛のウマ娘のファン",
+      "Text": "！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……はい、喜んで。\r\nガチンコレース、やったりましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "……カッケェー…………。\r\nこれが俺たちの……先輩……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "は～～……背骨もバッキバキ……。\r\n緊張しましたわぁ……。",
+      "ChoiceDataList": [
+        "でも“君らしい”“お姫様”だった",
+        "でも“貴方らしい”“お姫様”だった"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……はい、もう迷いませんわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "傷つけることに無自覚でいてはいけない、\r\nでもそれを恐れ過ぎてもいけない。\n自分の道を進むために。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "“私が憧れるプリンセス”になるために、\r\n私は……私が尊敬できる私になります。",
+      "ChoiceDataList": [
+        "そして君も誰かの憧れになるんだな",
+        "そして貴方も誰かの憧れになるんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女がプリファイに憧れて姫を志したように。\r\nカワカミプリンセス自体に憧れて、\n姫を志す者も現れていくのだろう。",
+      "ChoiceDataList": [
+        "……あの少年みたいに"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "！\u3000……ふふっ、そうですわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ぐぅ～……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……な。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "なぜこのタイミングで鳴るのです！？\r\nこのままじゃ締まりませんわよ～、私～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自分のお腹に対して腹を立てる\r\nカワカミプリンセス。しかし一回り成長した\n彼女を労い、屋台を回ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（パタパタパタ……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "三つ編みの少女",
+      "Text": "おねえちゃん、かっこよかったよー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "日焼けした少年",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "まあ、お祭りは楽しんでいらっしゃる？\r\nあっちにパンチング大会もありますわよっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "三つ編みの少女",
+      "Text": "わ、本当！？\u3000……じゃなくて、\r\nケンちゃん、おばさんとお話したんでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "日焼けした少年",
+      "Text": "るっせ。……あのさ、さっき\r\n母さんが『ごめん』って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "日焼けした少年",
+      "Text": "……俺に、言ってくれたんだ。\r\nごめんって……頭なでてくれたんだ。だから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "日焼けした少年",
+      "Text": "……ありがとう、プリンセスっ。じゃあな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "三つ編みの少女",
+      "Text": "あ。まってよ～、ケンちゃーん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……まあ……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……きっと、彼も彼女も\r\n素敵なプリンセスになれますわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――その時のカワカミプリンセスの顔も、\r\n素敵なプリンセスの顔だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

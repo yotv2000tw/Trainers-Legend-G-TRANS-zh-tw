@@ -1,0 +1,382 @@
+{
+  "Title": "チュートリアル",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "お疲れ様です。現在、希望される方に、\r\n『トゥインクルスタークライマックス』へ\n向けた育成について、ご説明していますが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "<username>さん、\r\n説明は必要ですか？",
+      "ChoiceDataList": [
+        "説明を聞く",
+        "説明を聞かない"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "それでは、何をご説明いたしましょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『トゥインクルスタークライマックス』の\r\n育成について聞いておきたいことといえば――",
+      "ChoiceDataList": [
+        "育成目標について",
+        "TSクライマックスについて",
+        "特別ショップについて",
+        "最優秀ウマ娘について",
+        "もう大丈夫です"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『TSクライマックス』の\r\n育成目標についてですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "育成目標"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "これからトレーナーさんには、\r\n『TSクライマックス』への出走を目指し\n育成を進めていただきます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "まずはレースに出走し、その結果に応じて\r\n獲得できる『成績Pt』を集めてくださいね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "成績Pt"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『成績Pt』はジュニア級クラシック級など、\r\n各級ごとに獲得しなければいけないPt量が\n決められています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ジュニア級クラシック級",
+        "各級ごとに獲得しなければいけないPt量が",
+        "決められています"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "毎年12月後半のターン終了までに、\r\n必要な『成績Pt』を集めないと、\n育成終了となりますので要注意ですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "毎年12月後半のターン終了まで",
+        "育成終了"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『成績Pt』はグレードの高いレースで\r\n良い成績を残すほどたくさん獲得できます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "グレードの高いレースで",
+        "良い成績を残す"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "また、レースには強敵となるウマ娘が\r\n出走することもあるようですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "強敵となるウマ娘"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "強敵は『ライバル』として\r\nレースの出走登録画面に登場します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ライバル"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "見事ライバルとのレースに勝利すると\r\nスキルヒントが獲得できますので、\n積極的に挑戦してみましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ライバルとのレースに優勝すると",
+        "スキルヒントが獲得できます"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "なお、今回の育成はこれまでと異なり、\r\n担当ウマ娘ごとの目標がありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "担当ウマ娘ごとの目標がありません"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "ですので、これまで出走できなかった、\r\n色々なレースに挑戦することもできますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "担当ウマ娘に合うレースを、\r\nぜひトレーナーさんご自身で\n選んであげてくださいね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "育成期間中は、新しく学園のウマ娘たちの\r\n日常を垣間見ることができるかもしれません。\nそちらも楽しみですね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『TSクライマックス』の\r\n育成目標についての説明は以上となります。\nほかに聞きたいことはありますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『TSクライマックス』についてですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "育成時期ごとに『成績Pt』を集めていき、\r\n全ての時期で獲得目標を達成すると、\n『TSクライマックス』に挑戦できます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "成績Pt"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『TSクライマックス』は、\r\n全3レースにわたって行われる\nウマ娘たちにとって特別なレースです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "各レースの着順に応じて『勝利Pt』を\r\n獲得し、3レースの合計Ptが\n1番高いウマ娘が優勝となります♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "勝利Pt",
+        "3レースの合計Ptが",
+        "1番高いウマ娘が優勝"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "出走するウマ娘は、3レースとも\r\n同じメンバーですが、勝負が進むにつれて\nどんどん手強くなってきますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『TSクライマックス』までにウマ娘を\r\n育て上げ、『トゥインクルトップスター』の\n座を勝ち取りましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トゥインクルトップスター"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『TSクライマックス』に\r\nついての説明は以上となります。\nほかに聞きたいことはありますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『TSクライマックス』育成中の\r\n特別ショップについてですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "特別ショップ"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "育成中、レースに出走すると『成績Pt』の\r\n他に『ショップコイン』を獲得できますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "成績Pt",
+        "ショップコイン"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『ショップコイン』は、\r\nレースの着順が高いほど多く獲得でき、\n『特別ショップ』で使うことができるんです♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『特別ショップ』では、ウマ娘の育成を\r\n助ける『育成グッズ』が交換できます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "育成グッズ"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "基礎能力を上げるものや体力回復、\r\nトレーニング効果を強化するものなど、\n育成に役立つグッズが登場しますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "積極的に『特別ショップ』を利用して、\r\nウマ娘たちを育て上げてくださいね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "なお『特別ショップ』のご利用は、\r\nジュニア級メイクデビューのレース後からと\nなりますのでご注意ください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ジュニア級メイクデビューのレース後から"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "また各育成グッズは、\r\n一定の時間が経過すると\n新しい育成グッズに入れ替わります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "一定の時間が経過すると",
+        "新しい育成グッズに入れ替わります"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "欲しい育成グッズを見つけた場合は、\r\n入れ替わる前に『ショップコイン』を集めて\n交換することをおススメします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "なお、育成グッズが入れ替わる際に、\r\nランダムで、通常よりも安く交換できる\nセールが開催されることもありますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ランダムで、通常よりも安く交換できる",
+        "セール"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "ほかにも、レース終了後には\r\n育成グッズが追加されることがあるようです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "レース終了後には",
+        "育成グッズが追加"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "ぜひ定期的に『特別ショップ』を\r\nチェックしてくださいね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『TSクライマックス』育成中の、\r\n特別ショップの説明は以上となります。\nほかに聞きたいことはありますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『最優秀ウマ娘』についてですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "最優秀ウマ娘"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『最優秀ウマ娘』は、\r\nURAが各級ごとに審査を行う賞で――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "URA"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "ジュニア、クラシック、シニアの各級ごとに、\r\nその年でもっとも活躍したウマ娘が\n表彰される、非常に栄誉ある賞となります！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ジュニア、クラシック、シニアの各級ごと"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "毎年12月末、その年の最後のレースが\r\n終わると『最優秀ウマ娘』の選考が\n行われます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "毎年12月末"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『最優秀ウマ娘』は、その年のレース成績や\r\nファン数など、様々な条件を元に\n選ばれるんですよ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "トレーニングや育成グッズを活用して\r\nウマ娘を育て上げ、たくさんレースに挑戦\nしてみてくださいね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『最優秀ウマ娘』についての\r\n説明は以上となります。\nほかに聞きたいことはありますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "本当に大丈夫ですか？",
+      "ChoiceDataList": [
+        "はい",
+        "いいえ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "わかりました♪\u3000念のためお伝えしますと\r\n簡単にまとめたものがこちらにあります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "今の説明は、左上の『iボタン』を押せば\r\nいつでも見ることができますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "iボタン"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "それでは、がんばってください。\r\n陰ながら応援しています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "わかりました。それでは、がんばって\r\nくださいね！\u3000陰ながら応援しています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

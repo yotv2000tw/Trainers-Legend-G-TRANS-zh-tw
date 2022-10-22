@@ -1,0 +1,302 @@
+{
+  "Title": "バンブーの倍々1日1善週間",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "寮の近くを通りかかった時、\nバンブーメモリーと\nメジロアルダンの姿を見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――本の運搬へのご助力、\n心より感謝いたします。大変助かりました。\nいけませんね、つい借り過ぎてしまいまして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "これぐらい当然っスよ！\nまた困ったことがあったら、\nいつでも声かけてほしいっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "あっ、トレーナーさん！\nおはようございますッ！",
+      "ChoiceDataList": [
+        "人助けとは立派だな",
+        "人助けとは立派だね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "ありがとうございますッ！\nでも、今日はもっともっとがんばるっスよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "なんせ今日は……\n『1日64善』の日っスから！",
+      "ChoiceDataList": [
+        "……い、1日1善じゃなくて？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "最初はそうだったっス！\u3000そっから\n1日ごとに倍に増やして、2、4、8！\n……16！\u3000えーと……32？\u300032ッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "えーとえーとえーっと……そんで！\n1週間目の64！\u3000コイツをクリアできれば、\nサイコーにカッコいいッ！\u3000熱いっス！！",
+      "ChoiceDataList": [
+        "さすがに無茶じゃ――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "ととっ！\u3000急がなきゃ間に合わないっスね！\nそれじゃ、失礼します！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――止める間もなく行ってしまった彼女を、\nなんとも心配な気持ちで見送った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――そして、夕方。コースにて、\nバンブーメモリーの姿を見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "おう、苦労かけちまったなバンブー！\n後輩らに差し入れ配るの\n手伝ってもらっちまってよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "いやいや！\u3000こっちこそイナリ先輩の\nお役に立てて嬉しいっスよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "へへ、相っ変わらず頼もしいヤツだ。\n聞いたぜ、ここ最近は特にあっちこっちで\n助っ人をつとめてるってよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "世話になっといてなんだが、大変じゃねえか？\n他ならぬお前さんのことだ、\nなんなら手を貸すぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……いえ！\u3000お気持ちは本当嬉しいっスけど、\nコイツだけはアタシの力でやり切りたいんス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――アタシが学園の風紀委員長になった時、\n父さんが話してくれたんスよ。\n風紀を守る者の心得について。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーの父親",
+      "Text": "お～風紀委員長になったか！\u3000よくやったな！\nじゃあ、俺の教師経験から1つアドバイスだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーの父親",
+      "Text": "風紀を守る人間ってのはな、まず……\n最高に、カッコよくなくちゃならねえ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーの父親",
+      "Text": "悪いことを注意するだけなら、\n勇気がありゃ誰でもできる。だが、\nそれだけじゃ改心してもらうのは難しい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーの父親",
+      "Text": "だから風紀を守る人間は、まず皆の\nお手本にならなきゃならん。皆が\n見習いたくなるようなカッコいいお手本にな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "な～るほど……！\u3000そうすれば、\nみんな自然と風紀を守ってくれるのか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――それ以来、アタシはみんなの\nお手本になるための特訓を\n思いついては、即実行してきたっス。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "『年中早寝早起き』『トイレピカピカ作戦』\n『ご飯きちんとかむかむ運動』などなど……\nそして今回の『倍々1日1善週間』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "昔観てたドラマの、『常に昨日の自分を\n乗り越えていけ！』ってセリフで思いついた、\nこれまでで最強の特訓っス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "そして、目標64善中、イナリ先輩で\n63善目っス！\u3000あと1歩っスよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ふーむ……そこまで頑張ったってわけかい。\nそんなら手出しすんのも野暮ってもんさな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "そんじゃ、手前の力でやりとげてみな！\nそうすりゃ、間違いなくお前さんは\n立派なお手本ってヤツよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "ウス！\u3000ありがとうございますッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……あっ、トレーナーさん！\nちょうど今残り1善まできたところっス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "でも、今日は学園中の困ってる人を助けて\nきたっスからね。あと残り1善……\n見つけられるかわからないっス。",
+      "ChoiceDataList": [
+        "“善”は相手がいないと行えないものか？",
+        "“善”って相手がいないと行えないもの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……！\u3000そっか！\u3000そうっスね！\n誰かの手伝いじゃなくても、善行は善行っス！",
+      "ChoiceDataList": [
+        "君がカッコいいと思える行いが答えだ",
+        "貴方がカッコいいと思える行いが答えだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "アタシにとってカッコいいこと……\nトレセン学園生徒のお手本として、\n1番ふさわしいこと……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……そうだ、トレーニング！\nアツアツの、熱血トレーニングっスよ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "うおおお！\u3000最後の1つはコイツで決まり！\nどんなトレーニングでシメるっスかね！？",
+      "ChoiceDataList": [
+        "心のおもむくままに筋トレ！",
+        "王道の走り込みだな",
+        "王道の走り込みかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "うおおお！\u3000最後の1つはコイツで決まり！\nどんなトレーニングでシメるっスかね！？",
+      "ChoiceDataList": [
+        "心のおもむくままに筋トレ！",
+        "王道の走り込みだな",
+        "王道の走り込みかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "おおっ！\u3000了解っス！\n全身余すところなくパンパンにするっスよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "フンッ！\u3000フンッ！\n……フンフンフンフンフンッッッ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "周りのウマ娘たち",
+      "Text": "うわあああ！？\u3000す、すごい\nトレーニング……！！\u3000激しすぎて、\n校舎が……揺れてる！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "無事に目標を達成し、名実ともに\n生徒のお手本になることができた\nバンブーメモリーだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "よっしゃ！\u3000学園中のお手本になる、\nすっげー走りっぷりを見せるっスよ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "うおお～！！\u3000シメの、\nコース全力64周っス～！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "周りのウマ娘たち",
+      "Text": "な、なんて熱い走りっぷり……！\nよーし、私たちも負けてらんないッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "はぁっ、はぁっ……全部、出し切った……！\nついてきた生徒たちにも、\n最後まで負けなかったっスよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "無事に目標を達成し、名実ともに\n生徒のお手本になることができた\nバンブーメモリーだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

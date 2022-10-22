@@ -1,0 +1,338 @@
+{
+  "Title": "黄昏サボタージュ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーナー室へ向かう途中、言い争う声と\r\nともに2人のウマ娘が教室から出てきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "あー、うっせーな！\r\n集中して見られねーだろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "今は掃除の時間でしょっ！\r\nバイクレースなんて録画でもしときなさいよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "生中継じゃなきゃ意味ねえんだよ！\r\nオマエはロマンをわかってねーな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "な～にがロマンよ！\u3000偉そうなこと言うのは\r\nやることやってからにしなさい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "う……！！\r\nぅ……う、うるせーなぁ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "掃除はやりたいヤツがやりゃいいだろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "丸投げするつもり！？\r\nもうっ……バカ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それから校舎裏でウオッカを見かけた。\r\n彼女のスマホから、バイクレースの\n白熱した実況が流れている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "しかし、その盛り上がりとは反対に\r\nウオッカはどこか浮かない表情をしていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "あぁー、くそ！\u3000なんだってんだ……！\r\nこんなはずじゃ……あぁぁー、もう！",
+      "ChoiceDataList": [
+        "なんだか楽しくなさそうだな",
+        "なんだか楽しくなさそうだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "アンタ、さっき廊下にいた……。\r\nイヤなとこ見られちまったな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "……スカーレットの言葉が、\r\nずっと頭ん中グルグルしててよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "な～にがロマンよ！\u3000偉そうなこと言うのは\r\nやることやってからにしなさい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "アイツの言う通りだ……。\r\nやらなきゃならねーこと投げ出すなんて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "ハンパすぎんだろ……！\r\nダサすぎんだろ……ちくしょー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "アイツも……きっと、呆れてるよな……。",
+      "ChoiceDataList": [
+        "反省の態度を見せよう！",
+        "素直に謝ればいい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "…………だな。\r\nそれしかねーよな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "反省してるっ！\u3000アイツにも悪ぃことした！\r\n2度とこんなダセー真似はしねえっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "と、そこへ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "はいはい、どいてどいて。\r\nゴミ捨ての邪魔だから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "スカーレット！\r\nい、今の聞いてたのかよ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "ふん、勝手に聞こえてきたのよ。\r\nアイツにも悪いことした、だっけ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "で、そのアイツって誰のこと？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "ぐ……わ、わかってるくせに聞くんじゃねー！\r\nそれよりゴミ袋貸せよ！\u3000俺も掃除するっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "はいはい。……で、アイツって誰なのよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "そ、その話はもういーじゃねーか！\r\nアイツはアイツだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "えー、全然わかんないんだけど？\r\nアンタの口からはっきり聞きたいな～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "だぁぁあああっ！\r\nぜってぇ言うもんかぁぁ～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "できっかな……いや、やるしかねえよな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "俺は逃げねえ！\u3000ビシッと謝ってやる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "と、そこへ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "アンタ、こんなとこにいたの？\r\nで、誰がなにを謝るって？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "スカーレット！\u3000ちょうどよかった！\r\nあ、あのよ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "掃除サボって悪かった……！\r\n自分のこと考えてばっかで、その……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "はぁ……いいわよ、もう。\r\nその代わり、こっから挽回しなさいよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "当たり前だろ！\u3000腰抜かすくらい\r\nキレイにしてやるよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "よーし、やるぞー！\r\nオマエは拭き掃除、俺が掃き掃除な。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "さっきまでサボってたヤツが偉そうに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "あれ、そういえばバイクレースの\r\n中継は終わったの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "いや、まだやってるぜ。\r\nでも今はそれどころじゃねーからな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "へえ……やけに真面目じゃない。\r\nなんか悪いものでも食べたわけ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "んなもん食べるか。\r\n俺はケジメつけたいんだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "ハンパなままじゃ、カッコいいもんに\r\n憧れる資格がねーからな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "……はいはい、いつも通りってわけね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "よーし、オマエは休んでろ！\r\n後は俺が全部やってやる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "どりゃりゃりゃりゃりゃっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ウオッカがホウキを激しく動かすと、\r\n大量の埃が宙を舞った……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "ケホッケホッ！\u3000ストップ、ストーップ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "なにやってんのよ！\r\nアンタ散らかしに戻って来たわけ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "窓開けてホコリを風に流すんだよ！\r\nどうだ、天才だろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "バカの発想だし、外にホコリを出さないっ！\r\nアンタってばほんと……！！",
+      "ChoiceDataList": [
+        "やっぱり仲がいいな",
+        "やっぱり仲がいいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "どこがっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "Title": "裏路地アドベンチャー",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "サトノダイヤモンドとお出かけした\n帰り道でのこと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あら？\u3000あらあらあらっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "トレーナーさん、大発見ですっ！\nあんなところに“わき道”がありますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "わぁ～、気づきませんでしたっ！\nあっちの道……どんなところなのでしょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "引き留める間もなく、サトノダイヤモンドは\nわき道へ駆けこんで行ってしまった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ふふふっ、なんだか怪しげな場所ですね。\nお化けが出てもおかしくないような……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "それって～……こんなお化けぇ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あら、ジョーダンさん。こんばんは♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ちょ、ミリも驚かんとかマ？\n逆にハズ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "んで、こんなとこで何してんの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "わき道の先がどうなっているのか……\n気になって冒険しているところですっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "景色は非日常的で、まるで違う世界……\nふふふっ、わくわくが止まりません♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "なる～。んじゃ一緒に行く？\n面白いとこ教えられっし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……んでさ～、ここの家の犬ヤバイんよ！\nもー目が合ったら秒で吠えてくっから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "元気なワンちゃんですね！\nどんな子なのでしょう……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大きな犬",
+      "Text": "ワンワン！\u3000ワンッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "わっ、本当だ！\u3000うふふ、可愛いですね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "エンジョイしてんね～！\n他にもアガるショップとか行っとく？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "まあ、それは楽しそうです――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "――あら？\nあちらの通り、一段と暗いですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ちょ、待った！\u3000そこNGで！",
+      "ChoiceDataList": [
+        "何かあるのか？",
+        "何かあるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "あ～いや～……\nワルめなお姉さんたちのたまり場的な？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "なんかされたってことは別にないけど～、\nわざわざ飛び込んでくこともないっしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "つーことでサトノちゃん、\nそっちじゃなくてこっちの道に――",
+      "ChoiceDataList": [
+        "もういないっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ヤッッッバ！？\u3000ちょ、サトノちゃーん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あら、あなたはツッパリさんでしょうか……？\nドラマで拝見している、あのっ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "不良のお姉さん",
+      "Text": "あぁん？\u3000なんだって！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あっ、私はサトノダイヤモンドと申します。\r\nぜひお伺いしたいことがありましてっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ツッパリさんと言えば、雨に濡れた子犬を\n拾うエピソードが好きでして……。\nあなたもご経験があるのでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ちょちょちょ！\u3000ストップストップ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "いや、マジすんません！\nあたしら、すぐ行くんで～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "えっ、あっ、でも……！",
+      "ChoiceDataList": [
+        "ほら、早く帰ろう！",
+        "急に話しかけたことを謝っておこう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "わ、わかりました？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "では、失礼いたします。\nごきげんよう♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あぁ、ツッパリさん……。\nもう少しお話しできれば……残念です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "いやいや、怖くなかったん！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "怖くはありませんでしたよ？\nドラマで見た限り、捨てられた子犬を拾う\n優しい心根を持った方ですから♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "サトノちゃん、パないわ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "サトノダイヤモンドが寂しそうな目を\nしていたので、あまり叱らないでおいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "確かに不躾でしたね……。\n大変失礼いたしました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "不良のお姉さん",
+      "Text": "チッ。あたしも不良以外とやる気はねーから。\n次からは気ぃつけなよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ありがとうございます！\nツッパリさんは硬派で芯の通ったお方、\nというのは本当だったのですね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "不良のお姉さん",
+      "Text": "お？\u3000わかってんじゃねーか嬢ちゃん。\nへへっ、ちょっと茶店でも行くかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "まあ、いいのですか？\r\nぜひご一緒させてください♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "マ？\u3000サトノちゃんつよすぎん！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、不良のお姉さんの話に\n目を輝かせるサトノダイヤモンドだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

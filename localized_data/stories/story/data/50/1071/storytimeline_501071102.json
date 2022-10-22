@@ -1,0 +1,466 @@
+{
+  "Title": "初詣",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ついに迎えた、シニア級の年。\nメジロアルダンはというと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『――トゥインクル・シリーズトレンド速報、\n続いての特集はこちらの方！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『昨年のクラシック級での活躍が話題の、\nメジロ家の令嬢メジロアルダンさーん！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーB",
+      "Text": "『いやぁ、日本ダービーでの彼女の走りは、\n凄まじかったですね。以降の戦績もすごくて、\nシニア級での活躍も期待したいです――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……光栄ですが、少々照れますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロアルダンの世間での評価は、\nクラシック級での戦いを経て、\n大きく変化しつつあった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女を評するにあたり、偉大な姉の名前が\n出ることはなくなった。『メジロアルダン』\nとしてその名を確立したように見える……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "しかし、その一方で――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーB",
+      "Text": "『――注目はやはり、あのオグリキャップと\n今後どれほど渡り合っていけるかでしょうね』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『やはり、彼女は別格なのでしょうか？』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーB",
+      "Text": "『そう表現するのが適切じゃないかと。\r\n同じように強いウマ娘、人気のあるウマ娘は\n今年もたくさん現れていますが――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーB",
+      "Text": "『これまでの彼女の走るレース、その蹄跡は、\r\n常に事前の常識を覆すもので……私自身、\nいちファンとしていつも心躍らされます』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーB",
+      "Text": "『そうしたワクワクさせる、夢を見せるなど、\r\nスター性と言える点で、オグリキャップは、\nこれまでにないものがあるんじゃないかと』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーB",
+      "Text": "『彼女の走るレース、競う相手にファンも\n注目せざるを得ない。正に時代を代表し、\n時代を作るウマ娘と言えるでしょうね』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……このように世間では、オグリキャップが\nトゥインクル・シリーズの中心として\n常に話題にあがっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――事実だと思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "オグリさんの走り、それが放つ輝きは、\n圧倒的とも言えるほど力強く、\nそれでいて……異質です。",
+      "ChoiceDataList": [
+        "異質？"
+      ],
+      "ColorTextInfoList": [
+        "オグリ"
+      ]
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "奇妙に聞こえるかもしれませんが……\n『歴史に残ることを約束された輝き』と\n思えてしまうのです。",
+      "ChoiceDataList": [
+        "歴史に、残る――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……対して“今”の私は、オグリさんや、\nオグリさんらと競う強者たちと比べると、\nまだ朧気で儚い輝きでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――だからこそ、考えてしまうのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "そのような私が、オグリさんたちの輝きを\nかき消すほどの眩さを放ったとしたら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "それは、どれほどの数の人々の心を\n焼き尽くすことになるのだろうか、と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……トレーナーさん。\n少々、大袈裟な言葉を使ってしまいますが、\n笑わず聞いてくださいませ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "私は、このシニア級で“今”の極致――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "約束された歴史を変える、\n“転換点”になろうと思います。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "オグリさんたちを打倒し、\r\n“今”に存在する全ての評価を、\nことごとく覆す。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "それを、今後の私の目標にしたいのです。",
+      "ChoiceDataList": [
+        "……『最も苦しく険しいもの』か",
+        "……『最も苦しく険しいもの』だね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――はい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……私ひとりでは、\n決してここまで来られない道行きでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "愛すべき好敵手たち。\n彼女たちと走った素晴らしきレース。\nそして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――私を信じ、共に歩み、\n今日までの“未来”に導いてくれた、\nトレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――いずれが欠けても、\n私は“今”ここに立つことは\nできていなかったと思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "本当に……ありがとうございます。",
+      "ChoiceDataList": [
+        "アルダン――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……来て、いただけますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "人々が夢見る歴史。\nその全てを塗り替えんとする、\nこの『最も苦しく険しい』道に……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "私と、共に。",
+      "ChoiceDataList": [
+        "行くよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "迷うことなどない。\nメジロアルダンのトレーナーとして、\n自分が為すべきことは決まっている。",
+      "ChoiceDataList": [
+        "約束された歴史を一緒にぶっ壊してやろう",
+        "約束された歴史を一緒にぶっ壊しちゃおう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……ぶっ……こわ……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "…………ふ、ふふっ、ふふふっ！\nあははははっ！",
+      "ChoiceDataList": [
+        "（なんかウケた……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……っ、ご、ごめんなさい……！\nトレーナーさんの言葉の選択が、\n少し、面白くて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "でも……\nふふっ、なんだか素敵ですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "とても力強くて、勇ましくて、\n清々しさもあって……\nつい使いたくなってしまいそうです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロアルダンは気に入ってくれたようだが、\nそこまで言われると、\n今度はこっちが恥ずかしくなる……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "共に目指しましょう。\n歴史の“転換点”にして……破壊者を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして新たな目標を定め、\nいよいよシニア級が始まるのだった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――では、目標も決まったところで。",
+      "ChoiceDataList": [
+        "えっ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "参りましょう、初詣に。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロアルダンに誘われるがままに、\n神社を訪れた――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "私、初詣はいつも\nメジロに縁のある面々で行くんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "でも今年は、どうしてもトレーナーさんと\r\n2人で行きたいと思いまして――",
+      "ChoiceDataList": [
+        "それはなぜ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "さぁ、なぜでしょうか？\nトレーナーさんのご想像にお任せいたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――あら、お参りの順番が空きましたよ。\nせっかくですから、やっていきましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "トレーナーさんはなにをお願いしますか？",
+      "ChoiceDataList": [
+        "アルダンが元気でいられますように",
+        "アルダンが強くなれますように",
+        "アルダンが幸せになれますように"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "まあ……！\n私のことをお願いしてくださるのですか？\nありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "私もトレーナーさんの健康を\nお祈りしようと思っていたので、\nこれでおあいこ……でしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "それにしても、\n『元気でいられますように』、ですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "それはきっと……\nトレーナーさんと一緒にいる限り、\n叶うと思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして2人で初詣を終えて、\n気持ちを新たに進み始めるのだった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ。\nトレーナーさんも貪欲な方ですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "私も、トレーナーさんが求める域に\n達することができるよう、\nこれからも励ませていただきます。",
+      "ChoiceDataList": [
+        "期待しているよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ええ、ぜひご期待ください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして2人で初詣を終えて、\n気持ちを新たに進み始めるのだった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――――",
+      "ChoiceDataList": [
+        "どうかした？",
+        "どうかしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "いえ。\n少し……驚いてしまって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "だって、その願いはもう――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……………。",
+      "ChoiceDataList": [
+        "アルダン？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……私も、同じように\nトレーナーさんの幸せをお願いしようと\n思っていたんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "だから、驚いてしまって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――では、2人で\n互いの幸福を願いましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "お互いの幸福を願って初詣を終える。\r\nそして気持ちを新たに進み始めるの\nだった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

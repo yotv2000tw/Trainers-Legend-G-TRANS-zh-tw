@@ -1,0 +1,306 @@
+{
+  "Title": "信じ合うこと",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今日は勝負服を着ての、\r\nGⅠ本番を想定した模擬レース。\n滅多にない大切な機会なのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先輩トレーナー",
+      "Text": "あら、メジロアルダンのトレーナーさん……\n今コースを見ていたのだけど、\nさっきまでの雨のせいで完全に不良ね。",
+      "ChoiceDataList": [
+        "ですね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先輩トレーナー",
+      "Text": "ずいぶん気温も下がったし、\nうちは辞退しようと思っているの。\n確かに大切な機会ではあるけれど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先輩トレーナー",
+      "Text": "貴方の担当も……確か、もともと体は\r\nそんなに強くない子でしょう？\n慎重な判断をお勧めするわ。……それじゃ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "お疲れ様です、トレーナーさん。\n辞退……という言葉が聞こえましたが。",
+      "ChoiceDataList": [
+        "ああ、心配してくれたみたいだ",
+        "うん、心配してくれたみたい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "なるほど……気遣っていただけるのは\r\nありがたいことですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "出走を取り消すか否か。\n……トレーナーさん、ご判断いただけますか？",
+      "ChoiceDataList": [
+        "俺が決めていいのか？",
+        "私が決めていいの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ええ、ぜひとも。\n――お願いいたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……しばし、考え込む。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "走れば、得られる経験は相当なものだろう。\r\nウォーミングアップでの調子もよく、\n止める理由は見当たらない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "しかし、もし不調を隠していたら……。\n念のため、メジロアルダンに\n確認をしてみると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "問題ありません。\n今、『この瞬間』を走るのならば。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……間違いなく、\n全力を出し切ることができる。\nそう断言します。",
+      "ChoiceDataList": [
+        "わかった。……なら、走ろう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……いいのですね？",
+      "ChoiceDataList": [
+        "アルダンの言う『この瞬間』を信じてるから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふ、ありがとうございます。\nであれば、悔いの残らぬよう全力で。",
+      "ChoiceDataList": [
+        "ああ、頑張って！",
+        "うん、頑張って！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "元気なウマ娘",
+      "Text": "今日はよろしくね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ええ、よろしくお願いいたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "（こうして勝負服を着たウマ娘に紛れると、\n思い出す……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "（――思えば、本格化を済ませてから\n勝負服を着るまで、\nずいぶんと時間がかかってしまった）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "『誇りある勝負服をまとったウマ娘たちが\n今、ゲートに入ります！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……綺麗……。\r\n連れてきてくれて\nありがとうございます、ばあや。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アルダンのばあや",
+      "Text": "いいえ。\nでも、退院して間もないのですから\nあまりはしゃぎすぎませんようにね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ええ……。\nわかっていますとも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "（……あの誇りを、光を、私がまとうのは……\r\n一体いつになるのだろう）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "（必ず袖を通す。そう誓ってはいたけれど、\n羨ましくなかった、と言えば噓になる。\n……そして）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "音を立ててゲートが開く。\r\n曇天の空気は重く、\nしかし勝負服の裾は華やかに翻った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "（そして今――\nこの服を着て、走る！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "（きっかけは貴方がくれた。\nならばこの服は、貴方が私を信じて\n送り出してくれた証でもある）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "（その誇りを、光を……\r\nまとうに相応しい、私でありたい！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……ふっ――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "はぁ、はぁ……はぁ。\r\n負けて、しまいました……！",
+      "ChoiceDataList": [
+        "お疲れ様！……泥だらけになっちゃったな",
+        "お疲れ様！……泥だらけになっちゃったね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ええ。ふふっ、そうですね。\n服は汚れてしまいましたけれど……。",
+      "ChoiceDataList": [
+        "勝利へ向けての第一歩だな",
+        "勝利へ向けての第一歩だね",
+        "けれど？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ええ。ふふっ、そうですね。\n服は汚れてしまいましたけれど……。",
+      "ChoiceDataList": [
+        "勝利へ向けての第一歩だな",
+        "勝利へ向けての第一歩だね",
+        "けれど？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "！\u3000……うふふ。\n私、全く同じことを考えていました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "敗北は、深くこの身に刻みましょう。\nしかし『今』この瞬間を走れたこと、\n勝負から逃げずに戦えたこと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "この経験は、必ずや糧となるはず。\nより邁進して参ります。\nそして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……信じてくださって、\nありがとうございました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "これからも……\nどうぞ、よろしくお願いいたします。",
+      "ChoiceDataList": [
+        "こちらこそ、よろしく！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "これからも彼女の信頼に応え、\n彼女を信頼できる自分でありたい……\n改めてそう思った1日だった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "なんだか――\nとても、晴れやかな気分なので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "泥まみれでも、びしょ濡れになっても……\n走り続けることができた。\n貴方が信じてくれたからこそ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ですから、トレーナーさん？\nこれからも……\n私、なかなか止まれないかもしれません。",
+      "ChoiceDataList": [
+        "ああ、次も頑張ろう！",
+        "うん、次も頑張ろう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ええ、喜んで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

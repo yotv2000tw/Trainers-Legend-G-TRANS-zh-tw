@@ -1,0 +1,301 @@
+{
+  "Title": "三者三様、それぞれの",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "日課のトレーニングを終え、\r\n<chrname>と別れた\n帰り道のことだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "<username>トレーナー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "声をかけてきたのはトレセン学園所属の\r\n生真面目な同期トレーナー、\n桐生院\u3000葵【きりゅういん\u3000あおい】だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "桐生院\u3000葵"
+      ]
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "お疲れ様です。\r\n私たちも仕事終わりで――",
+      "ChoiceDataList": [
+        "私『たち』？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "疲れたようにやって来たのは、\r\n同じくトレセン学園所属の厳しくも優秀な\n樫本\u3000理子【かしもと\u3000りこ】トレーナー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "樫本\u3000理子"
+      ]
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "……。\r\nお疲れ、様です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "ああっ、樫本トレーナー！\r\nまだ休んでいてよかったんですよ……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "樫本"
+      ]
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "いえ、問題ありません。\r\nそこまで……はあ……\n疲れたというわけでも……ありませんので。",
+      "ChoiceDataList": [
+        "何かあったんですか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "それが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "樫本トレーナー！\r\nお疲れ様です。トレーニング上がりですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "ええ、お疲れ様です。\r\n最後に、明日に向けてコースのチェックを\nしておこうかと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "！\u3000ちょうど同じことを考えていたんです。\r\nよ、よかったら、なのですが……その……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "……2人で回りますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "い、いいんですかっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "構いません。単純なチェックであれば\r\nそちらのほうが効率がよいでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "ありがとうございます……！\r\nそれでは、手早く回ってしまいましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "少しですが、\r\n芝が荒れていますね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "明朝すぐに学園側から整備が入るはずですが、\r\n早朝練習をするなら注意しておくべきですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "そうですね！\r\nええと、次は……あっちです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "……ダートは……はあ、整っていますね。\r\nこれなら、ふう、問題なさそうです……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "樫本トレーナー？\u3000大丈夫ですか？\r\nも、もしかして、ペースが速すぎましたか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "ごめんなさい！\r\nもう少しゆっくり回ることに――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "いえ。\r\n……問題ありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "むしろ、もう少し速くてもいい。\r\n急ぎましょう、桐生院トレーナー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "桐生院"
+      ]
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "えっ？\r\nほ、本当ですか……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "はあ……はあ……！\r\nこ、こちらの芝はまだマシです……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "か、樫本トレーナー！\r\n無理はよくありませんよ～っ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "………………。",
+      "ChoiceDataList": [
+        "なるほど、それで全力疾走したと"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "……はい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "情けない……。\r\n無様な姿を見せてしまいましたね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "い、いえ！\u3000でも、その、えーとっ。\r\nあ、<username>トレーナー！",
+      "ChoiceDataList": [
+        "はい？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "今日のトレーニング、見事な内容でした！\r\nタイムの速さだけではなくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "トレーナーとウマ娘の息が\r\nとても合っていて……\n信頼し合っているのがよくわかったというか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "それについては、私も同意せざるを得ません。\r\n強い信頼関係がなければできない\nトレーニングでした。",
+      "ChoiceDataList": [
+        "きょ、恐縮です！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "……しかし、自分たちが劣っていると\r\n思ってはいません。\n私も、自分の担当とここまでやって来ました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "今同じレースに出たとしても、\r\nうちのウマ娘が勝つ。そう信じています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "わ、私もっ！\u3000ああは言いましたが、\r\nうちのミークが負けるとは思っていません！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ミーク"
+      ]
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "頑張るのはミークで、走るのはミークで、\r\nゲートが開いてしまえば\n私はそれを見ていることしかできませんが！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院トレーナー",
+      "Text": "だからこそ、誰よりも……\r\nミークを、信じているつもりです。",
+      "ChoiceDataList": [
+        "桐生院トレーナー……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "……<username>トレーナー、\r\n貴方は？\u3000ウマ娘のことを信じていますか？",
+      "ChoiceDataList": [
+        "信じる気持ちで負けるつもりはありません"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "……愚問でしたね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "健闘を祈ります、桐生院トレーナー。\r\n<username>トレーナーも。",
+      "ChoiceDataList": [
+        "はい、お互いに！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "互いの健闘を祈りつつ、これからも\r\n<chrname>を信じて頑張ろうと\n改めて決意できた夜だった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "Title": "ドキドキ怪奇探索ツアー",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日の夕方、マンハッタンカフェと\r\nアグネスタキオンが話している現場を\nたまたま見かけ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "おや――カフェのトレーナーじゃあないか。\r\nちょうどいい、君にも協力してもらおうかな。",
+      "ChoiceDataList": [
+        "どうかしたのか？",
+        "どうかしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "“調査”さ。君はこの学園で最近よく聞く、\r\n不可思議な現象の噂を聞いたことはあるかい？\n『七不思議』などと呼称される類の、アレさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "それらの観測時、我々にどんな影響が出るか、\r\n以前から興味があってねぇ。今回はカフェに\n同行してもらい調べようというわけだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "1人でやればいい話じゃないですか……。\r\nどうして私を……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "つれないことを言うなよ、カフェ～。\r\nこれは君の事象観測者としての素質に\n期待しての選出でもあるんだよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "それに……ククッ。\r\n君に影響されているであろう存在もいる！\n更なる効果が期待できるというものだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "さぁ行こう、諸君！\r\n未知の観測の旅へ！\u3000ハッハッハー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……はぁ。こうなると話を聞きません。\r\nすみませんがトレーナーさん、\n少し付き合ってください……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして、急遽アグネスタキオン主催の\r\n学園怪奇調査ツアーに同行することになり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――夕方の屋上。\r\n向こうの方で誰かが踊っているが……\n西日のせいで、ここからではよく見えない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "――ケース1『屋上で踊る黒い影』。\r\nしかしここは……ハズレのようだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "踊る影と見紛うような動く事物がないし……\r\nこの明るさで見落とすとも考え難い。",
+      "ChoiceDataList": [
+        "………………え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "――――まぁいい！\u3000噂はまだある。\r\nどんどん次に行くとしよう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "強烈な違和感を覚えつつも、\r\n先行するアグネスタキオンに\nその後も同行し続け――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ケース4、『夜の廊下で聞こえる泣き声』。\r\n………………ここも異常なし、か。次だ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "廊下に響く泣き声",
+      "Text": "シク……シク……シク……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ケース9、『ウロから響く不気味な音』。\r\nむむ……ここも異常なし……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウロから響く音",
+      "Text": "ォォォォォォォォォォォォォ…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "――――ふぅン。これだけ巡って、\r\nそれらしい現象が一切観測できないとはね！\n君たちとならと期待したが……残念だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自分にはおかしなことばかりだったのだが、\r\n結局その違和感を口にするか迷う内に、\n学園内を一周してしまった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………終わりですか？\r\nじゃあ、私たちはこれで――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "待て待て！\u3000ここからはプランBだ。\r\n私が主体となる行為上の観測で、\n結果が得られないことはわかった。故に――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "トレーナー。君の意見を聞こう。\r\nこれまでの観察方法に新たな視点を加えて、\n私の認知バイアスを解消する。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "で、私は次に何をすべきだと思う？",
+      "ChoiceDataList": [
+        "ズバッと諦める",
+        "徹夜で見回ろう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "――ふぅン。君からすると、\r\n今夜はもう手がないということなのかな？\nならば今回はそれに従って終わりとしよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "散々連れまわしておいて……\r\n強引すぎます……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ククッ、それについては謝罪するよ。\r\n私としてもここまで空振りだと思わなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "これなら普段のカフェを観察していた方が、\r\nよっぽど有意義だったね。ハーッハッハ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "………………勝手な人です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "トレーナーさん……\r\n今日は……あの人に付き合ってくれて……\nありがとうございました……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう言ってアグネスタキオンと共に寮に帰る\r\nマンハッタンカフェの姿には、どこか……\n温かいものがあるように感じられたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ククッ、トレーナーらしからぬ提案だ！\r\nだがそれがいい、実にいい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "そうと決まれば、もう1度全ての噂を検証だ。\r\n時刻もまたひとつの要因かもしれないからね。\nもちろん、カフェも付き合ってくれるだろう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………トレーナーさんが言うなら。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ハハッ！\r\nトレーナーさまさまだな！\n今度はどのような結果になるか楽しみだ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……トレーナーさんが今日見聞きしたことは、\r\nタキオンさんには言わないであげてください。",
+      "ChoiceDataList": [
+        "どうして？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "あの人はたぶん……自分で見ないと……\r\n納得も……喜びもしないと思うので……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "――――おぅい、2人とも！\r\n早く来たまえ！\u3000時間は有限だぞ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "………………行きましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "結局その後もアグネスタキオンの望む現象は\r\n発生しなかったが、2人の不思議な距離感を\nうかがうことができる夜となった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

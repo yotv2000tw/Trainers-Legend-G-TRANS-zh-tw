@@ -1,0 +1,360 @@
+{
+  "Title": "フリーに走り出せ！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "選抜レースから数日後のある日。街を歩いていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビラ配りの人",
+      "Text": "あ、そこのあなた！\u3000“フリースタイル・レース”見てかない？\r\nそっちの路地裏で熱～く開催中だよ～！",
+      "ChoiceDataList": [
+        "えっ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビラ配りの人",
+      "Text": "トゥインクル・シリーズもいいけど、フリーも楽しいよっ！\n……あ、そこのウマ娘さんもぜひぜひ～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "――フリースタイル……？\nって、あれ？\u3000君、この前の！",
+      "ChoiceDataList": [
+        "こんにちは、ランニング中？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ん、まあね。ゆるーくアップしつつ、レース後に君が言ってくれた\n『私に合うスタイル』について考え中、的な？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "にしても、フリーか。そういうのがあるって\n一応知ってはいたけど、直接見たことは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビラ配りの人",
+      "Text": "2人とも興味ある！？\u3000ありそーだね！？\u3000じゃあこっちこっち！\n飛び入り参加もできるからさ、楽しんでいってよっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "へっ、あ、うん！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――『フリースタイル・レース』とは、自由気ままに走りたい\nウマ娘たちが空地などを借りて開催するアマチュアレースのことだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どんなに速くても、プロになる道を選ばない子もいる……。\nそんな子たちが自由に、心のまま競うこのレースにはファンも多い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フリーの観客たち",
+      "Text": "（ウワァアアアアアアアアッ！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フリーのウマ娘たち",
+      "Text": "『おおおおおおおおおっ！！』『うらあああぁぁぁぁーーっ！！』\n『あたしが！\u30001番っ！！\u3000じゃああぁぁぁーーーーっっ！！！』",
+      "ChoiceDataList": [
+        "こ、これがフリースタイル・レース……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "我流の荒々しい走りをするウマ娘ばかり……だが、熱い……！\n誰もが己の闘争心をむき出しにした競り合いが、強烈に胸を打つ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "っ……公式戦とは、全然違う雰囲気……。\r\nこれが、フリースタイル・レース……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "すごい……ね。なんか……見てるだけでも、昂るっていうか……！",
+      "ChoiceDataList": [
+        "飛び入りしてみたら？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……！\n……うん。……うん、やってみる！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ねっ、そこの君たち！\u3000これ、私も出られる！？\nどのレースでもいいからさっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "眉なしのウマ娘",
+      "Text": "おっ、飛び入りしちゃう！？\u3000度胸あんじゃん！\nいいよいいよー、アンタ名前は？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あっ、パーマー……えっと、メジロパーマー、だよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "舌ピアスのウマ娘",
+      "Text": "あ～メジロ、有名なヤツ～。まーでも長いから～『パーマー』ね～？\n枠番は～、直前にゲートのとこでくじ引きすっから～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あ、うん！？\u3000パーマー……だけでいいんだ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "舌ピアスのウマ娘",
+      "Text": "ん～？\u3000ま～長いとみんな覚えらんないし～？\nてか短くても覚えらんないかもだけどね～、勝てなきゃさ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "眉なしのウマ娘",
+      "Text": "いいのいいの、勝ちゃいいワケだからさ！\u3000フリーの世界じゃ\n走りが全部。強さが全部だよ。……さ、行こっかパーマー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……！！\nうん……よろしく！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "さぁ、一斉にスタートしました！\u3000先頭に躍り出たのは\n飛び入り参加、赤いジャージの2番！\u3000その実力やいかにっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（よしっ、落ち着いて、いつも通りに……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝ち気なウマ娘",
+      "Text": "うらああああぁぁぁーーーーーっ！！\nちんたらしてっと全員置いてくぜぇーーーーっっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（……っ！\u3000ヤッバ！\u3000間近で見ると気迫がビリビリ来る！\nこんな大胆な走り、するんだ……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（私も……やって、みようかな……？\nうん……ここは、自由に走っていい場所だし……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（それに今の私は、ただの『飛び入りの2番』……！\nメジロじゃなくて、ただの『パーマー』……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（勝っても負けても、メジロじゃない……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "――っし！\u3000はああああぁぁーーーーーーーっ！！！",
+      "ChoiceDataList": [
+        "今の走りは……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "速い！\u3000速い！\u30001着は2番、パーマーーーーッ！\nスピードが違うっ！\u30006バ身差の完勝だあぁぁ～～～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "――はぁっ……はぁっ……！\nヤバっ……なにこれ、超楽しいっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "眉なしのウマ娘",
+      "Text": "ちょいちょいちょいちょーい！\u3000アンタ、やるじゃん！？\nアツくなってきた……！\u3000もっかい勝負してよっ、パーマー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うん……！\u3000いいよ！\u3000私も、もっと走りたい……！\nもっともっと、思うまま……ぶっちぎってみたいっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "やああぁぁぁぁっーーーーーー！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "（脚、止まんない……！\u3000風が気持ちいい……！\n自分の体、思いきり動かしてるって感じがする……！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "舌ピアスのウマ娘",
+      "Text": "おお～、パーマーいい走りしてんじゃ～ん。\nすさまじい逃げっぷり～……んん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "はぁっ！\u3000はぁっ！\u3000はぁっ！\nあっはは……！\u3000ヤッバ！！\u3000飛ばし、過ぎたぁっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "舌ピアスのウマ娘",
+      "Text": "ぷっ……あっははははは！\u3000沈んでってるし～！！\nなに、後先考えてないの～？\u3000あははっ……面白いじゃ～ん！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フリーのウマ娘たち",
+      "Text": "パーマーっ！！\u3000いけいけっ、逃げ切れ、パーマーーーっ！！！\nすごいぞパ～マ～～ッ！\u3000行けぇっ！\u3000勝てぇぇ～～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "おっけー！\u3000今度こそ逃げ切ってやっからっ、見てろよっ！！\r\n私が勝つとこ……みんなみんな！\u3000目に、焼きつけろぉーーっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "だああああぁぁぁぁーーーーっっ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今日のフリーで予定されていたレースが全て終わる頃には……\r\nメジロパーマーを包む熱狂は、最高潮に達していた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フリーのウマ娘たち",
+      "Text": "パ・ァ・マーーッ！\u3000パ・ァ・マーーッ！\nパ・ァ・マーーッ！\u3000パ・ァ・マーーッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うわ、こんなのって……ははっ、マジか。\n……やっ、ばいな。私の名前が……こんな……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "っ、ありがとーーーーー！！\n最っっっっ高の気分だよーーーーっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "――はぁぁ～～、まだふわふわする……。",
+      "ChoiceDataList": [
+        "『パーマー』コール、すごかったな",
+        "『パーマー』コール、すごかったね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ね……あんなの初めてだよ……選抜レースの時とは大違い。\n私がメジロだって知らない人まで『パーマー！』って……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "気持ちよかったなぁ……最っっっ高の気分だった！！\n……私、ああいうのがやりたいな。これからも、さ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "そう……そうだよ、私はみんなに刻みつけたい！！\r\n『メジロパーマー』って名前を……強く！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロパーマーの瞳がきらめく。\n自身の大きな夢と出会った彼女を見ていたら、思わず――",
+      "ChoiceDataList": [
+        "夢の手伝いを、俺にさせてもらえないか？",
+        "夢の手伝いを、私にさせてもらえない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "え！\n今のって……スカウト？\u3000マジ？",
+      "ChoiceDataList": [
+        "君さえよければ、ぜひ！",
+        "貴方さえよければ、ぜひ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……ありがとう。すっごく嬉しいよ。\nうん……これからよろしくね、私のトレーナーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

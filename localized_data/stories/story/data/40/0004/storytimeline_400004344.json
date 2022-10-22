@@ -1,0 +1,320 @@
+{
+  "Title": "タマモのゲームセンター奮闘記",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ま、参った……。\r\nこの状況、どないしたらええんや！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日、ゲームセンターに\r\n立ち寄った時のこと。\n困った様子を見せるタマモクロスに出会った。",
+      "ChoiceDataList": [
+        "大丈夫……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "あっ！？\u3000すまん、今大変なんや！\r\n悪いけど、ちょい手ぇ貸してくれへんか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ジャラララララララララッ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……ステータス『大漁』。\r\nメダルの排出が停止される気配がありません。\nメダル獲得数、大幅増加。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ミホノブルボンの前にあるメダルゲームから\r\n異常なほどのメダルが溢れ出ていた。\n床にまでこぼれ落ちて、なお止まらない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ブルボンっ！\r\nそれは上手くいっとるんとちゃう！\nマシーンが故障してるんや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "タマモさん、こんにちは。\r\nしかし、その推測は否定させて頂きます。\n以前にも似たようなことがありました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "似た事例が2つ確認できたため、\r\nこの状態が『正常』だと判断します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ジャラララララララララッ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ステータス『大漁』。『大漁』……。\r\n心拍数上昇を感知。\n若干ながら『高揚』の感情を検知。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "あー！\u3000もうあかんっ！\r\nウチは店員さん呼んでくる！\nトレーナーはここで見張っとってくれ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "あっ！？",
+      "ChoiceDataList": [
+        "どうした、タマモ！？",
+        "どうしたの、タマモ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "おーっほっほ！\r\nプリンセスたる私にかかれば\nレースゲームも簡単にクリアできますわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハルウララ",
+      "Text": "カワカミちゃんすごーい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "カッ飛ばしてやりますわよぉぉぉ！\r\nどっせぇい！！\u3000曲・が・れぇぇぇぇ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（メキッ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "あ、あれ……？\r\nハンドルが取れてしまいましたわ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "カワカミ！\u3000あかん！\r\nハンドルにそこまで力込めたらあかん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハルウララ",
+      "Text": "カワカミちゃん、見てー！\r\nわたしの画面、\n赤いチカチカのバツじるしがキレイなのー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウララぁっ！\r\nそれ、逆走や！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "あ、あかん……！\u3000手が回らん！\r\nこんなん対処しきれへん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "お困りですか、タマちゃん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "クリーク！？\u3000ええところに！\r\nトレーナー！\nウチら3人でこの状況を打破するんや！",
+      "ChoiceDataList": [
+        "じゃあ俺はブルボンを！",
+        "じゃあ私はブルボンを！",
+        "じゃあ俺はカワカミとウララを！",
+        "じゃあ私はカワカミとウララを！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "クリーク！？\u3000ええところに！\r\nトレーナー！\nウチら3人でこの状況を打破するんや！",
+      "ChoiceDataList": [
+        "じゃあ俺はブルボンを！",
+        "じゃあ私はブルボンを！",
+        "じゃあ俺はカワカミとウララを！",
+        "じゃあ私はカワカミとウララを！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "わかった！\u3000ウチも付いてく！\r\nクリークはカワカミとウララを頼むで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "はーい、いってらっしゃーい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "タマモクロスと一緒に店員さんを呼び、\r\n無事メダルゲームの修復が終わった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ありがとうございました。\r\nご迷惑をおかけして申し訳ありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ええってええって。\r\nホンマ直って良かったな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "感謝いたします。\r\nそれではオペレーション\n『メダルゲーム』再始動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ちょっ……！？\r\n待っ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……店員さんにはもう1回\r\n来てもらうこととなった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "タマちゃん、トレーナーさん。\r\nお疲れさまです～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "わかった！\u3000ウチもついてく！\r\nクリークはブルボンを頼むで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "はーい、いってらっしゃーい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハルウララ",
+      "Text": "タマモさん！\u3000トレーナー！\r\nありがとー！\u3000おかげでわたし、\nちゃんとゴールまで行けたよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "私もゲームクリアできましたわ！\r\n肩の力を抜いてエレガントな\nコーナリングができましたの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "そっか。よかったな、2人とも。\r\nその笑顔だけでウチは満足や。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "行きますわよ、ウララさん！\r\nもう1回、スピードの上のスピードを求めて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミ＆ウララ",
+      "Text": "レーススタート！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "今度はアクセル踏み忘れとるでっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "タマちゃん、トレーナーさん。\r\nお疲れさまです～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ホンマ助かったで、クリーク。トレーナーも、\r\nええところにおってくれた。ありがとな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "いえいえ～。\r\n私はちょうどベビー用品売り場を\n見に来ていた帰りだったので～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ベビー用品！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "実家が託児所だったので、ベビー用品を\r\n見ているだけで楽しいんですよね～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "タマちゃんに似合いそうなお洋服もあって～♪\r\n……そうだ！\u3000いまから一緒に\nベビー用品売り場に戻りましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "た～す～け～て～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "Title": "夏合宿（2年目）にて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "夏合宿も折り返しを迎えたある日のこと、\nメジロアルダンが立ち話をしているところに\n鉢合わせた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "あら、トレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "お、アルダンさんのトレーナーさんじゃん！\nどーもで～す。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "アルダン"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "彼女はメジロパーマー。明朗快活な\n爆逃げウマ娘で、メジロアルダンとも\nメジロ家繋がりでよく話をするそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "メジロパーマー"
+      ]
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "そうだ！\u3000さっきの話、\nトレーナーさんに\n相談しちゃえばいいんじゃないですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "たしかに……！",
+      "ChoiceDataList": [
+        "相談？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "実は明日、休みのタイミングで\nメジロのみんなと『海の家』に\n行ってみようと相談していまして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "アルダンさんが海の家に行ったことが\r\nあんまりないって言うから、せっかくだし\nみんなで一緒に行こうって思ったんだけど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "多人数の外出時は、\n監督役を付ける必要があると\n先ほど合宿運営から言われました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "よければ、トレーナーさんも\nご同行いただけないでしょうか？\n大人の御目付役ということで。",
+      "ChoiceDataList": [
+        "そういうことなら、お安い御用だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ありがとうございます。\nそれでは明日、よろしくお願いしますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロアルダンたちと共に\r\n近くの『海の家』にやってくると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "まあ……！\u3000こちらの『海の家』、\n情緒がある店構えで、ワクワクしますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ははっ、アルダンさんらしい感想だなぁ。\nとりま、座ってなんか食べます？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ええ、そうしましょうか。\nみんなは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "あら……！\u3000とても充実したかき氷の\r\nラインナップですわね。\nお店の方の情熱がうかがえるよう――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "ほんとだね。イチゴミルクに宇治抹茶、\nマンゴーにラムネ……定番どころも、\nちょっと外したところも揃えてる感じだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "マックイーンはどれにする？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "マックイーン"
+      ]
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "それが、これだけありますと\n悩んでしまって……\nライアンはどういたしますの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ライアン"
+      ]
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "あたしはこれっ！\nプロテイン入りチョコかき氷！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ふふっ、ライアンらしいチョイスですわね――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まぁ～！\u3000見てくださいまし、ドーベル。\nこの『メモリアルジュース』！\u3000ストローで\nとても可愛らしいハートを描いています～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ドーベル"
+      ]
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "でも飲み口が2つあるのが不思議ですわね。\r\nどのようにして飲むものなのでしょう～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "これはアタシたちにはその……\r\n関係ないんじゃないかなって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あら？\u3000ドーベルはご存じなのですか～？\nぜひ教えていただきたいです～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "えぇ！？\u3000えっと、あー。\r\nこれはその……まぁ、なんというか、\n仲のいい2人が……一緒に飲むもので……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "では、わたくしたちにぴったりですわね～。\r\nだって仲良しこよしですもの～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "そ、そうじゃなくてっ！\nああもう――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あははっ！\u3000みんないつも通りって感じだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "各々楽しんでいるようで、なによりです。\r\n私たちも倣うとしましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "しかし……こうしてみると、\r\n海の家というのは本当に\nいろいろなメニューがあるのですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "まあ、もっと大人っぽくて、\nオシャレな海の家もあるんだけど、ここは\n賑やかでザ・王道！\u3000って感じのやつですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "いざ食べるとなると、目移りしてしまいます。\nまるで探検家の気分……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "おっ、あれなんてどうです？\n『激辛VS激シビフェア』だって！\n刺激的でおもしろそ～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "今夏限定、ですか……\n一期一会な風情があって素敵ですね。\nこちらにしましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロアルダンとメジロパーマーが眺める\nフェアメニュー表には、\n真っ赤な食べ物ばかり表示されていた……！",
+      "ChoiceDataList": [
+        "すごく辛そうだけど、大丈夫か？",
+        "すごく辛そうだけど、大丈夫？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "それも含めて一期一会、ですよ。\n安心してください。出されたものを\n食べきることには自信がありますので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ん～、私はなに頼むか決めたけど、\nアルダンさんはどうする？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "そうですね……\r\n2つにまでは絞れたのですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……せっかくですので、\r\nトレーナーさんに決めていただきましょう。\nこの2つから、選んでいただけませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう言ってメジロアルダンが\n示したメニューは――",
+      "ChoiceDataList": [
+        "『力、入れてこうぜ。鬼辛肉増し麻婆豆腐』",
+        "『根性、アゲてけよ。鬼シビ汁なし担々麺』"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ではこの……\r\n『力、入れてこうぜ。鬼辛肉増し麻婆豆腐』\nを1つ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "っ、ぷっ、ははっ！\n律儀にメニュー名言うの\nズルいってアルダンさん……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店員",
+      "Text": "お待たせしましたっ！\r\n『鬼辛肉増し麻婆豆腐』ですっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロアルダンの元に運ばれてきたのは、\n見ているだけで汗が出てくる溶岩の如き\n灼熱の一品だ！\u3000しかし彼女は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "まぁ……！\nとても刺激的な色と香りですね。\nそれでは、いただきます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ほんのりと汗をかきながらも、\n顔色ひとつ変えずに、\n一定のペースで食べ進めていった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ひゃ～～！\u3000辛かった辛かったぁ！\nでも美味しい辛さでよかったね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ええ。ひと口目は驚きましたが、\n辛みの中に濃厚な旨味も確かに存在し、\n美味しゅうございました。",
+      "ChoiceDataList": [
+        "辛いの得意だったんだな",
+        "辛いの得意だったんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "得意……かどうかはわかりませんが、\n体への刺激の類には、\n少々辛抱強い自信はあります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "これも、幼い頃にいろいろと\n口に苦いものを摂る機会が多かったから……\nでしょうか？",
+      "ChoiceDataList": [
+        "そ、そういうものなのか？",
+        "そ、そういうものなのかな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "アルダンさんって我慢大会とかやったら、\nめっちゃ強そうだよね～。\nメジロのみんなじゃ敵わないかも！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "我慢大会……！\n機会があったらぜひやってみたいですね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "その時はまた、\nトレーナーさんもご一緒にどうですか？",
+      "ChoiceDataList": [
+        "アルダンが無理しないように監視しないとな",
+        "アルダンが無理しないように監視しないとね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "まぁ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ははっ！\u3000アルダンさん、\nそんなイメージ持たれてるんだ。ウケる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ、身に覚えがあるので困りました。\nこうなっては、是が非でもトレーナーさんに\n見てもらわないといけませんね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そうして他愛のない話をしながら、\nメジロアルダンとの夏の思い出を\nまたひとつ作ったのであった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ではこの……\r\n『根性、アゲてけよ。鬼シビ汁なし担々麺』\nを1つ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "っ、ぷっ、ははっ！\n律儀にメニュー名言うの\nズルいってアルダンさん……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店員",
+      "Text": "お待たせしましたっ！\r\n『鬼シビ汁なし担々麺』ですっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロアルダンの元に運ばれてきたのは、\nその香りだけで汗が出てくる風味豊かな\n焦熱の一品だ！\u3000しかし彼女は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "まぁ……！\n食欲をそそる、刺激的な香りですね。\nそれでは、いただきます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ほんのりと汗をかきながらも、\n顔色ひとつ変えずに、\n一定のペースで食べ進めていった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ひゃ～～！\u3000すっごいシビ辛だったぁ！\nでも美味しい辛さでよかったね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ええ。ひと口目は驚きましたが、\n鋭いシビれの中に旨味が凝縮されていて、\n美味しゅうございました。",
+      "ChoiceDataList": [
+        "辛いの得意だったんだな",
+        "辛いの得意だったんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "得意……かどうかはわかりませんが、\n体への刺激の類には、\n少々辛抱強い自信はあります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "これも、幼い頃にいろいろと\n口に苦いものを摂る機会が多かったから……\nでしょうか？",
+      "ChoiceDataList": [
+        "そ、そういうものなのか？",
+        "そ、そういうものなのかな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "思ったけど、アルダンさんって度胸あるよね！\n初めてのものも怖がらないっていうかさ。\nとりまやってみよう精神みたいな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "そうかしら？\n自分ではあまり意識したことがないけれど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……恐らく、“今”それをしなかったら\n後悔するかもしれないという気持ちが\n常にあるからかもしれませんね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "なら、今日は後悔しないように\n海の家を堪能しつくさないと！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ、その通りですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "アルダンさん！\u3000パーマー！\r\n2人もアイス食べない？\u3000自分でフルーツを\nトッピングできるんだってー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "パーマー"
+      ]
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "へ～、いいね面白そうじゃん！\nアルダンさん、行こう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ええ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――トレーナーさんも、行きましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後も海の家を満喫しながら、\nメジロアルダンとの夏の思い出を\nまたひとつ作ったのであった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "Title": "でっけえ花火に、わあっしょい！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――夏合宿が始まり数日。トレーニングは順調に進んでいる。\nいや、それどころか進み過ぎているくらいだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "どうした、ダンナ！\u3000まだまだこんなもんじゃあないぜ！\r\n次のメニュー、始めてくんな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "どうした、アネゴ！\u3000まだまだこんなもんじゃあないぜ！\r\n次のメニュー、始めてくんな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "イナリワンの頑張りは目を見張るものだ。だがさすがに、\n張り切り過ぎている。1度、しっかりと息抜きをさせなくては。",
+      "ChoiceDataList": [
+        "今日のトレーニングはここまで"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "……っと、そうか！\u3000もうすぐ祭りと花火だからな！\nへへっ、江戸っ子の血がたぎるぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "友だちと行けば、気分転換にもなるだろう。\n納得した顔のイナリワンにホッと息をつく。",
+      "ChoiceDataList": [
+        "楽しんでおいで"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ん？\u3000ダンナは仕事かい？\u3000あたしのトレーニングが\n終わりだってんなら、ダンナも時間があるんだろ？",
+      "ChoiceDataList": [
+        "まだちょっとやることが残ってて……",
+        "まだちょっとやることが残ってて……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ん？\u3000アネゴは仕事かい？\u3000あたしのトレーニングが\n終わりだってんなら、アネゴも時間があるんだろ？",
+      "ChoiceDataList": [
+        "まだちょっとやることが残ってて……",
+        "まだちょっとやることが残ってて……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ふーん？\u3000……そいつあ困ったな。\nダンナと行くつもりで、他のヤツ誘い損ねちまった！",
+      "ChoiceDataList": [
+        "えっ、そうなのか？",
+        "えっ、そうなの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ふーん？\u3000……そいつあ困ったな。\nアネゴと行くつもりで、他のヤツ誘い損ねちまった！",
+      "ChoiceDataList": [
+        "えっ、そうなのか？",
+        "えっ、そうなの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "いやあ、予定してた連れがいねえってのは、\nちっとばかし寂しいもんがあらあなあ……。",
+      "ChoiceDataList": [
+        "い、行くよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "お、そうかい？\u3000へへっ、ありがてえ！\nんじゃ、また夜に合流といこうぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "じゃあな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今からでも誘える友人はいただろうに……と思いつつも、\nイナリワンと約束をして、合宿所へと戻ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（ダンナめ。ま～た息つくタイミング逃してんだから、\nほっとけねえや！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（アネゴめ。ま～た息つくタイミング逃してんだから、\nほっとけねえや！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "へへっ、今日はめいっぱい楽しませてやんねえと！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "おうおう、盛り上がってんじゃねえか！\nくぅ～！\u3000これだよなあ、この熱気！\u3000血が騒ぐぜ！",
+      "ChoiceDataList": [
+        "祭りといえば屋台だな！",
+        "祭りといえば屋台だね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ははっ、よおし！\u3000また一緒に荒らしてまわるとすっか！\n行くぜ、ダンナ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ははっ、よおし！\u3000また一緒に荒らしてまわるとすっか！\r\n行くぜ、アネゴ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "生き生きとした笑顔に、こちらもつられて笑う。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目をキラキラとさせたイナリワンに手を引かれ、\nすべての屋台を回ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "おお～！\u3000打ち上げの音がドスンッと胸にくらあ！\nた～まや～！\u3000ってな！\u3000見事なもんだぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "どうでい、ダンナ！\u3000あたしの声、聞こえてるか！？",
+      "ChoiceDataList": [
+        "聞こえてるー！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "どうでい、アネゴ！\u3000あたしの声、聞こえてるか！？",
+      "ChoiceDataList": [
+        "聞こえてるー！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ははっ！\u3000腹から声出すと気持ちいいぜ、なあ！\nほら、一緒にいくぞ！\u3000か～ぎや～！",
+      "ChoiceDataList": [
+        "か～ぎや～！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "へへっ、その調子だ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（……ふぅ、ついついあたしも興奮しちまったな！\nでも、これでダンナも息抜きが――）",
+      "ChoiceDataList": [
+        "少しは息抜きできたかな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（……ふぅ、ついついあたしも興奮しちまったな！\r\nでも、これでアネゴも息抜きが――）",
+      "ChoiceDataList": [
+        "少しは息抜きできたかな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "へ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "無理をしているとは思わない。けれど、力が入り過ぎている、\nそんな気がしていたことを伝えた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "イナリワンの性格からしても、背負うものは多いだろう。\r\n今はそれが背中を押す原動力になっていても――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "押されるだけでは、やがて重荷となって肩にのしかかっていく。\nだから、もう少し力を抜こう、と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "な、なに言ってんでい。期待されりゃ応えんのが、イナリ様だぜ！\nそんぐれえ、背負う覚悟はとっくに――",
+      "ChoiceDataList": [
+        "一緒に背負っていこう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "な、なんでい……それじゃあまるで……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（力が入り過ぎてたのは、あたしのほうだったってのかい？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "……こいつあ、驚いたぜ。\nまったくの予想外ってヤツよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（んなこと言われるたあ、思ってもみなかったぜ。\nしかも――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（今、肩が妙に軽い……熱い風呂に入った時みてえに、\r\n力が抜けてやがる）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "てやんでい、べらぼうめ！！\u3000……気づいてねえとでも思ったか。\nおめえの心が変わっちまったことなんざ、お見通しなんだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "下町育ちの江戸っ子なら！\u3000トゥインクルっつう大舞台で\n大喧嘩して、どでけぇ華ぁ咲かせてこいや！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（たしかに、背負ったさ。期待してくれた親方たちを、\nガッカリさせるわけにゃあいかねえ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ソバ屋のおばちゃん",
+      "Text": "そうよそうよ！\u3000イナリちゃんのことなら、\nあたしどこに行っても応援しちゃうわ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店主のおやじ",
+      "Text": "江戸っ子イナリ、ここにあり！\u3000つって、\nあの最高の舞台で轟かせとくれよ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（どこにいても応援するって言ってくれた人たちに、\n胸を張って走らなきゃなんねえだろ？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（――だから）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町の人々",
+      "Text": "ワァアアアアアッ！！\nイナリ！\u3000イナリ！\u3000イナリ！\u3000イナリ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（……当たり前に『ひとり』で背負ってた、のか）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "……へっ、イナリ様ともあろうもんが、無粋なマネしちまったなあ。",
+      "ChoiceDataList": [
+        "イナリ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ちいとばかし、夢中になり過ぎてたみてえだ。\nダンナには『ひとりで背負うな』なんて言ってよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ちいとばかし、夢中になり過ぎてたみてえだ。\nアネゴには『ひとりで背負うな』なんて言ってよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "隣にゃ、お前さんがいるのになあ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "へへっ、やるなあダンナ！\n危うくおっこちきるところだったぜ？",
+      "ChoiceDataList": [
+        "お、おっこち……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "へへっ、やるなあアネゴ！\n危うくおっこちきるところだったぜ？",
+      "ChoiceDataList": [
+        "お、おっこち……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "おっ！\u3000見てみな！\u3000でっけえのが打ち上がるぜ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（一緒に背負ってくれるってんなら、\r\nあたしひとりより、でっけえ花火が打ち上がらあな！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（だったら、たまやとかぎやの勝負よりも、ここは――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "『わあっしょい！』ってなあ！！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

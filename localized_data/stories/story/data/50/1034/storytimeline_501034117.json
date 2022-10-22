@@ -1,0 +1,632 @@
+{
+  "Title": "それが祭りの心、“粋”",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "イナリワンが寮で静養を始めて数日が経った、\nある日のこと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "……それで、これから\nどこに行こうってんだい？\nもう日が傾き始めてるぜ。",
+      "ChoiceDataList": [
+        "それは着いてからのお楽しみ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "はあ、なんだいそりゃあ。\nまあ、なんでもいいけどよ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "こんなことをしている暇はねえのに、\nあたしはなにやってんだ……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "いまだ心に重苦しいものを抱える\nイナリワンを連れて、ある場所に向かう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "――おい、ダンナ！\nどういうことだよ？\nこのバスの行先、あたしの地元じゃあねえか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "――おい、アネゴ！\nどういうことだよ？\nこのバスの行先、あたしの地元じゃあねえか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "なんだって今――",
+      "ChoiceDataList": [
+        "今は、相棒である俺を信じてほしい",
+        "今は、相棒である私を信じてほしい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "……………わかったよ。\nダンナには数えきれねえぐらい恩があるんだ。\nこんぐらい、付き合ってやらあ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "……………わかったよ。\nアネゴには数えきれねえぐらい恩があるんだ。\nこんぐらい、付き合ってやらあ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして、日が正に沈もうとする時間に、\n目的の場所にたどり着いた――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "なんだよ、こりゃあ――",
+      "ChoiceDataList": [
+        "お祭りだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "そっ、そんなの見りゃあわからい！\nあたしが聞いてるのは、なんで今この時期に\nここで祭りをやってるのかってことで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "――待て。\nあそこに書いてあるの、ありゃあなんだ……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "『下町育ちの名ウマ娘』……\n『イナリワン』……『快気祈願祭』……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "どっ――\nどうなってんだよ、オイ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "――なんでえ。\n話に聞いていたのより元気そうじゃあねえか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "親方――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "紫シュシュのウマ娘",
+      "Text": "イナリ姐さん！\u3000お疲れ様っす！！\n今日はチームの皆も来てるんで、\n楽しんでいきましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町のおじさん",
+      "Text": "イナリちゃん！\u3000若ぇのから俺らじじいまで、\n今日は総出で集まってんぜ！\nたくさん騒ぐとしようじゃあねえか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町のおばさん",
+      "Text": "も～久々にイナリちゃんが来るってんで\nおばちゃんたちも張り切っちゃった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "皆……どうして……――",
+      "ChoiceDataList": [
+        "君のために下町のみんなが開いたんだ",
+        "貴方のために下町のみんなが開いたんだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "っ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "へっ、なぁにが『下町のみんな』だ。\n水臭えじゃねえか、トレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "いの一番に俺に相談して、ここの連中皆に\n頭を下げて回って、今日まで先頭に立って\n準備したのはどこの誰だってんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ダンナ――",
+      "ChoiceDataList": [
+        "お、親方さん！それは言わない約束ですよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "アネゴ――",
+      "ChoiceDataList": [
+        "お、親方さん！それは言わない約束ですよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "…………っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "…………。\n…………もう、やめてくれ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "皆、もうやめてくれッ！！",
+      "ChoiceDataList": [
+        "イナリ――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "皆のために“テッペン”を獲るって！\n『年度代表ウマ娘』になるって！\nそうでけえ声で啖呵を切ったのに――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "あたしはッ……！\n今、こんな体たらくで……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "皆から託された想いを……\nあたしは……無下にして……\n背負うことすら、できていなくて……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "こんな……こんな無粋なあたしにッ……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "皆によくしてもらう資格なんてねえんだッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "イナリワンの叫びが響く。\nしかし、自分を含め誰一人として、\nイナリワンから離れようとはしない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "やがて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "…………ありがとうよ、イナリ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "え――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "おめえがそこまで俺たちのことを思って、\n押しつぶされちまいそうになるぐらい、\n今日まで頑張ってくれていたことをよ……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "俺ぁ、嬉しく思うし……\n誇りだとも思っているぜ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "なんで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "紫シュシュのウマ娘",
+      "Text": "……姐さんが、『天皇賞（春）』や、\n『宝塚記念』みたいな中央のレースで\nすげえ喧嘩をしているとき――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "紫シュシュのウマ娘",
+      "Text": "アタシ、すっげえ嬉しかったっス。\nこんなにかっけえウマ娘が、\nあたしたちの代表なんだって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町のおじさん",
+      "Text": "――爽快だったよなあ！\u3000『毎日王冠』に、\n『天皇賞（秋）』！\u3000イナリちゃんが\n大舞台で立派に走っててよお！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町のおじさん",
+      "Text": "時代の最強と競ってる姿を見て、\nこちとら涙を堪えるのが大変だったんだぜ！？\nわっはっは！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町のおばさん",
+      "Text": "あんなにちっちゃかったイナリちゃんがさ、\nレース場で、たくさんの人に\n名前を呼ばれているのを見て――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町のおばさん",
+      "Text": "おばちゃん思わず大泣きしちゃった。\n娘の結婚式より泣いちゃったかもねえ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "皆――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "……イナリ。おめえさっき、\n自分のことを“無粋”だなんて言ったがよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "ここにいる皆、\n誰もそんなふうに思っちゃいねえ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "俺たちのために走って、俺たちに\n抱えきれねえぐらいたくさんのものをくれた、\nおめえこそ、誰よりも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "“粋”に決まってらあ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "っ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町のおじさん",
+      "Text": "俺たちはよ、イナリちゃんが\n中央で走っているのを見られるだけで、\n最高の気分なんだぜ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町のおばさん",
+      "Text": "そうさ！イナリちゃんが走ってくれるだけで、\nおばちゃんは生きててよかったって思うよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "紫シュシュのウマ娘",
+      "Text": "姐さんはもう……\nとっくにあたしたちの『イナリ様』なんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "……だからよ。\nもうそんな、気負うんじゃあねえよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "おめえは……\nおめえの喧嘩をすればいいんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "うっ、ぐぅっ……ッ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "ううっ、ううううううっ！\nうああああああああーーーーっ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "堰を切ったように溢れるイナリワンの涙が、\n祭りの明かりで煌めくさまを、大井の人達と\n自分は、ただただ静かに見つめていた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "――親方。皆。\nそれに……ダンナ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "――親方。皆。\nそれに……アネゴ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "本当に……ありがとうな。\nわんわん泣かせてもらったおかげで、\n体の芯からすっきりしたぜ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "さぁ切り替えでい！\u3000こんな祭りを開かれて、\nいつまでも辛気臭え面じゃあいられねえ！\nあたしの快気を祈って、祭りだ祭りだーっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "親方",
+      "Text": "へっ――\nもうとっくに元気溌剌じゃねえかってんだ、\nべらぼうめ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "わあっしょい！\nわあっしょい！",
+      "ChoiceDataList": [
+        "わあっしょい！わあっしょい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町の人たち",
+      "Text": "わあっしょい！\nわあっしょい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（――なんでかね。\n皆とこうして騒いでいたら、\n昔のことを思い出しちまった）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（――ガキの頃に見た祭り。その大一番、\n緊張が最高潮に達した時、いつだって町の\n大人たちはビシッとキメて盛り上げていた）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（あの日あたしは聞いたんだ。\nどうしてそんなに、粋にキメられるのかって）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町の大人",
+      "Text": "――失敗できねえ、負けられねえ、\nやらなきゃいけねえ。そんな緊張しちまう\n瞬間こそが、いつだって祭りの大一番なのさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町の大人",
+      "Text": "逆に言やあ、それさえわかっちまえば\nキメ所がここだってすぐにわかる。\nそしたら後は『俺が楽しむだけ』ってな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町の大人",
+      "Text": "気持ちいいぜ！\u3000キメ所でキメた時、\n皆の思いが、俺という花火で\nぶちあがる瞬間はよ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町の大人",
+      "Text": "それこそが祭りの心意気、“粋”の真髄よ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いイナリワン",
+      "Text": "すげえ……！\nよくわかんねえけど、\nすっげえ“粋”って感じだ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "下町の大人",
+      "Text": "イナリちゃんにもきっといつかわかるさ。\nでけえ祭りを前にした、その時にな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（そうだ。あの時はわからなかったけど、\n今なら皆の言っていたことがわかる）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "（祭りの心意気。“粋”の真髄。\nそして……\n今のあたしに、足りなかったもの！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "快気を願う祭りも終わりに差し掛かり、\n最後にイナリワンと神社から祭りの光景を\n目に焼きつけておくことになり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "――気づいたんだ。\nあたしに足りていなかったものがなにか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "あたしは皆のためにって思うあまり……\n勝つことや、結果のことばかり考えていてよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "肝心の……この喧嘩を始めたのが、\n自分だってえことを忘れちまっていたんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "皆の想いを叶えるためってえのもある。\nだけどよ、その前にあったじゃあねえか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "あたしの……あたしだけの……\n『地方は中央に負けてねえ』っていう、\n火種がよ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "祭りってのはひとりじゃあできねえ。\nだがそれ以前に……祭りをしてえと願う、\nあたしがいなきゃあ、できねえんだ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "この喧嘩は……\nイナリワンの喧嘩だ！！\n“テッペン”を獲るのは、あたしなんだ！！",
+      "ChoiceDataList": [
+        "イナリ……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "――『有馬記念』。\n最大の祭りで、今度こそしっかりキメるぜ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "皆の想いをここに抱えて、\nあたしは、あたしの喧嘩のケリをつける。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "そしてあたしは、全てのものが見上げる花火、\nトゥインクル・シリーズの“テッペン”に\n立ってやらあ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "だからダンナ――",
+      "ChoiceDataList": [
+        "明日からまた、一緒に頑張ろう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "だからアネゴ――",
+      "ChoiceDataList": [
+        "明日からまた、一緒に頑張ろう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "…………！",
+      "ChoiceDataList": [
+        "祭りってのは、ひとりじゃできないからな！",
+        "祭りってのは、ひとりじゃできないからね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "――はははっ、違えねえ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イナリワン",
+      "Text": "……頼むぜ、相棒。\nあたしと一緒に――\n『有馬記念』を最高の祭りにしようぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして、今年最大にして\n最後の祭りに向けて、イナリワンと共に\n再び歩み始めたのだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

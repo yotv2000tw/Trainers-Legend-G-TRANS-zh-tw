@@ -1,0 +1,306 @@
+{
+  "Title": "ほんの少しのキッカケ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "お出かけの後。\r\nトーセンジョーダンがスマホを手渡してきた。\nそこには一軒の旅館が表示されており……。",
+      "ChoiceDataList": [
+        "……これがどうかしたのか？",
+        "……これがどうかしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "そのサイトの旅館、ヤバくない？\r\n行きたい！\u3000てか行く！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "飯だけもオッケーで、\r\nこれがメチャウマだって！\nね、今から行くべ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "だが、場所は結構離れているようだ。\r\n日を改め、時間に余裕を持って行こうと\n伝えた……が。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "えー、電車のったらソッコーじゃん。\r\nてか行きたいときに行くの、鉄則っしょ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "電車に揺られ、旅館に着くと\r\n仲居さんが出迎えてくれた。\nご飯を食べに来たことを伝えると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "――え、釣った魚さばいてくれんの！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "仲居さん",
+      "Text": "はい～、うちの目玉企画でして。\r\nお客様の魚を板前が目の前でお出しします。\nいかがでしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "うわぁ～やるやる！\r\nぜったいやる～！！",
+      "ChoiceDataList": [
+        "でも、今日は時間が……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "はー？\r\n逆にここまで来てなんでやらんわけ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ウマい方がいいに決まってんじゃん！\r\nやる以外ねーっての！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして勢いに押され、\r\n旅館近くの海で釣りをすることに\nなったのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ぱしゃんっ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "あー、ちょっ！\u3000またトレーナー！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "なんでさっきからアンタばっか\r\n釣れるワケぇー！",
+      "ChoiceDataList": [
+        "じゃあ、釣れたし戻ろう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "は？\u3000戻るわけないっしょ。\r\nこのまま終われるかってーのっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "絶対負けねぇし……\r\nもっと奥行ってくる！",
+      "ChoiceDataList": [
+        "足元気を付けて！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "っるさいな、わかって――……ひゃ！？",
+      "ChoiceDataList": [
+        "危な――！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ボッシャーン！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……マジ、ごめん。\r\nアンタのこと……海に落としちゃって……。",
+      "ChoiceDataList": [
+        "大丈夫、少し濡れただけだから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "や、大丈夫じゃないっしょ。\r\n……てかそうじゃん、やば。\n風邪ひくかもだし早く乾かさんと……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "えっと、浴衣とか、タオルとか、\r\nドライヤー借りてきた……から。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トーセンジョーダンは黙々と、\r\nタオルやドライヤーを使って\n髪を乾かしてくれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……風、熱くね？",
+      "ChoiceDataList": [
+        "平気だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……そ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "あー……あんさ。旅館のヒトが\r\n風呂用意してくれたって。行ってきたら？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "あたしは……ほら、適当にしてっし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "平静を装っているが、\r\nひどく落ち込んでいる様子は伝わってくる。\nなんと声をかけようか……。",
+      "ChoiceDataList": [
+        "君が無事でよかった",
+        "貴方が無事でよかった",
+        "……反省した？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "平静を装っているが、\r\nひどく落ち込んでいる様子は伝わってくる。\nなんと声をかけようか……。",
+      "ChoiceDataList": [
+        "君が無事でよかった",
+        "貴方が無事でよかった",
+        "……反省した？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "え……？\u3000よかった……って……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "いや、ここ怒るとこっしょ……！\r\nあたし、アンタのことめっちゃ振り回してさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "爆食いして、連れまわして、へばって……\r\n……かばわせて、海に、落として……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……どー考えたって、ムカつくじゃん。\r\nこんなん。",
+      "ChoiceDataList": [
+        "元気があっていいと思うよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "だから、そのせいで大変なんじゃん！\r\nブン回されて！",
+      "ChoiceDataList": [
+        "大変だから楽しいんだ",
+        "大変だから楽しいんだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……バカじゃねーの？\u3000ホントにさぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "言葉とは裏腹に、どこか嬉しそうな\r\nトーセンジョーダンであった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……するでしょ。そりゃ。さすがにさ。\r\nやべぇことになってるし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "こーゆーとき、反省文書くしか\r\n浮かばんけど、書く？",
+      "ChoiceDataList": [
+        "反省文はいいから、風邪をひくなよ？",
+        "反省文はいいから、風邪をひかないでね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……はー？\u3000なにそれ？\r\nアンタまだあたしの心配とかしてんの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ほんっと……\r\nどんだけおひとよしなんだよ、アンタ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、口数は少なくなったが、\r\nなにか考えている様子の\nトーセンジョーダンであった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

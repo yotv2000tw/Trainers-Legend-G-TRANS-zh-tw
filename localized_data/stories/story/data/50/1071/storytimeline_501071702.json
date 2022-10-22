@@ -1,0 +1,283 @@
+{
+  "Title": "アルダンの寄り道講座・初級編",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "出かけた帰り、メジロアルダンが\n少し遠慮がちに切り出してきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……トレーナーさん。もしお時間があれば、\n少し、寄り道をしていきませんか？",
+      "ChoiceDataList": [
+        "いいけど、どこへ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "それは行ってからのお楽しみ……ふふっ。\nこう見えて私、寄り道の上級者なのですよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "学園に来てからは、放課後の寄り道と\nいうものをよくたしなんでおりますから。",
+      "ChoiceDataList": [
+        "な、なるほど……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふ……これから寄る場所は、\nきっと楽しめますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――そして来た場所は、少し遠くにある\r\n有名な水族館。噂は聞いていたが、\n今まで足を運んだことはなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ね。美しいところでしょう？\n色鮮やかな生き物たちに、\n巨大な水槽、水中トンネル――",
+      "ChoiceDataList": [
+        "綺麗だな",
+        "綺麗だね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ……実は、私もつい最近まで\n来たことはありませんでした。\n寄り道の途中で、偶然見つけて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "気まぐれに脚を伸ばし、\n思いもよらず素敵なことに巡り合う――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "そんなふうに、歩いてみなければわからない。\r\nそれが寄り道の醍醐味かと存じます。",
+      "ChoiceDataList": [
+        "な、なるほど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "まだまだご案内したい\nコーナーはたくさんあります。\nさ、どうぞついていらしてください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "いつになく、ぐいぐい引っ張ってくる感じだ。\n一種の微笑ましさも感じながら、\n彼女とともに館内を回り――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "次のコーナーはですね……\nあら？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな男の子",
+      "Text": "うう……いない～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "まあ。ここにはシャチの家族が\nいるはずなのですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "かなり巨大な水槽だが、確かに\n姿が見えない。……もしかしたら\n奥の方に行ってしまっているのだろうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな男の子",
+      "Text": "今日はシャチ見られないのかな……\nがっかり……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――ふふっ。トレーナーさん、\nちょっと見ていてくださいね。",
+      "ChoiceDataList": [
+        "？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……きゅいぃ～。",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな男の子",
+      "Text": "！？\u3000シャチ！？\nどこ！？\u3000どこ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふふ……さて、どこでしょうか♪\n――きゅぃきゅぃ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな男の子",
+      "Text": "……えっ！？\u3000まさかお姉ちゃんが\n真似してたの？\u3000すごーい！",
+      "ChoiceDataList": [
+        "上手だな……",
+        "上手だね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふ……子どもの頃、病室のテレビで\r\n動物の鳴き声を特集した\n自然ドキュメンタリーを見まして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "努力すれば、いつか動物たちと\r\nお話しできるのではと、こっそり\n練習していた時期があったのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふ……素直にお話しするのは、\r\n少々気恥ずかしい思い出ですが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな男の子",
+      "Text": "……あっ！？\u3000シャチ来た！\u3000シャチ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "えっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シャチの子ども",
+      "Text": "きゅい～……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロアルダンの声に反応したのか……\nいつの間にかシャチ一家が、水槽越しに\n不思議そうな視線を向けてきていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "まあ、これはまさか、本当に……驚きました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さな男の子",
+      "Text": "すごいすごい……！\u3000お姉ちゃん、\n本当にシャチと話せるんだ……！\nねえ、僕にも教えて！\u3000シャチの言葉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ、喜んで。\nそうですね、まず音を出すコツは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――素敵なサプライズでしたね。\n私の声は、彼らにどのような言葉として\n伝わっていたのでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "まさか、幼い頃の願いが\n今になって叶うなんて……ふふ。",
+      "ChoiceDataList": [
+        "可愛かったよ",
+        "寄り道って楽しいな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "なにやら少々面映ゆいですが……\nふふ、ありがとうございます♪",
+      "ChoiceDataList": [
+        "もう1度聞きたいな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "えっ？\u3000ここで、ですか？\nそれは、ううん――",
+      "ChoiceDataList": [
+        "アンコール！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……ふふ。仕方がありませんね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――きゅぃい～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふふ、そうでしょう？\n楽しいでしょう？",
+      "ChoiceDataList": [
+        "おかげさまでな",
+        "おかげさまでね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――よかった。やはり、嬉しいものですね。\r\n自分が知っている素敵なことを、\n他の方にも伝えることができるのは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふ……共に、素敵な場所を\nたくさん見つけていけるとよいですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

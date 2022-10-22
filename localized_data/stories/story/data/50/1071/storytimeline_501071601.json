@@ -1,0 +1,38 @@
+{
+  "Title": "今度こそ！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "間もなくレースが始まりますね。\r\nこの高揚感は何度味わってもいいものです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "前走は不甲斐ない結果でしたが、\r\n気負ってはおりません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "できることは全てやってきました。\r\nあとは、力を出し尽くすだけです。",
+      "ChoiceDataList": [
+        "頑張ってこい",
+        "頑張ってきて"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "はい、行って参ります。\r\nレース後にまたお目にかかりましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "Title": "アストンマーチャン登場！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "『小さい頃はよく、\n病院のお庭や広場で遊んでいました』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "入院患者A",
+      "Text": "あら、マーちゃん。\nまた来てたのね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "マー"
+      ]
+    },
+    {
+      "Name": "幼いマーチャン",
+      "Text": "おばあちゃん、\nこの間の、あめくれたヒトですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "入院患者A",
+      "Text": "あらあら、覚えていてくれたの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "『患者さんたちは優しくて、\nよく声をかけてくれました』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "『病院は、命が流れていく場所です。\n生まれて、流れて、海へ行きます』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "『これは、当たり前のことで\n怖いことではありません。そう習いました』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "『そうして、そんな流れの真ん中にいるうち、\nマーちゃんは、あることに気づいたのです』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "入院患者Y",
+      "Text": "あら、マーちゃん。\nまた来てたのね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……。\nおばあちゃん、前、何かくれたヒトですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "入院患者Y",
+      "Text": "え？\nううん、なにもあげたことはないけど……。\nそういう人がいたの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "…………。\n……はい、多分。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "『誰が、どこで、どんなことをしていて、\nどんな話をしていたのか。そういうものは』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "『海へ行って、見えなくなると\nいつか忘れられてしまうということ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "『そしてそれは……\nとても恐ろしいものだということ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……どうしたら？\nどうしたら、どうしたら、どうしたら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "忘れられずに、いられますか。\n覚えていて、もらえますか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "（ただの記憶では、ダメ。\nずっと……もっと、残るような――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "看護師A",
+      "Text": "そうそう、見てよ、このマスコット！\n家掃除したら、懐かしいの出てきちゃって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "看護師B",
+      "Text": "わあ！\u3000懐かしい～！\nにんじんの妖精、キャロリーじゃん！\n昔すっごいはやったよねぇ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "看護師A",
+      "Text": "そうそう、みんな持ってたやつ！\n設定も好きだったな。\nちょっとドジで、でもかわいくて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……マスコット。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "『ハッハッハ～！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トゥインクル・シリーズへの\n挑戦が始まった記念すべき1日目。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トゥインクル・シリーズ"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "同世代でも頭1つ抜けた実力を持ち、\nカッコよさを追い求めるウマ娘、\nウオッカと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ウオッカ"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "レースも勉学も優等生なウマ娘、\nダイワスカーレットを巻き込み、\n自主制作映画を撮っていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ダイワスカーレット"
+      ]
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "『待ちなさい、敏腕スパイ・マーチャン！\n今日という今日は、逃がさないわよ！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "マーチャン"
+      ]
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "『捕まるわけにはいきません！\nこの超機密データを、必ず本部へ届けねば！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "『とう！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アストンマーチャン――もとい\n『敏腕スパイ・マーチャン』は\nセリフと共に荒野へ駆け出していく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "アストンマーチャン"
+      ]
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "ま……『待て～～！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "台本上では、\n敏腕スパイ・マーチャンが追っ手から、\nさっそうと逃げ切るというシーン。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『本気で逃げるので、本気で追ってください』\nという演出指示に従い、\n追っ手2人のペースは容赦なく速く――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "またアストンマーチャン自身も\nそのスピードはレースさながらだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "はっ、はっ、はっ、はっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "何度も脚を回転させ、素早く土を蹴り上げて、\n徐々にスピードを上げていくピッチ走法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その回転数からか、ちょこまかとした\n懸命な走り姿は愛らしく、どこか健気で、\nそれでいて――",
+      "ChoiceDataList": [
+        "（強い……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ぐんぐん追っ手を引き離していく\n圧倒的スピード。圧倒的パワー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "撮影中ということを忘れて、\n思わず見とれてしまうほどだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……が。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ふぅ、はぁ、はぁ……！\nくうぅ～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "調子がよかったのもつかの間、\n中盤からスタミナが切れたのか、へろへろと\nスピードが落ちていってしまい――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "っしゃあ！\u3000確保ー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "うー……\nもう、捕まえちゃダメですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ムキになった追っ手2人に\nあえなく捕まってしまったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "逃げ切れると思ったんですが……。\n仕切り直しです。休憩タイムにしましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "休憩が終わったらすぐに開始するのですよ。\n映画のグッズの撮影もあるのですから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "グッズ？\nこの映画、グッズも作るの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "はい。ウルトラスーパーマスコットに\nなるために必要なことなのです。",
+      "ChoiceDataList": [
+        "マスコットになるために……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "マーケティング戦略です。\n勉強をしたのです。本にはこう書いてました。\n『グッズを売るにはストーリーが必要だ』と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "だからプランをたてたのです。\nとっておきです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "と、アストンマーチャンは得意げに\nその『プラン』を語り始めた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "まず、よいストーリーの映画を作ります。\nグッズも作ります。愛された映画のグッズは\n売れます。よい売上データが生まれます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "その売上データを持って、URA企画制作部の\n職員さんへ直談判しにいくのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "URAにマスコットを作ってもらえるのは\nよい戦績のウマ娘です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "でも、もし万が一それがなくともです。\n最高の売上データがあれば大人は動きます。\n絶対、たぶん、きっと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……おそらく。",
+      "ChoiceDataList": [
+        "それで……まず自主制作映画？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "千里の道も1歩より。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "……いろいろ考えているのはわかったけど、\nレースとそういう活動を並行するのは、\n結構大変なんじゃない？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "確かに、レース1本に絞って話が来るのを\n待つというやり方もある。むしろ\nそのほうが楽ではあるはずだ。が――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ウルトラスーパーマスコットへの道は、\nうーんと長いのですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "あらゆる手を尽くさなければ、\n間に合いません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……生き急いでいると言えばそうかも\nしれない。が、やり遂げたいという\n意志の強さの表れでもあるのだろう。",
+      "ChoiceDataList": [
+        "これがマーチャンのやり方なんだな",
+        "これがマーチャンのやり方なんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "……そうですね。ごめんね、こちらが\nいろいろ言うのは、野暮だったわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "お前なりに頑張れよ、マーチャン！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "と、アストンマーチャンを見やる。\n……が、なぜか姿はなく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "…………またかぁ。\n…………また？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どこか慣れた様子の2人と共に、\n辺りをぶらつきながら\n帰りを待つことになったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その日の帰り道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アストンマーチャンの\nトゥインクル・シリーズでの目標を\n確かめておこうと、尋ねてみると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "トリプルティアラにします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "即答が返ってきた。",
+      "ChoiceDataList": [
+        "（しかも、トリプルティアラ……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トリプルティアラとはすなわち……\n『桜花賞』『オークス』『秋華賞』の、\n3タイトルを制覇するということだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "桜花賞",
+        "オークス",
+        "秋華賞"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "同世代の強者が揃い、\n誰もがその頂を目指す大舞台。\n決して簡単に獲れるものではない。が――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "マーちゃんはラブリーですし\n華やかな雰囲気にあっています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "何より……その冠はとっても眩しいものです。\n心にも、記録にも、しっかり残ってくれます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "マスコット化のお話だって、\nすぐに来るはずです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ゆえに、トリプルティアラを狙う。\n否、狙わねば。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ということで、それで。\nお願いします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ふんわりとした語気の中に\n異論は認めない、そんな意志の強さを感じた。",
+      "ChoiceDataList": [
+        "わかった。必ず獲ろう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "はい。\nマーちゃんならば、不可能ではありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そんなわけで、\n目下の目標はトリプルティアラ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "戦いの日々に向け、\n鍛え上げる日々が始まったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……なお、自主制作映画は全くハネず。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……再生回数、34。\nウマチューブ、なんという魔境……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ウルトラスーパーマスコットへの道は長い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

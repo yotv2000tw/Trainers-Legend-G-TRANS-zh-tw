@@ -1,0 +1,37 @@
+{
+  "Title": "レース疲れ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "はぁ……。",
+      "ChoiceDataList": [
+        "大丈夫？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "あ……すみません。\r\n少し気が抜けておりました。\n問題はありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ご心配をおかけし、申し訳ありませんでした。\r\n以後、気をつけます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "レースで疲れているのか、メジロアルダンは\r\nトレーニングに集中できていないようだ。\n出走予定を見直す必要があるかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

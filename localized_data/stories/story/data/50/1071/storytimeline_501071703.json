@@ -1,0 +1,316 @@
+{
+  "Title": "アルダンの寄り道講座・変則編",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……メジロアルダンとのお出かけの後、\nふと、腕時計を見る。\nまだ帰るには少し早い時間だが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "トレーナーさん。……よければ、\nまた寄り道をしてみませんか？",
+      "ChoiceDataList": [
+        "いいぞ",
+        "いいよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふ、よかった。それでは、\n今日はどこに行きましょうか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "……あっ！\u3000アルダンさんにトレーナーさん！\nこんにちは！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "まあ、スぺさんとオグリさん。\nお2人も、どこかにお出かけですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "うむ。今日はスぺと一緒に\nラーメン屋『極太麺ハンマーボルト』に\n行くところなんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ハンマーボルト……独特な店名ですね。",
+      "ChoiceDataList": [
+        "せっかくだし、行ってみるか？",
+        "せっかくだし、行ってみる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "そうですね。未知へ飛び込むのも\r\n寄り道の醍醐味。上級者を\n自負する身としては見逃せません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "では……お2人に同道させて\nいただきましょうか♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "というわけで『極太麺ハンマーボルト』なる\nラーメン屋に行くことになったのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客A",
+      "Text": "ヤサイマシマシ\nアブラマシマシ\nカラメニンニク！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客B",
+      "Text": "オーブタトリプル、\nアブラマシニンニクスクナメ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "な……なんでしょうか？\n先ほどから、ずっと飛び交っている\nこの呪文のような言葉は……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "私はヤサイマシマシのマシ、\nニンニクマシマシアブラマシマシ、\nカラメ、オーブタクアドラプル！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "私はオーブタクインティプル、\n全マシマシのマシマシマシマシ、\nマリアナ海溝オリュンポス山大噴火で頼む。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "っ！？\u3000お2人まで……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "む……。アルダンはもしや、\nこういう店は初めてか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "あ、それなら簡単に用語教えましょうか？\nここは煮豚がウリで、食券じゃなくて口頭――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――いえ。お気持ちはありがたいのですが、\nこれも寄り道の一環……上級者として、\nせめて注文くらいは独力でこなせねば。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "大丈夫……呪文のように思えても、\nじっと聞いていれば、\nなんらかの規則性が見つかるはず。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客C",
+      "Text": "ヤサイマシマシ\nオーブタクアドラプル！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘の客",
+      "Text": "ヤサイチョモランマ、\r\nアブラマシマシのマシマシ！\nオーブタクインティプル！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……なるほど。わかってきました。\nヤサイ、ニンニクとはトッピング。\nそして、マシとは量を意味する言葉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……そしてクアドラプル、クインティプルは、\n使うスープの複雑さ、重厚さを指定する言葉。\nさながら四重奏、五重奏のように――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "加えて、なぜか山の名前を叫んでいるのは……\nその風景をイメージさせるような壮大な味の\n広がりを表現してくれるということ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "わかる……みなさんの語る言葉が！\nできる、私の……私だけの注文が！\n――行きます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店主",
+      "Text": "はいよ、ヤサイファーシャン、\nニンニクスクナメ、\n大豚セクスタプル。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "そ……それ大丈夫ですか、アルダンさん！？\n野菜と煮豚が、なにかの遺跡みたいに……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……無理はいかん。\nなんなら私たちも助太刀するぞ。\nそれに、その組み合わせ、興味がある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――これが、私が召喚してしまった怪物。\n私は、どうすれば――？",
+      "ChoiceDataList": [
+        "みんなで仲良く分けあおう！",
+        "まずはチャレンジだ！",
+        "まずはチャレンジだよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――これが、私が召喚してしまった怪物。\r\n私は、どうすれば――？",
+      "ChoiceDataList": [
+        "みんなで仲良く分けあおう！",
+        "まずはチャレンジだ！",
+        "まずはチャレンジだよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "そうですよ！\u3000無理せず、\n美味しく食べられるのが1番です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "ああ。それに私も、いくらマシマシでも\n1杯では寂しいと思っていたところだしな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "しかし……それでは、私の不手際を\nお2人に押し付けてしまうようで……。",
+      "ChoiceDataList": [
+        "寄り道の目的は楽しむことだろ？",
+        "寄り道の目的は楽しむことでしょ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……そうですね。仰る通りです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "では、恐れ入りますが……\nご協力、よろしくお願いいたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふぅ……お2人のおかげで\n美味しく食べられました。\nありがとうございます♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "こちらこそ、美味しかったです！\n大豚6倍はさすがの大迫力でしたね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "ああ、未体験の満足感だった。\n今度、私も真似してみよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "一時はどうなることかと思ったが――\nどうやら、今回の寄り道も\n良い思い出として収まったようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……そうですね。これを葬るのは、\n他ならない、注文した私自身でなければ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "正直、いつ胃袋が限界を迎えるか\nわかりません……ですが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "だからこそ、目の前にある一杯にのみ\n集中する。私は今ここに……全てをかけます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "いざ――行きます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "と、メジロアルダンは果敢に挑んだものの――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……む、む～り～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……自分の生み出した怪物に敗れ去る、\r\n悲しい結末になってしまった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

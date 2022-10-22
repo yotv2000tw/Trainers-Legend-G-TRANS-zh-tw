@@ -1,0 +1,217 @@
+{
+  "Title": "姉ちゃんにまかしとき！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ある日、タマモクロスから\r\nお好み焼きパーティーの誘いを受けた。\n彼女と材料の買い出しを終えた帰り道――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子A",
+      "Text": "うわぁぁぁん！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "たい焼き屋のおじさん",
+      "Text": "えっと……ほら、坊主、\r\nたい焼きならまた今度作ってやるから。な？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "おっちゃん！\r\nなんかトラブルかいな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "って、ああ……大事なたい焼き、\r\n道に落としてもうたんか。そら悲しいわ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子A",
+      "Text": "ぐすっ……僕のたい焼き……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "たい焼き屋のおじさん",
+      "Text": "うちとしても新しいのを作ってあげたい\r\nとこなんだが、生地を切らしちまってな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ならウチが作ったるわ、たい焼き！\r\nせやから、ちょっくら機材借してくれへん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "たい焼き屋のおじさん",
+      "Text": "いや、でも材料が――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "任しとき、任しとき！\r\nウチにとっておきの秘策があるんや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "『ないなら作ればええ！』\r\nそれがウチの家の鉄則やからな！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "たい焼き屋のおじさん",
+      "Text": "いやはや、お好み焼きの生地を使って\r\nたい焼きを作るたぁ、お嬢ちゃん考えたな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "生活の知恵ってヤツやな！\r\nお、そろそろひっくり返してみい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子A",
+      "Text": "わかった――えいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "うんうん！\u3000ええ焼き加減やんか！\r\nなかなか筋がええで～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子A",
+      "Text": "そうかな？\u3000えへへっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "よ～し、出来上がりや！\r\nほらみんな、食べた食べた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子A",
+      "Text": "もぐもぐ……ごくんっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "どや？\u3000味や食感にちょっとした違いは\r\nあるけど、たい焼き気分は味わえるやろ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子A",
+      "Text": "うんっ！\r\n皮もあんこもすっごくおいしい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "わかったやろ、坊主？\u3000工夫凝らせば\r\n大抵のことはなんとかなるもんや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "欲しいもんがあるなら諦めんな！\r\n泣いとるばっかじゃ時間がもったいないで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子A",
+      "Text": "お姉ちゃん……\r\nわかった、ありがとうっ！",
+      "ChoiceDataList": [
+        "さすがはお姉ちゃんだな！",
+        "さすがはお姉ちゃんだね！",
+        "しょっぱいものも食べたくなってきた"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子A",
+      "Text": "お姉ちゃん……\r\nわかった、ありがとうっ！",
+      "ChoiceDataList": [
+        "さすがはお姉ちゃんだな！",
+        "さすがはお姉ちゃんだね！",
+        "しょっぱいものも食べたくなってきた"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "へへっ！\r\nまっ、子どもの世話なら任しときや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "たい焼き屋のおじさん",
+      "Text": "本当に助かったよ、お嬢ちゃん！\r\nいや～、ちっちゃいのにえらいなー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "んなっ！？\r\nちっちゃいは余計や、余計！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "くそ～！\u3000いつか絶対、\r\nどデカいウマ娘になったるからなー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "タマモクロスの心からの叫びが\r\n辺りに響き渡ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "せやな！\u3000これはこれでええけど、\r\nちゃんとしたお好み焼きも食いたいわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "材料もまだまだ残っとるし、\r\n帰ったら本場仕込みのお好み焼きを\nたんまりごちそうしたる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ほな、坊主もおっちゃんも元気でな！\r\n今度たい焼き買いにくるわ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そして学園に帰った後、タマモクロスと\r\n美味しいお好み焼きに舌鼓を打ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "Title": "エンディング？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "スイープトウショウは見事、\n『宝塚記念』で1着を獲ることができた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "とても大事な最初の2年間……と少しを\n共に乗り切ることができたのだ――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……………………\n……………………………。",
+      "ChoiceDataList": [
+        "えっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "使い魔、うるさい！\n急に大声出さないでっ！！",
+      "ChoiceDataList": [
+        "ごめん……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "もうっ、新しい魔法の呪文が\n浮かんでたのに消えちゃったじゃない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "それにあそこの時計の針もズレてる！\n直すのは使い魔の仕事でしょ！！",
+      "ChoiceDataList": [
+        "えっ、ごめん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "スイープトウショウにひと通り\n平謝りしながら、急いで時計を直す。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……だがダメ使い魔のままでは\n引き下がれない。彼女にはトレーナーとして\n尋ねるべきことがあった。",
+      "ChoiceDataList": [
+        "ところで次のレースはどうする？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "レース？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "それはもういいでしょ。\nレースの魔法は最強のヤツだって使えたし。",
+      "ChoiceDataList": [
+        "ええええっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "しーずーかーにーっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "あ・の・ねぇ！！\u3000アタシが覚えたい魔法は、\nレースの魔法だけじゃな・い・の！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "魔法の勉強は大変なんだから！\nアンタももっと気を利かせてよねっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ガラララッ！\u3000ガン！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "たのも～～～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "突如部屋に現れたのは、\n剛をもって剛を制するおてんばウマ娘、\nカワカミプリンセスだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "カワカミプリンセス"
+      ]
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "レースの魔法を教えてくださいですわ～～！\nたのも～～～～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "…………は？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……！\u3000その『は？』とは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "『はい』の『は』ということですわねっ！？\nオッケーをくださり、恩に着ますわ～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そんなわけないでしょ！\nバカワカミ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そもそもアタシ、\nレースに出る予定ないし！\nレースの魔法も休業中なんだけど？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "エエエエエっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "うるさーーいっ！",
+      "ChoiceDataList": [
+        "（2人とも声のボリュームが……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "で、でも……っ。\n私には貴方の魔法が必要なんです……っ！\nだって、だって……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "あの方の心を変えるには、\nもう貴方の魔法くらいしか\n………………うわぁぁぁん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ちょ……なんで急に泣き出すのよ！？\nんも～…………っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "で、なんでレースの魔法が必要なの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "…………レースを好きになってほしくて。",
+      "ChoiceDataList": [
+        "レースを好きに？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……はい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "私、ある先輩にもう1度、\nレースを好きになってほしいんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "その先輩とは以前1度だけ、\n併走する機会がありましたの。\n私はそれはもう張り切って走りましたわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "先輩はとても優秀な方でしたから。\n彼女にぜひ……勝ちたい、と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "レースが始まった瞬間、\n私は道をこじ開けようと前へと向かいました。\nより前に。もっと前に出ようとして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……どん、と衝撃が来たんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……小さな悲鳴が聞こえました。\n振り返ると、先輩の顔が真っ青になっていて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "そのまま彼女は立ち止まってしまって、\nコースからも離れてしまって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ほどなくして、『先輩は走るのが怖くなった』\nという話を聞いたんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "私、急いで謝罪に行きました。\nしかし先輩は『あなたのせいではないから、\n謝る必要はない』と仰るだけで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "でも、あれは完全に私のせいで……っ！",
+      "ChoiceDataList": [
+        "その先輩ってどのウマ娘？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……。それは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "『秋華賞』後のケガで休養中って聞いたけど、\n併走できるくらいには調子も戻ってたんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "……え。スイープさん！？\nあっ！？\u3000えっと……久しぶり？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ねえアンタ、\n走るのが怖くなったって本当？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "だいぶ勝手なウワサが流れてるみたいだけど。\nそれって本当なの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "！\u3000ああ、それは――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "……本当、だよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "え？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "でも全部が全部、ウワサどおりじゃない。\nカワカミさんは本当になにも悪くないの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "カワカミ"
+      ]
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "あの子は本気で競り合ってくれただけ。\n接触も大したことなかったし、\nケガをしたわけじゃない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "……あの時、立ち止まったのは私の問題。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "問題ってなによっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "無理だって思っちゃったの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "ケガで休んでいる時もうすうすは\n思っていたけどね。このまま復帰しても\n……きっと私は、って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "…………なによそれ。\n無理って……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "実際カワカミさんとの競り合いで\nひるんじゃったのが証拠。\n私、彼女に力負けしちゃってた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "っ、それに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "それに――あなたの『宝塚記念』も見た。\nすごかった。みんなが魔法みたいって\n言うのもわかるくらいに、すごかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "届かないって思っちゃうくらい。\nだからもうやめようって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "！？\u3000なんで？\nアタシのあのレースを見て、\nなんでそう思うのよ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "届かないなんてふざけたこと言ってないで、\nもう1度始めればいいじゃない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "『オークス』や『秋華賞』の時の\nアンタみたいにもっと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "無理なんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "……怖くてしょうがないの。\nボロボロに負けて、\n終わった自分を突きつけられることが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "私はもう、あの時の私とも違う。\nケガして1年も休んだら、誰だって置いて\nいかれる。……そんなの常識でしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "――っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "なによ……ジョーシキって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "なんでそんなつまんない顔ができるの！？\n意味わかんない！\nぜんっぜん意味わかんない！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ジョーシキがなんなの！？\nそんなつまんないことであきらめてる\n今のアンタ、ホントにつまんない！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水色リボンのウマ娘",
+      "Text": "常識は常識だよ！\u3000あなたと私は違う！\n私は奇跡を起こせるウマ娘じゃない、\n普通のウマ娘で――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そんなのしらないっ！\nフツーとか、ジョーシキとか\n魔法でぶっ壊せばいいだけだもん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "アンタ、アタシの秋のレースを観にきなさい！\n魔法で元のアンタに戻してやる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "絶対に……絶対なんだからっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "使い魔！\u3000次にアタシが走れる\nGⅠには、なにがある！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "スイープトウショウのためのGⅠを考える。\n今、これほどまでに意欲がある彼女だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "歴史ある、強豪が集う秋の舞台。\nかつ距離適性や彼女の末脚を生かせるのは――",
+      "ChoiceDataList": [
+        "『天皇賞（秋）』かな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "じゃあそれでいい！\nそれからカワカミ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "はいっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "『天皇賞（秋）』で\nすっごい魔法を使ってやるから、\nアイツを絶対に引っ張ってきて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "わっ、わかりましたわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "（レースの魔法はつまんない\n世界をぶち壊して、みーんなを\nワクワクさせるすごい魔法なんだからっ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "（アタシの魔法を見たのにあきらめるなんて\n絶対に許さない！\u3000もっとカンペキに、\nもっとすごい魔法を使うっ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "（そのために必要なのは、\nあとはライバルよっ。みんなを熱狂させる\n特別なレースをするためのライバル――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ロブロイ！\u3000ちょうどいいところに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "スイープさん！？\nよかった、\n私もあなたに話したいことが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "アンタなら、\nアタシのライバル役として間違いないわ！\n『天皇賞（秋）』に出て！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "！\u3000『天皇賞（秋）』にですか？\nスイープさんもそちらに出走を？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ええっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "……！\u3000ふふっ、\n私ももう1度あなたとレースがしたいと\nお願いしに来たところだったんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "ぜひお願いいたします。\n次こそは私……負けませんからっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ええ、サイコーのライバル役を頼んだわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "天才魔法少女スイーピーは、\n『天皇賞（秋）』でも\n超最強の魔法を使うんだからっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

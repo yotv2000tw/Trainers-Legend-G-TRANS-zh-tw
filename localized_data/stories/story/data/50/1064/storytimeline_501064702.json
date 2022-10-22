@@ -1,0 +1,313 @@
+{
+  "Title": "牛乳とリカバリー",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "そっか、トレーナーはこの後も書類仕事か～。\n無理しすぎてない？",
+      "ChoiceDataList": [
+        "大丈夫！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店長",
+      "Text": "無理だ～～！\u3000終わりだ……！\nどうして僕はこんなポカをっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あらら、あっちは大丈夫じゃないみたい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "なるほど、誤発注か～。\nたしかに、牛乳1000本を今日中に売るの、\n大変そうだけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "でもさ、売り切ったら大繁盛ってことじゃん？\n悪い可能性ばっかりじゃないない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "パーマーさんも力になるしねっ！\nいつもいろいろオマケしてもらってるお礼、\nさせてもらっちゃうよ♪",
+      "ChoiceDataList": [
+        "俺も手伝うよ！",
+        "私も手伝うよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あ、ライアンじゃん！\u3000ちょうどよかった！\n牛乳買ってかない？\u3000プロテイン用のやつ、\n使い切ったって言ってたっしょ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "よく覚えてたね！？\u3000さすがパーマー……！\nちょうど買わないとって思ってたんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "あ、まとめ買いしていいんだ？\nじゃあ～……10パック、お願いしますっ！",
+      "ChoiceDataList": [
+        "す、すぐお持ちしまーす！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "ターボも牛乳買うー！\nがんがん飲んで、どんどん走るーっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あ、飲みすぎはダメ！\u3000お腹壊しちゃうよ。\n1日にコップ1、2杯くらいがオススメかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "毎日飲むだけで、タンパク質とか\nカルシウムとか、いろんな栄養がたっぷり、\nしかもお手軽にとれちゃうんだよね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "へーっ！\u3000そうなんだー！\n牛乳ってべんりー！\u3000かんたんーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "お客さんA",
+      "Text": "あら、やっぱり牛乳ってすごいのね～。\nうちの子にも飲ませようかしら。\nねえ、わたしに3パックちょうだい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "お客さんたち",
+      "Text": "俺にも3パックくださいっ！\nこっちは5パックくださーい！",
+      "ChoiceDataList": [
+        "（うおおお、また補充しないと……！）",
+        "（うわああ、また補充しないと……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "パーマー推しの後輩達",
+      "Text": "パーマー先輩～！\u3000みんなで来ました！\nひとり3パックずつくださいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "え、来てくれたの！？\u3000みんなマジ感謝！\nえーと、みんな何人いる？\u30001、2、3、4――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店長",
+      "Text": "トレーナーさん、裏に取りに行けるか！？\n手分けして、なんとか補充しよう！",
+      "ChoiceDataList": [
+        "は、はいっ……頑張ります……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうしてメジロパーマーのおかげで、\n順調に牛乳が売れていったのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店長",
+      "Text": "降ってきたか……！\nおーい、軒先の商品入れといてくれ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店長",
+      "Text": "……えっくしょん！\u3000うぅ……。\nやんだらやんだで、寒くなってきたねえ……。",
+      "ChoiceDataList": [
+        "売れ行きに影響しそうですね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店長",
+      "Text": "……2人とも、ありがとな。\nいや、だいぶ助けてもらっちゃったな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店長",
+      "Text": "余った分はもったいないけど、\n廃棄することにするよ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いや～この天気、ヤバすぎっしょ～。",
+      "ChoiceDataList": [
+        "さすがに厳しいよな……",
+        "さすがに厳しいよね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うん、ガチでヤバイ！\n爆売れのチャンスじゃん！",
+      "ChoiceDataList": [
+        "えっ、チャンス……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "これを逃がすワケにはいかないっしょ！\n店長、いくつか機材借りていい？\nまずは大鍋と、白砂糖と……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ホットミルクいかがですか～っ！\n体の芯まで温まりますよ～っ！",
+      "ChoiceDataList": [
+        "いかがですか～！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "買い物客A",
+      "Text": "わぁ、あったかそう！\u30001杯いいかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "買い物客B",
+      "Text": "急な雨だったっていうのに、\n準備がいいのね～！\u3000商売上手さんね～。",
+      "ChoiceDataList": [
+        "（なんという機転だ……！）",
+        "（なんという機転……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……ありがとうございました！\nよし、これで最後っ！\u3000ということはっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "完売、ウェ～～イ！！",
+      "ChoiceDataList": [
+        "ウェ～～イ！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店長",
+      "Text": "君たちのおかげで、救われたよ……！\nホントに、なんてお礼を言えば！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "礼なんかいいですって！\n牛乳も売れたし、私も役に立ててよかったし、\nみんな嬉しいってことで！",
+      "ChoiceDataList": [
+        "俺も嬉しいよ！",
+        "私も嬉しいよ！",
+        "最強の売り子だな……！",
+        "最強の売り子だね……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "礼なんかいいですって！\n牛乳も売れたし、私も役に立ててよかったし、\nみんな嬉しいってことで！",
+      "ChoiceDataList": [
+        "俺も嬉しいよ！",
+        "私も嬉しいよ！",
+        "最強の売り子だな……！",
+        "最強の売り子だね……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "トレーナー、マジで最＆高！\n一緒に手伝ってくれて、私こそ嬉しかったよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店長",
+      "Text": "いや～、トレーナーさんもありがとな。\nお仕事忙しいのに、手伝ってくれてさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "こらこら！\nおだてても、スマイルしか出しませんよ～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店長",
+      "Text": "いや～、トレーナーさんもありがとな。\nお仕事忙しいのに、手伝ってくれてさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "お仕事……。\n…………ああっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "今日、書類仕事だって言ってたよね！？\nヤバッ、私牛乳のことで頭いっぱいで……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いや、マジでゴメン！！",
+      "ChoiceDataList": [
+        "仕事なんていつでもできるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あー……いや、……う～ん……。\n君のことだから、本心とは、思うけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "とにかく、ごめんっ！\u3000ホント！\n気をつける！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "珍しく、少し浮かない表情を見せる\nメジロパーマーなのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

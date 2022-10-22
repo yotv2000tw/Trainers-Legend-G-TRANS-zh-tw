@@ -1,0 +1,46 @@
+{
+  "Title": "武者震い",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "青、青、青～～！！\n気分を鎮める、青～～！！",
+      "ChoiceDataList": [
+        "ど、どうしたんだ？",
+        "ど、どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "どうしたもこうしたも！\nさっきからドキドキが収まらないんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "少し冷静になろうって青いものを\n見つめているんだけど、全然効果ないの！\n熱くなって、ムズムズして――",
+      "ChoiceDataList": [
+        "調子がいい証拠じゃないかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "調子がいい……？\u3000あ、そっか！\n今の私、走りたくてたまらないんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "だったら情熱の赤でいこう！\nよーしっ、全力でいってきまーすっ☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

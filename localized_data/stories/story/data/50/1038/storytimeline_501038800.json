@@ -1,0 +1,436 @@
+{
+  "Title": "Where are you, Curren？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "う～ん、なにがいいかなぁ？",
+      "ChoiceDataList": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "あのね、SNSで新しい企画やりたいなって。\n『カワイイダービー♪』勝ちたいもんっ！\nお兄ちゃん、いいアイディアないかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "あのね、SNSで新しい企画やりたいなって。\n『カワイイダービー♪』勝ちたいもんっ！\nお姉ちゃん、いいアイディアないかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女は『カワイイダービー♪』で、短距離の\nSNS猛者たちとウマいねの数を競っている。\n確かに、新企画は高評価を得られやすそうだ。",
+      "ChoiceDataList": [
+        "複数のSNSを使った謎解きはどうだ？",
+        "複数のSNSを使った謎解きはどう？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "謎解きは、閲覧者が参加して楽しめる。\n複数のSNSを横断した謎解きにすれば、\nどの媒体も見てもらえるのではと話した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "謎解き、すっごくいいと思う！\n参加型の企画は、ウマいねがつきやすいしね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "どんな問題がいいかな～。\n楽しめる難易度も見極めないとっ。\nできれば実際に――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "……ねぇ、明日！\n謎解き動画の撮影しよっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――ということで、今日は\n出題用の動画を撮影していた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "うん、導入はこんな感じでいいかな。\nちょっと休憩しよっか！",
+      "ChoiceDataList": [
+        "まだ開始して10分も経ってないけど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "カレン、喉が渇いちゃったんだも～ん。\nジュース買ってくるね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "撮影した動画を確認しながら、\nカレンチャンの戻りを待つ。\nだが、15分経っても彼女は現れず……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ピロロン♪）",
+      "ChoiceDataList": [
+        "カレンから……メッセージ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "『お兄ちゃんへ。中抜けします。\nキラキラを辿って捜しに来てね♪』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "『お姉ちゃんへ。中抜けします。\nキラキラを辿って捜しに来てね♪』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "場所をぼやかした曖昧な表現。\nこれはおそらく……謎解き問題だろう。\nそういえば、昨日――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "どんな問題がいいかな～。\n楽しめる難易度も見極めないとっ。\nできれば実際に――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "実際にやってみれば、難易度もわかるよね♪\nふふっ、お兄ちゃんにこの謎が解けるかな～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "実際にやってみれば、難易度もわかるよね♪\nふふっ、お姉ちゃんにこの謎が解けるかな～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "脳内のカレンチャンがいたずらっぽく微笑む。\nこれが謎解きの予行演習なら、ヒントは\nSNSにあるはずだ。ウマスタを確認しよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "カレンチャンの最新の投稿は、\n寮の室内で撮影した写真だった。\n『#中抜け』のタグがついている……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "つまり、この写真が何かのヒントだ。\nメッセージには『キラキラを辿って』\n捜してほしいとあった。",
+      "ChoiceDataList": [
+        "キラキラを辿るとは何だろう……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "キーワードは、別の意味を探すといいかも。\n漢字や他の言語にしてみるのは定番だよね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "キラキラは煌めき、輝き。\n英語なら、glitter、sparkle、\ntwinkle……トゥインクル？",
+      "ChoiceDataList": [
+        "キラキラはトゥインクル・シリーズ……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "閃いてカレンチャンのウマスタを遡る。\nすると、トゥインクル・シリーズの写真で、\n先ほどの写真と同じポーズのものがあった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "2人で中京レース場へ観戦に行った際に、\nスタンドで撮った写真だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ピロン♪）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "カレンチャンのウマスタに新規投稿があった。\n『#中抜け』タグと……『#反対の音』？\n先ほどの写真にはないタグがついている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "新しい写真と同じポーズの写真を探す。\n今度は中山レース場で撮影した写真だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "『#中抜け』……中京レース場、\n中山レース場……『#反対の音』。\nもうわかるよね、お兄ちゃん？",
+      "ChoiceDataList": [
+        "そういうことか……謎はすべて解けた！",
+        "そういうことね……謎はすべて解けた！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "『#中抜け』……中京レース場、\n中山レース場……『#反対の音』。\nもうわかるよね、お姉ちゃん？",
+      "ChoiceDataList": [
+        "そういうことか……謎はすべて解けた！",
+        "そういうことね……謎はすべて解けた！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "写真が撮られた2つのレース場名には\n“中”が共通している。そして『#中抜け』、\nつまり中を抜いて“京”と“山”だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "さらに中山には『#反対の音』がついていた。\n山の反対は“海”、この漢字を音読みする。\n2つのワードをつなげると――",
+      "ChoiceDataList": [
+        "“きょう”と“かい”で“教会”が答え！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "急いで教会へ向かう。どんどんと足が速まり、\nいつの間にか走っていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "あはっ、待ってたよ、お兄ちゃん♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "あはっ、待ってたよ、お姉ちゃん♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "でもね、ストーップ！\n最後の謎を解いてもらわなきゃ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "カレンはね、想いを込めたプロポーズをして\nこの勝負服を獲得したの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "だから……ね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女が勝負服にしたように、\n想いを伝えてほしいということだろう。",
+      "ChoiceDataList": [
+        "謎を解きながら、気づいたんだ",
+        "謎を解きながら、気づいたの"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "トゥインクル・シリーズの写真を遡ると、\n彼女がどんどんと輝きを増して……\nカワイくなっていることに気づいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "それは彼女の努力の証だと思った。\n彼女のカワイイがみんなを幸せにして、\nその幸せが彼女にも返ってきている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今のカレンチャンは、その勝負服に相応しい\n女王のような品格と美しさがあると告げた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "えへへ……じゃあ、お兄ちゃんは\nカレンのこと……どう思ってる？",
+      "ChoiceDataList": [
+        "宇宙一カワイイよ！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "えへへ……じゃあ、お姉ちゃんは\nカレンのこと……どう思ってる？",
+      "ChoiceDataList": [
+        "宇宙一カワイイよ！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "うんっ！\u3000はなまる♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "素敵なプロポーズありがとう\nお兄ちゃん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "素敵なプロポーズありがとう\nお姉ちゃん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "謎もちゃーんと解いて迎えに来てくれたし。\nカレン、すっごくうれしい♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "だから、カレンも誓うね。\nこのカワイイ勝負服を着て、\n最高にカワイイカレンをみせる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "末永くよろしくね、お兄ちゃん！",
+      "ChoiceDataList": [
+        "ああ！",
+        "うん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "末永くよろしくね、お姉ちゃん！",
+      "ChoiceDataList": [
+        "ああ！",
+        "うん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――その後、彼女は改めて謎解きを投稿した。\n結果、カレンチャンが走ったレースへの\n関心を高めることができたのだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女が勝負服にしたように、\n想いを伝えてほしいということだろう。",
+      "ChoiceDataList": [
+        "謎を解きながら、振り返ることができた"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "トゥインクル・シリーズの写真を遡って、\n彼女の頑張りを改めて確認できたと伝える。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "カワイくあるため、カレンチャンは\nレースもSNSも全力で取り組んでいた。",
+      "ChoiceDataList": [
+        "カレンの頑張りは素晴らしいよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "むぅ～……それだけ？",
+      "ChoiceDataList": [
+        "え？そ、それだけって……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "はぁ……カレンもまだまだってことかなぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "そ・れ・な・ら！\nカレン、もっともーっとカワイくなるもんっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "お兄ちゃんがカレンのことしか\n考えられなくなるくらい、\nカワイイで満たしちゃうから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "お姉ちゃんがカレンのことしか\n考えられなくなるくらい、\nカワイイで満たしちゃうから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "覚悟しててよねっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "カレンチャンから宣戦布告された……。\nまぁ、望むところではあるが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、彼女は改めて謎解きを投稿した。\n結果、カレンチャンが走ったレースへの\n関心を高めることができたのだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

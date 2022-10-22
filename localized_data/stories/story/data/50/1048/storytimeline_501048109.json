@@ -1,0 +1,377 @@
+{
+  "Title": "クリスマス",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……うっわ、またこの時期かー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "すごーいっ、今年もすごい量の段ボールだ！\r\nお野菜盛りだくさんだね！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "んじゃ、チケゾーさん。\r\nこれもらってくれません？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "えー、ダメだよ！\r\nこれ、ジョーダンのお母さんが\n送ってくれたやつでしょ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "ほら、お手紙もついてるし！！\r\nジョーダンが食べなよ！！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "まー……っすケドー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……いや、やっぱムリ。\r\nこれを料理すんのってめんどすぎ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "やっぱ学校のみんなで食べよ、で。\r\nチケゾーさん、明日手伝って。\n食堂のおばちゃんにプレゼントすっから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "えええええ！？\r\nだ、ダメだってばあああ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "ジョーダンのトレーナーさん！！\r\nこれ、お願いね！！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ウイニングチケットはトーセンジョーダンを\r\n連れて、大量の段ボールをトレーナー室に\n運んできた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "じゃっ！\u3000美味しく食べてね！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "これは一体……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "鍋の材料。うちのママが\r\n食えって送ってくんの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "カニとかもあるからさ。\r\nトレーナー、食べていいよ。",
+      "ChoiceDataList": [
+        "君は食べないのか？",
+        "貴方は食べないの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "いい。それ、ママのシュミだから。\r\nヒトに何か送ってー。飯作らせんの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "料理ヤダつってんのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "段ボールの中には白菜やにんじん、\r\n冷凍された海鮮類のほかにも\n美味しそうな食材が入っている。",
+      "ChoiceDataList": [
+        "……君の家ってお金持ち？",
+        "……貴方の家ってお金持ち？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "は？\u3000フツーだけど？",
+      "ChoiceDataList": [
+        "じゃあ、家の分よりも君の分なんだな",
+        "じゃあ、家の分よりも貴方の分なんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "食材はひとつひとつ、丁寧に包まれていた。\r\n入っていたメモには電子レンジでの\n調理方法も書かれている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "…………そうかもだけど。\r\n……こんな食べもんだけもらってもさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トーセンジョーダンはしゃがみ込み、\r\n段ボールの上に貼られていた\nメモのひとつを取った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……『おいしい物食べてね』とか。\r\nいや、学園の料理もフツーにうまいから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "…………送ってこなくていいっつってんのに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "俺が調理してみようか？",
+        "私が調理してみようか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ドーゾ、ご勝手にー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして、せっかくなので\r\n入っていた食材を利用して\n鍋を作っていたのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "できたできたー。",
+      "ChoiceDataList": [
+        "……部屋が飾りつけられてる"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "だって、しょぼいし。\r\n全然クリスマス感なかったし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "あークリスマスチキン食いてー。\r\n買お。",
+      "ChoiceDataList": [
+        "鍋も食べるんだろ？",
+        "鍋も食べるんだよね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……ま、あまったらねー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……うっま。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "は、天才？\r\n料理もできんのかよ。",
+      "ChoiceDataList": [
+        "メモ通りに作っただけだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……ふーん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ま、来年も送られて来たら\r\nアンタが作ってよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "食べるだけなら、してもいいからさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "あークリスマスチキン食いてー。\r\n買ってこよ。",
+      "ChoiceDataList": [
+        "鍋も食べるんだろ？",
+        "鍋も食べるんだよね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……ま、あまったらねー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……うわっ、ウケるー。\r\nそれ丸ごと入れんの？\u3000ザツー。",
+      "ChoiceDataList": [
+        "そうメモに書いてあったから……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "えー。んなザツなことママ嫌いなんだけど。\r\nぜってぇ～ウソ。めんどいだけっしょ？",
+      "ChoiceDataList": [
+        "本当だって！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "はー？\u3000ジョーダン言うなって～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ほら……聞けよ～？\u3000作り方はー。\r\n鍋に水を入れて、パックの出汁いれてー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……！\r\n…………。",
+      "ChoiceDataList": [
+        "本当だろ？",
+        "本当でしょ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……うま。",
+      "ChoiceDataList": [
+        "確かに美味しい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "つーかウケる。\r\nアンタと鍋つつくとか。ショーガツかよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "は～……ないわ、ない。\r\nなんか色々ないわ～。",
+      "ChoiceDataList": [
+        "でも美味しかったよな",
+        "でも美味しかったよね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "はいはーい、ごちそーさまでしたー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……電話くらいしとくわ。\r\n『トレーナーと食った』って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……『うまかった』って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トーセンジョーダンはその後、\r\nトレーナー室で実家への電話を\nかけ始めたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

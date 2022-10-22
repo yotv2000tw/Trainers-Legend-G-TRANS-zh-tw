@@ -1,0 +1,266 @@
+{
+  "Title": "伝説の書を求めて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヤエノムテキと出かけた帰り。\n彼女は、ある古書店の前で立ち止まった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "トレーナー殿。\n少々、寄り道をお許し願いたい。",
+      "ChoiceDataList": [
+        "買い物か？",
+        "買い物？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ええ。この店で以前より欲していた\n古書を見つけまして。\n購入のため、資金を貯めておりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "柔術諸流の肉体鍛錬法を記録した本……\n現在は伝系が途絶えた流派についての\n記載もあり、極めて貴重な資料なのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "失われた技術……果たして、\nいかな学びがあるか、楽しみです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして、店の前でヤエノムテキを\n待っていたのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……ないッ！\u3000あの本が、ない……！\n確かにあの棚に……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ご店主！\u3000奥の棚に、\n貴重な本があったのですが……！\n売れてしまったのですか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店主の老人",
+      "Text": "んん？\u3000ああ、ついさっき\nその棚の本を買っていった娘さんがいたな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店主の老人",
+      "Text": "ほれ、ちょうどあんたと同じ制服の……\n何学園じゃったか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "トレセン学園の生徒……！？\nそれに、つい先ほどとなれば、\nまだ近くにいる……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "せめて、数頁でも内容を拝見したい……！\nあとを追います！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "いい買い物できたな～♪\r\nよし、ここで読んでいこっと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "あれは……ライアンさん！\nそれに、手に持っているのはあの店の袋……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ライアンさんはむしろ現代トレーニングが\n専門と思っていたが……うぅむ。\n古式の鍛錬法にも興味をお持ちとは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――ライアンさん！\n畢生【ひっせい】の願いがございます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "あれ、ヤエノ？\nどうしたの、そんな切羽詰まった顔で……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "貴方が購入されたその本……\nどうか、私にも見せていただきたい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "え……ええっ！？\nこ、これっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ライアンさんも“ああしたもの”に\n興味をお持ちとは、存じませんでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "と、言うと……もしかしてヤエノも……\nその……こういうの読むの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "むしろ私の歩んできた道を思い返せば、\n読まぬことこそ怠慢と言えましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "そ、そうなの……！？\nなんかヤエノの過去が気になってきたよ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ということで、ご一緒させていただきたく！\nよろしくお願いいたしますっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "ま、待って待って！\nわかった！\u3000見せるから、落ち着いて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "！！\u3000ありがとうございます！\nこの恩、生涯忘れますまい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……なぁぁっ！？！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "な、な……なんですかこの本は！？\n開くなり、く、く……口づけ……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "ちょちょちょ！？\u3000口に出さないでよ！\n少女漫画の中でも……その……\n積極的なシーンが多い作品なんだよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ど、どういうことですか！？\n私は古流の鍛錬法が書かれているものと……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "あわわわ……そ、それに、手を握って……\nええっ、そ、そんなことまで！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "ちょ、ちょ……やめて！\n大声で言わないで～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "あ、あわわわわ……ぷしゅぅぅぅぅぅ……。",
+      "ChoiceDataList": [
+        "これが古流の鍛錬……",
+        "じゃあ、例の本はどこへ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "違います！！\n断じて違います！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "こ、こんな……全部私の勘違いで、\nもう、もう……なぜに……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……あぁーー！！\u3000私のバカ！！\nみんなバカーーーー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……ちなみに、件の古書は\n店主が棚を整理した際、別の場所に\n移動しただけとのことだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "た、確かに……一体どこへ\n行ってしまったのでしょうか？",
+      "ChoiceDataList": [
+        "もう1度捜してみるか？",
+        "もう1度捜してみる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "そう……そうですね。\nで、では、ライアンさん、御免！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "え……ええっ！？\u3000ちょっと待ってよ！？\nこれじゃ、あたし恥ずかしい思いしただけ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……ちなみに、件の古書は\n店主が棚を整理した際、別の場所に\n移動しただけとのことだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

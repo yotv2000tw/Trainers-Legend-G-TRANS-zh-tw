@@ -1,0 +1,157 @@
+{
+  "Title": "驚愕ッ！理事長のサプライズ！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "校内放送",
+      "Text": "『――<username>トレーナー、\r\n至急理事長室までお越しください』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ただならぬ放送に呼ばれ、\r\n少し慌てて理事長室までやってきた。",
+      "ChoiceDataList": [
+        "<username>です"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "うむ、入りたまえ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "……どうぞ、お座りください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "あ、あの……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "たづな＆理事長",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "不気味なほどの静けさ……！\r\n沈黙はその後、数分にわたって続き――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……だんだん不安になってきた。\r\n何か、とんでもないことが\n起きてしまったのではないだろうか？",
+      "ChoiceDataList": [
+        "あの！いったい何が……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "感謝ッ！！",
+      "ChoiceDataList": [
+        "……えっ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "今日は、トレーナーさんに感謝の気持ちを\r\n伝えるためにお呼びしたんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "そうだ！\u3000君の担当する\r\n<chrname>は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "トゥインクル・シリーズの3年目という\r\n重要な年を、素晴らしい輝きで駆け抜けたっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "その軌跡は同期のみならず\r\n後進のウマ娘たちにとっても光り輝く\n道しるべとなること間違いなしっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "よって……大大大大大・感謝ッ！！\r\nよくやってくれた、トレーナー！",
+      "ChoiceDataList": [
+        "あ、ありがとうございます！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "うむ！\u3000そして……期待ッ！！\r\nこれからも、空前絶後の大活躍を\n心待ちにしているっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "私からも……本当に、いつもお疲れ様です。\r\nお手伝いできることがあれば、\nいつでもお声がけくださいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやら、お褒めの言葉をいただけたようだ！\r\nありがたいが……\nひとつ気になることがあった。",
+      "ChoiceDataList": [
+        "あの沈黙はなんだったんですか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "無論ッ！！\u3000サプライズッ！！",
+      "ChoiceDataList": [
+        "さ、サプライズ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "うむ！\u3000そっちのほうが……\r\nちょっと盛り上がる気がしたッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "ご、ごめんなさい。\r\n一応、止めはしたんですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……突っ込みたい気持ちはあれど、\r\n褒めてもらえたのは素直に嬉しい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "後日、<chrname>にもこのことを話し\r\n2人で喜びを共有した！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

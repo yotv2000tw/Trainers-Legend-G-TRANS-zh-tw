@@ -1,0 +1,348 @@
+{
+  "Title": "私、ママになりますっ！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ある日、寮の前を通りかかると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "けほっ！\u3000大丈夫よ、フラワーちゃん。\r\nこのくらいで休んでいるわけには……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そんな……\r\n調子を崩したまま無理を続けていたら、\nいつか倒れてしまいます……っ！",
+      "ChoiceDataList": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "クリークさん、お風邪をひかれているのに\r\nやらなくてはいけないことがあるって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "お洗濯、お掃除に寝かしつけ……\r\n私には待っている子たちがいるの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "みんなのところに行って、\r\n力になってあげないと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "クリークさん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "じゃあ私がクリークさんの代わりになります！\r\nみなさんのことなら任せてくださいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "え……でもそれだと私がみんなを甘やかし……\r\nいえ、フラワーちゃんに手間をかけて\nしまいませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "手間なんて気にしないでください……！\r\nそれよりも私、みなさんの力になりたいです！",
+      "ChoiceDataList": [
+        "お任せしてもいいんじゃない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "う～ん……私自らお世話ができないのは\r\n残念だけれど……わかりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "フラワーちゃんなら、きっと立派に\r\nみんなのママを務めてくれるでしょうしね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はい、がんばりますっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "オグリさん！\r\nクリークさんの代わりに\nお弁当をお届けにきましたっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "それは……私の顔だな。\r\nキャラ弁というやつか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はい。楽しくお食事できるようにって……\r\n具材はオグリさんの好きなものを\n詰めてみました♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "そうか……感謝する。\r\n……ふふっ、かわいいな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "タイシンさ～ん、\r\n約束していたトレーニングの時間ですよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "約束って……クリークさんは\r\n早退したって聞いたけど？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はい、だから私が代わりに併走します！\r\n中距離までなら私も少しは走れますから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "うっ……わ、わかったって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "こないなこと、\r\nわざわざせんでもええのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "いえっ！\u3000クリークさんの代理ですから！\r\nしっかりマッサージします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ふぅ、ありがとうな。\r\nにしても、まったく律儀やなぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "タマモさんにはトレーニング後の\r\nマッサージをと言われていましたので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……それで最後は確か……\r\n仕上げに“よしよし”でしたっけ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "それはいらんわっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、ニシノフラワーによる\r\nみんなのお世話がひと通り終わった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "ふう……。\r\n思った以上に大変でした。",
+      "ChoiceDataList": [
+        "お疲れ様"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "クリークさんはすごいですね。\r\nこんなにもたくさんの子の助けになって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "そういえば、\r\n私が学園に来たばかりの頃もそうでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "心細かった私に『ママだと思って頼ってね』\r\nって優しくしてくれて……うれしくて、\nとってもほっとしたんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "私もクリークさんみたいに、\r\n誰かの助けになれたらいいなって\n……そう、思ったんです。",
+      "ChoiceDataList": [
+        "今日の君はバッチリだったよ！",
+        "今日の貴方はバッチリだったよ！",
+        "その気持ちは届いてるよ",
+        "いつかなれるといいな",
+        "いつかなれるといいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "私もクリークさんみたいに、\r\n誰かの助けになれたらいいなって\n……そう、思ったんです。",
+      "ChoiceDataList": [
+        "今日の君はバッチリだったよ！",
+        "今日の貴方はバッチリだったよ！",
+        "その気持ちは届いてるよ",
+        "いつかなれるといいな",
+        "いつかなれるといいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あ、ありがとうございますっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "やり方は同じではなかったでしょうけど……\r\n私なりにみなさんの助けになれたのなら\nよかったです♪",
+      "ChoiceDataList": [
+        "自信を持っていいよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はい……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "それで、あの……\r\nご迷惑でなければあなたにも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "これ、ポプリですっ。\r\n疲労が取れる香りのお花を詰めてあるので\nよかったら……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後――もらったポプリのおかげで\r\nリラックスして仕事に打ち込めたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はい……\r\nそうだといいなぁ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "あっ、これからお時間ありますか？\r\n育てたお花で作った茶葉があるんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "よければ、ごちそうできたらなって\r\n思ったんですけど――",
+      "ChoiceDataList": [
+        "ありがたくいただこうかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "えへへ、はい♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ニシノフラワーに淹れてもらった\r\nお茶は、今日1日付き合ったことへの\nお礼の気持ちを感じるものだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はいっ！\r\n今日のことで少しだけ近づけた気がします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "いつかクリークさんみたいに\r\n優しくて頼りがいのある……\nそんなりっぱなオトナになりたいです♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "よしよ～し。\r\nあなたにはママがついてまちゅよ～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "わ、私もですっ！\r\nだからその……安心して甘えてくださいね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……えっと、どうかしましたか？",
+      "ChoiceDataList": [
+        "いや……あまり無理しないようにね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "はいっ！\r\nお気遣いありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "唐突に現れた幻覚……。\r\nあれは未来のビジョンだったのか、\nそれとも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

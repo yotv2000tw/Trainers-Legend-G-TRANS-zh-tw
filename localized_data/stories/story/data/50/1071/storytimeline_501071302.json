@@ -1,0 +1,512 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロアルダンと共にトレーニング用品を\n補充しに商店街に立ち寄った帰りのこと――",
+      "ChoiceDataList": [
+        "買い物に付き合ってくれてありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "いえ。私が使わせてもらうものばかりですし、\nトレーナーさんもお忙しいでしょうから、\nこうしてお手伝いできて、嬉しいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……あら？\nあれは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、楽しい楽しい福引だよ！\nどなたでもどうぞ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "まあ、福引……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "実際に行われているのを拝見するのは\r\n久々です……！\nあの回転抽選器も、趣があってよいですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ふと、先ほど買ったトレーニング用品に\n福引券が1枚ついてきたことを思い出した。",
+      "ChoiceDataList": [
+        "福引、やってみる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "えっ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ですがそれは、\nトレーナーさんのお買い物で得たものでは？",
+      "ChoiceDataList": [
+        "今日はアルダンのための買い物でもあるから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……ふふっ。\nそう仰ってくださるのなら、\nお言葉に甘えて挑戦したく思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おや、そこのお嬢さん。やっていくかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "はい。よろしくお願いいたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロアルダンが勇んで\n抽選器のレバーを回した！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なんとっ！\u3000おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――――",
+      "ChoiceDataList": [
+        "やったな、アルダン！",
+        "やったね、アルダン！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "えっと……その……『特賞』というのは、\nたくさん出るものなのでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "いやいやお嬢さん、何言ってるの！\n『特賞』は滅多に出ないからこそ\n『特賞』なんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "そう、ですよね。\n申し訳ありません。\n少々驚きすぎて、思考が……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "それにしても……\n『特賞』を引かせていただけるなんて、\nいいんでしょうか……？",
+      "ChoiceDataList": [
+        "きっと日頃の行いだな",
+        "きっと日頃の行いだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "だとしたら……\n光栄でもあり、恐れ入ります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "何分、天運に逆らう気概で“今”に\n私を刻もうとしてきたので……\nこうして恩恵を授かるとは思いませんでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――先ほどトレーナーさんは\n私が自分で引いたと仰ってくれましたが、\n元はやはりトレーナーさんの福引券です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ですので、この券は……\nトレーナーさんのほうで\n預かっていただけないでしょうか？",
+      "ChoiceDataList": [
+        "構わないけど、これはアルダンのものだぞ",
+        "構わないけど、これはアルダンのものだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "トレーナーさんの福引券で、私が引いた。\r\nであれば、2人で使い方を相談したいと\n考えていまして……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "それに元より“今”の私は、\nレースに全てを賭ける身。\n旅行に時と気を割くのも、少々難しいかと。",
+      "ChoiceDataList": [
+        "そういうことなら、わかった"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "然るべき時が来ましたら……\nこの旅行券の使い方について、\nご相談させてくださいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "1等賞……！？\nたまたま引かせていただいた福引で、\nこんな――",
+      "ChoiceDataList": [
+        "やったな、アルダン！",
+        "やったね、アルダン！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……はいっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――それにしても、なんて大きいのでしょう。\nしかも、ただ巨大なだけではなく、\n丁寧な仕事が伺える逸品……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "どのように食すか、悩んでしまいますね。",
+      "ChoiceDataList": [
+        "きっとすごく美味しいぞ",
+        "きっとすごく美味しいよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "トレーナーさん。\nこのハンバーグ……\nよろしければこの後、一緒に食べませんか？",
+      "ChoiceDataList": [
+        "えっ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "元はと言えばあの福引券は\nトレーナーさんのお買い物で得たもの。\nそしてそれを私が引かせてもらった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "言うなれば、私たち2人で獲得した品です。\r\n故に私たちで食すのが道理かと。",
+      "ChoiceDataList": [
+        "そういうことなら、ご一緒しようかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "はい。ぜひに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "そうと決まりましたら、\nソースや付け合わせの材料も\nこちらで買って帰りましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "せっかくの逸品ですので、\r\n“今”できる最高の形で食しましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、メジロアルダンと共に\r\n特上にんじんハンバーグに\n舌鼓を打ったのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "2等賞～！！\n賞品は『にんじん山盛り』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "やりました……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ。\n当たりが引けるなんて、\n正直思ってもいませんでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "それにしても、この量――\n嬉しくもありますが、\n私ひとりでは手に余ってしまいますね。",
+      "ChoiceDataList": [
+        "友だちに分けるのも検討してみたら？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "なるほど……！\r\nそれはとてもよい考えですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "では、福引券をくれたトレーナーさんの分と、\n福引を引いた私の分を先に取って、\nあとはお友だちに分けてみようと思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "私たちの分のにんじんは、\r\nこの後なにか作って食べましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "トレーナーさんはにんじんを使った\n料理といえば、なにが思いつきますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、メジロアルダンが作ってくれた\nにんじん料理を食べながら、\n明日への活力を補充するのであった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "3等賞～！\n賞品は『にんじん1本』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ、当たりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "とても綺麗なにんじんですね。\n大切に育てられたのがわかります。\nそのまま食べても美味しそうなぐらい――",
+      "ChoiceDataList": [
+        "じゃあ、今食べてみる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "えっ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……はしたなくはありませんか？",
+      "ChoiceDataList": [
+        "買い食いみたいなものだから大丈夫だ",
+        "買い食いみたいなものだから大丈夫だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ。そういうものでしょうか？\nでも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "興味があるのは、否めません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "そうだ。せっかくですので、\r\nトレーナーさんもご一緒にどうですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、メジロアルダンとにんじんを\n半分に分けて食べながら帰ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "あら。\nはずれですか……。",
+      "ChoiceDataList": [
+        "残念だったな……",
+        "残念だったね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ。いざ外れてみると……\n存外、気落ちするものですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "福引はそれだけ、引く前に自然と期待が\r\n湧き上がってくるものなのでしょう。\nよい経験になりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "引かせていただきありがとうございます。\r\nせっかくなので何か当てて、トレーナーさん\nと分け合いたかったのですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "形にできず、申し訳ありません。",
+      "ChoiceDataList": [
+        "そんな、謝らなくていいよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "…………帰りましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "言動には表立って見えないが、\nメジロアルダンが少々気落ちしたことが、\n何となくわかってしまったのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

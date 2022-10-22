@@ -1,0 +1,348 @@
+{
+  "Title": "日課は、お友だちにお名前をつけること",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アストンマーチャンの動画を撮ってから数日後。\n買い物帰りに高架下を散歩していると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ホワホワさんはとってもホワホワですねぇ。\n移ってしまいそうなくらいホワホワです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "くつろいでいる彼女に出くわした。……なぜか隣には\n白いハトがおり、当たり前のように話しかけている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "あれ？\nあなたはたしか……この間の動画のトレーナーさんですね。",
+      "ChoiceDataList": [
+        "覚えてくれてたんだ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "はい、マーちゃんは絶対に忘れません。\n出会ったら、ずっと覚えています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうやけに真剣に告げるアストンマーチャン。\n隣のハトが相槌のように『クルックー』と鳴く。",
+      "ChoiceDataList": [
+        "……その子は、ペットなのか？",
+        "……その子は、ペットなの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "お友だちです。ペットではありません。\nといっても、出会ったばかりですが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "お昼寝をしていて、気づいたら横で寝ていたのです。\nそれで、一緒におしゃべりしていたのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "野生のハトが勝手に横で……そんなことがあるのだろうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "もしかすると、このあたりにクロエ・ハーバードさんが\n住んでいるので、彼女から紹介されたのかもしれません。",
+      "ChoiceDataList": [
+        "（クロエ・ハーバードさん？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "あ、服部忍び丸かも。それともアリ村さん？",
+      "ChoiceDataList": [
+        "（服部に、アリ村さん……？？？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "紹介しましょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "紹介されることになった。\n商店街の端へ連れて行かれ、そこで出会ったのは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "クロエさんこんにちは、今日も元気いっぱいですねぇ。\n赤ちゃんは元気ですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カラス",
+      "Text": "カー！",
+      "ChoiceDataList": [
+        "（カラスだ……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "服部忍び丸～！\nんふふ、今日はお天気がいいからお昼寝日和ですねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネコ",
+      "Text": "なーん。",
+      "ChoiceDataList": [
+        "（野良ネコだ……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "アリ村さんは働き者ですねぇ。\n新しいご飯は見つかりましたか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アリ",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "（アリ！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "そうですかそうですか。\nじゃあ、そろそろ1度休憩をしたほうがよいでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "そうだ！\u3000アリ村さんに見せたいものがあるんです。\nマーちゃんの、とっておきです。見たいですか？\u3000そうですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "というわけで、行きましょうか。",
+      "ChoiceDataList": [
+        "ええっと……どこへ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "とっておきです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうしてアリを片手に乗せ向かった先は……\n街中のウマ娘グッズショップだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "あうち。",
+      "ChoiceDataList": [
+        "今度はどうしたんだ",
+        "今度はどうしたの"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "マーちゃんのマスコットがまだない。それどころかグッズが\n1つもないですね。アリ村さんに見せたかったんですけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "この間の模擬レースでスーパー目立っていたはずなのですが。\nウルトラスーパーマスコットへの道のりは長い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "デビュー前にグッズが作られるのは稀では……というのはさておき、\n以前も『マスコット』の話をしていたことを思い出した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "マーちゃんの夢は、マスコットになることなのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "――あらゆる場所に出没し、あらゆるヒトの手に渡る、\nそんなスーパー、いえ、ウルトラスーパーマスコットがいいのです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "この様子だと、アストンマーチャンが言っていた\n『マスコットになりたい』という話は存外本気だったようだ。",
+      "ChoiceDataList": [
+        "（でもなぜそれをレースの目標に……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "多くのウマ娘は、レースそのものへの夢や憧れ、\nもしくは活躍することで達成しうる自己実現のためデビューをする。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ただただグッズ化のためにデビューというのは、かなり珍しい。\n意図もよくわからない。",
+      "ChoiceDataList": [
+        "どうしてグッズ化が目標なんだ？",
+        "どうしてグッズ化が目標なの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "最重要ミッションなのです。一家に一体、アストンマーチャン。\nそんな時代が来たらいいなぁって思ってるのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……彼女の返事がいつもなんだか要領を得ないのは癖のようだ。",
+      "ChoiceDataList": [
+        "それは……つまり？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "きっかけですか。それはですね。……数年前。\nまだマーちゃんが、今よりほんの少しだけ小さかった頃のことです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どこか神妙な面持ちで、\nアストンマーチャンはとうとうと語り始めた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "マーちゃんは悩んでいました。マーちゃん人形が完成したのに、\nどうやって配ればいいのかわからなかったからです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "どうすればみんなに手に取ってもらえるんだろう。\n直接配る以上に、もっと画期的で効率的な方法はないんだろうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "炎上商法です、ワイドショーを賑わすような悪いことをするのです！\n……却下です。アクトウマーチャンと言われたくはありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ではビジネスの勉強をするのです！\u3000……ふむ、悪くありません。\nそれはそれで作戦を練りつつ、手っ取り早い方法も知りたいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "なかなかよい方法が思い浮かびません。そんなある日――\nマーちゃんはウマ娘のグッズショップに偶然行くことがありました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "そこにはなんと……\nどんどん売れていくウマ娘マスコットの姿があったのです……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "驚愕でした！\u3000知らなかったのです、レースで活躍した\nウマ娘のマスコットが、あーんなに大人気だったなんて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "みんなに愛されるマスコット……。\nそっか、これで、これなら……マーちゃんも！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "そんなわけで、マーちゃんはトレセン学園に入学して、\nトゥインクル・シリーズでの活躍をもくろんでいるのでした！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そもそもグッズ化ありきで入学してきたこと、そしてグッズ化に\n対しての情熱は並々ならぬものであることはわかった。が――",
+      "ChoiceDataList": [
+        "（そもそもなぜグッズ化したいんだろう）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そんな根幹の部分は、話し忘れたのか、はぐらかされたのか。\n語る言葉に答えはなかった。少し気にはなったものの――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "夢は全国展開、そして海外展開なのです。\n今は、レースのほかに簿記の勉強もしています。えへん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "マーちゃんは、運よく生まれてこの方ラブリーなので、\nきっとデビューして勝てばうまくいくと思っています。",
+      "ChoiceDataList": [
+        "（……単に目立つのが好きなだけなのかも）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "なんとなくそんな答えが腑に落ちてしまい、\n確かなことはわからずじまいだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

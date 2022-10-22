@@ -1,0 +1,288 @@
+{
+  "Title": "姉の背中",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日の散歩の途中、\r\n見覚えのある子を見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バクシンオーの妹",
+      "Text": "はぁっ……！\u3000はぁっ……！\r\nバ、バクシンバクシーーーン！",
+      "ChoiceDataList": [
+        "あの子は……バクシンオーの妹さん？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "こんにちは！\u3000ええ、\r\n『ちびっ子ウマ娘徒競走大会』の練習中です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――『ちびっ子ウマ娘徒競走大会』。\r\n先日見学をしたイベントのことを思い出す。\nたしか妹さんのレース結果は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "10着、とっても悔しかったみたいで。\r\nバクシンするぞーー！！\u3000って、\nすごく気合い入ってますね。",
+      "ChoiceDataList": [
+        "チヨノオーもサポートしているんだな",
+        "チヨノオーもサポートしているんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はい！\u3000バクシンオーさんとは\r\n同じ倶楽部のよしみなので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "その縁で妹さんとも仲良くなって……。\r\n妹さん、お菓子作り上手なんですよ！\n一緒にお料理したりもしているんです♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "うーむ！\u3000しかしどうしたのでしょう？\r\nあの子、いつもはもっと速く走れるのですが。",
+      "ChoiceDataList": [
+        "え……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バクシンオーの妹",
+      "Text": "お姉ちゃんみたいに……最強のウマ娘に……\r\nバクシン、するんだぁっ！",
+      "ChoiceDataList": [
+        "たしかに、フォームがぎこちないような"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "フォーム！\u3000なるほど！？\r\n……なるほど！？",
+      "ChoiceDataList": [
+        "よければトレーニングに付き合おうか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "いいんですか！？\u3000なら、\r\nちょうどお昼休憩の時間なので\nそこで練習メニューの相談を――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "お昼でお腹いっぱい、練習内容で頭いっぱい！\r\nということで、そろそろトレーニングに――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "……って、ややっ！？\r\n『チャレンジ！\u3000早食い大食いメニュー』！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "早食い――つまりバクシン食い！？\r\nここは姉としてバクシンし……\n妹を鼓舞すべきでは！？",
+      "ChoiceDataList": [
+        "『いまだ達成者なし』って書いてあるぞ！？",
+        "『いまだ達成者なし』って書いてあるよ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バクシンオーの妹",
+      "Text": "バ、バクシンっ……！\r\nならあたしも、お姉ちゃんと一緒に\nバクシンしなきゃっ！",
+      "ChoiceDataList": [
+        "妹さんまでっ……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "む、無理しちゃだめだよ、妹ちゃん！？\r\n大人のウマ娘だって食べきれてないんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "いえ、戦いましょう！\u3000妹よ！\r\n我らがバクシンで負けるわけには\nいかないのです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "結果は惨敗だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "フフッ、敵ながら天晴れ……。\r\nしかしこの委員長、第2、第3の変身によって\nパワーアップをし、必ずあの敵を……うっぷ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バクシンオーの妹",
+      "Text": "え、えへへ……お姉ちゃんの半分も\r\n食べられなかったな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バクシンオーの妹",
+      "Text": "タイムだって全然よくならないし……\r\n……バクシン、むずかしいね……。",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "サクラバクシンオーは特に問題はない。\r\nそれより妹さんの落ち込み具合が気になった。\nなにか元気づけられないだろうか？",
+      "ChoiceDataList": [
+        "おっ！美味しそうなお菓子が売ってるぞ！",
+        "あっ！美味しそうなお菓子が売ってるよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "えっと……今、みんな\r\nお腹いっぱいなので……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "失敗だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バクシンオーの妹",
+      "Text": "あ……でも昔お姉ちゃんと作った\r\nお菓子に似てるね、これ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "おぉ！\u3000懐かしいですね！\r\n教え方の上手さに、将来素晴らしい\n学級委員長になるだろうと確信しました！",
+      "ChoiceDataList": [
+        "さすがバクシンオーの妹さんだな",
+        "さすがバクシンオーの妹さんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "その通り！\u3000しかもそれだけじゃないんです！\r\n掃除洗濯、裁縫に小物作り……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "私がちょびっとばかり不得意なことも\r\nなんだってこなせて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バクシンオーの妹",
+      "Text": "も～、お姉ちゃんは不器用なんだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "ハッ……！！",
+      "ChoiceDataList": [
+        "……バクシンオー？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "わかりました……わかりましたよ！\r\n我が妹に必要なものが何かッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バクシンオーの妹",
+      "Text": "あたしに、必要なもの……？\r\nなになにっ？\u3000教えてお姉ちゃん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "教えるのは……私のみの力で、\r\n必要なものを手に入れられた時！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "というわけで、\r\n今日はこれにて解散としましょう！",
+      "ChoiceDataList": [
+        "わかった、応援してるよ",
+        "準備、手伝わせてほしい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "ご理解、感謝します！\r\nでは私は準備があるのでこれにて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "い、行っちゃいましたね。\r\n本当に手伝わなくていいんでしょうか……？",
+      "ChoiceDataList": [
+        "バクシンオーを信じよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "サクラバクシンオーの思いつきが\r\n気になりつつ……解散したのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "いえ！\u3000こればかりは、\r\n絶対絶対絶対……ダメなのです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラバクシンオー",
+      "Text": "なんとしても、\r\nこっそり1人でやらせていただきます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうも妹さんが成長するためには、\r\nサクラバクシンオーが1人で\nなにかをやり遂げなければいけないらしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "事実、その後に行われた大会で、\r\n妹さんが良い結果を残したという\n情報を耳にしたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "Title": "Mission for バレンタイン",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "お求めのチョコレートはお決まりですか？\r\nよろしければ、お好みに応じておすすめの\nチョコレートをご案内します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "休日、バレンタインの催事をのぞいていたら、\r\nミホノブルボンに声をかけられた。",
+      "ChoiceDataList": [
+        "何をしているんだ？",
+        "何をしているの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……申し訳ございません。\r\nマスターへの報告を失念していました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "現在、こちらの催事にて\r\nオペレーション『案内係』を実行中。",
+      "ChoiceDataList": [
+        "アルバイトってこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "契約的にはそうなります。\r\n詳細に説明しますと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "なんでも、交通渋滞でスタッフの到着が\r\n遅れているため、エイシンフラッシュが\n知人の店を手伝っているのだそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ミホノブルボンは、ここで偶然彼女に会って\r\n臨時バイトを頼まれた。彼女には日頃から\n世話になっているので引き受けたらしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "バレンタインに有用な知識と軍資金を\r\n得られる貴重なミッションです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "マスター、今日1日だけアルバイトを\r\n認めていただけないでしょうか。",
+      "ChoiceDataList": [
+        "わかった。学園にも報告しておくよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "！\u3000ありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性A",
+      "Text": "すみませ～ん、バレンタイン限定のチョコで\r\nトリュフってありますか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "はい。お好みの味をお知らせください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性A",
+      "Text": "甘めでいろんな味が楽しめる方がいいかな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……サーチ完了。あちらのお店を提案します。\r\nガナッシュがなめらかで、溶けた際に\nミルクの風味が口いっぱいに広がります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "その隣のお店はフレーバーが多彩です。\r\nフルーツ果汁を使ったジューシーで\n香り高いトリュフはここだけです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性A",
+      "Text": "え～、お姉さん詳し～い！！\r\nじゃあそのお店に行ってみま～す！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ミホノブルボンは食レポが得意だったとは。\r\n意外な発見だ。全店試食したのだろうか？\nなんだかバレンタインへの熱意を感じる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "お店のスタッフA",
+      "Text": "遅くなってすみません！\r\nお手伝いありがとうございました！\nあとは自分がやりますので上がってください！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "了解です。ミッションコンプリート。\r\nお疲れ様でした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "ブルボンさん、お疲れ様です。\r\n今日は本当にありがとうございました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "ところで、このあとお時間はございますか？\r\n今日のお礼にケーキをご馳走させてください。\nぜひ、トレーナーさんもご一緒に。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ケーキ……？\u3000……いえ、お礼は不要です。\r\nアルバイト代はもういただきましたから……。",
+      "ChoiceDataList": [
+        "お礼は抜きで、一緒に食べようか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "！\u3000それなら問題ありません……！\r\n3人でケーキのオーダー、承りました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "3人で近くのカフェへやって来た。\r\nミホノブルボンとエイシンフラッシュは、\nバレンタイン限定チョコケーキを頼んでいる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "1月なのに、どこもバレンタイン一色ですね。\r\n色んなチョコレートが味わえて嬉しいですが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "この時期になると私のところにも、\r\nチョコスイーツの作り方を教えてほしいと\n友人たちがやってきます。",
+      "ChoiceDataList": [
+        "もうバレンタインの準備をしているのか",
+        "もうバレンタインの準備をしているんだ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "そうですね。お菓子を作り慣れていない方は\r\n何度か練習をされるようです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……『手作り』に要検証の項目あり。\r\nフラッシュさん、質問です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "手作りの場合、プロのパティシエが\r\n作ったチョコに、味では勝てません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "市販にはないプラスアルファの\r\n要素が重要と思われます。\nなにを加えるのが適切でしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "プラスアルファは……気持ちを込めて\r\n作ることではないでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "検索――……ヒットなし。\r\n『気持ち』はどのようにして\n形にすればよいのでしょう。",
+      "ChoiceDataList": [
+        "悩んだ時間も気持ちの表れじゃないかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どんなチョコを贈ろうかと迷ったり悩んだり、\r\n相手を思ってかけた時間。それもひとつの\n『気持ち』の表れではないかと説明する。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "お菓子作りは手間がかかります。\r\nその手間を惜しまず作るのですから、\nきっと気持ちは相手に伝わると思いますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……主旨を再構築します。\r\n手作りのプラスアルファ要素は『気持ち』で、\nそれは手間をかけることであると。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エイシンフラッシュ",
+      "Text": "はい。相手を思い手作りしたお菓子は、\r\nそれだけで市販品にはない価値があります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "なるほど……大変勉強になりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "先日、手作り品に関する記事を読んだところ、\r\n論拠に疑問が生じました。\nですが、疑問の解消に成功。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "バレンタインに関する認識が深まりました。\r\nアドバイスに感謝いたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "おつー、ブルボン。もー上がりっしょ？\r\nあたしも買い物終わったし～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "では『合流後移動』のフローへ移行します。\r\n着替えてきますので少々お待ちを。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "そだ。あんさー、トレーナーさん暇？",
+      "ChoiceDataList": [
+        "まあ、暇かな……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "っしゃ、スポンサーゲットぉ！\r\nんじゃ行くべ行くべ～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ほい、頼まれてたチョコ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "トーセンジョーダンはテーブルに\r\nさまざまな店のチョコレートを広げた。\nそして、片っ端から封を開ける。",
+      "ChoiceDataList": [
+        "バレンタインプレゼントじゃないのか？",
+        "バレンタインプレゼントじゃないの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "んにゃ、食べる用。バレンタインって、\r\nめずらしーチョコ食えんべ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ジョーダンさんが友人ネットワーク経由で\r\n蓄積しているチョコ情報は、非常に膨大です。\nチョコ選びの参考になります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "私もジョーダンさんの情報をお借りしたく、\r\n共同購入を提案したのです。そして、\n購入したチョコをこうしてシェアしています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ブルボンはウマい友チョコ厳選すんだって。\r\nあたしも色んなの食えてウィンウィン的な？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "それでは、いただきます。",
+      "ChoiceDataList": [
+        "プレゼント用のチョコの試食？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "はい。実地体験は最も信頼できます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "もぐもぐ……ステータス『美味』。\r\nキャラメルの風味は皆さん好まれそうです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "んまー！\u3000これヤッバ！\r\nちょ、アンタも食ってみ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "2人に勧められ、濃い黒色のチョコを食べる。\r\nチョコ特有の苦みがじわりと溶け広がった。",
+      "ChoiceDataList": [
+        "甘さ控えめで美味しい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "…………ステータス……『驚き』。\r\n……こちらが、マスターの好みですか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "チョコは甘いものが定番だと思っていました。\r\n甘くないチョコを好むとは……予想外です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ビターチョコはあまり試していなかったので、\r\n試食範囲の拡大が必要と判断。\nこちらのビターも試してみましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "もぐもぐ……ステータス『悪くない』。\r\n少し苦みがあるものの、甘みも感じられます。\n……こちらはどうでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "あのさー、ちょお思ったんだけど。\r\nブルボンて、単にチョコ食いたいだけじゃね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "バレンタインのチョコ選びは口実ではないか。\r\nチョコを頬張るミホノブルボンの表情を見て、\nその指摘に思わず納得してしまったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

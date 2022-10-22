@@ -1,0 +1,624 @@
+{
+  "Title": "魔法のお家",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……ねえねえ、グランマっ！\n『レースの魔法』のお話、聞かせてっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "あっはっは！\u3000スイーピーは、\nよほどその魔法が気になるみたいだねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "だってグランマにとっても\nイチバンすごい魔法なんでしょ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "アタシもレースで走ったら、\nその魔法を見つけられる？\n使えるようになるっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "ああ、もちろんさ！\u3000スイーピーは\nこの大魔女の孫だからねぇ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "けれど、簡単には見つけられないよ。\nあれはとびっきりの――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "――誰かの人生を\n変えてしまうくらいの大魔法なんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "…………。グランマが言う大魔法なんだから\nきっとすごくて、すごいのよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "あーあ、早く見つけたいなぁ……。\nレースの魔法……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "でもレースに出たら、またみんなが\nいろいろ、いっぱい言ってきて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "――……アタシはただ、\nレースの魔法を見つけたいだけなのに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……やだなぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "……ん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "すぅ……すぅ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "ふっ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "はぁ……はぁ……。\nダービーは取れませんでしたけど……っ\n次の『菊花賞』こそは……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ダービー",
+        "菊花賞"
+      ]
+    },
+    {
+      "Name": "ウマ娘たち",
+      "Text": "きゃーーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "先輩！\u3000ダービーでの走り、感動しましたっ！\n『菊花賞』も1着目指してくださいねっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダービーウマ娘",
+      "Text": "ああっ、応援ありがとうっ！\n君たちに勇気を与えられたなら何よりだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "きゃ～～っ！\nせんぱい、かっこいい～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "……さすが二冠ウマ娘。\n私とは違って、クラシック三冠の主役で……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "あっ、ロブロイちゃんだ！\nあのえーっと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ロブロイ"
+      ]
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "が、がんばってね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あはは……はい……\nありがとうございます……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "……逃げてきちゃった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "英雄になりたいってこの学園に来たのに、\n変わりたいって思ってレースをしているのに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "私はなににもなれないまま。\n変われないまま……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "…………。\n……あれ、あの帽子は。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "！\u3000スイー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "しー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "えっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "……寝てしまったようでな。\n起こさないように頼む。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "グランマぁ…………。\n…………あのね……すぅ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "……普段と比べると、随分と静かだろう？\n言葉にも可愛げがある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "ふふっ……そうですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "彼女の祖母は緑あふれる土地に\n住んでいるらしい。この花壇のように\n花々が咲き乱れているのだそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "……それで昔、ここに連れてきたんだ。\n休みたい時にはここで休むといい、と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "だがトレーニングをさぼって来るのはいかん。\n起きた際には一言言わせてもらう予定だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "…………。\n……エアグルーヴさんはスイープさんに\n目をかけていらっしゃるんですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "ああ、期待している。\n……と同時に、案じてもいる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "……思うに彼女は導く側の力を持っている。\nそれを、どうか潰さないように\n過ごしてほしいのだがな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "導く側の力……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "……スイープには内緒だぞ。\n調子に乗ってはかなわん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ん……んんん……、うぅ～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "教官",
+      "Text": "素晴らしいわっ、スイープさん！！\n入学して早々、こんなタイムを出すなんて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "教官",
+      "Text": "選抜レース、推薦しておくから！\nトレーナーさんたちの\n言うことをしっかり聞くのよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナーA",
+      "Text": "スイープさん、序盤はもっと抑えなきゃ！\nその持ち味をもっと生かすためにも、ね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ベテラントレーナーA",
+      "Text": "スイープトウショウ、ワガママはダメだ。\n君のせっかくの才能を台無しにしてしまう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "なによ！\u3000いちいち指示しないで！\nアタシだって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ベテラントレーナーB",
+      "Text": "いいえ、それがあなたのためなのよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナーB",
+      "Text": "スイープトウショウさん！\nあなたはもっと――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナーC",
+      "Text": "だめだよ、スイープさん。\n君はちゃんと――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "（ああ……もう、また……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "すぅ……すぅ……グラン、マぁ……。\nあの、ねぇ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……アタシ……ヤなの……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……デビュー戦の一件以来、\nどうもレースのことになると\nスイープトウショウの頬が膨れがちだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "出走前の集中もできていない日が多い。\n出遅れることも増えてきたような気がする。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうにかしてその原因を究明したいが、\nかといって具体的に話をしようとすると\nかえって彼女を刺激することも多く――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ガララ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "使い魔。グランマの家につれてって。",
+      "ChoiceDataList": [
+        "えっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "早くっ！\u3000早く、つれてってーっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうしてなんとか彼女の祖母と連絡を取り、\n場所を聞き出し、交通手段を確保し――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "ようこそっ！\u3000かわいいスイーピー！\n大魔女の館に来るのは何か月ぶりかねぇ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "グランマっ！！\u3000あのね、この前本に\n『ウンディーネの虹の魔法』がのってたの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "だから川でためしてきてもいい！？\nグランマにアタシの魔法を見せたいわっ！",
+      "ChoiceDataList": [
+        "川……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女が以前希望していた\n『阪神JF』まであと2か月だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "もしも今の時期の冷たい川で\n転んで体調不良にでもなったなら……\n出走を回避することになるかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "川も恐らく整備された安全な場所ではない\nだろうし、彼女の靴は川向きではない。\nつるっとすべってしまえば、急流に――",
+      "ChoiceDataList": [
+        "ま、待ってくれ！",
+        "ま、待って！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……なによ。使い魔。",
+      "ChoiceDataList": [
+        "川は危険だし、この時期の気温は……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……アンタも『アタシのために』\nとか、言うわけ？",
+      "ChoiceDataList": [
+        "……え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "安心おし、スイーピー。\nきっとお前さんのトレーナーさんは、\nそう言いたかったわけじゃない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "だが、そのお靴は川と相性が最悪だ。\n精霊関係の魔法をかけるなら、\nその土地と相性がいい衣装にならないとね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "…………あっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "おや、思い出したようだね。スイーピー。\n川で魔法の練習をするなら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "精霊とのお話し中に失礼がないように、\nすべらないクツで行くこと！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "ああ。それに寒くなった時用に、\n暖かいマフラーも用意しておこうか！\n寒さとの相性抜群の衣装をさ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "スイープトウショウは靴を履き替えると、\n川辺で呪文を唱え始めた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その姿をタオルとマフラーを持ちながら、\nスイープトウショウの祖母と\n見守り続ける。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "ごめんなさいねぇ、トレーナーさん。\n会話の途中で口を挟んでしまって。",
+      "ChoiceDataList": [
+        "こちらこそ助けていただいてすみません"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "…………。……トレーナーさんも\n気づいていらっしゃるのでしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "スイーピーは本当に特別な子だ。\nあの子は才能に満ち溢れている。",
+      "ChoiceDataList": [
+        "……はい、俺もそう思っています",
+        "……はい、私もそう思っています"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "……だからこそ幼いころから未来を期待し、\n“心配して”くれる方たちも多かったんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "グランマー！\u3000使い魔ーっ！\nアタシ、場所を変えて唱えるわっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "でもちゃんと見えるとこにいるからー！\n魔法をかけるところ、見逃さないでねーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "ああ！\u3000わかったよ、スイーピー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "……心配してくれるのは、ありがたいこと。\n裏を返せば大切に想われている\nということでもありますから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "けれど、相手から心配されればされるほど、\n自分が信頼されていないのでは、\nと思うことだってありませんか？",
+      "ChoiceDataList": [
+        "……！それは……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "大人は正しい道を知っている。\n子ども以上に経験や知恵を得ているから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "でも子どもだって、\n道がわからないわけじゃない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "大人から導かれずとも、\n自分だけのコンパスを持っている。\nなんにも知らない赤子じゃあないんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "だからあたしは導くのではなく、\n支えてあげたいと思っています。\nこれは彼女の冒険なのですから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "グランマーっ、寒くなってきたわ！\n風邪ひく前にお茶の時間にしましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "ああ、いいアイディアだ！\n家に帰ろうか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープの祖母",
+      "Text": "トレーナーさんもよろしければ\nもう少し話していきませんか？\n特製ハーブティーをご馳走しますよ。",
+      "ChoiceDataList": [
+        "……ええ、ぜひ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そしてスイープトウショウの祖母の家で、\nしばらくお茶をいただいたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

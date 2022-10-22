@@ -1,0 +1,302 @@
+{
+  "Title": "マーベラス売りの少女",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "マーベラス☆\r\nマーベラスは要りませんかぁっ★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "マーベラスは要りませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "あっ、トレーナー！\u3000マーベラス☆\r\n最っ高のマーベラスは要りませんかぁっ★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日のこと、奇妙な声かけをしている\r\nマーベラスサンデーとイクノディクタスに\n出会った。",
+      "ChoiceDataList": [
+        "何してるんだ？",
+        "何してるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "マーベラス☆\r\nみんな大好きマーベラスを配っているのっ！\nマーベラスは要りませんかぁっ★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "マッチ売りの少女のようなことを\r\n言っているが……。",
+      "ChoiceDataList": [
+        "イクノも？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "はい、マーベラスさんから誘われまして。\r\n学園内の生活に驚きや幸せを配り回るとの\nことで、立派な理念だと思い協力しています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "う～ん、マーベラス☆\r\nイクノはマーベラスの最高の理解者だよ★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "こらぁっ！\u3000そこで何をしているっ！？",
+      "ChoiceDataList": [
+        "……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "妙なことを言って歩き回る変な学生が\r\nいるって話を聞いたぞ！\nわけのわからない活動はやめなさいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "先生っ！\u3000マーベラス！\r\nマーベラスだよ☆\nこの世界にはマーベラスが必要なんだ★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "な、何を言っている……！？\r\nいいから怪しい活動を止めなさい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "いえ、先生。\r\n怪しい活動ではありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "これは言わば奉仕活動です。\r\n彼女は『驚き』による幸せ、感動、喜びを\n皆さんに届けようとしているのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "その理念に怪しいところは何もなく、\r\n立派な活動であると思われます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "む……。\r\nしかし……何か悪いことを\n企んでいないのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "マーベラスさんに裏表はありません。\r\n純粋に自分の素晴らしいと思っていることを\n配り回っているだけです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "企みなど何もありません。\r\nその証拠に、彼女はこの活動で\n何の見返りも求めていません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "む、むぅ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "さすがはイクノっ！\r\nアナタこそがマーベラス☆\n最高にマーベラスだよ★",
+      "ChoiceDataList": [
+        "マーベラスをもらうとどうなるんだ？",
+        "マーベラスをもらうとどうなるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "あっ！\u3000そうだね☆\r\n実際にマーベラスしよっか★\nトレーナーはどんなマーベラスがいい！？",
+      "ChoiceDataList": [
+        "癒されたい……",
+        "最近カロリーが気になってて"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "わお☆\u3000なんだか切実なご様子！？\r\nそれじゃあいくよー！\n癒しのマーベラス★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そしてマーベラスサンデーは\r\n1本のマッチに火をつけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "なっ……！？\u3000なんだっ！？",
+      "ChoiceDataList": [
+        "ここはっ……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イヌ",
+      "Text": "ワンワン！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネコ",
+      "Text": "ニャー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒツジ",
+      "Text": "メエエエェェェ。",
+      "ChoiceDataList": [
+        "モ……モフモフがいっぱい！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "ほう、これはとってもモフモフ。\r\nふふっ、ワンちゃんネコちゃん、おいで？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "イクノディクタスは既に順応していた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "うおぉぉっ！\u3000モフモフ……！\r\nモフモフに癒されるうううぅぅぅっ……！",
+      "ChoiceDataList": [
+        "モ……モフモフーーー！！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "あ～☆\u3000わかるわかる！\r\nそれじゃあいくよー！\n満腹のマーベラス★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そしてマーベラスサンデーは\r\n1本のマッチに火をつけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "なっ……！？\u3000なんだっ！？",
+      "ChoiceDataList": [
+        "ここはっ……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "目の前にはずらりとご馳走が並んでいた。\r\n七面鳥ににんじんハンバーグ、グラタン、\nケーキ。どれも美味しそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "ほう、これはとっても立派なご馳走。\r\n香りもよいし、味も素晴らしい。\n口の中が幸せですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "ふむ……デザートも美味しい。\r\nマックイーンさんにも紹介したいところです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "イクノディクタスは既に順応していた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "うっ、うまい！\u3000どれもこれもうますぎる！\r\nこ、これをカロリーを気にせず\n食べていいのかっ……！？",
+      "ChoiceDataList": [
+        "美味しい……！美味しいよぉっ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "どうだった☆\r\nマッチ売りのマーベラス体験は★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "マ……マーベラスっ！",
+      "ChoiceDataList": [
+        "マーベラス最高おおおぉぉぉっ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マーベラスサンデー",
+      "Text": "あはっ☆\u3000よかった！\r\nみんなマーベラスを\n好きになってくれたんだね★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "これにて一件落着ですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生A",
+      "Text": "うおおおおおおぉぉぉぉぉっ☆\r\nマーベラス素敵ぃぃぃぃっ……★",
+      "ChoiceDataList": [
+        "マーベラス☆幸せええええぇぇぇぇっ★"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "何かとんでもないものに手を出して\r\nしまった気もするが、充実した1日を\n送ることができたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

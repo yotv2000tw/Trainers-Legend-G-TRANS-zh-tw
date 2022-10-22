@@ -1,0 +1,43 @@
+{
+  "Title": "連続出走で……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "今日のトレーニングは何すンだが？\nこの前ど同じでいいべが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "？\u3000どーしてそった顔されるンだが……。\n何か変なことへったが、あたし？",
+      "ChoiceDataList": [
+        "ちょっと、方言が強いかも……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "えっ！？\u3000そったに訛ってらがね！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "おもさげながんす！\nこったら“シチーガール”さ、なれねぇな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "連続出走によってユキノビジンは、\nとても疲れているようだ。\n今後の予定を見直すべきだろう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

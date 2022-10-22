@@ -1,0 +1,230 @@
+{
+  "Title": "ばたばた！お部屋掃除",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "季節は初夏となり、\r\nアイネスフウジンとの二人三脚にも少しずつ慣れてきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "はあああああっ！！",
+      "ChoiceDataList": [
+        "いいぞ！その調子！",
+        "いいね！その調子！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "まだまだ！\r\nお姉ちゃんの底力、見せてあげるのっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "タイムは変わらずかぁ……。\r\n仕掛けるタイミング、ちょっと遅かったかも。",
+      "ChoiceDataList": [
+        "もう1回走ってみるか？",
+        "もう1回走ってみる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "いいのっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あ、けど……うーん、やっぱやめとくの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "そろそろ終了時間だし、やることもあるし……\r\nうん！\u3000また明日がんばればいいの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "それじゃ、器具の片づけしておくね～。\r\nお疲れ様、トレーナー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……と、爽やかに送り出されたが、\r\nトレーニングを続けなくて本当によかったのだろうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "気のせいでなければ、彼女はまだ走りたそうに見えた。\r\nそれよりも優先しなければならないこととは一体――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あれっ？\r\nもう帰ってるかと思ってたの。",
+      "ChoiceDataList": [
+        "ちょっと仕事をしていこうかと思って"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "そっか、じゃあ机周りは後でお片づけするとして～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "言うが早いか、アイネスフウジンは慣れた手つきで\r\nトレーナー室の掃除を始めた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "んしょっと……あっ、コピー用紙もう切れそうなの！\r\n帰りに事務員さんのとこ寄ってかないと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あらら、もうホコリ溜まっちゃってるの～。\r\nフキフキっと♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "振り返ってみれば、トレーナー室はいつも綺麗で、\r\n消耗品にも困らなかった。",
+      "ChoiceDataList": [
+        "君がいつも手入れしてくれてたのか！？",
+        "貴方がいつも手入れしてくれてたの！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "だって～散らかってると気になっちゃうんだもん！\r\n共用スペースは綺麗にしてたいでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女の厚意はありがたいが、トレーナーとしては\r\n部屋の手入れよりもトレーニングを優先してほしい。",
+      "ChoiceDataList": [
+        "ごめん、これからは俺がやるよ！",
+        "ごめん、これからは私がやるよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "俺がって……トレーナーが1人で？\r\n手伝わなくても大丈夫？？",
+      "ChoiceDataList": [
+        "ああ、君の走れる時間を増やしたいから",
+        "うん、貴方の走れる時間を増やしたいから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "私がって……トレーナーが1人で？\r\n手伝わなくても大丈夫？？",
+      "ChoiceDataList": [
+        "ああ、君の走れる時間を増やしたいから",
+        "うん、貴方の走れる時間を増やしたいから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "そう？\r\nじゃあ、お手並み拝見なの♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そして、気合いを入れて掃除に取り組もうとしたものの――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あ、雑巾はあっちだよ！\r\n箒とちりとりは向こう。部屋の隅に立てかけてあるの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "それはこっちの棚！\r\nバラバラにしたらまずいからまとめてね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "その備品なら、向こうに予備がおいてあるの。\r\nなくなったら事務員さんに言えばオッケーなの！",
+      "ChoiceDataList": [
+        "お、思ったより大変だ……！",
+        "お、思ったより大変……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ふふっ、がんばれがんばれ～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、アイネスフウジンの助言を受けつつ、\r\nひと通りの作業を終えたのだが――",
+      "ChoiceDataList": [
+        "結局ほぼアイネスに頼ってしまった……！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ふっふっふ、恐れ入ったか♪\r\nこれが家で鍛えたお姉ちゃんパワーなの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "っていうか、任せっぱなしはやっぱ悪いし、2人でやろうよ？\nここ、キミとあたしの共同スペースなんだし。",
+      "ChoiceDataList": [
+        "はい……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "もー、しょげないの！\r\nお茶淹れといたから一緒に飲も？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "アイネスフウジンを助けるつもりが、\r\n結局、姉に助けられる弟のような状況になってしまったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "アイネスフウジンを助けるつもりが、\r\n結局、姉に助けられる妹のような状況になってしまったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

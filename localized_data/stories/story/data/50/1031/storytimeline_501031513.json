@@ -1,0 +1,292 @@
+{
+  "Title": "お姉ちゃんと一緒に！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "内気そうな少女",
+      "Text": "うう、怖いよぉ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "大丈夫だよー！\nせっかく学園見学に来てくれたんだし、\nもっとちゃんと見てみよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "泣き声が聞こえたので来てみると、\nアイネスフウジンとビワハヤヒデが\n子どもをあやしていた。",
+      "ChoiceDataList": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あ、トレーナー！\r\n今ね、学園見学に来てくれた子に\nコースを見せてたんだけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "トレーニング中の生徒同士の\r\n競り合いを見て怯えてしまってな。\n帰してしまうのも不憫だし……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "うん！\u3000このまんまじゃもったいないの！\nちゃんと説明すれば……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "……というわけで、あれはお互いを高め合う\n非常に有意義な関係なんだ。\n決して喧嘩をしているわけではない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "内気そうな少女",
+      "Text": "お、怒ってたもん……ケンカだもん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "押してダメなら引いてみろー！\r\nやさし～く話をしてみるの～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "こ、怖くないよ～？\r\nレースってとっても楽しいな～♪\u3000るんるん♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "内気そうな少女",
+      "Text": "うわーん！\u3000なんか余計に怖いよー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "うーん！\u3000あの手この手で\n気を引いてみたつもりだけどっ……！\n全然コースに近づいてくれないの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ううむ、野菜を頑なに拒む妹を思い出すな。\r\n走ることに関しては、むしろ積極的に\n私のあとをついてきたものだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あはは、あたしのところもそうなの。\r\nトレーニングに行こうとすると、\n妹たちがくっついてきて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あっ、そうだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "さーてと、お姉ちゃんたちは\nコースで遊ぼっかな～！\nあっちのコースは使っていいらしいし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "内気そうな少女",
+      "Text": "えっ……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "そうだな、広々としたコースを走るのは\nとても気持ちがいいが……仕方ない、\nお姉ちゃんたちだけで遊んでしまおう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "内気そうな少女",
+      "Text": "ま、待って……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "見て見て！\n芝は毎日スタッフさんが整えてくれてるの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "このあたりはなだらかな坂になっていて、\nスタミナを鍛えたい時によく走りこむんだ。\nそれから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "内気そうな少女",
+      "Text": "待ってってば！\r\nお姉ちゃんたち、速いよ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……ふふん、大丈夫！\nキミなら絶対追いつけるのっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "内気そうな少女",
+      "Text": "あっ……も、もーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あっちはいつもトレーナーが\n見ててくれるところ！\nコース全体がよく見えるんだって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "いつの間にか、ほぼかけっこになっていた。\nアイネスフウジンは手加減しているが、\n子どもは本気で走っているように見える。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "さ、ペース上げてこー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "内気そうな少女",
+      "Text": "うんっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "それじゃ、学園見学はおしまい！\n気をつけて帰ってほしいの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "内気そうな少女",
+      "Text": "うん……！\nあのね、お姉ちゃんたち。\n追いかけっこ、すっごく楽しかった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "うんっ、またかけっこしようねっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ばいばーい！\u3000……ふふっ。",
+      "ChoiceDataList": [
+        "未来の後輩は見込みアリだった？",
+        "さすが、お姉ちゃんだな！",
+        "さすが、お姉ちゃんだね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ばいばーい！\u3000……ふふっ。",
+      "ChoiceDataList": [
+        "未来の後輩は見込みアリだった？",
+        "さすが、お姉ちゃんだな！",
+        "さすが、お姉ちゃんだね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "うん！\u3000すっごく！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ああ。遠くから見ていたが、\r\nアイネス君によくついて行っていたな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "うん、目をキラキラさせてついてきて……\nあの子、大きくなってトレセン学園に\n来てくれたら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "――ううん、トゥインクル・シリーズまで\n来てくれたらいいな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "そしたらきっと……\n一緒に楽しく競り合えるのっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "面倒見のいいアイネスフウジン。\nしかし同時に、その瞳には強い闘志が\n漲っているのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ふふーん、それほどでも♪\nただね、誰かと走るのって\nすっごく楽しいんだよって伝えたくて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ねえねえハヤヒデちゃん、\nまだコース空いてるし、ちょっと走ろうよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "む、生徒会に案内終了の連絡をしてからなら\n構わないが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "やったー！\nそれじゃ、生徒会室まで競走なのっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……ね！\u3000こんなに素敵なこと、\n知らないまんまじゃもったいないでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "よき姉であると同時に、\r\n走ることに並々ならぬ楽しみを感じている……\nそんなアイネスフウジンの一面を垣間見た！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

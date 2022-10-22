@@ -1,0 +1,353 @@
+{
+  "Title": "Not Found",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ホワイトデーの朝。ミホノブルボンに\r\nお返しのマシュマロを渡した。",
+      "ChoiceDataList": [
+        "ブルボン！それ、バレンタインのお返し！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "中身はマシュマロだよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……………………。",
+      "ChoiceDataList": [
+        "……ブルボン？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（キーンコーンカーンコーン）",
+      "ChoiceDataList": [
+        "えーと……それじゃ、また午後に！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "あ…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "マシュマロは受け取ってくれたものの、\r\nミホノブルボンは少し様子がおかしかった。\n何かあったのだろうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "昨日さー、ホワイトデーのプレゼントに\r\nマシュマロ買ってるヒトがいてさー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "ええー、暗に嫌いって伝えたいとか？\r\n諸説あるけど、親しい相手なら\nお返しにマシュマロは避けるよね～。",
+      "ChoiceDataList": [
+        "（……そうなのか！？）",
+        "（……そうなの！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "だから、ミホノブルボンはあんな反応を……！\r\nきっとがっかりさせてしまったに違いない。\n何とかして感謝の気持ちを伝え直さなければ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "え？\u3000遊園地ですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーニング後、お返しはもう1つあると、\r\nミホノブルボンを遊園地に誘った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "…………でしたら、着替えてきます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "夜の遊園地……。\r\nステータス『ウキウキ』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "マスター、なにを楽しみますか？",
+      "ChoiceDataList": [
+        "ジェットコースターに乗ろう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……！\u3000……っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ステータス……『』……っっっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "扉を開けるには謎を解く必要があるようです。\r\n開錠ミッションを開始します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ガタガタガタガタガタ！）",
+      "ChoiceDataList": [
+        "うわああっ！",
+        "わあああっ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……マスターは意外と怖がりなのですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "不安がある場合は、私につかまってください。\r\n――設定変更。モード『エスコート』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "次はどのアトラクションを？\r\n参照――まだ乗っていないのは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ミホノブルボンは楽しんでくれているようだ。\r\nほっと胸をなでおろす。",
+      "ChoiceDataList": [
+        "楽しんでもらえてよかった"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "！\u3000はい、ステータス『楽しい』……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "…………ステータス…………っ。\r\n…………っ、…………。",
+      "ChoiceDataList": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……エラー発生。\r\n適切な言葉を、サーチできません……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "マスターからのバレンタインのお返しが、\r\nとても嬉しい。……ですが……その……\n嬉しさと言葉が、一致しないのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "マシュマロをもらった時も……\r\nありがとうでは、足りない気がして……\nずっと、言葉を探していました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "なんとか、気持ちを伝えたいと……\r\nバレンタインの衣装を着たのですが……\n全然、全然、足りません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……マスター、どうしたら……\r\nこの気持ちが伝わりますか？",
+      "ChoiceDataList": [
+        "思いのままに言葉を並べて",
+        "身振りで表現しよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ブルボンの想いに近い言葉を並べれば、\r\nきっと気持ちを感じられると伝えた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "なるほど……オーダー了解。\r\nやってみます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "マスター、お返しをありがとうございました。\r\nとても嬉しいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "それから…………。\r\n………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……言語変換プログラムに深刻なエラー発生。\r\nマスターの表情を捉えていると、\n候補ワードが次々と消失……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "どの言葉も……足りない。\r\n私の『気持ち』は、もっと……。",
+      "ChoiceDataList": [
+        "気持ちは伝わったよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女の表情や雰囲気から\r\n喜びの気持ちが感じられたことを伝える。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "本当に……？\r\n本当に伝わりましたか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "…………では、教えてください。\r\n私が伝えようとした気持ちを\n言語変換し明示することを求めます。",
+      "ChoiceDataList": [
+        "……え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "伝達の正確性を確認します。\r\nマスター、お願いします。",
+      "ChoiceDataList": [
+        "ええと……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、ミホノブルボンが納得するまで\r\nさまざまな言葉を並べ続けることにより、\n彼女の喜びの大きさを知ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "言葉で表せないのなら、\r\n身振りで表すのはどうかと提案した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "身振りで……やってみます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ミホノブルボンは不思議な踊りをしている。",
+      "ChoiceDataList": [
+        "喜びの舞……か？",
+        "喜びの舞……かな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "伝達失敗……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ダンスならば、ウイニングライブのように\r\n思いが伝わると思ったのですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "！\u3000ステータス『閃き』！\r\nウイニングライブ同様、一緒に踊れば\n共感しやすくなると予測します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "提案します。マスター、踊りましょう！",
+      "ChoiceDataList": [
+        "……ああ、いいぞ",
+        "……うん、いいよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "少し恥ずかしいが、彼女のためならばと頷く。\r\nどちらからともなくステップを踏み、踊る。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……マスター、伝わっていますか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "まっすぐに見つめてくるミホノブルボンの\r\n眼差しは、とても温かく揺れて――\n彼女の心に触れられたような気がした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

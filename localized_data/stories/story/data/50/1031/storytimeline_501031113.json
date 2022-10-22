@@ -1,0 +1,554 @@
+{
+  "Title": "それがこの子の日常",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "クールダウン終わりっ！\r\nバイト、行ってくるのー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "予定していたトレーニングが終わると\r\nアイネスフウジンは風のように去っていく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今日取れたデータを見ながら、\r\n次はどのメニューにするべきか\n考えていると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "ネイチャさん。あと3周ほど追加で\r\nお付き合い願えますでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "おぉ……イクノは疲れ知らずだね～。\r\nおっけー。2人で自主トレやろっか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーニングを終えたウマ娘たちが、\r\n各々、自主練をし始める。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレセン学園にとっては普通の光景だが、\r\nそこにアイネスフウジンは、\nなかなか含まれない。",
+      "ChoiceDataList": [
+        "やっぱり、練習量に差がつくよな……",
+        "やっぱり、練習量に差がつくよね……"
+      ],
+      "ColorTextInfoList": [
+        "トレセン学園"
+      ]
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "――うん！\u3000ブライト、そのフォームだよ！\r\n軸がしっかりしてる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ブライト"
+      ]
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "はぁ……はぁ……\r\nはい～、ありがとうございます～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ゆったりと息を整えている娘は確か\nメジロライアンと同じメジロ家の\nウマ娘……メジロブライトだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "メジロブライト"
+      ]
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "はわぁ～、悩んでいた日々がウソのようです。\r\nお姉さまはパッと解決しますのね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "練習は量だけじゃなくて質も重要！\r\n常に意味のある練習をしなきゃ！\n……おばあ様の受け売りだけどっ。",
+      "ChoiceDataList": [
+        "（量だけではなく質……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……その通りだ。\r\n練習時間が取れないことを嘆くことよりも、\nまずは質を高めていく努力をしなければ！",
+      "ChoiceDataList": [
+        "自分ももっと勉強しよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ということで今週は、先輩に聞いた\n本屋やスポーツショップをめぐり、\n雑誌や映像資料を探すことにした！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "だがオススメされた本屋は、\r\nフロアがかなり広い。どこに専門誌が\nあるか探すだけで一苦労しそうだ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店員",
+      "Text": "レース系の雑誌をお探しですか？\r\nそちらでしたら2階にございますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやら自分と同じように迷った人が\r\nいるらしい。これ幸いとそちらを見ると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "では、ご案内しますね！",
+      "ChoiceDataList": [
+        "アイネス！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "お探しの品がございましたら、\nスタッフまでお声がけくださ～い！",
+      "ChoiceDataList": [
+        "アイネス！？！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "はいっ、ラーメンお待ちっ！",
+      "ChoiceDataList": [
+        "アイネス！？！？！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "トレーナー、明日のメニューについて\r\n相談したいんだけど――",
+      "ChoiceDataList": [
+        "アイネス！？！？！？！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "えっ、なに！？\u3000アイネスなんだけど！？",
+      "ChoiceDataList": [
+        "今週、どこにでも君がいたから……",
+        "今週、どこにでも貴方がいたから……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あ～、確かに会う確率高かったよね。\r\n単発のバイト先でも遭遇したし。",
+      "ChoiceDataList": [
+        "単発？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "本当は全部長期の方がいいんだけどね。\n単発はいつ募集かかるか、わからないし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "でも長期は融通が利く所しか行けないから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "だって、もしシフト希望を出した後に\nど～しても出走したいレースが\n出てきたら、大変でしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "だから長期は急な調整も許してくれる\nラーメン屋とポスティングとコンビニの3つ\nだけ。……店長たちにはお世話になってるの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "長期のバイトを3つも抱えて、\r\n短期のアルバイトまで……。\n彼女の生活に驚きつつ、ふと疑問が生じる。",
+      "ChoiceDataList": [
+        "ところで君、学業の方は大丈夫なのか？",
+        "ところで貴方、学業の方は大丈夫なの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あ～！\u3000その顔、あたしが赤点を\r\n取ってるんじゃないかって思ってない～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "こーらっ、レースも学業もバイトも\r\nどこも手を抜いてなんかないんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "そんなに心配なら、実際に確かめてみる？\nそれなりにいいお姉ちゃんしてると思うよ～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "神・神・神・マジ神っ！！\r\nアイネスのノート、あざ丸水産超えて海！！",
+      "ChoiceDataList": [
+        "あれは……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あの2人はアイネスフウジンのクラスメイト、\nダイタクヘリオスとメジロパーマーだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ダイタクヘリオス",
+        "メジロパーマー"
+      ]
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ノート貸しただけで大げさ！\r\nでも助けになったならよかったの～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "いや、本当めちゃんこ見やすかった！\n数学のプリントに書かれてた内容\nやっと理解できたもん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "クラスメイト",
+      "Text": "アイネス、授業始まるの5分後だよ～？\r\n先生も来てないんだから、のんびりすれば～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "いや～、ちょっとでも勉強しとかないとさ。\r\n赤点で追試ー！\u3000だけは避けたくって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "クラスメイト",
+      "Text": "えっ。アイネス、お昼それだけ？\r\nしかもジャージ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "うんっ。朝しっかり食べてきたから！\r\n昼休みならコースも空いてるし、\nフォームを確認しときたいんだっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店長",
+      "Text": "らっしゃーいっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――今日1日アイネスフウジンを\n見ていて思ったことがある。",
+      "ChoiceDataList": [
+        "（……彼女は何事にも全力投球だ）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あれ～？\u3000トレーナー、\nまだあたしの監視延長中～？",
+      "ChoiceDataList": [
+        "えっ！？あ！？そんなつもりじゃ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ふふっ、わかってるって。\r\n大将、特製ラーメン1丁！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店長",
+      "Text": "はいよー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……あ、オゴリじゃないよ？\r\nちゃんと代金は自分で払ってね？",
+      "ChoiceDataList": [
+        "はい……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店長",
+      "Text": "ははっ、あんたがフーのトレーナーさんか！\r\n随分と尻に敷かれてるね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "フー"
+      ]
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "そうそう、ふっかふかなの～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店長",
+      "Text": "あっはっは、相変わらずだねフーは！\r\n……ところでさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店長",
+      "Text": "フーの走りはアンタから見てどうだい？\r\nトゥインクル・シリーズで勝てそうかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店長",
+      "Text": "実は私、あの子の母親とは友だちでさぁ。\r\n『フーちゃんはずっと我慢してた』\nらしいんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店長",
+      "Text": "病院を行き来する母親の代わりに、\r\n家の手伝いや、妹の世話をしてさ。\n中学までずっと家族のために動いてて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店長",
+      "Text": "今も妹たちの習い事は金かかるし、\r\n家計の助けにしてほしいって\n自分からバイトして仕送りしてるんだよ。",
+      "ChoiceDataList": [
+        "……そうみたいですね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店長",
+      "Text": "ははっ、すごいよねぇ。\r\nなんであんなに頑張れるんだろうねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店長",
+      "Text": "……どれか手を抜いちまえばいいのに。\r\nバイトでも1番仕事を覚えて活躍してさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店長",
+      "Text": "普通の子よりも大変な生活なのに、\r\nあんなに楽しそうに毎日を過ごしてる。\n……夢を追いかけられる環境にいるからって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店長",
+      "Text": "……なあ、フーは\r\nトゥインクル・シリーズで勝てそうかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店長",
+      "Text": "ありがとうございましたー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ラーメン屋を出て、ひと息つく。\n街は軽やかな足音であふれていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "ねえ、もうちょっとだけ遊んで帰ろうよ！\r\nあたしカラオケ行きたい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "え～？\u300030分だけだよ～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "店長、お疲れ様でしたー！\r\nまた今度もお願いしまーす！！",
+      "ChoiceDataList": [
+        "バイト、終わったのか？",
+        "バイト、終わったの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "あっ、トレーナー。\r\nラーメン屋はちょうど今あがったとこ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "でもまだ全部は終わりじゃないの。\r\n次はコンビニがあるから。",
+      "ChoiceDataList": [
+        "まだあるのか！？",
+        "まだあるの！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "うん。今日はシフト詰めるだけ詰める日。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "明日からはデビュー戦に向けて、\r\nもっとトレーニングに集中したいし！",
+      "ChoiceDataList": [
+        "君はすごいな……",
+        "貴方はすごいね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう笑顔を見せる彼女を見ると\r\n改めて自分も頑張らなければという想いと、\n手伝いたいという気持ちが大きくなり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "せめてコンビニまで送る道中、\r\n彼女のスクールバッグを\n自分が背負うことにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ね、大丈夫？\u3000あたしのカバン、\r\nケッコー重いでしょ？",
+      "ChoiceDataList": [
+        "いや、これくらいは持たせて"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ふーん……そう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バイトギャル",
+      "Text": "あ～、アイネスも今日シフトー？\r\nってその人……へぇぇ～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こちらをじろじろと見てくる女性は……\r\n恐らくアイネスフウジンの同僚だろう。\nトレーナーとして挨拶をすべく、頭をさげる。",
+      "ChoiceDataList": [
+        "どうも彼女がお世話になっております"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バイトギャル",
+      "Text": "お～、これが年上のホーヨーリョク？\r\nってやつ～？\u3000アイネス、幸せになれよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "ん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バイトギャル",
+      "Text": "だって、しょ～？\u3000自分の荷物持たせて\r\nバイト先に来るとか。いちゃってんね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "……あ～。なるほど～？\r\nそうそうこの人はあたしを\n幸せにしてくれるパートナー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "もとい、トレーナーっ！\r\nわかってて言ったでしょ？\u3000もう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バイトギャル",
+      "Text": "え～、そうなん～？\r\nまあいいや、今日のシフトもよろ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アイネスフウジン",
+      "Text": "はいはい。……ほら、トレーナーも急いで！\r\nこのままのんびり歩きをしてたら\nバイトに遅れちゃうのっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうコンビニに走っていく、\r\nアイネスフウジンを追いかける。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "先を走る彼女の足音に、\r\n遅れて重なる自分の足音。いつか本当の\n二人三脚ができる日を目指して――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

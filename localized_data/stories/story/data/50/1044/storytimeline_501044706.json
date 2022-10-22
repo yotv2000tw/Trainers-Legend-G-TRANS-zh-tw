@@ -1,0 +1,390 @@
+{
+  "Title": "帰らないもん！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "――いーやっ！\nまだ帰りたくな～い～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "スイープトウショウとお出かけした帰り。\n少し困ったことになっていた……。",
+      "ChoiceDataList": [
+        "でも、もう帰らないと……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "なんでっ？\nまだ夜じゃないでしょ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "もっと遠くにも行きたいし、\n甘いものも食べたいの！",
+      "ChoiceDataList": [
+        "いや、でも――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "魔女の時間はこれからだもん！\nアタシ、絶対帰らないから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……お出かけが楽しかった様子なのは\nありがたいが、今日は早く帰らないと\nこの後の彼女の予定に差し支える。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもたち",
+      "Text": "あははっ……！\nほら、追ってこいよー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その時、ふと……それぞれの家に帰る前、\n最後に思いきり遊んでいるらしい\n子どもたちの様子が目に入った。",
+      "ChoiceDataList": [
+        "じゃあ、思いっきり遊ぼう！",
+        "あの魔法陣を渡っていこうよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ふん！\n最初からそう言いなさいよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "じゃあ、電車で――",
+      "ChoiceDataList": [
+        "あの子たちに声かけてくる",
+        "あの子たちに声かけてくるね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……はぁっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "子どもたちに混ぜてもらえないか頼み、\n快くOKしてもらったのはいいのだが……。",
+      "ChoiceDataList": [
+        "スイープもおいでよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "やだっ！\n子どもの遊びなんか興味ない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもA",
+      "Text": "あのお姉ちゃん、来ないの～？\nじゃあ、かけっこの続きしよ！",
+      "ChoiceDataList": [
+        "あ、う、うん……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "むう、むう、むうううう～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ますます不機嫌にさせてしまっている。\nどうすれば彼女も楽しんでくれるのか、\n考えていると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもB",
+      "Text": "ねー、この枝折ってくれない？\n剣にすんの。",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "剣を作る……それならスイープトウショウも\n遊んでくれるかもしれない！",
+      "ChoiceDataList": [
+        "どうやら魔法が必要みたいだな……",
+        "どうやら魔法が必要みたいだね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "！\n今、魔法って言った？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもB",
+      "Text": "いや、ふつーに\n大人の力で折ってくれればいいんだけど。",
+      "ChoiceDataList": [
+        "あ……あー！ちょうど魔女がいた！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもA",
+      "Text": "え？\u3000あのお姉ちゃん、\n魔法使えるの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもC",
+      "Text": "え～！\u3000すご～い！\n見たーい！\u3000見せて～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……！",
+      "ChoiceDataList": [
+        "スイープの魔法、かけてくれないかな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "もうっ！\nしょぉ～がないわねっっ♪♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "――パワフル☆ディモルホセカ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（バキッ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもたち",
+      "Text": "すごいっ、剣が2つできた～！\nなんでこんなに、キレイに割れるの！？\nホントに魔法みたい……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ホントに魔法だってば！\nイチバン弱い点を探して、\nそこに魔力を集中させたの！",
+      "ChoiceDataList": [
+        "（魔力というか手の力だったけど……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ほら、特別な魔力の込められた剣よ。\n大事にしなさいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもB",
+      "Text": "えーと……うん、ありがとう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、機嫌をよくした\nスイープトウショウは子どもたちと\n混ざって遊び……結果！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "――疲れた、帰る！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "魔法陣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "って……あの、\nけん、けん、ぱっ……てするマル？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "スイープトウショウが示した先には、\n子どもたちが落書きした円が\n長く続いていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "あんなの、子どもが書いただけでしょ。\nなーんの力もないから。",
+      "ChoiceDataList": [
+        "……ここだけの話なんだけど"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……なによ？",
+      "ChoiceDataList": [
+        "あの魔法陣を描いたの、この地の魔女なんだ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ちょっと、詳しく聞かせなさい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あの円には魔力が込められており、\n渡っていけばいくほど力が得られれる\n魔法陣となっている……と話した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……ホントぉ？",
+      "ChoiceDataList": [
+        "（ギク！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "試すしかないみたいね。\n手順は？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ぴょん、ぴょん、ぴょん……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……！\nわぁ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "すごい！\n魔力があふれてくる……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ちょっと、本当に魔法陣じゃない……！\nすごいすごい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "本当に魔法陣ではないのだが……\nプラシーボ効果なのだろうか、\n楽しい気分になってくれたようだ。",
+      "ChoiceDataList": [
+        "（あとはこのまま学園に……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……あれ？\n力がなくなってく……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "……わかったわ！\nこの魔法陣、まだ未完成だったのね！？",
+      "ChoiceDataList": [
+        "え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ちょっと使い魔、なんとかしなさいよ！\n効果が切れちゃう！",
+      "ChoiceDataList": [
+        "ええ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "はやく！\nはやくして～～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "――わかった、次はあの白いところね！\nいくわよー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、横断歩道の白い部分を続きの\n魔法陣に例えるなど、なんとか工夫をし……\n彼女を連れ帰ることに成功したのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ちょっと、途切れたわよ！\n次の魔法陣は～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

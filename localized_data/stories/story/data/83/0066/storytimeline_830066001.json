@@ -1,0 +1,293 @@
+{
+  "Title": "ステータス『つまらない？』",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ワンピースのウマ娘",
+      "Text": "は～！\u3000買った買ったぁ。\r\n付き合ってくれてありがと、ブルボン！\nセールで混んでたし、疲れたでしょ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "体力、気力共に良好。\r\nセールによる問題はなく、\n目的は無事に遂行されました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ワンピースのウマ娘",
+      "Text": "あはは……あー……なんか、ごめんね？\r\n楽しくなかったよね。\nブルボン、ぜんぜん笑わないし……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "それは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ワンピースのウマ娘",
+      "Text": "あーいいの、いいの！\u3000とにかく、ありがと！\r\nごめん、またねっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "何か誤解されちゃった？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "あ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "はい。私の表情を分析『退屈している』と\r\n判断……したものだと思われます。\nですが、それは正しくありません。",
+      "ChoiceDataList": [
+        "楽しかったんだな",
+        "楽しかったんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "難易度C『セール品の確保』達成。彼女の\r\n笑顔を入手。……よって、その質問への\n回答は『イエス』であると判断します。",
+      "ChoiceDataList": [
+        "きっと誤解はすぐに解けるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "そうでしょうか。これまでの経験上、\r\n今後また同じ状況に陥る確率は\n80％を超えると予測します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "次回は恐らく――\r\n仮装パーティー会場。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "――その動画が、すっごくかわいくて！\r\n今度みんなで、動画みたいに\n仮装パーティーしようってっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "そうですか。\r\nライスさんが楽しそうで、なによりです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "えへへ……。どんな衣装にするか\r\n考えてるだけでも楽しいよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "……えっと、だからね。\r\n準備も本番も、きっとすっごく\n楽しいから……だから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "ブ、ブルボンさんも一緒にどうかな！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……1度は頷きましたが、\r\n私がいては場の空気をつまらなく\nする可能性が高いと判断します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "やはり、断るべきなのかもしれません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう言って、ミホノブルボンは\r\n軽くお辞儀をし、校舎へと歩いて行った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "あら、難しいお顔をされて\r\nどうしたんですか～？\nもしかして、悩み事でも？",
+      "ChoiceDataList": [
+        "いや、ちょっと……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ふふ、私でよければ相談に乗りますよ♪\r\n悩むのなら1人より2人、\nきっと力になれますから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "まあ……ブルボンちゃんが、そんなことを？\r\n仮装パーティーには、\n私も参加する予定ですけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "わかりました、任せてください。\r\n私もブルボンちゃんと話してみます。\nどうせなら、みんなで楽しみたいですから♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "はっ、はぁ……はぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ブルボンちゃ～ん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "トレーニングお疲れさまです。\r\n聞きましたよ、仮装パーティーのこと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……そういえば、\r\nクリークさんも参加されるのですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ええ、名付けて\r\n『みんなで楽しく仮装パーティー』です♪\nブルボンちゃんも一緒に楽しみましょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ですが、私は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ライスちゃんがブルボンちゃんを\r\n誘ったのは、大切なお友だちだからです。\nもちろん、私にとっても。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "つまらない、なんてありえません。\r\nいてくれないと寂しくて\n泣いちゃうかもしれませんよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……。理解しました。\r\n参加するにあたり、最善の行動を選択。\n笑顔を意識し、常に表情を――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "あら、そのままでいいんです。\r\n無理に作る笑顔なんて、\nめっ、ですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……しかし、それでは。",
+      "ChoiceDataList": [
+        "今のままでいいと思う！",
+        "表情を変えずに済む仮装は？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "特に変えることもなく、今のまま……ですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『みんなで楽しく』ならば、そのままが\r\n1番だろう。いつも通りのミホノブルボンで\nいった方が、気楽に楽しめるはずだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "そうです。難しく考える必要はありません。\r\nみんな、いつものブルボンちゃんと一緒に、\n楽しみたいんですから♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "…………。\r\n今のまま、いつも通り。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……了解しました。\r\n相応しい仮装を検索し、\n早急に製作に入ります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "何か手伝いを――と声をかける\r\n間もなく、ものすごい勢いで\n走り出したミホノブルボンだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "それもいいですね～。まったく別のものに\r\nなる必要はありませんし。自分に合った\n仮装を考えるのも楽しいですよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "それはつまり……\r\n『サイボーグ』でしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ふふっ、それも素敵ですね。\r\nきっと強くてかっこいいサイボーグに\nなりますね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……わかりました。ミッション、\r\n『自分に合った衣装を模索』を開始。\n必ずクリアしてみせます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "楽しむことが目的なのだが……\r\nミホノブルボンはミッションクリアに\n向けて、強く拳を握ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

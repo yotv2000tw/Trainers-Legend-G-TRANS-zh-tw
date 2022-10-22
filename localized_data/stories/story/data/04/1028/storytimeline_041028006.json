@@ -1,0 +1,315 @@
+{
+  "Title": "真のちゃんこ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "いつも食事を作ってくれるヒシアケボノへの\r\nお返しに、何かご馳走できないだろうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう思い、ショッピングモールへとやってくると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あ、トレーナーさん！\r\n偶然だね～。お買い物に来たの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あたしはお惣菜やスイーツを見てたんだ～。\r\n新作があったら買おうと思って！",
+      "ChoiceDataList": [
+        "美味しそうなのあった？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うん、今日はマカロンにした！\r\nラズベリー味でね、さっき休憩所で食べたばかり☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "本当にボーノだったから、すぐに\r\nお父さんとお母さんに写真と感想を送ったよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あたし、いつも新しいものを見つけたら、\r\n2人に送ってるんだ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "お父さんもお母さんも料理人だから、\r\nすっごく喜んでくれるの。",
+      "ChoiceDataList": [
+        "確か両親から料理を教わったって……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うん、そうなの！\u3000お父さんは、イタリア料理のシェフでね、\r\nお母さんはパティシエなんだ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "だから作るのも大好きだけど、\r\nおいしいものを探すのも大好き！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヒシアケボノは、本当に楽しそうだ。\r\nやはりここは、手作りの料理をご馳走するのがいいだろう。",
+      "ChoiceDataList": [
+        "ヒシアケボノ、何か食べたいものはない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "え？\u3000どうしたの、急に。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ええ～？\u3000お礼なんていらないよ！\r\nあたしはトレーナーさんが満足してくれたら、嬉しいもん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "トレーナーさんが、あたしの作ったご飯食べて\r\nニコニコしてくれると、すっごく幸せなの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "胸のあたりがポカポカするって言うか……。\r\nうまく言えないんだけどね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "えへへ、だからお礼なんていらないよ☆",
+      "ChoiceDataList": [
+        "でも、いつもしてもらうばかりじゃ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "う～ん……だったら、今日のお夕飯はあたしが\r\n用意するから、またおいしく食べてほしいな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "よーし☆\u3000材料、買いに行こっか！\r\n食材なら商店街のほうがいいよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "たっくさん作るぞ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "今日は鶏を使って水炊きにしようかなって\r\n思ってるんだけど、他にも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもの声",
+      "Text": "あー！\u3000お相撲さんだー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "えっ！？\u3000どこどこ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "子どもの声と視線を追っていくと、そこには\r\n稽古終わりらしき力士たちが歩いていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "わわっ、本物だぁ……！\r\nトレーナーさん、あたし声かけてもいいかな！？",
+      "ChoiceDataList": [
+        "迷惑にならないようにな",
+        "迷惑にならないようにね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うん、もちろんっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "すみませ～んっ。こんにちは！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "嬉しそうに話しかけるヒシアケボノ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "興味深そうに色々と質問するヒシアケボノに、\r\n力士たちはニコニコと答えてくれていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "そうですか、ちゃんこ鍋の具材を……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "うんうん。やっぱり、栄養満点の\r\nちゃんこ鍋は、強さの秘訣なんだな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "力士",
+      "Text": "ははっ、その通り！\r\nちゃんこなくして、この身体は作れないよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "力士",
+      "Text": "それに、ちゃんこは想いがたっぷり入った料理だ。\r\nこれで強くなれないはずがない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "おいしく食べてほしいって気持ちですね！\r\nあたしもいつもいっぱい気持ちを込めてます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "力士",
+      "Text": "おっと、それだけじゃないぞ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "え？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "力士",
+      "Text": "作る側と食べる側の想いをたっぷりと込めたものが\r\n真のちゃんこだ！\u3000はっはっはっはっはっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "真のちゃんこ……？\u3000食べる側の、想い？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "う～ん、食べる側の想いを込めるって、\r\nどういうことなんだろ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "だって、食べる時はもう、お料理は完成してるよね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "食べる側の想い……気持ちかぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "力士が言いたかったのは、きっと『互いへの感謝の気持ち』\r\nだったのではないだろうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『いただきます』と、\r\nその感謝があってこそ、料理は完成する、と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "真のちゃんこ……。\r\nトレーナーさんは、どういうことかわかる？",
+      "ChoiceDataList": [
+        "試してみよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "え？\u3000試す？",
+      "ChoiceDataList": [
+        "今度は俺が想いを込めて作る",
+        "今度は私が想いを込めて作る"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……そうしたら、なにかわかるのかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "……。うん、わかった！\r\nお願いします、トレーナーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "出会った時には命を助けられ、それから何度も\r\n美味しい食事で心も体も癒してくれた、ヒシアケボノ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "たくさんの感謝を込めて、作らなければ――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

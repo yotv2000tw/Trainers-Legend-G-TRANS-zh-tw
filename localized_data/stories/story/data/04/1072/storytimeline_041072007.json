@@ -1,0 +1,371 @@
+{
+  "Title": "夏宵に舞う",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "はぁ、はぁ……走り込み、完了しました！\r\n本日の予定はここまででしたね。",
+      "ChoiceDataList": [
+        "ああ、お疲れ様！",
+        "うん、お疲れ様！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "待ちに待った夏合宿。ヤエノムテキも張り切っており、\n今日のトレーニングメニューをあっという間にこなしてしまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "では……遊んで参りますっ！",
+      "ChoiceDataList": [
+        "えっ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "その、遊園地でも最後はあのような結果になってしまいましたし……\n此度の合宿にて、必ずや修行を忘れ去ってみせます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "少し、確かめたいこともありますし……。",
+      "ChoiceDataList": [
+        "確かめたいこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……いえ、これはまだ戯言に過ぎません！\r\n確信が持てたらお話しいたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "では不肖ヤエノムテキ、浜辺で波と戯れて参ります。\nいざ、無我の境地へ至らん……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "波と戯れて参りました！\u3000寄せては返す波を避けて歩くことを学び、\nレース中のルート選びに応用を……いや、これは修行ですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ビーチボールを楽しんで参りました！\u3000強敵たちのフォームや\n瞬発力を見て学び、得難い経験を……ハッ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……やはり、修行ですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "逆にっ……もう1度走り込みをしてみたのですが……！\nこれはっ……修行でしょうかっ！？",
+      "ChoiceDataList": [
+        "修行だな……",
+        "修行だね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……くっ、であれば何度でも！\u3000夜は夏祭りへ向かいます！\nもしお暇でしたら、トレーナー殿もお付き合いください！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……荒波が如き人出ですね。人混みでの足さばきは\nレースで抜け出す際の参考に……いえ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "くっ、私はここでも修行のことばかり……！",
+      "ChoiceDataList": [
+        "えっと……ほらヤエノ、射的があるぞ！",
+        "えっと……ほらヤエノ、射的があるよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "なるほど、射的であればレースとは関係がない……はず！\n修行を忘れ無我へ至る一助になるやもしれません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "感謝いたします、トレーナー殿。\n店主殿！\u3000挑戦権を1回分、購入させていただきたい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ぱん！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……む。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ぱん、ぱん！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "屋台のおじさん",
+      "Text": "残念～！\u3000全部外れちゃったね！\nこれに懲りずにまた遊んでくれよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "まさか悉く外してしまうとは……\n無様な姿をお見せしてしまいました。",
+      "ChoiceDataList": [
+        "このくらい、無様のうちに入らないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "失敗したっていいからのびのびやればいい。\n遊びもトレーニングも、もっと気を抜いたっていい。",
+      "ChoiceDataList": [
+        "普段頑張ってるの、1番よく知ってるから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……ふふ。やはり、貴方はそう言ってくださるのですね。\nあの遊園地でも、ここでも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ありがとうございます、ようやく覚悟が決まりました。\r\nトレーナー殿、しばしお時間をいただいてもよろしいか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "構わないが、なんだろうか。よく考えずに頷くと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "店主殿。射的の挑戦権をあと5回、お願いいたします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、辺りにはしばらくおもちゃの銃声が響いたが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "うぐうっ、なんと無様な！\u3000ここまで当たらぬとは！\nいっそ笑えてくるほどに……っ！",
+      "ChoiceDataList": [
+        "ヤエノ、頑張れ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ええ、次こそは！\u3000少しずつ理解して参りました。\nこう、あまり力を入れすぎないようにして……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "トレーナー殿、いかがでしょう！\n姿勢は問題ありませんか！？",
+      "ChoiceDataList": [
+        "いい感じ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "感謝いたします！\n銃を持っても、自然に。自然に……楽しく……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "参るっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ぱんっ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――軽い音と共に、ヤエノムテキがずっと狙っていた\n猫のぬいぐるみがころりと転がる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "屋台のおじさん",
+      "Text": "大当たり～っ！\u3000景品獲得だ！\nおめでとう、お嬢ちゃん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "わ……！\u3000ありがとうございますっ！",
+      "ChoiceDataList": [
+        "おめでとう、ヤエノ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "トレーナー殿、やりました！\n射的、しかと遊び抜いてみせましたっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "お祭りの帰り道……ヤエノムテキが『少し話したい』と言うので、\n合宿所近くの浜辺に寄ることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……先ほどは、童心へ返るような心持ちでした。\nおもちゃの銃で、おもちゃを狙って……。",
+      "ChoiceDataList": [
+        "楽しかった？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "はい、とても！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……そして、おかげさまで得心いたしました。\r\nなぜ私が、ここまで修行を忘れられぬのか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "私の心中の烈火は、勝負の外にあっては恥ずべきものです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "燃える心のままに児戯に興じ、\r\n無様を晒すことなど決してあってはならず――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "厳しく自らを律し、覆い隠さねばと信じて、\nいつでも、修行のことを考えていた。",
+      "ChoiceDataList": [
+        "ヤエノ――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "しかし、貴方は無様でもよい、何度失敗してもよいと仰った。\nですから私も……修行を忘れて楽しむことができたのでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "烈火は恐れるものではない。そして……\n忌むべきものでもないのですね。",
+      "ChoiceDataList": [
+        "……ああ！休む時は思いっきり、な！",
+        "……うん！休む時は思いっきり、ね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ええ――貴方の前では、私は……修行を忘れてもよいのだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "そうだ、トレーナー殿。\r\n今から……『形』を演じてもよいでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……なんだか、今日までの私とは違う演武ができそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "夏祭りも終わりが近いのか、打ち上がり始めた花火を背に\r\nヤエノムテキが『形』を演じる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "鍛え上げられたこれまでの『形』とは、また趣が違う。\r\nまるで炎が舞い遊ぶようで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……ああ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――楽しい、休息でしたね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……夏の宵に相応しい、\r\nなんとも爽やかで、楽しげな演武だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

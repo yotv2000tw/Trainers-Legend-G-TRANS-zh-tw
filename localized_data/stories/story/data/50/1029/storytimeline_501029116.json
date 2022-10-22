@@ -1,0 +1,545 @@
+{
+  "Title": "なみだ、きらり",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『秋華賞』翌日。ユキノビジンを連れて、\n彼女の地元である盛岡へと向かっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……いいンでしょうか。\nこンな状態で、村に戻って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あたし、みんなの顔見たら……\n泣いちゃうかもしれねぇ。",
+      "ChoiceDataList": [
+        "泣いてもいいんだ",
+        "泣いてもいいんだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "けンど……。すっきりしたら、\n学園に、戻りたくなくなっちまうかも。",
+      "ChoiceDataList": [
+        "そうなったら、たくさん説得するよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "へ？",
+      "ChoiceDataList": [
+        "君の走る姿が好きだからな",
+        "貴方の走る姿が好きだからね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "トレーナーさん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ありがとう、ございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして無事、彼女の生まれ育った\n村へと到着し――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ンン～っ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はぁ～！\n村の空気だぁ！",
+      "ChoiceDataList": [
+        "じゃあ、美冬さんのところへ行こうか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "へ？\n美冬ちゃんの……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "もしかして、\nスケートリンクですかっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "わぁ～……！\n美冬ちゃんが滑ってるところ、\n久々に見られるンですねぇ！",
+      "ChoiceDataList": [
+        "今日はジャンプの練習がメインだって"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あ、そっか！\nバッジテストのために……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "美冬ちゃん、次のテストに受からないと、\nおっきな大会に出られなくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "けど、昔からジャンプがあンまり\n得意じゃないンです。",
+      "ChoiceDataList": [
+        "それで努力してるのか",
+        "それで努力してるんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "そうですねぇ。けンど、美冬ちゃん、\n表現力は昔からピカイチだったなはん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "跳べたら無敵だけど、\nそうじゃなくてもすげぇンです！\nえへへ、楽しみだなぁ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして、ユキノビジンとともに、\nリンクで滑っている美冬さんを\n見に行くことにしたのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（シャッ……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……！\n美冬ちゃん、跳べてる……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "美冬さんはスイスイとリンクを滑り、\n重力がないかのように軽やかに舞う。\nエッジに切り出された氷の欠片が輝き――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "すげぇ、いつの間に……。\nキレイだぁ……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "――ごめん、お待たせ！\nそれとユキちゃん、おかえり！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ただいま、美冬ちゃん！\nって、ンなことより！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "すンげぇじゃねぇか！\nジャンプ、すンごくキレイだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "え～っ、そんなことないよぉ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "……なんて。跳べるようになったから、\nユキちゃんに見てほしかったんだ♪\nそれで、トレーナーさんにお願いしちゃった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "昔の美冬ちゃんからは信じらンねぇ！\n一緒の教室に通ってた時、\n跳べなくてよく悔し泣きしてただろ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あたしが東京さ出てから、\n美冬ちゃんもすンげぇがんばったンだなぁ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "えへへ。\n絶体絶命だったからね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "ちょうど、ユキちゃんが\n『オークス』で走ってた頃かなぁ。\n私、コーチから夢を諦めるよう言われてたの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "『正直、世界大会へ出られる器じゃない。\n表現力はあるから、今からショーに\n転向したほうがいい』……ってさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "私もさ、わかってたんだよね。\n私より小さい子がどんどんテストに受かって、\n世界大会へ向けてスタートを切ってる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "私はあの中には入れない。\nなりたい自分にはなれないんだって、\n夢を叶える器じゃないんだって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "美冬ちゃん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "でもね、走ってるユキちゃんを見て思ったの。\n『こんなところで挫けちゃダメだ！』って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "へっ？\nあたし？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "うん。だって私、\nずっとユキちゃんが、憧れだったの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "ユキちゃんは……子どもの頃からすごくて、\nみんなから将来を期待されてた。\n実際、今おっきなレースで走ってるよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "もう、夢にすごい近いところにいるでしょ？\nその子が、まだ歯を食いしばってる！\nもっと先へって、努力してるんだもん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "――じゃあ、諦められるわけないじゃん。\nキラキラなユキちゃんに、\n恥ずかしくない親友でいたいから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "って、もお～。\nなんで泣きそうなの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "だって……あたし……\nそう言ってもらえる、資格ない……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "本当は逃げたいンだ。辛いンだぁ。\nもう全部あきらめたいって、思ってる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "でも、逃げたことないでしょ？\nいつもド根性って言ってさ、\nコーチからしごかれたって頑張ってたじゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "ずっと見てたから、わかるんだよ。\nユキちゃんは、まぁ～……\nちょっと弱気なときもあるけどさ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "素直でかわいくて、でもそれだけじゃない。\n誰よりも強い子。私の、かっこいい大親友！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "ありがとう、ユキちゃん。\nユキちゃんがいてくれるから……\n諦めない私でいられるの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美冬",
+      "Text": "好きな自分でいなくちゃって、\n踏みとどまらせてくれるの。\nだから……ありがとう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "うっ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "うえええええ～ん……！\n美冬ちゃん゛ん゛ん゛ん゛……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "まるで抑えていたものが、\n爆発したかのように……その後しばらく、\nユキノビジンの涙はあふれ続けた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……ぐすっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ごめンなさい、もう大丈夫です。\n……あたし、あきらめちゃダメですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "キラキラの“シチーガール”にならなくちゃ。\n美冬ちゃんが、夢をあきらめないみたいに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "大親友ががんばってンのに、\nあたしが考えンのやめちゃダメだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "――なりたい自分に、ならなくちゃ。\nもう誰にも流されないように……\n強くて、かっけぇ“シチーガール”に。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "でも、それだけじゃなくて……。",
+      "ChoiceDataList": [
+        "それだけじゃなくて？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……あたし、うれしかったンです。\n美冬ちゃんが、あたしの走りを見て、\nがんばろうって思ってくれてたこと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "自分が誰かのためになれてるって、\nすンごいうれしいことだなぁって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あたしが今、なりたいのは……\n自分を好きになれる走りをして、\nそンで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "みんなから本当の意味で、\n愛してもらえる“シチーガール”です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……って、ちょっと言葉が、\nおっきいかもしンねぇですけど！",
+      "ChoiceDataList": [
+        "新しい夢を叶えよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……はいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "――次の目標レース、\nまだ決めてなかったですよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "お願いがあるンです。あたし……\n今度は、自分の力でブームを起こしたい！",
+      "ChoiceDataList": [
+        "ブームを？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はい。今まで応援してもらってたのは、\nたまたまじゃないですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "たまたま、地方から来たウマ娘が\n注目されてて、たまたま\nあたしが当てはまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "でも……今までのあたしは、\nそれを本物にできなかったです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "でも！\u3000例えばあのオグリさんだって、\n最初からすっごい伝説だったわけじゃない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "走って、走って……ブームを、\n本物にしたと思うンです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "おこがましいかもしンねぇけど、\nあたしもいちから、がんばりたいンです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "こっから残りはぐーっと鍛え直して、\n来年……シニア級から、\n新しいあたしを見せてぇ！",
+      "ChoiceDataList": [
+        "なら、『大阪杯』を目標にしようか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "年が明けて最初の中距離GⅠで、\nそうそうたる実力者が集まることも\n予想される。再スタートにはぴったりだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "……トレーナーさん。\nあたしに、できると思いますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "ブームをもう1回……それも、\nオグリさんみたいに、すっごいブーム。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "あたしに、できますか？",
+      "ChoiceDataList": [
+        "もちろん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ユキノビジンがトリプルティアラ路線で\n結果を出してきたのはまぐれではない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして彼女には、本気の想いを\n伝え続けられるド根性が備わっている。",
+      "ChoiceDataList": [
+        "君の本気を届けよう！",
+        "貴方の本気を届けよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ユキノビジン",
+      "Text": "はい！\u3000盛岡のド根性ウマ娘の底力、\n見せますンでっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして、次なる目標レースは\nシニア級の『大阪杯』に決まった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "大阪杯"
+      ]
+    }
+  ]
+}

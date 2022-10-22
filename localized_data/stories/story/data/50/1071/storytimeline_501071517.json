@@ -1,0 +1,59 @@
+{
+  "Title": "すっきりしない……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーナー室に入ると、\nメジロアルダンが物憂げな顔で\n窓の外を眺めていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "あら……トレーナーさん、\nごきげんよう。",
+      "ChoiceDataList": [
+        "元気ないな",
+        "元気ないね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……申し訳ありません。\n些細なこと……本当に些細なことなのですが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "先日、以前から読みたかった本を、\n上下ともネット注文いたしまして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "届いたものを開封しますと……\n上巻は旧版、下巻が新装版だったのです。\n本棚に並べると、違和感がなんとも……。",
+      "ChoiceDataList": [
+        "……それはすっきりしないな",
+        "……それはすっきりしないね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ええ。……やはり、横着せずに自らの足で\r\n書店を訪れ、購入すべきだったのでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロアルダンは、なんとも\nすっきりしない表情でため息をついた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "Title": "ファンレター",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "練習前に、タマモクロスを見かけた。\r\n鼻をすすっているようだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "うわ！\u3000なんでアンタがおるんや！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "あ、あー……これはなっ？\r\n花粉症やろか！\u3000おっかしいなぁ？",
+      "ChoiceDataList": [
+        "手に持っているのは？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "あー！\u3000これなー！\r\nちりがみやん！\u3000こうやって鼻かんで……。",
+      "ChoiceDataList": [
+        "捨てておこうか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ど、どアホ！\r\nそないなことしたら許さへんからな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なんや、いけずやな～！\r\nちょっとファンレター読んどっただけや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "『タマちゃんが体格のいいウマ娘たちを\r\n稲妻のように抜き去っていく姿……』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "『それを見ていると勇気をもらえます』\r\nってな。そんなん言われたら、\nじわっとな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……って、泣いてへんわー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

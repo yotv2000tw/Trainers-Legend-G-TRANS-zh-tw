@@ -1,0 +1,370 @@
+{
+  "Title": "バレンタイン",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ハッピーバレンタイン♪\r\nトレーナーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "さあ、参りましょう！",
+      "ChoiceDataList": [
+        "どこへ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "うふふ、着いてからのお楽しみです♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "バレンタインデー。なぜか突然、\r\nサトノダイヤモンドにどこかへ連れ出された。\n到着した場所は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "なんてことはない、栗東寮の前だった。\r\nだが、玄関前に見慣れない機械が\nずどんと鎮座している。",
+      "ChoiceDataList": [
+        "あのクレーンや箱の山は何！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "えへっ、バレンタインのサプライズです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "トレーナーさんのために、\r\n巨大クレーンゲームをご用意しました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ルールは普通のクレーンゲームと同じです。\r\nあのクレーンでつるされながら、\nご自身で景品を取っていただきます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "つまり、クレーンゲームのアーム役を\r\n自分がやるタイプのゲームらしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "せっかくのバレンタインですから。\r\nサプライズがあると楽しいかなと思い、\n色々調べたんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "そうしたら、サトノグループの関連会社で\r\n巨大クレーンゲームを使ったイベントの\n記事を見つけまして！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "とても面白そうでしたので、\r\n機材とスタッフを借りて参りました♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "景品はバレンタインチョコレートです！\r\n色んな種類をご用意いたしましたので、\nお好きなものをお取りくださいませ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "駄菓子のチョコから有名ショコラトリーの\r\n限定チョコまで、さまざまございますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "動きたい方向を仰っていただければ、\r\nスタッフがクレーンを操作いたします♪",
+      "ChoiceDataList": [
+        "もしかして、アーム役は……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "はい、トレーナーさんです！\r\nダイヤからのスペシャルバレンタイン、\n楽しんでくださいね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……好奇心旺盛なサトノダイヤモンドらしい\r\n発想だ。彼女のトレーナーとして、\n覚悟を決めるしかない……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "トレーナーさ～ん！\r\n動きたい方向を仰ってくださいね～！",
+      "ChoiceDataList": [
+        "こ、このあたりで……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "は～～い！\r\nそれではゆっくり下げてくださーい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "さすがはクレーンの扱いに慣れたスタッフだ。\r\n丁寧な操作のおかげで、何の不安もなく\nチョコレートの山に降りることができた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "というか、かなり楽しくなってきた！\r\n手近なチョコレートをかき集めて\n両手いっぱいに抱える。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "わあっ！\u3000トレーナーさんお上手です！\r\nあのバランス感覚……さすがですね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "まあ、もう1個いきますか！？\r\n落とさないよう頑張って……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ふふ、すっかり熱中していらっしゃいますね。\r\n楽しんでいただけてよかった♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "トレーナーさん、お見事でした！\r\n私、すっかり魅せられてしまいました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "それに……ふふふ、とても楽しそうで。",
+      "ChoiceDataList": [
+        "楽しかったよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "えへへ、嬉しいです……♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "レース以外の楽しいことも……\r\nトレーナーさんと一緒に\nこうやって分け合えるといいですね。",
+      "ChoiceDataList": [
+        "そうだな！",
+        "そうだね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あ、チョコレート！\r\n遠慮せず食べてくださいね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "私も帰ったら今日のことを思い出しながら、\r\nチョコレートを食べようと思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "クレーンゲームで獲得したたくさんのチョコ。\r\n毎日少しずつ食べるたびに、\nきっと彼女の笑顔を思い出すだろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "というか、かなり楽しくなってきた！\r\n手近なチョコレートをかき集める。",
+      "ChoiceDataList": [
+        "これは……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あ……！\u3000あのチョコは……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "1つだけ包装が少し歪んだチョコがあった。\r\nどこか手作り感のあるそれに、\nバランスを崩しながら手を伸ばす。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ト、トレーナーさん！\r\n無理はなさらないでください……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ああ、せっかく取った他のチョコを\r\n落としてしまって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "……もしかして、気づいて……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "巨大クレーンゲームの戦果は上々だった。\r\nなにより、あの少し包装が歪なチョコを\nゲットすることができた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "……それ……私が作ったチョコレートです。",
+      "ChoiceDataList": [
+        "だと思った！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "やっぱり、手作りと気づいて\r\n取ってくださったのですね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "もぅ……。",
+      "ChoiceDataList": [
+        "食べていい？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "……はい、どうぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "包みを開け、綺麗に並んだチョコを\r\n1粒口に運ぶ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……なんだろう？\u3000不思議な味だ。\r\nたぶん美味しい部類に入るのだが、\n例えに困る味わいだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "微妙な味ですよね……？",
+      "ChoiceDataList": [
+        "美味しいけれど、不思議な味……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "そうなのです。\r\n珍しいフレーバーにチャレンジしたのですが、\n不思議な味になってしまって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "私も試食をしてまずくはなかったものの、\r\nこれを差し上げていいものか、\n正直迷ったのですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "召し上がってくださり、\r\nありがとうございます！\nもう充分ですので……！",
+      "ChoiceDataList": [
+        "このチョコに合う味を探してみない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "え……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "何かがひと味加われば、チョコは\r\nもっと美味しくなりそうな気がした。\nゆえに、食材のちょい足しを提案する。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "なるほど……\r\nフルーツやお菓子と一緒に食べて、\nおいしい組み合わせを探すのですね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "楽しそうです！\u3000やりましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "チョコがもっと美味しくなる組み合わせを\r\n求め、さまざまなちょい足しを試す。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "結果、サトノダイヤモンドの手作りチョコは\r\nドラゴンフルーツとベストマッチだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "うふふ、私とトレーナーさんで作った\r\n世界で唯一のお味のチョコですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "とてもおいしいけれど……\r\nこのレシピは、誰にも教えません。\n2人だけの秘密です♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

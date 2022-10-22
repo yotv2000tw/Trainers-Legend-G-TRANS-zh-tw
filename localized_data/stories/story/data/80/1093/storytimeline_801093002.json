@@ -1,0 +1,172 @@
+{
+  "Title": "ぬれてもへいき",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "<chrname>と地形を活かした\nトレーニングを行おうと思い、スマホ片手に\nあれこれメモしつつ河の傍を歩いていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巨大カラス",
+      "Text": "ガー！\u3000グワー！！",
+      "ChoiceDataList": [
+        "わー！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "突如襲い来た巨大なカラスに驚き、\nスマホを落としてしまった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "スマホはそのまま、\nカラカラと砂利を転がっていき――",
+      "ChoiceDataList": [
+        "（このままだと河の中に……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "おれが行きます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ビュオッ――！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "一陣の風。そう見紛うほど速く駆け抜けた\n影は、そのまま――河へと飛び込んだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ケイエスミラクル",
+      "Text": "はぁ、っ――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ケイエスミラクル",
+      "Text": "あ……よかった！\u3000画面、ちゃんとつきます。\n間に合ったみたいです。",
+      "ChoiceDataList": [
+        "君がビショビショだぞ！？",
+        "貴方がビショビショだよ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ケイエスミラクル",
+      "Text": "え？\u3000……あ、そっか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ケイエスミラクル",
+      "Text": "すみません、この状態のおれが持ってたら、\nどっちにしろ濡れそうで怖いですよね。\n返します、すぐ――",
+      "ChoiceDataList": [
+        "そうじゃなく……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "キョトンとしているケイエスミラクルだが、\n当然このままにはしておけない……！",
+      "ChoiceDataList": [
+        "すぐ体を温める方法を考える！",
+        "ひとまずケガがないか歩様をチェック！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "すぐ近くにカフェがあったことを思い出し、\n急いで温かい飲み物を買ってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ケイエスミラクル",
+      "Text": "わあ……ありがとうございます。\nすみません、わざわざ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ケイエスミラクル",
+      "Text": "えっと……お金、今持ってなくて。\n寮に取りに行ってから返すのでもいいですか？",
+      "ChoiceDataList": [
+        "返さなくていいから！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ケイエスミラクル",
+      "Text": "そ、そうですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ケイエスミラクル",
+      "Text": "ふふ。トレーナーさん……\nすごく、優しいんですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『君が言うか？』\n……心底そう思ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『貴方が言う？』\n……心底そう思ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ケイエスミラクル",
+      "Text": "――はい、大丈夫です。\nどこも痛くないし、違和感もありません。",
+      "ChoiceDataList": [
+        "本当に大丈夫か……？",
+        "本当に大丈夫……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ケイエスミラクル",
+      "Text": "あははっ、はい！\n大丈夫です。心配いりません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ケイエスミラクル",
+      "Text": "おれの、自慢の脚ですから。\n……みんなが守って、育ててくれた、おれの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ケイエスミラクル",
+      "Text": "だから平気です。\n大丈夫です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あまりに真っ直ぐそう言い放つものだから、\nそれ以上は何も言えなくなるのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

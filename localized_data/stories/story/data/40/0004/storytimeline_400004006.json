@@ -1,0 +1,442 @@
+{
+  "Title": "よくないウワサ？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今日のトレーニングを終え、\r\n<chrname>を寮まで送り届けた\n時のことだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ざわざわ……ざわざわ……）",
+      "ChoiceDataList": [
+        "（校門のほうが騒がしい……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "少しだけでいいんです！\r\n事実確認をさせていただければ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "も、申し訳ありませーん！\r\n生徒の迷惑になりますので\nどうかお引き取りくださいっ！",
+      "ChoiceDataList": [
+        "たづなさん、どうしたんですか！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "ト、トレーナーさん……！\r\nダメです、今出てきては！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "おいあれ、例のトレーナーじゃないか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "……すみません！\r\n<username>トレーナーで\nいらっしゃいますか？",
+      "ChoiceDataList": [
+        "そうですが……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "自らの担当ウマ娘に\r\n厳しすぎるトレーニングを行っているという\n噂は本当なのでしょうかっ！？",
+      "ChoiceDataList": [
+        "はい！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "毎日深夜まで走り込みをさせているとか、\r\n石の上に3日間座らせているとか、\n逆立ちでコースを1周させているとか……。",
+      "ChoiceDataList": [
+        "そ、そんな事実はありません！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "しかし既に告発記事が上がっているんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "ですから、その記事はでたらめだと\r\n先ほどから説明しておりますが……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者C",
+      "Text": "本当に事実ではないのでしょうか？\r\nトレセン学園全体の信頼に関わることですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "制止、制止ーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "断固ッ！\u3000まずは否定させていただきたいっ！\r\n愛すべきウマ娘を苦しめるような者は\nわが校には絶無ッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "そしてっ！\u3000追って正式に今回の件について\r\n学園側から声明を行う所存ッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "メディア諸君においては、何卒ッ！\r\n今はグッとこらえて待機を要望ッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "……わかりました。\r\n次は必ずインタビューさせてください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "秋川理事長の鶴のひと声で\r\n記者たちは不満そうにしながらも\nなんとか去っていった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、対策会議中の理事長室にやってきた\r\n乙名史記者によると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……というわけで、より多数のメディアへ\r\n協力を求めることに注力しすぎた結果、\n質の精査が追いついていなかったのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "結果、捏造記事が出回ってしまったせいで\r\n<username>トレーナーに\nあらぬ疑いが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "大変、申し訳ございません……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "赦免ッ！\r\n乙名史君1人の責任ではないっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "そうです、\r\n元はと言えば変な記事を書く人が\n1番悪いんですから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "うむっ！\r\nしかし、こうも話が大きくなっては\n事態の収束は困難……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "1度広まってしまった誤解を\r\n完全に消すのは難しいですからね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "うむ。学園側としては、\r\n生徒たちの安全確保が急務ッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "となれば、やはり1度\r\nメディアへの取材許可を停止すべきか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……！\r\nお、お待ちくださいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "今回のことは言い訳のしようもありません。\r\nただただ私の力が及ばなかったことが\n原因です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "しかし、トレセン学園の協力なくして\r\n『トゥインクルスタークライマックス』は\n開催できませんっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "無論、協力を全て打ち切ることはない！\r\nただ今は報道の規模を縮小し、\n世論が落ち着くのを――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "世論が落ち着くということは\r\n世間から忘れ去られるということです！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "むう……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "もちろん捏造記事を書いた記者もメディアも\r\n今後一切レースには関わらせません！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "勝手なお願いなのは承知していますが……！\r\nどうか、これまで通り\n報道を続けさせてくださいませんか！！",
+      "ChoiceDataList": [
+        "どうしてそこまで……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "『トゥインクルスタークライマックス』の\r\n盛り上がりを落としたくないのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……この新レースは、\r\n『最強』と呼ぶべき実力を持つ\nウマ娘のためのレースです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "運命のいたずらで『最強』の称号は逃した、\r\nしかし確かな実力はある……そんなウマ娘も\n最高の栄誉を手にすることができる……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "だからこそ、彼女たちが勝利を掴む瞬間は\r\n最高潮の中であってほしい！\n最高の盛り上がりにしたいのです！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "この事態は私が責任を持って\r\n全力を尽くし収束させます。\nですから、どうか……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……疑問ッ。\r\nならば、乙名史君はどうやって\n事態を収束させるつもりなのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "熱意はよ～く伝わった。\r\nしかしっ！\u3000トレセン学園理事長として\n熱意だけで全てを許可することは困難ッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……私に、\r\n取材を行わせていただきたいのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "取材？\u3000ふむ、困惑ッ……\r\n報道を規制する話から逆に取材とは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "名づけて……\r\n『<username>トレーナー\n密着取材』！",
+      "ChoiceDataList": [
+        "み、密着取材！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "はい！\u3000毎日取材をすることで、\r\nその素晴らしいトレーニングの様子を\n世界に発信できます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "そうすれば、無茶なトレーニングなどの\r\n問題行為を行っていないという\n証拠になるのでは……と！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "なおかつ、宣伝として扱うことも可能！\r\n考えたな……素直に称賛ッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "担当するのが乙名史記者なら、\r\nトレーナーさんたちのご負担も少ないのでは\nないでしょうか。",
+      "ChoiceDataList": [
+        "そうですね……あれだけ知識があれば……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "ただ、その……\r\n乙名史記者、今は新レースの準備で\nとても忙しいのではありませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "もし途中で来られなくなって、\r\n他の記者に担当が代わったりするのは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "いえ、何があっても私が取材します。\r\nたとえ全身の骨が砕けても、這ってでも！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "それが、責任を取るということだと\r\n思いますので……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "全身の骨が砕けたら\r\nさすがに病院に行ってほしいですが……\nどうしましょう、理事長？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "うむ。そうだな……\r\nトレセン学園側の責任は\n当然わたしが負うとして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "質問ッ！\u3000<username>トレーナー、\r\n君はどうしたい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "これを決定できるのは、\r\n<chrname>のパートナーである\n君だけだとわたしは確信ッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "一瞬、言葉に詰まる。\r\n安定したトレーニング環境と観衆からの応援、\nどちらが<chrname>のためになる？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "確かに、乙名史記者の知識は武器になる。\r\nしかし、本当に彼女を信じていいものか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……どうか……\r\nもう少しだけ、夢を追わせてください……！",
+      "ChoiceDataList": [
+        "……俺は――",
+        "……私は――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "おはようございます！\r\n本日からの密着取材、\nどうぞよろしくお願いいたします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……本当に、許可をいただけるとは。\r\n正直、少し驚いております。",
+      "ChoiceDataList": [
+        "誰の夢も閉ざしたくなかったので"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "え？\r\n夢……ですか？",
+      "ChoiceDataList": [
+        "いえ。よろしくお願いします！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "は、はい！\r\nなるべく邪魔にならないように\n尽力いたします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "乙名史記者の夢が何なのかはまだわからない。\r\nしかし夢を追いたいと願った彼女を\n否定することは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>と\r\n一緒に追うと誓った夢にも\n背を向けることのような気がしたのだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……こうして、乙名史記者の\r\n密着取材を受ける日々が始まった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

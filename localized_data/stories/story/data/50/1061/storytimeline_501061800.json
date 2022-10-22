@@ -1,0 +1,311 @@
+{
+  "Title": "応援行脚",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ラーメン屋からキングヘイローの声が\r\n聞こえた気がして中を覗いてみたところ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "ふれぇー！\u3000ふれぇー！\u3000ス\u3000ペ\u3000さん！\r\nふれぇーーーーーっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "ぷはぁっ！\u3000ごちそうさまでした！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラーメン屋の店主",
+      "Text": "おめでとうございます！\r\n爆盛りチャレンジ成功ですっ！！",
+      "ChoiceDataList": [
+        "これは……どういう状況？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "ファン感謝祭の応援、なまら熱かったです！\r\nちょっと泣いちゃいましたよ……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エルコンドルパサー",
+      "Text": "スィー！\u3000手に汗握る大迫力のかけ声……！\r\nあんな応援、1度はされてみたいものデス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "うふふっ！\r\nまあ、それほどでもあるのだけれど！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "そうね！\u3000ここはキングが一肌脱いで、\r\nみんなも応援してあげるわ！\u3000感謝なさい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セイウンスカイ",
+      "Text": "……んん？\u3000私たちも？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……と、いう事があったらしく。\r\nキングヘイローは彼女たちを\n応援して回る事にしたのだという。",
+      "ChoiceDataList": [
+        "衣装まで着てくるとは、気合い入ってるな",
+        "衣装まで着てくるとは、気合い入ってるね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "当然でしょ！\u3000キングが応援をするからには、\r\n一流の応援でなければならないのよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "これは、このキングが！\r\n応援のためにデザインした衣装なの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "一流の応援をするには、必要不可欠なのよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "ほら、次に行くわよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "いつの間にか同行することになっていたが……\r\nいずれにせよ心配なので\n言われた通りについて行くことにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "ふれぇー！\u3000ふれぇー！\u3000ス\u3000カ\u3000イ\u3000さん！\r\n頑張れ！\u3000頑張――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セイウンスカイ",
+      "Text": "あ……ちょいと、あの大きな岩に向かって\r\n応援する感じで頼めます？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "え、あの岩に……？\r\nいいけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "頑張れ！\u3000頑張れ！\u3000ス\u3000カ\u3000イ\u3000さん！\r\nふれぇー！\u3000ふれぇー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エルコンドルパサー",
+      "Text": "キング、来ましたねー！\r\nさあ、エルと一緒に、\nマンボを応援してくださいデース！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "マンボ？\u3000え、誰？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エルコンドルパサー",
+      "Text": "マンボー！\u3000次こそサマーソルト、\r\n決めてくださいデース！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "え、えっと……誰だかわからないけど！\r\n頑張れ！\u3000頑張れ！\u3000マ\u3000ン\u3000ボ\u3000！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "グラスワンダー",
+      "Text": "場を弁えた応援……心遣い、感謝します。",
+      "ChoiceDataList": [
+        "（音を立てずに応援してる……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "グラスワンダー",
+      "Text": "そうですね……では、今日生ける花は\r\nその応援をイメージして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "はぁはぁ……応援のために\r\n出向いて回るというのも、なかなか大変ね。",
+      "ChoiceDataList": [
+        "お疲れ様"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "このくらいなんともないわ！\r\nお茶の子さいさいよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "それより、最高だったでしょう、\r\nキングの一流の応援！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "キングヘイローは自信満々だが、\r\n応援したのは岩や花などだった気も……。\n上手く伝わっているといいのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エルコンドルパサー",
+      "Text": "とっても感謝してますデース！\r\nあの応援のテンポが気に入ったみたいで、\nコツをつかんだようなのデス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "グラスワンダー",
+      "Text": "新しい視点で花を生けることができました。\r\nまたお願いしてもいいでしょうか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セイウンスカイ",
+      "Text": "岩場の魚も出てくるし。愉快だし。\r\nまあ、たまには賑やかなのも悪くないね～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "私も！\u3000キングちゃんの応援のおかげで\r\nすごいペースで麺が進んで……！\n爆盛りラーメンをクリアできましたっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "キングちゃんも困った事があったら言ってね！\r\n私たちもキングちゃんのために応援するべ！",
+      "ChoiceDataList": [
+        "やったな、大成功だ！",
+        "やったね、大成功！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "！\u3000……ふ、ふんっ！\r\nキングは常に完璧だから、いらぬ気づかいよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "でも、キングの偉大さに気づいたことは\r\n褒めてあげるっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "また応援が必要な時は言いなさい。\r\n気が向けば、応援してあげない事もないわよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セイウンスカイ",
+      "Text": "真っ赤な顔でよく言うね～♪\r\nあ、これが照れ隠しってやつか～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "ふんっ！\u3000おあいにくさま、\r\nそのからかいには乗らないわよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "キングはね、\r\n自分の偉大さを改めてかみしめていただけよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "おーほっほっほっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう言いつつ、とても嬉しそうな\r\nキングヘイローなのであった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "これは……夕陽のせいでそう見えるだけよ。\r\n私にとってはこの程度当たり前なんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女がそう言うなら、頬の赤さは\r\n夕陽のせいということにしておこう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "おばか！\u3000照れてなんかいないわ！\r\n私は感動し――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セイウンスカイ",
+      "Text": "あ、そっちか～っ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キングヘイロー",
+      "Text": "違う違う違う！\u3000何も言ってない！\r\nちょっと、あなたたちも何を笑ってるの！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "相変わらず、素直ではない\r\nキングヘイローなのであった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

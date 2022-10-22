@@ -1,0 +1,282 @@
+{
+  "Title": "Search or Mommy",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日、図書室へやって来ると\r\nスーパークリークを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "あら、奇遇ですね～。\r\nトレーナーさんも本をお探しですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "私も参考書を探しているところなんです。\r\n世界史と古文の宿題が出ていまして。",
+      "ChoiceDataList": [
+        "いい本は見つかった？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "それが……種類がたくさんあって\r\n目移りしちゃってるんですよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あ、あのっ……よければ、\r\n一緒に探させてください……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "あら～、ロブロイちゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "急にすみません。\r\nお話が聞こえてしまったもので……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "そんなことないです～！\r\n手伝ってくれるなら、すごく助かります♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "は、はい！\u3000あの、図書委員として\r\nぴったりな1冊を探してみせます……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "早速ですがクリークさん。\r\nこの参考書、おすすめできそうです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "関連用語の注釈が多いし、図解も\r\n豊富で読みやすさが抜群だと思います……！\nユーモラスな豆知識も載っていて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "あら、とってもよさそうですね～。\r\n本の魅力がいっぱい伝わってきました♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "……あっ、す、すみません！\r\nまくし立ててしまって……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ふふっ、気にしなくても大丈夫ですよ？\r\n夢中になるのは素敵なことです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "大好きなことに自信を持って、これからも\r\n誇れる長所として伸ばしていきましょうね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "あ、ありがとうございます……嬉しいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "私もロブロイちゃんのオススメする参考書で\r\n勉強したいです。さあ、本を探しましょう♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "はい……！\u3000他にも心当たりの本があるので\r\n読み比べをしてみましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして2人は、参考書探しを\r\n続けていたのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "……あら？\u3000これは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "ふふっ……『それでも、大きなにんじんは\r\n抜けません。さあ、みんなで力を合わせて』",
+      "ChoiceDataList": [
+        "にんじん……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "えっと、それは……絵本ですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "あっ、ごめんなさい！\u3000子どもたちが\r\n喜んでくれそうな絵本だなって、つい～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "たしかに面白そうな絵本ですね。\r\n子どもたちの笑顔……私にも想像できます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "……でも、いまはガマンします！\r\n今日は参考書を探しに来てるんですからっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "えーっと、世界史……世界史……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "……あら？\u3000あらあら、まあ～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "見てください～。ロブロイちゃんに\r\nぴったりな絵本を見つけちゃいました～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "えっ、私にですか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "悪い竜を退治する英雄のお話ですって♪\r\nと～っても楽しそうよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "それは新しく入荷したばかりの……！？\r\nまだ読めていないのですが、たぶん……\nいえ絶対に好きな物語です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "うふふっ、やっぱり好きなんですね。\r\nたっぷり読み聞かせてあげますよ～♪",
+      "ChoiceDataList": [
+        "参考書を探さないと！",
+        "読み聞かせ……聞きたいなぁ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "そ、そうでした……！\r\n私ったら何度もごめんなさい～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "わ、私もつい、興奮してしまって……。\r\nちゃんと探さないと、ですよね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "えっと、古文……古文は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "あら……『親分ブタと“子分”のオオカミ』\r\nですって。これも読み聞かせにいいかも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "それは“こぶん”違いかと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "はっ、ごめんなさい～！\r\nもう、私ったら～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "湧き出る母性と戦いながら、参考書を\r\n探すスーパークリークだった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "もちろんトレーナーさんにも\r\n読んであげますからね。始めますよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "『むかし、むかし……やまにすむ\r\nわる～いりゅうが、むらをおそって\nみんなをこまらせていました……』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "クリークさんの声……落ち着きます。\r\nなんだか、力が……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スーパークリーク",
+      "Text": "うふふ、寝ちゃっても大丈夫ですよ～。\r\nよしよ～し♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、読み聞かせでスッキリした\r\nスーパークリークは参考書探しを\n再開したのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

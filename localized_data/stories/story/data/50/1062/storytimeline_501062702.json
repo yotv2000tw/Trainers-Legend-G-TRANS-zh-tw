@@ -1,0 +1,296 @@
+{
+  "Title": "私だってやる時は……！？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "マチカネタンホイザと\r\nお出かけしていた時のこと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "あっ、ブルボンさんとライスさんだ。\r\nこんにちは～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "こんにちは、タンホイザさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "こ、こんにちは……奇遇だね。\r\n2人ともお出かけ、かな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "はい、息抜きも大事ですからね～。\r\nそういうお2人も、お出かけですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "うん……ブルボンさんが、\r\nバブリーランドにいこうって。\n招待券を持ってきてくれたんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ミッション1『懸賞への当選』に成功。\r\nミッション2『ライスさんを\nバブリーランドへご招待』を遂行中です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "あ、ありがと……ライスに優しくしてくれて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "ライスさんより『感謝』の意を確認。\r\n反応を検索…………どういたしまして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "う、うん……！\r\nそれじゃあ、タンホイザさんまたね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "えへへっ、2人とも仲良しですね。\r\nいいなぁ、楽しそうだな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "そうだっ！\r\n私たちも行きましょ、バブリーランド！\nだって仲良しですもん！",
+      "ChoiceDataList": [
+        "いいよ、行こう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "やったぁ！\u3000それじゃあ、\r\nバブリーランドにゴーゴー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "わぁ、すっごく賑やかですね～。\r\nなのに、なのに私ったら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "水着を忘れるなんてぇ～！\r\nうぅっ……私のバブリ～～っ！",
+      "ChoiceDataList": [
+        "買ってこようか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "水着だけじゃなくて、フワフワ扇子まで\r\nありがとうございま～すっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ワッホゥ♪\r\nバブリー最高ですね～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "もうすぐパレードの時間かぁ……。\r\nぜったい見たい、見たい……けど……\n踊りすぎて眠気が～――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "むにゃむにゃ……くぅ～～。",
+      "ChoiceDataList": [
+        "パレードは動画に録っておこう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ぜぇ……ぜぇ……やっと着きました！\r\n高いですね～、ウォータースライダー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "大変だった分、楽しんじゃいま……\r\nあれ、鼻がムズっと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "は、鼻血出るかもーっ！？",
+      "ChoiceDataList": [
+        "降りて休もう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "マチカネタンホイザとの賑やかな時間が\r\nあっという間に過ぎていった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "いやぁ～、バブリーランドって\r\n楽しいですねぇ。来てよかった～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "あれ？\u3000あそこにいる2人って……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "サーチ……サーチ……。\r\nライスさんの接近を確認。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "お、お待たせ……！\r\nあのね、その――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "迷惑じゃなかったら……これ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "偶発的な事象に体温、心拍数ともに上昇。\r\n……実は私もライスさんに、と\nドリンクを買っています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "えっ、ブルボンさんも？\r\nライスなんかのために……あ、ありがと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "喜んで頂けたようで、なによりです。\r\n……ミッションコンプリートしました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ライスシャワー",
+      "Text": "うん……ライスも。\r\n……ふふっ、一緒だね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "2人とも、互いを想い合って……\r\nナイスリスペクトですね～、うんうん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "私も見習って、気遣いの心を\r\n忘れないように――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……んん？\u3000けど私って、\r\nいつもトレーナーには\nお世話になりっぱなしのような……！？",
+      "ChoiceDataList": [
+        "気にしなくていいよ",
+        "レースの結果で返してほしい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "気にしますよ～！\r\nこういうのは持ちつ持たれつなんで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "よーし、私も美味しいもの買ってきます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "あれっ！？\u3000すごい混んで……\r\nな、流される～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "わわ～～ん！\u3000どこ向かってるの～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "マチカネタンホイザを救出し、\r\n2人でヘトヘトになるのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "はいっ、おまかせあれです！\r\nばんばか勝ちますよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "ええっと、そしたらトレーニングの\r\n質を上げてぇ……どうやって？",
+      "ChoiceDataList": [
+        "考えておくよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "おお！\u3000じゃあどんなレースを走りましょう？\r\n日程とかも考えないと……うぅ～ん。",
+      "ChoiceDataList": [
+        "スケジュールを組んでおくよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……って、これだとまた\r\nお世話になりっぱなしですよぉ～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうすればお返しできるか、頭を悩ませる\r\nマチカネタンホイザだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

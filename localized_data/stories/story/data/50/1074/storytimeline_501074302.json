@@ -1,0 +1,432 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "夕暮れ時。メジロブライトとのんびり\r\n町を散策していると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あら～、なんでしょう？\r\n前のほうに人が集まっていますわ。\nなにか、式でも開かれていそうな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、楽しい楽しい福引だよ！\r\nそこの物静かなお嬢さん、\nやっていかないかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まあ、わたくしが引いてもよろしいの\r\nでしょうか？\u3000では、ありがたく～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "……でもトレーナーさま、福引を楽しむには\r\n券が必要なのではないでしょうか？",
+      "ChoiceDataList": [
+        "補助券がちょうど5枚ある",
+        "補助券がちょうど5枚あるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "わぁ～、さすがですね～。\r\nでは、5回も引けるということですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……1回しか引けない。\r\nが、それで我慢してもらうことにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "それではトレーナーさま。\r\nこの小さな観覧車を、ともに回しましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "そ～れ～、ぐ～る～ぐ～る～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "超スローペースで抽選器を回す。\r\nその結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なんとっ！\u3000おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "…………ほわぁ～、なんだか……\r\nすごいことが起きてしまいました～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まさか温泉をいただけるなんて……。\r\nわたくし、自分の温泉は持っていないので、\nメジロ家のを使っていましたのよ～。",
+      "ChoiceDataList": [
+        "温泉じゃなくて、温泉旅行券な",
+        "温泉じゃなくて、温泉旅行券ね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "さすがに特賞でも温泉そのものはもらえない。\r\nでも、これ以上ない大きな景品を手に入れた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "温泉旅行～♪\u3000せっかくいただけたの\r\nですから、なるべく早いうちに\n行きたいですわね～、トレーナーさま。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "帰ったら準備を始めて……ええと～、\r\nそうですね、出立できるのは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "来年の初頭ぐらいでしょうか～？",
+      "ChoiceDataList": [
+        "か、かなり遅いな……",
+        "か、かなり遅いね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "そうでしょうか～？\u3000でもレースでしっかり\r\n成績を残しながら、旅行のプランを立てると、\nそのくらいになってしまいそうな～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "両立させるなら、1年はかかる。それが\r\nメジロブライトなりの速度感のようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あの～1年後……ご予定はいかがでしょうか、\r\nトレーナーさま？",
+      "ChoiceDataList": [
+        "わからないけど、OK！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まあ、よかった。\r\nそれではご一緒に参りましょう～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "その日まで、券は預かっておいて\r\nいただけると嬉しいです～。来年は温泉で、\nほわほわ～っと温まりたいですわね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "先々にすごい楽しみができた。温泉旅行を\r\n夢見るメジロブライトの表情は、すでに\nほわほわだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まあ、美味しそう～。\r\nとっても大きなハンバーグですのね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "トレーナーさま、もしよろしければ、\r\n焼くのはわたくしにお任せ願えない\nでしょうか～？",
+      "ChoiceDataList": [
+        "できる……？",
+        "できるの……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "はい～、こういうのはじっくり時間をかけて\r\n焼かなければ、火が通りませんので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "むしろ、わたくしのような性格のほうが、\r\n調理に向いているかと～。",
+      "ChoiceDataList": [
+        "どんなふうに料理する気？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "そうですね～。軽くフライパンを熱した後は、\r\n弱火でじっくりと～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "……2時間ほど♪",
+      "ChoiceDataList": [
+        "焦げる焦げる！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "まあ、そうでしょうか？\r\n加減も難しいのですね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……調理役はこっちが引き受けることにする。\r\nトレセン学園に帰った後、メジロブライトは\nふんわり焼けたハンバーグを堪能した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "2等賞～！！\n賞品は『にんじん山盛り』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あらあら～、こんなにいただけるなんて。\r\n皮むきが大変そう～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "でもトレーナーさま、わたくし、以前に\r\n大根の皮をむいた時、とっても上手に\nできましたのよ？",
+      "ChoiceDataList": [
+        "へー、得意なんだな？",
+        "へー、得意なんだね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "得意～というわけではないのですけれど、\r\nていねいに薄ーくむいていったら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "そのうち実もなくなって、1枚の長い皮に\r\nなってしまいました～。",
+      "ChoiceDataList": [
+        "高等技術すぎる……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "速度こそ遅いが、不器用というわけでは\r\nないようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "もしお望みでしたら、このにんじんも全部\r\n1枚に……。",
+      "ChoiceDataList": [
+        "いや、普通に食べよう",
+        "ううん、普通に食べようよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "桂剥きを極めても仕方ない。\r\n2人で普通に煮込んで食べた。\nその身はとても甘くて美味しかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "3等賞～！\n賞品は『にんじん1本』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "1本……。すみません～、わたくしのせいで、\r\nあまりいいものが当たりませんでしたわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "少しですので、すぐに食べてしまいたい気も\r\nしますけれど～。",
+      "ChoiceDataList": [
+        "じゃあ歩きながら食べる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "それがその～、わたくし、食べ歩きと\r\nいうものがあまり得意ではなくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "歩きながら食べるのができないのです～。\r\nつい立ち止まってしまって……。",
+      "ChoiceDataList": [
+        "じゃあ、その辺で食べようか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あ、ここならばいいですね～。\r\n2人で夕日を眺めながら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "半分こしましょう、トレーナーさま。\r\nお日さまもにんじん色ですね～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "夕景を眺めながら、2人で食べる。\r\nほのぼのとした甘みを楽しんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "はわぁ……ティッシュですか～。たくさん\r\nいただけるのなら、まだしも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "1つだけでは、すぐ使い切ってしまいますわ。\r\nトレーナーさま、もう少しほしいのでは？",
+      "ChoiceDataList": [
+        "まあ、確かに……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "それではお詫びとして、今度メジロから\r\nお送りさせていただきますね。",
+      "ChoiceDataList": [
+        "ありがとう、助かる",
+        "ありがとう、助かるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "トラック1台分ほど～。",
+      "ChoiceDataList": [
+        "多すぎる！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "そうですか～。そのくらいさせて\r\nいただかないと埋め合わせにならないと\n思ったのですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "申し訳なさそうに目を伏せている。なんとも\r\n寂しい結果に終わってしまった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

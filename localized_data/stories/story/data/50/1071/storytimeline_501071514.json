@@ -1,0 +1,326 @@
+{
+  "Title": "ガラスのワルツ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "学園主催のボランティア劇に出演する\nメジロアルダンとヤエノムテキは、\n訪問先の病院にいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "松葉杖の女の子",
+      "Text": "わーっ！\u3000お姉ちゃん、\r\n今日の劇でシンデレラになるの！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "松葉杖の女の子",
+      "Text": "私ね、今はできなくなっちゃったけど……\n踊るの好きなの！\u3000シンデレラのダンス、\nとっても楽しみにしてるね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……そう。ええ、期待していてください。\r\n私も頑張って演じますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "演出担当のウマ娘",
+      "Text": "アルダンさーん、\nそろそろ準備お願いしますー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "演出担当のウマ娘",
+      "Text": "うんうん……美しく、凛々しい。\nお2人の雰囲気、やはり\nシンデレラと王子にピッタリです！",
+      "ChoiceDataList": [
+        "ああ、2人とも決まってるぞ！",
+        "うん、2人とも素敵だよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "演出担当のウマ娘",
+      "Text": "うんうん……そうだ、アルダンさん。\r\nガラスの靴は出番直前に履くように\nしてくださいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "承知しております。\r\nなにかの拍子で砕いてしまっては\nことですものね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロアルダンは足元に置かれた\r\nガラスの靴をじっと見つめている。",
+      "ChoiceDataList": [
+        "……本当に大丈夫？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "演出担当のウマ娘",
+      "Text": "大丈夫ですよ～！\u3000前も説明しましたけど、\nシンデレラがガラスの靴を履いてるシーンは\nほとんど動かないように調整してるので！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "演出担当のウマ娘",
+      "Text": "例えば舞踏会のシーンなんかは\n王子様にダンスを申し込まれたシンデレラが\n誇り高くビシッと断る！\u3000みたいな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "演出担当のウマ娘",
+      "Text": "ダンスも削るしかなかったのは\nちょっと残念ですけど……\n演者さんにケガさせるわけにはいきませんし！",
+      "ChoiceDataList": [
+        "ならいいけど……無理はしないようにな",
+        "ならいいけど……無理はしないようにね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……お任せください。\nガラスの靴を履いての舞台であろうとも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "壊れぬよう振る舞うことにかけて、\n私以上の適任はおりませんから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "舞台は順調に進んでいき……\nやがて、舞踏会のシーンに差し掛かった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "『私と踊ってくださいますか、\n愛らしい貴方』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "『……ええ、喜んで』",
+      "ChoiceDataList": [
+        "ダンスを受けた……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――シンデレラは軽やかに踊った。\n優雅に微笑んだまま、\nいつ砕けるとも知れぬガラスの靴で。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "演出担当のウマ娘",
+      "Text": "すごい。あんなふうに……\n脚に力を入れずにふわふわ踊るのって、\n本当は大変なはずなんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "演出担当のウマ娘",
+      "Text": "それこそ、歯を食いしばるくらい……\nなのに、あんな綺麗な笑顔で。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "松葉杖の女の子",
+      "Text": "わあ、お姉ちゃんのダンス\nほんとにすっごく……\nすっごく、キレイ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "松葉杖の女の子",
+      "Text": "わたしも、また踊れるかな。\n踊りたいなぁ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "アルダンさん、これ以上は……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……失礼、姫君！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヤエノムテキが咄嗟に機転を利かせ、\r\nメジロアルダンを抱き上げてくれたおかげで\nガラスの靴は砕けることなく幕は閉じた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……スタッフのみなさん、ヤエノさん、\nそしてトレーナーさん。\n勝手なことをして申し訳ありませんでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "演出担当のウマ娘",
+      "Text": "あ、いえいえ！\u3000私的には\nケガもなかったし、舞台が盛り上がって\nよかった……とは思いますが……。",
+      "ChoiceDataList": [
+        "……どうして踊ろうと思ったんだ？",
+        "……どうして踊ろうと思ったの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "病床から動けぬ子どもたちに……\n希望を、見せたかったのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "壊れそうな靴を抱えて\n諦め……縮こまっている少女ではなく、\n踏み出す勇気を見せてあげたかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "それが……\n今の私にできる、精一杯だと思いました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……そうですね。\n本番中のアルダンさんから感じた闘気……\nあれは、レース中の貴方と同じものでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "美しく、気高く、何より烈しい。\nだから私も……その『精一杯』を、\nなんとか受け止めたいと思ったのです。",
+      "ChoiceDataList": [
+        "確かに、輝くようなダンスだった",
+        "次からは相談もしてほしい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……！\nそう、仰ってくださるのですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "すみません。\n呆れられても仕方のないような足掻きだと\n思っておりましたので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "そんなふうに……見えていましたか、\r\n私は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "松葉杖の女の子",
+      "Text": "はぁっはぁっ……お姉ちゃん、いた！\r\nシンデレラのダンス、すごかったよっ！\nだから、お礼……言いたかったの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "貴方……病室から、わざわざ見送りに？\nふふ、私も人のことは言えませんが、\n無茶をなさいますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ありがとうございます。\n貴方が再び立ち上がる一助にでもなれたなら、\n私は満足ですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……どうやら、踏み出す勇気と元気は\nしっかり与えることができたようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "しかしやはり無茶をされるのは心配なので、\n後でもう一回釘を刺しておこう……\nそう強く決意したのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……はい。",
+      "ChoiceDataList": [
+        "一緒に考えることだってできる"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "！\u3000トレーナーさん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "申し訳、ありません……そうですね。\n貴方なら、そう言ってくださる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "否定されると決めつけず、\n事前に相談するべきだったのに。\n……私は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ごめんなさい……\nそして、……ありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……もし、次があるのなら……\n私と、一緒に考えてください。\nきっと、1番に相談いたしますから。",
+      "ChoiceDataList": [
+        "ああ、任せて",
+        "うん、任せて"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自分のミスを認め、謝ることができる\n冷静なメジロアルダン。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして滾る熱意のままに踏み出した\n向こう見ずなメジロアルダン……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "この思慮深さと烈しさが彼女の弱点であり、\n魅力でもあるのかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

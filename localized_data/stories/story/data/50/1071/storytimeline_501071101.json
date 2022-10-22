@@ -1,0 +1,637 @@
+{
+  "Title": "新年の抱負",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ジュニア級を走り抜け、迎えた新年。\nクラシック級の幕開けとなる今年、\nメジロアルダンはというと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ジュニア級",
+        "クラシック級"
+      ]
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『――トゥインクル・シリーズトレンド速報、\n続いて紹介するのはこちらの方！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『新進気鋭のメジロ家の令嬢、\nメジロアルダンさん～！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『昨年デビューされたメジロアルダンさん、\nメジロ家のウマ娘というだけでなく、なんと\nあのメジロラモーヌさんの妹なのです！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "メジロラモーヌ"
+      ]
+    },
+    {
+      "Name": "アナウンサーB",
+      "Text": "『いや～、生ける伝説と化した姉がいると、\n走る際のプレッシャーもなかなかでしょうね。\n姉に続く活躍を夢見るファンも多いのでは？』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アナウンサーA",
+      "Text": "『そうなんです。SNS上でも\nメジロラモーヌさんの戦績にどれほど\n近づけるかと注目が集まっており――』",
+      "ChoiceDataList": [
+        "（『近づけるか』、か……）",
+        "（『近づけるか』、ね……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――――失礼します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "トレーナーさん。\nあけましておめでとうございます。",
+      "ChoiceDataList": [
+        "あけましておめでとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "本年もどうぞ、よろしくお願いいたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……テレビをご覧になられていたのですね。\nこれは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テレビの音声",
+      "Text": "『――まぁ、厳しいでしょうね。\nなにせ史上初のトリプルティアラですから。\nそれに並ぶとなると、並大抵では――』",
+      "ChoiceDataList": [
+        "ごめん。今消すよ",
+        "ごめん。今消すね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ、お気遣いなく。\n姉様と比較されることは慣れていますし、\nああいったお言葉も想定内です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……私の光跡が姉様に遠く\n及んでいないことも、事実ですしね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "とはいえ……\nその事実に甘んじるつもりはございません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "これよりの道行きで、\n私自身の光跡をみなさまに刻めるよう、\nまい進する所存です。",
+      "ChoiceDataList": [
+        "アルダン……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……ジュニア級はトレーナーさんのおかげで、\n着実に“今”を積み上げることができました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "誰になんと言われようと、\n私は今日までの道行きを誇りに思っています。\nですので――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "トレーナーさんも、\nあまり気になさらないでください。",
+      "ChoiceDataList": [
+        "……わかった、ありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……あの、それでと言ってはなんですが、\n私から少しよいでしょうか？",
+      "ChoiceDataList": [
+        "どうかした？",
+        "どうかしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "私の――いえ、私たちの\r\nクラシック級での道行きについて、\nお伝えしておきたいことがあります。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……クラシック級で、\n挑戦したいことがあります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ただそれは……少し、先の話です。\n口にするには、まだ少々おこがましいかと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "なので春のクラシック戦線が間近に迫る頃……\n私がGⅠで戦うための体作りと経験を積む\n『武者修行』を完遂し、なお健在であれば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "GⅠ"
+      ]
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "そこでご相談させていただけないでしょうか。",
+      "ChoiceDataList": [
+        "……“今”ではないんだな",
+        "……“今”ではないんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……はい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "やはり……変でしたか？\nいつも“今”か“今”かと言っていたのに、\n急に少し先のことを話すだなんて――",
+      "ChoiceDataList": [
+        "いや、逆だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロアルダンの刹那にかける覚悟の重みは、\r\n彼女の長所であり、強さだ。\nそれは自分もよくわかっている。だが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女が少しだけ“未来”に目を向け、\nそれを言葉にしてくれたことが、\nどこか嬉しく感じられる自分がいた。",
+      "ChoiceDataList": [
+        "いつか相談されるのが、楽しみだ",
+        "いつか相談されるのが、楽しみだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……そう言っていただけて、嬉しいです。\n引き続き、よろしくお願いいたしますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、メジロアルダンと今後の\r\nトレーニング内容について確認し終えて、\nひと息ついたところで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "トレーナーさん。\nこの後、お時間は空いていますか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "よければ少し、\nお願いしたいことがありまして……。",
+      "ChoiceDataList": [
+        "空いているけど、どうかしたのか？",
+        "空いているけど、どうかしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "せっかくこうして年始に顔を合わせたのです。\nなにか一緒に、年始らしいことをしませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "普段、年始はメジロの子たちと過ごして\r\nいるのですが、今年は少し気持ちを\n切り替えたいと思いまして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "トレーナーさんさえ\nよろしければなのですが……\nいかがでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "少々意外な提案だったが、彼女の\n息抜きにはちょうどよいかもしれない。\n年始らしいことで思いついたのは――",
+      "ChoiceDataList": [
+        "福笑い",
+        "お雑煮を食べに行く",
+        "凧揚げ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "まぁ……！\u3000福笑い！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "素敵ですね、ぜひやりましょう！\nトレーナー室に一式があるのですか？",
+      "ChoiceDataList": [
+        "ず、随分嬉しそうだな",
+        "ず、随分嬉しそうだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……恥ずかしながら私、\nなにかと独りで過ごしてばかりだったので、\nあまり人と遊び慣れていないのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "なので……こうして遊びに誘ってもらえると、\nつい嬉しくなってしまって……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ、はしたないでしょうか？",
+      "ChoiceDataList": [
+        "いいと思うよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "いつも落ち着いているメジロアルダンの\r\n意外な一面を見られたようで、\nこちらとしても嬉しくなった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、トレーナー室にあった\nレクリエーション用の福笑いセットを\n引っ張り出し――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "これは……鼻でしょうか？\nとなるとここにきて……\nえっと、目の位置は……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "…………よし。できました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロアルダンが作り上げた顔は、\n元の顔と比べるとかなり……\n独創的なものに変わってしまっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "っ、く、ふふっ……！\n全然違っていますね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "なかなかどうして、難しいものですね。\n次はトレーナーさんの番ですよ。",
+      "ChoiceDataList": [
+        "負けないぞ",
+        "負けないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "お手並み拝見いたします……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そうして時に笑いを交えながら、\nメジロアルダンと楽しく年始を\n過ごしたのだった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "元旦は過ぎていますが、\n年始らしくてとてもよいですね。\n私も好きです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "年始は学園のカフェテリアにて期間限定で\r\n多彩なお雑煮が出されていたはずだ。\nそれを食べるのがよいかと思ったが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――あの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "よろしければ、そのお雑煮……\n私に作らせてもらえませんか？",
+      "ChoiceDataList": [
+        "えっ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "日頃のお礼も兼ねて、当家流のお雑煮を\nトレーナーさんに振る舞えたら、\nと思いまして……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ばあやから手ほどきは受けておりますので、\n食べられないものをお出しするようなことは、\nありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……いかがでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "これまた急な提案で少々驚いたが、\nメジロアルダンが“今”やりたいことは\n彼女のトレーナーとして無視できない……。",
+      "ChoiceDataList": [
+        "じゃあ、お言葉に甘えようかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……！\u3000ありがとうございます。\nそれでは、材料を用意しましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、メジロアルダンはカフェテリアで\n材料と調理場を借り――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――お待たせいたしました。\nどうぞ、お召し上がりください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――出されたお雑煮は、具沢山で\r\n出汁と醤油の香りが食欲をそそる一品だった。",
+      "ChoiceDataList": [
+        "いただきます！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "具材も食べやすく綺麗に切られ、\n餅も綺麗に焼かれており、メジロアルダンの\n丁寧な仕事が垣間見える。しかし――",
+      "ChoiceDataList": [
+        "（……ちょっと、味が薄いような？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "決して美味しくないわけではない。\n繊細で、体に優しい感じがする味だ。\nしかし一方で……淡泊にも感じてしまう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……もしかして、薄味でしたか？",
+      "ChoiceDataList": [
+        "いや、そんなことは――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ――\n気を使ってくださらなくて、大丈夫ですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "これに関しては申し訳ありません。\nどうやらまた、私の悪癖が\n出てしまったようです。",
+      "ChoiceDataList": [
+        "悪癖？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "私……料理が何故か薄味になりがちなんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "長く病院にいて、体が吸収しやすい味に\n慣れきったせいなのでしょうか。\n自分が作るものも、その味になってしまい――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "姉様からは以前に、\n『昔食べた病院の食事と似ている』と\nからかわれたこともあったんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……せっかく、トレーナーさんに\n料理を振る舞う機会を得られたのに、\nこれでは台無しですね。",
+      "ChoiceDataList": [
+        "そんなことはないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロアルダンの新たな一面を見られたのだ、\r\nそれだけでこのお雑煮は、自分にとって――",
+      "ChoiceDataList": [
+        "本当に、美味しい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "この味も、彼女が積み重ねてきた\r\n“今”の1つなのだ。\n美味しくないわけがない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……本当に、優しい方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、2人でお雑煮を食べながら、\r\n他愛もない会話に花を咲かせ、\n穏やかな年始を過ごしたのだった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "凧揚げ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "素敵な提案です、ぜひやりましょう！",
+      "ChoiceDataList": [
+        "ず、随分と乗り気だな",
+        "ず、随分と乗り気だね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "実は、その……やったことがないのです。\n凧揚げを。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "幼少の頃は外で遊ぶことがほとんどなくて、\r\n時折遠くの空に揚がる凧に、\n憧れたこともありました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "そうして歳を重ねて、興じる機会もないまま\n今日に至った次第でして――",
+      "ChoiceDataList": [
+        "なら、全力で凧揚げをしよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "……！\u3000はいっ。ぜひに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "レクリエーション用の凧を引っ張り出し、\n学園近くの公園までやってくると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ、なんだかドキドキしてきました。\n上手く揚げられるでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子",
+      "Text": "――ねぇねぇ！\nお姉さんたちも、凧揚げしに来たの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女の子",
+      "Text": "一緒にやろうよ！\nあたしたち、凧揚げすっごく上手いんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "まぁ……！\nお誘いいただきありがとうございます。\n私、凧揚げは初めてでして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子",
+      "Text": "えっ、マジ！？\nじゃあ俺らが教えてあげるよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女の子",
+      "Text": "えっとね、まず凧を持つ人と\n揚げる人を決めて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "――やりました！\u3000トレーナーさん、\r\n私たちの凧が揚がりましたよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子",
+      "Text": "よっしゃー！\u3000俺たちも揚げるぞー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女の子",
+      "Text": "誰が1番高いか、勝負ね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "はいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "子どもたちに混ざり無邪気に凧揚げを楽しむ\r\nメジロアルダンを見て、気持ちが温かくなる\n年始になったのだった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

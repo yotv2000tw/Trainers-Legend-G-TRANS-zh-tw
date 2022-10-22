@@ -1,0 +1,727 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ある日、エアシャカールと偶然街中で会った。\nそのまま学園まで同じ道を歩いていると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、楽しい楽しい福引だよ！\nどなたでもどうぞ～！",
+      "ChoiceDataList": [
+        "おもしろそうだな",
+        "おもしろそうだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "エアシャカールは興味がなさそうだが……\n先ほど買い物をした際に、\n福引券を1枚もらっていた。",
+      "ChoiceDataList": [
+        "回してみる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "なンで。\nお前が勝手にやれよ。",
+      "ChoiceDataList": [
+        "シャカールなら狙ったものを当てられそう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "お前さァ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "福引ってのは、狙ってやるモンじゃねェだろ。\nなにが当たるか期待を楽しむモンじゃねェの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ロマンがねェなァ？",
+      "ChoiceDataList": [
+        "……本気でそう思ってる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "なワケねェだろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "エアシャカールは福引に対して興味は\nなさそうだ。けれど特賞の温泉旅行、\nもし当てることができれば――",
+      "ChoiceDataList": [
+        "（シャカールの息抜きになるかも）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "あのう……\nやるのかい？\u3000やらないのかい？",
+      "ChoiceDataList": [
+        "やります！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おっ。\n狙うはもちろん……！",
+      "ChoiceDataList": [
+        "温泉旅行！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "何万回試行する気だ？\n当たるわけねェっつの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……オラ、回せよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "エアシャカールがほんのり興味深そうに\n見守る中……\n抽選器のレバーを回した！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なんとっ！\u3000おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "お～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "コレは……\n面白い結果になったな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "なァ。この福引、今日までトータルで\n何人来た？\u3000特賞は全体の何パーだ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "あとは来た客の分布、回し方……\nこれまでの傾向、まとめてねェか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "え～と……\nそういうのはわかんねぇや。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "まァ、そうだよなァ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "というかお嬢ちゃん、特賞だけど……\n嬉しくないかな？\u3000温泉だよ、温泉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "行きてェのはソイツだ。\nオレはどうでもイイ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "じゃあ、トレーナーさん！\n楽しんできてな！",
+      "ChoiceDataList": [
+        "あ、はい……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "温泉旅行、狙ってたンだろ。\nもっと喜べよ。",
+      "ChoiceDataList": [
+        "シャカールは温泉好きじゃない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ア？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "温泉自体はどうでもいい。\n温泉旅行となると嫌いだな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "常に人がいる状況がまず無理だし、\nそもそも他人と風呂に入ることに\nなンの意味がある？",
+      "ChoiceDataList": [
+        "普段のお風呂はどうしてるんだ？",
+        "普段のお風呂はどうしてるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "人がいない時間選ンで\nシャワーだけ浴びてる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "入浴が必要なときは入るが。\nやらなくてイイならしたくねェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どうやらエアシャカールは、\nそもそも入浴自体好きではないらしい。\n温泉は喜んでもらえなさそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……つか、なンでンな質問すンだよ。\nお前なりにいつも線引いてンだろ？",
+      "ChoiceDataList": [
+        "気になっただけだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……マジでそうなら、\n着眼点キモすぎっからな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、見事手にした温泉旅行券の\n行き先は一旦不明となった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "1等か。\n狙い、外れて残念だったな。",
+      "ChoiceDataList": [
+        "でも、すごいだろう？",
+        "でも、すごいよね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "まァ、結果としては。\nただそれが欲しかったかどうかだ。",
+      "ChoiceDataList": [
+        "シャカールにあげる"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "いらねェけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "あれ、ウマ娘の子はわりと\nにんじんハンバーグ狙いで来るんだけどね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "へェ～。\nオレは興味ねェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "でもすっっっっごい美味しいよ。\n肉屋、パン屋、八百屋、飲食店……。\nうちの精鋭がプライドもって作ったからね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "だとよ。\nよかったな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "あれっ。\nこれでもそそられないかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "栄養素として必要なら、\n勝手に食う。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "いやっ！\u3000こっちにもプライドがあるんだよ。\nこの景品はウマ娘の子にも\n喜んでもらいたくて作ってる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "お嬢ちゃんの笑顔を見るまでは、\n帰せねぇ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ハ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なぁ、母ちゃん！\u3000いるかー！？\n今すぐここでハンバーグあっためてくれ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "はッ？\nオイ、いらねェンだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その場で特上にんじんハンバーグを\n味わうことになったエアシャカール。\nその結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……うめェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "ぃやったぁ～～！\nだろ、美味いよなぁ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ああ。味のことはよくわかンねェけど、\n悪くねェな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "じゃあ、そのままこうニコッと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "しねェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "と言いつつ、完食した\nエアシャカールだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "2等賞～！！\n賞品は『にんじん山盛り』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……オレンジ色。",
+      "ChoiceDataList": [
+        "オレンジ色だな……",
+        "オレンジ色だね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "栄養たっぷり！\n美味しく食べてくれ。",
+      "ChoiceDataList": [
+        "（学園の子に配ろうかな）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "ところで、配送もできるけど……\nウマ娘の子が一緒だし、サクッと持ち帰るか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "いえ、自分で持ち帰ります"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "は？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "かな～り重いよ。\n大丈夫？",
+      "ChoiceDataList": [
+        "鍛えてますから！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "エアシャカールのトレーニングを考えるとき、\n体で理解するために鍛える場面もある。\n普通の同世代よりは筋力に自信があった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……せめて台車は借りろよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "大量のにんじんを抱えての帰り道。\nエアシャカールのアドバイス通り、\n商店街の方から台車は借りたのだが――",
+      "ChoiceDataList": [
+        "（す…………っごく重い……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "あまりにも歩みがゆっくりになって\nしまっているためか、エアシャカールは\n先に帰ってしまった……。",
+      "ChoiceDataList": [
+        "（自分で言ったんだから、頑張ろう！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "と、少しずつでも歩みを進めていたところ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "あ！\u3000あなたが\n『にんじん配りトレーナーさん』ですか？",
+      "ChoiceDataList": [
+        "にんじん配りトレーナーさん！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "ウマッターで拡散されてるのを見たんです！\n今学園のほうに、にんじんを大量に\n配りたいトレーナーさんが向かっているって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "早めに迎えに行ったら、\nにんじんを多めにもらえるって……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "いただこう。\n……できるだけ多く！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "あ！\u3000私たちも、\nにんじんくださーい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "という感じでウマ娘たちが集まってきて、\nあれよあれよという間に\nにんじんは減っていき……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "学園へ戻る頃には、全てさばききれた。\n元々生徒たちにあげる予定だったので、\n運ぶ負担もなくなりとても助かった。",
+      "ChoiceDataList": [
+        "（拡散してくれたのって……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……明日会ったら、感謝を伝えよう。\nそう考えていたのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "あ！\u3000にんじん配りトレーナーさんだ！\nこんにちは～。",
+      "ChoiceDataList": [
+        "こ、こんにちは……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……ククッ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "しばらく謎のあだ名に悩まされたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "3等賞～！\n賞品は『にんじん1本』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "残念。\n1本だけだってよ。",
+      "ChoiceDataList": [
+        "温泉……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "こンなモンだ。\nさっさと受け取ってこい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……なンかウケンな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "にんじん1本だけ持って、\n途方に暮れる人間の図……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……もしかして今が、エアシャカールを\n楽しませるチャンスかもしれない！\nそう思い、にんじんを剣のように掲げ――",
+      "ChoiceDataList": [
+        "こういうのは！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "いや、そういうのはイイ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "狙ってやンのはマジで冷める。\nさっきのは意図してねェからウケた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "あと媚びを感じンのも無理。\n調子に乗ンな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……その後帰宅して食べたにんじんは、\nとても優しい甘さだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "はずれだとよ。",
+      "ChoiceDataList": [
+        "残念……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "確率的にはこンなモンだろ。",
+      "ChoiceDataList": [
+        "シャカールを温泉に連れていきたかった"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……ハ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……そういうことかよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "別にオレは行きたくもなかったぜ。\nなのに勝手に落ち込ンでンな。ウゼェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "と言いつつ、少し彼女も残念に思って\nくれているような……気がするのは……\n思い込みかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

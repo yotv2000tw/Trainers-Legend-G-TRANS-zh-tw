@@ -1,0 +1,290 @@
+{
+  "Title": "ファンタスティックなお茶会",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ハァイ、トレーナー！\n今日は素敵な招待状があるのよ！\nついてきなさい！",
+      "ChoiceDataList": [
+        "えっ……え！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "レッツ・ゴー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ようこそお越しくださいましたわ、\nパールさん。それからトレーナーさんも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "名門メジロ家のお茶会に来てしまった……！\nこの荘厳な空気感、いきなり飛び込むと\nなると、さすがに緊張してしまう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ハァイ、ドーベル！\n今日はお招きサンクスよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あ、はいっ！\n楽しんでいってくださいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "ふふ、まさかドーベルが\nパールさんを招待してくるなんてね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "うん。この間併走に\n付き合ってもらって……そのお礼っていうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "よくお茶会をやるってドーベルから聞いて、\nぜひ参加してみたいと私からお願いしたのよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "あはは、なるほど！\nドーベルの淹れる紅茶、すごくおいしいので\nぜひ召し上がってくださいね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ン～～デリシャス！\u3000貴方の紅茶、最高よ！\nこの濃厚な味わいは……アッサム？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "お口に合ってよかった……。\n仰る通り、今日はアッサムの\nミルクティーにしてみました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "今回は、茶葉もお菓子もすべて\nドーベルが選んでくれたのですよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "あちらのトリュフなど、ミルク感が\nしっかりあって美味しかったですわよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "あら本当、エクセレントね！\nこっちのフィナンシェもバターが効いてて、\nアッサムのコクとよく合うわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "パーマーはこないだの週末、何してた？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "ゴルフの打ちっぱなしに行ってきたよ。\n飛距離伸ばしたいな～って思ってるんだけど\nなかなか難しくってね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "あら、それならより強く、パワフルに！\nガツーンと打ってみたらどうかしら！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "えっ、パールさん、ゴルフわかんの！？\n私、ドライバーの飛距離を\n伸ばしたいんだけどさ、ちょい相談してい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロパーマーとゴルフの素振りをするため、\n庭に出た。シーキングザパールがゴルフを\nたしなむとは聞いたことがないのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "フェースの向きは安定してきたけど、\nヘッドスピードがなかなか上がんなくて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "スピードアップしたいなら\nフルパワーで振りかぶるのが1番よ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ガッツと瞬発力で――ホームラン！",
+      "ChoiceDataList": [
+        "（ホームラン！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "なるほど……つまりダウンスイング時の\n瞬発力がカギを握るってことか……！\nパワー……つまり腕の筋肉も必要ってことね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "瞬発力を兼ね備えた筋肉を育てたいの？\nなら、拮抗筋を鍛えるのがオススメだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "例えば腕だったら、主動作筋である\n上腕二頭筋と一緒に、拮抗筋である\n上腕三頭筋もセットで鍛える！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "つまり、セットでお得な効果ということね！\nファストフードも単品よりセットの方が\nお得だもの、世の常ね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "そうそう、これはすごく効果的な\n鍛え方なんですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "拮抗筋を鍛えると、筋肉が安定して\n主動作筋の柔軟性も上がるんですよね。\nだから、瞬発力もグンと上がるってわけです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "ン～グレイト！\n筋肉は多大なる可能性を秘めているのね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "そうっ、その通りなんですっ！\nまさかパールさんにも筋肉の魅力を\nわかってもらえるなんて～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "なんだかずっと、微妙に会話がかみ合って\nいない気がするのだが……不思議と、\nみんなのトークは盛り上がっているようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "トレーナー、貴方はどう思う！？\n上腕二頭筋の可能性について！",
+      "ChoiceDataList": [
+        "た、たぶん無限大……！？",
+        "いつかゴリラにも勝てるかも、なんちゃって"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "オフコース、その通り！\nいつだって可能性は無限大だわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "そうですよね！\nよーし、あたし、\n上腕二頭筋の限界に挑みます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "いいえ、ライアン！\n限界などないわ。どこまでも飛躍しましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "！\u3000はい、とことんやりましょう！\nまずはダンベルから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "望むところだわ！\nパワフルに！\u3000モリモリに！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして、いつの間にかお茶会が\n筋トレ会になってしまったが、\n彼女たちは存分に交流を楽しんだのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "冗談、と続けようとしたところ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "エキセントリックなアイディアね！\nさすがトレーナーだわ！",
+      "ChoiceDataList": [
+        "えっ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "鍛えてゴリラに勝てるほどのパワーをつける。\nその後は……ゴリラとレスリング勝負！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーキングザパール",
+      "Text": "フフッ、チャレンジングで面白いじゃない！\nさっそく動物園に交渉を――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "まっ、待ってくださいパールさんっ！\nそれはさすがに……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そのチャレンジはさすがに危険すぎるので、\nシーキングザパールをなだめるべく、\nメジロドーベルと共に奮闘したのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

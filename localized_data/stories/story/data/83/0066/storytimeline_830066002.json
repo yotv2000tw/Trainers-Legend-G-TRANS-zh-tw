@@ -1,0 +1,228 @@
+{
+  "Title": "ステータス『そのまま』",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "廊下を歩いていると、ミホノブルボンに\r\n声をかけられた。例の仮装パーティーの\nことで、いまだ悩んでいるようで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "サイボーグの衣装を作ろうと思ったのですが\r\n時間が不足しています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "このままでは、パーティーに\r\n間に合わないのではないかと……。",
+      "ChoiceDataList": [
+        "他の衣装を考えてみたら？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "他、ですか？\r\n……確かに。残り時間を考慮すれば、\nそれが賢明であると判断します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "『限られた時間内での製作』\r\n『表情変化を必要としない仮装』\n『私に演じられる範囲』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "以上の条件から検索を開始します。\r\n――ミッション、スタート。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "表情が変わらない動物……ですか？\r\nそうですね、ハシビロコウなどは\nいかがでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "もちろん、彼らなりの感情表現はありますが、\r\nあまり動かず表情も掴みにくいと\n図鑑に書いてありました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "そうそう！\u3000例えば、\r\nあるファンタジー小説に登場する\n喋るハシビロコウはですね――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "……と。す、すみません。\r\nつい語り出しそうに……。\nうう、悪い癖が。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "いえ、ありがとうございます。\r\nハシビロコウ……インプット準備。\n図鑑の場所を教えて頂けますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "メモリよりハシビロコウをロード。\r\n『世界☆ふしぎな動物ずかん』36ページ、\n図1・ハシビロコウ――開始します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……。\r\n…………。",
+      "ChoiceDataList": [
+        "あの……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "――再現完了。\r\nいかがでしょう。\n忌憚なき意見を求めます。",
+      "ChoiceDataList": [
+        "なんか違う……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "確かに表情も変わらないかもしれないが、\r\nミホノブルボンは動かないわけではないし……\nと答えた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……一理あると判断。\r\nパーティー会場においての動作停止は、\nより場の雰囲気を悪くすると予想します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "仮装ハシビロコウ、候補から除外。\r\n新たに仮装対象の検索を開始します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "は～。そないに難儀なこと考えんと、\r\nただ楽しめばええやろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "大体、こないなとこ探しても\r\nなんもあらへんで。\n……や、あるにはあるな。そこに。",
+      "ChoiceDataList": [
+        "……にんじん？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "しかし、にんじんもハシビロコウ同様……\r\nいえ、それ以上に動きません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ほんなら、葉っぱんとこでもやっとき。\r\n風で揺れればええやろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "なるほど、では。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "……なあ。\r\nこれウチ、ツッコまなあかんの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それからしばらく、\r\n仮装できるようなものを探してみたが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "校内での検索完了。\r\n結果――仮装対象の発見は困難。",
+      "ChoiceDataList": [
+        "うーん……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……以前、クリークさんは私に\r\n『そのままでいい』と仰いました。\n仮装しようとも、私のままでいいと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "なにかの真似をしようとしている時点で、\r\nこれはもう『そのまま』ではないと\n判断します。",
+      "ChoiceDataList": [
+        "難しく考えず、なりたいものはないのか？",
+        "難しく考えず、なりたいものはないの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "なりたいもの……。\r\n……宇宙を飛び交う戦闘機……でしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "いえ、これはサイボーグ以上に、\r\n衣装製作は困難であると判断します。\n他にあるとすれば……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "……速く強いウマ娘。\r\n今は浮かぶのは……それくらいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "私は……やはり、\r\n『つまらないウマ娘』なのでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミホノブルボン",
+      "Text": "もう少し考えてみます。\r\n……与えられたミッションは\n必ずクリアしなくては。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自分を叱咤するように、顔を上げて\r\n歩き出すミホノブルボン。\nまだまだ諦めてはいないようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

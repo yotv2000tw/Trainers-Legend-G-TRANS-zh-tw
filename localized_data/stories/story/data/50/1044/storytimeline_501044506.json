@@ -1,0 +1,174 @@
+{
+  "Title": "ダンスレッスン",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "イヤ！\u3000ダンスなんかしない！\nアンタが1人で踊ってれば！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ダンスレッスンの補習を受けさせるべく、\nスタジオまで連れてきたのだが……\nこんな調子で時間ばかりが過ぎてゆく。",
+      "ChoiceDataList": [
+        "君が踊らないと意味ないよ……",
+        "貴方が踊らないと意味ないよ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "知らないわよ、そんなこと！\nアタシは魔法のエネルギーを\n溜めるのに忙しいの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "あら、でしたらダンスはピッタリですわ！\n私もダンスでエネルギーを溜めるとこですの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "そう――プリファイ3期エンディングテーマ、\n『プリンセス☆パーティー』で！",
+      "ChoiceDataList": [
+        "『プリンセス☆パーティー』？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "これはもう、見たほうが早いですわ！\nいきますわよ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "でぇぇええいっ！\nはいっ、ほいっ、せいっーーー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "えっ！？\u3000カワカミの体から、\nエネルギーがあふれてきた……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "激しいダンスによってカワカミプリンセスの\n体から立ちのぼる湯気。それは、さながら\n魔法のエネルギーであるかのように見え……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ふう……いかがでしたか？\u3000どえらい\n『プリンセス☆エネルギー』が見えまして？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "見えたわ！\u3000早くアタシにも振り付け教えて！\nすっごいエネルギーを溜めてみせるんだから！",
+      "ChoiceDataList": [
+        "（まぁ、ダンスの練習にはなるか！）",
+        "（まぁ、ダンスの練習にはなるよね！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "イエス♪\u3000ちぎって投げてフルパワー♪\nたたかう姫のお通りよ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "みんな集まれティアラのもとに♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "元気いっぱつプリンセス♪\u3000フォー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "はぁはぁ……なんか、ポカポカしてきたわ！\nこれってもしかして……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ええっ！\u3000エネルギーが溜まったんですわ！\nすっかり顔つきも変わってますわよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "だって、ワクワクするものっ！\u3000他に\nおもしろいダンスはないの？\u3000教えなさいよ！",
+      "ChoiceDataList": [
+        "休憩しなくても大丈夫？",
+        "さらにエネルギーが溜まる踊りがあるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そうね！\u3000こういう時は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "オレガノ・リカバリー！\n疲れを吹き飛ばす、魔法の水を飲むわよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "充電完了！\u3000マックスフルパワーで\n踊りまくりですわ～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "よほどお気に召したのか、どんどん\nダンスを踊るスイープトウショウだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "知ってるの！？\u3000やるじゃない、使い魔！\nどんなダンスなのよ！",
+      "ChoiceDataList": [
+        "ライブで踊るダンスなんだけど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ライブはまさしくエネルギーの塊！\nさらなるパワーアップが期待できそうですわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "言われてみれば……！\n……使い魔！\u3000早く曲を流して！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それから遅くまで、真剣にダンス練習に\n取り組むスイープトウショウだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

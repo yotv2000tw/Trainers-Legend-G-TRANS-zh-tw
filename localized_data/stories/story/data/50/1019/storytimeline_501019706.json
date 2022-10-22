@@ -1,0 +1,257 @@
+{
+  "Title": "推し接近アラート、発令！？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アグネスデジタルと出かけた帰り、\r\n“ウマ娘ちゃんショップ”へ\n連れてこられた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "入荷してますっ！\u3000してますぞぉ～い！\r\n新発売のウマ娘ちゃんクジ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "狙うはA賞の生徒会メンバータペストリー！\nううう～！\u3000緊張してきましたぁぁ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ピピピピピピッッ！）",
+      "ChoiceDataList": [
+        "なんの音！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "ひょっ！？\nあたしの体から聞こえてません！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "動作は良好、データも受信できている。\nフフッ、いいぞ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "……心拍数は1分110回ペース。\r\nふぅン、神経を昂らせるだけで\nジョギング並の運動強度とは驚きだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "た、タキオンさん！？\n心拍数って、あたしのですか……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "いかにも。昨晩ぐっすり眠っている君に\r\nマイクロ装置を付けさせてもらってね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "眠っているあたしに……！？\nち、近づいて……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "首筋にホクロのようなものが\r\nついているだろう？\n特に痛みなどはないはずだが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "く、首筋……！？\nあばっ、あばばばぁぁぁ～～！！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ピピピピピピーーーッッ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "想像だけでドーパミンの大量分泌かいっ！？\nククッ、脈拍チャートがレース中と\n見まごうほど激しく推移しているよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "ふひーっ、ふひーっ！\nす、すみません……なんとか落ち着きました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "短時間での激しい乱高下に耐えるタフさ……。\nやはり、君の心臓は興味深いねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "さぁ、もう1度興奮状態に持っていこう。\nデータサンプルは多いに越したことはない！",
+      "ChoiceDataList": [
+        "A賞が取れれば、興奮するかも……",
+        "これ以上無理をさせないでくれ！",
+        "これ以上無理をさせないで！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "さぁ、もう1度興奮状態に持っていこう。\r\nデータサンプルは多いに越したことはない！",
+      "ChoiceDataList": [
+        "A賞が取れれば、興奮するかも……",
+        "これ以上無理をさせないでくれ！",
+        "これ以上無理をさせないで！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ふむ、A賞というのはこのクジのことか。\nでは私が引き当てデジタル君に渡すとしよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "えっ、えっ！？\u3000タキオンさんが、\nあたしのためにクジを……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "私はA賞を、君はデータを提供する。\nつまり等価交換さ、気にする必要はない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "あわわわわっ！？\nそそ、そんなことされたらデジたん……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "確率から言えばA賞は2％程度……。\r\nだが、どんな事象にも介入の余地はある。\n私の科学力をもってすれば、ね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "これが研究の果て！\r\n科学の粋を尽くした叡智の集大成だよ！",
+      "ChoiceDataList": [
+        "ま、まさか！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "……なんてね。ズルはなしさ。\n残念ながらG賞のクリアファイルだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "実験の礼として受け取ってくれ――\nおや？\u3000デジタル君？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ピッ……ピピッ……ピッ……プシュ～ッ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "ここは……徳を積んだ者が招かれる三千世界？\nそれとも、ウマ娘ちゃんからプレゼントを\nもらうヲタに罰を下すアンダーグラウンド？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "で・も、ウマ娘ちゃんがいれば問題ナシ！\nウマ娘ちゃんどこ～～？\u3000んふふふぅ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "中脳辺縁系に影響を及ぼすほど興奮するとは。\nまったく、A賞でもないのに摩訶不思議だ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それからしばらく、アグネスデジタルは\n夢の世界を彷徨い続けたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "やれやれ……私の見立てでは、デジタル君の\r\n限界はまだまだ先だというのに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "まぁ、ここは過保護なトレーナーに免じて\r\n終わりにしておこう。データは取れたしね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "それではマイクロ装置を外すとしようか。\nデジタル君、首筋を失礼するよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "は、はわわ……！？\u3000タキオンさんっ！\n覚醒状態でそれは……っ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ピピピピピピーーーッッ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスデジタル",
+      "Text": "ほあああぁ～～っ！！\n細胞が沸騰しますぅ～～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ハハッ、新しいデータが蓄積されていく！\nこういうアクシデントは大歓迎だよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "実験が終わる頃には、アグネスデジタルは\r\nぐったりしていたが、表情は幸せそうだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "Title": "ふたり、だからこそ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "エアグルーヴの母親が経営するスクールの\n生徒たちが体験入学をすることになり、\n雑用として手伝うことになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもたち",
+      "Text": "うわー！\u3000すご～い！\u3000ひろ～い！\n芝きれい～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴの母親",
+      "Text": "みんな～、はしゃぎすぎて\n転んだりしないようにね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "そこのトレーナー、\nこの後の模擬授業も抜かりないようにな。\n子どもたちのフォローをしっかりと頼むぞ。",
+      "ChoiceDataList": [
+        "任せてくれ！",
+        "任せて！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トレセン学園の教師",
+      "Text": "……って感じで、レースの後は、\n『たんすいかぶつ』っていって、\nバナナやおにぎりを食べると体が回復――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ジリリリリリリリ――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもたち",
+      "Text": "うわあーー！！\nなになに……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "む、この音は……！",
+      "ChoiceDataList": [
+        "火災報知器だ……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "もしもし、警備室の方ですか？\n急ぎ状況の確認を――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもたち",
+      "Text": "『ねえ、今のおっきな音なに……！？』\n『私しってる！\u3000火がボーっ！て\nもえてるときになるやつ！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもたち",
+      "Text": "『え、カジってこと！？\u3000やべーじゃん！』\n『みんなにげよ！\u3000ほらはやくはやく！』\n『うう、怖いよ……。ひっくひっく……』",
+      "ChoiceDataList": [
+        "みんな、ひとまず静かに――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴの母親",
+      "Text": "はいはいみんな、ちゅうも～～～く☆\nこういう時こそ冷静に！\u3000バラバラに\nならずに気持ちをひとつに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴの母親",
+      "Text": "みんな、まずは肩の力を抜いちゃおう～！\n私の真似してね。せーの、ゆさゆさ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもたち",
+      "Text": "ゆ……ゆさゆさ～……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "――ええ、聞こえています。\nなるほど……給湯室の報知器だろう、と。\nでは念のため、こちらは避難を開始します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴの母親",
+      "Text": "はいみんな～、今からお外に\n出ることにしま～す！",
+      "ChoiceDataList": [
+        "廊下側の子から順番にいこう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "こっちだ！\u3000給湯室からなるべく\n離れるルートを進むぞ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴの母親",
+      "Text": "はーい、走らずに歩いてね～！\n周りの人とちゃんと距離をとろうね！\nいっちに、いっちに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "避難が始まると、エアグルーヴがすぐさま\n先頭に立つ。対して母親は、\n最後方から子どもたちを見守る。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "む……いかんな、ここは\n防火扉が閉まっているか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもたち",
+      "Text": "ええっ！？\u3000じゃあ逃げられないの……？\nいやだぁ！\u3000外に出たい……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴの母親",
+      "Text": "あら、そう？\u3000楽しそうじゃない♪\n迷路の出口を探して、みんなで探検よー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どもたち",
+      "Text": "探検……！\nそっか、探検かぁ～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "まさに阿吽の呼吸といったような\nエアグルーヴ母娘の見事な連携のおかげで\n無事避難は成功し、その後――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "無事、子どもたちは家路についたようです。\n……本当に、報知器の誤作動でよかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "まさか体験入学中に、避難訓練を\nすることになるとは思いませんでしたが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴの母親",
+      "Text": "まあまあ、結果オーライじゃない？\nあれから体験入学も再開できたし、\nあの子たちもいい思い出になったはず！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "お母様のご助力あってこそです。\nそれに……\nそこのトレーナーも、ご苦労だったな。",
+      "ChoiceDataList": [
+        "いや、2人のコンビネーションのおかげだ",
+        "いや、2人のコンビネーションのおかげだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "事実、2人があの場にいなければ、\n混乱が起き、スムーズに避難できて\nいなかっただろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴの母親",
+      "Text": "ふふ、息ぴったりだったでしょ？\n私たち、最高のペアなので♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴの母親",
+      "Text": "お互いを支え合って、\n得意なものをもっと輝かせ合える！\n2人なら、どんなこともできちゃう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴの母親",
+      "Text": "ま、これが母娘の絆ってやつかな～！\nね、エアグルーヴっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "！！\u3000お……お母様……！\n恐悦至極、です……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴの母親",
+      "Text": "ええっ、まだそのノリ～！？\nまあ、でもいっか。あんたらしくて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "エアグルーヴとその母親。\n一風変わってはいるが、2人の素晴らしい\n関係を見ることができたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

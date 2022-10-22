@@ -1,0 +1,290 @@
+{
+  "Title": "ひとり暮らしの生活",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "見て、ミスターシービーさんと\r\nマルゼンスキーさんがお話なさっているわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "きっとレースについて、\r\nとっても高度な技術の話をしているに\n違いないよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "お昼を食べに来たところ、\r\n注目を集めている2人の生徒がいた。\n彼女たちをぼんやりと眺めていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "あっ、ねぇねぇ、おーい！\r\nちょっとこっち来てくれるかな？",
+      "ChoiceDataList": [
+        "……俺？",
+        "……私？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "少し質問があるんだ。\r\n聞いてもらってもいいかな？",
+      "ChoiceDataList": [
+        "ご、ごくり……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ミスターシービーが真剣な表情をしている。\r\nレースに対する難しい質問だろうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ここはトレーナーらしく、\r\nびしっと答えたいところだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "料理って、どうしたら上手くなるかな？",
+      "ChoiceDataList": [
+        "……え？……料理？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "シービーちゃんから\r\nひとり暮らしの相談を聞いててね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "ちょっと心配なの。もう少しだけ\r\n健康に気を使ってほしいかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "トレーナーさんもひとり暮らしでしょ？\r\nこの子になにかチョベリグな\nアドバイスをしてあげて～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "あはは！\u3000アタシ、大雑把だからね！\r\nいろいろと笑っちゃうような\nひとり暮らしを送っているんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ほら面倒でしょ、料理って。\r\nチャーハンとか、簡単にできるものばっかに\nなっちゃうんだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "も～、ダメよ？\r\nあたしたちは体が資本なんだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ミスターシービーの意外な一面が知れた。\r\nただ、助言をしたいのはやまやまだが……、",
+      "ChoiceDataList": [
+        "俺も人のこと言えないからなぁ……",
+        "私も人のこと言えないからなぁ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "え？\u3000そうなの？",
+      "ChoiceDataList": [
+        "洗濯物とかすぐ溜めちゃうし……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "わかる！",
+      "ChoiceDataList": [
+        "掃除とかいつも後回しだし"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "わかる～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "あはは～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "横着して、カレーを大量に\r\n作り置きしちゃうんだよね！",
+      "ChoiceDataList": [
+        "わかる～～～！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "……洗濯物を溜めすぎちゃった時は\r\n寮の洗面所の大きな洗濯機が便利よ。\n1度にたくさん洗えちゃうわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "あと、カレーの常温保存はダメ。\r\n粗熱を取ったらすぐに冷蔵か冷凍保存を\nすること。本当は傷みやすいんだから。",
+      "ChoiceDataList": [
+        "さすが、詳しいね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "ん～、まあね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "いやぁ～！\r\nほんっと、ひとり暮らしで\n両親のありがたさを実感したよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "毎日3食ご飯を作ってくれるって、\r\nとんでもないほどありがたいこと\nだったんだなぁ、って。",
+      "ChoiceDataList": [
+        "そういえば、料理について聞かれていたな",
+        "そういえば、料理について聞かれていたね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "あら、そういえばそうだったわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "お、なにかひらめいたかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女の大雑把さも、自由奔放さも\r\n先ほどの会話でよくわかった。\nそんな彼女に、アドバイスするなら――",
+      "ChoiceDataList": [
+        "大雑把な料理も君らしさだ",
+        "大雑把な料理も貴方らしさだよ",
+        "自由な創作料理にチャレンジしよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女の大雑把さも、自由奔放さも\r\n先ほどの会話でよくわかった。\nそんな彼女に、アドバイスするなら――",
+      "ChoiceDataList": [
+        "大雑把な料理も君らしさだ",
+        "大雑把な料理も貴方らしさだよ",
+        "自由な創作料理にチャレンジしよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ははっ、嬉しいこと言ってくれるんだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "そうだね、アタシはミスターシービー。\r\n細かいことを気にして、\n楽しくなきゃ意味がない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "ふふっ、そうね。\r\n楽しく料理するのが1番ね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ありがとう！\r\nお礼に2人をディナーに招待したいな？",
+      "ChoiceDataList": [
+        "ぜひ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ミスターシービーの料理の仕方は\r\n確かに荒っぽくはあったものの、\n美味しい料理なのであった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "自由っ！\u3000いい響きだね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "うーん……\r\nあたしもイタ飯でやったことあるけど、\nあれ結構ゲキムズよ？\u3000大丈夫～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "上手くできるかはわからないな。\r\nだけど、挑戦は自分の性に合っているよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "自由を楽しむ。\r\nうん、ワクワクしてきたね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それからミスターシービーは\r\n色々なオリジナル料理を作った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『激甘麻婆豆腐』『ラーメン味のピザ』\r\n『フルーツのから揚げ』……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "確かに美味しくはなかったかもしれないが、\r\n楽しそうに調理する彼女を見て、\nなんだかこちらも嬉しくなるのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    null,
+    null
+  ]
+}

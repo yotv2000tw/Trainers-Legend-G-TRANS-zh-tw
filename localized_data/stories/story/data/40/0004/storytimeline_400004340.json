@@ -1,0 +1,191 @@
+{
+  "Title": "ブライアンがヤキモチ？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "すまないね、手伝ってもらって助かったよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "両手いっぱいに荷物を持った\r\nヒシアマゾンを商店街で見かけたので、\n運ぶのを手伝った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "――そうだ、甘いものは好きかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "今朝、桜餅を作ったんだ。\r\n荷物を運んでくれたお礼にご馳走するよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "待たせたね。\r\nそれじゃあ、遠慮なく食べておくれ！",
+      "ChoiceDataList": [
+        "……ああ、ものすごく美味しい！",
+        "……うん、ものすごく美味しい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "そう言ってもらえると嬉しいねぇ。\r\nさあ、どんどん食べな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタブライアン",
+      "Text": "……アマさん、ここにいたのか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "やぁ、ブライアン。何か用かい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタブライアン",
+      "Text": "何って……桜餅を作るから\r\nもらいに来いと言っていただろう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "あああ～～っ！？\u3000すっかり忘れてた！\r\nたった今、完売しちまったよ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタブライアン",
+      "Text": "……なんだと？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "さっき荷物運びを手伝ってもらってね、\r\nそのお礼にご馳走したのさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタブライアン",
+      "Text": "……む。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "ほらほら、そんなに睨むんじゃないよ。\r\nご馳走したのはアタシなんだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタブライアン",
+      "Text": "別に睨んでいない。元々こういう顔だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうは言うが、ヘビに睨まれたカエル\r\nのような気持ちだ……。",
+      "ChoiceDataList": [
+        "桜餅を買ってこようか？",
+        "代わりにご馳走できるものはない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタブライアン",
+      "Text": "不要だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタブライアン",
+      "Text": "アマさんのでなければ、意味がない――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "やれやれ、仕方ないねぇ！\r\nそこまで言うなら、今から作ってやるよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタブライアン",
+      "Text": "いいのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "約束を忘れたアタシが悪いんだからね！\r\n責任はとるよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタブライアン",
+      "Text": "……待ってる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "とびっきり美味いのを作るから、\r\n腹を空かせて期待してな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "えぇ！？\u3000んなこと急に言われても……\r\n今作れるのは塩むすびくらいだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタブライアン",
+      "Text": "……それでも構わない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "え？\u3000塩むすびでいいのかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタブライアン",
+      "Text": "ああ……腹が空いてるからなんでもいい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "……そうか、腹を空かせてくれてたのか。\r\nブライアン、本当に悪かったね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアマゾン",
+      "Text": "よし、大急ぎで塩むすび作ってやるから\r\nもう少しだけ辛抱しな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

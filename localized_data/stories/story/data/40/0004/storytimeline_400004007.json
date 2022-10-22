@@ -1,0 +1,284 @@
+{
+  "Title": "『3年目』へ向かって",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "スポーツ用品店へ買い物に来たところ、\r\nトレセン学園のウマ娘が\n2人で商品を見ていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "いつもクールでちょっと毒舌、\r\nシニカルな雰囲気のウマ娘、リトルココン。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "リトルココン"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして、\r\n怪力自慢でハードなトレーニングを好む\n勝負好きなウマ娘、ビターグラッセ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ビターグラッセ"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "2人とも、知人である樫本トレーナーの\r\n担当ウマ娘だ。あまり他人と\nつるまないタイプだと思っていたが――",
+      "ChoiceDataList": [
+        "こんにちは"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "リトルココン",
+      "Text": "……あ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビターグラッセ",
+      "Text": "やあ、<username>トレーナー\r\nじゃないか！\u3000奇遇だな！",
+      "ChoiceDataList": [
+        "オフでも2人なのは珍しいな",
+        "オフでも2人なのは珍しいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "リトルココン",
+      "Text": "……余計なお世話だし。\n仲良しごっことは違うから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビターグラッセ",
+      "Text": "まあまあ、リトルココン……\r\nというのも、今日は情報共有のために\nここに来たんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そっぽを向くリトルココンの代わりに\nビターグラッセが説明してくれた\nところによると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "2人は自分がこれまで使ったスポーツ用品の\r\n使用感をお互いに共有し、よりよいものを\n樫本トレーナーに提案したい、とのことだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "リトルココン",
+      "Text": "もちろん樫本トレーナーのことは信じてる。\nあの人が選ぶものに間違いなんてないし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "リトルココン",
+      "Text": "ただ、あの人……いつもアタシたちのために\nシューズとかウェアのレビューと\nにらめっこしてるからさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビターグラッセ",
+      "Text": "少しでも、負担を減らせればと思ったんだ。\r\n『3年目』も迫ってきていることだしな！",
+      "ChoiceDataList": [
+        "『3年目』……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビターグラッセ",
+      "Text": "ああ。君も既知の事実だとは思うが……\r\nトゥインクル・シリーズ、その3年目。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "リトルココン",
+      "Text": "……アタシたちウマ娘にとって\r\nいちばん大事な3年の、最後の1年。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビターグラッセ",
+      "Text": "気を引き締めなくちゃな。\nうん、燃えてきたぞ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "リトルココン",
+      "Text": "……で？\u3000アンタは？\nこんなとこで油売ってる場合？",
+      "ChoiceDataList": [
+        "俺？",
+        "私？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "リトルココン",
+      "Text": "はっ……ぽやぽやしてると足すくわれるよ。\r\nアンタも、アンタのパートナーもね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "リトルココン",
+      "Text": "じゃ、アタシたちもう行くけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビターグラッセ",
+      "Text": "ははっ、というわけだ！\nでは、<chrname>によろしく！",
+      "ChoiceDataList": [
+        "『3年目』か……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "2人の言葉を嚙み締めつつ、\n学園に戻ることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "はっ、はっ、はっ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "……はぁー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こんな時間まで居残りをしているのは、\r\n同期の桐生院トレーナーの担当ウマ娘、\nハッピーミークだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "いつも口数が少なく無表情。\r\nぼーっとしているだけのようにも見えるが、\n桐生院トレーナーとの絆は何より強い。",
+      "ChoiceDataList": [
+        "こんばんは"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "あ……<username>トレーナー……\r\nこんばんは。",
+      "ChoiceDataList": [
+        "桐生院トレーナーは一緒じゃないのか？",
+        "桐生院トレーナーは一緒じゃないの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "トレーナー室に……『かんづめ』？\r\n……です。すごく、忙しい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "その間、私、お休み……\nだけど……じっとして、られなくて。",
+      "ChoiceDataList": [
+        "それで、こんな遅くまで？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "……今、トレーナーは\n『かんづめ』になって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "私の、『3年目』の……\r\nトレーニングメニュー、\n作り直して……くれてます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "……だから～……。",
+      "ChoiceDataList": [
+        "だから？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "……私も、がんばる。\r\n……トレーナーと、一緒に。",
+      "ChoiceDataList": [
+        "なるほど"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "あと……あなたの、パートナーも……\nがんばってた。ので……。",
+      "ChoiceDataList": [
+        "え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "……じゃ、\nもうひと走り、です。\nファイト、おー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……ハッピーミークの言っていたことが\nなんだか気になり、\nトレーナー室へ寄っていくことにした。",
+      "ChoiceDataList": [
+        "部屋の明かりがついてる……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ハッピーミーク",
+      "Text": "あと……あなたの、パートナーも……\nがんばってた。ので……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "もしかして……\r\n<chrname>も、『3年目』に向けて\n何か考えてくれているのだろうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そこには――",
+      "ChoiceDataList": [
+        "<chrname>！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後は、待ってくれていた彼女と\n様々な話をして過ごした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "<chrname>との\n確かな絆を感じた夜だった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

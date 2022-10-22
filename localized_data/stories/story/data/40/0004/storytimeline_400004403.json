@@ -1,0 +1,37 @@
+{
+  "Title": "よくないウワサ？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "順調に活躍し、\r\n『トゥインクルスタークライマックス』への\n出走に近づく<chrname>。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "しかし注目されたことによって\r\n捏造記事が出回り、誤解した記者たちが\nトレセン学園に押しかける一大事に！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トレセン学園"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレセン学園への取材許可を\r\n一時的に取り消すことも考えられたが……\n乙名史記者は熱意でそれを阻止。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "世論への誤解を解くための新企画、\r\n『<username>トレーナー密着取材』\nがスタートすることになった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

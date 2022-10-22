@@ -1,0 +1,275 @@
+{
+  "Title": "クエスト：撤去作業のお手伝い！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ある日、野外ステージの近くを通りかかると\nナリタタイシンの姿を見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "この時間なら誰もここ使わないだろって\n思ってたんだけど……何、この段ボールの山。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "新品のヨガマットとか入ってるじゃん。\n……いいな、これ。\n包装してあるけど……なんかの景品？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "あーっタイシンだ！\nタイシンも片づけやるの！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……はぁ？\u3000何の話？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "撤去作業の話だよ。こないだここで\nイベントやってたでしょ？\u3000その時の\nステージセットとか景品とかの片づけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "カイチョーたちも手が回らないみたいでさ～。\nだからボクが解決してあげるんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "片づけ終わったら、あまった景品は\nもらっていいんだって！\u3000宝探しだーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "ふーん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……アタシもやる。片づけ。",
+      "ChoiceDataList": [
+        "それじゃあ、俺も手伝うよ",
+        "それじゃあ、私も手伝うよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして始まったステージの撤収作業。\n居合わせた自分も加わり、\n一緒に片づけを進めていたのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "……ふぃ～、運んでも運んでも終わんないっ！\nこんな大変なんて聞いてないよ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……ちょっとナメてた……。\nなんだってこんな大掛かりなセットを……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "おわーーっ！？\u3000どいてどいてぇーーーー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "はっ！？\u3000ちょっ、危なっ――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ドガッシャーーン！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……はぁ、やっと終わった……。",
+      "ChoiceDataList": [
+        "みんな、お疲れ様"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "いろいろひっくり返しちゃったりしたけど、\nなんとかやり遂げた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "そーだね。\nじゃ、アタシはこのヨガマットをもらって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "あのー……あのさ、\nまだ終わってないんだー……なーんて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……は？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "ゴメン、実はステージの裏も残ってるんだよ！\nカイチョーの力になりたくて、\nつい全部片づけてあげるって言っちゃって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "マジで言ってんの……？\nここだけで相当しんどかったんだけど……。",
+      "ChoiceDataList": [
+        "最後まで手伝うよ",
+        "効率のいいやり方を考えよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "は～……クソ、とっとと終わらすよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "ぜぇ～……はぁ～……ぜぇ～……。\nたぁぼ……ぜん……かぁ～い……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "全開ってか、フラフラじゃん……アンタ、\n体力配分おかしいんだよ。ちょっと休んだら？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "ふひぃ……わ、わかった、\nちょっとだけ休む……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "テイオーも、セットの解体は丁寧にやってよ。\n変に崩れてケガでもしたらコトだし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "えへへ、たしかにそうかも。\nありがと、タイシン！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "ふぅ……それにしても重労働だな、これ。",
+      "ChoiceDataList": [
+        "でも、最後まで付き合ってあげるんだな",
+        "でも、最後まで付き合ってあげるんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……別に。アタシは報酬のために\nやってるだけだし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "ほら、喋ってないでさっさとやる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、時間はかかったもののなんとか\n片づけを終わらせたナリタタイシン。\n目当ての報酬も無事ゲットできたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "効率ったって限度があるでしょ……\n1か所だけでこんなに時間かかってんのにさ。",
+      "ChoiceDataList": [
+        "ゲームのクエストになぞらえて考えよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ゲームを例に、パーティーメンバーを\nどう配置するかを考えればいい、\nとアドバイスをした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "はぁ……クエストね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "テイオーは器用だし、技術職ってとこかな。\n解体作業とか機械類の片づけとか、\nそういう繊細な作業やって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "ターボは……まあ、すばしっこいし\n歩兵的な？\u3000運搬作業を中心にやって。",
+      "ChoiceDataList": [
+        "ちなみに、俺は？",
+        "ちなみに、私は？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "…………村人。",
+      "ChoiceDataList": [
+        "えっ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "だからアンタは全体の雑用。\nほら、さっさとやるよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうしてナリタタイシンに指示を受けつつも\nなんとか片づけを済ませ、無事彼女に\n報酬のヨガマットを掴ませたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

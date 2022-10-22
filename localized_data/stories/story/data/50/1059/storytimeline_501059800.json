@@ -1,0 +1,336 @@
+{
+  "Title": "懐かしの傍ら",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "この日はメジロ家の集まりに招待され、\nメジロドーベルと一緒にやって来ていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女は親戚との談笑に忙しいようなので、\n1人、料理をいただいていたのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "ドーベル？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "え……うそうそうそっ！\n待って待って、いつ来たのっ！？\nわぁぁっ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "見たことがないほどの歓声をあげている。\n何かあったのだろうかと、\n様子を伺おうとしたところ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "珍しいですよね、あんなに喜んでるドーベル！",
+      "ChoiceDataList": [
+        "ああ。あの方は？",
+        "うん。あの方は？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "聞いたことあるかもしれないんですけど、\nあのおばさまは、ドーベルにとって\n“もう1人のお母さん”なんです。",
+      "ChoiceDataList": [
+        "もう1人のお母さん？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "ドーベルが生まれてすぐの頃、\nちょうど、ドーベルのお母さんは\nモデルのお仕事が忙しい時期で……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "その間、ドーベルの面倒を見ていたのが\nあのおばさまなんです。いろいろと遊びにも\n連れて行ってもらったりしていたらしくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いドーベル",
+      "Text": "おばさま～！\nここのお料理おいしいね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おばさま",
+      "Text": "でしょでしょ？\u3000ここの料理美味しいのよ～！\nドーベルのお母さんとも昔よく行っててね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おばさま",
+      "Text": "で、いっつも食べ過ぎて、\nその後一緒に走るまでがセットだったの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いドーベル",
+      "Text": "お母さんが……？\nじゃあアタシも、おばさまと走りたーい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おばさま",
+      "Text": "いいわよ～。\nけど、まずはお子様ランチ全部食べてからね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "……って感じで。\nドーベルはずっと自分に寄り添ってくれた\nおばさまのことを本当に慕ってるんです。",
+      "ChoiceDataList": [
+        "それなら、邪魔しないほうがいいな",
+        "それなら、邪魔しないほうがいいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おばさま",
+      "Text": "お久しぶりね、ドーベル。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "もうっ、来るなら前もって言ってよ。\nもっとおめかしして来たのに！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おばさま",
+      "Text": "ふふっ、今だって充分可愛いわよ。\n最近どうしてるの？\n学園でのこととか、聞かせてほしいわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "もちろん！\u3000あのね――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "前も話したかな？\u3000寮で同室の子がね、\nアメリカから来た子でさ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "豪快で明るくて、とにかくほっとけない子で、\nいっつもなにかトラブルを起こしてるの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "この前なんて、BBQに誘われて行ったら、\nお肉を持ってくるのに夢中で\n炭を忘れてくるんだもん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "一緒に走って買いに行ったりしてさ。\nそんな感じで、いつも振り回されっぱなし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……まあ、そういうのも\nちょっとは楽しかったりするんだけどね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あとは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "えっと、\nアタシのことすごく考えてくれてる人がいて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "いつも、遅くまで仕事してて。\n自分のことは二の次で、\n休めって言っても聞かないし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "へとへとなのに、\n逆にアタシを心配してきたり。\n変わった人でしょ？\u3000だけど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あの人がいるから、\n安心できてるとこもあって……。",
+      "ChoiceDataList": [
+        "（ドーベル……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "えっと、と、とにかく！\n本当にいい学園で、毎日が楽しいんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "おばさま",
+      "Text": "ふふっ、みたいね。瞳がキラキラしてたもの。\n可愛いその笑顔は、小さい頃のままね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "うっ……しょうがないでしょ。\nおばさまに会えるの、\n昔も今も嬉しいんだもん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "……あの、トレーナーさん。\nお願いがあるんですけど。",
+      "ChoiceDataList": [
+        "俺は何も見てない、だよな？",
+        "私は何も見てない、だよね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "！\u3000ふふっ、\nさすがドーベルのトレーナーさんですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "と、約束をしたその日の帰路――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ねえ、なにかいいことでもあったの？\n浮かれた顔してるけど。",
+      "ChoiceDataList": [
+        "りょ、料理が美味しくて……！",
+        "りょ、料理が美味しくて……！",
+        "な、なんにも見てないよ！",
+        "な、なんにも見てないよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ねえ、どうしてそんなに嬉しそうなの？\nなにかいいことでもあった？",
+      "ChoiceDataList": [
+        "りょ、料理が美味しくて……！",
+        "りょ、料理が美味しくて……！",
+        "な、なんにも見てないよ！",
+        "な、なんにも見てないよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "はぁー……もう……\nなにかと思えば、そんなこと？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あはは、なるほどね。\nお腹いっぱい楽しめた？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "けど、当然か。メジロ家の料理人の腕前は、\n高級料理店レベルだし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "メジロ家お抱えの料理人の腕前は、\nなかなか味わえないよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "それより……すごいね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "それより……すごいね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あれだけの名だたるメジロのウマ娘を前に\n緊張より食欲が勝るんだから。……ふふっ。",
+      "ChoiceDataList": [
+        "あ、ありがとう……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "食いしん坊と思われてしまったが、\nなんとかメジロライアンとの\n約束を守ったのであった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "？\u3000なにか見たなんて聞いてないけど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "？\u3000なにか見たなんて聞いてないけど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……。……待って。\nま……まさか、見てた……って……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "あーもういい！\u3000な、なんでもない！\n見てないならいいの。この話は終わり！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "チクリと罪悪感を抱きながら、\nメジロライアンとの約束は\nしっかりと守ったのであった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

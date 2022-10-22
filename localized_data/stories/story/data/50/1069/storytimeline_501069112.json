@@ -1,0 +1,349 @@
+{
+  "Title": "温泉旅行",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "サクラチヨノオーといくつものレースを\r\n勝ち抜いてきたこの日――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "サクラチヨノオーと電車に揺られながら、\r\n商店街の福引で当てた温泉へと向かっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "トレーナーさん、\r\n7駅先で乗り換えですからね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ふふっ、眠たくなったら言ってください。\r\n私が代わりに起きていますから。",
+      "ChoiceDataList": [
+        "君も眠たくなったら言ってくれ",
+        "貴方も眠たくなったら言ってね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "いやでーす。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ふふ。今日くらいは\r\n私におもてなしさせてください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "旅のしおりまで作ってきたんですよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "この温泉旅行の前日、彼女から小さな\r\n『温泉旅行のしおり』が渡された。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その1ページ目にはデカデカと\r\n『お世話になったトレーナーさんへの\n恩返しをたくさんします』と書かれていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "おぉ～、豪勢な佇まい……！\r\nこれはさぞかし名のある旅館と見えます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ということでしおりの5ページを\r\nお開きください。",
+      "ChoiceDataList": [
+        "『某有名ウマ娘も利用しているらしい』"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "そう、その通りっ！\r\nそして事前の下調べにより……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "今回、どちらのお部屋にも\r\nカラオケはつかないそうです……。",
+      "ChoiceDataList": [
+        "そこ、がっかりするところなんだ",
+        "そこ、がっかりするところなんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……だって楽しいじゃないですか。\r\nお湯につかった後のどんちゃん騒ぎって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "でも、それができない分、\r\n私、マジックも練習してきてます！\u3000ふふー。\nお暇な時間に披露してみせましょう！",
+      "ChoiceDataList": [
+        "準備万全だな！",
+        "準備万全だね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はいっ！\u3000ではでは、\r\nどうぞお先にお入りください！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "サクラチヨノオーに背中を押されながら、\r\n建物へと入る。彼女からは必ずおもてなしを\nしてみせるという、圧すらも感じた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "なら今はその気持ちを受け取った方が、\r\n彼女を喜ばせることにつながるのだろう。",
+      "ChoiceDataList": [
+        "じゃあお先に"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして温泉へと向かい――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "入浴中……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "湯から上がり、サクラチヨノオーを待つ。\r\n先に上がった時用に彼女からは\n雑誌を渡されていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どこまでも今日は配慮をされる日のようだ。\r\nだが、本来ここに来たのは別の目的があった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "この温泉は今まで頑張ってきた彼女を、\r\n労わる旅行でもあるのだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "わっ、トレーナーさん、\r\nもう上がっていらしたんですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……あれ？\u3000その手に持たれているのは？",
+      "ChoiceDataList": [
+        "君の分のフルーツ牛乳だよ",
+        "貴方の分のフルーツ牛乳だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "えっ？\u3000あっ、ありがとうございます！\r\nお気遣いいただいてしまって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はわわ、でもお気になさらずとも\r\nいいんですからね。今日はトレーナーさんを\nおもてなしする日ですから！",
+      "ChoiceDataList": [
+        "俺にとっては君を労わりたい日だよ",
+        "私にとっては貴方を労わりたい日だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "ええ～……！？\u3000そんなそんな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "私の方こそお世話になりっぱなしでしたし、\r\n労わられるほどのなにかをしたわけじゃ……。",
+      "ChoiceDataList": [
+        "君はたくさんのレースで勝利した",
+        "貴方はたくさんのレースで勝利した"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "あわわわ……えへへ。\r\nそれは～……いや～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "でもそれもトレーナーさんのおかげと\r\nいうか……むしろ私が感謝する側で。",
+      "ChoiceDataList": [
+        "たくさん頑張る姿を見せてくれた",
+        "たくさん頑張る姿を見せてくれたよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "も～、それもトレーナーさんの\r\nおかげですって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "だってその努力の仕方をトレーナーさんが\r\n教えてくださったわけですから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "え、えへへ……もうなんです～急に。\r\nトレーナーさんってば恥ずかしいですよぉ。",
+      "ChoiceDataList": [
+        "トレーナーとして君が誇らしいんだ",
+        "トレーナーとして貴方が誇らしいんだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "わ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "…………えと。",
+      "ChoiceDataList": [
+        "ありがとう、チヨノオー"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "えへ、えへへ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……こちらこそ。\r\n本当にありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "……はぁ～……どぉ～しよ～……。\r\nもうだめです……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "今はこっち見ないでください……。\r\nなんか照れちゃいます……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "はあ～……。\r\n今日は褒められる想定はなかったのに……\nなんか調子が狂っちゃいました……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "用意してきたマジックも失敗し、\r\n今やゴロゴロとしているだけ……。\nお料理も気づけば食べてしまって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "うぅ～……。",
+      "ChoiceDataList": [
+        "ゆっくりできたならいいんじゃないかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "もぉ～……トレーナーさんってば……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "うわ～だめだ～！\r\nまだ目を合わせないでください～。\nさっきのことを思い出しちゃうんです～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "う、うぅぅ～……はぁ～……！\r\nもぉぉ～……いつもありがとうございます～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女はその後、顔を手で覆いながら\r\n畳の上でゴロゴロと\n転がり続けていたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "サクラチヨノオーとの間に、\nかけがえのない絆を感じた\nひとときだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

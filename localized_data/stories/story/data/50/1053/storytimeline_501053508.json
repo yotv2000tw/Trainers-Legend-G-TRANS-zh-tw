@@ -1,0 +1,43 @@
+{
+  "Title": "レース疲れ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "はぁ……。\n……あ……トレーナーさん、どもっス……！",
+      "ChoiceDataList": [
+        "なんか、疲れてる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "い、いえいえ全然！！\u3000元気っスよ！？\nこれから素振りをするくらい――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "――って、竹刀がないっス……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "ア、アハハ……！\nそういえば部屋で干してたんでした！\nちょっと取ってくるっス～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……もしかするとバンブーメモリーは、\nレースの疲労が残っているのかもしれない。\n今後の出走予定を見直す必要がありそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "Title": "天皇賞（春）にむけて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "――……ン、バ場状態も天候も\nシミュレーションどおり。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "（あとは向こうで細かい数値見て、\n『Parcae』に作戦を――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "> Do you start to initialize ?\n> [y]:",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "（再構築した『Parcae』は変わりなく、\n正しい答えを吐き出し続けている。\nなにも変わらねェ。ただ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……それこそオカルトだな。\n“なにも感じなくなった”……なンて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "（バカげてる。コイツはただのプログラムだ。\nバカげているが……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "（あの時、もう1度最悪な運命を\n見せてきたのは……オレを煽るためだったと、\nなぜか納得している自分がいる）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……行くか。\n――オレも、再起動しねェと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新聞の見出し",
+      "Text": "『豪華メンバー集結！\n春天を制するのは――優等生の逆襲か、\n下剋上が起こるか、やはり歌劇王か！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "WEB記事",
+      "Text": "『天皇賞（春）特集！\n頂上対談――ライバルたちの本音』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "通行人A",
+      "Text": "さすが盛り上がってんなぁ、春天！\nそういや今日だったか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "通行人Ｂ",
+      "Text": "そういえば、この前テレビで言われてたさ～、\n不愛想な……エアシャカールだっけ？\nあの子も出んでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "通行人Ｂ",
+      "Text": "あんだけ言われるって、相当だよな。\nあのメンツの中でやれんのかねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "通行人A",
+      "Text": "……っ！\nお、オイ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ア？\u3000なンか言ったか？\n聞こえねェなァ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "通行人A&B",
+      "Text": "ひえっ……！\nなんでもないです……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "なンでもないなら\n逃げンじゃねェよ。",
+      "ChoiceDataList": [
+        "もう大丈夫そうだな",
+        "もう大丈夫そうだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……あァ。\nとっくに余裕だっつの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "つか、どこで判断してンだよ。\nビビられてるとこ見て頷いてンじゃねェ。",
+      "ChoiceDataList": [
+        "せっかくなら歓声を浴びたいよな",
+        "せっかくなら歓声を浴びたいよね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "そうかァ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "だが……その仕組みもワケわかンねェよな。",
+      "ChoiceDataList": [
+        "ん？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "嫌われてても、\nオレが1番強かったら、1番人気はオレだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "当然そうなる場面もある。\nだが本質的には違う。",
+      "ChoiceDataList": [
+        "……人気者になりたいのか？",
+        "……人気者になりたいの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "あァ！？\nキモいこと言ってンじゃねェ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "なンの理屈でそうなンのか、\n考えただけだ。",
+      "ChoiceDataList": [
+        "人によって色んなドラマがあるからな",
+        "人によって色んなドラマがあるからね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ドラマ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "――そういや……夢や意地を\nぶつけ合うようなライバル、だったか？",
+      "ChoiceDataList": [
+        "え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "前に、クソみてェなヘイターが言ってたこと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "オレにはそういう存在がいねェから、\n“本物”かもわかンねェって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "運がよかったとかよ……。\nマジでうるせェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "でも、好き勝手言わせンのも終わりだ。\n終わりにする……そうだろ？",
+      "ChoiceDataList": [
+        "じゃあ、勝てるよな？",
+        "じゃあ、勝てるよね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "はッ。\n立派に煽ってくンな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "確証のない希望は言わない。\nだが……もう呪詛も吐かねェよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客たち",
+      "Text": "あっ、出てきたよ！\nきゃあああああああ～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "新緑眩しい夏の前に、麗しい最後の春……\nつまりボクがやってきたよ！\nさあ、盛大に目で楽しみたまえ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "どれ、投げキッスも必要かな！\nそら、そら～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "ほら、ドトウも！\n大いに盛り上げていこうじゃないか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メイショウドトウ",
+      "Text": "ひえ～～……！\nえ、え～とぉ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メイショウドトウ",
+      "Text": "そ、そらぁ～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（うおおおおお……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メイショウドトウ",
+      "Text": "ひえっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "ふふっ。\n私も負けてられないな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "みなさん！\nご声援、ありがとうございます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "そう、その声が……私の力になるんです。\n素敵なライバルたちとの、\n心躍るレースで応えますから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "――あなたとも、\n真っ向勝負できることを、楽しみにしてます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "オレは別に、\n楽しみじゃねェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客A",
+      "Text": "あれ……エアシャカール、\n本当クール……っつかもはや愛想ないよな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客B",
+      "Text": "なんか、ちょっと冷める……。\nどうせなら大暴れしてくれたほうが面白いわ。\nそういうキャラじゃなかったっけ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "（運がよかった？\nこの状況見て、誰がそう言えンだよ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "（同世代とか、ライバルとか……。\n押しつけンな。オレには関係ねェ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "（見られるために、走ってンじゃねェ。\n自分を上げてくためだ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "――それがオレの意地だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "（誰の期待もいらねェよ。\n終われば“本物”の意味がわかる――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "今日こっから、\n上がっていく……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

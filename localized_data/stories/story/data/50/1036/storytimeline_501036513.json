@@ -1,0 +1,329 @@
+{
+  "Title": "“コレ”で証明",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "――エアシャカールさん、\n目線ください！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "次はこちらにお願いしまーす！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今日はエアシャカールの取材日。普段、\n取材に積極的ではない彼女から話を\n聞けるとあり、多くの記者が集まっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "特に今回は、勝負服での撮影がメインという\nこともあって、質問も関連するものが多く――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者C",
+      "Text": "全体的に尖った印象ですが、\nご自身の好みを反映しているのでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "“尖った”の定義を示せよな……\n好みといやァ、ま、そうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者D",
+      "Text": "普段のファッションも、\nこの勝負服と似たテイストですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "“好みといえばそうだ”とさっき言った。\n次の質問は？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "エアシャカールが淡々と答えていき、\n質疑応答は順調に進んでいた。\nすると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者E",
+      "Text": "トレーナーさんに\n質問してもよろしいでしょうか？",
+      "ChoiceDataList": [
+        "俺ですか？",
+        "私ですか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者E",
+      "Text": "はい。エアシャカールさんの勝負服について、\n感想をお聞かせください。",
+      "ChoiceDataList": [
+        "1番かっこいいです",
+        "彼女らしいと思います"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者E",
+      "Text": "1番……とわざわざ言及した、ということは、\n他の子と比べてということでよいでしょうか？",
+      "ChoiceDataList": [
+        "はい、シャカールが1番です"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者E",
+      "Text": "……とのことですが、それを受けて\nエアシャカールさんはどう思われますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "そいつの思い込みなンか\n今に始まったことじゃねェ。\n答えは『クソどうでもいい』だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "“1番”なのは、\n間違いねェがな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後も取材は順調に進み、\n最後の質問となった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者E",
+      "Text": "らしい……というと、\n例えばどのあたりが？",
+      "ChoiceDataList": [
+        "彼女の個性と調和しているところです"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "エアシャカール自身がそもそも、\nとても目立つビジュアルをしている。\nだからといって、引き算はしない――",
+      "ChoiceDataList": [
+        "最大公約数の魅力を出せていると思います！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者E",
+      "Text": "確かに！\u3000エアシャカールさんの華やかさが、\nより惹きたてられてますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……華やか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後も取材は順調に進み、\n最後の質問となった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者F",
+      "Text": "――勝負服について、\nこだわったポイントはどこでしょうか？",
+      "ChoiceDataList": [
+        "（いい質問だなぁ）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "エアシャカールの勝負服へのこだわりと\nいったら、凄まじいものがあった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "まず信頼できるデザイナー探しから始まり、\n素材選び、蹄鉄の細かなディティール……\n全て満足いくまで、徹底的に関わっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "『――本当に美しいプログラムは、\nそれ自体が目立たず機能していることだ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "計算して布地を削いだこと、クセを意識して\nつけたスカーフ……他にも話すポイントは\nたくさんある。そう思っていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "こだわりねェ。\n……そンなの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "見りゃわかる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者F",
+      "Text": "え？\n……シャカールさんっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "突然囲みを抜けたエアシャカールは、\nコースのスタート位置につくと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "はッ…………！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "号砲に合わせたかのように瞬発的に\n飛び出すと、腰のスカーフをなびかせ\nコースを回り、そして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ふー……。",
+      "ChoiceDataList": [
+        "（相変わらず、豪快で素晴らしい！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者たち",
+      "Text": "……あっ、やばい！\n魅入ってた！\u3000写真！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……フン。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "これで最後の質問も答えたな？\n取材は終わりだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者F",
+      "Text": "えっ！？\nまだ質問の答えをもらってませんよ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "答えは“見せた”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "先に戻る。\n後は適当にやっとけ。",
+      "ChoiceDataList": [
+        "あ、ああ……！",
+        "う、うん……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者F",
+      "Text": "あの、トレーナーさん……\n一体どういう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女は嘘をつかない。であれば、ここまでで\n答えに辿りつける途中式を示しているはず。\nそれさえわかればおのずと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "『――本当に美しいプログラムは、\nそれ自体が目立たず機能していることだ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……エアシャカールは、プログラムが\n機能したところを見せた。それは彼女の\n走り“だけ”に、全ての目を向けさせた。",
+      "ChoiceDataList": [
+        "恐らくですけど、その答えは――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "オイ。\nお前……この記事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "『繊維1本1本が数字となり、\n完璧に編まれた式が、“走る”という\nシンプルな解を示す。』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "『パドックではエキセントリックさを、\nレースでは研ぎ澄まされた美を見せる――\n彼女の勝負服は正しく“suit”だ。』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "なンだこの過剰な煽り。\nンな話してねェだろ。",
+      "ChoiceDataList": [
+        "でも、走りがそう“証明”してたぞ",
+        "でも、走りがそう“証明”してたよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……ウザ。\nわかったような口利くなっつーの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

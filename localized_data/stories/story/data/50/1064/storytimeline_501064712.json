@@ -1,0 +1,61 @@
+{
+  "Title": "不在の理由は……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーニングの時間になっても\nメジロパーマーが現れないので、\n捜しに行くと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女の子",
+      "Text": "――わー、すごい！\r\nおねえちゃん、あなほり名人だー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "えへへ、すごいっしょすごいっしょ。\r\nじゃあこっちのトンネルも繋げちゃおっかー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "あ、トレーナーじゃん。\n今ね、1人で退屈だって言うこの子と、\n一緒にトンネル作りしてたんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "せっかくだし、どう？\nトレーナーも一緒にやる？",
+      "ChoiceDataList": [
+        "……トレーニングは？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "へ？\u3000あ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "うぁぁぁ、ごめん！\u3000忘れてた！\r\n私、なにやってんだ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "子どもの遊び相手になる優しさは褒めつつ、\nとはいえ予定を忘れるのはよくないと\n軽く注意をしたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

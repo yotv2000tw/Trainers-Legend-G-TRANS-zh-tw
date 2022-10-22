@@ -1,0 +1,79 @@
+{
+  "Title": "ファンレター",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ねえねえトレーナーさん、\r\n『ホット宅配便』ってないかな～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーナー室に来るなり、\r\nヒシアケボノが妙なことを聞いてきた。",
+      "ChoiceDataList": [
+        "ないと思うけど……どうして？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "えへへ～、実はあたし宛に、\r\nこんな手紙が届いたんだ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "『ぼくはボーノさんのレースが大好きです！\r\nおおきくて、がっしゅがっしゅ、\nトラックみたいです！』って♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "嬉しくて、お返事書こうと思ったんだけど\r\n『忙しいでしょうからお返事はいいです』\nって、お母さんから書いてあって～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "だからお返事の代わりに、\r\n手作りの『南海ちゃんこ鍋』とか\n送るのどうかな～って♪",
+      "ChoiceDataList": [
+        "それは送られても困らないか……？",
+        "それは送られても困らない……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "そっか～。どのみち『ホット宅配便』が\r\nないんじゃ送れないもんね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "あ、そうだぁ！\u3000ならクールで送れる\r\n手作りの『バーレルアイス』にしよっと！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "今から仕込みをしてこなくっちゃ♪\r\nちょっと近所のスーパーへ……。",
+      "ChoiceDataList": [
+        "普通の返事にしておこう！",
+        "普通の返事にしておこうよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "仕込みに入ろうとするヒシアケボノを慌てて\r\n止める。どんな大きな器にも入りきらない\n嬉しさを、手紙からもらったようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

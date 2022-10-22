@@ -1,0 +1,337 @@
+{
+  "Title": "ホップステップで大ピンチ！ですわっ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "カワカミ先輩～、やっぱ無理ですって！\r\nあの木、2階より高いじゃないすか！\u3000用務のヒト呼んできますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "取りに行かなくても、レポートぐらい書き直しますからっ。\r\n無茶してケガしちゃったらどうするんですか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "あら、遠慮しないで！\u3000私は姫ですわよ？\r\nそして、姫ならばあのぐらいの高さお茶の子さいさいですわっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "いっきますわよ～～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "お姫様になりたい――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "キラキラで、可愛くて、みんなが憧れるお姫様。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いカワカミ",
+      "Text": "こーーらーーっ！！！！\u3000弱いものイジメはダメでしょ！\r\nぶっ飛ばしますわよ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子A",
+      "Text": "うわっ、でた！！\u3000キョーボーウマ娘だ！！\r\nにげろっ、けられるぞーっ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男の子B",
+      "Text": "だれがお姫さまだよ、キョーボー！\u3000キョーボー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミの母親",
+      "Text": "また、あの子に泣かされたって苦情の電話が来たのよ？\r\nどうしてあんなに乱暴者なのかしら……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミの父親",
+      "Text": "あの子はお姫様になりたいんだろう？\r\nかわいいお姫様でも手本にさせたらいいじゃないか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミの母親",
+      "Text": "ねえ見て？\u3000この絵本のお姫様はおとなしいでしょ？\r\nお姫様になりたいなら、静かないい子でいなくっちゃ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いカワカミ",
+      "Text": "（ふ～んだ。お母様はわかってないわ。\r\n本当のお姫様っていうのは――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "TVの音",
+      "Text": "『姫たるものっ！\u3000華麗に、優雅に、勇ましく！\r\n爆走猛姫☆プリンセスファイター！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いカワカミ",
+      "Text": "ほら！\u3000おてんばだってお姫様になれるもんっ。\r\n私、お姫様になるわ！\u30001番強いお姫様に！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "そう、私は姫になりますの――\r\n華麗で、優雅で、勇ましいお姫様にっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "新人トレーナーとしてトレセン学園に来て、ひと月あまり。\r\n学園に慣れようと、敷地内を歩き回っていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "どぉおおおりゃぁあああ～～～っ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "って、ちょっ、なっ、お、おどきになってぇええ～～っ？？！？！",
+      "ChoiceDataList": [
+        "うわ……っ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "猛烈な勢いで走ってきた、1人のウマ娘。\r\n彼女は、素晴らしい反応速度でこちらを避けると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "壁を使い、空へ向けて高々と跳び上がった！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "……ふう、危ないところでしたわ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "って――みぎゃぁあああ！？！！\r\nどどどど、どうしましょう、やっちまいましたわ！？",
+      "ChoiceDataList": [
+        "（こ……今度は何だ！？）",
+        "（こ……今度は何！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "カワカミ先輩～、大丈夫っすか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "ってヤバッ！\u3000壁、めちゃくちゃ穴開いてるじゃないすか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "もう、だから止めたのに。\r\nカワカミさんったら話も聞かずに飛び出すんですから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ううう……ち、違うんですの～、こんなはずではっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "カ～ワ～カ～ミ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "お前という奴は、なぜそうも暴れ者なんだ、カワカミプリンセス！\r\n校舎にこんな大穴を開けるなど、前代未聞だぞ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ひいぃ！\u3000ごめんなさいっ、わ、わざとじゃありませんの！\r\nこれには海よりも深ぁ～い訳が――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "ええい、言い訳は生徒会室で聞く！\r\n大人しくついて来るんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "あ～～れ～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "ヤバい！\u3000俺たちも追いかけようぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "何が起きたのかがわからないまま、ついカワカミプリンセスが\r\n連行された生徒会室前までついてきてしまった。",
+      "ChoiceDataList": [
+        "結局、さっきは何をしていたんだ？",
+        "結局、さっきは何をしていたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "アタシのレポートが木に引っかかっちゃって、\r\nカワカミさんがそれを取ろうとしてくれたんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "俺らは、危ねーからって止めてたんだけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "ふむ……では、壁の破壊は故意ではなく、\r\nあくまで友人への助力を試みた結果だと？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "その通りですわ……。私、ただ木に引っかかった\r\nこれを取りたかっただけですの……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "このレポートを書くために、昨夜、\r\nスカーレットさんは、それはそれは頑張ってましたわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "なのに、たかが風ごときがそれをさらってしまって！\r\n姫として、捨て置くことなどできなかったのです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "だからといって、なぜジャンプで取ろうなどと短慮を起こす。\r\n梯子なりなんなり、道具を探せば済む話だろうが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "でもあのぉ……素手で挑んでこそ姫というか……。\r\nほら、よく言いますでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "『ピンチは、パンチでねじ伏せる！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアグルーヴ",
+      "Text": "そんな格言はない！\r\nまったく、大体お前は先日も――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "ああ～、やっぱ怒られてる。困ってるヤツをほっとけないのは、\r\n先輩のカッケェとこだけど、穴はまずいよな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "あの時、ちゃんと止めたらよかったわ。\r\n……まあ、それで止まらないのがカワカミさんだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "とほほですわ～……。\r\nさすがエアグルーヴさん、甘くないですわ～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "カワカミさん！\u3000大丈夫でしたか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "お2人とも……大丈夫、わざとじゃないのは伝わりましたわ。\r\n修理の手配も生徒会でしてくださるって。ただ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウオッカ",
+      "Text": "た、ただ――？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "その代わり、無駄に生徒会のお仕事を増やした罰で、\r\n今日1日、雑用係を命じられてしまいましたわ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "まずは校内の、いらないポスターの回収からですわ～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "これが、元気な暴走プリンセス――\r\nカワカミプリンセスとの出会いだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

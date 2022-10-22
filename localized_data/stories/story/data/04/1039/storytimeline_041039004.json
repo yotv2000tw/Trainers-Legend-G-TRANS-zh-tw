@@ -1,0 +1,318 @@
+{
+  "Title": "私こそがお姫様っ！ですわっ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして、選抜レース当日。\r\n出走前のカワカミプリンセスに会いに行くと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ごきげんよう、トレーナーさん。\r\n観に来てくれましたのね。",
+      "ChoiceDataList": [
+        "調子はどう？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ぶっちゃけ寝不足ですわね！\u3000悩みすぎてわけがわからなくて、\r\nあれからプリファイ全49話、一気見しちゃいましたわっ！",
+      "ChoiceDataList": [
+        "だ、大丈夫なのか！？",
+        "だ、大丈夫なの！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "わかりません！\u3000けど、やるしかないですわ。プリファイも\r\n『姫たるもの最後は当たって砕けるな！』って言ってましたし！",
+      "ChoiceDataList": [
+        "応援してるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ありがとうございます！\u3000では、行って参りますわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "昨晩の雨から一転、青空のもと始まります選抜第3レース。\r\n実力を示し、デビューへの切符を掴むウマ娘は果たして誰か！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "実力伯仲、いつにない混戦ムードが立ち込める中、\r\n全てのウマ娘がゲートに入ります。そして、今――スタート！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "は……っ、は……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（あぁ、やっぱり全力で動くって気持ちいい……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（昔からそうだった。お姫様は好き。でも動くのも大好き）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（キングさんと出会った時は、感動しましたわ。\r\n優雅で、お姫様みたいで……でも絶対に挫けないあの強さ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（プリファイもキングさんも、同じ輝きを持ってた。\r\nキラキラして、眩しくて、うらやましかった……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（でも、じゃあ私が本当に憧れていたものって、何……？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "はあ……はあ……、く……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（苦しい――わからない。真似っこしたってわからなかった。\r\n私がなりたいもの……私がなりたい、お姫様って……？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（トレーナーさんは、あるって言ってくれたのに……。\r\n私の“理想”が、あるはずなのに――！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "…………あっ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "おーーっと、最終コーナー手前、これは滑ったかっ！？\r\nカワカミプリンセスが外へとヨレる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナーA",
+      "Text": "ぬかるみに突っ込んだか……コース取りのミスだな。\r\nまあ、デビュー前の子なら仕方がないか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人トレーナーA",
+      "Text": "ここから巻き返すのは難しいかな……かわいそうに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（わからない……私じゃダメなのかな……？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（私じゃ……お姫様になれないのかな……？）",
+      "ChoiceDataList": [
+        "負けるな！君はお姫様だろ！！",
+        "負けるな！貴方はお姫様でしょ！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "――～～ッ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "こらえた！\u3000再び、懸命に走り出したカワカミプリンセス。\r\nしかし先頭集団からかなり距離が開いてしまったぞ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "追いつけるか？\u3000差は縮まらない。それでも走る――",
+      "ChoiceDataList": [
+        "走れ！“理想の君”を諦めるな！",
+        "走って！“理想の貴方”を諦めないで！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "～～～～ッ、がってん、承知、ですわぁあああ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "お～っと、すごい！\u3000すごいぞカワカミプリンセス、\r\nものすごい猛追です。大外から先頭集団に一直線、これは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "あああああっ、私は……っ、姫です！\u3000私が姫になるんですっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（そうだ。私はただ、諦めないでいたかった。\r\n“お姫様になること”も“私らしさ”も――！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "（だって“理想”なんて、自分の延長線になきゃ意味ない。\r\n憧れも私らしさも、全部捨てずに走らなきゃ意味がないから！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "どぉおおおりゃぁあああ～～～っ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "ゴォーーールッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "完全燃焼！\u3000不屈の闘志を見せつけました、カワカミプリンセス！\r\n勝ったのはカワカミプリンセス、今1着でゴールインッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ごらんあそばせっ！！！\r\n姫たるもの、逆境なんてぶっ飛ばしてナンボですわ～～～！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "トレーナーさ～ん！\u3000やりましたわっ！\r\nさすがは私！\u3000勝利をもぎとりましてよっ！！",
+      "ChoiceDataList": [
+        "おめでとう！すごかったぞ！",
+        "おめでとう！すごかったよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "トレーナーさんの声援のおかげですわ！\r\nあの時聞こえた声、私、この先もずっと忘れません！",
+      "ChoiceDataList": [
+        "答えは出た？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ええ！\u3000私は、やっぱり『華麗で、優雅で、勇ましい』\r\nお姫様になりたいです。だけど、お姫様って本当は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "なりたい自分を諦めず、泥んこでも走り続ける者のことを\r\n言うんですわ！\u3000“理想”を諦めない姿こそが、姫！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "だから、今ちょっと優雅じゃないことくらいどうってこと\r\nありません！\u3000私は私らしく、いつか優雅さも手に入れてみせます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "晴れやかな彼女の表情を見て、伝えるなら今だ、と心を決める。",
+      "ChoiceDataList": [
+        "その夢を、手伝わせてくれないか？",
+        "その夢を、手伝わせてくれないかな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "うえっ？\u3000……あ、手伝いって、あああの、もしかしてっ！？",
+      "ChoiceDataList": [
+        "今はまだ“伝説のトレーナー”じゃないけど"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女がお姫様として自分の“理想”を追い求めるなら、\r\n自分は彼女を支える“伝説のトレーナー”を目指したい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ふぉおおおおお～～～～っ！！！",
+      "ChoiceDataList": [
+        "！？！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "もっちろんですわ！\u3000私が“理想”を見失った時に、\r\n目を覚ましてくれたのはトレーナーさんですもの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "貴方とならきっと、私は“理想”のプリンセスになれます！\r\nいいえ、なってみせますっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "2人で伝説をぶち上げますわよ～～！\r\n目指せ、華麗で！\u3000優雅で！\u3000最強最速のお姫様っ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして、豪快おてんばプリンセスこと――\r\nカワカミプリンセスとの日々が始まったのだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

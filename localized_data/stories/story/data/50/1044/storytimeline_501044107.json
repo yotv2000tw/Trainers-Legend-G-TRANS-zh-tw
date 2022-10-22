@@ -1,0 +1,332 @@
+{
+  "Title": "バレンタイン",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ふっふっふ。イイ感じ！\nあと少しで完成よ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "不敵に笑うスイープトウショウのもとへ、\n寮長のフジキセキが様子を見にやって来た。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "フジキセキ"
+      ]
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "おや？\u3000なにをしているかと思えば、\nスイープがお菓子作りなんて珍しいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "アタシだってお菓子くらい作るわよ！\nバレンタインらしくチョコをね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "これを使い魔に食べさせて、\nアタシの言いなりにするのよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "雑誌のバレンタイン特集……。\n『とりこにしちゃう魔法のチョコレシピ』か。\nふふっ、これは効果がありそうだね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "あっ、そろそろ焼きあがるわ！\nこれがスイーピー特製“ベイクドチョコ”よ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "――って、くさ～い！？\nなによこの臭い！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "うーん……。\nちなみに、なにを入れたのかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "別に普通の材料しか入れてないわよっ！\n本にあったとおり、チョコと粉糖と……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "効果を高めるために、ヨモギとドクダミ……\nヤマグワとノイバラも煮詰めて入れたわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "そうか、高濃度の魔力が宿ってるんだね！\n……けど、君の使い魔さんに耐えられるかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "！！\u3000そうよね……アタシの使い魔とは\nいっても、魔力は並以下だもの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "よかったら、作り直さない？\n私でよければ手伝うよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "うん、材料も分量もOKだね！\nここまではちゃんとレシピどおりに――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "『次はオーブンでじっくり焼く』ですって！\nふんっ、アタシを舐めてるでしょ！？\n呪文をかければあっという間にできるもん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "万物を焦がしちゃえっ！\nサルビア☆スプレンデンス……で温度アップ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "おっと……すごい魔力の消費だ！\nエネルギー切れにならないよう、\n少しだけ調節させてもらうね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "あとは包むだけね！\u3000魔力が逃げないよう、\nガチガチに魔法のロープで拘束して……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "おや？\u3000魔導書によると『かわいいリボンを\nふんわり結んでメロメロ』って書いてあるね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ホントだわ！\u3000虜にする魔法、\nなかなか奥が深いわね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーナー室で業務に励んでいると、\n上機嫌のスイープトウショウが訪ねてきた。\nそして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "使い魔……ハッピー・バレンタイン！\n特製ベイクドチョコを受け取りなさい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうか……今日はバレンタイン。\n仕事に追われるあまり、すっかり忘れていた。",
+      "ChoiceDataList": [
+        "ありがとう、嬉しいよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "箱を開けると、焼きあがったチョコの香りが\n部屋に漂った。美味しそうだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "アンタのために作った、特別なチョコよ！\nそれを食べたらきっと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "（きっと……気づいた時には、アタシの虜！\nそしてアンタは――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "（アタシの言いなりになって、\nますます使い魔らしくなっちゃうんだから！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "――ふふっ！\u3000きっと病みつきの味よ！\nそれに、フジさんに手伝わせて魔力も\nマイルドにしたからアンタに丁度いいわ！",
+      "ChoiceDataList": [
+        "2人からのチョコってことか",
+        "2人からのチョコなんだね"
+      ],
+      "ColorTextInfoList": [
+        "フジ"
+      ]
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "そうそう、2人からの――えっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "（ちょっとまって……！\u3000ということは、\n2人分の魔力がチョコに入ったってこと？\nそれってつまり――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "さあ、使い魔さん。私のためにも\nたくさん働いてもらおうかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "フジキセキ",
+      "Text": "ふふっ、逆らうなんて言えないだろう？\n君は私に夢中なのだから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "――そんなのダメっっっ！！",
+      "ChoiceDataList": [
+        "え！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "アンタはアタシの使い魔でしょ！\nそのチョコ、さっさと返しなさい！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "目にも留まらぬ速さで\nチョコレートを取り上げられてしまった！",
+      "ChoiceDataList": [
+        "ど、どういうことだ？",
+        "ど、どういうこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "どうもこうもない！\nダメなものはダメなの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "スイープトウショウの手作りチョコは、\n彼方へと消えたのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "――そんなのダメっっっ！！",
+      "ChoiceDataList": [
+        "いただきます！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "口に入れた瞬間……外はサクッ、中はホロッ。\n洋菓子店顔負けの焼きチョコレートだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "あーーーっ！\u3000なんで食べるのよーー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "バカバカバカバカッ！！\n魔法の効果が出ちゃうじゃない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "いちおう聞くけど、フジさんにお使いとか\n頼まれても行かないわよねっ！？",
+      "ChoiceDataList": [
+        "困っているなら手伝うかも？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "～～～ッ！！\nアタシの使い魔のくせに、なに言ってんの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "こうなったら解呪の儀式よ！\nそこのソファに寝そべりなさい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今は逆らわないほうがよさそうだ……。\n言われたとおり、ソファへ横になる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "エプ・ミディアム、エプ・ミディアム！\n魂を主の元へ返しなさい！\u3000今すぐ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "…………よしっ！\u3000これでどう？\nこのアタシとフジさん、どっちが\nアンタの主か思い出した！？",
+      "ChoiceDataList": [
+        "それは……君だよ",
+        "それは……貴方だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ほっ……まったく手がかかるんだから！\nいい？\u3000これからも道に落ちてるものとか、\n勝手に食べたら承知しないわよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "表現は不器用だが、彼女なりに\n大切に思ってくれているらしい。\nそれがよくわかるバレンタインだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

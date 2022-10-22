@@ -1,0 +1,463 @@
+{
+  "Title": "導きの標となりしは智",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……はぁ……はぁ……はぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――せいっ！\u3000やぁっ！\r\nふっ！\u3000たぁっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――破ァッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……45！\u3000……46！\u3000……47！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "トレーナー殿、\r\n本日もよろしくご指導願います！",
+      "ChoiceDataList": [
+        "まずはペース走から"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "押忍！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ハアアアアッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "はぁっ、はぁっ、はぁ……。",
+      "ChoiceDataList": [
+        "今日のメニューはこれで終了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "はい。……恐れながら、\r\n残って自主鍛錬をしたく。",
+      "ChoiceDataList": [
+        "了解。あとでトレーニング内容の報告を"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "承知しました。\r\nありがとうございました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "はっ、はっ、はっ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ふぅー……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（私が至れぬ“執着”……\r\nそれを生む術はいまだ不明）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（だが、チヨノオーさんや\r\nアルダンさんの限界を超えた走り。\nあの原動力は、恐らく“執着”）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（ならば、自身を追い込んだ先で、\r\n“執着”を得られるやもしれぬ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "極限状態に身を置く。\r\n……今はその策を貫くべし……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "事務仕事を終えて帰る途中で\r\nグラウンドに立ち寄る。\n案の定、ヤエノムテキはまだ走っていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "やり過ぎないよう注意は払っているが、\r\nあまりいい状態とは言えない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "何より精神的に張り詰めているように感じた。\r\n少し目先を変えてあげたほうがよいだろう――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客Ａ",
+      "Text": "うわ、結構混んでるな！\r\nメインの『天皇賞（秋）』の出走まで、\nまだかなり時間あるぜ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客Ｂ",
+      "Text": "やっぱみんな注目してんだろ。\r\n歴史に残るレースになるかもしれないし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今日はヤエノムテキを誘い、\r\n『天皇賞（秋）』の観戦にやってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客Ａ",
+      "Text": "どっちが勝つと思う？\r\n俺はタマモクロス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客Ｂ",
+      "Text": "いやぁ、オグリキャップだろ！\r\n初GⅠ制覇、飾ってほしいじゃん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "驚くべき注目度の高さですね、\r\nタマモさんとオグリさん。",
+      "ChoiceDataList": [
+        "頂上決戦なんて呼ばれてるな",
+        "頂上決戦なんて呼ばれてるね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "快進撃を続けるタマモクロスと\r\nオグリキャップの直接対決。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "互いをライバル視し合う関係は、\r\nヤエノムテキとサクラチヨノオーたちに\n近いともいえる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "だから、オグリキャップたちのレースが\r\n何かヒントになればと思い、観戦に誘った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "おふたりとは今後、\r\nレースでまみえる機会もあるかと。\nしかと研究させていただきましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客Ｃ",
+      "Text": "キャーッ！\u3000オグリーッ！！\r\n頑張ってねー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客Ｄ",
+      "Text": "タマモクロス、\r\n今日もぶちかましてくれよーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "なんたる熱気の坩堝【るつぼ】か……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "この熱狂の渦中に、\r\nタマモさんとオグリさんが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "文句なしの舞台やんなあ、オグリ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ウチとアンタのどっちが強いか、\r\nどっちが“最強”か。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "このレースで白黒つけようや！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "……“最強”は……\r\n考えたことがなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "私はタマに勝ちたい。\r\nタマに勝つ。それだけだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（オグリさんの雰囲気が……\r\n『毎日杯』と違う……？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "200mを切った！\u3000タマモクロス先頭！\r\nオグリキャップかタマモクロスか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "このままゴールまでぶっちぎる！！\r\nどぉりゃぁぁああああああっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "――ここだッ！！\r\nはあああああっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "さあ、オグリキャップ追いつめる！\r\nタマモクロス逃げる！\u3000タマモクロス逃げる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "勝つ、勝つ、私はタマに勝つ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "オグリキャップちょっと届かない！\r\nタマモクロス！\u30001着はタマモクロスです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ワァァアアアァァァアアアアアアッ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――――……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ははっ！\u3000やったで！\u3000ウチの勝ちや！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "くっ……次は負けない……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "なんや？\u3000リベンジ挑むつもりか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "ああ。タマに勝つまで、何度でも！\r\n私はタマに勝ちたい！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タマモクロス",
+      "Text": "ええで。何度でも向かってきい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……オグリさんは……\r\nオグリさんの“執着”は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "『タマモさんに勝ちたい』。",
+      "ChoiceDataList": [
+        "そうみたいだな",
+        "そうみたいだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "…………なるほど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "……ヤエノ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "ああ、いえ…………有意義な観戦でした。\r\n私も『大阪杯』に向け、励まねば。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう言ってヤエノムテキは笑った。\r\nだが、彼女のまとう空気がどこか沈んで\n感じられたのは、気のせいだろうか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "……“執着”、か……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（無我の境地にあるオグリさんには、\r\n“執着”などないと勝手に思い込んでいた）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（しかし……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オグリキャップ",
+      "Text": "ああ。タマに勝つまで、何度でも！\r\n私はタマに勝ちたい！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（あれは、紛れもない“執着”）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（荒ぶる激しさはあらねど、\r\n放たれた矢の如き直なる想い）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（オグリさんも。チヨノオーさんも。\r\nアルダンさんも）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（目標への想いを\r\n“執着”へと昇華させている）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "（後れをとっているのは、私1人……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "――トレーナー殿が言っていた。\r\n“執着”がなくとも、強くなることはできる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "だが、“執着”を抱く者との差は、\r\nいかほどになるか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "譲りたくはない。強者に打ち勝つ強さを得て、\r\nじいちゃんたちに我が成長を見せたい……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "強き想いは心【ここ】にある！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヤエノムテキ",
+      "Text": "“執着”に至るに足りぬのは、何か……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

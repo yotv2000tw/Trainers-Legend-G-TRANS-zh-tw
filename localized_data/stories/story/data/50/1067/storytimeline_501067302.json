@@ -1,0 +1,513 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "帰り道、サトノダイヤモンドと\r\n商店街を通りかかったところ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、楽しい楽しい福引だよ！\nどなたでもどうぞ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "わあ、福引ですって！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あれは……ガラガラって回すタイプですね！\r\nやっぱりくじは、そうでなくては！",
+      "ChoiceDataList": [
+        "何かこだわりがあるのか？",
+        "何かこだわりがあるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あのタイプは自分の手で回すため、\r\n力加減や回す速さを調整できますでしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "自分次第で幸運をつかみ取れる感じがして\r\nよいのです！",
+      "ChoiceDataList": [
+        "福引、やってみる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "買い物をした時に福引券を1枚\r\nもらっていたのを思い出し、尋ねてみた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "やりたいですっ！！\r\n特賞、引き当ててみせますから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "えいりゃ～～んっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "サトノダイヤモンドは並々ならぬ気迫で\r\n抽選器のレバーを回した！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なんとっ！\u3000おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "や……やりました～～っ！！\r\n特賞っ！\u3000特賞ですよ、トレーナーさんっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ね？\u3000ね？\u3000言った通りでしょう？\r\n幸運は気合いでもぎ取るものなんですっ！！",
+      "ChoiceDataList": [
+        "ああ、すごいな……！",
+        "うん、すごいね……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "宣言通り特賞を引き当てるなんて、\r\n本当に彼女の気合い勝ちのような気がした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "うふふ、今年はよい1年になりそうです♪",
+      "ChoiceDataList": [
+        "温泉、キタサンと行っておいで"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "いえ、トレーナーさんに差し上げます。\r\n福引券はトレーナーさんのものですから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "私は福引ができただけで満足です！",
+      "ChoiceDataList": [
+        "だけど当てたのは君だし……",
+        "だけど当てたのは貴方だし……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "でしたら、私とトレーナーさんで\r\n行きましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "慰安旅行ということで。\r\nうん、それがいいです！\u3000決めました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "トゥインクル・シリーズ最初の3年間の\r\n区切りで、ねぎらい合いましょう！\n節目のお祝いや慰労は大切ですし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ご褒美があるとやる気も出ますでしょう？",
+      "ChoiceDataList": [
+        "そうだな",
+        "そうだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "では決まりっ！\u3000約束ですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "シニア級の1年を満足いく成績で戦い抜く。\r\nその暁に、この旅行券を使おうと約束した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "まあ、にんじんハンバーグ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ワイルドな見た目が素敵ですよね。\r\n実家ではにんじんが切り分けられていたので、\nこのスタイルは外食のお楽しみでした♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "私、この1本にんじんを倒さず\r\n綺麗に食べられるんですよっ！",
+      "ChoiceDataList": [
+        "最後まで倒さずに！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "はい♪\u3000まずにんじんの上の……\r\nやってみせた方が早いですね。\nトレーナーさん、これ、一緒に食べましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "うふふっ、ダイヤの秘技……お見せしますっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "優雅なフォークとナイフ捌きで、\r\nサトノダイヤモンドはにんじんを倒さず\nハンバーグを綺麗に食べ進める。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "……ごちそうさまでした。\r\nさすがは特上ですね、おいしかったです！",
+      "ChoiceDataList": [
+        "見事な御手前でした……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "えへへ……昔、にんじんハンバーグの\r\nにんじんが倒れた方角に不運があるという\nジンクスを聞いたことがあって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "それなら、倒さず食べたら悪い方角なんて\r\n存在しなくなると思い、習得したんです。",
+      "ChoiceDataList": [
+        "ジンクスを破ろうとしたんだ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ええ。みなさん驚いてくださるので、\r\nお話のきっかけにもなるんですよ。\nトレーナーさんもやってみますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、サトノダイヤモンドから\r\n彼女の秘技の手ほどきを受け、\nにんじんを倒さない食べ方を身につけられた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "2等賞～！！\n賞品は『にんじん山盛り』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "わあ～、たくさんいただいてしまいました♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "トレーナーさん、どうぞお持ち帰りください。\r\n福引券はトレーナーさんのものですから。",
+      "ChoiceDataList": [
+        "こんなに食べきれないって！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あら……でしたら寮のみなさんに\r\nおすそ分けしましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "このままというのも味気ないので、\r\nお料理にして差し入れましょう♪",
+      "ChoiceDataList": [
+        "何を作るんだ？",
+        "何を作るの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "実は作ってみたいものがあって……\r\nにんじんたい焼きなんですっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "たい焼きに、みなさんが大好きな\r\nにんじんの餡を入れるんです。\nアクセントにキャロットラペを加えて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "生地にもにんじんを練り込んで……\r\nにんじんチップも混ぜましょう！\nオレンジ色の可愛いたい焼きです♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "そしてにんじん1本を丸ごと刺すんです！\r\nにんじんハンバーグのようにっ！！",
+      "ChoiceDataList": [
+        "ざ、斬新だな……",
+        "ざ、斬新だね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "トレーナーさんもそう思いますか？\r\n上手にできたら、グループの飲食部門に\n新メニューとして提案するつもりです♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "斬新すぎて少々不安を感じたため、\r\n調理の手伝いを申し出た。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "翌日――サトノダイヤモンドは、\r\n『にんじんたい焼き』が栗東寮生たちに\n大好評だったと報告してくれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "3等賞～！\n賞品は『にんじん1本』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "1本……すみません、トレーナーさん。\r\n貴重な福引券でしたのに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "私の気合いが足りなかったようです……。",
+      "ChoiceDataList": [
+        "なら、それを食べて元気を出そう！",
+        "なら、それを食べて元気を出して！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "え……？\r\n私がいただいて、よろしいのですか……？",
+      "ChoiceDataList": [
+        "ぜひもらってくれ！",
+        "ぜひもらって！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "たった1本しかない貴重なにんじんを私に……\r\nありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "…………ふふ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "トレーナーさんにいただいたにんじん……\r\n世界に1本だけの、私のにんじん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "きっと、世界一のお味がしますね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "サトノダイヤモンドが喜んでくれて何よりだ。\r\n――商店街の方は、世界一の味の\nプレッシャーで冷や汗をかいていたが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "…………はずれ、ですか…………？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "…………かい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "もう1回引きますっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "はずれなんて認めません！\r\nこの結果、覆してみせますっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "えーと……福引券はお持ちですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "いいえ。どこで買えますか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "販売はしてないんですよ～。\r\n商店街で買い物をするともらえるもので――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "買い物をすればよいのですね！？\r\nでは、行ってまいります！",
+      "ChoiceDataList": [
+        "待って！ちょっと落ち着こう！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "止めないでください！！\r\nサトノのウマ娘として、この困難から\n逃げるわけにはいかないのです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どうやらジンクス破りと同じく、\r\n不運への対抗心に火がついてしまったらしい。\n――いや、ムキになっているだけかも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "お財布なら……――あっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "この日、サトノダイヤモンドは財布を寮に\r\n忘れていたようだ。おかげでなんとか\n追加で引くのを思いとどまらせたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

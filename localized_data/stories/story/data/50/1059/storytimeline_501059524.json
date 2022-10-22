@@ -1,0 +1,371 @@
+{
+  "Title": "カラオケチャレンジ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日、メジロドーベルに誘われ\r\nメジロライアンとの買い物に\n付き添うことになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（～～♪）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……音楽？\r\n向こうの方から……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組スタッフ",
+      "Text": "残念、タイキシャトルさんの得点は89点！\r\n賞品の高級ステーキはお預けです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タイキシャトル",
+      "Text": "ノォ～……今日はこの賞品で\r\nみんなでステーキパーティーの\n予定だったのデスガ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タイキシャトル",
+      "Text": "オウ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タイキシャトル",
+      "Text": "ドーベル、プリーズ！！\r\nカラオケチャレンジしマセンカ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ええっ！？\u3000アタシが？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人たち",
+      "Text": "ねえねえ、次あの子が挑戦するのかなっ？\r\nふふっ、次まで見てこうよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "…………いや、そんな。\r\n助けてはあげたいけど、アタシは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "あ～……待って、タイキ。\r\nあたしが代わりに出てもいいかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ライアン……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（……ライアンは優しい。\r\nアタシが困った顔をしていると、\nいつだって代わりに請け負ってくれる）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……でも、このまま\r\n頼り続けてばかりじゃ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組スタッフ",
+      "Text": "次の挑戦者、募集中でーす！\r\nカラオケ採点に挑戦する人いませんかー？",
+      "ChoiceDataList": [
+        "ドーベルが挑戦します！",
+        "ライアンの優しさを今は受け取っておこう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "えええっ！？\u3000ま、待ってください！\r\nちょっとその、人目が多すぎるっていうか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……っ。ううん、ライアン。\r\n挑戦したいの。アタシがやってみたいの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組スタッフ",
+      "Text": "では次の挑戦者の方、どうぞ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……メジロドーベルです。\r\n『青春が待ってる』を歌います。\nその友人も……歌ってて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "あわわ、ドーベル\r\n大丈夫かな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "カラオケ機材から音楽が鳴り始め、\r\n街行く人々がメジロドーベルの方を\n一斉に見る。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "通行人A",
+      "Text": "あっ、あれ！\u3000メジロドーベルだ！！\r\n私、あの人の歌声好きなんだよね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "通行人B",
+      "Text": "何を歌うんだろ？\u3000やばっ、\r\n動画撮っちゃってもいいのかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "ドーベル！ここはライブ会場だ！",
+        "ドーベル！ここはライブ会場だよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……ライブ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "っ、その通りだよ、ドーベル！\r\n君は応援してくれるファンに、\nしっかりと感謝を伝えられるウマ娘だ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "大丈夫、君ならできるよ！\r\nあたしが保証する！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……。……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……きっかけは、さっさいなこと……！\r\n誰かと出会って……っ。",
+      "ChoiceDataList": [
+        "（歌えた……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "……すごいよ、ドーベル。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "君の勇気は、日々成長してるんだね。\r\n……あたしも見習わないとだなぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "街中でカラオケを歌う。たったそれだけの\r\nことかもしれないが、メジロドーベルに\nとってはきっと大きな成長だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして彼女は見事90点以上もたたき出し、\r\n賞品のステーキで、タイキシャトルも含め\nみんなでパーティーをしたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "（やっぱり、恥ずかしい……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "……きっかけは些細な事♪\r\n誰かと出会って……？",
+      "ChoiceDataList": [
+        "新しい扉が開くよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "え……。ライアン、\r\nトレーナー……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "……君はさっきとても勇気ある\r\n1歩を踏み出した。それは\n充分に素晴らしいことだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "でも1人で勇気が出しきれない時もある。\r\nだからその時は……一緒にやってみて。\n徐々に勇気を出すことに慣れていこう。",
+      "ChoiceDataList": [
+        "……続きはみんなで歌う形でもいいかな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "…………2人とも……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "ほら次のメロディーが始まるよ！\r\nドキドキが溢れる♪\n新しいこの気持ち……せーのっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……せっ、いしゅんって、\r\n呼びたくなったんだ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "っ！\u3000何も持たない僕たちは～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "……いつかは何だって、\r\n掴めるはずだと気づいたんだっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……結果としては残念ながら90点には\r\n届かなかった。だがそれ以上に\n得られたものがあった1日となったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……トレーナー、聞いてたの？",
+      "ChoiceDataList": [
+        "ごめん、すごく迷っていそうだったから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "えっ、トレーナー！？\r\n……もしかしてアタシ、声に出てた？",
+      "ChoiceDataList": [
+        "ごめん、すごく迷っていそうだったから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "でも心の準備ができたら、次こそは挑もう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……うん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "？\u3000準備？\r\nどうしたの、何の話？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……ごめん、なんでもないの。\r\nただアタシに勇気がないだけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "……何の準備かはわからないけど、\r\nドーベルは必要な時に勇気を出せる子だよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "だからその準備ができたら、\r\n全力で頑張ってみてね。\nあたし、応援してるから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "ライアン……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "……ありがとう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

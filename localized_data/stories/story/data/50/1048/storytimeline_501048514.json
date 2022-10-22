@@ -1,0 +1,248 @@
+{
+  "Title": "基本フリータイムっしょ！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日のこと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "あれ、トレーナーじゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "エンカうぇ～い！\u3000てかこれ、トレーナーも\r\n連れてく流れじゃね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "え～、マジ～？",
+      "ChoiceDataList": [
+        "……どういうこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "ジョーダンとトレーナーのセットとか\r\nデスティニってると思わん？",
+      "ChoiceDataList": [
+        "全然わからない……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "まーまーまーまーまー！\r\nとりまヒアウィゴっちゃお～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "話の半分も理解できないまま、\r\n2人に挟まれ連行されてしまった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "次ー、『nail on Turf』いっきまーす！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "うぇーい！\u3000ジョーダンのいつものきたー！\r\nほらっ、トレーナーさんもアガッてけー！",
+      "ChoiceDataList": [
+        "うぇ、うぇーい？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ちょお、トレーナー！\r\n半端。盛り上げヘタかよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "つか音量上げておけ？\r\nもっと爆音テンアゲっしょー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ダイタクヘリオスが音楽のボリュームを上げ、\r\n振動を感じるほどの爆音が室内に響きわたる！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "うっわ、加減しろしー！\r\nてゆーか、自分の時に上げろー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "ほらトレーナーさんはマラカス！\r\nあ、それともマイクいく？\nもう両方いっとけ～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "なんだか大変な空間に来てしまった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "はー、歌った歌った♪\r\nソフドリお代わりしてこよ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……なにアンタ、ヘバってんの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "元気出しなって～！\r\nほら、なんか歌ってみ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "んー、うちらここで聞くから～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ここまで振り回され気味だったが……\r\n挽回のチャンスが来たかもしれない。",
+      "ChoiceDataList": [
+        "あえて心に染みる曲を聞かせる",
+        "ギャルたちを盛り上げてみせる……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……ん？\u3000知らん曲だわ。\r\nヘリオス知ってる？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "いや、懐メロとかいうやつ？\r\nとりまタンバリン叩くか。\nジョーダンはマラカスいっとく？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "ん～～～～……\r\nや、聴くわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "……へえ～、意外とうまいじゃん。\r\n知らん曲だけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "……これがあれ？\r\nチルってやつ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "だね～。悪くないじゃん。\r\n今の曲なんてーの？\u3000教えてよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "少しだけ、トーセンジョーダンに\r\n見直してもらえたようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女たちも知っていて、\r\nかつ盛り上がる曲といえば――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "え、ちょ、これあれじゃん！\r\n動画動画！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "え、マジでマジで！？\r\nこれいっちゃう！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "ふっふー☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "あっはははは！\r\nてか振り付けまでやんのかよ～！！\nマジか～！\u3000ガチか～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "うぇいうぇいうぇ～い☆\r\nジョーダンのトレーナーさんマジおもろ～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女たちの合いの手を受けつつ、\r\n全力で歌って踊った……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "はー……笑った。\r\n腹筋6パックだわ、今。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイタクヘリオス",
+      "Text": "やー、もう6ってか\r\n60個くらいに割れてんじゃね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "盛りすぎだわー、それはキモいわー……\r\nあー、でもムリ。これ以上笑えねー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "必死にやったかいあって、\r\n彼女たちに満足してもらえたようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

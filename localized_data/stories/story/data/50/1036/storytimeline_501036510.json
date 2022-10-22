@@ -1,0 +1,278 @@
+{
+  "Title": "要件定義：奇跡を数値化する",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある放課後、体育館から声が聞こえるので\n覗いてみると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "オイ、もっとスポットライトの位置意識しろ。\n歩き出すタイミングも早すぎンだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "はーっはっはっは！\u3000これは失敬！\n自分自身の輝きがあまりに眩しすぎて\nライトの光が目に入らなかったようだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ドトウ、お前はピンスポットを\n速く動かすことに集中しろ。\nオペラオーの動きを捉え切れてねェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メイショウドトウ",
+      "Text": "は、はいぃ……！\u3000がんばりますぅ！\nもっと速く、もっと速く……っ！",
+      "ChoiceDataList": [
+        "シャカール、舞台をやるのか！？",
+        "シャカール、舞台をやるの！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ア！？\nちげェよ、くだらねェ勘違いすンな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "確かに、舞台に立っているのは\nテイエムオペラオーのみだ。音響や照明、\n演出などの裏方を手伝っているのだろうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "スポットライトという籠でボクを捕まえたい\nと思うのは至極当然！\u3000嗚呼、世界の全てを\n恭順させてしまう自分の魅力が怖い……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メイショウドトウ",
+      "Text": "で、ですよねぇ……シャカールさんも、\nオペラオーさんの眩しさに感動して\n手伝ってくださってるワケですし～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "断じてちげェ。\nオイ、これ否定すンの何度目だ？",
+      "ChoiceDataList": [
+        "じゃあ、一体どうして？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "いちいち聞いてくンな、ウゼェ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "まあでも気になるってンなら通し稽古を見ろ。\nそろそろ観客っつーファクターが\n欲しかったとこだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "2人とも、準備しろ。\nコードレビューの開始だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――それは、たった3人で作っているとは\n到底思えないような完成度のオペラだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "そうさ、ボクはどんな瞬間にも\n満足してなんかいられない――ボクという\n至高の美を、より多くの人に伝えなくては！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……3、2、1。\n10秒後にフェード……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "極限まで絞られたスポットライトの中を\nテイエムオペラオーが歩く。\n石畳を叩くような足音は音響によるものだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "と思うと、次の瞬間そこには大海原が現れる。\n一気に全開にされた照明と共に響く波の音が\n何もない舞台の上に世界を作り出している――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "――時よ止まれ、ボクは美しい！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……ココで、暗転。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "以上。感想は？",
+      "ChoiceDataList": [
+        "魅入っちゃった……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "だろうよ。没入する感覚、見ているヤツらを\nそのまま舞台に取り込ンじまうように\n徹底的に調整したンだからな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "やあ、最高のショーだったね！\nボクの輝かしい魅力をさらに際立たせる――\n宝石を磨くがごとく素晴らしい演出だったよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メイショウドトウ",
+      "Text": "どうやって音や照明をつけたらいいか\n私じゃわからなかったので……\n本当に助かりましたぁ～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "あァ？\u3000助けてやったワケじゃねェ。\nオレは自分の理論の証明をしただけだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "『芸術』っつー不確かな場で、\n自分のロジックが通用するのか……\nそれさえわかりゃよかったンだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……チッ、無駄話が過ぎたな。\nそンじゃ本番まで繰り返しテスト走らすぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやらエアシャカールが手伝っていたのは\n自分の理論の証明をするためで、\n親切ではない、ということだろう。だが――",
+      "ChoiceDataList": [
+        "すごく頑張ったんだな",
+        "すごく頑張ったんだね",
+        "本番まで手伝ってあげるんだ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやらエアシャカールが手伝っていたのは\n自分の理論の証明をするためで、\n親切ではない、ということだろう。だが――",
+      "ChoiceDataList": [
+        "すごく頑張ったんだな",
+        "すごく頑張ったんだね",
+        "本番まで手伝ってあげるんだ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "――あァ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "親切ではないとしても、舞台をここまでの\n完成度に仕上げるのは並大抵のことではない。\nとても努力したのだろうと伝えると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "陳腐な表現で片づけようとすンじゃねェ。\n目標の達成に必要なパフォーマンスを\n出すのは大前提だろうが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メイショウドトウ",
+      "Text": "あ、あのぅ……でも、シャカールさんは\n何回も練習に付き合ってくれて……\n一緒にがんばれたのは本当だなって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メイショウドトウ",
+      "Text": "いえっ、あのっ、役に立ってない私が\n何言ってるんだって感じですけどぉ！\nすみませぇ～ん……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……ハァ。面倒臭ェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "なンにしろ、悪くねェ成果だ。\n本番までこのクオリティを保てれば、\nてめェも観客役としてまた呼ンでやるよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "わかりにくいが、少しだけ嬉しそうな\nエアシャカールなのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……そりゃそうだろ。\n今投げ捨てたところでドトウに延々と\nビービー泣きつかれるだけだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "それに、ボクもまた勧誘に行っただろうとも！\n君ほど素敵な裏方はなかなかいない！\nこのボクが逃がすわけもないだろう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……な？\n最後まで付き合ったほうが合理的、\nそれは最初から織り込み済みだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "他意はねェよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "最後まで付き合うのは\nやはり少々面倒見がいいのではないか。\nそんなふうに感じてしまう出来事だった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

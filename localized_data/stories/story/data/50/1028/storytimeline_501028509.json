@@ -1,0 +1,38 @@
+{
+  "Title": "連続出走で……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "はぁ～……。",
+      "ChoiceDataList": [
+        "何かあったのか？",
+        "何かあったの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "ん～……今日ね、みんなに料理を\n振る舞うはずだったんだー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ヒシアケボノ",
+      "Text": "けど、焦がしちゃったんだよね……。\r\nみんな楽しみにしてくれてたのに、なぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女が料理を失敗するなんて\r\nよっぽど疲れているらしい。\nレースの予定を見直すべきかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

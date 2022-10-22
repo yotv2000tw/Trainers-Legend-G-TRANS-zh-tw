@@ -1,0 +1,288 @@
+{
+  "Title": "激走・福ウマ娘レース！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――今年も『福ウマ娘レース』が始まる！\r\n毎年正月に行われるこの伝統行事には、\n例年通り、多くの俊足自慢が集まっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "司会者A",
+      "Text": "え～、今年もトレセン学園から\r\nゲスト参加の方が来てくれました～！\nみなさん、拍手でお迎えください！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "はーっはっはっはっはーーーっ！\r\n喜べみなの者！\u3000今年はボクが来たぞーーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "楽しみにしていたまえよ！\r\nただでさえめでたいボクが、\n今年の福ウマ娘になる瞬間をね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客A",
+      "Text": "おおお～～～っ！\u3000テイエムオペラオーだ！！\r\n今年はゲストが勝つんじゃないか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客B",
+      "Text": "いやいやゲストは毎年徹底マークされるだろ？\r\nコースにも不慣れだろうし……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客B",
+      "Text": "それに今年も『あの子』がいるからな！\r\nこのレースを目標に相当鍛えてきたらしいぞ。\nくぅ～～、見ごたえありそうだ！",
+      "ChoiceDataList": [
+        "（『あの子』……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セミプロウマ娘",
+      "Text": "――ふんっ！\u3000勝つ気まんまんなとこ\r\n悪いけど今年も私が連覇させてもらうわよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "む……！\u3000その気迫、\r\nなかなかの手練れと見た……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "好敵手の登場か……いいだろう！\r\nボクはどんなレースでも手は抜かないよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "熱い火花を散らす2人……！\r\nレース開始の合図であるピストルが鳴る――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "沿道のギャラリーたちが注目する中、\r\n先頭で走って来たのは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "司会者A",
+      "Text": "さぁ、先頭集団が見えてきた！\r\nトップは去年の福ウマ娘！\u3000逃げ切れるか！？\nテイエムオペラオー、前を狙っているぞ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "――はぁっ、はぁっ……！\r\n捉えたぞ！\u3000我が好敵手――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どものウマ娘",
+      "Text": "――うわっ！\u3000いったた……！\u3000爪が……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "――むっ！\u3000君、どうした……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どものウマ娘",
+      "Text": "ぐすっ……いたいけど……\r\n平気……だから、行って……！\nはやく、走らないと……負けちゃうよ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "ふふふふっ……\r\nはーっはっはっはっはーーーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "ケガを負ってもなお他人を想う美しき心……。\r\n素晴らしい！\u3000君は実に気高いね……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "案ずることはないよ。\r\nボクを誰だと思っているんだい！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "トレーナー君！\u3000その子を頼んだよ！",
+      "ChoiceDataList": [
+        "わかった！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "――はっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "――はああぁぁぁぁぁっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "司会者A",
+      "Text": "おお～～～っと！\u3000ここで上がってきたのは\r\nテイエムオペラオー～～～っ！\n自らバ群に突っ込み速攻で抜け出した～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "司会者A",
+      "Text": "大差で勝利……！\u3000今年の福ウマ娘は、\r\nテイエムオペラオーだ～～～っ！！\n世紀末福ウマ娘がここに誕生したぁ～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "はーっはっはっはっーーー！\u3000みなの者！\r\n今年の福ウマ娘はボクだーーーーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どものウマ娘",
+      "Text": "わぁっ！\u3000すごい！\u3000勝っちゃった！\r\nあたしもあんなふうに走れるようになりたい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "そうかいそうかい！\u3000当然の憧れだね！\r\nかくも素晴らしい逆転劇を見せられては……！",
+      "ChoiceDataList": [
+        "本当にカッコよかったぞ！",
+        "本当にカッコよかったよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セミプロウマ娘",
+      "Text": "子どもを助けて、勝利までするなんて……\r\n完敗ね。私も、まだまだだわ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "君もナイスファイトだったよ。\r\n主役は好敵手がいてこそ輝くもの……\n君には最優秀助演俳優賞を授けよう！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客たち",
+      "Text": "おおおおおぉぉぉ～～～っ！！\r\nおめでとう！\u3000世紀末福ウマ娘～～～っ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "さあさあ！\u3000ハイタッチといこうじゃないか！\r\nみんなにボクの福を分けてあげよう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "はーっはっはっはっはっ！\r\nはーっはっはっはっはっはっはーーーーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "司会者A",
+      "Text": "おお～～～っと！\u3000テイエムオペラオーだ！\r\nテイエムオペラオーが来たぞーーっ！\n2人並んで今ゴ～～～ルイ～～～ン！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "司会者A",
+      "Text": "――さすがはセミプロいちの俊足！！\r\n彼女は今年も譲らない！\nテイエムオペラオー、惜しくも2着～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "くっ！\u3000あと1歩、及ばずだったな……！\r\nこれも主人公への試練だというのか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子どものウマ娘",
+      "Text": "オペラオーさん……かっこよかったよ！\r\nあんなすごい走り見たことない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "そうか……ふふ！\r\n君を笑顔に出来たならよかった！\u3000流石ボク！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セミプロウマ娘",
+      "Text": "……勝ったわよ。\r\n今年の福ウマ娘は私なんだから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "やぁ、1着おめでとう！\u3000君の強さ……\r\nこのボクの晴れ舞台にふさわしいものだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "セミプロウマ娘",
+      "Text": "ったく……言い訳しないのね。\r\nその子を助けて、なおあの追い上げ……\n……悔しいくらいかっこよかったわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "ふふっ、ボクがかっこいいのなんて当然さ！\r\n君ももうボクの虜のようだね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テイエムオペラオー",
+      "Text": "負けても人を魅了するとは……！\r\nあぁ、ボクの輝きは天井知らずだね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "惜しくも『福ウマ娘』の称号を逃した\r\nテイエムオペラオー。しかし彼女は\n誰よりもカッコよく輝いていたのだった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

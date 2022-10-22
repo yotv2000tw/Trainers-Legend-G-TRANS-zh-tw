@@ -1,0 +1,863 @@
+{
+  "Title": "貴方は私の",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンA",
+      "Text": "マックイーンさ～んっ！\n秋シーズンもがんばってくださいまし～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンB",
+      "Text": "マックイーンさんの輝きにふさわしい\n最高級の金糸で横断幕をご用意しましたの～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "まあ……！\u3000ありがとうございます。\nいただいた期待に応えられるよう、\n日々精進いたしますわ。",
+      "ChoiceDataList": [
+        "（彼女のファンは熱量がすごい……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンC",
+      "Text": "はあ……手を振る姿も麗しい……。\nマックイーンさんの品は天井知らずですわ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンD",
+      "Text": "指導者のトレーナー様とは、\n直接お話ししたことはありませんが……\nきっと彼も素晴らしい方なんでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンD",
+      "Text": "指導者のトレーナー様とは、\n直接お話ししたことはありませんが……\nきっと彼女も素晴らしい方なんでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンE",
+      "Text": "きっとマナーも貫禄もある御人ですわ！\nマックイーンさんが選んだ方ですもの、\nヘボなことは言いませんわよ！",
+      "ChoiceDataList": [
+        "（ヘボなこと！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "背筋がぞわっとする。もしも何かの\nきっかけで自分がメジロマックイーンの\nファンを幻滅させ、さらには……。",
+      "ChoiceDataList": [
+        "（マックイーンまで幻滅されたら……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "トレーナーさん？\nどうかいたしまして？",
+      "ChoiceDataList": [
+        "ど、どうもしていらっしゃらなくて！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……トレーナーさん？\nその言葉遣いは？",
+      "ChoiceDataList": [
+        "ご、ごめん！変だったよな！",
+        "ご、ごめん！変だったよね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こんな失態なんて、もってのほかだ。\n一刻も早く、品のある言葉遣いや\n振る舞いを身につけなければ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……もう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンたち",
+      "Text": "（……ざわざわ、ひそひそ）",
+      "ChoiceDataList": [
+        "（今日もマックイーンのファンが……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "トレーナーさん、よろしいですか？\n本日1つ提案があって。",
+      "ChoiceDataList": [
+        "なっ、なに？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "その前に移動しませんこと？\nここでは目立ちすぎてしまいますから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……この辺りまで来れば\n誰もいませんわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ということで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "えいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ピシャーッ！）",
+      "ChoiceDataList": [
+        "冷たい！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "さあ、貴方用の水鉄砲も用意していますわ！\n存分に私へ水をおかけなさい！",
+      "ChoiceDataList": [
+        "えっ、どういうこと！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "そのままの意味ですっ。\nほうら、隙だらけですわよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "えいっ、えいえいっ！！",
+      "ChoiceDataList": [
+        "ま、待って！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "待ったはなしです！\nふふっ……ほら、早くっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやらメジロマックイーンは\n聞く耳を持たないようだ。\nならば彼女の言う通り――",
+      "ChoiceDataList": [
+        "わかった、君も『待った』はなしだぞ！",
+        "わかった、貴方も『待った』はなしだよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ええ、かかってらっしゃいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "びっしょりですわ～……。",
+      "ChoiceDataList": [
+        "ごめん……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……ふふっ。謝らないでください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "そうやっていつでも本気で\n向き合ってくれる貴方だから、\n私は私でいられるのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "トレーナーさん。貴方は元から\n素敵な方。変に力む必要はありませんわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "だって貴方は私が選んだ\n『メジロマックイーンのトレーナー』\nなのですから。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "それをいつでも思い出せるように、\n今の貴方の顔を\n写真に収めてしまいましょうか？",
+      "ChoiceDataList": [
+        "……いや、もう忘れないよ",
+        "……ううん、もう忘れないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ふふっ。ならば結構です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンA",
+      "Text": "きゃあ、マックイーンさんがビショビショ！？\nそのお姿はいったい……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "！\u3000あ、ああ……これは……。\nその……。",
+      "ChoiceDataList": [
+        "秋に向けての特訓ですよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンB",
+      "Text": "まあまあまあ！\u3000そうでしたの！\nさすがマックイーンさんたち！\n思慮深いですわ～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……ふふっ。\nトレーナーさんってば。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "やっぱりあの時、\n写真を撮っておけばよかったかしら。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……先ほどよりも\n凜々しいお顔になってしまって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンB",
+      "Text": "マックイーンさんの輝きにふさわしい\n最高級の金糸で横断幕をご用意しましたの～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "まあ……！\u3000ありがとうございます。\nいただいた期待に応えられるよう、\n日々精進いたしますわ。",
+      "ChoiceDataList": [
+        "（彼女のファンは熱量がすごい……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンC",
+      "Text": "はあ……手を振る姿も麗しい……。\nマックイーンさんの品は天井知らずですわ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンD",
+      "Text": "指導者のトレーナー様とは、\n直接お話ししたことはありませんが……\nきっと彼も素晴らしい方なんでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンD",
+      "Text": "指導者のトレーナー様とは、\n直接お話ししたことはありませんが……\nきっと彼女も素晴らしい方なんでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンE",
+      "Text": "きっとマナーも貫禄もある御人ですわ！\nマックイーンさんが選んだ方ですもの、\nヘボなことは言いませんわよ！",
+      "ChoiceDataList": [
+        "（ヘボなこと！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "背筋がぞわっとする。もしも何かの\nきっかけで自分がメジロマックイーンの\nファンを幻滅させ、さらには……。",
+      "ChoiceDataList": [
+        "（マックイーンまで幻滅されたら……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "トレーナーさん？\nどうかいたしまして？",
+      "ChoiceDataList": [
+        "ど、どうもしていらっしゃらなくて！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……トレーナーさん？\nその言葉遣いは？",
+      "ChoiceDataList": [
+        "ご、ごめん！変だったよな！",
+        "ご、ごめん！変だったよね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こんな失態なんて、もってのほかだ。\n一刻も早く、品のある言葉遣いや\n振る舞いを身につけなければ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……もう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンたち",
+      "Text": "（……ざわざわ、ひそひそ）",
+      "ChoiceDataList": [
+        "（今日もマックイーンのファンが……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "トレーナーさん、よろしいですか？\n本日1つ提案があって。",
+      "ChoiceDataList": [
+        "なっ、なに？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "その前に移動しませんこと？\nここでは目立ちすぎてしまいますから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……この辺りまで来れば\n誰もいませんわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ということで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "えいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ピシャーッ！）",
+      "ChoiceDataList": [
+        "冷たい！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "さあ、貴方用の水鉄砲も用意していますわ！\n存分に私へ水をおかけなさい！",
+      "ChoiceDataList": [
+        "えっ、どういうこと！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "そのままの意味ですっ。\nほうら、隙だらけですわよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "えいっ、えいえいっ！！",
+      "ChoiceDataList": [
+        "ま、待って！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "待ったはなしです！\nふふっ……ほら、早くっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやらメジロマックイーンは\n聞く耳を持たないようだ。\nならば彼女の言う通り――",
+      "ChoiceDataList": [
+        "わかった、君も『待った』はなしだぞ！",
+        "わかった、貴方も『待った』はなしだよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ええ、かかってらっしゃいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "びっしょりですわ～……。",
+      "ChoiceDataList": [
+        "ごめん……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……ふふっ。謝らないでください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "そうやっていつでも本気で\n向き合ってくれる貴方だから、\n私は私でいられるのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "トレーナーさん。貴方は元から\n素敵な方。変に力む必要はありませんわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "だって貴方は私が選んだ\n『メジロマックイーンのトレーナー』\nなのですから。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ふふっ……それにしても、\n少しはしゃぎすぎてしまいました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "これも貴方のせいかしら？\n……なんて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして翌日――",
+      "ChoiceDataList": [
+        "マックイーン、いいタイムだよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンA",
+      "Text": "まあ～っ！\u3000マックイーンさんの\nトレーナーさんも凜々しい\n立ち振る舞いですわね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンB",
+      "Text": "お話しせずともわかりますわっ！\nあのお2人の絆の固さ！\u3000麗しいですわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……ふふっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "――ね。トレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "肩肘をはらずとも、いつも通りでも。\n私のトレーナーさんは\n素晴らしい方でしたでしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "だからもう無理はなさらないでくださいね。",
+      "ChoiceDataList": [
+        "ああ、わかったよ",
+        "うん、わかったよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ふふっ、よかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "だって、堅苦しすぎる貴方、だなんて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "――なんだか寂しいんですもの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンB",
+      "Text": "マックイーンさんの輝きにふさわしい\n最高級の金糸で横断幕をご用意しましたの～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "まあ……！\u3000ありがとうございます。\nいただいた期待に応えられるよう、\n日々精進いたしますわ。",
+      "ChoiceDataList": [
+        "（彼女のファンは熱量がすごい……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンC",
+      "Text": "はあ……手を振る姿も麗しい……。\nマックイーンさんの品は天井知らずですわ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンD",
+      "Text": "指導者のトレーナー様とは、\n直接お話ししたことはありませんが……\nきっと彼も素晴らしい方なんでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンD",
+      "Text": "指導者のトレーナー様とは、\n直接お話ししたことはありませんが……\nきっと彼女も素晴らしい方なんでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンE",
+      "Text": "きっとマナーも貫禄もある御人ですわ！\nマックイーンさんが選んだ方ですもの、\nヘボなことは言いませんわよ！",
+      "ChoiceDataList": [
+        "（ヘボなこと！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "背筋がぞわっとする。もしも何かの\nきっかけで自分がメジロマックイーンの\nファンを幻滅させ、さらには……。",
+      "ChoiceDataList": [
+        "（マックイーンまで幻滅されたら……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "トレーナーさん？\nどうかいたしまして？",
+      "ChoiceDataList": [
+        "ど、どうもしていらっしゃらなくて！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……トレーナーさん？\nその言葉遣いは？",
+      "ChoiceDataList": [
+        "ご、ごめん！変だったよな！",
+        "ご、ごめん！変だったよね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こんな失態なんて、もってのほかだ。\n一刻も早く、品のある言葉遣いや\n振る舞いを身につけなければ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……もう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンたち",
+      "Text": "（……ざわざわ、ひそひそ）",
+      "ChoiceDataList": [
+        "（今日もマックイーンのファンが……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "トレーナーさん、よろしいですか？\n本日1つ提案があって。",
+      "ChoiceDataList": [
+        "なっ、なに？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "その前に移動しませんこと？\nここでは目立ちすぎてしまいますから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……この辺りまで来れば\n誰もいませんわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ということで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "えいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ピシャーッ！）",
+      "ChoiceDataList": [
+        "冷たい！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "さあ、貴方用の水鉄砲も用意していますわ！\n存分に私へ水をおかけなさい！",
+      "ChoiceDataList": [
+        "えっ、どういうこと！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "そのままの意味ですっ。\nほうら、隙だらけですわよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "えいっ、えいえいっ！！",
+      "ChoiceDataList": [
+        "ま、待って！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "待ったはなしです！\nふふっ……ほら、早くっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやらメジロマックイーンは\n聞く耳を持たないようだ。\nならば彼女の言う通り――",
+      "ChoiceDataList": [
+        "わかった、君も『待った』はなしだぞ！",
+        "わかった、貴方も『待った』はなしだよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ええ、かかってらっしゃいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "びっしょりですわ～……。",
+      "ChoiceDataList": [
+        "ごめん……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……ふふっ。謝らないでください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "そうやっていつでも本気で\n向き合ってくれる貴方だから、\n私は私でいられるのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "トレーナーさん。貴方は元から\n素敵な方。変に力む必要はありませんわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "だって貴方は私が選んだ\n『メジロマックイーンのトレーナー』\nなのですから。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ふふっ……それにしても、\n少しはしゃぎすぎてしまいました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "これも貴方のせいかしら？\n……なんて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして翌日――",
+      "ChoiceDataList": [
+        "マックイーン、いいタイムだよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンA",
+      "Text": "まあ～っ！\u3000マックイーンさんの\nトレーナーさんも凜々しい\n立ち振る舞いですわね～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のファンB",
+      "Text": "お話しせずともわかりますわっ！\nあのお2人の絆の固さ！\u3000麗しいですわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……ふふっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "――ね。トレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "肩肘をはらずとも、いつも通りでも。\n私のトレーナーさんは\n素晴らしい方でしたでしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロブライト",
+      "Text": "あら～？\u3000ライアンお姉さま、\nどうして通せんぼなさるの～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロライアン",
+      "Text": "そ、それは……っ\nマックイーンが今\nとってもいい雰囲気だし……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロドーベル",
+      "Text": "？\u3000別にいつも通りじゃない？\nだって一緒にいるのって\nトレーナーなんでしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロパーマー",
+      "Text": "……いや、あの雰囲気は違うね。\nきっとマックイーンはトレーナーさんの\n次の一言に期待してるはず……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロアルダン",
+      "Text": "ふふっ。パーマー、落ち着いて。\nそれ以上身を乗り出せば、\nお2人にも悟られてしまいますよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "なんで皆さん、いらっしゃいますの～っ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家",
+      "Text": "きゃああ～～っ！？\nわあああああ～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "メジロマックイーンは赤面しながら、\n岩場に隠れていたメジロ家のウマ娘たちの\nほうへと走っていくのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

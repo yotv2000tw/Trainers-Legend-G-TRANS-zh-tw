@@ -1,0 +1,43 @@
+{
+  "Title": "朝5時に飛び起きて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "朝。昨日残していた仕事を片付けるべく、\r\n早めにトレーナー室に向かうと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "トレーナーさん、生きていらっしゃいます！？\r\nお腹に穴は開いていないかしら！？",
+      "ChoiceDataList": [
+        "開いていないけど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "よ、よかったぁ……！\r\nではあれは本当に夢ですのね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "ダーク組織に洗脳されたトレーナーさんも、\r\n私の代わりに敵の総攻撃を受け粉々になった\nトレーナーさんもいないんですのね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして朝早くから、\r\nオイオイと泣くカワカミプリンセスを\nなだめることになったのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

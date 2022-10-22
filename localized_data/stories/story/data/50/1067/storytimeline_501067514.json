@@ -1,0 +1,308 @@
+{
+  "Title": "スイーピー5☆入団テスト！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それは、サトノダイヤモンドと2人で\r\n廊下を歩いていた時のことだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "いたーーーーーーっ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "サトノ！\u3000今日からアンタを\n『マジカル・ダイヤ』に任命するわっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "え？\n『マジカル・ダイヤ』……ですかっ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "『魔法少女☆スイーピー5』\nマジカル・ブラック登場！\u3000なんてね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "わあ、キタちゃんまで！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "へへっ♪\u3000実はスイープさんが作ってる\n『魔法少女☆スイーピー5』っていう\nグループがあってね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "あたしもこの前マジカル・ブラックとして\n任命してもらったんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "それで、よければダイヤちゃんとも一緒に\nやりたいなって思ったんだけど……どうかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "メンバーはアタシ、\n天才魔法少女スイーピーと、\nマジカル・ブラックと、タキオン博士よ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "まあ、みなさんで魔法の活動？\nをするのですか？\u3000面白そう♪\nぜひやってみたいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ホント！？\u3000やったぁ♪\r\nじゃあ早速魔法の練習してみましょ！\nえっと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "――あっ！\u3000そこのアイツ！\nアイツを倒してみなさい！",
+      "ChoiceDataList": [
+        "え！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "敵はいつどこから来るか\nわからないもの。練習しておかなくちゃ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "トレーナーさんを……？\nですが、どうやって倒せばいいのでしょう？",
+      "ChoiceDataList": [
+        "（倒される前提なんだ……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "それはアタシが教えてあげる♪\nいい？\u3000こうやって呪文を唱えて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "……クックック、敵を倒す方法は\n何も魔法だけではないよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "君自身を薬で強化し、倒すという方法もある。\nその選択をするのなら私が手助けしよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ちょっと、今はアタシの出番なのっ！！\nねえサトノ、タキオンじゃなくて、\nアタシに教えてほしいわよね！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ふふ、どちらも面白そうです♪\nそうだ、トレーナーさんはどちらに\n教えていただくのがよろしいと思いますか？",
+      "ChoiceDataList": [
+        "スイープトウショウに教えてもらおう",
+        "アグネスタキオンの手を借りよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ふっふ～ん、当然ね！\u3000それじゃあ\nアタシが魔法の手本を見せてあげる♪\nいくわよ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "パンサス・パンサス・アガパンサス☆\n星々の光よ、降り注げ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……何も起きない。\nが、魔法少女を名乗るだけあって、\nなんとなくサマになっている気はする。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ふふっ、わかった？\u3000こんなふうに\r\n自分らしい呪文を唱えればいいの♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "なるほど、自分らしい呪文を……\r\nよしっ、試しにやってみます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "頑張って！\nダイヤちゃんならできるよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ご覧なさい、まばゆいダイヤのきらめきを！\n静謐なる輝きを――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "本当にまばゆい光が見えた――ような\n気がしたので、その場に倒れ込むことにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "わぁっ、ホントにキラキラして見えたわ……！\nサトノ、アンタすっごいじゃない♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "マジカル・ダイヤ！\u3000正式に許可するわ！\nこれでアンタは『魔法少女☆スイーピー5』\nのメンバーよ♪\u3000わかったわね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "はいっ！\u3000マジカル・ダイヤ、\nこれからもっと輝きます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "魔法のことはよくわからないが、\n同年代の生徒と楽しそうにしているのを見て\nなんだか微笑ましい気持ちになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "クックック、いい選択だ！\u3000ではサトノ君、\nまずは薬で身体強化だ。ぐいっと飲みたまえ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "アグネスタキオンが怪しい色の薬を\n取り出そうとした。……なんだか\n危うい気がしてきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "すごい色みたいだけど……\nダイヤちゃん、本当にいいの？",
+      "ChoiceDataList": [
+        "やっぱりやめよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "えー！\u3000なんだよー、やめちゃうのかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "いいえ、1度決めたことを曲げたりは\nいたしません。いくらトレーナーさんの\nおっしゃることでも！",
+      "ChoiceDataList": [
+        "でも――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "サトノダイヤモンド、いきます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女はアグネスタキオンから薬を受け取り、\n一気に飲み干してしまった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "うんっ――初めてのお味！\u3000面白いですっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ほほーう！\u3000血流を良くするためにやや\nカプサイシン多めになってしまったが、\nものともしないか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "クククッ……すごいぞ君！\nよし、早速そのまま走ってみたまえ！",
+      "ChoiceDataList": [
+        "（カプサイシン……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スイープトウショウ",
+      "Text": "ア、アンタやるわね……！\nマジカル・ダイヤ！\u3000これからは正式に\n『魔法少女☆スイーピー5』のメンバーよ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "スイープトウショウたちが去ってから、\nサトノダイヤモンドに近づいた。\n……さっき飲んだカプサイシンが気になる。",
+      "ChoiceDataList": [
+        "さっきの……辛くなかった？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "……お気づきになりましたか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ふふ、実はとっても舌がピリピリしました。\nですが、みなさんにしかめっ面を\nお見せするわけにはいきませんでしたから♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女は密かにそう打ち明けてくれた。\n強がっていたのか、と年相応な部分を\n微笑ましく思った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

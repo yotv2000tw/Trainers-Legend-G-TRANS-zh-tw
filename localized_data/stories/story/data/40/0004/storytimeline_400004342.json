@@ -1,0 +1,392 @@
+{
+  "Title": "『全力』＆『普通』ダイエット！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……太った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーナーになってからというもの、\r\nウマ娘たちと一緒にご飯を食べる機会が\n多くなり、自分の体重が増えてしまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "こんにちはーっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "こんにちはー……ってあれ？",
+      "ChoiceDataList": [
+        "2人とも、こんにちは……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "どうしたのトレーナーさん！？\r\nなんだか悲しい顔してる！？！？\n体調でも悪いのっ！？！？！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "そんなの悲じずぎるよーーーッ！！",
+      "ChoiceDataList": [
+        "いや、ちょっと太っちゃって"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "あぁ～なるほどぉ～。\r\nウマ娘ってたくさん食べる子\n多いですからね。",
+      "ChoiceDataList": [
+        "ダイエットしようかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "おぉ～！？\r\nえ、えらいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "指導者の立場にいる以上、\r\nなるべくなら見本となる体で\nありたいものだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "がんどうじだぁあああああ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "すごいっ！\u3000すごいよトレーナーさんっ！\r\nとんでもない覚悟だーーーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "決めたっ！\u3000アタシも全力で\r\nトレーナーさんのお手伝いをするっ！",
+      "ChoiceDataList": [
+        "えっ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "全力だーーーッ！！\r\n全力でトレーナーさんのサポートをするから\n一緒にがんばろー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "わわっ！？\u3000チケットさんの全力！？\r\nちょ、ちょっとまずいかも？\nトレーナーさん、壊れちゃうかも！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "チ、チケットさん！\r\n普通で！\u3000ちょっと力を抜いて、\n普通に頑張りましょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "うーん、そうかな？\r\nそうかも……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "トレーナーさんは『全力』と『普通』\r\nどっちがいい！？",
+      "ChoiceDataList": [
+        "『全力』で！",
+        "ふ、『普通』でお願いします……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "がんどうじだぁあああああ～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "わかったよ、トレーナーさーん！\r\nアタシ全力でトレーナーさんの\n期待に応えてみせるからね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "さあ！\u3000あの夕陽に向かって\r\nランニングだーーー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "チ、チケットさーん！？\r\nまだお昼だよー！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "お疲れ様！\u3000トレーナーさん！\r\n……大丈夫？",
+      "ChoiceDataList": [
+        "ぜぇっ……ぜぇっ……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女たちと『全力』のトレーニングをした。\r\n体は疲れ果て、もう1歩も動けない。\n行儀悪く机に頭から倒れこんでしまっている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "しかし自分はまだ生きている。\r\nどうやらウイニングチケットは自分のために\n加減をしてくれたようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "うおおおぉぉぉ！\r\nトレーナーさんの必死で走る姿……！\n思い出しただけで涙が溢れでぐるよーーーッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "本当にお疲れ様です。\r\nはい、お水をどうぞ。",
+      "ChoiceDataList": [
+        "ありがとう……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "ダイエットには運動の後の食事メニューも\r\n大切だよね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "食事にも全力！\r\nアタシがトレーナーさんのための\n低カロリーメニューを全力で選んでくるね！",
+      "ChoiceDataList": [
+        "何から何までありがとう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "しかし、この時の自分の考えは\r\n甘いものだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "はい！\u3000低カロリーのサラダチキン、\r\nお豆腐、納豆、焼き魚、わかめたっぷり\nお味噌汁、はんぺん、かまぼこ大盛だよ！",
+      "ChoiceDataList": [
+        "多い多い多い多いっ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……でもこれくらいだったら\r\nたしかに普通かも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ウマ娘にとってはそうかもしれないけど！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "食べても食べても\r\n全然量が減らない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "トレーナーさん！\r\n全力で追加を持ってきたよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "栄養バランスも考えないとね！\r\n山盛りサラダ、ほうれん草のおひたし、玄米、\nきのこと根菜の炒め物、豆乳、ヨーグルト！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "たくさん食べて、全力で大きくなってね！",
+      "ChoiceDataList": [
+        "……きゅう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "たくさん食べすぎて\r\n自分の体は床に崩れ落ちていった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "トレーナーさあああぁぁぁぁんんんっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ウマ娘の『全力』はやっぱりすごい。\r\nそれを改めて認識するのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "そうですね、無理しないのが1番ですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "じゃあよろしくお願いします！",
+      "ChoiceDataList": [
+        "よろしく、タンホイザ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "じゃあ手始めに……\r\n30kmのランニングいきましょ～！",
+      "ChoiceDataList": [
+        "えっ！？！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "どうしました？",
+      "ChoiceDataList": [
+        "ふ、普通って……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "やだなぁ！\r\n30kmくらい普通ですよ、普通！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "うおおおおおぉぉぉぉぉ！\r\nがんどうじだぁあああああーー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "30kmのランニングも、マチタンにとっては\n普通のことなんだね！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "じゃあ、普通に無理せず\r\n30km頑張りましょ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "頑張れー！\r\nまだ10kmですよー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウイニングチケット",
+      "Text": "うおおおおおおぉぉぉぉ！\r\nトレーナーさんの必死に走る姿が\nアタシに無限の勇気を与えでぐれるよーッ！",
+      "ChoiceDataList": [
+        "ひぃひぃっ！もう限界……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "頑張れー、ファイトー！\r\n頑張れー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "……でもやっぱり、なんかこう、\r\nもうちょっとほしいかも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "個性が！",
+      "ChoiceDataList": [
+        "えっ！？！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "あのっ！\r\n残り20kmはうさぎ跳びでいきましょう！",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（バタッ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あまりにハードなトレーニングに、\r\n自分の体は地面に崩れ落ちていった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マチカネタンホイザ",
+      "Text": "わああああぁぁぁぁっ……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ウマ娘は『普通』でもやっぱりすごい。\r\nそれを改めて認識するのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

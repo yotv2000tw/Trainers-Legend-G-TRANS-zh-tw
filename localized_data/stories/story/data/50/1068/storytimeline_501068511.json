@@ -1,0 +1,298 @@
+{
+  "Title": "先輩と！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "校舎を歩いていると、\r\n緊張するスペシャルウィークの後を\nニコニコと歩くキタサンブラックを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "でっ、では！\u3000右手に見えますは、\r\n学園の生徒に人気のスポットです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "負けた時の悔しい気持ちを、\r\nあの木に向かって『うわ～っ！』\nって叫ぶんですよっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "はい、わかりましたスぺさんっ！\r\nふふっ、次は――あっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "トレーナーさんっ！\r\nこんにちはーっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "ええっ、キタさんのトレーナーさん！？\r\nど、どうもお世話になっておりまする……！",
+      "ChoiceDataList": [
+        "こちらこそお世話になっておりまする……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "ふふっ。お2人とも言葉遣いが\r\n面白くなっていますよ？\nもっとリラックス、リラックス～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "はあいっ、すぅ～……ふぅ～……。",
+      "ChoiceDataList": [
+        "ところで何をしてたんだ？",
+        "ところで何をしてたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "あ！\u3000それはですね～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "ウオッホン！\u3000残念だがキタちゃん、\r\n今日のワガハイはカイチョーとのお仕事で\nキミに構うことができないのである！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "えええっ、そうなんですか～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "ウム。ということで代役を用意した。\r\nボクの友だちのスペシャルウィークくんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "は、はいっ！\u3000スペシャルウィークです！\r\nこの度はよろしくお願いします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "にししっ、スぺちゃん硬い硬い～！\r\nキミも先輩の立場なんだし、\nもうちょっと威厳をもってだね～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "ところでテイオー。今回の視察は、\r\n私1人で行く予定のもののはずだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "あ～っ、やだやだカイチョー！\r\n今日はボクがお手伝いするって決めたの！\nだから連れていってよ～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "ということで、\r\n今日はテイオーさんの代わりに、\nスぺさんにお世話してもらっているんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "せっ、先輩としての“お世話”といえば！\r\nズバリ学園案内だと思っておりまして！！\nあと、えっと、紹介できる場所は……むむむ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "とはいえ、入学してからしばらく経つ\r\nキタサンブラックに今更学園案内は\n不要なはずだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "……トレーナーさん。\r\nトレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "今はあたし、\r\nスぺさんの優しさに甘えたいんです。\n“後輩”として。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "でも紹介はもう充分していただいちゃった\r\nようですし……ん～、そうですね～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "今度はあたし、先輩と一緒に併走したり、\r\nオススメの学食を聞いたりしたいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "スぺさんのご活躍は\r\nかねがねうかがっていますし、\nその強さの秘訣を知りたいな～って！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "お、おぉ～……なるほどなるほど。\r\nわかりましたっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "なんだか先輩後輩としてはリードする側が\r\n逆転しているような気もするが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "ちなみにトレーナーさんは、\r\nどちらのほうがいいと思います？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "キタサンブラックからアイコンタクトが\r\n送られる。あくまでも彼女は後輩として\n先輩を立てようとしているようだ。",
+      "ChoiceDataList": [
+        "併走の相手をお願いしたいかな！",
+        "一緒にご飯を食べない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "っ！\u3000お任せくださいっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "よぉーしっ、キタさん！\r\nもう1本行きますよ～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "はいっ、次は差しきられる前に\r\nゴールしてみせますからっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "おおっ。キタちゃん、\r\nすっかりスぺちゃんと仲良くなってるね～！",
+      "ChoiceDataList": [
+        "あれ、君は視察だったはずじゃ……",
+        "あれ、貴方は視察だったはずじゃ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "ん～。途中で切り上げてきちゃった。\r\n外出てからも2人のことが頭から離れなくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "そんな状態でお仕事の付き添いなんて\r\nカイチョーにも悪いから。今日は\n“先輩”であることを取ろうかなって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "へへっ、けど心配はいらなかったみたい。\r\nキタちゃんはどんな子相手でも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トウカイテイオー",
+      "Text": "――心を開かせちゃう、天才だね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "かしこまりましたっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "あっ、スぺさん！\r\n今日のメニュー、みそラーメンがあります！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "ふっふっふ……キタさん。\r\n実はそれ、裏メニューもあるんですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "なんと……半熟卵を2倍にできるんです……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "わああ……2倍……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "先程とは一転、得意なフィールドだからか、\r\nスペシャルウィークはキタサンブラックに\n先輩風を吹かせられるようになっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "とはいえ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "えへへっ、さすがスぺさん。\r\nご飯のことならなんでも知ってますねっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "ふふーんっ、お任せください！\r\nなんでも頼ってくださいねっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある種、キタサンブラックの後輩力が\r\nスペシャルウィークに余裕を\n与えたのかもしれないと思うのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

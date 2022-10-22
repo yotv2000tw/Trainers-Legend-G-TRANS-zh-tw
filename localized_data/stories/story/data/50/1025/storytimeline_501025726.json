@@ -1,0 +1,57 @@
+{
+  "Title": "クレーンゲームに挑戦！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日、\r\nマンハッタンカフェと出かけた先で――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……あ……あのクレーンゲーム……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "マンハッタンカフェの視線を辿ると、\r\nウマ娘たちをモチーフにしたぬいぐるみが\n入った、クレーンゲームがあった。",
+      "ChoiceDataList": [
+        "取ってあげようか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "いいんですか……ありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "それに……あの愛らしいぬいぐるみなら……\r\n髪の毛……勝手に伸びなそう……。",
+      "ChoiceDataList": [
+        "え……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "いえ……昔の話です……\r\nそれよりも……頑張ってください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――このゲーム、負けられない！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

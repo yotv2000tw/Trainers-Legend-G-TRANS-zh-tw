@@ -1,0 +1,534 @@
+{
+  "Title": "it's your song！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "コパノリッキーとホッコータルマエの仲は\nあの『チャンピオンズC』の日以来、\n少しギクシャクしたままだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ホッコータルマエ",
+      "Text": "あの……トレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ホッコータルマエ",
+      "Text": "あの時はすみませんでした。\n私、リッキーに少し言い過ぎたっていうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ホッコータルマエ",
+      "Text": "……ごめんなさい。",
+      "ChoiceDataList": [
+        "気にしないでいいよ",
+        "ううん、気にしないで"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "実力を認めたからこそ投げかけた強い言葉。\nそれに後悔しているようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ホッコータルマエ",
+      "Text": "リッキーは……リッキーは元気で\nトレーニングしていますか？",
+      "ChoiceDataList": [
+        "ああ、超元気だ！",
+        "うん、超元気だよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ホッコータルマエ",
+      "Text": "超……。ということは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ホッコータルマエ",
+      "Text": "けっこう気にしてる感じですよね。\n落ち込んでる時ほど顔に出さないから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ホッコータルマエの見立ては正しかった。\nそう、コパノリッキーは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "やるぞやるぞ、やっちゃうぞー♪\u3000今度こそ\nタルマエにすごいって思わせるんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "リッキー☆\u3000ラッキー☆\u3000大爆走ー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "心の穴が大きいほど、それをごまかそうと\n表面上は元気になる。だが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "トレーナー、タイムは！？",
+      "ChoiceDataList": [
+        "……よくないな。フォームも空回りしてるし",
+        "……よくないね。フォームも空回りしてるし"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "態度はごまかせても、走りはごまかせない。",
+      "ChoiceDataList": [
+        "リッキー、とにかく気にしすぎないようにな",
+        "リッキー、とにかく気にしすぎないようにね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "えぇ……気にするなって……何を？\n私なら別に平気だけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……自覚が乏しい分、言葉も届かない。\nこのままでは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『フェブラリーS』で好走し、\n未来を勝ち取ることはむずかしい。\nまさに見えない負のスパイラルに陥っていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うーん、みんなをハッピーにしたい……。\n私、ズレてるのかな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "誰も彼もハッピーに、なんて……\nもしかして相当無理な話……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ううん、そんなことはないよねっ！\n風水パワーは無敵っ。無敵なんだから☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "元気を演じる背中が痛々しい。\nどうにか元の状態に……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "トレーナーさん。\nリッキーちゃん、大変みたいだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう言いながら、やってきたのは……\nスマートファルコンだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "なんでだろうね。みんな、誰かの幸せを\n願ってる、いい子ばっかりなのに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "あのね。私、思うんだけど……ダートの\n娘たちってみんな、どこか不器用だよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "つい本音を言い過ぎちゃったり、\n言いたいことをうまく言えなかったり。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "でも私は、そういうところが\n大好きなんだけどね☆\nみんな、かわいくてかわいくて♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……同意だった。不器用で\nストレートだからこそ、すれ違ってしまう。",
+      "ChoiceDataList": [
+        "どうすればいいと思う？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "うーん、わからないけど……みんな、\nただそれぞれに、目指すものを真っすぐ\n目指せばいいと思うんだよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "リッキーちゃんは風水でハッピーに！\nタルマエちゃんは故郷を有名に！\nそして私は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "ウマドルとして、歌とダンスでみんなを\n元気に♪\u3000自分を信じて一生懸命やれば。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自分を信じて一生懸命。それをずっと\nやっていたコパノリッキーが\nできなくなってしまっている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "乗り越えるための、\nかすかな望みがあるとしたら――",
+      "ChoiceDataList": [
+        "スマートファルコン、頼みがある",
+        "スマートファルコン、頼みがあるの"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "頼み？\u3000なに？",
+      "ChoiceDataList": [
+        "リッキーに元気をあげてくれないか",
+        "リッキーに元気をあげてくれないかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "リッキーちゃんに元気を……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ウマ娘にはそれぞれ、\nそのウマ娘にしかない特別な煌めきがある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーナーがどうにもできない時でも\nあるいはウマ娘なら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "そうだね。目指すものを真っ直ぐにやれば\nいいって言ったのは私。だから☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "私は私のできることをやってみるよ♪\nリッキーちゃんの、ちょっとだけ先輩として。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "見てて、トレーナーさん☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして数日後――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "トレーナー、こんなところで何するの？\n今日のトレーニングは……。",
+      "ChoiceDataList": [
+        "いいから、ステージを見て"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ステージをって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "えっ、ファル子さん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "はぁーい、リッキーちゃん☆\nこんにちはー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "今日は特別！\u3000リッキーちゃんのためだけに\nファル子・スペシャルライブを\nやっちゃうよー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "なんだか最近、ちょっと迷っちゃってる\nみたいだから、元気のおすそわけ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "これを見て、リッキーちゃんの信じる\n風水パワーを取り戻してね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "――ミュージック、スタート！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "この曲は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "やりたいこーとをやっちゃおう♪\nできないこーとをやっちゃおう♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "風水パワーは素晴らしい～♪\nみんながそーれを待っている～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "きっと、あの娘もわかるはずー！\n本気で走ればわかるはず！\u3000Fuー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "聞いたことのない曲だった。\nおそらくコパノリッキーのための書き下ろし。\n歌はさらに盛り上がり――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "Do リッキー♪\u3000Do リッキー♪\n進めリッキー♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "Do リッキー♪\u3000Do リッキー♪\n進めリッキー♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "Do リッキー♪\u3000Do リッキー♪\n進めリッキー♪\u3000Fuu～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "わぁぁぁっ！\u3000ファル子さん……。\nまさかこれ……私のために……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "なんだろ、見てると……ハートが\nギュって……。どうしてこんなに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "リズムの1つ1つ、笑顔の1つ1つが、\nコパノリッキーの心を突き上げる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "これがウマドルの力。スマートファルコン、\n本気のパフォーマンスの力だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "いぇ～い☆\u3000どうだった、リッキーちゃん？\nちょっとは元気出たかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うんっ、すっごく！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "えへへっ、よかったー！\n私はウマドルとして、このパフォーマンスで\nみんなを幸せにしたいんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "でもでも～、きっと歌以外にも幸せにする\n方法はあるよね。みんなが歌を\n好きなわけじゃないし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "そんな時こそ、風水パワー☆\nリッキーちゃんにしかできない励ましを\n待ってる人もいるんじゃないかな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "私にしかできない……励まし……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "うん♪\u3000少しわからなくなっちゃっても、\n信じ続けようよ。自分の信じるものを。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "大丈夫！\u3000リッキーちゃんは間違ってないよ。\nだって、方法はなんであれ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "心からみんなの幸せを願ってるんだもん！\nそれって本当に素敵なことだからっ☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "ファル子さん……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "さすがスマートファルコンだった。\nまさにアイドル、いやウマドル……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "力のなかったコパノリッキーの瞳にみるみる\n輝きが戻る。まるで封じられていた氣が\nあふれ出すかのように。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "そうだね。風水は間違ってない。だって……\nだって私はそれで元気になったから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "小さかった頃、風水を知って元気になれた。\n風水を教えてあげたら元気になった子も\nたくさんいた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "私があきらめなければ、きっとどこまでも\nハッピーの輪を広げていける！\u3000だから……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "うんうん、その通り♪\nじゃあ、これでもう平気だね☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "うん！\u3000ファル子さん、ありがとう！\nそれから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "多分トレーナーだよね。\nファル子さんに頼んでくれたの。",
+      "ChoiceDataList": [
+        "ああ。少しは元気が出たなら、よかった",
+        "うん。少しは元気が出たなら、よかったよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "少しどころじゃないよー♪\nもう元気モリモリで、\n体がはじけ飛んじゃいそう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "これで気持ちもスッキリしたよ。私は私で、\n自分の大切なものをぶつけるしかないっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "コパノリッキー",
+      "Text": "よーし、ここからまた、がんばるぞー！\nリッキー☆\u3000ラッキー☆\u3000大復活ー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうしてウマドル、スマートファルコンの\nとびきりの応援ソングで、\nコパノリッキーは見事よみがえった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

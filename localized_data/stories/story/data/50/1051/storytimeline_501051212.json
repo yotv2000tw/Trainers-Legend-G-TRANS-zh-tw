@@ -1,0 +1,61 @@
+{
+  "Title": "エリザベス女王杯にむけて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『エリザベス女王杯』――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "エリザベス女王杯"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その距離は2200m。ニシノフラワーが\r\n苦戦した『オークス』と近い距離だ。\n彼女には苦い記憶が強く残っているらしく――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "…………ふぅ。",
+      "ChoiceDataList": [
+        "フラワー、いけるか？",
+        "フラワー、いける？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……っ。\nはい、大丈夫です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "……トレーナーさんは、\n『いける！』って思ってくれたんですよね？",
+      "ChoiceDataList": [
+        "ああ！",
+        "うん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "なら……怖いけど、\r\n大丈夫です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ニシノフラワー",
+      "Text": "がんばってきます……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

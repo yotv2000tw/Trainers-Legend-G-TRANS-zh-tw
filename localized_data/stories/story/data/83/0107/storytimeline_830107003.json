@@ -1,0 +1,273 @@
+{
+  "Title": "ずっと Zutto 輝いて Forever",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "マルゼンスキーの誘いで、リゾートホテルの\nプレオープンイベントに行くことになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "いやーすげえ人の入りだな！\nよしアンタ、人間将棋100面指しやるか！？\n俺が玉将で、そっちはカリスマ美容師で！",
+      "ChoiceDataList": [
+        "そ、そう思えるくらい盛況だな！",
+        "そ、そう思えるくらい盛況だね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "うーん、リニューアルって聞いてきたけど、\n全然代わり映えがしないじゃないか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "あのマルゼンスキーが広報ってことだけど、\nこの様子じゃ肩透かしだよな。\n彼女も頼まれて断り切れなかったのか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "あ、あのっ……！\nマルゼンさんはそんな人じゃ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "ハァイ！\u3000みなさん！\n遠路はるばる当リゾートへようこそ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "それでは今から、\nリニューアルの目玉である特別コースを\nみんなに楽しんでもらうわ！\u3000題して――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "『1日ご令嬢＆ご令息』体験！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "今から終日、お客様ひとりずつに\n執事がついてお世話させていただくわ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "執事役のスタッフ",
+      "Text": "<username>様、本日は私めが\nお側につかせていただきます。\n何なりとお申しつけください。",
+      "ChoiceDataList": [
+        "よ、よろしくお願いします……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "まずはスパの時間よ！\n日頃の疲れをゆっくり癒してね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "執事役のスタッフ",
+      "Text": "お嬢様、お湯加減はいかがでしょうか？\n何かお飲み物をお持ち致しましょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "おおっ、気が利くじゃねえか！\nじゃ、おでんの煮汁、\nそれもキンッキンに冷えたヤツを頼むぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "執事役のスタッフ",
+      "Text": "かしこまりました。少々お待ちください。",
+      "ChoiceDataList": [
+        "用意できるのか……！？",
+        "用意できるの……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "ま、まぁ……このくらいのサービスなら、\nどこでもやろうと思えばやれるもんさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "お次は名家の社交場としても使われた部屋で、\nアフタヌーンティーをご堪能あれ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "まあ、ティースタンドを使われないとは\nなかなか本格的ですのね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ティーカップや銀食器に至るまで\n調度品も一流揃い――\nこだわりが感じられますわね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "支配人",
+      "Text": "お褒めいただき恐縮です。\n実は、当館のティータイムを題材として\n大正時代に私小説が発表されたこともあり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "え！？\u3000あの名作の舞台なんですか！？\nまさか作中と同じ味を楽しめるとは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "さあ、今度は写真撮影よ！\nこちらのクローゼットから\n好きなドレスとアクセサリーを選んでね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラチヨノオー",
+      "Text": "わあ、全部素敵で迷っちゃいます！\n『美しき装いは猫の肉球にも勝る』、\nとでも言いましょうか……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "なるほど。『正装の機会も少ない昨今、\n非常に新鮮な体験に映る』……と。\n……あの、参加可能人数は何名でしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、めくるめく\n令嬢＆令息体験が終日続き――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "さあ、コースは以上よ！\n最後に支配人から挨拶をさせていただくわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "支配人",
+      "Text": "……皆様、本日はありがとうございました。\n流行がどんどんと移り変わる昨今、\n当館は『時代遅れ』なのかもしれません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "支配人",
+      "Text": "しかしながら、我々は信じています。\n時代が変わっても、人の心は変わらない、と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "支配人",
+      "Text": "皆様の心を捉え、ときめかせるものに、\n新しいも古いも関係はない、大事なのは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "支配人",
+      "Text": "徹底的にこだわり抜いて、\n磨きあげた『本物』であること。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "支配人",
+      "Text": "そう考え、このような形で我々が磨き上げた\nおもてなしをさせていただいた次第です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "……自分たちの心のときめきを信じて、\nその想いを必死に繋いできた――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "当館スタッフの熱く誇り高い想いを、\n今日1日を通じて、感じてもらえたら\nとってもうれしいわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スタッフ一同",
+      "Text": "ご来館、お待ち申し上げております。\n何卒、よろしくお願いいたします……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（……パチパチパチパチ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "いやあ、素晴らしかった……！\n施設の歴史や皆さんの情熱が伝わってきて……\nなんというか、心が洗われたような思いです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "『名門リゾートの復活』ってことで、\nばっちり特集組ませていただきますよ！",
+      "ChoiceDataList": [
+        "絶対にまた来ます！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "支配人",
+      "Text": "！！\u3000あ、ありがとうございます……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "帰り支度をしていると、\n浜辺にたたずむマルゼンスキーを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "ふぅ、風が気持ちいい……！\nやっぱりあたし、この海が大好き。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "静かで、大きくて、それに――\nなんだか、今日は特別に光ってるみたい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "心のときめきを、いつだって信じるわ。\nたとえ古くたって、時代遅れだって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マルゼンスキー",
+      "Text": "あたしも、あたしのトレンディを\nもっともっと、大事にしないとね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
