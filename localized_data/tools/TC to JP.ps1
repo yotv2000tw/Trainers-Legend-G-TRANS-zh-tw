@@ -30,9 +30,9 @@ if (-not (Test-Path -Path $pathToJson_original)){
    exit
 }
 }
-$a = Get-Content -Raw $pathToJson -Encoding utf8BOM | ConvertFrom-Json
+$a = Get-Content -Raw $pathToJson -Encoding utf8 | ConvertFrom-Json
 Copy-Item $pathToJson -Destination $pathToJson_original
 Copy-Item $version -Destination $version_original
-$a.PsObject.Properties.Remove("181") 
-$a | ConvertTo-Json | set-content $pathToJson -Encoding utf8BOM
+$a.PsObject.Properties.Remove("181")
+$a | ConvertTo-Json | set-content $pathToJson -Encoding utf8
 Write-Host "已將事件名稱轉換至日文，請點擊插件介面的「重新載入配置和文本」以套用變更。"
