@@ -2,7 +2,7 @@
 [![Release](https://img.shields.io/github/v/release/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw?color=blue&logoColor=white&label=Release&logo=DocuSign)](https://github.com/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw/releases/latest)
 [![Chat](https://img.shields.io/badge/Join-QQ%E9%A2%91%E9%81%93-blue?logo=tencent-qq&logoColor=white)](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1olqdK&from=246610&biz=ka)
 [![Discord](https://img.shields.io/discord/811185992198389800?color=blue&label=Discord&logo=Discord&logoColor=white)](https://discord.com/invite/umaconnect)
-[![Downloads](https://img.shields.io/github/downloads/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw/latest/total?label=Downloads&logo=Github&color=blue&logoColor=white)](https://github.com/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw/total?label=Downloads&logo=Github&color=blue&logoColor=white)](https://github.com/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw/releases/latest)
 
 # 繁體中文（台灣）
 - 此處除了是 [`Trainer's Legend G`](https://github.com/MinamiChiwa/Trainers-Legend-G) 的中文（台灣）譯文部分外，**同時負責發布繁體中文（台灣）插件本體的發行**。
