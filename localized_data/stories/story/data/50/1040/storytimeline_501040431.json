@@ -1,45 +1,49 @@
 {
-  "Title": "寶塚紀念結束後．燃燒",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "黃金城市使盡全力跑完了「寶塚紀念」，\n但她仍沒能追上玉藻十字。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "賽後，玉藻十字來找她說話。\n她原本很欣賞黃金城市火熱的競爭心，\n一直期待與她對戰。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "但一旦機會到來，黃金城市卻失去了原有的鬥志。\n被四周的意見耍得團團轉的模樣，\n令她恨鐵不成鋼。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "可是從現在的黃金城市身上，\n可以感受到她是認真地面對比賽。玉藻十字還說\n「只是想跑步」也是很棒的理由。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": [
-        "怪物",
-        "小栗帽",
-        "日本C"
-      ]
-    },
-    {
-      "Name": "獨白",
-      "Text": "黃金城市想再來場真槍實彈的較量。\n於是她決定要跑\n「怪物」小栗帽也將出賽的「日本C」。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "寶塚紀念結束後．燃燒",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "黃金城市使盡全力跑完了「寶塚紀念」，\n但她仍沒能追上玉藻十字。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "賽後，玉藻十字來找她說話。\n她原本很欣賞黃金城市火熱的競爭心，\n一直期待與她對戰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "但一旦機會到來，黃金城市卻失去了原有的鬥志。\n被四周的意見耍得團團轉的模樣，\n令她恨鐵不成鋼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "可是從現在的黃金城市身上，\n可以感受到她是認真地面對比賽。玉藻十字還說\n「只是想跑步」也是很棒的理由。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "怪物",
+                "小栗帽",
+                "日本C"
+            ]
+        },
+        {
+            "Name": "獨白",
+            "Text": "黃金城市想再來場真槍實彈的較量。\n於是她決定要跑\n「怪物」小栗帽也將出賽的「日本C」。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "怪物",
+                "オグリキャップ",
+                "ジャパンC"
+            ]
+        }
+    ]
 }

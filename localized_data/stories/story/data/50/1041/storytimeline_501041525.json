@@ -1,218 +1,282 @@
 {
-  "Title": "幹部對決開始！！",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "我前往訓練賽道去拿忘在那裡的東西，\n半路上……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "路過的賽馬娘",
-      "Text": "聽說「幹部對決」這次在體育館舉行！\n得趕快去替驀驀加油才行！",
-      "ChoiceDataList": [
-        "……幹部對決？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "我好奇地到體育館一看──",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "身為「班長」，\n我一定！會贏得勝利的！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "同學們",
-      "Text": "驀驀加油──！\n讓她見識妳的最快實力！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "青竹回憶",
-      "Text": "這句話是我要說的！\n我會用糾察「隊長」的臂章徹底打敗妳！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "糾察隊員們",
-      "Text": "呀──！糾察隊長～！\n帥呆了～～！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "……本來我只是想去拿忘記的東西，\n卻碰上了一場驚人對決！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "喔喔，訓練員！\n您是來為我加油的嗎！？",
-      "ChoiceDataList": [
-        "不，我正要去拿忘記的東西……"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "什麼！？那真是太幸運了！\n竟然能巧遇這場歷史性的對決！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "選出幹部中的幹部，這場「幹部對決」……\n到目前為止，全都是打成平手！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "青竹回憶",
-      "Text": "今天獲勝的一方就能成為最強幹部！\n但是……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "青竹回憶",
-      "Text": "問題是，這次要比什麼？\n比到第50場，實在沒哏了……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "對了！訓練員剛才有說，\n要去拿忘記的東西對吧！？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "先拿到訓練員忘記的東西然後趕回來的人\n就是贏家……怎麼樣！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "青竹回憶",
-      "Text": "我贊成！\n因為能夠幫助別人才算是堪為表率的幹部！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "就這樣，\n「幹部對決」的戰火揭開了序幕──",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "成功了成功了──！！\n這下我就是最強幹部了！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "青竹回憶",
-      "Text": "嗚！這就是驀進的力量！\n好厲害的速度……！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "嗯哼！沒錯……不過！\n這也是託訓練員的福！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "我邊跑邊想著「要幫上訓練員的忙！」\n就想起了平常的訓練！",
-      "ChoiceDataList": [
-        "這就叫學以致用！",
-        "這就叫學以致用！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "既得到訓練員的幫助！又拿來您忘記的東西，\n能回報您的恩情……我覺得非常滿意！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "青竹回憶",
-      "Text": "呃啊──！我完全輸了！\n而且你們兩人的情誼讓我好感動～～！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "觀眾們",
-      "Text": "真是精彩的較勁！謝謝你們帶給大家感動！\n恭喜妳～～！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "於是獲勝的櫻花驀進王\n就這樣接受著大家的祝福與喝采！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "嗚嗚嗚～～！\n我的驀進……居然會被打敗……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "青竹回憶",
-      "Text": "這就是糾察隊長的實力！\n最強幹部的寶座，我收下了！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "好不甘心……我好不甘心……！",
-      "ChoiceDataList": [
-        "驀進王……"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "不過！\n敗北也能為驀進帶來全新的力量！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花驀進王",
-      "Text": "我會燃燒鬥志的，下次一定是我贏！\n在那之前，那個位子就先借妳坐吧！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "青竹回憶",
-      "Text": "呵……這樣才是我看上的幹部！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "觀眾們",
-      "Text": "班長──！\n妳表現得也很精彩──！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "於是櫻花驀進王的熱血志氣\n讓體育館裡的人紛紛為她獻上掌聲與喝采。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "幹部對決開始！！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我前往訓練賽道去拿忘在那裡的東西，\n半路上……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "路過的賽馬娘",
+            "Text": "聽說「幹部對決」這次在體育館舉行！\n得趕快去替驀驀加油才行！",
+            "ChoiceDataList": [
+                "……幹部對決？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我好奇地到體育館一看──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "身為「班長」，\n我一定！會贏得勝利的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "同學們",
+            "Text": "驀驀加油──！\n讓她見識妳的最快實力！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回憶",
+            "Text": "這句話是我要說的！\n我會用糾察「隊長」的臂章徹底打敗妳！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "糾察隊員們",
+            "Text": "呀──！糾察隊長～！\n帥呆了～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……本來我只是想去拿忘記的東西，\n卻碰上了一場驚人對決！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "喔喔，訓練員！\n您是來為我加油的嗎！？",
+            "ChoiceDataList": [
+                "不，我正要去拿忘記的東西……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "什麼！？那真是太幸運了！\n竟然能巧遇這場歷史性的對決！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "選出幹部中的幹部，這場「幹部對決」……\n到目前為止，全都是打成平手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回憶",
+            "Text": "今天獲勝的一方就能成為最強幹部！\n但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回憶",
+            "Text": "問題是，這次要比什麼？\n比到第50場，實在沒哏了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "對了！訓練員剛才有說，\n要去拿忘記的東西對吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "先拿到訓練員忘記的東西然後趕回來的人\n就是贏家……怎麼樣！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回憶",
+            "Text": "我贊成！\n因為能夠幫助別人才算是堪為表率的幹部！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就這樣，\n「幹部對決」的戰火揭開了序幕──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "成功了成功了──！！\n這下我就是最強幹部了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回憶",
+            "Text": "嗚！這就是驀進的力量！\n好厲害的速度……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "嗯哼！沒錯……不過！\n這也是託訓練員的福！",
+            "ChoiceDataList": [
+                "え？いや、別に……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "我邊跑邊想著「要幫上訓練員的忙！」\n就想起了平常的訓練！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "既得到訓練員的幫助！又拿來您忘記的東西，\n能回報您的恩情……我覺得非常滿意！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回憶",
+            "Text": "呃啊──！我完全輸了！\n而且你們兩人的情誼讓我好感動～～！",
+            "ChoiceDataList": [
+                "バクシンオー……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "觀眾們",
+            "Text": "真是精彩的較勁！謝謝你們帶給大家感動！\n恭喜妳～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "於是獲勝的櫻花驀進王\n就這樣接受著大家的祝福與喝采！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "嗚嗚嗚～～！\n我的驀進……居然會被打敗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回憶",
+            "Text": "這就是糾察隊長的實力！\n最強幹部的寶座，我收下了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "好不甘心……我好不甘心……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "不過！\n敗北也能為驀進帶來全新的力量！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "櫻花驀進王",
+            "Text": "我會燃燒鬥志的，下次一定是我贏！\n在那之前，那個位子就先借妳坐吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回憶",
+            "Text": "呵……這樣才是我看上的幹部！",
+            "ChoiceDataList": [
+                "学びが活かせたんだな！",
+                "学びが活かせたんだね！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "觀眾們",
+            "Text": "班長──！\n妳表現得也很精彩──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "於是櫻花驀進王的熱血志氣\n讓體育館裡的人紛紛為她獻上掌聲與喝采。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "観客たち",
+            "Text": "いい戦いだったよー！　感動をありがとう！\r\nおめでとう～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "勝者のサクラバクシンオーは、\r\n祝福の喝采を浴び続けるのだった！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "サクラバクシンオー",
+            "Text": "うううぅぅぅ～～！\r\n私のバクシンが……破られるなんて……。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "バンブーメモリー",
+            "Text": "これが、風紀委員長の力っスよ！\r\n最強の委員長の座、アタシが頂くっス！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "サクラバクシンオー",
+            "Text": "悔しい……悔しい、です……！",
+            "ChoiceDataList": [
+                "バクシンオー……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "サクラバクシンオー",
+            "Text": "ですがッ！\r\n敗北もまたバクシンの新たな力になりますッ！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "サクラバクシンオー",
+            "Text": "次こそ勝つぞと、燃えますから！\r\nその時まで、その座はお貸ししておきます！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "バンブーメモリー",
+            "Text": "フッ……それでこそ、\r\nアタシが見込んだ委員長っス！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "観客たち",
+            "Text": "学級委員長ー！\r\nナイスファイトだよーー！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "サクラバクシンオーの熱い思いに、\r\n体育館中から拍手喝采が送られるのだった。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }
