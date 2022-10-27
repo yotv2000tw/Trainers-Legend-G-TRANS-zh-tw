@@ -207,7 +207,7 @@
     },
     {
       "Name": "女性粉絲A",
-      "Text": "啊……我失態了！是千葉縣。\n你們能來中山賽場嗎……？",
+      "Text": "啊……我失態了！是千葉縣。\n你們能來中山或船橋賽場嗎……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -239,7 +239,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "來擬定讓醒目飛鷹在中山的比賽中，\n能拿下第一名並獲得中央站位的計畫吧……！",
+      "Text": "來擬定讓醒目飛鷹在中山或船橋的比賽中，\n能拿下第一名並獲得中央站位的計畫吧……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -316,6 +316,44 @@
     {
       "Name": "獨白",
       "Text": "來擬定讓醒目飛鷹在小倉的比賽中，\n能拿下第一名並獲得中央站位的計畫吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性ファンA",
+      "Text": "ハッ……失礼しました！\n神奈川県です。川崎レース場に\n来てもらえますか……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "わぁ～～神奈川だってぇ♪\n音楽の街もあるし、すっごく\n刺激をもらえそう☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "ねえ、トレーナーさん。\nファル子、行きたいな～？",
+      "ChoiceDataList": [
+        "スケジュールを調整してみるよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スマートファルコン",
+      "Text": "やったぁ♪\u3000それじゃあ、センター目指して\n頑張っちゃうから応援よろしくね☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ファンの地元でウイニングライブに出ると\n約束をしたスマートファルコン。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "川崎のレースに出て1着を獲り、\nセンターを飾るための計画を立てよう……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
