@@ -15,6 +15,9 @@
 
 - 此插件的繁體化進度目前為 **部分繁體化**
 
+# 額外安裝
+- 如需使用自動拔除育成劇情標題文本的小工具，建議安裝 [`Powershell 7.2.7 穩定版本`](https://github.com/PowerShell/PowerShell/releases/tag/v7.2.7) 。
+
 # 贊助
 
 - 如果有意願贊助者，可以透過 Discord 私訊 `雪楓Yuki#0001`。
