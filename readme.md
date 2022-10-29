@@ -21,6 +21,9 @@
 - 使用說明：請見 `localized_data/插件說明_about.pdf` 。
 - **必要軟體：`Powershell 6` 以上版本。**
 - 開發環境： [`Powershell 7.2.7 穩定版本`](https://github.com/PowerShell/PowerShell/releases/tag/v7.2.7) 。
+- 目前確定可以經由小工具拔除育成標題後，正常判讀的軟體（歡迎至 Discord 回報補充）：
+    - [UmaCruise-U](https://github.com/RyoLee/UmaCruise-U)
+    - [UmaUmaChecker](https://github.com/Cilda/UmaUmaChecker)
 
 # 贊助
 
