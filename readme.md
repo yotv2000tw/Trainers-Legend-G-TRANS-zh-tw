@@ -16,7 +16,11 @@
 - 此插件的繁體化進度目前為 **部分繁體化**
 
 # 額外安裝
-- 如需使用自動拔除育成劇情標題文本的小工具，建議安裝 [`Powershell 7.2.7 穩定版本`](https://github.com/PowerShell/PowerShell/releases/tag/v7.2.7) 。
+## 拔除育成標題小工具
+- 位置：`localized_data/tools` 內，有 `轉換.exe` 與 `還原.exe`。
+- 使用說明：請見 `localized_data/插件說明_about.pdf` 。
+- **必要軟體：`Powershell 6` 以上版本。**
+- 開發環境： [`Powershell 7.2.7 穩定版本`](https://github.com/PowerShell/PowerShell/releases/tag/v7.2.7) 。
 
 # 贊助
 
