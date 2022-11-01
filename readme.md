@@ -31,8 +31,12 @@
 - 贊助金額用於建置內部翻譯平台與日常網站營運。
 
 # 繁體中文貢獻者
-- [`简体中文项目译文仓库`](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS) 負責部分簡體中文翻譯來源。
-- 雪楓Yuki ([`@yotv2000tw`](https://github.com/yotv2000tw)) 負責把簡體中文跟繁體中文版的翻譯給對應上去。
+- [`简体中文项目译文仓库`](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS) 負責部分簡體中文翻譯來源，如果此區沒有註明譯者的部分，可以參閱前述倉庫的相關來源標註。
+- 雪楓Yuki ([`@yotv2000tw`](https://github.com/yotv2000tw)) 負責把簡體中文跟繁體中文版的翻譯給對應上去，還有翻譯用文本的套入。
+- 以下是經同意，提供翻譯文本供本插件使用的人：
+    - [西川秋人](translator/nishikawa.md)
+        - [YouTube——西川秋人_馬娘翻譯和他的遊戲](https://www.youtube.com/channel/UCsYPsraGEa8ZaQ_P-WP7KeQ)
+        - [Twitter](https://twitter.com/project90418512)
 
 ### 如何貢獻【請務必加入 [Discord 伺服器](https://discord.com/invite/umaconnect)，否則可能不會接受您的翻譯成果】
 
