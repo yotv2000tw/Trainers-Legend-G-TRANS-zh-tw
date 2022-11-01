@@ -42,13 +42,13 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "ひょっとしたら、\r\n私の不調も治してくれるかも――",
+      "Text": "ひょっとしたら、\r\n私の不調も治してくれるかも──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "（――ズル……ズルズル…………）",
+      "Text": "（──ズル……ズルズル…………）",
       "ChoiceDataList": [
         "な……なんの音だ？",
         "な……なんの音？"
@@ -59,7 +59,7 @@
       "Name": "美妙姿勢",
       "Text": "あっちから聞こえた！\u3000行ってみよう！",
       "ChoiceDataList": [
-        "あ、待っ――"
+        "あ、待っ──"
       ],
       "ColorTextInfoList": []
     },
@@ -151,13 +151,13 @@
     },
     {
       "Name": "",
-      "Text": "（ズル……ぴたっ……シーン――）",
+      "Text": "（ズル……ぴたっ……シーン──）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "――はぁっ、はぁっ……あら、急に音が……？\r\n確かにさっきまで聞こえていたのに。",
+      "Text": "──はぁっ、はぁっ……あら、急に音が……？\r\n確かにさっきまで聞こえていたのに。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
