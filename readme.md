@@ -15,23 +15,14 @@
 
 - 此插件的繁體化進度目前為 **部分繁體化**
 
-# 額外安裝
-## 拔除育成標題小工具
-- 位置：`localized_data/tools` 內，有 `轉換.exe` 與 `還原.exe`。
-- 使用說明：請見 `localized_data/插件說明_about.pdf` 。
-- **必要軟體：`Powershell 6` 以上版本。**
-- 開發環境： [`Powershell 7.2.7 穩定版本`](https://github.com/PowerShell/PowerShell/releases/tag/v7.2.7) 。
-- 目前確定可以經由小工具拔除育成標題後，正常判讀的軟體（歡迎至 Discord 回報補充）：
-    - [UmaCruise-U](https://github.com/RyoLee/UmaCruise-U)
-    - [UmaUmaChecker](https://github.com/Cilda/UmaUmaChecker)
-
 # 贊助
 
 - 目前無開銷，暫時沒有贊助的需要，往後如果有要架設網站或者內部平台，會公開這些資訊，並開放針對這些項目的贊助。
-- 現階段，你如果想要贊助，可以透過 Discord 私訊 `雪楓Yuki#0001` 指定贊助目的與金額，我們會基於贊助目的來使用您的贊助金費：
+- 現階段，你如果想要贊助本項目，可以透過 Discord 私訊 `雪楓Yuki#0001` 指定贊助目的與金額，我們會基於贊助目的來使用您的贊助金費：
     - 贊助目的：飲料錢、吃飯費、未來項目營運資金（也就是往後項目需要花錢再使用這筆錢）等。
     - 贊助人、贊助目的與贊助金額，以及贊助金額的實際運用情形，會放置於 [贊助與使用情形](sponsor.md) 內。
     - 贊助金額在本項目持續更新期間都會持續進行依照目的使用並記錄，而在本項目結束維護時，則會透過項目內部方式，將所有贊助金額做出最終分配。
+    - 贊助方式：PayPal（通用）、街口支付（台灣）、點數卡（需協調）。
 
 # 繁體中文貢獻者
 - [`简体中文项目译文仓库`](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS) 負責部分簡體中文翻譯來源，如果此區沒有註明譯者的部分，可以參閱前述倉庫的相關來源標註。
@@ -64,6 +55,17 @@
 - 本字型亦基於 SIL Open Font License 1.1 授權條款免費公開，關於授權合約的內容、免責事項等細節，請詳讀 License 文件。
     - 本字型可自由使用在印刷、影像、網路或任何媒體上，不限個人或商業使用。
     - 您可基於 SIL Open Font License 1.1 的規定再散佈或改造本字型。
+
+### 解除安裝方法
+
+- 關閉遊戲後，刪除 `Umamusume` 文件夾內的以下內容：
+
+
+ `localized_data` 文件夾、`config.json`、`legend_g_plugin.exe`、`version.dll`、`version.txt`
+
+（可能存在的文件）：`static_dump.json`、`dump.txt`、`legend_g_plugin_log.log`
+
+- 如果僅需要暫時令插件失效，修改 `version.dll` 文件名即可。
 
 # 設定選項
 
