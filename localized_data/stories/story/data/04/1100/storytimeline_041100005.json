@@ -1,0 +1,222 @@
+{
+  "Title": "今天是悠哉吃便當的好天",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "啊，訓練員。\n正要去吃午餐嗎？",
+      "ChoiceDataList": [
+        "銳駿要吃便當嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "對啊，還要連早飯的份都一起吃呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "奇銳駿做的便當裡面到底會是什麼樣子啊。\n正當我在想像的時候──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "訓練員，如果還沒吃午餐的話，\n要不要一起吃這個呢？",
+      "ChoiceDataList": [
+        "いいのか？",
+        "いいの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "當然可以啊。今天有點做太多了，\n要是訓練員願意幫忙吃我會很高興的。",
+      "ChoiceDataList": [
+        "那麼我就恭敬不如從命的吃這個便當吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "學長訓練員",
+      "Text": "喔，<username>！\u3000大家正要一起去吃午餐，要來嗎？\n聽說車站前新開的拉麵好像還挺不錯的。",
+      "ChoiceDataList": [
+        "不好意思，今天我有點事"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "哎呀！　訓練員，我沒關係哦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "只是個便當，下次還是有機會一起吃的。\n難得有人邀約，你就去吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這可不行。我向學長表示感謝，\n並且告訴他我已經先跟奇銳駿說好一起吃午餐了──",
+      "ChoiceDataList": [
+        "不好意思，下次有機會我會去的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "學長訓練員",
+      "Text": "喔喔，原來是這樣，已經先跟人約好啦。\n那就下次再說吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "裡面包培根和起司的三明治還有肉捲──\n奇銳駿的便當是以西式為主的家庭料理。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然每個都很吸引人，總之我先吃了一口三明治。\n厚切培根和番茄跟黑麥麵包實在是非常搭配。",
+      "ChoiceDataList": [
+        "好吃！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "哎呀哎呀……竟然露出那麼高興的表情，謝謝你這麼捧場。\n來喝紅茶吧。我裝在保溫瓶裡面帶來的，還熱呼呼的哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我慢慢地啜引紅茶。\n淡淡的茶葉氣撲鼻而來，令鼻腔內充滿了紅茶香──",
+      "ChoiceDataList": [
+        "（真叫人放鬆啊……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "我還有準備櫻桃派當點心喔。\n想吃多少我幫你切吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "哈啊～肚子好飽喔。\n而且……陽光也很舒適宜人……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "這種日子會讓人想邊曬日光浴邊睡午覺呢。",
+      "ChoiceDataList": [
+        "是啊",
+        "是啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（啾啾）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "哎呀，是小鳥呢。嘿欸，竟然在那種地方築了巢。\n幼鳥們看起來也很有精神呢。",
+      "ChoiceDataList": [
+        "要是能順利長大就好了呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "訓練員，謝謝你特地陪我。\n還讓你拒絕邀約，讓我覺得挺抱歉的。",
+      "ChoiceDataList": [
+        "不會，是我自己想那麼做而已……",
+        "不會，是我自己想那麼做而已……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "呵呵……不用勉強自己也沒關係哦。\n訓練員這個人真的很會替他人著想呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "你就是像這樣，總是把我的事情放在第一順位對吧？\n現在想起來，從相遇的時候就一直是這樣呢──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "像是馬上看穿我的毛病並推薦我拉筋去改善──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "或是仔細看著我的狀況，為我貼身設計出\n最適合的訓練菜單──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "這麼厲害的人願意當我的訓練員，\n我認為自己真的很幸福哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "不過呢，你多將重心放在自己的步調上也沒關係哦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "要是能看到訓練員過得輕鬆～自在，\n我也會覺得很高興喔。",
+      "ChoiceDataList": [
+        "但我沒有在勉強自己──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（鐘聲）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "哎呀，已經這麼晚了嗎？　那麼放學後再見囉。\n工作不要讓自己太操勞哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然我很想解開奇銳駿的誤會，\n但是她這麼關心我也挺讓人高興的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這讓當時的我認為，不需要著急……，\n只希望她能慢慢理解這一點就好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
