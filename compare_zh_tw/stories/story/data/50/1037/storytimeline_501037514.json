@@ -1,0 +1,425 @@
+{
+  "Title": "在黑暗中蠕動的黑影是……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "訓練結束後，\n我跟榮進閃耀一起走在校園時，\n看到一道可疑的人影。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "可疑的人影",
+      "Text": "唔～～～啊啊啊～～\n唔～唔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……那個人是怎麼了？\n該不會是身體不舒服吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "──不對。\n看那動作莫名地有活力，不像是生病呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那道人影搖搖晃晃地走著。\n以向前看齊般的姿勢伸出雙手，\n無力地上下晃動。簡直就像──",
+      "ChoiceDataList": [
+        "……簡直就像殭屍一樣呢……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……！？訓練員，\n請不要亂說話。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "可疑的人影",
+      "Text": "啊啊啊啊……我要吃……！",
+      "ChoiceDataList": [
+        "他說了「我要吃」……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "不、不對，他……他一定是，\n他一定只是肚子餓了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "總之先問問他怎麼了吧。\n要是真的不舒服就糟了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……請問，你還好嗎？\n要是身體不舒服的話──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "可疑的人影",
+      "Text": "唔唔唔唔～唔唔……\n啊啊啊啊啊啊啊啊！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "！？！？！？\n哇啊啊啊啊啊！？",
+      "ChoiceDataList": [
+        "快、快逃吧！",
+        "得、得快點逃！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "人影向我們襲擊而來，看那面容，\n無庸置疑地……就是殭屍！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "呼……呼……！\n那、那個……到底是……！？",
+      "ChoiceDataList": [
+        "是真正的殭屍……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "不、不可能……！\n雖然他的動作\n看起來毫無理性……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……但不可能是殭屍──這世界上絕不可能\n存在如此違反科學又極不合理的東西，\n我完全無法接受──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "殭屍",
+      "Text": "嘟嚕嚕嚕啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "哇啊啊啊啊啊啊啊啊啊啊啊啊！？",
+      "ChoiceDataList": [
+        "總之快逃吧！",
+        "只能戰鬥了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "怎、怎麼會……不可能的……！\n不可能真的有殭屍……！",
+      "ChoiceDataList": [
+        "快點！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "呃！？好、好的──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "殭屍",
+      "Text": "唔嘎啊啊啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "唔！？",
+      "ChoiceDataList": [
+        "怎麼了！？",
+        "怎麼了！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "──我、我的腳，\n發軟了……！\n好、好像跑不動了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "殭屍",
+      "Text": "唔──唔──！\n嘰哩呱啦呼嚕呼嚕──\n啊哇啊哇轟隆轟隆……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "我、我已經不行了……！\n訓練員，你自己快逃……！",
+      "ChoiceDataList": [
+        "抓住我的手！",
+        "抓住我的手！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "唔！好、好的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "殭屍",
+      "Text": "唔嘎啊啊啊啊啊……！\n嘰哩呱啦呼嚕呼嚕──\n啊哇啊哇轟隆轟隆……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……因為是殭屍，他移動得相當緩慢。\n我緊抓著榮進閃耀的手，\n總算是順利逃脫了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "呼……呼……！\n我、我們……得救了嗎？",
+      "ChoiceDataList": [
+        "已經沒事了",
+        "已經沒事了喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……太、太好了……太好了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……啊。剛、剛剛──\n那個，剛剛真不好意思……\n我、我……剛剛……手……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "──總、總之我要向你道謝。\n要不是有你在，\n我就無法從那裡順利逃脫了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "真的……真的很謝謝你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……啊……\n對、對了──我差不多\n該回宿舍了……",
+      "ChoiceDataList": [
+        "……我送妳回去"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "謝、謝謝你……！\n不好意思，麻煩你這麼多事──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "其實，那個──\n剛才我真的很害怕──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "殭屍？",
+      "Text": "……呼～！\n蒙面還真是悶熱啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "不過，剛剛好30分鐘！\n多虧這個，我覺得暢快多啦～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "嘿嘿嘿，在例行公事中，還是扮演殭屍\n最能體會到活著的可貴了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之後，榮進閃耀得知了真相，\n據說大概有三天左右，\n她都用冰冷的眼神看著黃金船──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "就、就算你這麼說……！\n我也不知道該怎麼跟殭屍戰鬥呀！",
+      "ChoiceDataList": [
+        "有沒有什麼驅邪的道具？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "驅邪──！這、這麼一說！\n我、我有交通安全的護身符……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……看招！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "殭屍",
+      "Text": "……啊啊啊～？\n……嘖、嘖。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……好、好像沒有用！\n該、該、該怎麼辦……！",
+      "ChoiceDataList": [
+        "……向神祈禱吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "好、好的……天上的神啊……！\n請祢驅除邪惡之物吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "請把他趕到地底……不，哪裡都好──\n總之請讓他從這裡消失，\n真的，求求祢了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "殭屍",
+      "Text": "呵、呵、呵、呵……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "什麼……他在跳霍巴克舞！？\n這招也不行……！完全沒有效！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "到底……該怎麼辦……？\n這下子已經束手無策了……！",
+      "ChoiceDataList": [
+        "妳知不知道什麼咒語！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "咒語──\n啊！對了！那句咒語……\n應該也能當作驅邪咒語！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "toi,toi,toi……\ntoitoitoitoitoitoi！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "殭屍",
+      "Text": "…………\n呼嗯嗯唔唔唔唔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "有、有效了！\ntoi,toi,toitoitoi！",
+      "ChoiceDataList": [
+        "toi,toi,toi！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "殭屍",
+      "Text": "唔哇啊啊啊啊啊啊啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "太、太好了！成功了！\n我們……打倒殭屍了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──不過，當殭屍倒下的那瞬間，\n某種疑似面罩的東西脫落了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "殭屍？",
+      "Text": "很──好，準時30分鐘結束！\n畢竟讓人捨不得結束才剛剛好啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……那個，黃金船。不好意思，\n請問妳究竟是在做什麼呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "什麼？當然是在進行例行公事──\n扮演殭屍，藉此體會活著的可貴啊。\n妳不會這麼做嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "……唉呀，糟糕了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "下一個例行公事的時間快到了，\n該去騎火焰甩尾單輪車了！",
+      "ChoiceDataList": [
+        "……她跑掉了",
+        "……她跑掉了呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "唉……這時候該說什麼呢？那個……\n無論如何，幸好不是真的殭屍，\n真是太好了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

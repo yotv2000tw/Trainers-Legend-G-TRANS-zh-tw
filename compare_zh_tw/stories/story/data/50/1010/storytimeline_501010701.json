@@ -1,0 +1,55 @@
+{
+  "Title": "充分休息！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "Hey，那裡的you！\n這是good morning的hug！我抱～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "呀！\n大、大樹快車……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "呵呵，妳cheer up了呢！\n接著我要去找那個沒什麼精神的女孩──",
+      "ChoiceDataList": [
+        "妳在做什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "Oh，訓練員！\nGood morning！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "我在hug一大早就沒什麼精神的女孩，\n給她們注入energy！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "多虧昨天放假，\n我的energy都overflow了～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "大樹快車似乎獲得了\n比平常更充分的休息。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

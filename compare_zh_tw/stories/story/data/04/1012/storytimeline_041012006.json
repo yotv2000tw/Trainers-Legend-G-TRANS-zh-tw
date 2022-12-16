@@ -1,0 +1,389 @@
+{
+  "Title": "大姐流的料理",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某個假日。\n當我來到學園裡的圖書室時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "我看看，《五星義大利料理大全》和\n《激烈中華料理三次對決定勝負》啊……嗯～好像不太對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "喔！《活力滿點家庭料理圖鑑》，應該是這類型的。\n好，今天就借這本……",
+      "ChoiceDataList": [
+        "妳在做什麼？",
+        "妳在做什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "唔喔，訓練員老大！你怎麼會在這裡？\n你也是來借書的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看樣子菱亞馬遜是來借書的呢。\n她要借的是什麼書呢……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "這個？這是做菜的書。\n因為要是只會自創料理，拿手菜也就只有那幾樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "所以我偶爾會借這類書，咻咻咻地多學幾道料理。\n我可不是只會抱著書看，也會實際動手做喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "事情就是這樣，訓練員老大，走啦！\n接下來去買這本書裡寫的食材吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "來，購物籃給你拿，我把食材一樣樣丟進去！\n首先是南瓜，還有魚露。哇～我還是第一次用這個哩。",
+      "ChoiceDataList": [
+        "妳對做菜蠻熟悉的嘛",
+        "妳對做菜蠻熟悉的呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "是啊！我每天都會做菜喔！試做出能提振精神的料理後，\n就會給後輩們吃。看她們大口大口吃的模樣，心情也會很好呢。",
+      "ChoiceDataList": [
+        "這是妳的興趣嗎？",
+        "這是妳的興趣嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "興趣？應該算吧。\n我的興趣與其說是做菜……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "話說回來，訓練員老大，你對這件事特別感興趣的樣子耶。\n你該不會也會做菜吧？",
+      "ChoiceDataList": [
+        "算是會吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "什麼！？這麼說來，你……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "一直不動聲色的，結果其實是我的勁敵啊！\n竟然隱藏起自己的威脅性……可惡！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "糟啦！我都沒發現，所有本事都被你看光光了。\n天啊～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "不過……算了。就算把一切攤在陽光下，我還是會豪邁取勝！\n這樣才像菱亞大姐的作風！",
+      "ChoiceDataList": [
+        "什、什麼意思？",
+        "什、什麼意思？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "這還用我解釋？既然我們都擅長料理，\n那麼要做的事情就只有一件！來單挑吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "同為奔馳在廚藝之路的我們\n要是不分出個勝負，你應該也不會痛快吧？",
+      "ChoiceDataList": [
+        "不，我覺得不分出勝負也無所謂……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "什麼嘛，真沒骨氣。總之，既然知道了\n你也會做菜，我的鬥志整個燃燒起來啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "賽馬娘對上訓練員，偶爾在同個領域競爭不是也很好嗎？\n來比吧，料理對決！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "那麼接下來將借用學生餐廳開始料理對決！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "這一邊是我們的宿舍長，也是廚房鐵人──菱亞大姐！\n大姐的手藝，我們所有人都可以掛保證！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "好，來比一場吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "另一邊是菱亞大姐的訓練員。\n如果不端出能打動女孩子的料理，可是贏不了的唷！做啦做啦♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "喂喂，別趁亂擅自點餐啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "耶嘿嘿，不小心就說出了少女的真心話……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "那麼鼓起幹勁……師徒對決，最好是吃到爆！\n廚藝對決，開始──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "唔喔喔喔喔，訓練員老大，我要上啦！\n看我的～～～鍋子，沸騰吧！滾啊滾啊滾啊！",
+      "ChoiceDataList": [
+        "不用一字一句喊出來也沒關係吧……",
+        "不用一字一句喊出來也沒關係吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "又、又不會怎麼樣！這是氣氛，氣氛！\n這樣不是比較熱血嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "來吧，你也儘管出招吧！\n讓我看看你自豪的手藝吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──最後，\n我們各自將料理擺上桌。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "接下來準備試吃！訓練員做的料理是這一道！\n「鋪滿起司的焗烤胡蘿蔔淋蜂蜜」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "什麼～～～！？訓練員老大，你竟然走了旁門左道！\n把一堆受歡迎的食材都放上去討好評審！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "你這個做垃圾食物的傢伙～～～！\n嘖，算了。喂，妳快點吃看看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "好，嚼嚼……\n好吃！感覺要變成這道料理的俘虜了～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "唔，也分我一口……\n不，不用了！我也是有自尊心的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "接下來是菱亞大姐做的這道！\n「清燉南瓜絞肉」？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "沒錯！這是我這次看書學的新菜色喔。\n外觀雖然有點普通，總之妳先吃看看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "好，嚼嚼……\n唔！！這味道……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "普通！！\n看起來普通，吃起來也一樣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "喂，妳也太老實了！\n可惡～～～跟訓練員老大的垃圾食物比起來果然不夠吸引人啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "啊，不過……請等一下。\n這味道……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "雖然沒有什麼亮點，但是有種感覺漸漸地擴散到全身……\n該怎麼說……好溫暖……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "喔，看樣子妳注意到啦！\n這就是我的料理的祕密。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "訓練員老大，你也吃看看吧。\n你吃了這道菜肯定也會有感覺，我保證。",
+      "ChoiceDataList": [
+        "好，我開動了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "當我嚐了一口燉菜後，\n有一股溫和的美味在體內漸漸擴散開來……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這道料理不只是好吃而已，同時還考量到吃的人。\n我向菱亞馬遜表達感想，並且給予讚美……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "別、別這樣！我可是你的對手喔！\n這樣我會不知道該做出什麼反應啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "不過你說得沒錯。我的興趣是做菜。\n不過我喜歡的不單是做菜本身。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "我喜歡做的是，對身體好、能讓人充滿幹勁和精神的料理。\n訓練員老大，你也不例外！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "嗶嗶～接下來要評比囉。\n這次料理對決的結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "兩邊都很好吃，所以是平手──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "什麼！？為什麼會是平手啊？\n照這情況來看，一般應該是算我贏吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "評審賽馬娘",
+      "Text": "可是～濃稠的起司也很好吃嘛～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "可惡，竟然跳進這種明顯的陷阱……\n去喝珍奶啦妳！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "訓練員老大～這下子要怎麼辦啊？\n我們難得比一場，平手也太沒勁了！要怎麼樣才能折衷解決……",
+      "ChoiceDataList": [
+        "下次再比吧！",
+        "下次再比吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "下次再比……？喔，對耶！說得也是！\n這次平手，以後再比就好啦。而且我們還要一起往前衝呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "哈哈，訓練員老大，我可不會認輸喔！\n雖然我們是夥伴，不過在廚房裡可是勁敵唷！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "菱亞馬遜很高興能在自己感興趣的領域裡找到強敵。\n而她似乎比較喜歡味道溫和的料理，正好與性格相反。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

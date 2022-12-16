@@ -1,0 +1,402 @@
+{
+  "Title": "化為手杖",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "出道戰結束了，\n必須決定氣槽的下一個目標才行……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "如果要挑個適合「女帝」的比賽──",
+      "ChoiceDataList": [
+        "（……「阪神新手級賽馬娘賽」！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "凡是稱霸「阪神JF」的賽馬娘，\n就會被譽為該年的新手級女王。\n讓氣槽挑戰這場比賽再適合不過了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "阪神JF",
+        "新手級"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "但氣槽自己又是怎麼想的呢？\n於是為了確認她的想法，我決定去找她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "學生會的賽馬娘",
+      "Text": "──副會長，校內備品已經檢查完畢了。\n這邊是統整過後的清單。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "謝謝妳。後續我會確認的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "…………呼。\n接著是去學生會辦公室整理資料嗎──",
+      "ChoiceDataList": [
+        "辛苦了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "唔──\n怎麼，是你啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "如果沒有重要的事就晚點再說。\n我現在要去學生會辦公室整理資料。",
+      "ChoiceDataList": [
+        "那我幫妳吧",
+        "那我幫妳吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "你說什麼？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因為跟今後的方針有關，\n所以我想盡快找時間跟她談。\n我將自己這番用意告訴了氣槽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "你說你為了擠出時間所以想幫忙我？\n……哼，你變得挺敢講的嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "──你還在做什麼？要去學生會辦公室了。\n既然要幫，我可要請你幫到底。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "哦──\n今天氣槽的訓練員也一起來了啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "今天原定要整理資料，\n我想讓我的訓練員來幫忙，不知道方便嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "無所謂。\n應該說，這樣正好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "發生什麼事了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "剛剛美化委員來這裡說要找妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "感覺對方挺急的。\n能請妳直接去找她，問她詳細情形嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "這段時間，就由我跟他來整理資料吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "這段時間，就由我跟她來整理資料吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "原來如此，是這樣啊……\n我大概知道對方找我有什麼事，我立刻過去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "先失陪了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……結果沒想到，\n我跟魯道夫象徵兩個人獨處了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "那麼，我們就快開始整理吧。\n麻煩你了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……魯道夫象徵整理資料的方法很有一套，\n原本一大疊的資料比我預想得還快整理完畢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "──感謝，多虧有你幫忙，\n才能在氣槽回來之前整理好資料。",
+      "ChoiceDataList": [
+        "我才要謝謝妳讓我幫忙"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "「謝謝讓你幫忙」嗎……\n原來如此，我好像能看出你們之間的關係了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "正因為你跟氣槽是這樣的關係──\n我想問你一件有關她的事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "（──會長？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "（他們兩人到底在談什麼……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "……就如你知道的，\n她對學生會的業務及照顧後輩都非常有熱忱。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "儘管如此，她仍漂亮地跑完了先前的出道戰，\n對自己該做的事毫不懈怠。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "想必今後她在為了賽馬娘奉獻己身的同時，\n也會約束自己，朝著更高處邁進吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "這將是條千辛萬苦的路程，\n中途甚至可能陷入進退兩難之境。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "……而你正在距離她最近之處看著她，\n所以我想問你這件事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "──氣槽她現在，沒有在勉強自己吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "魯道夫象徵直直地看著我，\n向我提出這個問題。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "聽了她的問題，我腦海裡第一個浮現的，\n是氣槽曾說過的話──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "我再說一次。\n絕對別鬆懈，還有──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "一定要跟上我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在她漂亮跑完出道戰的那天，她對我這麼說。\n那麼我身為她的訓練員──",
+      "ChoiceDataList": [
+        "我相信氣槽所前進的道路"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "……這就是所謂，心堅石穿嗎。\n或許你們彼此意外地相似啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "看來我似乎問了個過於冒犯的問題。\n……今天我要再次謝謝你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "等一下我會跟氣槽說\n你已經先過去訓練員室等她了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是我順著魯道夫象徵的話，\n回到訓練員室等氣槽──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "妳先來了啊？",
+        "妳先來了啊？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "嗯，是啊。\n比起這件事，關於今後的方針──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "──我要參加「阪神JF」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "我要拿下勝利……\n以新手級女王的身分稱霸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "這樣一來……\n會長也不用擔憂了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "畢竟如果讓她擔無謂的心，\n我可稱不上是理想的「女帝」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "難道剛剛我跟魯道夫象徵的對話\n被她聽見了嗎？我感到有點在意──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但現在的她隱約流露出近似不甘心的情緒，\n我沒必要特地問她是否聽見了那些。\n身為訓練員，現在我有其他該做的事。",
+      "ChoiceDataList": [
+        "我想的也是「阪神JF」"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "──呵。\n你也多少開始明白了啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "怎麼了嗎？",
+        "怎麼了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……我想說，關於你今天的行動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "嗯……算是幫了我吧。\n我還是應該向你道謝。",
+      "ChoiceDataList": [
+        "請多多依靠我吧",
+        "請多多依靠我喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "──哼，你這蠢蛋。\n別太得意忘形啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "下一個目標就決定是「阪神JF」！\n朝新手級女王邁進！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "Title": "阿船大人召集下屬",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我為了吹吹風而來到頂樓，\n結果在那裡看見了\n黃金船和草上飛兩人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "還不夠……身為UMA王，我還缺少些什麼！\n為了找出不足之處，我必須踏上旅途……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "旅行很不錯呢。\n但今天不能去喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "今天不是和大家約好，\n要在訓練賽道決勝負的嗎～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "嗯，我懂。\n妳是想說「時間有限」吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "但妳還是加油吧！感到寂寞也不要掉淚……！\n總有一天我們會再見的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "啊……黃金船前輩真是的。\n得趕快把她帶回去才行呢～",
+      "ChoiceDataList": [
+        "我來幫忙找吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "哎呀，謝謝你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "那如果你找到她的話，請將她再帶回到這裡。\n萬事拜託囉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "黃金船去旅行了！？\nNo！那今天的對決呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "搜索！發現！捕獲！！\n我一定會抓到她的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "妳說黃金船去旅行了！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "想逃避跟本帝王一決高下是嗎！？\n我一定會把她找出來的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "我沒看見耶～\n是說，大家不是約好今天要跑步嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "好喔～了解。\n那我回學園的路上順便找找看吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "後來我還是沒有找到黃金船，\n於是便決定先回到頂樓看看──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "呵呵呵……這個世界在不久之後，\n就會變成UMA王阿船的囊中物了……！",
+      "ChoiceDataList": [
+        "找到了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "總算找到了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "真是的！\n妳知不知道我們找了多久啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "啊哈哈，原來在這裡啊～\n難怪怎麼找都找不到呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "呼……大家辛苦了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "被找到了嗎……？\n呵，難怪都說兇手喜歡回到犯案現場。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "我可是一直在高處看著妳們的一舉一動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "多虧有妳們才讓我想到，UMA王阿船\n所欠缺的……或是說不可或缺的是什麼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "因為需要我而聚集在一起的四名賽馬娘……\n這樣說的話，妳們應該就懂了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "黃金船擺出一臉認真的表情，\n等待著我們說出答案。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "UMA王和四名賽馬娘。\n從這些可以聯想到的是──",
+      "ChoiceDataList": [
+        "四、四大天王？",
+        "完全想不到……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "哦？很聰明嘛！你也加入四大天王……\n不對，畢竟四大天王就只能四個人嘛～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "好，那你就當勇者吧，勇者！\n只要你能勝過我，就把世界的一半分給你！",
+      "ChoiceDataList": [
+        "不用，我又不需……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "那就立刻開始戰鬥吧！！\n來啊！儘管出招吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "在那之前要先跟我們一決勝負！！\n捕獲！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "神鷹和帝王光輝兩人架著黃金船，\n強行把她給拖走……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "啊哈哈哈～與其說是「UMA王」，\n還比較像是「外星人」吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "好，四大天王的城堡要蓋在宇宙是嗎！\n在裡面佈滿陷阱吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "那為了讓四大天王更加團結，\n大家先一起跑步吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "唉……\n只要別惹出什麼麻煩就好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "神鷹希望能在自己的城堡裡建一座擂台！\n門鈴就用擂台的鐘聲吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然UMA王的行事作風很亂來，\n但似乎和四大天王的感情很好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "對了！UMA王阿船的屬下，\n最強的四大天王！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "「哈瓦那辣椒」神鷹！「釣客」天空！\n「怪物」草上飛！及其他一名！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "為什麼我是「其他」啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "既然都要取名的話，\n神鷹想要換一個更帥氣的擂台名耶！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "啊哈哈，我是無所謂啦～\n反正聽起來就像是可以悠閒釣魚的感覺～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "哎呀……名字聽起來很會戰鬥的，\n好像就只有我一個呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "有了UMA王和四大天王之後，\n再來就該有一個勇者才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "啊，還必須有一個會哭著背叛勇者們的叛徒，\n以及想要篡位的邪惡大臣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "真是的，UMA王完全沒有空閒的時間呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──就這樣，獲得了四大天王的UMA王大人，\n其旅途仍會繼續下去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "笨蛋，超過四個人的話就該吃火鍋啊，火鍋！\n弄一個黑暗火鍋來召喚蒟蒻麵惡魔吧！",
+      "ChoiceDataList": [
+        "什麼意思……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "對她這種人啊，\n你不能想要追究理由跟道理的啦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "今天感覺特別想要吃火鍋耶～\n有砂鍋嗎？用砂鍋來煮火鍋吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "你們就去打獵準備食材來吧！\n拿些能吃的跟不能吃的回來！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "我會去收集一些土來製作砂鍋！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "那麼我這就去釣個魚……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "停。現在就想吃晚餐還太早了喔～\n還是先做好跑步的準備吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "是啊！雖然我也想吃火鍋，\n但還是很期待今天的對決！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "黃金船就這樣被同伴們給拖走了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "火鍋～！喂，那邊的！\n你去負責把東西都準備好～！所有人的份喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自由奔放，想到什麼就做什麼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我想，這正是\n黃金船的魅力所在吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

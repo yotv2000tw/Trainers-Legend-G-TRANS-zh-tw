@@ -1,0 +1,420 @@
+{
+  "Title": "驀進式的解謎！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "最近學園內正流行一款學生製作的解謎遊戲，\n名叫「賽馬娘解謎」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "據說玩法是要解開設置在學園內的謎題，\n櫻花驀進王也在班上同學的推薦下試著挑戰，\n然而──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "唔啊啊啊啊────！！\n完～～全解不開！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "我應該率先解開謎團，成為大家的榜樣才對，\n這樣沒辦法作為眾人表率！",
+      "ChoiceDataList": [
+        "要不要幫忙？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "咦咦！？我很感謝您的好意，\n可是這樣會不會無法成為大家的榜樣？",
+      "ChoiceDataList": [
+        "與訓練員合作的態度很值得大家參考喔",
+        "與訓練員合作的態度很值得大家參考喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "嗯，那就沒問題了！\n讓大家好好見識我們的班長力量吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "嗯嗯！\n「提示可由中山獲得」是吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "中山、中山……\n講到中山就會想到──",
+      "ChoiceDataList": [
+        "去問中山慶典？",
+        "去中山賽場就會知道？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "原來如此！\n學園裡最有名的「中山」就屬她了！！",
+      "ChoiceDataList": [
+        "她會乖乖告訴我們嗎？",
+        "她會乖乖告訴我們嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "達成課題的過程難免會碰到障礙！\n我會用幹勁與意志力克服難關的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "找到妳了，中山同學！\n好，請給我「賽馬娘解謎」第三題的提示！！",
+      "ChoiceDataList": [
+        "這樣說人家聽不懂吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "不會，妳是指那句「提示可由中山獲得」吧？\n我就是那個「中山」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……不過，我可不能白白告訴你們。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "什麼！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "妳現在必須以提示為賭注跟我比賽。\n如果妳贏了，我就把妳想知道的提示告訴妳。",
+      "ChoiceDataList": [
+        "輸了的話呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "這個嘛，驀進王的話……\n那就禁止當班長一天怎麼樣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "我接受！！！！！",
+      "ChoiceDataList": [
+        "秒答！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "不用擔心啦，訓練員！\n我一定會用我的班長力量取得勝利的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "很好，妳有著賭徒的眼神……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "那比賽內容就讓妳決定，\n我們來場最刺激的較勁吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……呃，抱歉。\n妳可以再說一遍嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "可以！\n我們用班長力量一決勝負吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "妳說的這個班長力量……\n是啥玩意啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "就是身為班長應有的心態，\n以及言行舉止！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "中山同學！\n讓我們來比比誰比較適合當班長吧！",
+      "ChoiceDataList": [
+        "……妳可以拒絕沒關係喔",
+        "……妳可以拒絕沒關係喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "不，賭徒一言九鼎。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "再說，對決條件對我越是壓倒性不利，\n我就越熱血沸騰……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，兩人的班長力量對決揭開序幕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "比賽內容是藉由各種不同情境，\n來比較誰的言行最符合班長應有的風範──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "對決一開始是由櫻花驀進王占優勢，\n但中山慶典也緊追不捨，\n兩人之間的戰況極其熾烈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "呼、呼……\n這下就是我贏了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……呵，是我輸了。\n班長力量這玩意可真深奧啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "按照約定，我就把提示告訴妳。\n以後要繼續加油喔，班長！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在那之後，多虧有她告訴我們的提示，\n我們順利解完了「賽馬娘解謎」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "再加上不用禁止當班長，\n櫻花驀進王自始至終心情都非常好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "原來如此！講到賽馬娘就想到比賽！\n講到比賽就想到賽場！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "呵呵，\n這推理真是一點都不拐彎抹角呢。",
+      "ChoiceDataList": [
+        "不過賽場在學園外面耶……",
+        "不過賽場在學園外面呢……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "不！只要把賽場同樣當成學習地點，\n就可以說是學園的一部分！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "這週末就去中山賽場吧！\n謎題的提示就在中山賽場！！",
+      "ChoiceDataList": [
+        "我、我知道了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然有點擔心自己的推理是否正確，\n不過去一趟中山賽場不是壞事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "除了解謎之外，\n還能趁此機會到中山賽場觀摩學習。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "然後到了週末──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "呵呵呵！\n中山賽場，我來了！",
+      "ChoiceDataList": [
+        "既然都來了那就參觀一下吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "是！無論是「賽馬娘解謎」還是賽場研究，\n我都會做到盡善盡美！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "訓練員，\n請看那終點前的上坡路！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "要是能在那堪稱最後難關的坡道上驀進，\n拔得頭籌衝進終點──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "那感覺肯定是會爽快到不行對吧！",
+      "ChoiceDataList": [
+        "那妳得好好鍛練體力了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "當然了！\n我要鍛鍊得比以往更確實！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "然後讓櫻花驀進王的名字轟動整個中山賽場！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "既然已經決定了，那可不能繼續在這打混！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "得回學園做訓練才行！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "朝向榮耀的未來驀進────！！",
+      "ChoiceDataList": [
+        "解、解謎呢！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "櫻花驀進王似乎沒聽到我的制止聲，\n她的身影眨眼間就消失在前方遠處。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "驀！進！\n驀！進！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "呼，今天就訓練到這裡為止吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同學A",
+      "Text": "哦，是班長！\n辛苦了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "多謝慰勞！\n大家也辛苦了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同學B",
+      "Text": "妳不是說要去中山賽場嗎？\n後來沒去啦～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同學C",
+      "Text": "沒差，反正「賽馬娘解謎」的「中山」，\n又不是中山賽場……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "「賽馬娘解謎」……\n「中山」……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "啊啊啊啊啊啊啊啊！！\n我忘得一乾二淨啦────！！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果這天，雖然櫻花驀進王\n沒能把「賽馬娘解謎」全都解完──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但是在中山賽場增廣見聞，\n讓她稍微獲得了些成長。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

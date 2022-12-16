@@ -1,0 +1,304 @@
+{
+  "Title": "決心",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "正當我在學生餐廳吃午餐時，\n看見了目白麥昆。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "唔……總覺得不太夠呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……不，不行！\n我只能吃飲食計畫表上規定的東西……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她好像還是苦於飲食限制，\n真想幫上她一些忙──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "那傢伙又在進行「嚴控作戰」了喔？竟然連她愛吃到不行的甜食\n都忍住不吃，真是意志力驚人啊～",
+      "ChoiceDataList": [
+        "麥昆喜歡吃甜食？",
+        "麥昆喜歡吃甜食嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "喔喔，被你聽到啦？\n也對，這個距離當然聽得到了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "我跟你說，大家提到自由跟平等就會想到我！\n同理可證，大家提到甜食，自然就會想到麥昆吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "不過這段時間她好像都一直忍著，\n自從選拔賽以來，她都沒吃過甜食吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "……喔喔，糟糕，我該去拯救第13號行星了。\n那先這樣，掰囉～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……或許我聽到了寶貴的資訊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是那天我回到房間後，\n整天就在查詢飲食計畫表中度過……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "哎呀？你是……\n你又過來看我了呢。",
+      "ChoiceDataList": [
+        "可以請妳看看這個嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "咦？要我看訓練員你的筆記嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "知道了，那我就不客氣了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "是飲食計畫表……居然寫了這麼多道不容易轉化成脂肪的菜色……\n訓練員，這些都是你查的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "而且這裡寫的……\n是甜點吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "甜點竟然出現在飲食計畫表裡……！？\n我、我可以吃嗎……！？",
+      "ChoiceDataList": [
+        "這樣妳才能打起精神，拿出全力奔跑吧",
+        "我想這樣妳才能打起精神，拿出全力奔跑"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "訓練員……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……非常謝謝你。\n明明我還不是你的專任賽馬娘，你卻為了我做到這個地步。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "這份飲食計畫表能暫時借我參考嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "然後……這個嘛。\n一週後，能請你再來看我訓練嗎？",
+      "ChoiceDataList": [
+        "那當然！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "那麼，我們到時再見吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是一週後，我動身前往賽道──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "一週不見了呢，訓練員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "那麼，我要開始訓練了。\n……還請你看著。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "──喝！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是我默默看了一會\n目白麥昆進行訓練的模樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "呼、呼、呼、呼、呼……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "呵呵……身體好輕盈……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白麥昆簡直就像脫胎換骨似的，\n跑起來變得強而有力……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……呼！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "訓練員……你覺得怎麼樣呢？",
+      "ChoiceDataList": [
+        "表現得太棒啦！",
+        "表現得太棒了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "呵呵，真是太榮幸了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "都是多虧了那份飲食計畫表……我才能使出力量來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "說到飲食限制，過去我很容易偏重在\n自己「不能吃」哪些東西──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "但你的那份計畫表，卻是在充分了解食物特性的前提下，\n仔細地計算卡路里，往「能吃」哪些東西的方向來規劃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "多虧這樣，我連甜點都能吃了……\n呵呵，我覺得自己還能再跑幾趟呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……總之，這樣一來，\n你是不是也能認同我跑步的實力了呢？",
+      "ChoiceDataList": [
+        "那當然！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "非常謝謝你。\n那麼，請容我再次聲明──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "我是目白家的賽馬娘。既然背負這個名號，\n我就有義務要華麗、優雅、完美地取得勝利。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "如果要當我的專任訓練員，\n那你也得有身為目白家訓練員的自覺才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "如何？\n──你是否有這樣的決心呢？",
+      "ChoiceDataList": [
+        "我有！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "呵呵……真是令人放心的回答呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "非常謝謝你。\n那麼，訓練員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "今後還請不吝指導、鞭策，\n麻煩你多多指教了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──就這樣，\n我和目白麥昆相處的日子開始了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

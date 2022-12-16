@@ -1,0 +1,105 @@
+{
+  "Title": "教學引導→名字→角色劇場",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我跟手綱小姐一起\n觀賞競賽的隔天──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "再次歡迎你……訓練員！！\n歡迎來到「日本賽馬娘訓練中心學園」──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "日本賽馬娘訓練中心學園"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "對比賽懷抱夢想的賽馬娘在此齊聚一堂，\n這裡是日本最頂尖的賽馬娘培育機構！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "歡迎！！！！",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "秋川理事長，您真是的……！\n都嚇到人家了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "秋川"
+      ]
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "抱歉！！看到如此前途無量的訓練員前來，\n我不小心太激動了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "重新來過！！\n我就是這間學園的理事長──秋川！\n請多指教了，新人訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "秋川"
+      ]
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "首先呢……\n務必！讓我多認識你一點！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "歡迎！！<username>訓練員，\n從今以後，你就是特雷森學園的一分子了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "期待！！請陪伴你的專任賽馬娘，\n為了實現她們的夢想，盡情施展你的長才吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "在這間學園裡的賽馬娘，\n都立志在閃耀系列賽中獲得亮眼的表現……\n對奔馳於賽場上的她們而言，那是最棒的舞台。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "閃耀系列賽"
+      ]
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "而你身為訓練員，\n希望你可以好好地教育！指引！\n支持你的專任賽馬娘！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "完畢！期待你能拿出不辜負胸前那枚\n訓練員徽章的表現喔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "那麼現在……我們立刻開始進行實習吧。\n<username>訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

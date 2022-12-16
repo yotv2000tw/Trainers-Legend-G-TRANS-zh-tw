@@ -1,0 +1,527 @@
+{
+  "Title": "目標是成為打比賽馬娘！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "URA的表揚典禮當天──\n為了觀看老師的重要大事，我等待轉播開始的時間……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "叩叩叩──！訓練員在嗎──！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "啊，你在呢！現在方便嗎？\n我想找你討論關於打比展覽的事。",
+      "ChoiceDataList": [
+        "要討論什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "關於展示的資料，該怎麼說呢……\n我希望能讓它整個更淺顯易懂一點。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "目前這樣該說只是把資料擺在那嗎？\n我希望能讓參觀的人有種「好感動～～」的感覺！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "所以就想說有沒有什麼好方法～\n但是我很不擅長動腦筋……啊哈哈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "要讓人感動……這樣的話，\n試著在券藏的推薦要點加入解說如何？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "要讓人感動……這樣的話，\n試著在券藏的推薦要點加入解說如何？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "推薦要點……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "之前妳聊到打比的時候，\n不是有告訴我對於每個賽馬娘的感想嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "之前妳聊到打比的時候，\n不是有告訴我對於每個賽馬娘的感想嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "喔，原來如此！\n也就是說，再多推薦一些各自的戲劇性情節就行了吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "這樣的話，我有自己統整的資料，說不定可行！\n好──趕快來努力製作資料吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "勝利獎券說完便要開始準備展覽作業，\n但我要看「轉播」的時間就快到了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "在那之前，我可以先看一下電視嗎？\n前任訓練員要參加URA的表揚典禮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "在那之前，我可以先看一下電視嗎？\n前任訓練員要參加URA的表揚典禮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "啊，是小栗帽的訓練員對吧！\n那我也一起看！說不定可以聽到什麼好事！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "打開電視後不久後，表揚典禮的轉播就開始了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播",
+      "Text": "「這次非常恭喜你獲得URA表揚！\n在你長年的競賽人生當中，有什麼印象深刻的賽事嗎？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任訓練員",
+      "Text": "「啊～每場賽事都有眾多賽馬娘投入的情感，\n就這層意義上來說，比賽全都讓我印象深刻。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播",
+      "Text": "「這次的表揚是讚賞你至今的成就，\n你聽聞這件事時心情如何？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任訓練員",
+      "Text": "「當然很高興，不過也懷疑……\n自己是否真的有資格接受這個獎。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任訓練員",
+      "Text": "「我未能實現所有賽馬娘的夢想。\n畢竟自己從沒讓任何賽馬娘在打比拿下勝利。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任訓練員",
+      "Text": "「身為參與賽事的人員，還是想要贏啊。\n在被稱為最高榮譽的打比獲得勝利……」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "咦……原來他並沒有在打比贏過啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這麼說來，即使是長年擔任訓練員，\n拿下眾多著名頭銜的老師，也沒能在打比贏得勝利。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "雖然我有聽說打比是賽事的頂點，\n但就連被稱為資深訓練員的老師都沒贏過啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "雖然我有聽說打比是賽事的頂點，\n但就連被稱為資深訓練員的老師都沒贏過啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "打比原本是在閃耀系列賽中最早誕生的大型賽事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "大家為了獲勝而拚命努力，\n至今寫下了眾多屬於他們自己的故事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "所有人都認真到不行，超認真的！所以無論是資深訓練員\n還是有實力的賽馬娘，要贏都非常不容易。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "連老師都無法拿下勝利的事實，\n讓勝利獎券這番話更增添了幾分說服力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播",
+      "Text": "「原來還是有最受支持，\n卻仍然無法拿下勝利的賽事呢。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任訓練員",
+      "Text": "「那時的賽馬娘抱著必勝的決心不斷訓練到比賽當天，\n但是在最後的直線還是被對手們超前……」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任訓練員",
+      "Text": "「雖然事後也有人說當初應該要怎麼做才比較好，\n但我覺得不可以對這麼拚命奔跑的她抱持這種想法。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任訓練員",
+      "Text": "「後來我開始認為，不該再回頭看已經發生的事……\n而是銘記她對打比的意志，將眼光放向下一場比賽。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "……他剛才說的就是我第一次去看的打比！\n媽媽有帶我去現場看過！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "那場老師沒能贏得勝利的打比……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "嗯，不會錯的！真的是場很棒的賽事！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "明明是支持度第一的賽馬娘卻不斷被超越，\n儘管如此還是一心求勝，直到最後都沒有放棄！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "看了之後就讓我明白打比有多麼了不起，\n所以才讓我這麼憧憬。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "年幼的勝利獎券只看一次就深受吸引的打比，\n就是老師和專任賽馬娘嚮往不已的比賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任訓練員",
+      "Text": "「雖然最後還是沒有拿過勝利而引退……\n但現在的隊伍＜天狼星＞有繼承著我這份意志的人。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任訓練員",
+      "Text": "「我相信那個人一定可以在打比中拿下勝利。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "喂，這是指你吧。\n他說你「應該可以在打比獲勝」喔！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "嗯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "嗯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "總覺得電視另一頭的老師正在看著我。\n像是把夢想交到我手中……告訴我「你可以辦到」一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "總覺得電視另一頭的老師正在看著我。\n像是把夢想交到我手中……告訴我「你可以辦到」一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "老師將未能完成的夢想託付給我了。\n他相信我可以辦到……",
+      "ChoiceDataList": [
+        "……真想在打比獲勝"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "老師將未能完成的夢想託付給我了。\n他相信我可以辦到……",
+      "ChoiceDataList": [
+        "……真想在打比獲勝"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "咦！？\n所以你要以打比為目標嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "唔喔喔喔喔～～！好有戲劇性～！！\n師父無法完成的夢想，由弟子去努力實現！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "如勝利獎券所說，\n這確實讓人覺得充滿「戲劇性」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在這個時間點被委託協助展覽，\n邂逅以打比為目標的勝利獎券──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "以及她這個時候來到訓練員辦公室，跟我一起聽老師的訪談，\n這些事情全都串聯在一起──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "這個主持人也真會訪問！\n能像這樣聽到打比的事好令人感動～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "讓我不禁覺得，這或許是命中註定的。",
+      "ChoiceDataList": [
+        "我問妳，要不要一起邁向那個目標？",
+        "我問妳，要不要一起邁向那個目標？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "咦……？一起是指……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "難、難不成……是打比！？\n你、你、你要和我搭檔的意思！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "嗯，妳想在打比拿下勝利對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "嗯，妳想在打比拿下勝利對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "那當然了！我一定要贏！\n這可是我從小的夢想！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "我現在也覺得一定要贏。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "我現在也覺得一定要贏。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "所以如果妳願意的話，要不要一起試著達成那目標？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "所以如果妳願意的話，要不要一起試著達成那目標？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "真、真的嗎？你真的願意找我……？",
+      "ChoiceDataList": [
+        "我就是要找妳！",
+        "我就是要找妳！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "喔喔喔……唔喔喔喔喔喔喔～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "太棒了～～！被挖角啦────！\n我們一起努力吧，訓練員！！前進打比！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "嘿嘿嘿嘿！\n我會把「打比訓練員」這個稱號送給你的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "那麼，我就把「打比賽馬娘」的稱號送給妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "那麼，我就把「打比賽馬娘」的稱號送給妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "嗯！！我們一起加油吧！！\n好～～！以打比為目標！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "我是勝利獎券！\n還請多多指教！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "喔，來了個很有活力的傢伙嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "我聽說了喔，獎券。\n妳要以稱霸打比為目標對吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "打比是許多賽馬娘的憧憬。\n應該會有很多對手，但我們一起朝著夢想努力吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "謝謝！\n我一定會為隊伍＜天狼星＞拿下打比的勝利！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "券藏對打比有著強烈的決心。\n我們團結一心，支持她的夢想吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "喔喔喔～！太令人感動了！！\n奔跑吧，新人，奔向彼方的太陽！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "嗯！衝吧……打～～比～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "妳還真起勁！\n好，我也一起來！打～～比～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，我和勝利獎券朝向稱霸打比的篇章\n正式揭幕了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

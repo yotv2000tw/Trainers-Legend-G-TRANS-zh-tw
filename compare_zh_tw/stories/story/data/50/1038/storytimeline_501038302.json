@@ -1,0 +1,658 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某天傍晚，\n我被真機伶拉出門經過商店街時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "啊！有耶有耶～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，是好玩的抽獎活動喔！\n任何人都可以來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "哥哥，我們也去抽獎吧♪\n真機伶有抽獎券哦！",
+      "ChoiceDataList": [
+        "就為了這個把我拖來商店街啊？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "姐姐，我們也去抽獎吧♪\n真機伶有抽獎券哦！",
+      "ChoiceDataList": [
+        "就為了這個把我拖來商店街啊？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "耶嘿，其實啊♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "真機伶想要和哥哥一起\n感受抽獎的緊張期待感嘛♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "真機伶想要和姐姐一起\n感受抽獎的緊張期待感嘛♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "另外還想請你拍我轉抽獎機的影片。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看來對真機伶來說，比起抽獎的獎項，\n更重要的是可以當作社群平台的素材。",
+      "ChoiceDataList": [
+        "好，那就抽吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "這樣才對嘛♪\n哥哥，你拿著手機準備好哦♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "這樣才對嘛♪\n姐姐，妳拿著手機準備好哦♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "真機伶可愛地握著抽獎機的把手……\n一直靜靜地等待轉動的時機來臨……",
+      "ChoiceDataList": [
+        "妳還不轉嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "我想說這麼快就轉很沒意思嘛♪\n那我要轉囉～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……她轉了！\n轉出的結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "真機伶",
+      "Text": "哦哦！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "喔喔～！",
+      "ChoiceDataList": [
+        "太好了！",
+        "太好了呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "嗯，嚇到我了～\n沒想到竟然會轉出特獎♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "考慮到畫面效果，\n原本是希望抽到一整堆胡蘿蔔呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "可能是真機伶太可愛了，\n所以就招來好運了吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "認為自己隨便就能轉出二獎以上的獎品，\n這點真的很有真機伶的風格……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "那這個溫泉旅遊券就送給哥哥吧！",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "那這個溫泉旅遊券就送給姐姐吧！",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "真機伶有拍到效果很棒的影片就夠了♪\n就當作是答謝你陪我來吧。",
+      "ChoiceDataList": [
+        "可是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "真機伶也樂見哥哥好好休息放鬆一下。\n哥哥就挑個方便的時間去吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "真機伶也樂見姐姐好好休息放鬆一下。\n姐姐就挑個方便的時間去吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "真機伶想要的東西一定會努力拿到手，\n但對偶然獲得的東西似乎就不太執著……\n雖然這很符合真機伶的作風，但──",
+      "ChoiceDataList": [
+        "我還是不能收下"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "咦咦～？\n不行，都已經送給你了。",
+      "ChoiceDataList": [
+        "呃，可是──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "我知道了！那不然……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "如果能追到真機伶的話，我就收回來吧！",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "好啦，預備──開始！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "可想而知，\n無論我怎麼努力跑，都不可能追得上她──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "哥哥辛苦了。\n很可惜是真機伶贏了！",
+      "ChoiceDataList": [
+        "呼、呼……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "姐姐辛苦了。\n很可惜是真機伶贏了！",
+      "ChoiceDataList": [
+        "呼、呼……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "哎呀呀，看來是真的很認真在追我呢。\n雖然哥哥的個性就是這樣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "哎呀呀，看來是真的很認真在追我呢。\n雖然姐姐的個性就是這樣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "這是難得能擺脫真機伶，單獨休息的機會耶，\n乖乖收下不就好了嘛。",
+      "ChoiceDataList": [
+        "真機伶才更需要好好休息",
+        "真機伶才需要好好休息呀"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "真機伶常常默默地獨自努力。\n所以我希望她能撥出時間休息，\n當我把這個想法告訴她之後……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "……原來如此，\n什麼都要為真機伶著想就是了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "哥哥你真的是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "姐姐妳真的是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "知道了啦，真機伶認輸了。\n看來太為我著想也是個問題呢～",
+      "ChoiceDataList": [
+        "所以……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "等一切都告一個段落之後……\n我們再一起去吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "因此，「溫泉旅遊券」就暫時交由我保管了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "真機伶",
+      "Text": "哇──♪是特等的耶！",
+      "ChoiceDataList": [
+        "恭喜妳！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "難得的特等胡蘿蔔漢堡排，\n就這麼直接吃掉好像太可惜了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "乾脆辦個特等的派對好好熱鬧一下♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "所以呢……再逛一下商店街好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "真機伶還想要買些可以裝飾的東西。\n……啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "順便問一下，哥哥喜歡做料理嗎？",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "順便問一下，姐姐喜歡做料理嗎？",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "就只是閒聊一下而已啦！\n真機伶我啊～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "……有需要的話，就會喜歡做吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "真機伶想要吃吃看哥哥做的料理耶──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "真機伶想要吃吃看姐姐做的料理耶──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "因此，我們回到學園，\n開始了特等胡蘿蔔漢堡排的派對……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但不知不覺間，\n演變成我當主廚來滿足真機伶的局面……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "真機伶",
+      "Text": "哇～！\n真的是滿滿的胡蘿蔔耶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "裝在木箱裡的話，\n好像有種豐收祭典的布景感呢♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "服裝也換成橘色系的～\n嗯，感覺很棒！",
+      "ChoiceDataList": [
+        "妳一開始就打算這麼做了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "啊哈，只是巧合啦～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "我只是知道抽獎獎品的胡蘿蔔\n是很甜很～漂亮的橘色而已！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "回去之後再麻煩哥哥幫忙好了。",
+      "ChoiceDataList": [
+        "好啊，是要幫妳拍嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "回去之後再麻煩姐姐幫忙好了。",
+      "ChoiceDataList": [
+        "好啊，是要幫妳拍嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "不是，不是幫我拍──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "「#拍攝用的胡蘿蔔\n後來都由工作人員享用囉」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "真機伶",
+      "Text": "……一根。",
+      "ChoiceDataList": [
+        "覺得很失望嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "不會呀，我只是在想事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "想想該怎麼活用這一根胡蘿蔔……\n但我已經決定好了♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "把胡蘿蔔放在臉旁邊……\n好了，啪嚓♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "這樣就很完美了♪\n然後就叫做……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "「#胡蘿蔔挑戰\n#胡蘿蔔\u3000#其實拍起來很美\n#可愛的真機伶」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "……胡蘿蔔就整根烤來吃好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "後來因為真機伶的貼文，\n在UG上興起了一陣「#胡蘿蔔挑戰」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "真機伶",
+      "Text": "……",
+      "ChoiceDataList": [
+        "真可惜……",
+        "真可惜呢……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "啊哈，這也沒辦法啦～\n畢竟是抽獎嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "話說，真機伶打算去買個東西耶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "拍攝用的彩妝刷具差不多該換新的了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "我想想……\n算上備用的量，買個一百個好了。",
+      "ChoiceDataList": [
+        "真、真機伶！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "哥哥你還有時間嗎？\n真機伶想要你再多陪我一下，可以嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "姐姐妳還有時間嗎？\n真機伶想要妳再多陪我一下，可以嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "因為買完之後還有一百次的獎要抽……",
+      "ChoiceDataList": [
+        "（她的眼神是認真的……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "後來我為了安撫好勝心大爆發的真機伶……\n跟她約好了之後會再陪她約會一次……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

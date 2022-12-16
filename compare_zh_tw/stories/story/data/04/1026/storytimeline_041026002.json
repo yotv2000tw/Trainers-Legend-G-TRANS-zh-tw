@@ -1,0 +1,384 @@
+{
+  "Title": "第一步",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "經過適量的水分補給以及休息，\n脈搏、血壓皆朝正常值回復中。維護結束。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "謝謝你。那我先告辭了。",
+      "ChoiceDataList": [
+        "妳真的沒事嗎？",
+        "妳真的沒事嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "是的。我判斷這是激烈消耗持久力所產生的暫時性疲勞。\n目前正在順利地回復中。也就是「沒事」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "目前分析出再過7分28秒便能回復至可奔跑範圍。\n我會調整呼吸，靜待回復。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看她似乎不打算結束訓練的樣子，讓我有種不好的預感。",
+      "ChoiceDataList": [
+        "……回復之後妳就回家吧？",
+        "……回復之後妳就回家吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "不。回復後預定要跑2000公尺。",
+      "ChoiceDataList": [
+        "不行",
+        "不可以"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "為何？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "尚未鍛鍊完成的身體這樣跑是導致故障的原因。\n我簡單扼要地告訴她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "但我有個必須要完成的目標。",
+      "ChoiceDataList": [
+        "目標？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "取得經典三冠。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "經典三冠指的是中、長距離GⅠ競賽的\n「皋月賞」、「日本打比」、「菊花賞」。",
+      "ChoiceDataList": [
+        "（咦……但我記得……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅訓練員",
+      "Text": "那名訓練員說為了她，\n可是氣勢十足地在針對短距離路線設立計畫呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "美浦波旁的訓練員是計畫讓她跑短距離的。\n讓她以經典三冠為目標是訓練員同意的嗎？",
+      "ChoiceDataList": [
+        "妳的訓練員知道嗎？",
+        "妳的訓練員知道嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……教練他──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "根據教練在閃耀系列賽的成績記錄來看，\n中、長距離的主要競賽中有總共26次的勝利紀錄。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "我也要求接受以經典三冠為目標的訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員",
+      "Text": "但妳……基本上不擅長跑長距離啊。\n這妳自己也清楚吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "確實。我的基礎能力適合的是短距離。\n但持久力或許可以靠努力來提升。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員",
+      "Text": "這樣還有造成身體損傷的風險。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "這點不用擔心。我從兒時開始就在身為訓練員的父親手下，\n接受嚴苛的訓練。意思是，我很習慣了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員",
+      "Text": "……唉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員",
+      "Text": "妳就是跑短距離才能跑出好成績的。\n為什麼要特地提出不合理的要求呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "──呈現像這樣的「不認同」狀態。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "之後我又提出了兩次同樣的要求，\n但還是沒有得到同意變更路線的回覆。",
+      "ChoiceDataList": [
+        "（……老實說我也能理解他的想法）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "美浦波旁在模擬賽中展現的速度讓我感覺到她的才能。\n那樣的才能若不能善用在短距離上是很可惜的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "但是，我的最終目標就只有「取得經典三冠」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "我在私人行程中，進行中、長距離的訓練，\n藉此改變我的身體機能。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "這也是為了能在中距離以上的競賽取得至少一次勝利，\n以此結果來促使教練變更我的路線。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看來美浦波旁想要取得三冠的意志非常堅定，\n但讓她獨自繼續這樣的訓練也太危險了。",
+      "ChoiceDataList": [
+        "妳還是再跟妳的專任訓練員商量一次──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "已經過了7分半。\n體力已回復至可奔跑範圍。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "那我先失陪了。",
+      "ChoiceDataList": [
+        "咦！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "也不知道她有沒有聽進去，\n還來不及阻止，美浦波旁就又開始奔跑了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "呼、呼、呼、呼……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "（通過1200公尺處，時間大幅落後。\n展開完成目標所需的流程表──需要提升速度）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "唔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在一旁遠觀也能明顯看出這是相當勉強的訓練。",
+      "ChoiceDataList": [
+        "（看不下去了……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "只給予建議，不進行指導。\n我做好這樣的決心後立刻往美浦波旁跑去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "呼、呼……！",
+      "ChoiceDataList": [
+        "……專注在單圈時間上吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "單圈時間嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "跑中、長距離需要分配步調。不是胡亂地全力奔跑，\n能夠穩定地持續奔跑才是讓成績變好的關鍵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "不管是之前的迷路事件，還是在內心計算距離和秒數。她似乎\n很擅長對事物做出準確的計算，這樣的優點沒有不活用的道理。",
+      "ChoiceDataList": [
+        "成績一定會變好的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……了解。輸入情報。待體力回復後開始測量。",
+      "ChoiceDataList": [
+        "還有，先從1600公尺開始嘗試吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "但是──",
+      "ChoiceDataList": [
+        "不用著急",
+        "不用著急哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……了解。將狀態變更為「隨興」。\n開始「不著急，慢慢來」的訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "呼、呼、呼、呼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "（通過400公尺處，時間和預設相符。\n目標處更新為600公尺，專注在單圈時間──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "呼、呼、呼、呼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "（……已確認呼吸穩定）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "美浦波旁以穩定的步調跑完1600公尺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……更新了自我最佳紀錄。",
+      "ChoiceDataList": [
+        "太好了！恭喜妳！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我忍不住興奮地對她鼓掌。\n然而美浦波旁卻面無表情地一動也不動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "……咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……確認到狀態正在轉化為「喜悅」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "因為你有效的建議，使我距離取得三冠更靠近一步。\n我很感謝你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "美浦波旁面無表情地如此說道，\n卻不知為何，看似帶著些許笑意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，為了不讓她再做勉強自己的訓練，\n我開始了晚上都會來賽道守著她的每一天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

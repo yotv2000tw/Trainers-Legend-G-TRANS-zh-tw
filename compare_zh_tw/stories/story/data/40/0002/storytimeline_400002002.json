@@ -1,0 +1,173 @@
+{
+  "Title": "與代理理事長相遇",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "秋川理事長出發後經過數日的\n某一天，我讓<chrname>\n去跑外圍後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我注意到有一個從未見過的女性，\n不斷注視著正在進行訓練的賽馬娘們。",
+      "ChoiceDataList": [
+        "請問……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "……你是……\n剛才前往外圍的那孩子的訓練員吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "我已經觀看過你的訓練內容了。\n我知道剛見面就這麼說很失禮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "──太嫩了。",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "放任自主訓練，不徹底遵守開始時間。\n允許休息時間和其他賽馬娘閒聊──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "哎呀，你的表情看起來似乎無法認同呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "那麼，她的睡眠時間和每天的睡眠滿足感呢？\n有每天不間斷地聽取報告嗎？",
+      "ChoiceDataList": [
+        "沒、沒有……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "睡眠不足不但會使表現變差，還可能\n導致意外發生。當然要確實地掌握。",
+      "ChoiceDataList": [
+        "抱歉……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "……本學園尊重學生的自主性這點，\n我當然也很清楚。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "但是，那種指導方針本身就是──不負責任。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "說著說著，女性靜靜地將視線投向遠方的山林。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "──遠方那座長著許多杉樹的山，是每到旺季\n就有許多登山客造訪的知名景點。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "雄偉的杉樹枝葉搖曳，小鳥鳴叫，\n柔軟的腐葉土圍繞在腳邊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "但是，如同這國家大多數的山林一樣，\n需要依靠人手去維護才能有如此樣貌。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "沒有管理的山林會荒廢。\n陽光無法照入，草木枯萎，\n腳邊堆積的不是腐植土，就是枯死的倒木。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "也可能因此引發洪水或是土石災害。\n所謂「管理」就是這麼一回事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "默默看著未成熟的少女逐漸荒廢，\n只是滿足大人假裝溫柔的自私而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "女性說著說著，眼神漸漸變得銳利起來。\n周圍彌漫著緊張的氣氛，這時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "原來在這裡！\n找您很久了，樫本代理！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "樫本"
+      ]
+    },
+    {
+      "Name": "？？？",
+      "Text": "不好意思，\n我有點在意訓練的狀況。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "哎呀，訓練員，真是太剛好了，\n這位是代理秋川理事長的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "我是樫本理子。我受到委託，\n在任期中負責決定學園的方針。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "樫本理子"
+      ]
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "今後……請多指教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

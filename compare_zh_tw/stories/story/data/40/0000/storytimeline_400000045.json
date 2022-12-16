@@ -1,0 +1,45 @@
+{
+  "Title": "想趕快取得首次勝利！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "訓練員，不好了！\n已經沒時間了……！",
+      "ChoiceDataList": [
+        "這麼說是什麼意思！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "事實上，訓練員的專任賽馬娘\n至今為止連一勝都沒取得，\n這件事已被視為問題並採取了行動……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "至今為止連一勝都沒取得"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "如果你負責的賽馬娘在九月前無法取得首勝，\n就有可能解除你的專任契約！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "九月前",
+        "首勝",
+        "解除你的專任契約"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "到九月為止的時間所剩不多……！\n還請務必要讓她拿下勝利！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "九月"
+      ]
+    }
+  ]
+}

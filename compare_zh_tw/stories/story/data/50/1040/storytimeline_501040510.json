@@ -1,0 +1,344 @@
+{
+  "Title": "Salon de beaute city",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "當我走在學園內時，\n突然聽見了一陣熱鬧的喧嘩聲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "欸，前輩，妳的頭髮纏了好多東西。\n有葉子跟樹枝……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "沒關係～！\n這點小事不算什麼～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "呃，這樣不好吧……\n話說為什麼會變成這樣啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "新光風前輩自己掉進自己挖的陷阱裡，\n害我嚇了好大一跳……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "本來應該是妳會掉進陷阱裡的～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "所以後腦杓的頭髮才會亂成這樣嗎……\n原來如此。",
+      "ChoiceDataList": [
+        "真是熱鬧呢",
+        "真是熱鬧呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "啊，訓練員……是啊。\n本來以為很快就能結束的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "黃金城市似乎正在幫新光風整理頭髮。\n但看來得費不少功夫……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "新光風前輩，請她幫妳弄得\n像英雄一樣帥氣吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "哼～！風風我可是壞蛋，\n才不在意像不像英雄呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "不過，強大的壞蛋，\n也需要帥氣的造型吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "嗚唔！？\n妳、妳說得或許沒錯……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "我不會占用妳太多時間的。\n……尾巴也亂成一團呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我決定留下來，\n在一旁看著黃金城市用剪刀與定型液\n整理頭髮與尾巴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "好……完成了。\n已經可以囉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "哦、哦哦～～……？\n好像變得很柔順？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "我順便幫妳修剪了受損的地方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "是、是喔～～？\n原來如此？原來如此啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "呵呵呵……風風很中意！\n允許妳下次再幫風風弄！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "哈哈……謝謝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "真、真好～！\n能讓城市前輩幫忙整理……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "好羨慕新光風前輩她們喔～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "……可以啊，妳們也過來吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘們",
+      "Text": "咦！？",
+      "ChoiceDataList": [
+        "沒關係嗎？",
+        "沒關係嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "要是放著她們不管，\n微光跟新光風前輩會很尷尬吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但隨著時間經過，\n消息一傳十十傳百，\n人潮不斷蜂擁而至……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "情況似乎變得\n超乎想像的大條了……！",
+      "ChoiceDataList": [
+        "想辦法全擺平吧……",
+        "趕快找救兵吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "真的假的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "我會為妳加油的，城市前輩！\n胡蘿蔔超人也說過，危機就是轉機！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "把逆境大口咬下去吧！\n嘎嗚嘎嗚嘎嗚～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "……好吧，這事的起因，\n本來就是我多管閒事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "啊～真是！動手吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "……好，完成。怎麼樣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘C",
+      "Text": "哇啊啊……好厲害，\n我的自然捲困擾了我好久的說……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "妳的捲度很漂亮，\n我整理時就拿來活用了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘C",
+      "Text": "好、好的！\n謝謝妳！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "就這樣，\n又一位賽馬娘得救了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "前輩，辛苦了！\n打了精采的一仗呢，前輩妳是英雄！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "好好好，謝啦。\n不過我暫時不會再做這種事了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "黃金城市的語氣雖然相當疲憊，\n但她看起來卻挺開心的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "原來如此！城市前輩妳等我！\n我去叫救兵來，妳要撐住啊～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "好了好了，請大家排隊！\n想剪髮的請排在這條線的內側！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "啊，喂！那邊的！\n隊伍拉太長會妨礙通行的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "八重無敵",
+      "Text": "城市，\n我為妳準備了這個。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（銳利！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "八重無敵",
+      "Text": "這是我親手研磨的剪刀，\n保證絕對夠鋒利。\n請拿去用吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "……謝謝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "咦，話說為什麼找她們兩個？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "青竹是追著風風跑來的！\n說是因為風風之前違反了什麼規定～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "可、可是！告訴她們原因後，\n她們都很爽快地答應囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "這、這樣啊，\n雖然是很感謝啦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金城市",
+      "Text": "但到頭來根本還是只有我一個人在剪嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在嚴實的隊伍管理、銳利的剪刀，\n以及熱烈聲援的幫助下，\n黃金城市總算是處理完所有人的頭髮了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
