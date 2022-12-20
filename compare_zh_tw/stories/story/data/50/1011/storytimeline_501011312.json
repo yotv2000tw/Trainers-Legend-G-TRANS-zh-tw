@@ -1,0 +1,422 @@
+{
+  "Title": "寶塚紀念結束後．鑽研吧",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "哇～「怪物二世」還是跟平常一樣厲害耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "妳的腳質和優勢都跟丸善斯基不同，\n但是……該怎麼說，\n有種一下子就能抓住人心的感覺！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "嗯嗯，如果要炒熱\n少了丸善斯基的閃耀系列賽，\n果然得靠她──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾席的孩子",
+      "Text": "草上飛～～～！！\n「寶塚紀念」辛苦了～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾席的孩子",
+      "Text": "妳躂躂躂躂地用力直直往前衝的跑法\n很帥喔～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾席的孩子",
+      "Text": "爸爸、爸爸！\n下一次的比賽，我還想去看！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "過去的粉絲",
+      "Text": "嗯？喔喔……這樣啊。\n看來你已經變成她的粉絲了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾席的孩子",
+      "Text": "嗯！！草上飛……\n下次會看到什麼樣的比賽呢……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "草上飛嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "訓練員，我回來了。",
+      "ChoiceDataList": [
+        "草上飛，真是場精彩的比賽啊！",
+        "草上飛，真是場精彩的比賽呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "呵呵……謝謝你的讚美。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "這次被小特追過了，\n我有許多需要改善的部份呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "可是我並不後悔。\n我已經拿出了自己現在最好的表現。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "接下來只需要繼續邁進，\n展現出更進一步成長的自己。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "這就對了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "哎呀哎呀，神神～\n原本還在想妳什麼時候會出現呢。妳來了呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "當然！這還用說！肯定要來呀～～～！\n小草，我有看比賽喔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "然後，我確定了一件事。\n再次──不對，是重新確定！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "草上飛！\n如果不超越妳的話，\n我果然無法展翅飛向世界！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "所以說，時候到了！！\n小草，一決勝負吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "──就選在「每日王冠」！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "每日王冠"
+      ]
+    },
+    {
+      "Name": "草上飛",
+      "Text": "「每日王冠」……妳是說GⅡ競賽嗎？\n哎呀，我還以為妳會選更引人矚目的舞台呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "GⅡ"
+      ]
+    },
+    {
+      "Name": "神鷹",
+      "Text": "不不不，今年的「每日王冠」不一樣！\n因為那個「異次元逃亡者」──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "異次元逃亡者"
+      ]
+    },
+    {
+      "Name": "神鷹",
+      "Text": "無聲鈴鹿前輩\n打算要參加喔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "無聲鈴鹿"
+      ]
+    },
+    {
+      "Name": "草上飛",
+      "Text": "……鈴鹿前輩要參加？",
+      "ChoiceDataList": [
+        "（……！！）"
+      ],
+      "ColorTextInfoList": [
+        "鈴鹿"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "無聲鈴鹿是比草上飛她們\n還要早一點入學的賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她以比賽一開始便拉開驚人的距離，\n以「強勢領頭」維持領先直到最後而聞名，\n是現在眾所關注的強者！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "原來如此。\n看來這會是一場難得的比賽呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "對吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "「稀世領頭賽馬娘」無聲鈴鹿！\n「藍色執著之鬼」草上飛！\n「世界最強」神鷹！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "決戰之日就是秋季府中的「每日王冠」！！\n小草，來吧──接受我的挑戰！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "……我只會專注地持續前進。\n不會走偏、不會遲疑，以頂點為目標。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "不過，若是眼前道路受阻，我就會跨越過去。\n不管那是什麼樣的人、什麼樣的阻礙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "神神……即使是妳也一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "――Excelente！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "那我就不能再鬼混了！\n訓練！我要訓練！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "我走啦掰掰！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "啊，神神，等一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "欸？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "妳剛剛趁亂說了什麼……\n妳說誰是執著之鬼？誰呀？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "慘哩！！\n尾巴好痛！我會痛啦～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "……小草跟小神\n都好厲害喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "就連今天，我也──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "小特，辛苦了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "鈴鹿！？\n哇～！！原來妳有來看比賽呀！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "嗯，剛好有事到這附近來。\n然後想起了\n妳今天好像會參賽……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "欸嘿嘿，謝謝妳來！\n我的朋友，小草也有參加，\n所以我跑得很自在喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "啊……對了，說到小草我才想起來！\n鈴鹿，妳打算參加「每日王冠」對嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "是啊，我有把那場比賽排進計畫裡。\n……為什麼這麼問？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "因為剛才聽到\n小草她們在那邊聊這件事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "小神跟小草好像也把\n「每日王冠」當作了目標喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "……！這樣啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "是這樣啊……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "……？那個、鈴鹿？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "啊……抱歉，一個不小心就……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "因為剛才在上面看了草上飛的比賽，\n所以很期待呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "領先她們之後……\n能在最前方看到什麼樣的景色呢？呵呵……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "啊……抱歉，妳都累了我還一直說個不停。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "我先走了。\n小特，我在宿舍等妳喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "好……好的，等會見。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "很期待到時候看見的景色……嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "……如果對手是我，\n她也會有同樣的想法嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "今天我──\n雖然贏了，卻不覺得自己\n有跟小草好好一較高下……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

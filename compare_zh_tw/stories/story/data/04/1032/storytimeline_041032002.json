@@ -1,0 +1,357 @@
+{
+  "Title": "戈耳狄俄斯之結",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今天舉辦的是「選拔賽」。是讓迎來巔峰期，跑力已經\n開花結果的賽馬娘們在訓練員們面前展示實力的重要日子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我自己也充滿幹勁，想在這裡找出有前途的賽馬娘們的潛能，\n並挖角她們成為我的專任賽馬娘──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員A",
+      "Text": "嚇我一跳。剛剛我才在想為什麼要發追加資料，\n一看參賽列表上面居然加了愛麗速子的名字……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人訓練員A",
+      "Text": "咦，你說愛麗速子！？是傳說中實力高超，\n卻很危險的那位……！？",
+      "ChoiceDataList": [
+        "（愛麗速子……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "回想起前幾天的恐怖回憶，讓我不禁打了個冷顫。\n不過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "選拔賽工作人員",
+      "Text": "速子小姐、愛麗速子小姐──！？\n奇怪了……咖啡小姐，妳有看見速子小姐嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "咦……就、就算你問我也……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "選拔賽工作人員",
+      "Text": "咦……這下可傷腦筋了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人訓練員A",
+      "Text": "什麼嘛，速子果然這次也沒來。本來還想看看\n那個被人稱為「超高速」的尾段加速呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員A",
+      "Text": "祖母是「奧克斯」，母親則是「櫻花賞」……\n在入學前被稱為名門望族中的「最佳傑作」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員A",
+      "Text": "那種特立獨行的行為讓人感到困擾呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "抱歉，曼哈頓咖啡。\n愛麗速子她……沒有來嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "這次的選拔賽一定要參加，\n學校那邊應該已經通知她了才對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "是的……這件事我前陣子確實有轉達給她，\n我也有看到……她去聽說明……可是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "今天也是不參加嗎……詳情我知道了，感謝妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "從魯道夫象徵的表情看來，事情好像很嚴重。\n愛麗速子就這樣不參加真的沒問題嗎……",
+      "ChoiceDataList": [
+        "（……來去找找看好了）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我暫時離開選拔賽會場，\n開始尋找愛麗速子的蹤跡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "啊……？\n速子，妳這傢伙為什麼會在這裡啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "神宮，這種沒邏輯的問題還真不像是妳會問的。\n身為學校學生的我在校園裡，有什麼好懷疑的呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "嘖，我才不是在說這個！！\n我的意思是妳今天不是要參加選拔賽嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "哈哈哈！別這麼生氣嘛！\n妳該不會是缺乏血清素吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "答案很簡單，因為「我認為沒有必要」。\n很可惜的，我的想法跟選拔賽的目的並不一致。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "再加上以前參加的時候，可讓我吃了不少苦頭。\n訓練員們就像是一群搶高麗菜的白老鼠圍上來……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……那代表他們被妳奔跑的樣子迷住了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "但是，他們提出的行程規劃太沒有效率了。\n要白白浪費我寶貴的研究時間？這我可不能接受。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "既然訓練員以他們的價值觀來評斷賽馬娘，\n我們賽馬娘也應該擁有選擇的權利不是嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "好啦，我知道了！！\n真是夠了，誰管妳啊。隨便妳偷懶去吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……不過妳整天說著實驗實驗的，課都不好好上，\n不參加選拔賽，也不接受挖角當然沒得出道啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "──妳這傢伙在學校裡的地位，\n差不多也要岌岌可危了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "哼。明明說了「誰管妳」「隨便妳」，還是\n給人忠告……呵呵，神宮妳還是一樣有趣呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "呃，哎呀……？\n你──不就是前幾天那位新人訓練員嗎！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "難道你是自願來當實驗受試者的！？\n這真是了不起的白老鼠精神！只能說真是佩服！",
+      "ChoiceDataList": [
+        "不是不是不是不是！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我拚命糾正興奮的愛麗速子，\n向她解釋我是來催促她參加選拔賽的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "啊，原來是這麼一回事。\n不過很可惜，我沒有要參加的意思。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "選拔賽對訓練員來說，是找出想要挖角的對象，\n同樣的對賽馬娘來說，是用來展現實力的地方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "不過就現狀來看，我認為沒有必要展現我的實力\n給訓練員們看，所以我不參加，話題到此為止。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "──先別說那些了，我們來繼續進行實驗吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "其實我昨晚完成了獨立開發的肌肉強度測量器的\n原型機。用它就能取得比以往精密1000倍的數據。",
+      "ChoiceDataList": [
+        "妳真的滿腦子只有實驗的事耶！？",
+        "妳真的滿腦子只有實驗的事耶！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "任何可能性，都應該透過實驗被發掘討論出來。\n研究的時間永遠不夠用，不是嗎？",
+      "ChoiceDataList": [
+        "妳鑽研到這種地步，到底在研究什麼啊……？",
+        "妳鑽研到這種地步，到底在研究什麼啊……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "我研究的是「賽馬娘的可能性」喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "若要說得更仔細，就是「賽馬娘這種生物潛藏的肉體可能性」，\n也就是「最高速度」──不，是「超越最高速度」的境界。",
+      "ChoiceDataList": [
+        "超越……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "雖然其存在早已被視為理所當然，不過所謂的常識\n只會阻礙新的發現。所以將它排除在外重新思考後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "認真說起來，我們賽馬娘本身就是個還很深奧的謎團喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "外表雖和人類相似，卻有著功能眾多且卓越的耳朵和\n尾巴，其肌力更與質量不成正比異常強壯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "特別是奔跑能力這一點在動物界也是十分突出，\n在所有種族之中也有著名列前茅的速度──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "──哈哈哈哈！！\n實在是！！實在是太有趣了對吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "也就是說，充滿於我腦中的這股衝動其實很單純。\n就是「我們到底能跑多快呢？」「還有什麼可能性？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "我呢！想要用這副身體抵達可能性的盡頭──\n也就是想了解所謂的「極限速度」！！",
+      "ChoiceDataList": [
+        "為了確認這件事才進行研究……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "在眾多賽馬娘之中速度最為突出的，\n就是進入「巔峰期」並且參加比賽的賽馬娘們。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "為了在難度更高的比賽裡，和更為強大的對手\n互相競爭，提升奔跑能力是不可或缺的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "也就是說得到閃耀系列賽的參賽權，能讓我的\n研究大有進展，所以我才進入了這所學校。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "不過呢──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "教師",
+      "Text": "愛麗速子。\n……校方有事情要通知妳。跟我來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "哼，在這個時候找我啊。\n……那麼，新人，我就先告辭了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在令人不安的情況下，\n愛麗速子和教師一起離開了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

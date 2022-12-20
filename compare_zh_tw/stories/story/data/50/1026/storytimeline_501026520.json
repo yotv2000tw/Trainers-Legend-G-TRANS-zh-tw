@@ -1,0 +1,331 @@
+{
+  "Title": "「作戰行動：外出時的意外」",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "那個，波旁！\n我想要更了解波旁……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "…………\n我無法理解妳的用意。這是為什麼？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "那個……難得我們分配到同一間房間，\n但我卻不了解妳，讓我覺得很寂寞……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "所以……\n對了，我希望波旁帶我去妳喜歡的地方！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……原來如此，知道妳的理由了。\n我答應妳的要求。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "然而要前往「我喜歡的地方」，\n移動方式稍微嚴苛。妳沒問題嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "可、可以的！\n無論去什麼地方我都會努力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是，我以她們監護人的身份，\n一同前往美浦波旁推薦的山，\n大家一起登山。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "呵呵，能聽見好多小鳥的叫聲呢……\n真是個好地方！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "是。這裡的自然生態豐沛，\n也整修維護成適合登山的狀態。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "山頂上還有適合登山後補充能量的甜點店，\n味道也非常好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "這樣啊！\n哇，好期待喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們持續爬了好幾個小時，總算看見\n「剩下100公尺」的立牌。但──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "呼、呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……確認到小花呼吸頻率雜亂。\n沒問題嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "沒、沒事的！\n真不好意思，耶嘿嘿──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "呀啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "西野花因為沒有站穩而跌倒了……！",
+      "ChoiceDataList": [
+        "妳還好吧！？",
+        "妳還好嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……似乎是前距腓韌帶扭傷。\n雖幾小時就能復原，但她這樣不可能登頂了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "那、那我就在這裡等你們！\n請你們繼續往山頂去吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "這麼做很危險，我反對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……教練，這附近有下山用的纜車。\n我們往那裡移動吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "可是……\n好不容易到這裡來了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "或者，由我背著她爬到山頂\n也是可行選項。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "咦、不，這怎麼可以──",
+      "ChoiceDataList": [
+        "尋找下山的纜車",
+        "繼續登頂"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……已接受指示。將尋找纜車。\n走吧，西野花。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "對不起……我讓你們不能登頂，\n也吃不到山頂的甜點了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……比照資料履歷。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "山腳處在一個月前，\n新開了一間很有名的日式點心店。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "熱門餐點是白玉奶油紅豆湯。\n是用了小倉紅豆和山形水果的名品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "咦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "要順道過去嗎，教練？",
+      "ChoiceDataList": [
+        "當然！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之後，確實如美浦波旁所說，\n在山腳下看到了新開的日式點心店。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "嗯嗯～好好吃～\n柔軟又彈嫩……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "確認到因補充高品質糖份獲得放鬆效果。\n將考量是否要再度來訪。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "到時，西野花也務必一起吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "嘿嘿……好的，一定……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "已接受指示。將繼續登頂。\n請西野花到我的背上來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "……謝、謝謝……\n但是，我不能再給你們添麻煩了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "不，追溯源頭也是因為有經驗的我\n沒有掌握好妳的身體狀況導致。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "況且以我的肌力來說，妳的體重，\n在我可承載的範圍內。並不算「添麻煩」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "可、可是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "客氣婉拒的西野花在我們不斷勸說下，\n最後在一陣沉默後，總算輕輕點頭答應。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "──呼、呼、呼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是我們繼續朝山頂前進了約30分鐘──\n順利抵達了山頂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "好壯觀……！一整片蔚藍色……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "山頂上一整片藍色的美景，\n看得西野花目不轉睛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "接著，在回程時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "……雖然剛才說要在下面等你們，\n但其實我是很想到山頂上去看看的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "……嘿嘿。\n波旁，謝謝妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "不會。\n……今天的景色，特別好看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

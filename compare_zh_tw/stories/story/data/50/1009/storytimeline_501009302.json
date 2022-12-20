@@ -1,0 +1,392 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "跟大和赤驥外出的回程途中，\n我們順便去了趟商店街──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "嗯？這裡怎麼比平常還要熱鬧……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，好玩的抽獎活動！\n歡迎大家來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "啊。抽獎活動原來是今天舉辦啊。\n那就來用用那個吧。",
+      "ChoiceDataList": [
+        "那個？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "嗯，之前朋友送了我一張抽獎券。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "說是感謝我平常教她功課。\n呵呵，我只是做了理所當然的事情而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "就是這樣，趕快去抽獎吧。\n不然拿著券不用也沒有意義。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是我看著大和赤驥排隊，\n並轉動抽獎機。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "咦咦，特獎！？\n溫泉！？太棒了！！",
+      "ChoiceDataList": [
+        "恭喜妳！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "哼哼！真不愧是我呢！\n沒想到連運氣都是第一的賽馬娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "那麼，該什麼時候去泡呢？\n有效期限……還有好一陣子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "……我想想。\n還是晚一點再說好了。",
+      "ChoiceDataList": [
+        "不現在去嗎？",
+        "不現在去嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "嗯，畢竟現在還是非常重要的賽季中。\n對我們來說，要喘口氣還太早了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "既然有這樣的機會，當然希望能好好放鬆……\n也讓你一起好好放鬆。",
+      "ChoiceDataList": [
+        "妳好好去享受吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "…………笨蛋。\n你是認真這麼說的嗎？",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "真是的……\n反正現在還不是用這張券的時候！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "總之，這個就先交給你保管。\n不然我每次看到都會受不了誘惑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "啊，絕對不准給我偷偷拿去用掉喔！？\n這可是我抽到的獎品！知道了嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，大和赤驥硬是把\n溫泉旅遊券塞給我，由我負責保管。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "哼哼，還不錯嘛！\n畢竟有「一」這個數字♪",
+      "ChoiceDataList": [
+        "漢堡排也好像很好吃的樣子"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "……哎呀。你肚子餓了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "那這個漢堡排就給你吧。\n我還有宿舍的餐點可以吃。",
+      "ChoiceDataList": [
+        "不不不，怎麼可以這樣"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "……哦～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "我說啊，這種時候你就老實說\n自己想吃漢堡排不就好了？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "我做菜的手藝又不差，\n漢堡排這種東西隨時都做得出來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "……好歹也說出自己的期望啊。\n偶爾滿足你的要求也不是不行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但這個漢堡排看起來真的很好吃。\n我希望大和赤驥也能嚐嚐這個味道……",
+      "ChoiceDataList": [
+        "那要不要一起吃？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "……哼。你想的話也是可以啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果這一天，\n我跟大和赤驥一起享用了胡蘿蔔漢堡排。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "二……獎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "不要！我不要拿第二，也不要拿二獎！！\n「二」這個字聽了就不開心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "喂，訓練員！\n你手上沒有抽獎券嗎！？",
+      "ChoiceDataList": [
+        "妳這樣是強人所難啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "不要抱怨！最起碼有一張吧！\n快給我把口袋全部翻出來！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我就這樣從頭到腳被搜身，\n大和赤驥才終於肯放過我……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……不過二獎，不對，胡蘿蔔並沒有錯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之後好好善用這些胡蘿蔔，\n為大和赤驥想些補充營養的菜單吧──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "唉，頂多就是這樣吧。\n能抽中就算是不錯了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "不過才一根胡蘿蔔啊。\n嗯──要拿來做成什麼呢……",
+      "ChoiceDataList": [
+        "做？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "嗯。機會難得，\n我想回禮給送我抽獎券的同學。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "畢竟我可是模範生，\n當然要禮尚往來囉？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "嗯──來做胡蘿蔔蛋糕好了。\n……記得她應該不討厭甜的東西。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是我陪大和赤驥\n採買完食材後，送她回到宿舍。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "啊……不過，一般都是這樣的吧。\n雖然我也心知肚明──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "但毫不留情地告訴我「沒抽中」，\n還是讓人有點火大……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……絕對不能讓她的怒氣爆發。\n我懷抱著這樣的使命感，與她一起返回學園。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

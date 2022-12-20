@@ -1,0 +1,58 @@
+{
+  "Title": "缺席的理由……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "榮進閃耀遲遲沒有出席訓練。\n……當我正感到納悶時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "非常抱歉……！\n已經超過訓練開始時間\n1小時34分鐘了。",
+      "ChoiceDataList": [
+        "發生什麼事了嗎？",
+        "發生了什麼事呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……其實今天學生餐廳店休，\n所以我跑到學園外吃午餐……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "但我點的餐一直沒送上來，\n我又遲遲不敢去取消……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "後來我急忙吃完，想跑回學園時，\n半路上肚子卻痛了起來……",
+      "ChoiceDataList": [
+        "原來如此……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "真的非常抱歉。我會減少休息時間\n來補回遲到的時間。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看來她已經反省到甚至有點過頭了，\n所以我只稍微提醒她下次要注意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "Title": "達成黃金層級",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在黃金層級的說明會結束後，\n我在回程路上發現了一本\n訓練員筆記掉在路上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "裡面鉅細靡遺地記錄著\n失主的專任賽馬娘之事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不只是每一天的練習排程，\n還有她喜歡水族館、\n喜愛的店家、與重現菜色用的食譜……",
+      "ChoiceDataList": [
+        "（失主該不會是……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "溫順，辛苦了。\n今天就到此為止吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "快樂溫順",
+      "Text": "……好的。\n……那個……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "嗯？怎麼了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "快樂溫順",
+      "Text": "……今天的餐點。\n妳……想吃什麼呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "這個嘛……我看妳最近的菜單，\n脂肪好像有點不足──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "就以這個為重點，\n構思出一些菜色吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "快樂溫順",
+      "Text": "……那個……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "啊！當然啦，\n我也會加入溫順喜歡的菜色喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "畢竟享受餐點和營養均衡，\n兩者都一樣重要嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "快樂溫順",
+      "Text": "………………是的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "那麼，請在身體冷下來之前換好衣服喔。\n我很快就過去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "快樂溫順",
+      "Text": "……………………",
+      "ChoiceDataList": [
+        "桐生院訓練員，辛苦了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "啊，<username>訓練員！\n你辛苦了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "我聽說囉。<chrname>好像也\n到達黃金層級了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "其實我這邊也是。\n呵呵，能在同一時期到達，總覺得很榮幸！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "不過，我還有許多不成熟之處。\n接下來也打算繼續努力精進。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "既然快樂溫順也到達了黃金層級，\n就表示桐生院訓練員應該\n也有來早上的說明會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "以那些內容來說，我想……八成是她，\n於是便拿出訓練員筆記給她看。",
+      "ChoiceDataList": [
+        "這本筆記本，妳有印象嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "啊……那、那是！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "謝謝你……！\n從說明會回來後，\n四處都找不到，我正傷腦筋呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "沒想到居然掉在回程的路上……\n真是難為情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我告訴她，我是從熱切記錄的內容中，\n推測到失主是誰的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "呵呵……這都要感謝你\n給我的那些建議呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "每次得知關於溫順的事，\n我都會開心地記錄很多內容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "……只是……",
+      "ChoiceDataList": [
+        "只是什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "啊……沒、沒有！\n不好意思，沒什麼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "好了，訓練也結束了，\n收拾收拾吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "那麼，<username>訓練員，\n我先走一步了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "談話被她硬生生地結束，\n這我對桐生院訓練員的狀況\n感到有點在意。",
+      "ChoiceDataList": [
+        "（她不要緊吧……？）",
+        "（她不要緊吧……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "…………為什麼？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "為什麼溫順的進步\n會這麼緩慢呢……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "……訓練的排程，\n應該沒問題才對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "至今為止桐生院家的先進，\n都是基於《訓練員心得集錦》的排程，\n留下了耀眼的成績。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "《心得集錦》是代代培育出GⅠ賽馬娘、\n榮譽賽馬娘等……這些偉大賽馬娘的\n前輩們的睿智結晶……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "溫順本身……沒有任何問題。\n幹勁跟能力也都毫無欠缺……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "這樣的話，有所欠缺的就是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

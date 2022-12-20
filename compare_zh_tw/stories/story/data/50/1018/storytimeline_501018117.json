@@ -1,0 +1,537 @@
+{
+  "Title": "母女",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "「天皇賞（秋）」將近的某天，\n在訓練員室……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "天皇賞（秋）"
+      ]
+    },
+    {
+      "Name": "氣槽",
+      "Text": "唔──\n不好意思。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "氣槽的手機似乎收到什麼通知。\n於是她確認了內容──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "什……麼……！？",
+      "ChoiceDataList": [
+        "怎麼了嗎？",
+        "怎麼了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "我母親──\n好像會來看「天皇賞」。",
+      "ChoiceDataList": [
+        "……這樣不是很好嗎？",
+        "……這樣不是很好嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……她還說，想順便見一下專任訓練員……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "時間是明天……！",
+      "ChoiceDataList": [
+        "也太突然了！？",
+        "也太突然了！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "現在這樣可不行……！\n不能讓她看到這麼隨便的模樣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "我現在就要開始準備。\n你也來幫忙，這是命令！",
+      "ChoiceDataList": [
+        "知、知道了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "以前聽氣槽提到母親時，\n感覺對方是個開朗的人，\n難道一旦惹她生氣就會變得很可怕嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後我在氣槽的氣勢壓迫下，\n徹底打掃了訓練員室，\n還忙著做了各種準備……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "隔天，到了氣槽母親要來訪的時間──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……嗯，衣服沒亂掉吧。\n要盡可能保持現在的狀態啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "妳很緊張嗎？",
+        "妳很緊張嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "蠢蛋！怎麼可能緊張！\n她可是我親生母親啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "要是只有我一個人，我才不會──\n喂，我提醒你，絕對不要多嘴亂說話喔！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "──啊，看到了、看到了！\n氣槽～！好久不見～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "──母親！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "只見對面有一位賽馬娘正揮著手，\n那應該就是氣槽的母親吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她比我想像得更開朗──\n跟氣槽完全不一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "哎呀～對不起喔，我突然就說要來，\n可是我實在很想近距離看看你們嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "謝謝妳特地來一趟。\n站著不好說話，請到這邊來吧。\n我準備了能坐下聊聊的地方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "妳還是一樣準備周到～！\n實在不像是我女兒呢！啊──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "你就是我女兒的訓練員！？\n你好～！女兒受你照顧了！",
+      "ChoiceDataList": [
+        "您好"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "我家的孩子有沒有給你添麻煩呢？\n她性格有點激烈對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "母、母親！\n請別跟訓練員說那些了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "咦～～？可是我說的是實話呀！\n而且妳又有點怕生。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "就、就拜託妳別說了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看樣子似乎連氣槽也拿自己的母親沒轍……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看到氣槽既慌張又滿臉通紅的認真模樣，\n我感到非常新鮮，不禁露出了微笑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "接著我們帶著氣槽的母親來到訓練員室──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "哦～原來訓練員跟氣槽\n平常就是在這個地方努力呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "嗯～哦～原來如此～\n……啊！收在這裡的是新年裝飾嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "是的，每年我們都會用它來裝飾訓練員室。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "因為我一直遵照母親所教導的──\n要重視例行節日，替日子增添變化。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "呵呵，這樣啊～！",
+      "ChoiceDataList": [
+        "（例行節日──）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "你看看這間訓練員室，\n完全感覺不出現在是什麼季節。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "為了度過充實的一年，\n就必須重視各個例行節日，替生活增添變化。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "原來如此，看來氣槽會這麼重視例行節日，\n是源自她母親啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "那麼，請母親坐這邊，\n我去幫你們泡茶──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "好～那我就坐這邊囉～！\n嘿咻。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "…………訓練員，\n你有跟她開心享受祭典嗎？",
+      "ChoiceDataList": [
+        "這是什麼意思……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "沒有啦，因為以前她是個不懂得玩樂的孩子，\n一～直努力個不停……真不知道是像誰。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "我實在看不下去，就要她「多休息喘口氣！」\n然後到處帶她去參加祭典～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "……其實一部分原因是我很喜歡祭典，\n所以想跟她一起去玩啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "不過她也很樂在其中喔，\n於是我心裡就覺得「太好了」，結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "不知不覺間，\n她就開始對祭典有莫名的堅持了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "所以我才有點擔心，\n不知道她會不會對訓練員也這個樣子。",
+      "ChoiceDataList": [
+        "我跟她一起玩得很開心喔",
+        "我跟她一起玩得很開心喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "哎呀──真是太好了！\n那今後也請你多陪著我女兒參加「祭典」了。",
+      "ChoiceDataList": [
+        "我很樂意！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──後來我們在訓練員室請氣槽的母親喝茶，\n並跟她天南地北地聊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "氣槽很久沒跟母親這樣聊天，似乎非常開心，\n從頭到尾都笑盈盈的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "哎呀，聊著聊著，時間已經這麼晚啦！\n我得去飯店辦入住手續才行了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "今天謝謝你們跟我聊這麼多，\n這樣媽媽就放心了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "那真是太好了。",
+      "ChoiceDataList": [
+        "能跟您聊天我也很開心"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "哎呀，真的嗎！？我還有很多話題能聊喔～\n像是氣槽以前曾經被雷聲嚇一跳──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "母親！妳不是還要去飯店辦入住手續嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "啊，對耶，差點都忘了！\n那我差不多該告辭囉。",
+      "ChoiceDataList": [
+        "我送您一程！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "──那個啊，氣槽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "我剛剛說的是真的喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "就是「我放心了」這句。\n媽媽原本真的很擔心呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "妳是個可靠的人，甚至有點可靠過頭，\n偏偏腦袋就是很死板～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "該說妳對自己太嚴格嗎？\n有時妳實在自律得讓人傻眼，\n就不能調整一下力道嗎～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "傻、傻眼啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "不過──妳好像變得不只是嚴格而已了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "妳跟訓練員在一起的時候，\n實在是……威風凜凜呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "訓練員，今後也請你多多照顧我女兒了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "多虧有你在，\n我女兒臉上顯露出了很棒的表情！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "……氣槽！你也要對訓練員好一點喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……好的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "畢竟我對訓練員──倒也沒有不信任。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "真是的～～！太死板，妳還是太死板了～～！\n就不能直率一點嗎，直率一點！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "我、我盡量……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "妳真的明白我的意思嗎？真是的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽的母親",
+      "Text": "……那媽媽差不多要離開了。\n「天皇賞」要加油喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "──是！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是氣槽的母親離開了，\n直到最後她都活力十足……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……謝謝你跟我母親聊天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "她似乎也……非常開心。",
+      "ChoiceDataList": [
+        "真是很棒的母親啊",
+        "真是很棒的母親呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……是啊，她是我自豪的母親。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這天，就在重要比賽的前一刻，\n我得以窺見了氣槽全新的一面。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "Title": "因頭痛而憂鬱",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "當我經過走廊時，\n聽見保健室裡傳來草上飛的聲音。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "謝謝你給我藥。\n那麼我先告辭了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "啊……訓練員。",
+      "ChoiceDataList": [
+        "妳身體哪裡不舒服嗎？",
+        "妳身體有地方不舒服嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "不，我沒事的。\n只是頭有點疼而已──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "唔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "呵呵，真糟糕，\n看來這個藥要過一段時間才會有效果呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "草上飛似乎深受頭痛所苦。\n或許我需要多加注意呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

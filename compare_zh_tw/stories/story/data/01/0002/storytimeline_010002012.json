@@ -1,0 +1,32 @@
+{
+  "Title": "關於支援卡片",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "接下來要編組在培育專任賽馬娘的過程中，\n能夠助我們一臂之力的支援卡片！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "每張卡片都會有不同的效果，\n像是編組的支援卡片角色在培育過程中登場，\n或是獲得技能等等。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "另外要注意的是，\n沒有辦法將與培育對象相同的\n支援卡片排入編組當中喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "與培育對象相同",
+        "排入編組"
+      ]
+    }
+  ]
+}

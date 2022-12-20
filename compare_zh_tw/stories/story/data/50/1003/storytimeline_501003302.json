@@ -1,0 +1,489 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某天傍晚，我陪東海帝皇買完東西，\n走在商店街──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "咦？前面好像聚集了很多人？\n怎麼了怎麼了～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "不嫌棄的話，\n那邊像是親子的兩位要不要來試試手氣～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "我們才不是親子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "不過，抽獎啊～\n嘿嘿嘿，我的手氣超好的喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "之前曾經連續抽到很棒的獎，\n被說是超幸運的人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "噯噯，訓練員！我們用那張在遊戲專賣店\n拿到的券，一起抽吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "兩個人一起轉動把手～！\n同心協力地抽獎吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我與東海帝皇一起默念著中獎中獎，\n轉動了抽獎機！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "咦咦咦咦，特獎～～～！？\n好耶好耶，太棒了！！！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "噯噯，我就說吧？\n我的手氣旺到不行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "知道厲害了吧，嘿嘿！\n呵呵呵～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "東海帝皇天真地蹦蹦跳跳。\n看起來非常開心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "那麼，這組溫泉旅遊券要跟誰用呢～\n要去的話就要揪人了！",
+      "ChoiceDataList": [
+        "妳會找魯道夫象徵會長吧？",
+        "妳會找魯道夫象徵會長吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "嗯，沒錯～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "……呃，啊，嗯……\n可是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "找會長去真的好嗎……？\n忽然有點不太確定呢。",
+      "ChoiceDataList": [
+        "什麼意思？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "明明新年參拜的時候發誓要超越會長，\n結果卻一起去泡溫泉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "而且現在不是做這種事的時候，\n感覺會長也不會答應。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "隨著實力不斷提升，\n東海帝皇的想法似乎也有了一些轉變。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "啊，這樣的話，\n溫泉旅遊券可以先交給你保管嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "現在實在拿不定主意，\n所以我想等閃耀系列賽\n告一段落再去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "到時候我再找一起泡溫泉\n會感到最開心的人去。可以嗎？",
+      "ChoiceDataList": [
+        "知道了，我幫妳保管",
+        "知道了，我幫妳保管"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "嗯，麻煩你了！\n真希望到時候，我能成為閃耀系列賽的帝王！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "然後溫泉旅館的老闆娘和大廚他們就會喊著\n「帝皇大人！帝皇大人！」來迎接我。\n太棒了～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "我要請他們準備大份的生魚片！\n還要請他們在露天溫泉放玩具小鴨。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "東海帝皇想像著受到熱烈歡迎的樣子，\n對未來又多了幾分期待，\n大幅提高了幹勁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "一獎！？好可惜喔～～～！！\n不過，這也是很不錯的獎了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "唔哇，看起來超好吃～！\n醬汁好濃稠～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "啊，訓練員，你該不會覺得喜歡漢堡排\n很像小孩子的口味吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "不過，會這麼想的人才是小孩喔。\n漢堡排是所有人都愛吃的料理。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "所以囉，我們一起吃吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "啊，對了，既然這樣，\n上面再加一份荷包蛋！\n做成荷包蛋漢堡排吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，我們一起吃了荷包蛋漢堡排。\n東海帝皇大快朵頤，\n露出了比小孩子更燦爛的笑容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "二獎啊～還以為能抽到更好的，\n不過就這樣吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "唔哇，但這個份量太驚人了吧！\n有什麼好點子能用掉這些胡蘿蔔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "對了！\n來辦胡蘿蔔派對吧！",
+      "ChoiceDataList": [
+        "……那是什麼派對？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "就是邀請夥伴們過來，\n聊聊天、玩玩遊戲，一起做很多事～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "像是說笑話、表演才藝！\n或是變魔術和猜謎！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "哇～感覺會很好玩～！",
+      "ChoiceDataList": [
+        "胡蘿蔔呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "胡蘿蔔？啊，對喔對喔。\n那大家餓了就吃胡蘿蔔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……看來胡蘿蔔是順帶的，\n實際上只是想盡情玩鬧而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "好了好了，走吧，訓練員！\n回去開派對吧！啊，with胡蘿蔔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，大量的胡蘿蔔\n成了東海帝皇玩樂的名目，\n最後統統進了大家的肚子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "咦咦咦，才一根～？\n至少給兩根嘛～！\n我跟訓練員一人一根～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她提出的抗議未被接納，\n最終還是以一根胡蘿蔔告終。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "呿～一根嗎～\n吃掉之前至少拿來做點什麼吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "啊，對了！\n來模仿會長的姿勢吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "說完之後，東海帝皇高高舉起\n那根胡蘿蔔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "看得出來我要表達什麼嗎，\n訓練員？",
+      "ChoiceDataList": [
+        "贏得三冠中第一冠的姿勢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "不對～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "意思是我下次也會贏！\n所以到時候必須有兩根胡蘿蔔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "就是這樣，\n叔叔再給我一根吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "不行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "那給我三根，\n我會成為三冠胡蘿蔔賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……理由已經變得莫名其妙了。\n最後東海帝皇迅速吃掉了\n那唯一一根的胡蘿蔔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "太失望了！\n我……只拿到衛生紙～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "我平常的好運氣跑到哪裡去了～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "啊，難道訓練員是手氣很差的人？",
+      "ChoiceDataList": [
+        "這就不知道了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "這樣啊～雖然搞不清楚怎麼會這樣，\n但看來今天運氣很背……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東海帝皇",
+      "Text": "我要趕快忘掉。那包衛生紙給你，\n一想到就覺得心情不好……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "東海帝皇難得一副垂頭喪氣的樣子，\n不論是誰似乎都有運氣不好的時候。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

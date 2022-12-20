@@ -1,0 +1,439 @@
+{
+  "Title": "攜手共進",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "傳出「URA決勝系列賽」無法舉辦的危機，\n使得不安四處擴散……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "咦──不會吧……「URA決勝系列賽」\n有可能不會舉辦嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "真的假的……嘖──虧我還想到了\n讓赤驥輸得轟轟烈烈的方法呢──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "我可不能當作沒聽到喔！？\n真是的，明明想在競賽中一決勝負的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "唔喔喔喔喔，大受打擊……！！\n虧我還為了「URA決勝系列賽」\n每天不斷修行……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "我也覺得……很遺憾。好想參加競賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "也很想吃……攤販美食…………！！\n超想吃………………！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……「URA決勝系列賽」中止一事，\n看來對此衍生出的不滿，\n也在學生們之間擴散開來了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "嗯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人A",
+      "Text": "訓練員，問你一下喔！\n「URA決勝系列賽」中止的消息是真的嗎？\n我明明還想幫很多人加油的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "原來如此，沒辦法張羅到\n更換用的草地……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "畢竟也不能陷參賽者於荒蕪草地上\n比賽的危險中……真可惜呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "我聽說了「URA決勝系列賽」的事……\n真的非常可惜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "明明是讓我和溫順能真正地攜手前進，\n一起以追求獲勝為目標的競賽……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "期待「URA決勝系列賽」的人、\n將其視為目標的人──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "從秋川理事長宣布消息的那刻起，\n這座大舞台已經在不知不覺間\n影響了這麼多人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "不過……只是因為草地出了問題，\n還尚未決定要中止對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "既然如此……<username>訓練員，\n不到最後我是不會放棄的。",
+      "ChoiceDataList": [
+        "我也會思考有沒有自己能做的事！",
+        "我也會思考有沒有自己能做的事！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "好的，我們都要絞盡腦汁想出辦法！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我們兩個苦苦思考，希望能想出\n讓「URA決勝系列賽」可以舉辦的方法……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "……咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "哈……呼……哈……呼……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "哈啊……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "剛剛的是秋川理事長……？\n這種時候她要去哪裡……",
+      "ChoiceDataList": [
+        "追上去看看！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "嗯，好……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "嘿咻……嘿咻……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "呼……這些佔賽道的幾%呢？\n大概20%……不對，10%……5%？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……自己種植需要的草地，\n這種事果然不可能成功啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……嗚嗚……嗚嗚……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……禁止！我不可以有這種想法！\n唔喔喔喔喔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "嘿咻……嘿咻……！\n長大吧，草地！衝啊，衝啊，賽馬娘～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "理事長好像打算自己一個人\n種植出賽道的草地呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "靠著秋川理事長以前買下的大菜園，\n種植草地這件事本身或許真的可行。",
+      "ChoiceDataList": [
+        "可是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "……是啊。光靠理事長一個人，\n再怎麼想都無法種出要鋪上廣大賽道的草地。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "不過……如果反向思考，不只一個人的話，\n或許就能種植出足夠的量……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "一個人不夠就兩個人……\n只要徵求到更多人一起幫忙……！",
+      "ChoiceDataList": [
+        "找到我們能做的事了呢！",
+        "找到我們能做的事了呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "對啊！我們快去幫忙吧，\n<username>訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "然後，到了隔天──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "睏倦……！筋疲……力盡……！\n但我不能在這時候屈服……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "呃，喔喔喔喔喔！？\n怎麼回事！？這、這麼多人聚集！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人A",
+      "Text": "理事長！妳在種植\n「URA決勝系列賽」要用的草地？\n我都聽說了喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人B",
+      "Text": "也讓我們幫忙嘛！\n我們一直很期待競賽能夠舉辦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "《閃耀月刊》的官方網站\n也刊登了志工招募訊息。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "應該不用多久，\n就能召集到更多人手了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "你、你們這是……！\n何故……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "理事長！請看那邊。\n她們也來了喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "她們……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "呃，堂堂模範生真的有辦法\n做菜園的工作嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "嗄！？可別小看我喔！\n不管什麼事我都會做到完美！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "讚喔，帝王，果然表現得很好！一流水準～！\n如果可以把這些泥土運走更是一流！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "但那些是妳負責的吧！\n認真工作啦，真是的～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……真不愧是飛鷹，\n對於處理泥土的工作相當熟練呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "把那句話當作讚美\n有點微妙喔～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "……啊，等等。\n農業系賽馬娘偶像……會紅吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "就、就連學生們都……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "理事長。\n舉辦「URA決勝系列賽」這件事，\n最初就是我們學生的共同夙願。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "於是，在他們的號召之下……\n我便以學生會長的身分，\n像這樣召集大家一起來幫忙了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "於是，在她們的號召之下……\n我便以學生會長的身分，\n像這樣召集大家一起來幫忙了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "號召？他們……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "號召？她們……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "──理事長，我們兩個自作主張，\n號召了大家來幫忙種植草地。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院訓練員",
+      "Text": "結果──竟然來了這麼多人！\n想要幫忙理事長的人們\n全都聚集在這裡了喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "<username>訓練員跟\n桐生院訓練員……！？",
+      "ChoiceDataList": [
+        "大家都引頸期盼著「URA決勝系列賽」"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……唔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "聚集到這麼多人，就能種植出草地……\n就能舉辦「URA決勝系列賽」了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "感謝！！感謝……！！\n非常感激大家的協助！",
+      "ChoiceDataList": [
+        "一起讓「URA決勝系列賽」成功吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "當然！！\n很～好，開始工作啦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "大家會願意幫忙，原因一定\n不只有對「URA決勝系列賽」的期待。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "正因為大家都充分感受到秋川理事長的心意，\n才會號召到這麼多人──\n我邊種植草地，邊這麼想著。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

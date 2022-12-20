@@ -1,0 +1,639 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某天傍晚，我們經過商店街的時候──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "唉呀……出現了呢。\n訓練員，等一下喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "唉呀，小質妳來啦！\n今年……也要挑戰嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小質"
+      ]
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "這還用說！等我奪走特獎，\n就算你哭哭啼啼我也不會安慰你喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "嘿嘿，看來這次妳特別有幹勁呢。\n我也不會放水的，彼此認真地決勝負吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "沒問題……不對啦，大叔你努力做些什麼，\n不就變成作弊了？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "總之今年的素質小姐不同以往囉！\n我甚至還去百次參拜了呢，絕對會贏！",
+      "ChoiceDataList": [
+        "真、真有幹勁……"
+      ],
+      "ColorTextInfoList": [
+        "素質"
+      ]
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "當然要提起幹勁囉。\n今年、今年我一定要……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "──要讓他們把「三獎收集者」\n這個不名譽的稱號收回去！",
+      "ChoiceDataList": [
+        "三獎收集者？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "小質跟我們感情很好，\n每年都會跑來玩抽獎。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "但不管挑戰幾次都抽到三獎，實在太誇張了，\n一時之間還成為鎮上的話題呢。\n雖然現在我們已經沒有這樣叫她了啦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "三、三、三……！我的人生\n到底要被這個數字糾纏到什麼時候啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "但是也只到今天為止了。\n這張珍貴的抽獎券，我拿去神社瘋狂淨化過了，\n就靠這張──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "灌注我所有的運氣，一定要奪下特獎～～！！\n給我等著瞧！！",
+      "ChoiceDataList": [
+        "（素質發瘋了……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "來吧，開始囉，訓練員！！\n來斬斷這份宿命……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……優秀素質似乎累積了不少憤慨，\n甚至能感受到她的怨念。\n我與她一起握住把手轉動抽獎機。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "────！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "大叔……你剛剛說什麼……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "小質……是妳贏了。\n帶走特獎「溫泉旅遊券」吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "訓、訓練、訓練員……！\n特、特獎……！抽到特獎了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "而且是我最喜歡的溫泉！\n能去溫泉喔！太厲害了吧！？",
+      "ChoiceDataList": [
+        "恭喜妳！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "啊……呃，咳咳。\n抱歉，我都這把年紀了，還這麼興奮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "唉呀～是不是神明這次\n終於願意同情我了呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "好啦，大叔，你可要告訴大家喔。\n讓大家知道「素質奪走了特獎」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "當然了！我還會在鎮上的報紙上\n用巨大的標題刊登出來！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "就用「小質洗刷污名！將與訓練員\n一同前往極樂溫泉旅遊」這個標題！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "嗯──嗯！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "咦？什、什、什麼啦──！？\n跟訓、訓練員一起！？溫泉──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "咦？不是嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "笨笨笨笨、笨蛋，你在說什麼啦！\n我怎麼可能跟這個人去啥溫泉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "啊──！",
+      "ChoiceDataList": [
+        "畢竟是素質抽到的……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "不是，訓練員，不是啦！\n我、我剛剛不是那個意思……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "啊嗚嗚嗚～～！算了啦！\n那張旅遊券就送給訓練員好了！",
+      "ChoiceDataList": [
+        "咦！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "我抽獎本來就不是為了去溫泉，\n只是想擺脫不名譽的稱號而已喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "既然已經擺脫稱號了，\n那張旅遊券就送給訓練員吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "你再找個好時機去好好放鬆身體吧。\n我……就不去了，沒關係啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "好啦！為了慶祝，\n去肉店買塊特等里肌肉回去吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……我決定當成是由我暫時\n幫忙保管這張溫泉旅遊券了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "太好了！\n是一獎喔，訓練員！",
+      "ChoiceDataList": [
+        "太棒了！",
+        "太棒了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "真的是太好了～\n我絕對不想又被叫「三獎收集者」啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "大叔！\n怎麼樣啊，認輸了吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "認輸了認輸了，小質真厲害啊！\n憑著這好運氣，今年要狂得第一名喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "唔～～～～嗯！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "不，這兩件事不一樣吧……\n又不是運氣好就能跑贏……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "對吧？訓練員？",
+      "ChoiceDataList": [
+        "也對",
+        "也是"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……不是啦，你幹嘛這麼失望啊──",
+      "ChoiceDataList": [
+        "因為素質會靠實力取勝的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "啊哈哈！就是啊！\n唉呀，真是抱歉啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "遇到這麼棒的訓練員\n真的是太好了呢，小質！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……你們少說蠢話了，\n我要回去囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "難得拿到美味的漢堡排，\n回去趕快煎一煎吃下肚吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……我會煎給你吃的啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後我們依照優秀素質推薦的吃法，\n享用了極度美味的漢堡排。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "唔嗯～真可惜！\n不過也算是好結果吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "至少逃過三獎了。\n嗯，太好了太好了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "不過……還真是多得像座山啊。\n大叔你們也太慷慨了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "畢竟抽獎可是商店街的一大賣點啊！\n必須在這些事情上創造話題性才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "這樣才能爆紅……？是這樣說的嗎？\n小質妳也幫我們拍張照\n傳到那個什麼平台上嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "你是說社群平台吧。\n這大叔真是傻得令人想哭啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……訓練員啊，\n我有事想要拜託你。",
+      "ChoiceDataList": [
+        "什麼事呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "可以幫我跟那堆多得誇張的胡蘿蔔，\n還有大叔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "一起拍張照嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……我是沒有什麼影響力啦。\n但至少……還能介紹給朋友知道。",
+      "ChoiceDataList": [
+        "我知道了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "小質……妳真的是個好孩子啊。\n以前明明那麼小一隻……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "你根本不知道我小時候長怎樣吧──\n好啦，要拍囉，笑一個笑一個！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……於是我為抱著滿滿的胡蘿蔔，\n露出滿臉笑容的優秀素質拍下了照片。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "唉呀，妳又更新了紀錄呢。\n很遺憾，現實就是這樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "…………唉呀～搞砸了。\n這下的確是素質小姐輸了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "我該不會有這方面的超能力吧？\n乾脆去研究所毛遂自薦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "說笑的啦，反正抽獎只是好玩嘛。\n那我就收下一根胡蘿蔔啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "一口咬下去，越嚼越甜！\n蔬果店的胡蘿蔔就是這麼好吃！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "唉呀──感覺充滿了活力呢。\n啊哈哈哈──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "……看那樣子，她非常不甘心呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──就這樣，優秀素質\n成功地保住了「三獎收集者」的稱號。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "怎麼是衛生紙啊？\n這樣我有點不知道該怎麼反應耶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "不過，衛生紙算是最實用的，\n也不是什麼爛獎品啦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "但妳都特地去百次參拜了呢。\n不能看到小質引發奇蹟，\n我也覺得有點可惜喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……等一下，可不可以別這樣？\n總覺得有點罪惡感，而且──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "光是回想起剛剛抽獎時的氣勢，\n就覺得有夠丟臉的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "難得妳都灌注了所有的運氣呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "嗚啊！\n住、住手，給我忘掉～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後優秀素質持續遭到\n商店街的人毫無惡意的揶揄，\n感到筋疲力盡……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

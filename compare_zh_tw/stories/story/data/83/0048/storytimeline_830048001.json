@@ -1,0 +1,314 @@
+{
+  "Title": "心跳下午茶！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我因為口渴，決定去咖啡廳。\n在大排長龍過後，總算輪到自己入座時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳店員",
+      "Text": "啾咪♪歡迎光臨☆\n讓您久等了，一位嗎？",
+      "ChoiceDataList": [
+        "是的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "哇哇！這間咖啡廳這麼可愛！？\n我跟這裡太不搭了啦……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "會嗎？\n在我看起來妳跟這裡很搭啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳店員",
+      "Text": "後面的兩位客人，真不好意思。\n店裡現在客滿了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳店員",
+      "Text": "那個……如果方便的話，\n能接受跟其他客人併桌嗎？",
+      "ChoiceDataList": [
+        "我不介意"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "……啊，是學園的訓練員！\n真的沒關係嗎？謝謝你耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "那就恭敬不如從命，\n麻煩你和我們併桌了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳店員",
+      "Text": "感謝☆\n那我來為各位帶位♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我們被帶到位子上坐下後，\n看了菜單，正準備要點餐時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "……那個，飲料……皇家茉莉……茉莉莉？\n給我一杯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳店員",
+      "Text": "好的♪要一杯「皇家☆茉莉莉」！那要加點\n我們限定期間推出的「天使之環」嗎？\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "咦……！？啊、那就也點那個……嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳店員",
+      "Text": "謝謝您♪啊，飲料的分量\n有Dolly、Pretty、Charmy三種，\n請挑選您想要的分量☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "P……Pretty？Charmy？\n呃，那個……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "不好意思……我們是第一次來這裡，\n可以說明一下意思嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳店員",
+      "Text": "好的☆\nDolly是小杯、Pretty是中杯──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "聽完這間店獨特的點餐說明後，\n總算成功點了三杯飲料和一個甜點……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "哈哈……\n她說的話有一半我都聽不懂耶……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "呼～～總算是覺得比較自在一點了。\n我從剛剛就一直在狀況外……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "……幸好阿爾丹很冷靜呢。\n真是謝謝妳！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "呵呵，我才想道謝呢。\n都是因為雷恩約我一起來的關係，\n才讓我有機會體驗到有趣的咖啡廳。",
+      "ChoiceDataList": [
+        "妳們感情真不錯",
+        "妳們感情真不錯呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "是啊，\n我們從小就因為目白家的聚會彼此認識……\n雷恩從小就一直都是很溫柔體貼的人呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "她總是會教我玩新奇的遊戲，\n或是帶我去祕密景點……都是很棒的回憶喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "啊哈哈！我的確做過這些事情呢。\n以前很喜歡找阿爾丹姐姐聊天，\n她願意聽我說話我都好開心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "啊，當然現在也是啦，\n跟以前一樣覺得很開心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "呵呵呵……沒問題呀，\n只要妳不嫌棄，我隨時都願意聽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳店員",
+      "Text": "啾咪♪讓您久等了！\n為您送上「皇家☆茉莉莉」和\n「天使之環」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "這就是……皇家茉莉莉。\n……原來是紅茶啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "這個就是天使之環……\n是一塊很大的年輪蛋糕耶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "感覺幾乎是生日蛋糕的大小了！\n嗯──這樣分量有點太多……",
+      "ChoiceDataList": [
+        "妳們一起吃一定能吃完！",
+        "妳們一起分著吃就一定能吃完的！",
+        "要外帶嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "感覺幾乎是生日蛋糕的大小了！\n嗯──這樣分量有點太多……",
+      "ChoiceDataList": [
+        "妳們一起吃一定能吃完！",
+        "妳們一起分著吃就一定能吃完的！",
+        "要外帶嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "說得也是，\n那就切一切，我和雷恩一人一半吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白阿爾丹安靜且俐落地\n將年輪蛋糕分成兩份……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……哎呀，兩邊大小切得不太一樣呢。\n那就大份的給雷恩……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "沒關係，應該要給\n辛苦切蛋糕的阿爾丹吃大份的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "呵呵呵，不用跟我客氣呀。\n因為我今天想要像個姐姐一樣嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……對了，\n我再幫妳切成更好入口的大小好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "啊，謝、謝謝妳！\n……唔唔，感覺臉在發燙了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，她們兩人就這樣親密地分享，\n並且一起吃完了年輪蛋糕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "那就來喝喝看紅茶好了！\n看起來很好喝呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "哎呀……很純粹的紅茶香呢。\n用的是同一個產地的茶葉嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "只是聞香味就能知道這麼多嗎？\n……阿爾丹和多伯都對紅茶很了解，\n有種家教很好的感覺呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "我只是因為喜歡紅茶而已。\n肌肉相關的事情，雷恩不就懂得比我多嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "這麼說也是……\n啊，我知道可以坐著鍛鍊肌肉的方法喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "叫做「坐式提踵」，\n這可以練到比目魚肌──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "哎呀……呵呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她們一邊熱絡談論各種話題，\n一邊盡情地享用了紅茶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
