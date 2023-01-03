@@ -114,6 +114,70 @@
             "ColorTextInfoList": []
         },
         {
+            "Name": "サクラバクシンオー",
+            "Text": "『トレーナーさんの忘れ物を届ける選手権』、\r\n優勝は――この私ですッ！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "バンブーメモリー",
+            "Text": "く～～～っ！！\u3000負けた……！\r\nその後ろ姿すら見えなかったっス……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "サクラバクシンオー",
+            "Text": "ですが……トレーナーさん、\r\nまだ忘れていることがありませんか！？",
+            "ChoiceDataList": [
+                "え？いや、別に……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "サクラバクシンオー",
+            "Text": "……委員長は知っていますよ。\r\nこのところ食事もせず、\n練習メニューを考えていることを。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "サクラバクシンオー",
+            "Text": "だから、私の次くらい優秀な貴方が\r\nらしくなく忘れ物をした。\nしかし、貴方が本当に忘れているのは――",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "サクラバクシンオー",
+            "Text": "『頑張る自分を休ませること』……！",
+            "ChoiceDataList": [
+                "バクシンオー……！"
+            ],
+            "ColorTextInfoList": []
+            },
+            {
+            "Name": "サクラバクシンオー",
+            "Text": "さぁ、行きましょう！\u3000まずはその胃に、\r\nご飯をバクシンさせるのです！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+            },
+            {
+            "Name": "バンブーメモリー",
+            "Text": "これが『学級』委員長……完敗っス。\r\nその脚にも、その想いの深さにも。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+            },
+            {
+            "Name": "観客たち",
+            "Text": "まさに、委員長の中の委員長……！\r\nしびれる～～ッ！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+            },
+            {
+            "Name": "モノローグ",
+            "Text": "その後、学級委員長の想いの大きさを\r\n思わせるほど大盛りの焼きそばを食べ……\nお腹も心もいっぱいになるのだった！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
             "Name": "櫻花驀進王",
             "Text": "成功了成功了──！！\n這下我就是最強幹部了！",
             "ChoiceDataList": [],
@@ -128,15 +192,16 @@
         {
             "Name": "櫻花驀進王",
             "Text": "嗯哼！沒錯……不過！\n這也是託訓練員的福！",
-            "ChoiceDataList": [
-                "え？いや、別に……"
-            ],
+            "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "櫻花驀進王",
             "Text": "我邊跑邊想著「要幫上訓練員的忙！」\n就想起了平常的訓練！",
-            "ChoiceDataList": [],
+            "ChoiceDataList": [
+                "学びが活かせたんだな！",
+                "学びが活かせたんだね！"
+            ],
             "ColorTextInfoList": []
         },
         {
@@ -148,9 +213,7 @@
         {
             "Name": "青竹回憶",
             "Text": "呃啊──！我完全輸了！\n而且你們兩人的情誼讓我好感動～～！",
-            "ChoiceDataList": [
-                "バクシンオー……！"
-            ],
+            "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
@@ -180,7 +243,9 @@
         {
             "Name": "櫻花驀進王",
             "Text": "好不甘心……我好不甘心……！",
-            "ChoiceDataList": [],
+            "ChoiceDataList": [
+                "バクシンオー……"
+            ],
             "ColorTextInfoList": []
         },
         {
@@ -198,10 +263,7 @@
         {
             "Name": "青竹回憶",
             "Text": "呵……這樣才是我看上的幹部！",
-            "ChoiceDataList": [
-                "学びが活かせたんだな！",
-                "学びが活かせたんだね！"
-            ],
+            "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
@@ -213,68 +275,6 @@
         {
             "Name": "",
             "Text": "於是櫻花驀進王的熱血志氣\n讓體育館裡的人紛紛為她獻上掌聲與喝采。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "観客たち",
-            "Text": "いい戦いだったよー！　感動をありがとう！\r\nおめでとう～～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "勝者のサクラバクシンオーは、\r\n祝福の喝采を浴び続けるのだった！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "サクラバクシンオー",
-            "Text": "うううぅぅぅ～～！\r\n私のバクシンが……破られるなんて……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "バンブーメモリー",
-            "Text": "これが、風紀委員長の力っスよ！\r\n最強の委員長の座、アタシが頂くっス！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "サクラバクシンオー",
-            "Text": "悔しい……悔しい、です……！",
-            "ChoiceDataList": [
-                "バクシンオー……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "サクラバクシンオー",
-            "Text": "ですがッ！\r\n敗北もまたバクシンの新たな力になりますッ！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "サクラバクシンオー",
-            "Text": "次こそ勝つぞと、燃えますから！\r\nその時まで、その座はお貸ししておきます！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "バンブーメモリー",
-            "Text": "フッ……それでこそ、\r\nアタシが見込んだ委員長っス！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "観客たち",
-            "Text": "学級委員長ー！\r\nナイスファイトだよーー！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "サクラバクシンオーの熱い思いに、\r\n体育館中から拍手喝采が送られるのだった。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

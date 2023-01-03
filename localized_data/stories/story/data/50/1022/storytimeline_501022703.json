@@ -1,5 +1,5 @@
 {
-  "Title": "異國の地ならなんでも",
+  "Title": "異國之地充滿驚奇",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,151 +9,151 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "あら……ここでやっていた謎解きゲーム、\nもう終わっちゃったんだ。",
+      "Text": "哎呀……之前在這裡辦的解謎遊戲\n已經結束啦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "ふふっ！\u3000またあんな面白い體験、\nどこかでできるといいね。",
+      "Text": "呵呵！希望還能在其他地方\n獲得那種有趣的體驗。",
       "ChoiceDataList": [
-        "じゃあ、少し遠出してみる？"
+        "那要稍微出個遠門嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "いいの？",
+      "Text": "可以嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "せっかくの休みだ。\n観光スポットに行き、彼女の思い出作りに\n貢獻することにしたのだった。",
+      "Text": "難得放假。\n我決定帶她去觀光景點，\n幫她製造回憶。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "へぇ、夕焼けが見どころの山なんだ！\n目的の駅はもうすぐかな？",
+      "Text": "喔，能看到漂亮夕陽的山啊！\n應該快到站了吧？",
       "ChoiceDataList": [
-        "次のはずだ",
-        "次のはずだよ"
+        "應該是下一站",
+        "應該是下一站"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "車載廣播",
-      "Text": "『次はー、終點。終點ー。\r\nお降りの際は足元にお気をつけてー……』",
+      "Name": "車內廣播",
+      "Text": "「下一站，終點站。終點站。\n下車時請留意您的腳步……」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "あれ？\u3000終點？",
+      "Text": "咦？終點站？",
       "ChoiceDataList": [
-        "しまった、これ急行だ！？"
+        "糟糕，這輛車沒停那一站！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "わ～！\u3000本當だ！\n駅がすごい勢いで通り過ぎていくね！",
+      "Text": "哇～！真的耶！\n以好快的速度通過車站了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "なんとか目的地に辿り著けたが……\r\n晝時を過ぎてしまった。",
+      "Text": "等我們總算抵達目的地時……\n已經過了中午。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "ちょうどいいから、\r\nちょっと遅めのお晝をいただいていこう！\nここの名物も味わいたいよね。",
+      "Text": "雖然有點晚了，\n但這時間剛好勉強趕得上吃午餐！\n我也想吃吃看這裡的名產。",
       "ChoiceDataList": [
-        "美味しい店があるから案內するよ"
+        "我帶妳去好吃的餐廳"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "『推しウマ娘の応援のため、本日臨時休業』\nご主人、お休みみたいだね。",
+      "Text": "「為了替我推的賽馬娘加油，本日臨時公休。」\n今天餐廳好像休息呢。",
       "ChoiceDataList": [
-        "ごめん！次こそは……！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "その後も挽回を図りながら観光を続け、\r\nついに山頂へ辿り著いた！\u3000……のだが──",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美妙姿勢",
-      "Text": "わー！\u3000綺麗な夜景！",
-      "ChoiceDataList": [
-        "夕焼けを見るはずが……！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美妙姿勢",
-      "Text": "それはまたの機會、だね！\n今はこの時間を楽しもうよっ♪",
-      "ChoiceDataList": [
-        "そ、そうだな。せめて記念撮影でも──",
-        "そ、そうだね。せめて記念撮影でも──"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "猿",
-      "Text": "キキーッ！",
-      "ChoiceDataList": [
-        "うわぁ！？"
+        "抱歉，接下來一定沒問題……！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "撮影しようと出した攜帯を、\n猿に奪われてしまった──！",
+      "Text": "之後繼續觀光時，我也努力想挽回失誤，\n雖然最後我們終於抵達山頂……不過──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "まぁ大変、トレーナーのスマホが！\n急いで取り返さないと……隊長っ！",
-      "ChoiceDataList": [],
+      "Text": "哇！好漂亮的夜景！",
+      "ChoiceDataList": [
+        "原本是來看夕陽的……！"
+      ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "SP隊長",
-      "Text": "かしこまりました！\u3000……まてぇー猿っ！！",
-      "ChoiceDataList": [],
+      "Name": "美妙姿勢",
+      "Text": "下次再找機會好了！\n先來享受眼前的時光吧♪",
+      "ChoiceDataList": [
+        "是、是啊。至少拍個紀念照──",
+        "是、是啊。至少拍個紀念照──"
+      ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "猿",
-      "Text": "キーーーーッ！！",
+      "Name": "猴子",
+      "Text": "嘰嘰！",
+      "ChoiceDataList": [
+        "唔哇！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我準備拿來拍照的手機，\n被猴子搶走了──！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "……うん、すごい1日だったね。",
+      "Text": "哎呀，訓練員的手機！\n必須快點拿回來……隊長！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "護衛隊長",
+      "Text": "遵命！……那隻猴子，給我站住！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "猴子",
+      "Text": "嘰────！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "電車に、休業のお店、おさるさん。\nスマホは取り戻せたけれど……隊長は\nスーツが破れてしまいましたね。",
+      "Text": "……嗯，今天真是波折不斷呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "SP隊長",
-      "Text": "……は。",
+      "Name": "美妙姿勢",
+      "Text": "搭錯電車、店家公休，還遇到猴子。\n雖然最後順利搶回了手機……\n但隊長的西裝破掉了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "護衛隊長",
+      "Text": "……唉。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -161,7 +161,7 @@
       "Name": "美妙姿勢",
       "Text": "…………",
       "ChoiceDataList": [
-        "その……ごめん"
+        "那個……對不起"
       ],
       "ColorTextInfoList": []
     },
@@ -173,7 +173,7 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "あはははははっ！",
+      "Text": "啊哈哈哈哈哈！",
       "ChoiceDataList": [
         "美妙……？"
       ],
@@ -181,110 +181,110 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "あ、ふふ、ごめんね？\nここまで予想できないお出かけ、新鮮で……！",
+      "Text": "啊，呵呵，抱歉。\n這趟行程實在太出乎意料，感覺很新鮮……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "ふぅ……もちろん、\n視察で色んなところに行く機會はあったよ？\n胸が躍る體験も、たくさんした。",
+      "Text": "呵……當然，\n我以前也有機會到各種地方視察。\n並獲得了許多令人興奮的體驗。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "でも──こんなサプライズだらけのお出かけ、\nしようと思ってもできないよ！",
+      "Text": "不過──如此驚喜連連的外出行程，\n就算想規劃也辦不到呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "つまりね、トレーナーはすごいってこと！\nむしろ胸を張っちゃうべきだよ♪",
+      "Text": "我的意思是訓練員很厲害！\n可以再多自豪一點♪",
       "ChoiceDataList": [
-        "気を使わせているような……",
-        "そう……かな！？"
+        "感覺好像讓妳費心了……",
+        "是嗎……！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "えー？\u3000そんなことないんだけれどなぁ。\nうーん……。",
+      "Text": "咦～？我明明沒有那個意思。\n嗯……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "そうだ、これ見て！\n面白い寫真がたくさん撮れたんだよ！",
+      "Text": "對了，你看這個！\n我拍了許多有趣的照片喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "これは、お晝が食べられなくて寄った\nコンビニね！\u3000品ぞろえに地域色が出ていて\nすごく勉強になったし……。",
+      "Text": "這是因為沒吃到午餐而去逛的超商！\n這裡賣的商品帶有濃厚的地區色彩，\n讓我學到了不少……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "これは、おさるさんを追いかけた途中の道。\r\n電信柱も明かりもなくて、星空が広く見えて\n……なんだか気持ちよかったんだ！",
+      "Text": "這是在追猴子的路上拍的。\n少了電線桿和其他亮光，星空看起來十分遼闊……\n令人心情舒暢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "これもキミが連れて來てくれたおかげ。\n全部私の思い出。",
+      "Text": "這都要感謝你帶我來這裡。\n這些全都是我的回憶。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "何をやるか、じゃない。\n何を思えるかが、大事じゃないかな？",
+      "Text": "重要的不是做了什麼事。\n而是有什麼感想吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "そう言って微笑む彼女の前向きな言葉に\r\n救われた……しかし、次は彼女のために\n頑張りたいと思ったのであった。",
+      "Text": "她笑著提出樂觀的見解，\n讓我如釋重負……不過，\n我下次還是會想為了她努力。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "うん、そうそう！\nキミってすごい！",
+      "Text": "嗯，沒錯！\n你很厲害！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "よっ、持ってる大名！\nおな～り～！",
+      "Text": "搞笑之神！\n降～臨～！",
       "ChoiceDataList": [
-        "なにそれ！？"
+        "妳在說什麼啊！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "あれ？\u3000予想外の笑い。\n日本ではこういうんじゃないの？",
+      "Text": "咦？這個國家不是都用這種方式\n來形容出乎意料的好笑事蹟嗎？",
       "ChoiceDataList": [
-        "ちょっと違うかも？"
+        "好像有點不一樣？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "ふふっ、まぁいいや。\nキミが笑ってくれるならね。",
+      "Text": "呵呵，算了。\n只要能讓你笑就行了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "キミとお出かけしたら、\nまた面白いことに出會えそう。\n次もよろしくね！",
+      "Text": "感覺只要跟你一起出門，\n就能再遇到有趣的事情。\n下次也請多指教啦！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "弾む調子で溫かい言葉をかけてくれる彼女に、\n次こそはちゃんと楽しい體験をさせたいと\n思うのであった。",
+      "Text": "她愉快地說出令人欣慰的話，\n我在心裡想著下次一定要\n好好替她帶來快樂的體驗。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

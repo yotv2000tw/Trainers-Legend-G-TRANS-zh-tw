@@ -1,0 +1,516 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在訓練結束後的回程途中，\n我們順路來到了商店街……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "嗯……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，是好玩的抽獎活動喔！\n任何人都可以來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "喔～是抽獎嗎～\n……嗯？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "我記得口袋裡……咦，\n是包包裡嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "島川喬登東摸摸西摸摸，\n開始翻找著裙子的口袋。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "啊！在手機殼內側啦！\n新年期間買了新的！\n然後夾到手機殼跟手機之間……嗚哇！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（滑落……咚！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "啊啊啊啊啊！？\n手機～～～～！？",
+      "ChoiceDataList": [
+        "螢幕沒破吧！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "破了一點點～",
+      "ChoiceDataList": [
+        "節哀順變……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "嗚哇～……啊啊啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "呃，那個……\n妳要抽獎嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……訓練員……",
+      "ChoiceDataList": [
+        "我替她抽！",
+        "我替她抽！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "喔，好。這樣啊！\n加油喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我代替島川喬登，\n鬥志昂揚地轉動抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "超強！訓練員！\n你很厲害嘛！！特獎！？",
+      "ChoiceDataList": [
+        "妳把抽獎券掏出來是值得的呢！",
+        "妳把抽獎券掏出來是值得的呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "對吧！對吧！！\n這是我摔破手機換來的好運！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "摔破手機換來的……",
+      "ChoiceDataList": [
+        "這是特獎！都抽到特獎了，妳別哭！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "不過溫泉旅遊券嗎～\n嘿嘿，要跟誰一起去呢～",
+      "ChoiceDataList": [
+        "畢竟妳朋友很多呢",
+        "畢竟妳朋友很多呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "就是啊～！這是要選誰才好？\n我怎麼選得出來？\n雖然想大家一起，但又沒錢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "乾脆賣了這張券，\n大家一起去卡拉OK～……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……",
+      "ChoiceDataList": [
+        "怎麼了？",
+        "怎麼了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "不是啦，只是想說，\n這個特獎是你抽到的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……仔細一看離到期日還有一段時間。\n讓我再考慮一下要跟誰去吧。",
+      "ChoiceDataList": [
+        "去的時候要好好享受喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……你也是個大傻瓜呢。\n這種時候要抗議一下吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……「抽中這獎品的是我」之類的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "！！那個超好吃的！",
+      "ChoiceDataList": [
+        "妳也喜歡嗎？",
+        "妳也喜歡嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "嗯，我很喜歡！\n超喜歡！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "這樣啊這樣啊！太好了呢～！\n小姐，商品在這裡！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……嘿嘿。太棒了，\n是胡蘿蔔漢堡排呢。",
+      "ChoiceDataList": [
+        "妳的心情轉好了呢",
+        "妳的心情轉好了呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……！\n…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "那個表情……真氣人。\n你把我當小孩子了吧。討厭……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "可是島川喬登的尾巴，\n抬得高高地在搖來搖去。\n看來一獎讓她很高興。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "喔喔～！太好了呢！\n快看，訓練員抽了二獎喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "你挺厲害的嘛。訓練員！",
+      "ChoiceDataList": [
+        "是一整箱的胡蘿蔔喔！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "真的假了！？太厲害了吧！？\n簡直能吃到爆！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "咦，要叫誰來啊！先叫城市，\n還有善信與太陽，以及姐妹淘們！\n啊，偶爾也給券藏一些～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "噗哈，超開心的～",
+      "ChoiceDataList": [
+        "看來妳恢復精神了，我很高興"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……唉，\n你就是這種人呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "好啦，把手伸出來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她在我伸出的手掌上，\n放了一根橘色的胡蘿蔔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……這是你的份。\n你要吃光光喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "難得收到了胡蘿蔔，\n我在當天\n就把它煮成料理吃掉了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "一根胡蘿蔔……",
+      "ChoiceDataList": [
+        "我本來想抽到更好的商品的……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……沒關係，說真的如果是現在的我，\n八成會抽到銘謝惠顧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "咦！？小姐！\n妳忘了拿獎品囉，小姐！！",
+      "ChoiceDataList": [
+        "她更沮喪了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "咦？這袋子是啥？\n裡面是……胡蘿蔔脆片？",
+      "ChoiceDataList": [
+        "是用之前那根胡蘿蔔做的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……你做的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "哈哈，超爆笑。\n脆片大小都不一樣不是嗎。\n大小一致一點吧～做得真爛～",
+      "ChoiceDataList": [
+        "……我已經很努力了",
+        "……我已經很努力了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……是～喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "那我就收下吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "抱歉……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……比起這個。\n是不是能申請\n手機維修啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "好像有這種保險……",
+      "ChoiceDataList": [
+        "……我陪妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "謝謝……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "島川喬登就這樣沮喪地\n離開了商店街。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

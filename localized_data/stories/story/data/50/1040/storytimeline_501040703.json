@@ -9,7 +9,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "我和黃金城市一起出門，在回程路上，\n經過了商店街的書店。",
+      "Text": "我和黃金城市一起出門，\n在回程路上經過了商店街的書店。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -23,13 +23,13 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "沒錯，\n之前拉你陪我去購物中心那次說的工作。",
+      "Text": "沒錯，\n就是之前拉你陪我去購物中心那次提到的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "多虧先在購物中心試過了，\n所以在工作現場也大受好評，謝啦。",
+      "Text": "多虧有先在購物中心試過，\n所以在工作現場也大受好評。謝啦。",
       "ChoiceDataList": [
         "能幫上忙真是太好了"
       ],
@@ -43,19 +43,19 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "這本、這本……\n啊，還有這本。",
+      "Text": "這本，跟這本……\n啊，還有這本。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "地上的購物籃中，\n黃金城市選的書逐漸越疊越高……",
+      "Text": "擺放在地上的購物籃中，\n黃金城市選的書越疊越高……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "令人意外的是，除了雜誌外，\n也混入了一些生硬的文庫本。",
+      "Text": "令人意外的是，除了雜誌外，\n也混著一些艱澀的文庫本。",
       "ChoiceDataList": [
         "（這些她都會讀嗎？）",
         "（這些她都會讀嗎？）"
@@ -76,49 +76,49 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "是啊。我會在保母車裡，\n或是工作空檔讀書。",
+      "Text": "是啊。我會趁在外景車裡，\n或是工作空檔看看書。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "雪之美人",
-      "Text": "原來如此～！\n這本難懂的書也是要在那時候讀嗎？",
+      "Text": "原來如此～……！\n像這本看起來很難的書，也是要在那時候讀嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "嗯，工作的合作對象\n推薦我這本書。",
+      "Text": "嗯，這本是工作的合作對象\n推薦給我的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "這樣下次工作時不就能當話題了嗎？\n所以我會儘可能全部讀一讀。",
+      "Text": "這樣下次工作時不就能當話題了嗎？\n所以我會盡可能全部讀一讀。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "雪之美人",
-      "Text": "工作能力超強的城市……\n越、越來越帥氣了～！",
+      "Text": "工作能力超強的城市……\n我、我覺得妳越來越帥氣了～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "沒有啦，話說……\n雪之妳要買那麼多訓練用書啊？",
+      "Text": "沒有啦，話說……\n雪之妳要買那麼多訓練參考書啊？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "黃金城市所指的購物籃中，\n放了大量的訓練用書。\n似乎都是雪之美人選的……",
+      "Text": "黃金城市所指的購物籃中，\n放了大量的訓練參考書。\n似乎都是雪之美人選的……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "雪之美人",
-      "Text": "咦，啊……嘿嘿嘿。\n在我猶豫不決之中，書就越選越多了。",
+      "Text": "咦，啊……耶嘿嘿。\n在我猶豫不決的時候，就不小心越選越多了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -130,49 +130,49 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "與其買大量的書，不如先把這本讀透喔。\n我的訓練員也在讀。",
+      "Text": "與其買那麼多本，不如先把這本讀透比較好喔。\n像我家訓練員也在讀。",
       "ChoiceDataList": [
-        "妳也讀了我在讀的書嗎？",
-        "妳也讀了我在讀的書嗎？"
+        "妳連我在讀的書也看過了嗎？",
+        "妳連我在讀的書也看過了嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "有了共識後，\n比較好進行訓練吧？",
+      "Text": "彼此有共識，\n會比較好進行訓練吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "而且事實上……我覺得你選的書很棒，\n我也姑且拿那本書來當參考了。",
+      "Text": "而且說實話……我覺得你選的書很棒。\n所以姑且有拿來當參考。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "黃金城市再忙也不會偷懶，\n對任何事都全力以赴。",
+      "Text": "黃金城市再忙也絕不會偷懶，\n對任何事都全力以赴。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "哪本書能助她一臂之力呢……",
+      "Text": "如果想幫上她的忙，那我應該……",
       "ChoiceDataList": [
-        "告訴她推薦的訓練用書",
+        "告訴她推薦的訓練參考書",
         "買模特兒自傳"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "我推薦了一本書，\n配合黃金城市剛才推薦的書一起讀，\n就能更加深入理解內容。",
+      "Text": "我推薦了一本書，\n只要配合黃金城市剛才推薦的書一起讀，\n可以更加深入理解內容。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "雪之美人",
-      "Text": "哎呀～\n這本書比其他本輕薄多了～",
+      "Text": "哎呀～\n這本書比其他本還要薄得多呢～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -192,13 +192,13 @@
     },
     {
       "Name": "獨白",
-      "Text": "聽到黃金城市這句話令我不禁嘴角上揚。\n我買了兩本我推薦的書，\n並送給她們當禮物。",
+      "Text": "聽到黃金城市這句話令我不禁嘴角上揚。\n於是我買了兩本我推薦的書，\n並送給她們當禮物。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "為了學習模特兒這個職業，\n我買了著名模特兒的自傳。",
+      "Text": "為了更加了解模特兒這個職業，\n於是我買了著名模特兒的自傳。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -206,8 +206,8 @@
       "Name": "黃金城市",
       "Text": "咦，為什麼？\n模特兒工作不屬於你的工作範圍吧？",
       "ChoiceDataList": [
-        "有共識比較好，不是嗎？",
-        "有共識比較好不是嗎？"
+        "彼此有共識比較好，對吧？",
+        "彼此有共識比較好，對吧？"
       ],
       "ColorTextInfoList": []
     },
@@ -219,7 +219,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "我對黃金城市說，\n我也想全力回報她的認真努力。",
+      "Text": "我告訴黃金城市，\n我也想盡全力回報她的認真努力。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -237,7 +237,7 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "……算了，我很高興你有這份心意喔。\n訓練員。",
+      "Text": "……不過，我很高興你有這份心意喔。\n訓練員。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

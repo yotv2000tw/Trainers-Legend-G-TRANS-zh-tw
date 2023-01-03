@@ -8,8 +8,8 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "畫面の向こうの聲",
-      "Text": "『──那麼接下來，\n請美妙姿勢殿下致辭。』",
+      "Name": "螢幕對面的聲音",
+      "Text": "「──那麼，接下來\n請美妙姿勢殿下對我們說幾句話。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -20,7 +20,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "SP隊長",
+      "Name": "護衛隊長",
       "Text": "……殿下？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -32,41 +32,41 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "SP隊長",
-      "Text": "殿下。\n請您致辭。",
+      "Name": "護衛隊長",
+      "Text": "殿下。\n請開口吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "……啊。\n好的，不好意思。",
+      "Text": "……嗯。\n好的，請聽我說。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "向各位彙報。我美妙姿勢，\n一如過去約好的那樣──",
+      "Text": "有一件事要向各位報告。我，美妙姿勢，\n將按照先前的約定──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "……將在一年後回國。\n在此之前，有不少事項需要向各位確認──",
+      "Text": "……於一年後回國。\n在那之前的種種確認──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "新年伊始，美妙姿勢就忙得不可開交。",
+      "Text": "新年過後，\n美妙姿勢就變得很忙碌。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "因為今天她也要與祖國的人們就歸國一事開會，\n我正等著她的會議結束……",
+      "Text": "她今天也要參加國內的會議，\n所以我在等她開完會……",
       "ChoiceDataList": [
-        "（希望不會拖太久就好了……）",
-        "（長引いてる……）"
+        "（會議延長了呢……）",
+        "（會議延長了……）"
       ],
       "ColorTextInfoList": []
     },
@@ -78,10 +78,10 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "因為那邊的人都還挺有空的～\n所以被他們拉著說了不少話。",
+      "Text": "那邊的人個性大多比較悠哉～\n所以不小心就聊太久了。",
       "ChoiceDataList": [
-        "那就開始訓練吧",
-        "じゃあ、トレーニングに行こっか"
+        "那麼，我們去訓練吧",
+        "那麼，我們去訓練吧"
       ],
       "ColorTextInfoList": []
     },
@@ -93,125 +93,125 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "……嗯ー、能讓我先稍微休息一下嗎？\n感覺喉嚨有點說干啦。",
+      "Text": "……嗯～可以先休息一下嗎？\n我想喝點東西。",
       "ChoiceDataList": [
-        "也可以啦……？"
+        "當然可以……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "過去的她，哪怕是一分鐘也不想浪費，\n會立刻投身於訓練之中。\n她是不是有些倦怠了……？",
+      "Text": "她以前總是迫不及待地想早點去跑步……\n不過，最近總覺得變得有點消極。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "SP隊長",
-      "Text": "訓練員大人。\n……您不用追上去嗎？",
+      "Name": "護衛隊長",
+      "Text": "訓練員。\n……可以請你去追殿下嗎？",
       "ChoiceDataList": [
-        "誒？"
+        "咦？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "SP隊長",
-      "Text": "殿下のお心に立ち入る資格は、\r\nどなたにもない。けれど貴方なら──\nそれを伺うことは、許されるでしょう。",
+      "Name": "護衛隊長",
+      "Text": "無論是誰，都沒有資格走進殿下的\n內心，但如果是你──\n應該會被允許探詢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "──打以前就一直沒變啊，你丫。\n就連這份頑固也是。",
+      "Text": "──妳在那之後還是一點都沒變呢。\n無論是跑步……還是頑固的方面。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "追上美妙姿勢之後，發現她正在和神宮說話。\n想著不要打擾二人，正準備轉身離開時──",
+      "Text": "我追上美妙姿勢後，\n發現她在和空中神宮說話。\n我本來打算轉身離開，以免打擾她們──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "就做你最喜歡的那個吧。\n就那啥，跟小孩子似的撒嬌。",
+      "Text": "像平常那樣做就行了吧。\n像個小鬼一樣耍任性。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "『想再跑一段時間』──\n直接這麼說一句不就好了。",
+      "Text": "「想再繼續跑」──\n只要說出這句話就行了吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "……そんなこと、思っていないよ。\r\n充分すぎるほど走らせてもらえたもの。",
+      "Text": "……我完全沒有這樣的想法。\n我已經獲得夠多跑步的機會了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "是嗎？\u3000\n我還以為這種謊你能說得更好呢？",
+      "Text": "妳這是怎麼了？通常這種謊言，\n妳應該可以說得更高明吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "神宮你明白的吧？\n對我而言，最重要的事情是……",
+      "Text": "神宮應該也很清楚吧。\n我最重視的事物是什麼……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "完成我的使命。\n我並不認為這是『自我犧牲』什麼的，\n反而覺得這是種無上的榮譽哦。",
+      "Text": "我是衷心想完成自己的職責，\n這不能算是「自我犧牲」，\n並不是那麼美好的事情。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……不愧是殿下啊。\n還有說這種哲學道理的閒情逸致呢。",
+      "Text": "……不愧是殿下呢，\n居然還有餘裕跟人討論哲學。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "然後，各種思緒就在你腦子裡攪成一團，\n理也理不清，想也想不通。\n你丫什麼都不能割捨嗎？",
+      "Text": "不過，妳原本打算在心裡做個了斷，\n卻漂亮地失敗了吧。\n妳根本就無法看開吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "……啊。",
+      "Text": "……唔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "女王杯的時候你就感覺到了吧。\n比賽真的很有意思。",
+      "Text": "妳在女王盃體驗到了\n競賽真正的有趣之處。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "那你有沒有這樣想過呢──\n使命什麼的怎麼樣都好，我只想繼續奔跑下去什麼的。",
+      "Text": "妳當時應該有這種感覺。\n──使命什麼的根本無關緊要，\n想一直在這裡跑下去……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "……神宮，請不要這麼說。",
+      "Text": "……神宮，別說了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "你與生俱來的本能，\n被你用理性強行壓制了吧。\n所以現在根本沒法集中精神跑步。",
+      "Text": "但妳想靠理性，\n強制壓抑這樣的本能，\n所以才變得不想跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "因為不能集中精神，所以也沒法進步。\n……你明明可以變得更強的！",
+      "Text": "無法集中精神，跑不出好成績。\n……明明妳還能跑得更快！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -223,7 +223,7 @@
     },
     {
       "Name": "空中神宮",
-      "Text": "你跟訓練員說這事兒沒有？\n算了。反正你肯定什麼都沒跟他說吧。",
+      "Text": "喂，妳有找訓練員商量嗎？\n反正妳一定什麼都沒說吧。",
       "ChoiceDataList": [
         "（……！）"
       ],
@@ -231,127 +231,127 @@
     },
     {
       "Name": "空中神宮",
-      "Text": "在申請讓你和我模擬比賽的那天，\n那傢伙就已經做好覺悟了。",
+      "Text": "從找我和妳比模擬賽的那天開始，\n他就已經徹底做好覺悟。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "如果就連「想放棄了」這種事情都不跟他商量的話，\n那傢伙做你的訓練員還有什麼意義啊。",
+      "Text": "即使會是一個棘手的難題，\n但如果不把這個難題推給他，\n那讓他當妳的訓練員有什麼意義。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "……是呢。\n可能……的確如此。",
+      "Text": "……的確。\n或許就跟妳說的一樣。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "私は、あの方に……ちゃんと、\r\n頼ることができていないのかもしれない。",
+      "Text": "或許我……\n還沒有真正地依賴那個人。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "那你丫──",
+      "Text": "既然如此──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "但是呢，神宮。\n我不能再給他添負擔了。",
+      "Text": "不過神宮。\n我沒辦法……再更依賴他了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "爲了我，\n訓練員已經揹負了太多。",
+      "Text": "為了我，\n訓練員已經背負得夠多了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "その覚悟に今以上には甘えたくない。\r\nそれに……。",
+      "Text": "我不想再進一步依賴他的覺悟了。\n而且……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "我必須要學會獨自前行。\n……因為我也會離開大家。",
+      "Text": "我必須獨自壓抑這份心情才行。\n……這也是為了未來著想。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "嘁……你盡會意氣用事！",
+      "Text": "嘖……真是個死腦筋！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "神宮，等等……！\n謝謝你關心我！",
+      "Text": "神宮，等等……！\n謝謝妳替我擔心！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……我做的一切，都是爲了我自己。\n和你丫不一樣。",
+      "Text": "……我所做的一切，全都是為了自己。\n跟妳不一樣。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "如果……我是說，如果。\n你能夠超越你的數據，改變命運的話，我──",
+      "Text": "如果……如果妳能夠。\n推翻我的資料，或許能改變什麼──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……就這樣。",
+      "Text": "……就只是這樣而已。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "……數據的事情我不清楚啦。\n不過我覺得，我們並沒有什麼不同。",
+      "Text": "……我不懂資料。\n不過，我覺得妳和我沒什麼不同。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "因為在我們第一次見面的時候，我就有種感覺。\n這個人總有一天會需要我。",
+      "Text": "因為我從第一次見到妳時就知道了。\n這個人總有一天，一定會需要我。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "──所以，我必須待在你的身邊才行。",
+      "Text": "──所以，我必須待在她身邊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……嘁！\n你啊，到底有多傲慢啊……！",
+      "Text": "……唔！\n妳這傢伙，真是傲慢……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "哼哼，好像是呢。\n我不僅很傲慢，還特別頑固哦。",
+      "Text": "呵呵，好像是這樣。\n我既傲慢，又非常頑固。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……那，假如說……\n我拜託你的話，你就會繼續奔跑了嗎？",
+      "Text": "……假如，我是說假如。\n如果我拜託妳……妳會繼續跑嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "如果我說，我需要你呢？\n你會成為我的神明嗎？",
+      "Text": "如果我說需要妳這麼做呢？\n妳會願意成為我的神明嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -363,25 +363,25 @@
     },
     {
       "Name": "空中神宮",
-      "Text": "……算了。\n……忘了我剛剛說的話！",
+      "Text": "……唔。\n……忘了我說的話吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "對不起呢，神宮。\n我愛著我的命運哦。",
+      "Text": "抱歉，神宮。\n我深愛自己的命運。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "……我……必須要愛我的命運才行。",
+      "Text": "……我必須愛它才行。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "她獨自一人佇立著。\n如果她真的開口向我求助的話──\n那便是，將我們的第一個誓約付諸實現的那一天。",
+      "Text": "她現在仍想獨立面對一切。\n但如果她之後需要我的協助──\n到時候，我就會履行最初的誓言。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

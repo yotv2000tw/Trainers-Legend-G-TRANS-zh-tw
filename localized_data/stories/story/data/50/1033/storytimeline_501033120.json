@@ -1,5 +1,5 @@
 {
-  "Title": "繁星閃爍的蒼穹",
+  "Title": "名為九九世代的明星們",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,13 +9,13 @@
     },
     {
       "Name": "電視的聲音",
-      "Text": "『——說到給大家留下最深刻印象的世代，\r\n你心中浮現出了哪些馬孃的模樣呢？』",
+      "Text": "「──說到讓您印象最深刻的賽馬娘世代，\n您的腦中會浮現哪幾位賽馬娘呢？」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "電視的聲音",
-      "Text": "『永世三強。BNW。黃金世代。\r\n迄今為止，各種各樣的賽馬娘們，\r\n都創造了獨屬於自己的，嶄新的時代。』",
+      "Text": "「永世三強、BNW、黃金世代。\n過去也曾有好幾位充滿特色的賽馬娘，\n各自描繪出鮮明的時代。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "永世三強",
@@ -24,7 +24,7 @@
     },
     {
       "Name": "電視的聲音",
-      "Text": "『那麼，這次我要介紹的是，\r\n在這閃耀・系列中大放異彩，\r\n光芒奪目的四顆星星——』",
+      "Text": "「而今天要為您介紹的，\n就是目前正在閃耀系列賽中大放光彩的，\n四顆閃耀的明星──」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -36,70 +36,70 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "你現在有空——",
+      "Text": "你有空嗎──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "啊……你在看電視嗎？",
+      "Text": "啊……你在看電視？",
       "ChoiceDataList": [
-        "沒事。怎麼了嗎？",
-        "沒事。怎麼了嗎？"
+        "沒關係，我有空。怎麼了嗎？",
+        "沒關係，我有空。怎麼了嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我來申請並跑訓練。",
+      "Text": "有人提出想跟我並行練跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "和……",
+      "Text": "其實是──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "？？？",
-      "Text": "拜拜拜拜託了！！！",
+      "Text": "請請請請、請多指教了！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "那個那個……我、我……我的本格化……\r\n那個……好像比大家晚了很多……\r\n這樣下去的話……就沒法步入古馬級戰線了……",
+      "Text": "那個那個……我、我啊……\n巔峰期來得……比大家都晚……\n一直遲遲無法挑戰經典賽戰線……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "所以……就、就是那個……！\r\n我、我還想盡情地和愛織同學一起奔跑！",
+      "Text": "所……所以……不過！從、從今以後！\n我想一直跟織姬一起比賽！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "想……更盡情地、一起奔跑……",
+      "Text": "我想一直……一直跑下去。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "所以……呃……這個……唔……\r\n果然……不行嗎……",
+      "Text": "所、所以……那個那個……請問……\n織姬……妳不願意嗎……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我——",
+      "Text": "我──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……我其實也……想和你一起，盡情奔跑。",
+      "Text": "……我也覺得……\n想跟妳……一直跑下去。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -111,21 +111,21 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "倒也……不是不行。\r\n……你覺得怎麼樣？訓練員？",
+      "Text": "我願意啊。\n……這樣可以嗎？訓練員。",
       "ChoiceDataList": [
-        "沒問題！去吧！"
+        "當然好！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "就這樣，我們與名將怒濤一起，\r\n走向了操場——",
+      "Text": "於是我們跟著名將怒濤\n一起前往操場──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "哎、哎呀……？那個、那個……\r\n在那邊無聲地放出存在感的那位，\r\n難道是……！！",
+      "Text": "奇、奇怪……？那個那個，\n站在那邊靜靜地閃閃發光，\n散發著存在感的……該不會是……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -137,118 +137,118 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "你在這兒做什麼啊，好歌劇。",
+      "Text": "……妳在這裡做什麼？好歌劇。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "哈哈哈哈哈哈哈！！\r\n是你在呼喚我嗎？！",
+      "Text": "哈──哈哈哈！！\n妳是否呼喊了我的名字！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "來吧，不必隱藏自己的心聲！",
+      "Text": "但我是否不該出聲回應，是否該隱藏自己的行蹤？\n免得──說個玩笑，免得我因為能與妳相逢\n而開心得倒下！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……突然湊這麼近……你幹什麼啊……",
+      "Text": "妳都主動貼得這麼近了，\n事到如今還胡說什麼……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "什麼嘛，這不滿心皆是歡喜的歌唱聲嗎！\r\n那麼、愛織同學、怒濤！",
+      "Text": "沒什麼，我不過是在哼唱一首滿溢喜悅的歌！\n更重要的是，織姬、怒濤！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "——奔跑吧。與我奔跑吧。與眾人一同奔跑吧！\n新馬級也好、經典級也好、古馬級也好……\n從今以後，也一起奔跑吧！",
+      "Text": "──奔跑吧。我也會一起。一起奔跑吧！\n無論是新手級、經典級，還是資深級，\n今後也永遠一直跑下去吧！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "能一起共度這三年……不，更為久遠的時間——\r\n我真是感到無上的榮幸，愛織同學！",
+      "Text": "能與妳們一同度過這三年──\n以及比三年更長久的時光，光想到這點，\n我就開心得幾乎無法歌唱了呢，織姬。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……是嗎，",
+      "Text": "……這樣啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……嘛，也是呢——",
+      "Text": "……嗯，是啊──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "即便是在世紀末戴上桂冠的尊貴霸王，\r\n也只能看著我的背影……\r\n確實還挺讓人開心的。",
+      "Text": "妳可是稱霸世紀末的偉大霸王，一想到能\n從背後超越妳……我也覺得滿開心的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "哈哈哈哈哈哈！\n要讓我只能看見你的背影嗎？\n試試看吧——一等星的你啊！",
+      "Text": "哈哈哈哈！\n我等著看──妳真的能超越我嗎？\n一等星啊，讓我看看妳的能耐吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "那位好歌劇也加入了並跑訓練。\r\n大家一起剛剛完成準備運動后——",
+      "Text": "就這樣，好歌劇也加入一起練跑的行列，\n正當做完熱身運動時──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "？？？",
-      "Text": "啊啊！\r\n難道，大家現在準備並跑訓練嗎？",
+      "Text": "啊啊！各位，\n妳們該不會正要並行練跑吧……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "哦呀！哈哈哈哈！這個聲音是——！！",
+      "Text": "唉呀！哈哈哈，聽這聲音──！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "那個……雖然看起來馬上就要開始了……\n現在再加一個人……不會添麻煩吧……？",
+      "Name": "成田速王",
+      "Text": "呃，妳們已經要起跑了對吧？\n要是現在臨時多加一個人……\n應該會給妳們添麻煩……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "說是這麼說……但成田路的臉上，卻寫滿了\r\n『我想跑！』這幾個字。\r\n我也只能笑著點頭答應。",
+      "Text": "雖然成田速王嘴上這麼說，\n但看她滿臉寫著「我也想一起跑！」……\n我不禁笑著回答她。",
       "ChoiceDataList": [
-        "不會添麻煩哦。對吧，愛織？",
-        "不會添麻煩哦。對吧，愛織？"
+        "還來得及。對吧？",
+        "還來得及。對吧？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……成田路同學也來了啊。",
+      "Text": "……連妳也這樣啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "因為是能和愛織同學你們一起跑步的機會嘛！\r\n我可不想錯過！",
+      "Name": "成田速王",
+      "Text": "因為！要是有機會能跟織姬妳們比賽，\n那我當然不想錯過啊……!",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "畢竟我已經決定要努力掙扎了嘛！\r\n而且——",
+      "Name": "成田速王",
+      "Text": "我下定決心了，要厚臉皮地死命跟上妳們。\n而且──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -259,92 +259,92 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
+      "Name": "成田速王",
       "Text": "…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "——我不想輸。\r\n不僅僅是我想要繼續取得勝利……",
+      "Name": "成田速王",
+      "Text": "──還有，因為我不想輸。\n我自己當然不想輸……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "『我們大家』，也要一起贏下去哦！",
+      "Name": "成田速王",
+      "Text": "此外，我也希望「我們」能一起一直贏下去！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "跑起來吧，愛織同學！\n我這次可不會輸哦！",
+      "Name": "成田速王",
+      "Text": "來比賽吧，織姬！\n我不會輸的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……這是我的臺詞。",
+      "Text": "……那是我的台詞。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "接著——她們猛地奔跑了起來。\r\n我目送著那耀如明星般的四個背影逐漸遠去。",
+      "Text": "接著，我目送著她們神采奕奕地跨步飛奔，\n那四個背影在我眼裡看來十分耀眼。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "電視的聲音",
-      "Text": "『好歌劇。名將怒濤，成田路。\r\n以及——愛慕織姬。』",
+      "Text": "「好歌劇。名將怒濤。\n成田速王。以及──\n愛慕織姬。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "電視的聲音",
-      "Text": "『在賽場上閃耀的四顆星星，\r\n想必今後也能夠繼續照亮整個時代——』",
+      "Text": "「這四顆明星至今仍在賽場上持續綻放光芒，\n今後她們仍會繼續發光，\n照亮整個時代吧──」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "？？？",
-      "Text": "拜拜拜拜託了！！！",
+      "Text": "請請請請、請多指教了！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "那個那個……我、我……我的本格化……\r\n那個……好像比大家晚了很多……\r\n這樣下去的話……就沒法步入古馬級戰線了……",
+      "Text": "那個那個……我、我啊……\n巔峰期來得……比大家都晚……\n一直遲遲無法挑戰經典賽戰線……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "所以……就、就是那個……！\r\n我、我還想盡情地和愛織同學一起奔跑！",
+      "Text": "所……所以……不過！從、從今以後！\n我想一直跟織姬一起比賽！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "想……更盡情地、一起奔跑……",
+      "Text": "我想一直……跟妳一起跑下去。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "所以……呃……這個……唔……\r\n果然……不行嗎……",
+      "Text": "所、所以……那個那個……請問……\n織姬……妳不願意嗎……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我——",
+      "Text": "我──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……我其實也……想和你一起，盡情奔跑。",
+      "Text": "……我也覺得……\n想跟妳……一直跑下去。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -356,21 +356,21 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "倒也……不是不行。\r\n……你覺得怎麼樣？訓練員？",
+      "Text": "我願意啊。\n……這樣可以嗎？訓練員。",
       "ChoiceDataList": [
-        "沒問題！去吧！"
+        "當然好！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "就這樣，我們與名將怒濤一起，\r\n走向了操場——",
+      "Text": "於是我們跟著名將怒濤\n一起前往操場──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "哎、哎呀……？那個、那個……\r\n在那邊無聲地放出存在感的那位，\r\n難道是……！！",
+      "Text": "奇、奇怪……？那個那個，\n站在那邊靜靜地閃閃發光，\n散發著存在感的……該不會是……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -382,121 +382,121 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "你在這兒做什麼啊，好歌劇。",
+      "Text": "……妳在這裡做什麼？好歌劇。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "哈哈哈哈哈哈哈！！\r\n是你在呼喚我嗎？！",
+      "Text": "哈──哈哈哈！！\n妳是否呼喊了我的名字！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "來吧，不必隱藏自己的心聲！",
+      "Text": "但我是否不該出聲回應，是否該隱藏自己的行蹤？\n免得──說個玩笑，免得我因為能與妳相逢\n而開心得倒下！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……突然湊這麼近……你幹什麼啊……",
+      "Text": "妳都主動貼得這麼近了，\n事到如今還胡說什麼……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "什麼嘛，這不是滿心歡喜的歌唱聲嗎！\n那麼、愛織同學、怒濤！",
+      "Text": "沒什麼，我不過是在哼唱一首滿溢喜悅的歌！\n更重要的是，織姬、怒濤！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "——奔跑吧。與我奔跑吧。與眾人一同奔跑吧！\n新馬級也好、經典級也好、古馬級也好……\n從今以後，也一起奔跑吧！",
+      "Text": "──奔跑吧。我也會一起。一起奔跑吧！\n無論是新手級、經典級，還是資深級，\n今後也永遠一直跑下去吧！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "能一起共度這三年……不，更為久遠的時間——\r\n我真是感到無上的榮幸，愛織同學！",
+      "Text": "能與妳們一同度過這三年──\n以及比三年更長久的時光，光想到這點，\n我就開心得幾乎無法歌唱了呢，織姬。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……是嗎，",
+      "Text": "……這樣啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……嘛，也是呢——",
+      "Text": "……嗯，是啊──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "即便是在世紀末戴上桂冠的尊貴霸王，\r\n也只能看著我的背影……\r\n確實還挺讓人開心的。",
+      "Text": "妳可是稱霸世紀末的偉大霸王，一想到能\n從背後超越妳……我也覺得滿開心的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "哈哈哈哈哈哈！\n要讓我只能看見你的背影嗎？\n試試看吧——一等星的你啊！",
+      "Text": "哈哈哈哈！\n我等著看──妳真的能超越我嗎？\n一等星啊，讓我看看妳的能耐吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "「世紀末霸王」好歌劇這麼說著，\r\n露出了強勢的笑容。",
+      "Text": "說完後，「世紀末霸王」好歌劇\n爽朗地露出強勢的笑容。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "感受到來自愛慕織姬的視線，\r\n我將好歌劇的名字也加入並跑名單之中。",
+      "Text": "我接收到愛慕織姬用眼神對我示意，\n於是也把好歌劇的名字\n寫進並行練跑的成員名單。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "？？？",
-      "Text": "拜拜拜拜託了！！！",
+      "Text": "請請請請、請多指教了！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "那個那個……我、我……我的本格化……\r\n那個……好像比大家晚了很多……\r\n這樣下去的話……就沒法步入古馬級戰線了……",
+      "Text": "那個那個……我、我啊……\n巔峰期來得……比大家都晚……\n一直遲遲無法挑戰經典賽戰線……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "所以……就、就是那個……！\r\n我、我還想盡情地和愛織同學一起奔跑！",
+      "Text": "所……所以……不過！從、從今以後！\n我想一直跟織姬一起比賽！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "想……更盡情地、一起奔跑……",
+      "Text": "我想一直……跟妳一起跑下去。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "所以……呃……這個……唔……\r\n果然……不行嗎……",
+      "Text": "所、所以……那個那個……請問……\n織姬……妳不願意嗎……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我——",
+      "Text": "我──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……我其實也……想和你一起，盡情奔跑。",
+      "Text": "……我也覺得……\n想跟妳……一直跑下去。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -508,21 +508,21 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "倒也……不是不行。\r\n……你覺得怎麼樣？訓練員？",
+      "Text": "我願意啊。\n……這樣可以嗎？訓練員。",
       "ChoiceDataList": [
-        "沒問題！去吧！"
+        "當然好！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我關掉電視，跟著二人離開了訓練員室。",
+      "Text": "兩人動身前往操場。我也關掉電視，\n跟在她們身後離開訓練員室。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "望著愛慕織姬與勁敵一同奔跑時，\r\n露出滿足笑容的側臉——\r\n我真心祈願著，她的笑容能一直持續下去。",
+      "Text": "同時祈禱著，\n希望今天當她跟勁敵同時飛奔而出時，\n那張側臉也能洋溢著喜悅之情……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

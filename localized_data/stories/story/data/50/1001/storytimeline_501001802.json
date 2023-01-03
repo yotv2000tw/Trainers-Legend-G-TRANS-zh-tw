@@ -9,13 +9,13 @@
     },
     {
       "Name": "",
-      "Text": "某天，\n特別週找我來海邊……",
+      "Text": "某天，我受到特別週所託，\n而跟她一起來到海邊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "訓練員！\n是這邊，請往這邊走！",
+      "Text": "訓練員！\n在這邊，請往這邊走！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -55,25 +55,25 @@
     },
     {
       "Name": "特別週的母親",
-      "Text": "因為妳……\n說想要見另一個媽媽啊。",
+      "Text": "因為……\n妳說想要見另一個媽媽啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "年幼的特別週",
-      "Text": "可是，\n我的另一個媽媽已經……",
+      "Text": "可是，另一個媽媽她……\n已經……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週的母親",
-      "Text": "以前我和妳媽媽有煩惱的時候，\n經常會來這座海灘聊天……",
+      "Text": "以前我和妳媽媽，\n常常會來這座海灘互相訴說彼此的煩惱……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週的母親",
-      "Text": "即使到了現在，我只要一感到迷惘，\n就會來這裡向她傾訴。",
+      "Text": "所以即使到了現在，我只要一感到迷惘，\n就會來這裡向她傾訴。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -85,7 +85,7 @@
     },
     {
       "Name": "特別週的母親",
-      "Text": "沒錯，\n即使看不見她的身影……\n我還是能感覺到她來了。",
+      "Text": "沒錯。即使看不見她的身影，\n但她確實來到了我面前……\n我能感覺得到……雖然只是種感覺。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -97,9 +97,9 @@
     },
     {
       "Name": "特別週",
-      "Text": "……在那之後，我只要有話\n想和另一個媽媽說，就會來海邊。",
+      "Text": "……在那之後，我只要有話想和另一個媽媽說，\n就會來海邊。",
       "ChoiceDataList": [
-        "今天是要報告什麼？"
+        "那妳今天想報告什麼？"
       ],
       "ColorTextInfoList": []
     },
@@ -117,55 +117,55 @@
     },
     {
       "Name": "特別週",
-      "Text": "即使是在這裡介紹，\n我的另一個媽媽也一定會聽的！",
+      "Text": "即使是在這裡介紹，\n相信另一個媽媽一定也會聽到的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "好～要開始囉～！",
+      "Text": "好～那麼，我要開始囉～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "媽媽──！！\n這個人就是我的訓練員！！",
+      "Text": "媽媽──！！\n這個人就是我的訓練員喔──！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "他溫柔又聰明！\n是個支持我實現夢想的，\n最棒的訓練員──！！",
+      "Text": "他很溫柔！又很聰明！\n是個支持我實現夢想的，\n最棒的訓練員──！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "媽媽──！\n我很慶幸自己來到了特雷森學園──！",
+      "Text": "媽媽──！\n我能來到特雷森學園，真的太好了──！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "呼～總算報告完畢。\n不曉得媽媽會不會替我開心。",
+      "Text": "呼～總算報告完畢了。\n不曉得媽媽會不會替我開心。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "啊，對了。\n不介意的話，訓練員也來說些話吧！",
+      "Text": "啊，對了。如果你願意，\n請訓練員也向她說句話吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "我的另一個媽媽，\n應該也很想和你說話！",
+      "Text": "我的另一個媽媽，\n應該也很想和你說說話！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "對特別週的另一個媽媽，\n我該向她傳達的，當然只有一句話──",
+      "Text": "我應該向特別週的另一個媽媽傳達的話，\n只有一句──",
       "ChoiceDataList": [
         "我會讓您的女兒成為日本第一！",
         "我會讓您的女兒變成日本第一！"
@@ -207,13 +207,13 @@
     },
     {
       "Name": "特別週",
-      "Text": "雖、雖然飯菜很好吃的時候，\n我可能會多吃一點……",
+      "Text": "雖、雖然飯菜很好吃的時候，\n我可能會不小心多吃一點……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "唉……明明媽媽曾經說過\n我的另一個媽媽食量很小。",
+      "Text": "唉……明明媽媽曾經告訴我，\n另一個媽媽食量很小的說。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -225,7 +225,7 @@
     },
     {
       "Name": "特別週",
-      "Text": "啊！？難道是因為我的另一個媽媽吃太少，\n我才會反過來吃太多嗎！？",
+      "Text": "啊！？難道是因為另一個媽媽吃太少，\n所以才導致我總是吃太多嗎！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -237,7 +237,7 @@
     },
     {
       "Name": "特別週",
-      "Text": "媽媽！！\n我會連妳的份一起多吃一點──！！",
+      "Text": "媽媽──！！\n我會連妳的份一起多吃一點的──！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -249,13 +249,13 @@
     },
     {
       "Name": "",
-      "Text": "特別週的吶喊在海面迴響。\n她的另一個媽媽\n以後一定也會繼續守護她。",
+      "Text": "特別週的吶喊響徹了整片海。\n相信她的另一個媽媽，\n以後肯定也會繼續守護她吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "這樣簡直像是在說我很冒失，\n經常受傷一樣！",
+      "Text": "這樣簡直像是在說我很迷糊，\n經常受傷一樣！",
       "ChoiceDataList": [
         "…………"
       ],
@@ -263,31 +263,31 @@
     },
     {
       "Name": "特別週",
-      "Text": "為什麼要移開視線！？\n我一點都不冒失啦！",
+      "Text": "為什麼要移開視線！？\n我可一點都不迷糊喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "雖然有時候\n或許會有點笨拙……",
+      "Text": "雖然有時候\n或許會有點呆呆的啦……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "啊！？該不會我的冒失，\n其實是遺傳自另一個媽媽！？",
+      "Text": "啊！？該不會我的迷糊，\n其實是遺傳自另一個媽媽！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "（海浪拍擊──！！）",
+      "Text": "（涮涮────！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "此時，\n一道突然變大的浪襲向特別週。",
+      "Text": "此時，突然一道大浪襲向特別週。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -295,20 +295,20 @@
       "Name": "特別週",
       "Text": "呀啊！？",
       "ChoiceDataList": [
-        "大概是惹她生氣了",
-        "大概是惹她生氣了"
+        "會不會是惹她生氣了？",
+        "會不會是惹她生氣了？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "不會吧，媽媽，對不起──！！",
+      "Text": "不會吧，媽媽，對不起啦────！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "特別週道歉的大吼在海面迴響，\n不曉得是偶然還是錯覺……\n感覺海浪稍微變得平穩了。",
+      "Text": "特別週大聲喊出的道歉響徹整片海。\n不曉得是偶然，還是錯覺……\n海浪似乎真的變得稍微平穩了些。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

@@ -1,0 +1,391 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "黃昏時分。我和曼哈頓咖啡\n邊躲著落日餘暉邊走在街上──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……訓練員，\n前面……有很多人……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，是好玩的抽獎活動喔！\n那邊那位訓練員，\n要不要來抽抽看啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……抽獎……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "哎唷，原來還有同伴啊！？\n小、小姐也可以來抽抽看喔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我看向自己的右手……\n手裡握著一張抽獎券，\n但我卻不記得自己有去拿……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "那個……要不要抽抽看呢……？\n我想這應該也是某種機緣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "催促之下，我們一起握住了握把。\n轉動了如命運齒輪般的抽獎機！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "溫泉……旅遊券……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "溫泉……去山裡的旅館泡溫泉，\n然後……然後……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "…………直接睡覺？",
+      "ChoiceDataList": [
+        "沒有啊，還會一起吃飯聊天什麼的",
+        "沒有呀，還會一起吃飯聊天什麼的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "說得……也是……\n不是一個人的話，的確還能一起做這些事。",
+      "ChoiceDataList": [
+        "妳就和「朋友」去吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……和「朋友」去？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "「朋友」不需要用到票券吧？\n你在說什麼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "曼哈頓咖啡用詫異的眼神看著我。\n在我要把票券交給她的時候……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "票券突然從我手中消失！\n到底是去哪裡了……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "謝謝……\n你是要負責保管吧。\n直到我們有空去的那天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "要小心不要搞丟喔。\n雖然搞丟了……\n應該還是會自動回到口袋裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "「溫泉旅遊券」\n不知不覺收在了口袋裡。\n就細心保管好這張幸運票券吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "「特等胡蘿蔔漢堡排」……\n抽中了很不錯的東西呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "訓練員，你看。\n漢堡排上還插著一根紅蘿蔔喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "呵呵，真是可愛。\n就好像──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "山丘上的「墓碑」一樣。\n一座某人……遭到遺忘的墳墓。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "我們就帶著敬意吃吧。\n不知道埋在裡面的是怎樣的人呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然嘴裡說著很不合理的事情，\n但曼哈頓咖啡看起來很開心的樣子。\n之後我們一起享用了這份獎品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "紅蘿蔔……量非常多呢……\n拿到雖然是很開心沒錯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "但是吃這麼多會消化不良吧……\n訓練員，\n還是我們明天再吃？",
+      "ChoiceDataList": [
+        "為什麼要等明天？",
+        "為什麼要等明天呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "有時候東西放著放著不是會變少嗎？\n等到變少之後，\n應該就會是剛好能吃下的分量了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……我是說了什麼奇怪的話嗎？",
+      "ChoiceDataList": [
+        "沒、沒有……",
+        "沒、沒有喔……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是便如她要求，隔天一起享用紅蘿蔔。\n我沒能鼓起勇氣……去數紅蘿蔔的數量。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "只有一根……紅蘿蔔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "啊，但也沒什麼好覺得可惜的。\n我聽過一個寓言故事……",
+      "ChoiceDataList": [
+        "什麼樣的寓言故事？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "村民們在一根紅蘿蔔上許願並種下，\n結果發生不可思議的事……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "紅蘿蔔的根在土裡蔓延散開，\n從村子的各種地方長出了紅蘿蔔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "村民們見狀都非常欣喜，但是長出來的\n紅蘿蔔怎麼也吃不完，不停地生長──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "後來，整個村落都長滿了紅蘿蔔，\n向上堆疊得像座尖塔般衝上雲霄，然後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "這根紅蘿蔔……我們回去後要種在田裡嗎？\n還是直接吃掉呢？",
+      "ChoiceDataList": [
+        "吃掉吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我們急忙將紅蘿蔔分成兩半吃掉。\n雖然不夠我們吃飽，卻有種得救的感覺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "衛生紙……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……要燒掉嗎？",
+      "ChoiceDataList": [
+        "不要燒"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "那要賦予它生命讓它動起來嗎？",
+      "ChoiceDataList": [
+        "不、不用啦……",
+        "不、不用啦……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……這樣啊。\n那就只是普通的衛生紙了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "使用之後……就會丟掉……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "曼哈頓咖啡……是感到很失望嗎？\n從她的表情中，\n看到了一絲無法言喻的憂鬱。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

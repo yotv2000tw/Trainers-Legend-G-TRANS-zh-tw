@@ -1,5 +1,5 @@
 {
-  "Title": "きらり、パーティクル",
+  "Title": "閃亮粒子",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,93 +9,93 @@
     },
     {
       "Name": "",
-      "Text": "在我以新人訓練員的身份進入特雷森學園以來，已經過去一段時間了。\r\n從今天開始，我的工作也將邁向嶄新的階段……！",
+      "Text": "以新人訓練員之姿進入特雷森學園已過了一段時間。\n今天終於要展開新的生活……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "初次見面，<username>訓練員。\r\n你馬上就要就任於我的隊伍了呢，我是這支隊伍的首席訓練員。",
+      "Name": "主要訓練員",
+      "Text": "你好，<username>訓練員。\n你從今天起隸屬於本團隊，我是主要訓練員。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "如你所見，雖然我也年事已高，能就任訓練員的時間應該也不太長……\r\n但還是請你多多關照了，副訓練員。",
+      "Name": "主要訓練員",
+      "Text": "一看也知道，我的年紀已經很大了，或許沒有多久時間\n能傳授經驗給你……還是希望你這個附屬訓練員多多指教了。",
       "ChoiceDataList": [
-        "好的，請多關照！"
+        "是，就麻煩你了！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "呵呵呵，答得不錯呢。我很期待你的表現，你可要加油哦？\r\n其實我呀，就是想看看你以後的成長如何才選你入隊的。",
+      "Name": "主要訓練員",
+      "Text": "呵呵呵，很棒的回答。我很看好你，好好加油喔。\n其實我非～常仔細地觀察過你才做出選擇的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "那就事不宜遲——\r\n來見見咱們最重要的賽馬娘吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "學園的新人訓練員們，往往都會以副訓練員的身份加入一支隊伍，\r\n一邊輔助首席訓練員的工作一邊積累經驗，直到能夠獨當一面。",
+      "Name": "主要訓練員",
+      "Text": "那麼，事不宜遲──\n馬上去見見我們重要的賽馬娘吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "這次將我選作副訓練員的是一位資歷相當老的訓練員。\r\n她的簽約賽馬娘是——",
+      "Text": "隸屬於學園的新人，會以附屬訓練員的身分協助\n老手所帶領的團隊，這樣也可以在獨當一面前先累積經驗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這次接受我當附屬的團隊是\n大前輩的主要訓練員。專任賽馬娘則是──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "哈……哈……訓練內容都已經完成了，訓練員。\r\n請給我接下來的指示！",
+      "Text": "呼、呼……訓練項目做完了，訓練員。\n請給我下一個指示！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "辛苦啦，小鈴鐺。接下來就是並跑訓練了……在此之前，還有件事。\r\n——他就是之前我跟你提到過的副訓練員。\r\n（小鈴鐺：多伯名為ドーベル，取後半做暱稱即鈴鐺ベル）",
+      "Name": "主要訓練員",
+      "Text": "辛苦了，小多。接下來要並行練跑……開始前可以給我點時間嗎？\n──他就是我之前跟妳提過的訓練員。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "辛苦啦，小鈴鐺。接下來就是並跑訓練了……在此之前，還有件事。\r\n——她就是之前我跟你提到過的副訓練員。\r\n（小鈴鐺：多伯名為ドーベル，取後半做暱稱即鈴鐺ベル）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "……您好。",
+      "Name": "主要訓練員",
+      "Text": "辛苦了，小多。接下來要並行練跑……開始前可以給我點時間嗎？\n──她就是我之前跟妳提過的訓練員。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "啊……您好。呃……請您多多指教了。",
+      "Text": "……你好。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "副訓練員，我再介紹一次吧。她是小鈴鐺……\r\n目白多伯哦。她可是我們隊伍裡最重要最重要的賽馬娘。",
+      "Name": "目白多伯",
+      "Text": "啊……好的。那個，請多多指教。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "副訓練員，我再介紹一次吧。她是小鈴鐺……\r\n目白多伯哦。她可是我們隊伍裡最重要最重要的賽馬娘。",
+      "Name": "主要訓練員",
+      "Text": "附屬訓練員，正式向你介紹，她就是小多……\n目白多伯喔。是我們團隊捧在手心上的賽馬娘。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "她大概是我最後一位簽約賽馬娘了吧。\r\n如你所見，我也已經是個老太婆啦。",
+      "Name": "主要訓練員",
+      "Text": "附屬訓練員，正式向妳介紹，她就是小多……\n目白多伯喔。是我們團隊捧在手心上的賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主要訓練員",
+      "Text": "對我來說，她或許是我最後的專任賽馬娘吧。\n畢竟如你所見，我已經是個年紀很大的老奶奶了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -106,103 +106,103 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "哎呀對不起，沒事的啦小鈴鐺！\r\n我還精神得很呢，不用露出那麼一副寂寞的表情啦。",
+      "Name": "主要訓練員",
+      "Text": "哎呀，真抱歉，沒關係的喔，小多！\n我現在還是老當益壯，別露出那麼傷心的表情。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "氣槽",
-      "Text": "——失禮了。\r\n我是這次並跑訓練的對手，現在可以開始了嗎？",
+      "Text": "──打擾了。\n我是來當並行練跑的對手的，差不多可以開始了嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "嗯嗯，當然可以啦！謝謝你願意參與我們的訓練啦，氣槽同學。\r\n小鈴鐺，準備好了嗎？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "嗯……！\r\n前輩，請您多多關照了！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "就這樣，目白多伯與氣槽的並跑訓練開始了！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "這次並跑訓練的對手，是享有“女帝”之美譽的氣槽。\r\n是一位母女都曾稱霸GⅠ『橡樹大賽』的強者。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "另一方面，目白多伯則是尚未出道的賽馬娘。\r\n我原以為她只要能不被氣槽甩開太多就好了，然而——！",
+      "Name": "主要訓練員",
+      "Text": "嗯，當然可以！氣槽，謝謝妳來。\n小多，妳準備好了嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "哈、哈、哈…………哈啊啊啊啊啊！！",
+      "Text": "好了……！\n前輩，請多多指教！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是，目白多伯與氣槽兩人的\n並行練跑開始了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "並行練跑的對手是「女帝」呼聲高漲的氣槽。\n母女兩個世代稱霸GⅠ「奧克斯」的強者。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目白多伯則是尚未出道，\n原本以為光是跟上就很吃力了──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "呼、呼、呼……喝啊啊啊啊啊啊啊！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "氣槽",
-      "Text": "……！哼，還挺強的嘛……！！",
+      "Text": "……！呵，不錯嘛……！！",
       "ChoiceDataList": [
-        "（剛才那樣的加速……！）"
+        "（剛剛的加速……！）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "她渾身的動作顯出美妙的躍動感，而這也為她的速度帶來極大提升。\r\n從她的奔跑中，我能感到所謂“天賜的才能”。而且不僅如此——",
+      "Text": "美麗躍動的身軀所創造出來的出色速度。\n令人感受到她天賦才能的表現。但不只如此──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "還差一點、就差一點……！！\r\n——啊啊啊啊啊啊！！",
+      "Text": "還沒、還沒喔喔喔！！\n──啊啊啊啊啊啊！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "直到決出勝負之前，決不放棄的毅力。\r\n她的這份意志宛如耀眼的光芒，在我心中留下了深刻的印象……！",
+      "Text": "直到最後都堅決不放棄，持續往前邁進的求勝意志力。\n這份意志的光芒在我心中留下深刻印象……！",
       "ChoiceDataList": [
-        "（目白多伯……好厲害的姑娘……！）",
-        "（目白多伯……好厲害的姑娘……！）"
+        "（目白多伯……真是厲害……！）",
+        "（目白多伯……真是厲害……！）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "哈、哈、哈……非常……感謝您……！",
+      "Text": "呼、呼、呼……真是謝謝妳……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "氣槽",
-      "Text": "沒事。不過……你還真厲害啊，多伯。\r\n剛才的那速度可真是了不得啊。",
+      "Text": "不客氣。話說回來……妳的實力有所增進呢，多伯。\n速度很出色。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "不，您過獎了……不管是位置的爭搶還是衝刺的時機，\r\n都還差得遠呢。我直到最後都沒能跑在前輩的前面呢。",
+      "Text": "不，過獎了……像是發動取位的時機等等，\n我還差得很遠。到頭來，連一次都沒有超越前輩……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "氣槽",
-      "Text": "哈哈，畢竟我也不會這麼輕易就讓步。\r\n不過我還是能切實地感覺到你就在我身後一步之遙哦。\r\n……你真是遇到了一個好訓練員啊。",
+      "Text": "哈哈，我不會輕易讓妳的。但的確有感覺到\n妳在我背後逼近喔……妳的訓練員很棒呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -214,57 +214,57 @@
     },
     {
       "Name": "目白多伯",
-      "Text": "我的水平還差得遠呢……但要是稍微進步了一小點的話，\r\n那也一定全都是訓練員的功勞。",
+      "Text": "我還是很弱……但如果稍微給人\n厲害的感覺，全都是訓練員的功勞。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "嗯嗯！小鈴鐺剛剛跑的很棒呢。",
+      "Name": "主要訓練員",
+      "Text": "嗯嗯！小多表現得很好呢。",
       "ChoiceDataList": [
-        "確實呢……！"
+        "就是說啊……！！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "哎呀真是的！呵呵，看看你自己那閃閃發光的眼神吧。\r\n……嗯，我就覺得你是會露出這種眼神的訓練員呢。",
+      "Name": "主要訓練員",
+      "Text": "哎呀！呵呵，眼睛閃閃發光。\n……嗯，我就知道你是會有這種眼神的訓練員。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "……小鈴鐺很厲害對吧。\r\n不管是她的心境還是身體能力，都能讓人感到滿滿的可能性呢。",
+      "Name": "主要訓練員",
+      "Text": "……小多很厲害對吧。\n身心都充滿著各種可能性。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "雖然我也很想繼續見證她這美好的未來，但——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "那個，訓練員！現在我體力還有剩，\r\n可以在身子冷下來之前先和前輩一起去外面跑跑嗎？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "首席訓練員",
-      "Text": "哎呀哎呀，小鈴鐺你也真是的，最近總是這副幹勁滿滿的樣子！\r\n是呢……只跑一圈的話就行啦。記得放慢步調哦？",
+      "Name": "主要訓練員",
+      "Text": "我雖然很想一直守護她光明的前程──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "好的，謝謝您。那我去啦！",
+      "Text": "那個，訓練員！我還有體力，\n可以跟前輩在外面跑到沒力為止嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "首席訓練員",
-      "Text": "……那麼，我們也差不多該收拾收拾了呢。",
+      "Name": "主要訓練員",
+      "Text": "哎呀，小多真是的，最近鬥志特別高昂！\n這個嘛，跑個一圈應該無妨吧。速度放慢一點喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "好的，謝謝妳。我去跑了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主要訓練員",
+      "Text": "……好了，我們就來進行事後的收拾吧。",
       "ChoiceDataList": [
         "好的。"
       ],
@@ -272,55 +272,55 @@
     },
     {
       "Name": "",
-      "Text": "那天我一邊幫著首席訓練員的忙，\r\n一邊在腦中不斷地回想著目白多伯的奔跑。",
+      "Text": "那天我就一再回味著目白多伯的精采表現，\n邊幫忙主要訓練員收拾……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "氣槽",
-      "Text": "唔……等等，多伯。",
+      "Text": "唔……等一下，多伯。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "在……？\r\n啊——",
+      "Text": "是……？\n啊──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "記者們",
-      "Text": "賴恩小姐！賴恩小姐！！\r\n目白賴恩小姐，請看這邊～！",
+      "Text": "雷恩！雷恩！\n目白雷恩，請看這邊～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "乙名史記者",
-      "Text": "目白賴恩小姐，您前段時間的表現非常活躍呢！\r\n有無數粉絲正期待著您的下次比賽，您現在心情如何？",
+      "Text": "之前也表現得很精彩呢，目白雷恩！\n許多粉絲都大為期待妳接下來的比賽，妳的心情如何？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "目白賴恩",
-      "Text": "這個嘛……嗯，非常感謝各位的聲援！\r\n為了回應大家的期待，往後我一定會加倍努力鍛鍊的！",
+      "Name": "目白雷恩",
+      "Text": "那個……！大家幫我打氣，我非常開心！\n為了不辜負大家的期待，我會繼續猛烈鍛鍊的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "…………唔。",
+      "Text": "…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "氣槽",
-      "Text": "——去裡面繞另一條路好了。過來吧，多伯。",
+      "Text": "──繞到後面吧。跟我來，多伯。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "好的……前輩。",
+      "Text": "是的……前輩。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

@@ -1,5 +1,5 @@
 {
-  "Title": "迎接天皇賞（秋）",
+  "Title": "迎向天皇賞（秋）",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,78 +9,78 @@
     },
     {
       "Name": "觀眾們",
-      "Text": "（——喧鬧聲——）",
+      "Text": "（騷動不已……！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "比賽粉絲A",
-      "Text": "沒想到沒想到，這一天終於到了！\r\n愛慕織姬、好歌劇、成田路、名將怒濤，\r\n她們四人聚首在同一場比賽之中！",
+      "Name": "競賽粉絲A",
+      "Text": "終於來了終於來了，這天終於來了！\n愛慕織姬、好歌劇、\n還有成田速王跟名將怒濤！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "比賽粉絲B",
-      "Text": "在去年的經典級闖出一片天地的三強，\r\n再加上終於迎來本格化的名將怒濤……\r\n嗚嗚，我生在這個時代真是太好了——！",
+      "Name": "競賽粉絲B",
+      "Text": "在去年經典賽創造高潮的三強，\n再加上迎來顛峰期的怒濤……\n嗚嗚～真慶幸自己活在這個時代啊～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "三強"
       ]
     },
     {
-      "Name": "愛織粉絲A",
-      "Text": "不過，秋季之盾一定會由愛慕織姬拿下。\n現在的她不僅僅擁有那般迫力，看上去在春季的\n比賽中還解開了心結……現在的她，毫無破綻！",
+      "Name": "織姬的粉絲A",
+      "Text": "不過秋季獎牌可是愛慕織姬的東西喔。\n她一直以來都魄力驚人，加上從春天起她跑步時\n看起來變得很開心……已經無懈可擊了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "好歌劇粉絲A",
-      "Text": "——不對，應該是好歌劇獲勝！\r\n那股莫名其妙的霸氣、那種意義不明的強大！\r\n要說本世代的代表的話，非好歌劇莫屬！",
+      "Name": "好歌劇的粉絲A",
+      "Text": "不～我看果然還是好歌劇最有冠軍相！！\n那股莫名其妙的魄力！不可名狀的實力！\n要說誰能代表本世代，就只有好歌劇了！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路的粉絲A",
-      "Text": "……唔、才不是……",
+      "Name": "速王的粉絲A",
+      "Text": "……嗚，才不是。才不是呢……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路的粉絲B",
-      "Text": "這次……這次……\n成田路小姐一定能贏的……！！",
+      "Name": "速王的粉絲B",
+      "Text": "這次不一樣……今天，\n贏的一定會是速王啦……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……——",
+      "Text": "……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "出賽已經近在眼前。\n愛織已經做好準備，現在正在慢慢調整呼吸。\n看著這樣的她，我突然想問她個問題。",
+      "Text": "比賽開始前，她做完所有準備，\n正在緩緩地深呼吸。\n我看著她，突然想問她一個問題。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "說起來，\n迄今為止好像我都從來沒問過這個問題……",
+      "Text": "這麼說起來，\n目前幾乎從來沒問過這個問題──",
       "ChoiceDataList": [
-        "你在緊張嗎？",
-        "你在緊張嗎？"
+        "妳在緊張嗎？",
+        "妳在緊張嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "！\n………………",
+      "Text": "！…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……是呢。\n稍微……有些緊張吧。",
+      "Text": "……是啊。\n是有點緊張。",
       "ChoiceDataList": [
         "！"
       ],
@@ -88,75 +88,75 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "大概是因為……\r\n最近要思考的事情變多了。",
+      "Text": "我想……現在\n我開始會去……思考很多事情了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "過去，我一直是想著\n『必須要贏，這就是我的使命』……\n這樣簡單的想法，倒也幫了大忙。",
+      "Text": "之前我只想著「我要贏，因為這就是我的使命」。\n……只要這樣就好，很簡單明瞭。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "但現在——",
+      "Text": "而現在──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……現在的我，\n瞭解了好歌劇的胸懷、\n見證了怒濤的執念。",
+      "Text": "……好歌劇深不可測的實力。\n怒濤的執著。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……以及，成田路同學的覺悟。",
+      "Text": "還有速王的決心。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我理解了大家想要勝利的心情。\n……也理解了，自己想要勝利的心情。",
+      "Text": "大家那份想贏的執著。\n我心中那……想贏的執著。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "理解了參加比賽時的無法抑制的激昂……\n也理解了等待參賽時這份小小的恐懼。",
+      "Text": "上場比賽時的興奮感。\n起跑前的微微的恐懼感。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……就是這些事情。\n我最近一直在想這些事。",
+      "Text": "……我現在會想著這些事情。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "所以……是的。\n現在的我，也許真的在緊張。",
+      "Text": "所以……是啊。\n……我想我正在緊張。",
       "ChoiceDataList": [
-        "這是——"
+        "那是──"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我本想告訴她，這份緊張才是應有的反應，\n毫無壞處——\n但我什麼也沒說。",
+      "Text": "那是很棒的緊張感，我本想這樣回她，但又做罷。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "……還是讓她品味一番這前所未有的心情吧。",
+      "Text": "……因為我想再讓她好好地細細品味一下\n現在這番心情。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "工作人員",
-      "Text": "愛慕織姬選手！\r\n請過來參加賽前體檢！",
+      "Text": "愛慕織姬選手！\n請前往圍場！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -168,21 +168,21 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……那，我出發了。",
+      "Text": "……那我出發了。",
       "ChoiceDataList": [
-        "盡情地去跑吧，愛織！"
+        "上場吧，織姬！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "嗯。",
+      "Text": "好。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "——我會拿下優勝的，安心吧。",
+      "Text": "──我要去拿下勝利了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

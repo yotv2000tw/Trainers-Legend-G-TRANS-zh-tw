@@ -1,5 +1,5 @@
 {
-  "Title": "挑戰抓娃娃遊戲！",
+  "Title": "挑戰夾娃娃機！",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,60 +9,60 @@
     },
     {
       "Name": "獨白",
-      "Text": "這天，我和千代王出門散心的歸途上——",
+      "Text": "某天，\n我跟櫻花千代王一起外出時──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "哇啊～訓練員，快看快看！\r\n那邊的玩偶好可愛呀！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "我看向千代王所指的方向——\r\n在遊戲廳內，正擺著一個滿是賽馬娘玩偶的娃娃機。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花千代王",
-      "Text": "要是能把這些孩子都放在房間裡的話……\r\n嘿嘿……一定會很熱鬧吧！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花千代王",
-      "Text": "不過……我不大擅長這個遊戲呢……\r\n……要是每天都來練習的話，\r\n差不多一年之後應該……",
-      "ChoiceDataList": [
-        "我來幫你抓幾個好啦！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花千代王",
-      "Text": "……誒？訓練員來嗎？\r\n不過，沒必要這麼麻煩您……",
-      "ChoiceDataList": [
-        "今天就是我來參賽，你來為我加油啦！",
-        "今天就是我來參賽，你來為我加油啦！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花千代王",
-      "Text": "……嘿嘿，我明白了！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "櫻花千代王",
-      "Text": "那我就靜候您的捷報啦♪",
+      "Text": "哇啊～！你看那邊！\n好多可愛的娃娃喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "——這個遊戲，絕不能輸！！",
+      "Text": "我往櫻花千代王指示的方向看去，\n那裡有一台裝有\n賽馬娘主題玩偶的夾娃娃機。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "要是能在房裡擺滿這些孩子，\n一定會既熱鬧又有趣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "問題在於，我夾得到足以擺滿房間的數量嗎……？\n如果每天腳踏實地地夾，夾個一年應該……",
+      "ChoiceDataList": [
+        "我來幫妳夾"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "……咦？訓練員你要夾？\n不過，特地麻煩你實在太不好意思了……",
+      "ChoiceDataList": [
+        "今天換妳負責加油！",
+        "今天換妳負責加油！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "……嘿嘿嘿，我知道了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "格言也說「比賽只要靜待佳音」嘛，\n我很期待成果喔♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──這個挑戰，不能失敗！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

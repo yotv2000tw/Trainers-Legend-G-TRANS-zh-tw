@@ -1,5 +1,5 @@
 {
-  "Title": "コレデ\u3000アナタ\u3000モ\u3000オトモダチ",
+  "Title": "這樣你也是朋友了",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,353 +9,353 @@
     },
     {
       "Name": "獨白",
-      "Text": "終於來到了選拔賽的日子。",
+      "Text": "終於來到選拔賽當天。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "雖然我是想邀請曼城茶座和我簽約來著……\r\n但不知不覺間，我完全錯過了發出邀請的時機。",
+      "Text": "我雖想要挖角曼哈頓咖啡，\n卻完全錯過了開口的時機。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "同事A",
-      "Text": "<username>……我說你啊，\r\n難不成你真想簽那個姑娘不成？",
+      "Text": "<username>……\n你該不會是想要挖角她吧？",
       "ChoiceDataList": [
-        "我就是這樣想的哦。"
+        "我就是這麼想的"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "同事B",
-      "Text": "雖然她跑得是很厲害啦……但我可因為看不見她的『朋友』而被甩了哦？\r\n你也一樣看不見那個『朋友』吧？",
+      "Text": "她跑得確實是不錯……但我也被她那招「朋友」給擺了一道。\n你也一樣吧？",
       "ChoiceDataList": [
-        "不過我覺得『朋友』是確實存在的哦。"
+        "我覺得是真的有這位「朋友」的"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "同事A",
-      "Text": "不……不會吧……怎麼會啦……\r\n那個……雖然我明白你想要相信她的那種心情啦……",
+      "Text": "呃，不、不是吧？你該不會……\n我也不是不能理解你想要相信她的想法……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "……早上……好……",
+      "Name": "曼哈頓咖啡",
+      "Text": "……早……安……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "2人",
-      "Text": "嗚哇啊啊啊啊啊？！\r\n噫呀啊啊啊啊啊？！",
+      "Name": "兩人",
+      "Text": "嗚哇啊啊啊啊啊啊啊！？\n呀啊啊啊啊啊啊啊！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "（噠噠噠噠……！！）",
+      "Text": "（噠噠噠噠噠噠……！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "…………\r\n……對不起……打擾您和她們談話了……",
+      "Name": "曼哈頓咖啡",
+      "Text": "…………\n打擾你們說話……對不起……",
       "ChoiceDataList": [
-        "沒關係的哦。"
+        "沒關係"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
+      "Name": "曼哈頓咖啡",
       "Text": "…………",
       "ChoiceDataList": [
-        "那位『朋友』今天也在嗎？"
+        "今天「朋友」也在嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "…………\r\n……是的……",
+      "Name": "曼哈頓咖啡",
+      "Text": "…………\n……是的……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "今天有很多賽馬娘也會參加這場比賽，但也別太放在心上。\r\n除此之外，就算看見了『朋友』的背影——",
+      "Text": "妳還是專注在今天一起參賽的其他賽馬娘比較好。\n還有，就算妳看見朋友的背影──",
       "ChoiceDataList": [
-        "不要焦躁，按照自己的節奏比賽吧！"
+        "也記得不要慌張，就按照自己的步調去跑！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
+      "Name": "曼哈頓咖啡",
       "Text": "…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "……您……明明看不見的……\r\n但簡直……就像能看見她一樣……",
+      "Name": "曼哈頓咖啡",
+      "Text": "……你明明……看不見……\n卻說得……好像看得見一樣……",
       "ChoiceDataList": [
-        "誒？你剛剛說什——"
+        "咦？妳剛剛說什麼？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "選拔賽職員A",
-      "Text": "選拔賽即將開始！\r\n要參賽的選手們請抓緊時間——",
+      "Name": "選拔賽工作人員A",
+      "Text": "選拔賽即將準備開始！\n請出賽的賽馬娘立即──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "……\r\n……晚上，我們在這裡再見吧……",
+      "Name": "曼哈頓咖啡",
+      "Text": "…………\n……晚上再來這裡碰面……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "實況",
-      "Text": "各位選手均已入閘！\r\n預備——開始！比賽正式開始了！",
+      "Name": "播報員",
+      "Text": "所有賽馬娘都已經進入閘門。\n現在──同時從閘門出發！比賽正式開始！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "（——奔跑。奔跑。奔跑。\r\n草地的香味……腳踏大地的感覺……很棒。）",
+      "Name": "曼哈頓咖啡",
+      "Text": "（──奔跑、奔跑、奔跑。\n草地的味道……在大地中奔馳的感覺真舒服。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "（那個人……訓練員的話語……似乎讓我的腳更加輕盈，\r\n呼吸也更加安定……感覺能比平時跑更長的距離……）",
+      "Name": "曼哈頓咖啡",
+      "Text": "（那個人……訓練員所說的話，好像讓我的腳步變輕盈了。\n呼吸也很穩定，感覺能跑得比平常更遠。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "（……無數的賽馬娘，都在我面前奔跑著……）",
+      "Name": "曼哈頓咖啡",
+      "Text": "（……有好多賽馬娘跑在我的前面。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "（但是，她……我的『朋友』，一定就在更前方……\r\n她在等著我的到來……）",
+      "Name": "曼哈頓咖啡",
+      "Text": "（而她……我的「朋友」，\n一定會在更前方的位置……等著我。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "（除了我以外……其他人都看不見的……\r\n我重要的『朋友』。）",
+      "Name": "曼哈頓咖啡",
+      "Text": "（那個只有我能看見的重要「朋友」。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "（就算其他人都不相信我也無所謂……\r\n只是……希望其他人不要將她視為無足輕重的存在……）",
+      "Name": "曼哈頓咖啡",
+      "Text": "（就算沒有人相信我也不介意，\n我只是不希望大家將她的存在不當一回事。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "（——但是……）",
+      "Name": "曼哈頓咖啡",
+      "Text": "（──但是……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "（那個人……那個人說，想要了解她的事情……！）",
+      "Name": "曼哈頓咖啡",
+      "Text": "（那個人……卻說想要了解……！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "（因為看不見我的『朋友』，所以才希望通過我來了解她……\r\n而且……從未出言侮辱過我的『朋友』……！）",
+      "Name": "曼哈頓咖啡",
+      "Text": "（因為看不見，所以希望我能說明。\n甚至從來沒有對我「朋友」用過不禮貌的字眼……！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "哈啊啊啊啊啊！！",
+      "Name": "曼哈頓咖啡",
+      "Text": "喝啊啊啊啊啊啊啊啊！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "（——即便遭遇無數次拒絕……遭受無情的否定……\r\n依舊沒有任何東西能夠證明我們的存在。）",
+      "Name": "曼哈頓咖啡",
+      "Text": "（──無論我們遭遇過多少人的拒絕、多少無情的否定，\n也沒有任何能衡量我們之間關係的東西。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "（……所以，我才要超越一切。\r\n每天都能離你的背影更近一步的話，我——）",
+      "Name": "曼哈頓咖啡",
+      "Text": "（……所以，我一定要追過一切，\n只要能比昨天更看清楚妳的背影，我就──）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "我今後……也要繼續追逐那個背影……\r\n繼續追逐……我的夢……！！",
+      "Name": "曼哈頓咖啡",
+      "Text": "絕對不會放棄……妳的背影……我的夢想……！\n我會一直追逐下去……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "實況",
-      "Text": "後方的選手瞬間加速了！多麼淒厲的追擊……！！\r\n漆黑的魅影宛如要吞噬前方的選手一般衝了上來！！",
+      "Name": "播報員",
+      "Text": "一口氣加速向前衝刺！這是多麼強勁的後追能力……！！\n一個黑影將前方的賽馬娘們給吞沒啦──！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "（——歡呼聲——）",
+      "Text": "（哇啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "——夜晚的操場，已經完全沒了白天時的喧囂。\r\n曼城茶座正靜靜地站在跑道上。",
+      "Text": "──寧靜的訓練賽道一反白天的歡鬧，\n而曼哈頓咖啡就站在那裡。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "……請您……聽我說幾句……\r\n是關於……我『朋友』的事情……",
+      "Name": "曼哈頓咖啡",
+      "Text": "……請讓我占用你一點時間，我想告訴你一些事。\n關於……我「朋友」的事……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "我其實……看得見各種各樣的東西。\r\n其他誰都看不見的……不可思議的存在……",
+      "Name": "曼哈頓咖啡",
+      "Text": "我……能看見許多東西，\n能看見其他人看不見的奇妙東西……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "不過……沒人願意相信我。",
+      "Name": "曼哈頓咖啡",
+      "Text": "但……從來都沒有人相信過。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "『沒有那種存在』『真讓人毛骨悚然』\r\n『那只是幻覺』『妄想』『你想多了』",
+      "Name": "曼哈頓咖啡",
+      "Text": "「那種東西才不存在」、「噁心」、「就只是幻覺」、\n「妄想症」、「想太多了」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "大家……都在用這些話來傷害我所珍視的東西……\r\n我很傷心……",
+      "Name": "曼哈頓咖啡",
+      "Text": "許多這樣的話語……聽起來就像在傷害我珍視的東西一樣……\n讓我感到非常傷心……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "……所以……我從小時候開始……就一直閉門不出……\r\n只為了……不讓其他人傷害我珍視的東西……",
+      "Name": "曼哈頓咖啡",
+      "Text": "……所以，還很幼小的我就將自己封閉起來。\n為了不讓自己珍視的東西……再受到傷害……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "我本來就天生體弱……\r\n其他人……也就接受了我的行為……",
+      "Name": "曼哈頓咖啡",
+      "Text": "我因為原本就體質虛弱……\n所以周遭對我的改變也不以為意。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "……但是，有一天……\r\n我看見一個長得和我很像的女孩子……正在盡情奔跑。",
+      "Name": "曼哈頓咖啡",
+      "Text": "……但在某一天，\n我看見一個和我很像的女生背影……在奔跑著。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "雖然我看不清她的臉……但我還是能感受到她的快樂……\r\n我……非常……羨慕她……",
+      "Name": "曼哈頓咖啡",
+      "Text": "雖然我沒看見她的臉，但背影看起來很快樂……\n我……越看越開始覺得……很羨慕她……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "……所以，我就從那個漆黑的房間中跑了出來。",
+      "Name": "曼哈頓咖啡",
+      "Text": "……然後我就從一直躲著的房間跑了出去。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "外面的光線……異常耀眼……甚至有些炫目……\r\n但是……那位『朋友』，正在我眼前盡情地奔跑著……",
+      "Name": "曼哈頓咖啡",
+      "Text": "外面非常刺眼……亮到我幾乎睜不開眼睛……\n但「朋友」卻還是看起來很快樂地奔跑著……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "那時……我就覺得，過去的我都在想些什麼呢……\r\n就算誰都不相信她的存在……她依然能夠那樣開心地奔跑。",
+      "Name": "曼哈頓咖啡",
+      "Text": "那時我才意識到……根本不用在意別人是怎麼想的……\n就算沒有人願意相信自己……我也還是能像她一樣開心奔跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "……自那以後，『朋友』就一直奔跑在我的面前了……",
+      "Name": "曼哈頓咖啡",
+      "Text": "……那天之後，\n「朋友」就……一直都跑在我的前方……",
       "ChoiceDataList": [
-        "是你非常重要的『摯友』呢。",
-        "是你非常重要的『摯友』呢。"
+        "是妳很重要的「朋友」呢",
+        "是妳很重要的「朋友」呢"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "是的……\r\n……但是……",
+      "Name": "曼哈頓咖啡",
+      "Text": "是的……\n……不過……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "其實……我還從來沒見過她的臉……",
+      "Name": "曼哈頓咖啡",
+      "Text": "……其實連我也不知道……\n她的長相……是什麼樣子……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "因為……我一直追不上她……她也從來沒有回過頭……\r\n所以……我所看見的……一直都是她的背影……",
+      "Name": "曼哈頓咖啡",
+      "Text": "因為我……總是追不到她……她也從來不會回過頭來看我……\n……所以，我只能……一直看著她的背影……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "我……想要追上她。\r\n……我想要站在她的身邊，和她一起奔跑……",
+      "Name": "曼哈頓咖啡",
+      "Text": "……我想要追上她，\n我想要在她的身旁……一起奔跑……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "雖然她的聲音如囈語般微弱，\r\n但我依舊能從她的話語中感受到堅定的信念。",
+      "Text": "我從她細柔的聲音中，\n聽見了堅強且真誠的意志。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "……您……現在還是看不見她吧……？\r\n所以……那個……",
+      "Name": "曼哈頓咖啡",
+      "Text": "……現在的你……也還是看不見她的吧……？\n但是……那個……",
       "ChoiceDataList": [
-        "今後也請你繼續告訴我更多『朋友』的事情啦。"
+        "以後也繼續告訴我「朋友」的事情吧"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
+      "Name": "曼哈頓咖啡",
       "Text": "…………",
       "ChoiceDataList": [
-        "也就是說……我想和你簽約。",
-        "也就是說……我想和你簽約。"
+        "我想挖角妳",
+        "我想挖角妳"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "…………\r\n……我……能追得上她嗎……？",
+      "Name": "曼哈頓咖啡",
+      "Text": "…………\n……你能讓我追上她嗎……？",
       "ChoiceDataList": [
-        "一定能超越她的！！"
+        "追過她吧！！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "曼城茶座",
-      "Text": "……——好的。",
+      "Name": "曼哈頓咖啡",
+      "Text": "……是。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -367,19 +367,19 @@
     },
     {
       "Name": "獨白",
-      "Text": "曼城茶座對我露出微笑。在我回以笑容的瞬間，\r\n好像有什麼人用力地拍了一下我的後背——",
+      "Text": "對露出微微笑容的曼哈頓咖啡回以微笑的瞬間，\n感覺到有人用力拍了一下我的背，然後──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "<color=#FF0000>交\u3000\u3000給\u3000\u3000你\u3000\u3000了</color>",
+      "Text": "「交給你了。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "——這並非是聲音，也並非是語言。\r\n來自於『某人』的感情，傳進了我的心裡。",
+      "Text": "──「某人」不是聲音也不是文字言語的\n情感就這樣傳遞到我的心裡。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

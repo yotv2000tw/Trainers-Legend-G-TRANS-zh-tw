@@ -1,5 +1,5 @@
 {
-  "Title": "終於到手之物",
+  "Title": "終於願意收下的事物",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,16 +9,16 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "今天有空嗎？",
+      "Text": "今天晚點有空嗎？",
       "ChoiceDataList": [
-        "有是有……怎麼啦？",
-        "有是有……怎麼啦？"
+        "我是有空，怎麼了嗎？",
+        "我是有空，怎麼了嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……收到了莫名其妙的請柬。\n似乎先前的回禮……\n還說，務必要帶你一起來。",
+      "Text": "我受到邀請。\n……她們說想要道謝，\n……說務必請你也一起來。",
       "ChoiceDataList": [
         "道謝……？"
       ],
@@ -26,99 +26,99 @@
     },
     {
       "Name": "名將怒濤",
-      "Text": "啊，愛織同學……！\r\n請往這邊走～……！",
+      "Text": "啊，織姬……！\n這裡喔……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "歡、歡迎來到『T.M.歌劇團』的特別公演～！",
+      "Text": "歡、歡迎光臨～！\n歡迎來到「好歌劇歌劇團」的特別公演……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "孩子們",
-      "Text": "愛織姐姐、訓練員，歡迎～！",
+      "Text": "織姬姐姐你們也來了，歡迎光臨～！！",
       "ChoiceDataList": [
-        "難道說……"
+        "難道這是……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "是的～！多虧愛織同學的幫助，\r\n那個歌劇已經完成了哦~……！",
+      "Text": "是的～！之前麻煩你們陪同\n實地探訪的那齣戲，終於完成了……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "我和孩子們商量了下，\n大家一致決定邀請兩位來看這場新話劇……！",
+      "Text": "我跟這些孩子們聊過，\n大家都說想邀請你們來，\n讓你們看看這齣戲……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……我明白了。\n……雖然多少還是有點不安吧。",
+      "Text": "……原來如此。\n不過，我還是有點不放心。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "自來熟的少年",
-      "Text": "我可沒這樣覺得過不安哦！\n好歌劇姐姐的歌劇特別有意思，\n我每次都差點笑暈過去！",
+      "Name": "舉止神氣的男孩",
+      "Text": "話可別說得太早喔～！\n我看了可是笑到肚子都快裂開了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "知識淵博的男孩子",
-      "Text": "聽說這次是將傳說與現實融為一體的新劇呢！",
+      "Name": "一臉博學的男孩",
+      "Text": "聽說這齣戲可是\n融合了傳說與實際體驗的一大奇觀喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "看上去很精神的女孩子",
-      "Text": "名字叫做『T.M.好歌劇的美貌』\n聽名字就覺得非常耀眼！\u3000感覺很帥氣呢！",
+      "Name": "看起來很有精神的女孩",
+      "Text": "那招「好歌劇美麗光線」，\n真的超閃亮的喔！超帥氣的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……是是是。",
+      "Text": "……好啦好啦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "啊啊，勇士啊！吾之摯友啊！\n為追尋那把傳說中的刀，汝幾經風霜——",
+      "Text": "啊啊，勇士啊！心意相通的摯友！\n自從妳前去尋找傳說中的刀，不知過了多久──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "現如今，終於凱旋至霸王身邊了啊！",
+      "Text": "如今妳終於回到本霸王身邊了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "啦～～……♪\n凱～旋～……♪",
+      "Text": "嚕～～……♪\n我～回來了～……♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "將你的冒險講與我聽吧！\n將你的勇猛告知於我吧！",
+      "Text": "讓我知道妳一路平安！\n讓我聽聽妳的冒險過程！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "群星的精靈～給予我神聖的指引～……\n我等跨過巨人鎮守的，危機四伏的吊橋～♪",
+      "Text": "多虧閃耀的星辰精靈～出手幫助了我～……\n面臨巨人虎視眈眈的危險吊橋時也是～♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "竟是巨人所鎮守的吊橋～♪",
+      "Text": "就連恐怖的巨人盤踞的吊橋也～♪",
       "ChoiceDataList": [
         "（……嗯？）"
       ],
@@ -126,75 +126,75 @@
     },
     {
       "Name": "名將怒濤",
-      "Text": "藉助那精靈的指引～即便是暗藏殺機的毒沼～\r\n亦～被～我～等～跨～越～♪",
+      "Text": "冒著泡泡的～毒氣沼澤亦是～依靠星辰精靈引導～\n才──能──順──利──通──過──♪",
       "ChoiceDataList": [
-        "（這是取材的時候的事情吧……）"
+        "（這是上次去探訪時的……）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……不對。我們沒去過那種地方吧。",
+      "Text": "……那些地方明明就沒那麼危險。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "美麗的群星之精靈～聆聽吾等的感謝吧——！\r\n此時便是展現這把寶刀美貌的時刻——！",
+      "Text": "美麗的星辰精靈啊～在此感──謝──妳──！\n現在──我找齊了盔甲與刀──！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "閃耀於世、驅散黑暗吧～！\r\n『T.M.好歌劇的美——貌！！！』",
+      "Text": "我要照亮全世界～……看招！\n「好歌劇美麗光────線！！！」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "孩子們",
-      "Text": "啊哈哈哈哈！\r\n美————————貌！！！",
+      "Text": "啊哈哈哈哈！\n光──────────線！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "好、好晃眼……！\n為什麼在這個時候對著觀眾打強光啊……？！",
+      "Text": "好、好刺眼……！\n何必在這種地方特別講究啊……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "那麼，諸君！對這次的歌劇可滿意嗎！",
+      "Text": "好啦，各位！有什麼感想呀！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "孩子們",
-      "Text": "非常滿意——！！",
+      "Text": "看得好開心喔～～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……嘛，算是比預料中好點……",
+      "Text": "好吧，是比想像中還開心……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "呵呵，這般便好！\n那麼，愛織同學！",
+      "Text": "呵呵，那就好！\n在此要鄭重感謝織姬！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "我已從怒濤口中得知了一切！\n若是沒有愛織同學的幫助，\n今日的演出也將不復存在！",
+      "Text": "怒濤都告訴我囉！\n要是沒有織姬的助力，\n今天根本沒辦法順利上演！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "非常感謝！收下這個吧！",
+      "Text": "謝謝妳！請務必收下！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -206,136 +206,136 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……不用謝。",
+      "Text": "……不用客氣。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……回去吧。",
+      "Text": "……我們回去吧。",
       "ChoiceDataList": [
-        "……各種意義上都很厲害啊……",
-        "……各種意義上都很厲害呢……"
+        "各方面來看都很厲害呢",
+        "各方面來看都很厲害呢"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "嗯。整齣劇非常華麗，也稱得上是新穎……\n僅憑兩個人便能演出這樣吵鬧的歌劇……",
+      "Text": "是啊。場面華麗，劇本也寫得很好。\n明明登場角色只有兩個，但整個熱鬧過頭……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……總體感覺還行吧。",
+      "Text": "……不過，是還不錯。",
       "ChoiceDataList": [
-        "你還收到了花束，太好了呢。",
-        "你還收到了花束，太好了呢。"
+        "收到花束也很令人開心呢",
+        "收到花束也很令人開心呢"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……\n我以前一直覺得，超越語言的謝意太過沉重了。",
+      "Text": "……我原本認為，除了感謝的言語之外，\n另外實際收到東西只會令我感到太過沉重。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……不過，有時也會深感語言的貧瘠。\n世間萬千詞彙，有時竟不足以表達感激之情。",
+      "Text": "但又覺得，或許有時候，光靠言語真的還不夠，\n還不足以表達感謝吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "正因為有了切身體會，我才會收下這束花。\n……看來也不怎麼沉重呢。\n雖然過程實在是有點吵鬧過頭了。",
+      "Text": "所以這次我決定試著收下看看……\n結果根本不沉重嘛。\n……雖然亮得刺眼又吵鬧啦。",
       "ChoiceDataList": [
-        "「物品」也同樣承載著重要的感情呢。",
-        "「物品」也同樣承載著重要的感情呢。"
+        "畢竟「物品」也算是珍貴的心意的一種嘛",
+        "畢竟「物品」也算是珍貴的心意的一種嘛"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……是呢。",
+      "Text": "……是啊。",
       "ChoiceDataList": [
-        "那就一起期待下次的「歌劇」吧！",
-        "那就一起期待下次的「歌劇」吧！",
-        "這束花，要裝飾在哪兒嗎？",
-        "這束花，要裝飾在哪兒嗎？",
-        "我已經熱淚盈眶了……"
+        "下一場「歌劇」也很令人期待呢！",
+        "下一場「歌劇」也很令人期待呢！",
+        "該把這束花放在哪好呢？",
+        "該把這束花放在哪好呢？",
+        "令人感動落淚哪……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……是呢。",
+      "Text": "……是啊。",
       "ChoiceDataList": [
-        "那就一起期待下次的「歌劇」吧！",
-        "那就一起期待下次的「歌劇」吧！",
-        "這束花，要裝飾在哪兒嗎？",
-        "這束花，要裝飾在哪兒嗎？",
-        "我已經熱淚盈眶了……"
+        "下一場「歌劇」也很令人期待呢！",
+        "下一場「歌劇」也很令人期待呢！",
+        "該把這束花放在哪好呢？",
+        "該把這束花放在哪好呢？",
+        "令人感動落淚哪……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……你在開玩笑吧。",
+      "Text": "別說笑了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我可不想再去找傳說中的什麼什麼東西了。\n……至少這段時間不想去找了。",
+      "Text": "我不想再被帶去找什麼傳說中的東西了。\n……暫時先不要。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "雖然愛慕織姬擺出一副不耐煩的模樣，\n但我真切地體會到她的心境已經產生了一些變化……",
+      "Text": "雖然愛慕織姬表現得很受不了，\n但我又能感覺到\n她似乎不是真心感到抗拒……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "放在訓練員室就好吧。",
+      "Text": "就放在訓練員室。\n放你那裡最適合了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "要是帶回宿舍的話，\n卡蓮同學又會問東問西的，\n會演變成很麻煩的事態……",
+      "Text": "要是放在宿舍房間內，\n真機伶又會問東問西的，真是麻煩……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "她這樣說著，\n露出了比平時更加溫柔的笑容。",
+      "Text": "她這麼說著，\n但臉上表情看起來比平時溫柔許多。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……突然怎麼了這是。",
+      "Text": "你怎麼突然這樣……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我只是在說一些禮節上的事情，\n很平常的吧……",
+      "Text": "我只是盡了禮數。不過如此而已。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……好啦，別這麼大的反應啦。",
+      "Text": "……所以你別表現得那麼誇張。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "雖然態度依舊彷彿過去那般冷淡，\n但毫無疑問，她已經有所改變了……",
+      "Text": "她的態度還是那麼冷靜。\n但我確實感受到\n愛慕織姬有點不一樣了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

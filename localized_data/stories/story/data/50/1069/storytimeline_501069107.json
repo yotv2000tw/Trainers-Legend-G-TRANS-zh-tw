@@ -9,212 +9,212 @@
     },
     {
       "Name": "獨白",
-      "Text": "這天，櫻花千代王給我發來簡訊，\r\n說可能會稍微晚些來訓練。",
+      "Text": "這天，櫻花千代王告知我\n今天的訓練她會晚點到。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "反正需要準備的東西也挺多的。\r\n在她過來之前，我一個人準備著今天要訓練\r\n的專案……",
+      "Text": "就算她晚到，一個人也有很多工作能做。\n當我邊等她到邊著手進行準備時……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "馬娘A",
-      "Text": "哇啊～～～！\r\n快看，丸善小姐在跑步哦！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "丸善斯基",
-      "Text": "呼～……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "馬娘B",
-      "Text": "嗚哇，好帥啊～！\r\n……但和以前的她比起來，好像沒啥壓迫感了？\r\n我記得她以前是不是更厲害來著……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "馬娘A",
-      "Text": "你傻啊。人家這麼久沒參加比賽了，\r\n哪有現在一上來就直接拿出全力的道理的。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "馬娘A",
-      "Text": "她肯定是想先熱熱身，\r\n所以現在只拿出了了七成實力吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "馬娘B",
-      "Text": "原來如此～！\r\n好想快點看見丸善小姐全力以赴的樣子啊～",
+      "Name": "賽馬娘A",
+      "Text": "呀啊～～！！\n丸姐正在奔跑～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "丸善斯基",
-      "Text": "……哎，怎麼大家都把我想得這麼好啊……",
+      "Text": "呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "哇啊～好帥喔～！\n……不過，跟以前比起來好像還是少了些魄力？\n我印象中她應該要更厲害的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "妳真傻，她這麼久沒跑步了，\n當然不可能立刻拿出全力奔跑啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "她應該只用了七成實力吧？\n只是先讓身體習慣奔跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "原來如此～！\n真想快點看到丸姐發揮實力啊～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "丸善斯基",
-      "Text": "這種程度，\r\n就已經是現在的我能付出的「全力」了……",
+      "Text": "……嗯～妳們錯了呢～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "丸善斯基",
-      "Text": "……不過，說得也是呢。\r\n那孩子憧憬的，可不是這種水平的賽馬娘——",
+      "Text": "原來我現在的全力，\n在別人眼裡看來不過只有以前的七成啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "丸善斯基",
-      "Text": "事不宜遲……\r\n現在就開始為引擎的齒輪除銹吧！",
+      "Text": "……不過，是啊。\n真正的我才不是僅僅這種程度的賽馬娘。\n那孩子一心崇拜的我才不是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "好啦，得把齒輪上的鐵鏽──清一清了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "訓練員！抱歉我來晚了！\r\n今天的訓練也拜託您了！",
+      "Text": "訓練員，我遲到了！\n今天的訓練也請多多指教了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "……話說，感覺今天人好多啊？！\r\n發生什麼事了嗎？",
+      "Text": "總覺得今天附近好多人圍觀！？\n請問發生什麼事了嗎？",
       "ChoiceDataList": [
-        "剛才丸善斯基在這兒跑步來著。"
+        "因為剛剛丸善斯基在練跑"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "……誒誒誒誒誒？！！",
+      "Text": "什麼～！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "您為什麼不告訴我呀……！\r\n我也想看看丸善小姐跑步的模樣的……！",
+      "Text": "為什麼不早點告訴我呢……！\n我也想看丸姐跑步啊……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "千代王就像小狗一樣一邊搖著尾巴一邊嗚咽著\r\n埋怨我。說起來——\r\n好像，已經有很長一段時間都沒見過她這樣了。",
+      "Text": "櫻花千代王開始全身發抖，\n簡直就像隻小狗一樣。\n總覺得好久沒看到她露出這副模樣了。",
       "ChoiceDataList": [
-        "你果然還是很憧憬丸善斯基啊。",
-        "你果然還是很憧憬丸善斯基啊。"
+        "妳果然很崇拜丸善斯基呢",
+        "妳果然很崇拜丸善斯基呢"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "……那當然啦！\r\n要是我不憧憬她的話，\r\n也不會想著要超越她的背影了。",
+      "Text": "……當然了。不然的話，\n我也不會像這樣追著她跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "我以前只覺得自己是個又無能又平凡的賽馬娘，\r\n丸善小姐就是給予我希望與夢想的人。",
+      "Text": "都多虧有她，自認普通\n又一事無成的我，現在才能夠看見未來。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "而訓練員，您……",
+      "Text": "而訓練員則是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "您是支撐著我追尋夢想的人。\r\n所以說……祝您情人節快樂！",
+      "Text": "現在在我身旁支持著我的人。\n所以說，情人節快樂。",
       "ChoiceDataList": [
-        "……難道你來遲了是因為……"
+        "妳該不會是為了準備這個才晚到……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "……！\r\n誒，這個嘛……",
+      "Text": "……啊！？\n不是啦，這個是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "關於這個巧克力的事情嘛……呃……\r\n請您就不要多問，以平常心收下吧……",
+      "Text": "關於這個巧克力嘛，真要說起來的話，\n請你別太在乎剛剛那些事，\n就這樣直接收下吧……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "但、但是……總覺得說出口之後就更尷尬了！\r\n唔呣呣呣呣～……！",
+      "Text": "不、不過果然還是很尷尬呢……\n嗯嗯嗯嗯嗯～……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "那……那這樣吧！\r\n您收下了巧克力的話，能拜託您一件事嗎？",
+      "Text": "那這樣好了！\n你先收下這個，作為代價，\n我可以拜託你一件事情嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "請您告訴我……剛剛丸善小姐跑得怎麼樣。",
+      "Text": "我希望\n你能告訴我……\n剛剛丸姐練跑時的狀況。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "就以此作為訓練員的回禮……\r\n……您看怎麼樣？",
+      "Text": "就當作是訓練員給我的回禮……\n這樣如何？",
       "ChoiceDataList": [
-        "這樣就行了嗎？",
-        "這樣就行了嗎？"
+        "這樣就好嗎？",
+        "這樣就好嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "這樣就行啦！\r\n不過，請您要盡～可能地描述地詳細些哦！",
+      "Text": "是的！但你得一～五一十地\n詳細告訴我喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "於是，我將剛才丸善斯基奔跑的模樣繪聲繪色地\r\n講給了千代王聽。",
+      "Text": "就這樣，我將今天見識到的\n丸善斯基的跑姿\n盡量生動詳細地告訴了櫻花千代王。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "於是，我將剛才丸善斯基奔跑的模樣繪聲繪色地\r\n講給了千代王聽。",
+      "Text": "就這樣，我將今天見識到的\n丸善斯基的跑姿\n盡量生動詳細地告訴了櫻花千代王。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "呼～……辛苦您了！\r\n今天的訓練就到此為止了呢！",
+      "Text": "呼……辛苦了。\n今天訓練就到此為止，對吧！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "那麼，明天也請您多多指教！",
+      "Text": "那，明天也請多多指教了！",
       "ChoiceDataList": [
-        "好，明天見——",
-        "嗯，明天見--"
+        "好，明天也──",
+        "嗯，明天也──"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "在千代王向我揮手告別時，\r\n我低頭看見了她剛剛給我的巧克力。",
+      "Text": "我正要對櫻花千代王揮手時，轉瞬間，\n突然想起口袋中還裝著\n她送我的巧克力。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -222,7 +222,7 @@
       "Name": "櫻花千代王",
       "Text": "……訓練員？",
       "ChoiceDataList": [
-        "讓我再做一件事，咱們就算扯平吧？"
+        "我可以再多做一件事來補償妳嗎？"
       ],
       "ColorTextInfoList": []
     },
@@ -234,67 +234,67 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "……呣呣……唔～\r\n呼哇～真好吃呀～",
+      "Text": "……咬……嚼！\n呼哈～好好吃～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "但這樣真的可以嗎？\r\n居然讓您破費來請我……",
+      "Text": "但竟然讓你破費請客，\n真的可以嗎？",
       "ChoiceDataList": [
-        "不就一頓飯嗎，沒事沒事。"
+        "不過一點小東西，不要在意"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "……哈哈哈。\r\n沒想到送您巧克力還能有肉包作為回禮，\r\n我真幸運呀～",
+      "Text": "……呵呵，送你巧克力竟然可以收到\n肉包當回禮。我真是幸運呢～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "好～我吃飽啦，謝謝款待！\r\n啊！沒想到我和訓練員幾乎同時吃完呢！",
+      "Text": "呼～～我吃飽了。\n啊哈，訓練員也跟我\n一起同時吃完呢！",
       "ChoiceDataList": [
-        "畢竟只吃了一個嘛。"
+        "因為就只有一個嘛"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "哈哈，說得也是呢～……",
+      "Text": "呵呵，也對……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "……那個……我可以再吃一個……\r\n不，再吃半個嗎？",
+      "Text": "……那要不要再吃一個？\n這次我們一起分著吃。",
       "ChoiceDataList": [
-        "別這麼說啦，我再請你一個就是了。"
+        "別這麼說，我請妳吃一整個"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "！！真的可以嗎？！\r\n太好啦～～！！",
+      "Text": "！！真的嗎？真的可以嗎！？\n太棒了～～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "那就試試看巧克力包子吧！\r\n好像是情人節特供商品呢～……",
+      "Text": "那接下來我要吃巧克力包子！\n應景情人節氣氛～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "吃過包子，\r\n我和千代王一起走出便利店的時候——",
+      "Text": "當櫻花千代王正要跑向\n便利商店時──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "嗚哇啊啊啊？！",
+      "Text": "哇啊！？",
       "ChoiceDataList": [
         "沒事吧！？"
       ],
@@ -302,53 +302,53 @@
     },
     {
       "Name": "獨白",
-      "Text": "她突然絆了一跤。\r\n我趕緊抓住她的肩膀把她拉了回來。",
+      "Text": "她踉蹌了一下，即將往前直撲地面，\n我趕緊抓住她的肩膀，將她拉了回來。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "對、對不起……\r\n剛剛我好像左腳絆右腳了……",
+      "Text": "抱、抱歉……\n我的右腳絆到左腳了……",
       "ChoiceDataList": [
-        "你小心點呀。"
+        "要多小心喔"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "好的……\r\n嗚嗚，明明好久沒犯過這樣的低階錯誤了……\r\n今天居然在訓練員面前……",
+      "Text": "好的……嗚嗚，居然在訓練員面前\n出了這麼少見的糗……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "嗚嗚……\r\n……嗯，但是……",
+      "Text": "唉…………不過……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "哎嘿嘿……您剛剛幫我的時候，\r\n看上去好像比平時帥氣了不少呢……",
+      "Text": "嘿嘿嘿……被那樣拯救過後，\n總覺得你看起來比平時更帥了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "嘿嘿嘿，看見了訓練員帥氣的一面呢。",
+      "Text": "呵呵呵，今天見識到\n訓練員帥氣的一面了呢。",
       "ChoiceDataList": [
-        "好啦，不許捉弄大人。"
+        "真是的，別得意忘形啦"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "好～",
+      "Text": "好～啦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "我一邊小心注意著千代王還會不會又摔跤，\r\n一邊和她一起回到了學園。",
+      "Text": "我一路上盯著櫻花千代王，防止她再度跌倒，\n就這樣兩人一起回到了學園。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

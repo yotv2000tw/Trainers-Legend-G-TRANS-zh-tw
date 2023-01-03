@@ -1,5 +1,5 @@
 {
-  "Title": "這個、就叫做浪漫嗎？",
+  "Title": "這種情境很浪漫吧？",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,104 +9,104 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "『真實解謎！神秘的皇冠與怪盜之館』\n……這看板是什麼呀！\u3000感覺很有趣呢！",
+      "Text": "「實境解謎，神祕的后冠與怪盜之館」……\n這是什麼的看板！感覺好有趣！",
       "ChoiceDataList": [
-        "要去玩玩嗎？"
+        "要去看看嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "ぜひ！\u3000館を丸ごと使っての遊びだなんて……\r\nふふっ、胸が高鳴るね！",
+      "Text": "要！使用整棟建築物進行的遊戲啊……\n呵呵，真是令人雀躍不已！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "在遊戲開始前，館主進行了遊戲的說明──\n在這洋館之中，混入了怪盜。",
+      "Text": "在遊戲開始前，\n館長高聲說明狀況──\n似乎有怪盜混進了這個館。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "也就是說，在限制時間之內，\n找到偽裝成傭人的怪盜的話就是我們贏了！",
+      "Text": "簡單來講，只要在時間限制內找出\n偽裝成傭人的怪盜就是我們贏了！",
       "ChoiceDataList": [
-        "寶物被偷走的話就是輸了呢",
-        "寶を盜まれたら負け、だね"
+        "如果寶物被偷走就輸了",
+        "如果寶物被偷走就輸了"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "じゃあ……すみません、そちらのメイドさん。\r\n少々お話をお聞きしても？",
+      "Text": "那麼……不好意思，那邊那位女僕。\n方便問妳一些事情嗎？",
       "ChoiceDataList": [
-        "已經開始行動了嗎！？"
+        "動作真快！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "狀況瞬息萬變。\n要趁著全員都在的這個時機進行詢問！",
+      "Text": "狀況時時刻刻都在變化。\n我想趁所有人都還在這裡時，\n一一進行問話！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "さすが、行動派のファインモーション。\r\nここは彼女のサポートに徹して、\n解決を目指すのがよさそうだ……！",
+      "Text": "美妙姿勢果然是個行動派。\n看來我還是專心支援她，\n讓她來解決事件比較好……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "這裡看起來荒廢已久了呢？\n不過……正是這種不會引人注意的地方，\n才有可能會藏起什麼東西來～……",
+      "Text": "這棟別館看起來很荒廢。\n不過……在這種沒人會來的地方，\n或許會藏有什麼提示……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "あら？\u3000鎧のマント、\r\nあの鎧デザインの年代に比べて新しいね！\nということは……怪盜のマント、発見かな？",
+      "Text": "哎呀？那件鎧甲的披風，\n相較於鎧甲的設計顯得很新潮！\n該不會……是怪盜的披風吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "啊，剛剛我好像看見上面有什麼東西在發光！\n訓練員，能把我抱上去看看嗎？\n我想確認一下。",
+      "Text": "啊，剛才上面有東西在發光！\n訓練員，可以把我抬上去嗎？\n我想仔細確認。",
       "ChoiceDataList": [
-        "可以是可以，不過摔下來的話很危險哦"
+        "是可以啦，但如果姿勢不夠穩會有危險"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "そっか……では隊長、\r\nトレーナーを持ち上げてくれますか？",
+      "Text": "這樣啊……隊長，\n可以麻煩你把訓練員抬起來嗎？",
       "ChoiceDataList": [
-        "……誒？"
+        "……咦？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "SP隊長",
-      "Text": "領命！那麼，失禮了…喝！",
+      "Name": "護衛隊長",
+      "Text": "遵命！失禮了……哼！",
       "ChoiceDataList": [
-        "嗚哇ー！？"
+        "唔哇！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "這個庭院會有什麼線索呢──",
+      "Text": "這邊的庭院藏了什麼線索呢──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "啊啦！\u3000其他偵探們，你們好♪\n有什麼發現嗎？",
+      "Text": "哎呀！是其他偵探，你們好♪\n有發現到什麼嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "參加者A",
-      "Text": "剛才我們一直在尋找線索。\n找到的東西是……",
+      "Text": "我們剛好正在收集線索。\n然後找到了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -118,72 +118,72 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "嗯，這樣一來我們就走遍所有地方了吧？",
+      "Text": "嗯，我們也把能去的地方都去過一遍了吧？",
       "ChoiceDataList": [
-        "從洋館示意圖來看是這樣呢",
-        "館の見取り図を見る限りはね"
+        "從這座館的平面圖來看是這樣",
+        "從這座館的平面圖來看是這樣"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "哇，有提示的地方都做好了標記呢！\n不愧是訓練員！",
+      "Text": "哇啊，你幫忙把有提示的地方都\n紀錄下來啦！不愧是訓練員！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "這樣一來，物證應該也齊全了。\n應該馬上就能解決，不過……",
+      "Text": "既然如此，我們應該已經把物證都湊齊了。\n還差一點就能破案……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "楽しそうな彼女を見ていると、こちらも和む。\r\n他に手伝えることはあるか尋ねようとした\nその時──",
+      "Text": "看她表現得這麼開心，我也跟著放鬆下來。\n就在我準備問她還有什麼事情需要幫忙時──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "館主",
-      "Text": "嗚哇啊啊啊啊啊！？",
+      "Name": "館長",
+      "Text": "唔哇啊啊啊啊啊！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "啊啦，剛才的聲音是……",
+      "Text": "哎呀，剛才的聲音……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "館主",
-      "Text": "皇、皇冠……\n從金庫中消失了～～！？",
+      "Name": "館長",
+      "Text": "后、后冠……\n從金庫裡消失了～～！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "參加者A",
-      "Text": "誒誒！？\u3000……呃，什麼？\n還沒有遊戲結束，也就是說──",
+      "Text": "咦咦！？……奇怪？\n遊戲沒有結束，這表示──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "──怪盜，還藏身於這洋館之中！\n雖然盜走了皇冠，\n但卻因為皇冠太大而無法帶出去嗎？",
+      "Text": "──怪盜還在這座館裡面！\n或許是因為后冠太大，\n沒辦法直接帶出去也不一定。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "參加者B",
-      "Text": "嗚哇～～！這下不只是怪盜，\n還得找到藏起來的皇冠啊……",
+      "Text": "唔哇～～！不只是怪盜，\n還必須找出被藏起來的后冠啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "參加者A",
-      "Text": "這樣的話，我們分頭去找吧！\n怪盜和皇冠肯定都還在這家洋館裡！",
+      "Text": "既然如此，我們分頭去找吧！\n怪盜和后冠應該都還在屋子裡！",
       "ChoiceDataList": [
-        "自分たちも行こう！"
+        "我們也去找吧！"
       ],
       "ColorTextInfoList": []
     },
@@ -191,122 +191,122 @@
       "Name": "美妙姿勢",
       "Text": "好，這是個好機會！",
       "ChoiceDataList": [
-        "誒？"
+        "咦？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "訓練員，能悄悄跟我走嗎？\n現在的話就能抓到怪盜了哦♪",
+      "Text": "訓練員，我們偷偷跟上去吧。\n現在應該有機會能抓到怪盜♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "把這個書架……這樣。",
+      "Text": "把這個書櫃……像這樣。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "（咔擦，咔咔咔……）",
+      "Text": "（喀咚、轟隆隆……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "果然有隱藏房間呢♪",
+      "Text": "果然有隱藏房間♪",
       "ChoiceDataList": [
-        "真、真的！？"
+        "真、真的耶！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "哼哼，書架後面有個隱藏房間可是很常見的。\n因為要作為重要人員的避難路線嘛！",
+      "Text": "呵呵，其實書櫃後面經常藏有\n用來讓重要人物避難的隱藏通道呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "そしてみんなが大慌てして散開した\r\nこの狀況こそ──",
+      "Text": "趁大家都慌張地各自分散的時候──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "將顯眼的皇冠從這裡帶走的大好時機……\n對吧♪",
+      "Text": "正是偷偷帶出后冠的好機會……\n對吧♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "女僕",
-      "Text": "！？\n為什麼會知道這裡……！？",
+      "Text": "！？\n妳怎麼在這裡……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "呵呵！果然你就是怪盜呢。\n你的鞋尖一直對著金庫哦。",
+      "Text": "呵呵！果然妳就是怪盜。\n因為妳的鞋尖總是朝向金庫。",
       "ChoiceDataList": [
-        "這是怎麼一回事？"
+        "這是什麼意思？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "人在對什麼東西感興趣的時候，\n就會不自覺地把腳尖對著那個方向呢♪",
+      "Text": "人通常會不自覺地將鞋尖\n對準自己關心的事物♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "就是這樣，\n明明沒有解開謎題，卻順利通關了呢！\n埋伏作戰，大獲成功！",
+      "Text": "事情就是這樣，\n「明明沒解開謎團為什麼會出現在這裡！？\n埋伏大作戰」大獲成功！",
       "ChoiceDataList": [
-        "對你刮目相看了！",
-        "也許有點犯規的感覺……"
+        "太令人佩服了！",
+        "感覺有點犯規……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "呵呵，承蒙謬讚，不勝光榮。",
+      "Text": "呵呵，很榮幸能獲得你的稱讚。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "開玩笑的啦~\n畢竟是久違地能看穿他人內心想法的機會，\n稍微熱血上頭了♪",
+      "Text": "開～玩笑的！好久沒像這樣跟人勾心鬥角，\n感覺稍微燃起了鬥志♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "我不禁對語氣聽上去理所當然的她感到相當欽佩。\n同時，似乎我也明白了……\n她的心思似乎並不簡單……",
+      "Text": "她這段話說得相當自然，讓我佩服不已。\n這件事讓我感受到美妙姿勢的深謀遠慮……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "あはは、たしかに。\r\nメイドさんも驚いちゃっていたもんね。",
+      "Text": "啊哈哈，的確。\n女僕小姐也嚇了一跳呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "でも……非常事態には、\r\nしきたりや常識にとらわれず、\n柔軟に対応すべきといいますか。",
+      "Text": "不過……面對緊急狀況時，\n不能侷限於常規或常識，\n要能夠靈活地對應。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "而且我們的做法也沒給其他人帶來麻煩呢。\n……對吧？",
+      "Text": "反正我也沒使出會給相關人士添麻煩的手段。\n……對吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "意味深な笑みを浮かべるファインモーション。\r\n底知れない表情に、頷くことしか\nできないのであった……。",
+      "Text": "美妙姿勢露出意味深長的笑容。\n面對那深不可測的表情，\n我只能點頭表示贊同……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

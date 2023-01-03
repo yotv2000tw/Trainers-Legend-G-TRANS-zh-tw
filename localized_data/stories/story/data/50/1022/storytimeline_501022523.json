@@ -1,5 +1,5 @@
 {
-  "Title": "高貴的替補隊員！",
+  "Title": "高貴的代打！",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,67 +9,67 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "ふ～～っ、ごちそうさまっ！\r\nさて……お會計を……。",
+      "Text": "呼～～我吃飽了！\n那麼……該結帳了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "拉麵店店主",
-      "Text": "──なに！\u3000ぎっくり腰だと！？\r\n無理に動くな！\u3000今すぐ救急車で……。",
+      "Name": "拉麵店老闆",
+      "Text": "──什麼！閃到腰了！？\n別勉強動！我立刻叫救護車……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "打工的男性",
-      "Text": "だ、大丈夫っす！\u3000晝時の出前ラッシュに\r\n休んでられないっすよ……！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美妙姿勢",
-      "Text": "まぁっ、これはお店の大ピンチ……！\r\nへい大將っ！\u3000ここは私に任せてくださる？",
+      "Name": "男打工店員",
+      "Text": "我、我沒事！中午的外送訂單很多，\n我怎麼可以休息……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "1軒目の配達先は……こちらの住所ね。\r\n急いで走れば……。",
+      "Text": "哎呀，店家遇到了大危機……！\n老闆！可以讓我幫忙嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "あ、でもこの岡持ち……バランスが重要ね！\r\n麺が伸びないようにルートも効率よく……。",
+      "Text": "第一家外送的地址……是這個吧。\n只要跑快一點……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "啊，不過這個外送箱……需要保持平衡呢！\n為了避免麵被泡爛，路線也要很有效率……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "オイ……ンなとこで突っ立ってンじゃねェよ。\r\n邪魔だ。",
+      "Text": "喂……別站在那裡不動。\n礙事。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "あら、シャカール！\r\nちょうどいいところに……！\u3000実はね──",
+      "Text": "哎呀，神宮！\n妳來得正好……！其實啊──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "──というわけで……単刀直入に申します。\r\nどうかその非凡な頭脳を貸してほしいのです。",
+      "Text": "──事情就是這樣……我開門見山地說了。\n請讓我借重妳那過人的智慧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "あァ……？\u3000調理時間やてめェの速度まで\r\n加味して最適ルートをナビしろ……だと？\nンなダリィこと誰がするかッ！",
+      "Text": "啊……？要我將調理時間和妳的速度列入計算，\n然後幫妳擬定路線嗎……？\n誰要做那種麻煩的事情！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "もちろん、キミにとっても利はあるよ。\r\n私があらゆるルートをあらゆる速度で走る\nデータが取れるんだもの。",
+      "Text": "當然，這對妳也有好處。\n因為能夠獲得我在各種路線\n用各種速度奔跑的資料。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -81,49 +81,49 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "ここ最近はずっと、グラウンドで\r\n時計を気にしながら走って、\n熱心にメモをとっているみたいだけれど……。",
+      "Text": "妳最近在操場跑步時，\n好像一直很在意時鐘，\n還認真地抄筆記……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "今日はこんな時間にここにいるなんて。\r\nもしかして行き詰まっているんじゃないかな？\n……自分のデータだけでは、足りなくて。",
+      "Text": "妳今天在這個時間出現在這裡，\n該不會是因為遇到了瓶頸吧？\n……因為只有自己的資料不夠。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "チッ……目ざとい殿下サマだぜ……。\r\n仕方ねェ、乗ってやるよ！",
+      "Text": "嘖……殿下的眼光還真是敏銳……\n拿妳沒辦法，我就稍微奉陪一下吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "ふふっ！\u3000ありがとう♪\r\nそれじゃあ、始めましょう！",
+      "Text": "呵呵！謝謝妳♪\n那麼，趕緊開始吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "終わった～～～っ！\u3000すごいよ！\r\nおかげであっという間だった！",
+      "Text": "結束了～～！好厲害！\n託妳的福，一下就送完了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "呑気なモンだなったく……このサンプル量……\r\nどう考えてもてめェが損してるぜ？",
+      "Text": "可惡，妳還真是悠哉……這麼多樣本……\n不管怎麼想都是妳吃虧喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "そんなことないよ♪\u3000お店は助かったし、\r\n走っている最中、私も発見ばかりだったもの。",
+      "Text": "才沒有這種事♪不僅幫到了店家，\n我在奔跑時也有許多收穫。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "この感覚……なんだか新しいな～！\r\n次のレースが楽しみ♪",
+      "Text": "這個感覺……好新鮮～！\n真期待下次比賽♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

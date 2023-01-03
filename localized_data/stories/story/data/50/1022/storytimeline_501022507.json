@@ -1,5 +1,5 @@
 {
-  "Title": "粉絲來信",
+  "Title": "粉絲信",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,85 +9,85 @@
     },
     {
       "Name": "獨白",
-      "Text": "某一天，美妙姿勢收到了粉絲來信。",
+      "Text": "某天，美妙姿勢收到了粉絲信。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "哇！\u3000是粉絲來信，好高興！",
+      "Text": "哇啊！是給我的信，好開心！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "SP隊長",
-      "Text": "失禮いたします。\r\nそれでは中身を確かめさせて頂きます。",
+      "Name": "護衛隊長",
+      "Text": "不好意思。\n請先讓我確認一下內容。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "一直待在她身邊的護衛接過信件，\n飛快地確認了其中的內容物。",
+      "Text": "護衛隊突然現身，\n俐落地開始確認粉絲信的內容。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "SP隊長",
-      "Text": "給您。\n失禮了。",
+      "Name": "護衛隊長",
+      "Text": "看起來沒有危險。\n那麼我先告辭了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "嗯，謝謝你啦。",
+      "Text": "嗯，謝謝妳。",
       "ChoiceDataList": [
-        "只是收到一封粉絲信也很麻煩啊",
-        "ファンレター1つ受け取るのも大変だね"
+        "連收一封粉絲信都不容易呢",
+        "連收一封粉絲信都不容易呀"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "雖然也很想自己親自開封粉絲的來信，\n不過考慮到立場的話，也是沒辦法的事情。",
+      "Text": "雖然我也想自己拆封，\n但我明白自己的立場，所以這也沒辦法。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "那麼那麼，寫了些什麼呢──",
+      "Text": "我看看裡面寫了什麼──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "『美妙姿勢小姐，您好。\n是您給予了我勇氣』",
+      "Text": "「美妙姿勢，\n我從妳身上獲得了勇氣。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "『作為世家千金的我沒敢向父母說出自己的夢想，\n差點就要放棄參加比賽的時候，\n我接觸到了同時以王族與競技者兩個身份活躍的您』",
+      "Text": "「我的父母不認同望族千金參加比賽，\n就在我打算放棄夢想時，得知妳同時\n朝王室與競技選手這兩條路邁進。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "『我也要像您那樣追求夢想\n若是夢想能實現的話，\n希望我們能夠在賽場上再會』",
+      "Text": "「我也要像妳那樣追求夢想。\n如果這個夢能夠實現，\n希望未來能在賽道上與妳相見。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "『我也會為您今後的活躍加油鼓勁的』\n……這樣。",
+      "Text": "「我以後也會繼續替妳加油」……\n這樣啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "我明明是爲了自己的夢想才奔跑的，\n但不知何時也和他人的夢想產生了交集呢。",
+      "Text": "雖然我是為了自己的夢想在跑，\n但也能與其他人的夢想產生連繫呢。",
       "ChoiceDataList": [
-        "什麼時候能和這個孩子比一場就好了呢",
-        "いつかその子とも走れるといいね"
+        "希望未來有機會和她一起跑",
+        "希望未來有機會和她一起跑"
       ],
       "ColorTextInfoList": []
     },
@@ -99,21 +99,21 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "彼此都全力以赴，完成一場最棒的比賽，\n接著還能相視一笑，\n互道一句「我們的道路還會不斷延伸」就好了呢。",
+      "Text": "希望我們能夠全力較勁，一起跑出最棒的\n比賽，然後笑著讓彼此的\n道路不斷延續下去。",
       "ChoiceDataList": [
-        "為此也必須要加油訓練呢！"
+        "想達成這個目的就要練習！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "是呢！\n要好好加油了哦～！",
+      "Text": "是啊！\n我要好好加油～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "ファンレターの溫かなメッセージは、\r\n彼女にとっていい刺激になったようだった。",
+      "Text": "粉絲信的溫馨訊息，\n對她來說似乎是個不錯的剌激。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

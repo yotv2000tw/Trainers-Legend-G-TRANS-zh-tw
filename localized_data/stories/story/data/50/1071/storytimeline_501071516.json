@@ -1,0 +1,90 @@
+{
+  "Title": "良藥苦口",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我去學生餐廳吃飯時，\n發現目白阿爾丹面前擺滿了陌生的料理。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "訓練員，你好。\n你看，這是很稀奇的料理呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "這叫藥膳料理，\n是一種能夠改善內臟功能的餐點。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "聽說這裡嘗試引進這種料理，\n但因為味道過於獨特，所以都沒有人點。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "我不希望食材因此被浪費掉，\n加上我很習慣吃這類料理，\n所以就多點了一些。",
+      "ChoiceDataList": [
+        "會不會有點太多了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "雖然可能點得有點太多了，\n但我想多攝取營養。",
+      "ChoiceDataList": [
+        "會攝取過多喔",
+        "多吃點讓身體變強壯吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……這分量果然還是太多了。\n但又不能浪費……",
+      "ChoiceDataList": [
+        "我來幫忙吃吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……謝謝你。\n那我就接受你的好意吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "請稍等一下，\n我來計算吃多少能補充適量的營養。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後，我幫目白阿爾丹吃掉了\n她覺得點太多的分量。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "好的。我會打造出能跑贏比賽的身體，\n敬請期待吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "後來目白阿爾丹吃完了藥膳料理，\n補充了許多營養。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

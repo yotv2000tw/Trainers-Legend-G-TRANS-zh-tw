@@ -1,5 +1,5 @@
 {
-  "Title": "請保重！",
+  "Title": "保重身體！",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,74 +9,74 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……都說了，只是腳稍微扭了下而已。",
+      "Text": "……我就說了，只是稍微扭到腳而已。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "沒必要特意把我送來保健室。",
+      "Text": "你不用特地\n跟到保健室的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "現在已經沒問題了。\n快點重新訓練吧。",
+      "Text": "已經沒問題了。\n來吧，該繼續下一個訓練項目了。",
       "ChoiceDataList": [
-        "這麼快就打算重新開始訓練？",
-        "這麼快就打算重新開始訓練？"
+        "妳打算重新開始訓練？",
+        "妳打算重新開始訓練？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我必須要在比賽裡繼續獲勝才行……\n現在才不是該在這裡休息的時候。",
+      "Text": "我沒時間慢慢休息了。\n我……必須奔跑才行。",
       "ChoiceDataList": [
-        "學會沉心靜氣也是一種強大哦。",
-        "真有你的風格啊。",
-        "真有你的風格呢。"
+        "不被焦躁情緒左右也是一種堅強喔",
+        "真像妳會說的話",
+        "真像妳會說的話"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我必須要在比賽裡繼續獲勝才行……\n現在才不是該在這裡休息的時候。",
+      "Text": "我沒時間慢慢休息了。\n我……必須奔跑才行。",
       "ChoiceDataList": [
-        "學會沉心靜氣也是一種強大哦。",
-        "真有你的風格啊。",
-        "真有你的風格呢。"
+        "不被焦躁情緒左右也是一種堅強喔",
+        "真像妳會說的話",
+        "真像妳會說的話"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "沉心靜氣……",
+      "Text": "不被焦躁情緒左右……",
       "ChoiceDataList": [
-        "先等你的腳傷治好吧。"
+        "現在就先等待傷勢復原吧"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "哈啊……我明白了。\n那就先靜養吧。",
+      "Text": "唉……我知道了。\n我會暫時靜養的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……畢竟，你也是我的訓練員啊。",
+      "Text": "畢竟你還算是我的訓練員啊",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "雖然不情願，但愛慕織姬依舊聽從了我的請求。",
+      "Text": "雖然一臉不情願，\n但愛慕織姬還是聽進我的請求了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……疼痛已經減輕了。\n也不影響行動——",
+      "Text": "……疼痛很輕微，\n我也還能動──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -84,7 +84,7 @@
       "Name": "愛慕織姬",
       "Text": "嗚……",
       "ChoiceDataList": [
-        "還是先回保健室吧。"
+        "還是回保健室吧"
       ],
       "ColorTextInfoList": []
     },
@@ -96,7 +96,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "最後，我帶著一下子消沉起來的愛慕織姬回到\r\n保健室。",
+      "Text": "於是我帶著沮喪的\n愛慕織姬，再度\n回到了保健室。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -104,31 +104,31 @@
       "Name": "愛慕織姬",
       "Text": "……呼。",
       "ChoiceDataList": [
-        "不痛吧？"
+        "會痛嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "不痛。\n本身也就不是什麼大傷。",
+      "Text": "沒問題的。\n原本就不是什麼嚴重的傷。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……你也不用一直那麼擔心地盯著我。\n會害我沒法集中在訓練裡的。",
+      "Text": "……你不用一直盯著我看。\n這樣我無法專心練習。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "那，我再去跑幾圈。",
+      "Text": "那我出發了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "之後，愛慕織姬在力所能及的範圍內完成了訓練。",
+      "Text": "之後，愛慕織姬在\n不至於影響到傷勢的範圍內\n持續進行了訓練。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

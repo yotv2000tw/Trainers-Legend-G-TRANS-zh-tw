@@ -1,5 +1,5 @@
 {
-  "Title": "追加的自主鍛鍊",
+  "Title": "額外的自主訓練",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,7 +9,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "今天的訓練全部結束后——",
+      "Text": "當今天的訓練\n全部告一段落的時候──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -21,73 +21,73 @@
     },
     {
       "Name": "獨白",
-      "Text": "這麼說著，\n愛慕織姬卻走向和更衣室完全相反的方向。",
+      "Text": "愛慕織姬這麼說著，\n卻開始朝著更衣室的反方向走去。",
       "ChoiceDataList": [
-        "你要去哪兒？",
-        "你要去哪兒呀？"
+        "妳要去哪裡？",
+        "妳要去哪裡？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……在公園裡練下協調性，然後在河邊往返跑。",
+      "Text": "……我要穿過公園，然後在河岸來回跑幾趟。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "然後再進行戶外越野跑，跑到高地公園再回來。\n這樣的話剛好趕上門禁。",
+      "Text": "之後再跑去高地上的公園，\n折返回來時差不多就是門禁時間了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "總之，我準備再自主練習一會。",
+      "Text": "我還跑得動。\n我要繼續訓練。",
       "ChoiceDataList": [
-        "我陪你吧。",
-        "留點體力給明天的訓練吧。"
+        "我陪妳",
+        "還是為了明天保留體力吧"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "陪我……？\n在外邊的話，我們很快就會跑散吧。",
+      "Text": "說要陪我……\n但你根本跟不上我吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……算了，那我今天就在跑道上跑吧。\n麻煩你繼續陪我訓練了。",
+      "Text": "……好吧，算了。那我今天就繞著賽道跑吧，\n我跑步時請你幫忙確認姿勢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "就這樣，我陪著愛慕織姬一直訓練到很晚。",
+      "Text": "之後我便陪著愛慕織姬練跑，\n直到晚上。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……只是這種程度的鍛鍊而已，\n不會影響到明天的訓練。",
+      "Text": "……不過追加這麼一點練習量，\n不會妨礙明天的訓練的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "聽見她這麼說，\n我開始說明休息對於身體的重要性。",
+      "Text": "我向愛慕織姬解釋了\n讓身體好好休息有多重要。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……也不必說到這份上吧。\n就好像是在責怪我對自己的身體不負責任似的……",
+      "Text": "……既然你都這麼說了，那今天就到此為止吧。\n我想你應該也不是憑空亂說的……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "但是，明天也得安排好相應的訓練啊。",
+      "Text": "不過，有個交換條件。\n明天可要用訓練量補上喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

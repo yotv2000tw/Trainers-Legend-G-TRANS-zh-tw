@@ -1,5 +1,5 @@
 {
-  "Title": "片刻的安寧",
+  "Title": "短暫的休息",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,46 +9,46 @@
     },
     {
       "Name": "",
-      "Text": "夏季集訓已經進行了一半。目白阿爾丹的身體狀況還不錯，\n我們每天都按計劃地進行著訓練。在某一天——",
+      "Text": "夏季集訓來到了中期。在目白阿爾丹的身體狀況良好，\n訓練也一直進行得很順利的某一天──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "那麼，下午也請您多多指教了。\n……哎呀？",
+      "Text": "那麼，下午也請多多指教。\n……哎呀？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "馬娘A",
-      "Text": "啊~那邊的二位~~！今晚有空嗎？\n我們在募集試膽大會的參加者哦——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白阿爾丹",
-      "Text": "哎呀，試膽大會嗎？雖然有所耳聞，但我還從來沒有參加過呢。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "馬娘B",
-      "Text": "啊、等等啦！你這樣突然邀請過來，我們也很困擾的！\n你看……阿爾丹前輩，你不是得注意身體狀況嗎？",
+      "Name": "賽馬娘A",
+      "Text": "啊，兩位～！請問你們今天晚上有空嗎？\n我們要辦試膽大會，正在募集參加者～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "哎呀……感謝你的關心。\n不過我的身體沒什麼問題哦。既然這樣的話……",
+      "Text": "哎呀，試膽大會嗎？我有聽說過這個活動，\n但沒有實際參加過。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "等、等一下啦！這麼突然會給人家添麻煩吧。\n妳想想……阿爾丹前輩應該會想調養身體吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "那個……謝謝妳的關心。\n我的身體狀況沒問題……不過說得也是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "看來目白阿爾丹自己是想要參加的，\n但因為害怕其他人會為她擔心，所以沒有說出口。這樣的話——",
+      "Text": "看來目白阿爾丹很在意自己參加活動，\n會讓周圍的人替她擔心。既然如此──",
       "ChoiceDataList": [
-        "那就參加吧。我也陪著，沒關係的。",
-        "那就參加吧。我也陪著，沒關係的哦。"
+        "參加吧。我也一起參加就沒問題了",
+        "參加吧。我也一起參加就沒問題了"
       ],
       "ColorTextInfoList": []
     },
@@ -59,124 +59,124 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "馬娘B",
-      "Text": "我明白了！不過，切記不要勉強自己哦。\n要是不舒服的話，中途退場也沒關係！",
+      "Name": "賽馬娘B",
+      "Text": "我知道了！但請不要勉強自己喔。\n就算中途退出也沒關係！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "就這樣，我們一起參加了試膽大會——",
+      "Text": "就這樣，我們決定參加試膽大會──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "化裝成怪物的馬娘A",
-      "Text": "吼~~~~~~~~！！！！",
+      "Name": "扮鬼的賽馬娘A",
+      "Text": "哇啊～～～～！！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "走在前面的參加者們",
-      "Text": "噫ーーーーー！！！！\n不要過來～～～～～！！！！",
+      "Name": "先出發的參加者們",
+      "Text": "呀──────！！！！\n不要啊～～～～～！！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "從前方的一片黑暗之中，傳出了相當驚恐的悲鳴聲。",
+      "Text": "從前方的暗處傳來淒厲的慘叫聲。",
       "ChoiceDataList": [
-        "好熱鬧啊……",
-        "好熱鬧啊……"
+        "氣氛真熱烈呢……",
+        "氣氛真熱烈呢……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "真的呢……呵呵呵，開始越來越期待了。\n那麼，我們也出發吧。",
+      "Text": "是啊……呵呵，越來越讓人期待了。\n那麼，我們也出發吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "化裝成怪物的馬娘A",
-      "Text": "吼~~~~~~！！！！……啊、阿爾丹前輩？！\n對、對不起！你沒事吧？！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白阿爾丹",
-      "Text": "嗯，我沒事的哦。\n謝謝你的關心。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "化裝成怪物的馬娘B",
-      "Text": "我~好~恨~啊~……\n……前輩~注意腳下哦~~",
+      "Name": "扮鬼的賽馬娘A",
+      "Text": "哇啊～～～～！！！！……咦，是阿爾丹前輩！？\n對、對不起，妳還好吧！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "非常感謝。\n諸位也請注意防護蚊蟲叮咬哦。",
+      "Text": "是的，我沒事。\n謝謝妳的關心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "扮鬼的賽馬娘B",
+      "Text": "我……好……恨……啊……\n……前輩～請小心腳邊～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "謝謝。\n妳也要小心蚊蟲叮咬喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "一路上的“妖怪”們都忙著關心目白阿爾丹的身體，\n根本沒空嚇唬我們。這試膽大會好像已經變得沒意思起來了——",
+      "Text": "或許是擔心目白阿爾丹的身體狀況，扮鬼的人\n都沒有認真嚇人。我開始納悶起這樣真的有趣嗎──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "呵呵呵……我一直都對試膽大會很有興趣呢。\n能和大家打成一片，一起歡笑……真的很開心。",
+      "Text": "呵呵……試膽大會真有意思呢。\n大家都玩得很熱鬧，光是能參與就讓我很開心了。",
       "ChoiceDataList": [
-        "阿爾丹看起來也很享受呢。",
-        "阿爾丹看起來也很享受呢。"
+        "妳好像也很開心呢",
+        "妳好像也很開心啊"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "嗯嗯，我相當享受的哦。\n畢竟——",
+      "Text": "是的，我非常興奮。\n因為──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "兩人一起步入那條漆黑的前路，然後尋找幽靈什麼的……\n簡直就和先前我們一起看過的那場歌劇一樣呢。",
+      "Text": "兩個人一起走在昏暗的路上……尋找幽靈。\n簡直就和之前一起看的那場戲一樣。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "騎士A",
-      "Text": "快看啊，吾友！那便是僅在逢魔之刻才獻身的受詛城堡啊！\n真是不得了的威容……",
+      "Text": "吾友，看啊。那就是只會在薄暮時出現的詛咒之城！\n看起來真是壯觀……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "兩位騎士",
-      "Text": "怪怪怪怪怪物？！",
+      "Name": "兩名騎士",
+      "Text": "鬼鬼鬼鬼鬼啊！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "也許是因為正身處於黑暗之中吧，我莫名地汗毛倒豎。\n明明是一場戲劇，但我突然意識到裡面其實有些相當不詳的內容……",
+      "Text": "或許是因為身在暗處。明明內容是喜劇，\n一回想起來還是突然覺得有點可怕……",
       "ChoiceDataList": [
-        "總、總覺得開始緊張起來了……"
+        "總、總覺得開始緊張起來了"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "…………但是，我的話語卻沒有等來回答。\n我扭頭一看，理應在我身邊的目白阿爾丹也不見了蹤影。",
+      "Text": "…………然而，沒有人回答我，\n本來應該待在我旁邊的目白阿爾丹不見了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我連忙往回走了幾步找她、但依舊沒有看見她的身影——",
+      "Text": "我本來以為是自己走太快了，但回頭後還是沒看到人──",
       "ChoiceDataList": [
         "……阿爾丹？"
       ],
@@ -184,50 +184,50 @@
     },
     {
       "Name": "？？？",
-      "Text": "——哇！！！",
+      "Text": "──哇！！！",
       "ChoiceDataList": [
-        "嗚哇啊啊啊啊啊啊啊啊啊！"
+        "嗚哇啊啊啊啊啊啊！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "哎呀……！呵呵……哈哈哈哈……您叫得真大聲呢。",
+      "Text": "哎呀……！呵呵、呵呵呵呵，你叫得好大聲喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "呵呵……非常抱歉。剛剛聊天的時候，\n我突然覺得扮演幽靈似乎也會很有趣，所以……",
+      "Text": "呵……對不起。剛才聊完後，\n突然覺得扮演幽靈好像也很有趣，所以忍不住就……",
       "ChoiceDataList": [
-        "……下次就輪到我來嚇你了啊！",
-        "……下次就輪到我來嚇你了哦！"
+        "下次換我嚇妳喔！",
+        "下次換我嚇妳了！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "哎呀，屆時可務必讓我見識一下您的手腕 ♪",
+      "Text": "哎呀，期待你的表現呢♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "真是度過了一段相當有意義的時間呢。\n不過，沒有找到城堡與幽靈還是很遺憾呀……",
+      "Text": "真是段充實的時光。\n遺憾的是，沒有找到城堡或幽靈呢。",
       "ChoiceDataList": [
-        "也完全沒能嚇到阿爾丹啊……"
+        "我也沒嚇到阿爾丹"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "呵呵呵……一會藏起來，一會突然發出很大的聲音……\n謝謝您為我考慮了這麼多哦。",
+      "Text": "呵呵，你想了很多方法，\n一下躲起來一下大叫，逗得我很開心呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "應該說是……重拾童心了嗎。\n和訓練員待在一起的時候，不知不覺就會放鬆下來呢。",
+      "Text": "這就是所謂的……重返童心吧。\n只要和訓練員在一起，我就會不自覺鬆懈下來。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -235,103 +235,103 @@
       "Name": "目白阿爾丹",
       "Text": "呼……",
       "ChoiceDataList": [
-        "累了的話，就稍微休息一會吧。"
+        "累的話，就休息一下吧"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "沒關係的。我還不累——",
+      "Text": "我沒事，我並不是覺得累──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "…………\n不。果然，還是稍微休息一下比較好吧。",
+      "Text": "……\n不，果然還是讓我休息一下好嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "明天也還有訓練呢……請問準備要訓練些什麼呢？\n今天晚上玩得這麼開心，稍微有點熬夜了呀……",
+      "Text": "明天也要訓練吧……要做哪些項目呢？\n今天已經像這樣稍微熬夜了……",
       "ChoiceDataList": [
-        "其實明天準備了一些比較辛苦的內容哦。"
+        "明天的訓練預定會比較嚴苛一點"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "……！好的，我明白了。",
+      "Text": "……唔！好的，我知道了。",
       "ChoiceDataList": [
-        "難道……你很開心嗎？"
+        "妳該不會很開心吧？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "呵呵呵，是的。\n而且，一定比訓練員您預料的更開心哦。",
+      "Text": "呵呵，是的。\n一定比訓練員想像的還要開心。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "很少有人願意相信我能夠做到這些事情。\n……說不定，我真正遇上了能夠理解我的人了呢。",
+      "Text": "有人信任我的能力。\n……願意了解我。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "這實在是一件令人雀躍的事情。\n所以，我——",
+      "Text": "那是多麼令人放心的事情。\n所以，我──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "……訓練員，您還記得嗎？\n過去您對我說過，想撒嬌的時候就應該撒嬌。",
+      "Text": "……訓練員，你還記得嗎？\n你以前曾對我說過能向你撒嬌。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "我不會在訓練員面前勉強自己的。\n請您安心。",
+      "Text": "我保證在訓練員面前不會勉強自己，\n請你放心。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "『我明白了。不過，想撒嬌的時候可以盡情撒嬌哦。』",
+      "Text": "「我知道了。隨時都可以向我撒嬌喔」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "『我明白了。不過，想撒嬌的時候可以盡情撒嬌哦。』",
+      "Text": "「我知道了。隨時都可以向我撒嬌喔」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "您也說過，\n在您面前，可以更放鬆一些的吧？",
+      "Text": "你還說過在你面前，\n可以再放鬆一點吧。",
       "ChoiceDataList": [
-        "我當然還記得呀。"
+        "我當然記得"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "那麼……我想借您的肩膀靠一下。\n海浪的聲音，實在是沁人心脾——",
+      "Text": "既然如此……請把肩膀借我靠一下……\n總覺得海浪的聲音聽起來很舒服──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "（多麼溫柔的聲音啊……睡意慢慢變濃了……\n……嗯……就這樣睡下去，似乎也不錯吧……）",
+      "Text": "（好溫柔的聲音……感覺會直接睡著……\n……嗯，或許就這樣睡著也沒關係。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "（見證著“現在的我”的每一個瞬間的人……\n這位訓練員……一定就是我的棲木了吧……）",
+      "Text": "（這個人看的是「現在的我」……\n他一定……能成為我的棲木……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

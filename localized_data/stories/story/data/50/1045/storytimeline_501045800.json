@@ -1,0 +1,282 @@
+{
+  "Title": "Search or Mommy",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某天，\n我在圖書館看到了超級小溪。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "哎呀，真巧耶～\n訓練員也來找書嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "我也正在找參考書。\n因為老師出了世界史跟古文的作業。",
+      "ChoiceDataList": [
+        "妳找到適合的參考書了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "其實……因為實在太多種參考書了，\n弄得我眼花撩亂的～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "那、那個……不介意的話，\n請讓我幫妳一起找……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "哎呀～是英雄啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "抱歉突然來打擾你們。\n我剛剛聽到你們在談參考書……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "妳不須要道歉～！\n我也很高興妳願意幫忙♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "好、好的！那個，我一定會盡圖書股長的責任，\n找出最適合妳的參考書……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "對了，小溪。\n我認為這本參考書很值得推薦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "這本參考書有很多相關用語的註釋，\n也有很多圖片說明，我覺得特別好懂……！\n而且還有一些很幽默的小知識──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "哎呀，聽起來很不錯呢～\n我能充分感受到這本書的魅力所在♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……啊，對、對不起！\n我自顧自地一次說這麼多……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "呵呵，妳不用放在心上。\n喜歡一件事情到會忘我是件好事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "妳要對自己的喜好懷抱自信，\n還要讓它變成會讓妳引以為傲的優點喔♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "謝、謝謝妳……我好高興。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "我也想用英雄推薦的參考書來學習。\n來，我們繼續找參考書吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "好……！我還有其他想推薦的參考書，\n等等再來比較一下哪種比較適合妳吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "兩人就這麼繼續尋找參考書──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "……哎呀？這是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "呵呵……\n「即便如此，還是拔不起巨大的胡蘿蔔。\n來，大家一起合力把它拔出來吧」。",
+      "ChoiceDataList": [
+        "胡蘿蔔……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "呃，那個是……繪本嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "啊，對不起！我覺得小孩子應該會\n很喜歡這本繪本，不小心看起來了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "這本繪本看起來的確很有趣。\n我也可以想像……孩子們會笑得多開心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "……不過，現在要先忍著不看它！\n我今天是來找參考書的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "我看看，世界史……世界史……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "……哎呀？哎呀呀～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "看～\n我找到一本很適合英雄的繪本了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "咦？適合我的……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "這好像是英雄打倒邪惡巨龍的故事♪\n感覺很～好看喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "那是剛進圖書館的新書……！？\n我還沒看過，但應該……\n不，絕對會是我喜歡的故事！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "呵呵呵，妳果然會喜歡。\n我可以唸一整本給妳聽喔～♪",
+      "ChoiceDataList": [
+        "要趕快找參考書才行！",
+        "我也好想……聽妳唸繪本……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "說、說的也是……！\n對不起，我一直分心去看繪本～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "我、我也不小心就太激動了……\n要努力找找適合的參考書才行……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "我看看，古文……古文……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "哎呀……是《豬大哥跟狼「顧問」》。\n這本應該也很適合唸給大家聽……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "那是聽起來像「古文」而已……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "啊，對不起～！\n我也真是的～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "超級小溪就這麼一邊跟湧上心頭的母愛對抗，\n一邊尋找需要的參考書……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "我當然也會唸給訓練員聽。\n我要開始唸了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "「好久、好久以前……\n有一隻住在山上的壞壞龍跑來村子大鬧，\n讓大家好困擾……」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "小溪的聲音……讓人聽得好安心。\n整個人都放鬆下來了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "超級小溪",
+      "Text": "呵呵呵，不小心聽到睡著也沒關係的～\n乖～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "超級小溪唸完繪本以後，\n便神清氣爽地繼續尋找\n需要的參考書。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

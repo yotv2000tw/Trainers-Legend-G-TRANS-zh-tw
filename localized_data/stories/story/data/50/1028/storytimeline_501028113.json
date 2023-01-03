@@ -1,0 +1,564 @@
+{
+  "Title": "反差香辛料",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "喝啊啊啊啊──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自從開始以鍛鍊身體為中心進行訓練後，\n已經過了一年。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "菱曙的身體，也已經調整到\n能夠將她的力量發揮到極限的狀態。",
+      "ChoiceDataList": [
+        "差不多可以挑戰大型比賽了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "現在的她一定能在比賽中\n將實力毫無保留地展現出來才是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "哇，太棒了～！要參加哪場比賽～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然對她來說可能會是一項挑戰，\n但既然要跑，我想讓她跑GⅠ。",
+      "ChoiceDataList": [
+        "「短途跑者錦標賽」呢？"
+      ],
+      "ColorTextInfoList": [
+        "GⅠ"
+      ]
+    },
+    {
+      "Name": "菱曙",
+      "Text": "啊！是短距離的大型比賽對吧！\n小光也說過要參加呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "好耶～我開始期待了～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是我們以這個方針開始行動，\n又過了幾天──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "那、那個，\n抱歉在妳剛結束訓練時打擾！\n因為我看到妳跑得非常出色……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "妳是菱曙小姐對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "來特雷森學園採訪的記者\n叫住了我們。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "原來如此～！橫綱級的短途跑者\n終於要正式動起來了嗎！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "耶嘿嘿，差不多是這樣～\n橫綱級這稱呼還真帥氣呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "也就是說，還有可能會跟目前\n表現傑出的微光飛駒對戰……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "是啊～\n希望是能跟小光多對戰幾場呢♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這句話令記者不禁楞住了幾秒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "這下子，看來今後的短途賽戰線\n應該越變越有趣呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "那個，如果不會造成困擾的話，\n可以讓我把剛才的事寫成報導嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "當然可以～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "隔日，這件事立刻在網路被大肆報導，\n而從那天起，\n好一陣子每天都有人要求採訪。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播A",
+      "Text": "「賽馬娘菱曙\n將參加短途跑者S一事\n蔚為話題。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "短途跑者S"
+      ]
+    },
+    {
+      "Name": "主播A",
+      "Text": "「身形巨大、速度滿分，\n跑步時魄力十足的她，\n最大的勁敵正是──」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播A",
+      "Text": "「身體嬌小卻氣勢驚人，\n擅於發揮凌厲尾段加速的賽馬娘，微光飛駒！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播A",
+      "Text": "「兩人的身高居然相差36公分！\n她們將會帶來怎樣的比賽呢，真令人期待呢～」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "解說員A",
+      "Text": "「是啊。如果是其他運動，\n首先體格差這麼多的選手，\n是很少能在同個舞台競爭的～」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "解說員A",
+      "Text": "「這正是閃耀系列賽最有趣的地方。\n我已經開始期待比賽了。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "哇，是這樣啊。\n這下～我得加油了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不過在那之後，\n他們的談話令我有點介意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "解說員A",
+      "Text": "「話說，她們站在一起還真有趣呢。\n超巨大賽馬娘跟超嬌小賽馬娘。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播A",
+      "Text": "「是啊。感覺就像一對反差搭檔，\n還挺可愛的呢。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "解說員A",
+      "Text": "「沒錯。該怎麼說……\n應該會很受小朋友歡迎吧。」",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "節目播出後，或許是受到該評論的影響，\n出現越來越多人只對兩人身高差\n投以好奇的眼光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "社群平台",
+      "Text": "「那個畫面確實是最有趣的」\n「感覺會很難專心看比賽耶（笑）」\n「當天去拍照好了XD」",
+      "ChoiceDataList": [
+        "（……總覺得被當成娛樂活動了）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "嗯？怎麼了，訓練員？\n你在煩惱什麼嗎～？",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我自以為沒有將情緒表露在臉上，\n但看來還是被她發現了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "還是你肚子餓了呢～？\n我做個buono的點心給你吧～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "現在冰箱裡有胡蘿蔔，\n我可以做胡蘿蔔脆片喔！",
+      "ChoiceDataList": [
+        "那個──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "遮遮掩掩也只會讓她擔心吧。\n於是我把最近感覺怪怪的事老實地告訴她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "嗯～這樣啊～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "高大的我跟嬌小的小光一起跑，\n是挺有趣的呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "話雖如此，但她們兩人都是很認真地挑戰比賽，\n對未來也抱有夢想。",
+      "ChoiceDataList": [
+        "希望大家好好看比賽，別把妳們當笑話看"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "是沒錯～聽到訓練員你這麼想，\n我好高興喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "不過不過，如果有人覺得有趣而來觀戰的話，\n我認為這也是很幸運的事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "大家覺得我跟小光的比賽會很好玩，\n而特地來到現場──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "然後在看了比賽後，感到很熱血的話～\n那不是很棒嗎～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "那可是我跟小光的比賽呢，\n一定會讓大家都心滿意足的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "菱曙如此堅定地說著。\n她的表情毫無陰霾，態度正面而積極。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "既然菱曙的想法如此豪邁大方，\n身為訓練員必須表現得更可靠才行。",
+      "ChoiceDataList": [
+        "……對不起"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "咦？\n為什麼？怎麼了嗎？",
+      "ChoiceDataList": [
+        "跑出最熱血、最棒的比賽吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "啊！嗯！\n一起努力吧，訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "幾天後。\n她與微光飛駒並行練跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙&微光",
+      "Text": "喝呀啊啊啊啊──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "呼、哈、哈……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "唉～～在最後的最後被超越了～\n小光妳又變快了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "……曙曙才是！\n我差一點就要追不上妳了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在這場熱鬧的訓練後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "咦！？胡蘿蔔超人！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因為聽說微光飛駒喜歡的英雄\n正來到商店街參加活動，\n於是我們臨時決定要去見他。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "胡蘿蔔超人",
+      "Text": "謝謝大家來見我！\n今後也請繼續支持！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好、好的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "……那個，我……我！\n一直想成為像你一樣的英雄！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "所以我現在、正為了比賽非常努力……\n每當表現不佳的時候，\n就會想起英雄的事──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "只要這麼做，\n總是能讓我「唔喔喔──」地湧出鬥志！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "所以、所以──\n今後也請你繼續加油喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "胡蘿蔔超人",
+      "Text": "哈哈，嗯！\n妳的這些話，我會牢牢記在心裡的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "胡蘿蔔超人真帥氣呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "…………小光？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "──嗯，啊！呃，那個……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "微光飛駒以有些嚴肅的表情，\n抬頭看向菱曙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "我跟妳說，曙曙。\n我是真的很想在比賽上盡全力奮鬥！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "曙曙知道我的夢想吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "當然囉～\n妳從進學校的時候就在說了嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "妳想跑出，有如英雄般，\n能給大家勇氣的比賽！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "沒錯！……可是我，\n其實到現在連一場GⅠ競賽都沒贏過。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "不過，正因為如此，\n能跟曙曙一起跑，讓我非常開心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "胡蘿蔔超人也是因為有勁敵在才變強的。\n所以我只要有妳在，就能繼續努力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "小光……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "耶嘿嘿。我也一樣，跟妳比賽，\n會讓我「唔喔喔──」地湧出鬥志喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "會覺得好像快被追上，\n卻絕對不想被追上的感覺！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "所以、所以啊，跑「短途跑者S」的時候，\n我會變得更強。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "然後，下次我絕對會贏的，\n小光！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "菱曙與微光飛駒。\n看來她們都是彼此最好的刺激。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "有時一碰面就拌嘴，\n有時又無言地追趕對方的背影──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然她們的關係\n並不是顯而易見的親密，\n但她們正以自己的做法讓彼此互相成長。",
+      "ChoiceDataList": [
+        "妳們是對方最重要的勁敵呢",
+        "妳們是對方最重要的勁敵呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "勁敵……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "啊哈哈！嗯，對啊。沒錯！\n我跟小光就是勁敵！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "為迎接兩人的目標「短途跑者S」，\n我們繼續投入在訓練中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

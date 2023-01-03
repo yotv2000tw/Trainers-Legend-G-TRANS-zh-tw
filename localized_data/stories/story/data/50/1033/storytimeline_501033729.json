@@ -1,5 +1,5 @@
 {
-  "Title": "抓娃娃失敗……",
+  "Title": "挑戰夾娃娃機失敗……",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,22 +9,22 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "真可惜。\n明明就差一點了……",
+      "Text": "真可惜。\n只差一點就可以……",
       "ChoiceDataList": [
-        "抱歉，沒能幫你抓到娃娃……",
-        "抱歉，沒能幫你抓到娃娃……"
+        "沒能夾來給妳呢……",
+        "沒能夾來給妳呢……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我一開始就說了，我也不是很想要。",
+      "Text": "我一開始就說了，\n我沒有特別想要。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……別這麼消沉了。回去吧。",
+      "Text": "不是玩耍的時候了。\n該回去了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -36,7 +36,7 @@
     },
     {
       "Name": "",
-      "Text": "留下了令人遺憾的結果……",
+      "Text": "留下令人遺憾的結果……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

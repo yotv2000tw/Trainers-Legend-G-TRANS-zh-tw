@@ -1,0 +1,338 @@
+{
+  "Title": "織姬無法坐視不管",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "烏菈菈……請妳重新考慮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "一定沒問題啦！\n雖然我不太清楚，但對方一定是好人！",
+      "ChoiceDataList": [
+        "怎麼了嗎？",
+        "怎麼了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "其實是會長叫我去見一個不認識的人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "……雖然是學生會介紹的人，\n但如果不知道是要去做什麼，\n一旦真的發生什麼事情就來不及了吧。",
+      "ChoiceDataList": [
+        "的確令人擔心，我陪烏菈菈一起去吧",
+        "的確令人擔心，我陪烏菈菈一起去吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "我知道了！\n那織姬和訓練員也一起去吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "等、等一下，為什麼連我也要去──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "──事情就是這樣！我想請烏菈菈\n當我們旅館的海報模特兒！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "我在電視上看見了賽馬娘歌牌大賽！\n妳強悍又華麗的表現……\n正好符合我們旅館的形象！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "哇！太棒了太棒了！\n烏菈菈一定會加油！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "謝謝妳！\n既然如此，希望那位中途參賽的賽馬娘\n也能一起參與拍攝呢……！",
+      "ChoiceDataList": [
+        "中途參賽……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "是的，有位學生在大賽的後半中途參賽，\n展現出帥氣的堅強實力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "沒錯，\n就像那邊那位……咦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "該不會……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "那……那個人就是妳吧！？\n怎麼會有這種奇蹟！\n請妳務必也一起參加這次的海報拍攝……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "──我拒絕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "！！……這樣啊。\n……我明白了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "咦？為什麼為什麼？\n織姬也一起參加嘛！\n一定會很有趣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "唉……\n…………應該有很多比我更適合的人選吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "還是挑選其他讓人看了就心情暢快，\n個性開朗的女孩，\n比較能吸引客人吧……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "真、真──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "真是太棒了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "……咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "這是考慮到我們的利益做出的判斷！\n那份關心、那份態度……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "我在那場大賽中就是被妳的這些地方吸引──\n妳面對比賽時的表情是如此真摯！\n如果能獲得妳的協助，必定能引起很大的反響！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "所以請妳務必……！\n再重新考慮一下……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "當然，我們會全力配合各位的行程，\n避免對競賽造成妨礙……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "就算你這麼說……我……",
+      "ChoiceDataList": [
+        "再重新考慮一次看看怎麼樣？",
+        "期待看見完成後的海報！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "怎麼連你都這麼說…………真是的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "那織姬也會一起去吧～！\n太好了！可以和織姬一起出門～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "要在旅館做什麼呢？\n呃～那裡有什麼呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "對了！那裡有溫泉吧！？\n一起泡溫泉吧！\n溫泉、溫泉～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "……烏菈菈，\n現在應該不是在討論去玩的事情吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "咦？織姬不泡溫泉嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "不……我不是這個意思。\n重點不在於要不要泡溫泉──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "我想也是！妳也會泡溫泉吧♪\n一起跳進溫泉裡吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "烏菈菈……所以說──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "…………唉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，\n愛慕織姬答應當海報的模特兒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "沒問題啦！\n有我跟著！一定能夠順利！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "……所以說，\n我並不是討厭當模特兒……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "如果是這樣的話！\n請讓我透過海報將織姬散發的氛圍，\n應該說是與眾不同的凜然魅力表現出來！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "我們旅館的座右銘是「真誠接待客人」，\n妳一定能將其具體展現出來！\n除此之外，還有數不清的理由讓我想拜託妳！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "唉……我知道了啦。\n……不用再說了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "──妳的意思是！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "……我答應了。\n雖然我不覺得自己值得這麼大的期待。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "別自顧自地討論下去……\n也別再說那些明顯的客套話了。",
+      "ChoiceDataList": [
+        "這不是客套話"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "沒錯！妳剛才的態度就是妳的魅力所在，\n我也認為一定能夠製作出為許多人\n帶來感動的海報！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "所以說……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "輪到我了！\n我也知道織姬很多帥氣的地方！\n之前在操場上跑的時候──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旅館老闆",
+      "Text": "嗯！\n我保證會做出很棒的海報！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "……我知道了啦！\n不用再說了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "……我答應。\n感覺如果不答應……反而會更加麻煩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

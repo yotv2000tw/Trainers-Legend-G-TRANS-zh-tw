@@ -1,0 +1,442 @@
+{
+  "Title": "每天都有合作咖啡廳",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "唔～～嗯……\n該選哪一種套餐好呢？",
+      "ChoiceDataList": [
+        "妳在煩惱午餐要吃什麼嗎？",
+        "妳在煩惱午餐要吃什麼嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "對，我不知道是該選飛飛套餐，\n還是該選伏特加套餐。",
+      "ChoiceDataList": [
+        "……什麼意思？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "沒有別的意思啊？\n就是跟飛飛她們吃一模一樣的菜色。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "也只有在聖地特雷森學園，才能過著\n每天都跟推吃相同菜色的奢華生活！",
+      "ChoiceDataList": [
+        "妳該不會每天都……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "當然！我昨天吃了雷恩套餐，\n前天則是吃了玉藻套餐！\n啊，我也有考慮到營養均衡，所以別擔心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "還有選特別週套餐或小栗帽套餐的時候，\n我會維持一樣的餐點但在分量上節制一點，\n這是小數我的一點堅持。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "跟我推品嚐一樣的菜色……那是\n官方提供給我讓腦補能無限擴張的燃料……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "感覺開口吐槽的話，她會講個沒完，\n於是我默默地把餐盤遞給了愛麗數碼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "嗯呵呵～我們就一邊吃午餐，\n然後一邊來聊賽馬娘的萌點吧♪\n對了，訓練員可以幫我選套餐嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "飛飛套餐跟伏特加套餐，\n你覺得哪一個比較好？",
+      "ChoiceDataList": [
+        "醒目飛鷹套餐",
+        "伏特加套餐"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "連擺盤都相當講究的飛飛套餐是吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "我想想，因為飛飛平常\n都先從沙拉開始吃起，那我也──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "欸欸，我可以坐在數數旁邊嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "什麼！？飛飛！？\n咦？那個，我們可以把這裡讓給妳……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "討厭～不是啦！\n飛飛是想和數數一起吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "訓練員，我可以跟你們一起吃嗎？",
+      "ChoiceDataList": [
+        "當然！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "欸嘿嘿，謝謝♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "啊，果然沒看錯！\n數數點的菜色跟飛飛一樣耶～！\n我剛才一瞄到就覺得很好奇呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "啊啊啊啊啊啊！\n模仿妳點餐真的萬分抱歉！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "這是在致敬我嗎？飛飛好高興☆\n高興到想跟妳一起拍張照呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "之前有粉絲跟我說她想要來讀\n特雷森學園呢。所以如果能透過照片，\n讓她知道學園生活是什麼感覺就好了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "為了粉絲……哦、哦哦……\n不愧是飛飛……真是賽馬娘偶像的模範！\n好尊……尊度MAX……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "飛飛可以把自己跟數數吃午餐的照片，\n也上傳到Umatter嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "什麼！？跟跟跟我的照片！？\n不，既然是飛飛的粉絲，那也就是\n我的同志，我當然沒問題……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "呵呵呵，那我們就一起拍吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "嗯，感覺很棒喔☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "她會不會來看我的貼文呢～？\n妳知道嗎，她好像也很擅長跑沙地喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "所以啊，在回覆粉絲信的時候，\n飛飛也都會教她沙地的練習方法。\n數數平常都是怎麼練習的呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "雖然不知道有沒有參考價值……\n當練習用賽道的場地狀態良好或極差時，\n我會趁機在沙地練習。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "是針對難跑的場地進行特訓啊！\n那種場地會讓人很難快速跨出下一步對吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "還有，如果要針對從前方飛來的沙子……\n我應該會請幾個人陪我並行練跑吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "啊～對耶！\n因為我總是領頭，所以不常被波及呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "數數連沙地練習都做得好徹底……！\n唔唔唔，飛飛也不能輸～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "不不不！我這種程度還早得很！\n跟飛飛比起來有天壤之別啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "說這種話想讓飛飛放鬆戒心也是沒用的☆\n畢竟飛飛已經把妳當成是對手了喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "唔唔唔唔！！\n……太、太，太榮幸了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "愛麗數碼和醒目飛鷹在那之後\n也繼續聊著沙地練習的話題，\n雙方都度過了充實的午餐時光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "那就來好好地吃一頓伏特加套餐吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "「喂，為什麼要來坐我旁邊啦」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "「我不可能會自願要坐在妳旁邊好嗎。\n就其他位子都有人坐了，沒辦法啊」",
+      "ChoiceDataList": [
+        "……妳是在配音嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "沒錯沒錯！訓練員真內行。\n不愧是跟我一起追求萌的同志！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "一邊想像伏特加她們的對話，\n一邊吃著一樣的東西……臨場感十足啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "唔喔！伏特加搶走了赤驥的蝦子！？\n……「妳幹嘛偷吃我的配菜啦！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "愛麗數碼後來在吃飯的過程中，也一直替\n伏特加與大和赤驥兩人的互動配音。\n……還真是狂熱的追星方式。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "呼～肚子好飽！\n真是段充實的午餐時光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "數碼，能借用妳一點時間嗎？\n我有件事想跟妳確認一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "妳剛才在學生餐廳，\n有模仿我們之間的對話沒錯吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "咿咿！？非非非非常抱歉！！\n事已至此，那我只能切腹謝罪了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "切腹！？為什麼！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "都是因為赤驥妳在瞪她的關係吧？\n妳看，她都被妳嚇到抖成這樣了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "哈啊哈啊……竟然能在這麼近的距離看見\n赤驥和伏特加的吵架現場……呵呵呵呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "……我們才沒在吵架好嗎！\n我的語氣比較像是在追問她吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "……我並不是在生妳的氣。\n只是很難相信距離那麼遠，妳還能聽見\n我們的聲音。聽力未免也太好了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "那只是我重現出自己想像的劇情而已……\n我沒有聽見妳們的對話內容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "想像！？可是妳剛才說的那些，跟我們的\n對話一模一樣耶！？也不是讀了唇語？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "不、不是，都是想像的……\n那個……我想順便問一下，\n為什麼妳們會發現我在模仿呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "呃，因為妳模仿得超大聲啊。\n雖然是對著訓練員。",
+      "ChoiceDataList": [
+        "她配得太忘我才沒注意到嗎……",
+        "她配得太忘我才沒注意到吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "我這種人活在世上真的很抱歉！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "妳道歉的內容都太沉重了吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "話說，妳能重現自己的想像？\n這樣不是超厲害的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "……這代表數碼她把我們\n研究得很透徹呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "那我也要好好研究妳才行！\n數碼，用並行練跑來一決勝負吧！\n比一場就能大致掌握對手的事了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "等一下，好事都被妳獨佔也太狡猾了吧！\n我也要跟數碼並行練跑！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "啥？妳是打算要插隊嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "一場定勝負也比較能讓數碼\n認真起來吧？……啊，我懂了，\n妳是不敢跟我比吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "那是我的台詞！\n好啊，那就我們三個一決勝負！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "三、三個……？我可以在特等席……\n看赤驥和伏特加的……對決……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗數碼",
+      "Text": "唔喔喔喔喔喔～～～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "愛麗數碼一臉幸福地升天了。\n──另外，放學後的並行練跑本身，\n則是成了場相當有意義的練習。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

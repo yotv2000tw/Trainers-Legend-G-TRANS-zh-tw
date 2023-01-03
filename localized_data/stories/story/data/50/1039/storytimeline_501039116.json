@@ -1,0 +1,525 @@
+{
+  "Title": "我是公主嗎？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就算信裡的內容可以全部歸類為「意見」，\n但這些意見卻是包含了各種要素。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──支持、讚賞、嫉妒、批評。\n並非全都是讓人開心的內容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我趁川上公主沒有來房間的時候，\n檢查新送來的一批\n「粉絲信」的內容。",
+      "ChoiceDataList": [
+        "……這份意見就先收進紙箱裡吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "川上公主前幾天才跑完\n「伊麗莎白女王盃」，\n所以今天是安排相對輕量的訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……呼，呵啊……",
+      "ChoiceDataList": [
+        "妳現在還會累是嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "沒、沒有，我不累！\n請你狠下心安排訓練！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不過，\n川上公主的身體非常僵硬。\n她的跑法不像先前那麼無拘無束──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "節目製作人",
+      "Text": "找到了，訓練員！\n川上公主也好久不見～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "你是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "節目製作人",
+      "Text": "其實我有跟訓練員提過，\n下次我想請川上公主\n來上我們現場的節目。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……真的嗎？",
+      "ChoiceDataList": [
+        "還是要看妳有沒有意願",
+        "還是要看妳有沒有意願"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "節目製作人",
+      "Text": "我希望可以透過節目\n把妳跑完后冠路線的心情直接傳達給觀眾！\n請妳務必來上我們的節目！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……把我的心情……直接……\n…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……我要上節目！\n麻煩你了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是，我跟川上公主一起來到了\n這次的直播場地。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "節目製作人",
+      "Text": "……訓練員、訓練員！\n麻煩你來一下！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "節目製作人",
+      "Text": "如同我先前所說，今天會準備\n慰勞她跑完后冠路線的蛋糕，\n給她一個驚喜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "節目製作人",
+      "Text": "我們會在一開始就送這份禮物給她，\n再接著請她講講以後的抱負！",
+      "ChoiceDataList": [
+        "她一定也會很高興的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "節目製作人",
+      "Text": "而且蛋糕也有先問過訓練員\n她喜歡什麼口味……哈哈，我好期待啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是，到了開始直播的時刻──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "藝人",
+      "Text": "歡迎來到我們本週的節目！\n《大家的賽馬娘競賽！》\n本週是現場直播～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "藝人",
+      "Text": "而我們的來賓是\n當紅的風雲人物，川上公主！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……請多多指教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "藝人",
+      "Text": "哎呀，妳很緊張嗎？\n呵呵，那我們現在就拿那個出來吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "藝人",
+      "Text": "本節目要送川上公主\n一份驚喜小禮物～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "驚喜小禮物……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "之前訓練員拿在手上的……\n驚喜小禮物。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "藝人",
+      "Text": "呵呵，這個蛋糕真豪華！\n上面還放滿了\n川上公主喜歡的水果呢～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……不起……對不起……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "我一點也不高雅，\n沒有一個公主該有的樣子。\n氣質也配不上「伊麗莎白女王盃」的競賽……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "請原諒我一直以來的失禮行徑……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "藝人",
+      "Text": "咦……川上公主……？",
+      "ChoiceDataList": [
+        "對不起，可以給我們一點時間嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "訓練員……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我帶著肩膀顫抖、\n眼眶泛淚的川上公主回去休息室。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "對不起……",
+      "ChoiceDataList": [
+        "……怎麼了？",
+        "……怎麼了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……我看到\n那些粉絲信了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "「妳把我支持賽馬娘一生一次的奧克斯毀了，\n還害她傷心難過」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "「妳在后冠路線最後的秋華賞\n都只顧著講妳自己，\n完全沒有誇獎那些跟妳一起比賽的賽馬娘」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "「妳這個公主真是自私到不行。差勁透了」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "「妳這樣的公主根本不配參加有長久歷史\n又高尚的伊麗莎白女王盃競賽──」",
+      "ChoiceDataList": [
+        "……沒有這回事"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "請你不要說謊……\n因為我……我──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗色髮賽馬娘",
+      "Text": "……這可是奧克斯參賽者的記者會，\n妳的言行還是得體一點比較好吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "畢竟我可是公主！\n當然要戰勝眼前的所有敵人！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "我一定要成為在\n「伊麗莎白女王盃」\n拿下第一名的公主～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "公主就是要勇敢活潑，\n還要能夠為對方著想──\n是一種非常高尚的存在♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……公主是種內心清高又滿懷正義，\n還能夠尊重別人的強大存在。\n我明明在Prinfight裡學過這個道理。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "我卻一直說只有我才是主角。\n還說其他人是我要打倒的敵人，\n而不是把她們當作競爭對手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "我太過自以為是，反而下意識瞧不起別人。\n真的是太自私了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "我在不知不覺中用自己的自私傷害了別人……\n這全都、全都是我的錯……！",
+      "ChoiceDataList": [
+        "……這不是妳的錯",
+        "……這不是妳的錯"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "不可能不是我的錯。\n因為我、我──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "我這樣當然會被人說沒有公主風範……！\n我……我覺得自己好丟人現眼……！",
+      "ChoiceDataList": [
+        "才不會……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她大大的雙眼泛起滿滿淚水，\n感覺隨時都會被自責的心情壓垮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她不斷責備自己。\n可是，這真的是她自己一個人的錯嗎？",
+      "ChoiceDataList": [
+        "不，錯在我沒有好好指導妳",
+        "不，錯在我沒有好好指導妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──身為一個訓練員、一個指導者，\n就應該指引她走往正確的道路。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "「……這份意見就先收進紙箱裡吧。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "而不是隱匿問題、逃避問題。\n我應該要仔細思考粉絲的意見，\n好好教導她必須要學會哪些道理。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "引導她成為不會\n為自己的過去感到丟臉的傑出賽馬娘，\n才是一個訓練員應有的職責。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "可是實際做出那些言行的\n是我自己……",
+      "ChoiceDataList": [
+        "就算是這樣，我還是想要跟妳一起反省",
+        "就算是這樣，我還是想要跟妳一起反省"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "…………\n……可、可是──",
+      "ChoiceDataList": [
+        "對不起，我竟然害妳這麼自責"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……不是……訓練員的錯……\n是……是我……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "是我……",
+      "ChoiceDataList": [
+        "……我們一起成長吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "…………嗚嗚、\n嗚、嗚嗚……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "哇啊啊啊啊啊啊啊～～！\n對不起……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她放聲大哭。我們在她終於止住淚水時，\n一同發誓未來一定要更加成長。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "節目製作人",
+      "Text": "真的不要緊嗎……？\n我們節目是還在直播沒錯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "對不起，剛才給各位添麻煩了。\n為表達我的歉意，\n請讓我在節目最後簡單講一段話就好。",
+      "ChoiceDataList": [
+        "請讓我也在一旁陪同",
+        "請讓我也在一旁陪同"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "節目製作人",
+      "Text": "……我知道了。\n但也請兩位不要太勉強自己了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "藝人",
+      "Text": "節目的最後──\n川上公主好像\n想要跟各位觀眾說一段話～",
+      "ChoiceDataList": [
+        "請讓我向各位說聲對不起"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "對不起，我剛才一時失態，\n驚擾到大家了。\n還害工作人員為我擔心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "不過，我從今以後一定會謹言慎行，\n不愧對公主的名號。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……所以，還請大家繼續見證我的成長。",
+      "ChoiceDataList": [
+        "拜託你們了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "川上公主真心誠意地\n對畫面另一端的觀眾們表達自身決心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……聽說節目收到多達70件來自觀眾的抗議。\n我知道這件事之後也主動聯絡節目製作人，\n表達歉意……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "製作人回說\n「我希望你們別太把這件事放在心上。\n我們以後也一樣是川上公主的粉絲」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──她現在最首要的目標是「金鯱賞」。\n我想要幫助她成為\n在那時候已經可以真心為自己引以為傲的公主。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "金鯱賞"
+      ]
+    }
+  ]
+}
