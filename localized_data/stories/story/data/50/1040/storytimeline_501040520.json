@@ -1,5 +1,5 @@
 {
-  "Title": "宿舍間的猜謎對決",
+  "Title": "宿舍猜謎對抗賽",
   "TextBlockList": [
     {
       "Name": "",
@@ -15,13 +15,13 @@
     },
     {
       "Name": "秋川理事長",
-      "Text": "宿舍猜謎對決，開始！\n期待各位有精采的表現！",
+      "Text": "開始！宿舍猜謎對抗賽，\n期待各位有精采的表現！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "菱亞馬遜",
-      "Text": "好～！美浦宿舍！這是跟栗東宿舍的\n單挑對決，可別輸囉！！",
+      "Text": "好～！美浦宿舍！\n這場跟栗東宿舍的一對一單挑，可別輸囉！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -33,13 +33,13 @@
     },
     {
       "Name": "富士奇石",
-      "Text": "栗東宿舍！今晚一定要辦慶功宴！\n來享受這場鬥智吧！",
+      "Text": "栗東宿舍！今晚準備辦慶功宴囉！\n來，大家盡情享受這場鬥智對決吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "栗東宿舍的學生們",
-      "Text": "哇～～！！",
+      "Text": "哇──！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -51,7 +51,7 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "我的行程改了……\n話說，這麼吵是怎麼回事？",
+      "Text": "工作行程有更動……\n話說，這麼吵是怎麼回事？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -63,25 +63,25 @@
     },
     {
       "Name": "秋川理事長",
-      "Text": "很明顯！\n比賽有時也要靠頭腦鬥智！",
+      "Text": "明瞭！\n比賽有時也得靠智慧取勝！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "秋川理事長",
-      "Text": "因此我想打造一處，可以在壓力下\n測試頭腦的地方──也就是猜謎大會！！！",
+      "Text": "因此我想打造可在壓力下測試腦力的場所──\n也就是，猜謎大會！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "秋川理事長",
-      "Text": "藉由宿舍對抗賽互相競爭，切磋琢磨！\n我準備了豪華獎品，期待各位同學奮力一戰！\n上吧！上吧！上吧！",
+      "Text": "藉由宿舍對抗賽彼此競爭，切磋琢磨！\n我還準備了豪華獎品，期待各位同學奮力一戰！\n上吧！上吧！上吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "城市妳也要代表栗東宿舍出賽喔。\n可以選擇要參加「搶答對決」或「尋題猜謎」。",
+      "Text": "城市妳也得代表栗東宿舍出賽喔。\n可以選擇要參加「搶答競賽」或「尋題猜謎」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -93,100 +93,100 @@
     },
     {
       "Name": "富士奇石",
-      "Text": "最後由總分最高的宿舍獲勝……\n規則就是這麼簡單。\n城市，我期待妳的出色表現喔！",
+      "Text": "最後由總分最高的宿舍獲勝……\n規則十分簡單。\n城市，我期待妳的出色表現喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "出色表現嗎……我是哪一項都可以啦，\n訓練員你覺得哪個比較好？",
+      "Text": "出色表現嗎……參加哪項我是都沒差啦，\n訓練員你覺得哪個比較好？",
       "ChoiceDataList": [
         "以速度決勝負「搶答對決」",
-        "以不服輸的心決勝負「尋題猜謎」"
+        "以好勝心決勝負「尋題猜謎」"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "原來如此，靠速度決勝負，\n很單純，好像不賴呢。",
+      "Text": "原來如此，以速度決勝負滿單純的，\n聽起來還不錯。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "秋川理事長",
-      "Text": "題目！\n被定義為經度0度0分0秒的是什麼線！？\nA「本初子午線」B「換日線」。",
+      "Text": "題目！\n被定義為經度0度0分0秒的是什麼線！？\nA「本初子午線」\u3000B「換日線」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "（按鈴聲♪）",
+      "Text": "（乒碰──♪）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花驀進王",
-      "Text": "我！\n簡單來說，答案是驀進的B對吧！？",
+      "Text": "我！\n不囉嗦，答案是驀進的B對吧！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "（錯誤鈴聲！）",
+      "Text": "（噗噗──！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "秋川理事長",
-      "Text": "可惜！正確答案是A「本初子午線」！！",
+      "Text": "遺憾！正確答案是A「本初子午線」！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花驀進王",
-      "Text": "什麼！？\n驀進的直覺居然錯了～～！？",
+      "Text": "唔哇！？\n驀進的直覺居然錯了～～！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "…………好險。\n下一題得按得更快點……！",
+      "Text": "…………好險。\n下一題要按得更快一點……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "秋川理事長",
-      "Text": "下一題！請接下一句！！\n「吃了柿子」？",
+      "Text": "下一題！請接下一句！！\n「方啖一顆柿」？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "（按鈴聲♪）",
+      "Text": "（乒碰──♪）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "……可惡！",
+      "Text": "……唔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花驀進王",
-      "Text": "簡單來說！\n就是「也會想吃梨子跟栗子」！！",
+      "Text": "不囉嗦！\n「也會想吃梨子跟栗子」！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "（錯誤鈴聲！）",
+      "Text": "（噗噗──！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花驀進王",
-      "Text": "嗚～！又來了！\n不過，我還有得是機會！沒錯！",
+      "Text": "唔嗚──！又錯了！\n不過，還有的是機會！嗯！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -198,13 +198,13 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "比任何人都快……",
+      "Text": "比任何人、都快……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "…………是喔。",
+      "Text": "…………喔～",
       "ChoiceDataList": [
         "（城市好像變了一個人……）"
       ],
@@ -224,7 +224,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "（按鈴聲♪）",
+      "Text": "（乒碰──♪）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -236,43 +236,43 @@
     },
     {
       "Name": "獨白",
-      "Text": "（正確鈴聲♪）",
+      "Text": "（叮咚叮咚叮咚──♪）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花驀進王",
-      "Text": "什麼～～！？\n題目只說到一半耶！？",
+      "Text": "什麼──！？\n題目只說到一半耶！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花驀進王",
-      "Text": "啊，所以城市同學！\n妳是超能力者囉……！？",
+      "Text": "啊，難不成！\n其實城市妳是超能力者……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "不，剛才只是湊巧，有模特兒前輩上了猜謎節目，\n出現過同樣的題目。",
+      "Text": "不，剛才只是湊巧，曾經有模特兒前輩\n在上猜謎節目時出現過同樣的題目而已。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "……既然對手這麼快，只能比對手更快按鈴了。\n好，我要反攻了。",
+      "Text": "……既然對手這麼快，只能比對手更快按鈴了。\n好，開始反攻吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "栗東宿舍真厲害！\n勢如破竹，令人心跳加速……！",
+      "Text": "栗東宿舍真厲害！\n勢如破竹得讓人心跳加速……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "……不過還真是一點都沒變呢。\n我很喜歡妳的骨氣與強悍喔！",
+      "Text": "……不過還真是一點都沒變呢。\n妳那份骨氣與強悍，我很中意喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -290,7 +290,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "我們移動到將成為對決舞台的沙灘上。\n飛在空中的直升機撒下了\n一大堆裝著題目的信封……！",
+      "Text": "我們移動到對決舞台的沙灘上。\n飛行在上空的直升機撒下了\n一大堆裝著題目的信封……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -302,7 +302,7 @@
     },
     {
       "Name": "活動播報員",
-      "Text": "各個賽馬娘整齊劃一，\n漂亮地開跑衝刺！\n她們筆直地衝向信封！",
+      "Text": "各位賽馬娘整齊劃一，漂亮地開跑！\n她們筆直地衝向信封！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -320,19 +320,19 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "別說笑了！\n飛毛腿要通過啦，速速讓路！",
+      "Text": "少囉嗦！\n飛毛腿要通過啦，全都給我讓開！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "糟糕，被超越了！",
+      "Text": "糟糕，被搶先了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "妳在做什麼啊！\n我也要先走囉，城市！",
+      "Text": "妳在做什麼啊！\n我也要先走啦，城市！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -344,13 +344,13 @@
     },
     {
       "Name": "獨白",
-      "Text": "賽馬娘們跑向出題者，\n她們的腳下激起陣陣沙塵。",
+      "Text": "賽馬娘們跑向出題者，\n狂奔的腳下揚起陣陣沙塵。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "在出題者處打開信封，\n就能挑戰回答裡面的題目，但是……",
+      "Text": "接著只要在出題者面前打開信封，\n就能挑戰回答裡面的題目，但是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -362,7 +362,7 @@
     },
     {
       "Name": "出題者",
-      "Text": "看來妳拿來的\n是沒放題目的空信封呢！\n再去跑一趟吧！",
+      "Text": "看來妳拿的是沒放題目的信封呢！\n再去跑一趟吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -376,25 +376,25 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "我、我明白！",
+      "Text": "唔，我知道啦！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "活動播報員",
-      "Text": "目前由美浦宿舍領先！\n栗東宿舍能扳回一城嗎！？",
+      "Text": "目前由美浦宿舍領先！\n栗東宿舍能挽回局勢嗎！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "好，就這樣繼續領先！",
+      "Text": "好，就這樣繼續保持領先吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "……我要追上，我一定會追過去……！",
+      "Text": "……我得追上，我一定會超越她們……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -412,7 +412,7 @@
     },
     {
       "Name": "栗東宿舍的賽馬娘",
-      "Text": "城市她明明滿身大汗，\n沾滿了沙子……",
+      "Text": "城市同學，她明明滿身大汗，\n還沾滿了沙子……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -430,25 +430,25 @@
     },
     {
       "Name": "美浦宿舍的賽馬娘",
-      "Text": "不管變得多狼狽……\n她還是一樣美……！",
+      "Text": "不管變得多狼狽……\n卻還是這麼美……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "活動播報員",
-      "Text": "真令人難以置信！？\n超越宿舍的隔閡，\n響起了為黃金城市選手加油的聲浪！！",
+      "Text": "真令人難以置信！？\n為黃金城市選手加油的聲浪，\n竟然超越了宿舍的隔閡！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "喔～靠奮戰的姿態讓人著迷啊？\n還真瀟灑！",
+      "Text": "喔～靠奮戰的姿態讓人著迷嗎？\n什麼嘛，很瀟灑啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "那傢伙可不是只有長得漂亮啊，\n其實她的毅力是很堅強的！",
+      "Text": "那傢伙可不是只有長相好看喔，\n其實她也是很有骨氣的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },

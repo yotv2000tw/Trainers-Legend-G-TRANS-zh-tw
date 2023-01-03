@@ -1,5 +1,5 @@
 {
-  "Title": "架起跨過星河的天橋",
+  "Title": "相連的空中之橋",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,13 +9,13 @@
     },
     {
       "Name": "",
-      "Text": "夏季集訓從今天就正式開始了。\n我為愛慕織姬準備了兩套訓練方案。",
+      "Text": "今天起就是夏季集訓了。\n我為愛慕織姬準備了兩套訓練項目。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "要簡單來說的話，就是『一個人就能完成訓練的方案』，\r\n和『必須兩人配合才能完成訓練的方案』。",
+      "Text": "一言以蔽之，\n就是「可單獨進行的項目」與「必須同心協力進行的項目」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -23,25 +23,25 @@
       "Name": "愛慕織姬",
       "Text": "…………",
       "ChoiceDataList": [
-        "……怎麼樣？"
+        "……妳覺得怎麼樣？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我告訴她選哪個都沒關係，將兩份方案都交給她看了。\n還在平時，她會立刻做出選擇——但今天，她罕見地猶豫起來。",
+      "Text": "我兩手拿著項目列表向她展示，並告訴她選擇哪套都無妨。\n要是平常的她應該會毫不猶豫地做出選擇的，\n但我卻遲遲沒有聽到回答。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……讓我稍微考慮一下。",
+      "Text": "……讓我考慮一下。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "她這麼說著，接過兩份訓練方案，\n轉身走集訓宿舍。",
+      "Text": "說完後，愛慕織姬便收下項目列表，\n走進集訓宿舍內。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -53,31 +53,31 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（這兩個方案……都考慮得相當週全啊。）",
+      "Text": "（這項目內容……兩份都經過細心考量）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（即便是基礎訓練也能能夠活用起腳質……\n看得出來下了不少功夫……）",
+      "Text": "（以可以徹底發揮腳質的基礎訓練為主，\n再加上許多精心安排……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（與我的奔跑方式相襯的訓練。\n……為了我而進行的訓練……）",
+      "Text": "（最適合我的奔跑方式的訓練內容。\n……為我量身打造的訓練內容）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（……雖然說選哪個都沒關係，但答案一眼便知。\n……現在的我，非常需要他人的幫助。）",
+      "Text": "（……雖然他說選哪套都沒關係，但一看就知道了。\n現在的我需要的是……獲得協助）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（但是……）",
+      "Text": "（……但是）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -89,43 +89,43 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……訓練員。\n關於訓練菜單的事情……",
+      "Text": "……訓練員。\n關於……訓練項目。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……我……",
+      "Text": "……我……覺得……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我……想……",
+      "Text": "對我……來說……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "愛慕織姬正拚命地斟酌著用詞。\n她心中已經有了答案，但看上去好像很難說出口。",
+      "Text": "愛慕織姬在斟酌著該怎麼回答。\n看來她心中已經有了答案，但還在猶豫是否說出口。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "在這份猶豫中，我察覺到一絲關心的感覺——",
+      "Text": "當下我感受到一股似乎有所顧慮的氣氛──",
       "ChoiceDataList": [
-        "沒關係的。",
-        "沒關係的哦。"
+        "沒關係的",
+        "沒關係的"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "誒？",
+      "Text": "咦？",
       "ChoiceDataList": [
-        "選你覺得好的就行。",
-        "選你覺得好的就行啦。"
+        "選妳想選的就好",
+        "選妳想選的就好"
       ],
       "ColorTextInfoList": []
     },
@@ -137,124 +137,124 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……嗯。\n謝謝。",
+      "Text": "……好的。\n……謝謝。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "愛慕織姬選擇的是『一個人也能完成的訓練』。",
+      "Text": "愛慕織姬選擇了「可單獨進行的項目」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "而我就站在一旁看著她的訓練，一如既往地記著筆記。\n作為訓練員，必須要成為她的支柱才行。",
+      "Text": "而我則在一旁注視著她，並一如往常地詳加記錄。\n身為訓練員，我希望自己能成為她的支柱。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "——夜晚，我帶著過去愛織選給我的星星圖鑑眺望夜空。\n夏季大三角正高懸於蒼穹之上。",
+      "Text": "──夜晚。我拿著愛慕織姬幫忙挑選的觀星圖鑑眺望著夜空，\n看到空中掛著夏季大三角。",
       "ChoiceDataList": [
-        "織女一、天津四……還有什麼來著……？"
+        "那是織女一跟天津四跟……什麼來著？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我翻開書，正準備在圖鑑中尋找時——",
+      "Text": "當我翻著書頁，想從書上尋找答案時──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "河鼓二，也稱牛郎星。\n……天鷹座的一等星。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "愛慕織姬，正站在我的身邊。",
-      "ChoiceDataList": [
-        "愛織也來看星星嗎？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "愛慕織姬",
-      "Text": "……算是吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "愛慕織姬",
-      "Text": "…………\n…………訓練員。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "愛慕織姬",
-      "Text": "今天的訓練……安排得非常棒。\n既有完成訓練的成就感……也確實感覺到我在進步。",
-      "ChoiceDataList": [
-        "真的嗎？！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "愛慕織姬",
-      "Text": "嗯、嗯。但是……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "愛慕織姬",
-      "Text": "……你越是為我而努力，我的胸中就越是苦悶。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "愛慕織姬",
-      "Text": "理應得到你的期待、受到你的幫助的人……\n應該不是我，應該是我妹妹才對。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "愛慕織姬",
-      "Text": "但是……我卻……",
-      "ChoiceDataList": [
-        "你覺得這些，都該是獨屬於你妹妹的東西嗎？",
-        "你覺得這些，都該是獨屬於你妹妹的東西嗎？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "愛慕織姬",
-      "Text": "誒……？",
+      "Text": "河鼓二。\n……天鷹座中最亮的星星。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "對於愛慕織姬的妹妹，我了解得其實不算多。",
+      "Text": "愛慕織姬出現在我身邊。",
+      "ChoiceDataList": [
+        "織姬妳也來看星星啊？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "是啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "…………\n……訓練員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "今天的訓練……做起來很順暢。\n也很有成就感……讓我感到自己有所進步。",
+      "ChoiceDataList": [
+        "真的嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "是、是的。……不過。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "……你越是為了我努力，\n我的胸口就越加難受。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "你對我的期待，還有你的努力，\n原本……原本應該要是由我妹妹來回應，而不是我……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "……但是，我卻……",
+      "ChoiceDataList": [
+        "那些是專為妳妹妹而做的嗎？",
+        "那些是專為妳妹妹而做的嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "什麼……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "但我知道，她正因為她對妹妹的感情，不斷承受著痛苦。\n所以——",
+      "Text": "雖然我並不太了解愛慕織姬的妹妹。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不過，我知道她相當重視妹妹，並且為此所苦。\n既然如此──",
       "ChoiceDataList": [
-        "如果說你是為了你的妹妹而努力的話——",
-        "如果說你是為了你的妹妹而努力的話——"
+        "既然妳是為了妹妹而奔跑──",
+        "既然妳是為了妹妹而奔跑──"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我為愛慕織姬安排的訓練、提出的建議，\n都並非是為了『她一個人』。",
+      "Text": "我為愛慕織姬制定的訓練項目與建議，\n不光只是給她「一個人」的。",
       "ChoiceDataList": [
-        "我則是為了『你們』而努力的。",
-        "我則是為了『你們』而努力的。"
+        "那是為了「妳們」而做的",
+        "那是為了「妳們」而做的"
       ],
       "ColorTextInfoList": []
     },
@@ -266,39 +266,39 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "為了『我們』……",
+      "Text": "為了「我們」……而做的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我……和她……的……",
+      "Text": "為了我……跟那孩子……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（——啊啊。原來如此。）",
+      "Text": "（──原來如此，是這樣啊）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（那時候，我還沒看見星星就回到訓練室也是。）",
+      "Text": "（那時，我之所以會還沒看到星星就回去）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（在天文館，會和訓練員打招呼也是。）",
+      "Text": "（還有在天文館時，我之所以會向他搭話）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（也許……都不是『我』做出的事，而是『我們』做出的選擇吧。）",
+      "Text": "（或許都是因為，那不是「我」的單獨行動……而是「我們」）",
       "ChoiceDataList": [
-        "愛織？"
+        "織姬？"
       ],
       "ColorTextInfoList": []
     },
@@ -310,19 +310,19 @@
     },
     {
       "Name": "",
-      "Text": "愛慕織姬在我身邊慢慢坐了下來，與我一起眺望著夜空。",
+      "Text": "愛慕織姬在我身旁坐下。\n然後凝視著耀眼的天空──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……今天的話，倒是可以教你一些關於星星的事哦。",
+      "Text": "……雖然我知道的也不多，但可以稍微教教你。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "來自數億年前的星光跨越時空，沐浴在如此輕語的愛慕織姬身上。",
+      "Text": "然後她沉静地聊起那些來自一億光年前，如今正閃耀的光芒。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

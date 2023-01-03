@@ -1,0 +1,199 @@
+{
+  "Title": "在神社祈求！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我帶著最近狀態不佳的島川喬登，\n來到神社參拜時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "咦，這不是中山嗎。妳來參拜啦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "怎麼可能，我只是在散步。\n我在找有沒有賭博的對手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "妳才是，居然來參拜，還真稀奇。",
+      "ChoiceDataList": [
+        "她最近狀態不太好的樣子……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "是喔，那真是太巧了。\n其實我最近也莫名地一直輸呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "這種時候比什麼都可以，就是要贏一次才行。\n……如何？喬登，要不要跟我賭一場？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "咦？賭博？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "沒錯，賭贏後可以提升運氣！\n但是！要是輸了，會陷入更嚴重的負面循環！\n掉到地獄的深淵……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "咦～麻煩。什麼運不運氣啊～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "喔……妳怕輸嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "啊……？我又沒這麼說。",
+      "ChoiceDataList": [
+        "不用勉強自己去跟她賭",
+        "不用勉強自己去跟她賭"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "一點都不勉強好嗎～！\n好啊～！就來賭一場～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "呵呵！這才像話！\n至於要怎麼賭……就猜下個來到神社境內的，\n是人還是賽馬娘怎麼樣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "嗯～……那麼～\n我賭是賽馬娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "那我就賭人了。\n好，賭局開始──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "嗚喔喔喔喔喔────！！\n到底在哪裡～～～～～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "來了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "這不是券藏嗎～！\n太棒了！我贏了～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "啊！找到喬登了～～～～！\n我找妳找好久！\n我想快點告訴妳──！",
+      "ChoiceDataList": [
+        "發生什麼事了嗎？",
+        "發生什麼事了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "聽我說！有個送給喬登的禮物，\n寄來宿舍房間囉──！\n箱子包裝得超華麗的────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "真的假的！？那可能是我抽中的！\n我在網路上參加了抽獎活動！\n嗚哇！好事成雙呢～～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "是這樣嗎！？太好了呢！！\n看到妳開心我也很開心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……哈。我徹底輸了……\n看來好運完全站在妳那邊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……對了，妳沒事吧？\n那個……什麼深淵來著……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "我可不用你們來擔心。\n呵呵，我反而更有鬥志了。\n好，接下來該如何向上爬呢……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "中山慶典滿足地離去了。\n在那之後，島川喬登的狀態不佳，\n像是一開始就不存在似地消失了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──可是，沒有任何人或賽馬娘來到境內。\n宿舍的門禁時間就要到了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "好沒勁～……\n為何一個影子都見不到～？真受不了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……沒辦法，今天就算平手吧。\n我一定會找一天分出輸贏的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，賭局暫時擱置了。\n運氣也沒有改變，\n島川喬登的狀態依舊不佳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "Title": "請享用大大的夢想",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "模擬賽──草地1400公尺開跑了！\n今天最受矚目的就是菱曙與微光飛駒了吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "呼、呼、呼！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "曙曙今天幹勁十足呢！好──我也要加油！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "菱曙昨晚明明露宿野外，現在卻在賽道上狂奔，\n並且力道強悍得絲毫看不出任何影響。",
+      "ChoiceDataList": [
+        "（為什麼……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "來觀摩的賽馬娘A",
+      "Text": "菱曙就是那個高大的賽馬娘吧？\n她常常在宿舍做超美味的料理給大家吃呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "來觀摩的賽馬娘B",
+      "Text": "沒錯沒錯，我之前就覺得她很高大……\n跟微光飛駒一比，果然很高大呢～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "好，終於到了最後直線！目前由菱曙領頭，\n微光飛駒緊追在後。結局究竟會被追上，還是領先到最後呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "（──唔，奇怪，怎麼覺得腳好像有點沉重？\n啊，難不成是因為我沒怎麼睡……？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "……這樣啊，說得也是。不過！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "菱曙緊盯著前方，眼中閃爍著光芒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "沒問題的，因為我不會放棄全力以赴☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "我不會讓別人追上的──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "第一名是菱曙！第一名是菱曙！\n她以些微差距獲得勝利！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "呼、呼、呼……！太棒了～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同場競技的賽馬娘",
+      "Text": "小曙，妳在賽場上時真厲害呢。\n因為妳平常總是很溫和，讓我好驚訝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "耶嘿嘿。我早就決定比賽都要認真比了啊～\n畢竟半吊子的比賽無法令人滿足嘛。對吧，小光♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "就是啊！曙曙她很夠意思，總是會全力跟我對戰！\n……但我今天真的很不甘心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "下次，我絕對絕對、絕對會贏的──！",
+      "ChoiceDataList": [
+        "辛苦了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "啊！訓練員！你來觀戰了啊。\n明明可以休息說～謝謝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "妳一定累壞了吧，希望妳今天好好休息──\n正當我想這麼說時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "其實等一下還有相撲火鍋大會喔～！\n不嫌棄的話，訓練員也來吃吧☆",
+      "ChoiceDataList": [
+        "咦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "大家盡情地吃吧～！\n非常非常buono喔☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "菱曙手腳俐落地忙碌著，令人想不透她究竟健壯到什麼地步。\n在香味的吸引下，許多賽馬娘聚集到了學生餐廳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "訓練員也請用吧！\n我做了很多，你要多吃一點喔～",
+      "ChoiceDataList": [
+        "謝、謝謝"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好吃──！\n這個我不管幾碗都吃得下──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "喔～魚丸裡加了薑跟青紫蘇嗎……味道不錯。\n這點子就讓我拿來當作參考囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "大家一起熱熱鬧鬧享受晚餐，讓我想起老家呢～！\n非常delicious！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "啊，真好吃……裡面放了很少見的蔬菜呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "呼～大家都拿到了嗎～？\n那麼，我也要開動囉～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我好像看過她送進口中的山菜。跟我們昨天在山上採的\n正是同一種。但是，我記得應該全都掉到河裡了才對──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "嗯～果然現採的就是buono呢～",
+      "ChoiceDataList": [
+        "……難道，妳今天又去採了……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "耶嘿嘿，對啊～\n我本來就是為了今天才去採集食材的～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "因為我想在比賽後，\n讓大家吃到最美味的相撲火鍋嘛。",
+      "ChoiceDataList": [
+        "為什麼要做到這種程度……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "在全力對戰後，\n就該大家一起吃buono的料理啊～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "訓練員，特雷森學園就是相撲部屋喔！\n大家會互相切磋，變得越來越強！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "菱曙這麼說著，而我的確能看到在她的身後\n一心一意地吃著相撲火鍋的賽馬娘們。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "啊～！今天太可惜了～！\n以些微差距輸掉最讓人不甘心──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "雖然輸了，但妳的跑法挺有魄力的喔。\n妳願意的話，要不要一起做持久力訓練？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "對了鈴鹿，妳最近晨練時也很fight呢！\n妳都跑多遠啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "無聲鈴鹿",
+      "Text": "嗯……跑到隔壁那座山……再過去的那一座山吧，大概？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "What's？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "……呵呵♪太好了，大家都很開心的樣子～",
+      "ChoiceDataList": [
+        "（這就是她的理想啊）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "想為對戰對手而存在、想當能讓她們全力應戰的賽馬娘，\n並與她們一起成長。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "菱曙描繪出的理想，非常地宏大又溫暖。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "可是另一方面，競賽到頭來還是個人戰。\n無法保證這份理想在某天不會化為她的枷鎖。",
+      "ChoiceDataList": [
+        "（我想幫助她，以避免這種事發生）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──之後，有更多賽馬娘來參與相撲火鍋大會，\n感受著菱曙帶來笑容與滿足，直到門禁的最後一刻。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "訓練員、訓練員，你怎麼了～？\n怎麼在發呆啊？",
+      "ChoiceDataList": [
+        "……妳真是了不起的賽馬娘",
+        "……妳真是了不起的賽馬娘"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "咦，怎麼突然這麼說～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "來吃相撲火鍋的賽馬娘們，\n都如菱曙所希望的，帶著滿足的表情回去了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "如果是她的話，肯定能成為散播笑容與滿足給大家的\n偉大賽馬娘……「相撲火鍋」吧。",
+      "ChoiceDataList": [
+        "我今後也想繼續從旁支持妳",
+        "我今後也想繼續從旁支持妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "菱曙本就圓圓的大眼睛，瞪得更圓了。",
+      "ChoiceDataList": [
+        "一起成為「相撲火鍋」吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "…………！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "耶嘿嘿……嗯！\n謝謝你，訓練員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "──啊，對了！\n我烤了餅乾當作你昨天陪我的謝禮喔～！",
+      "ChoiceDataList": [
+        "什麼時候烤的！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "這是我用心烤的，一定很buono喔～♪\n來，啊～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "首先是閃耀出道──我在心中鼓起幹勁並吃下餅乾後，\n嘴中充滿了一股溫暖柔和的滋味。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

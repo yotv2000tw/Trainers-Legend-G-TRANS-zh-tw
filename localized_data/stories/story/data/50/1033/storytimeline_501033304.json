@@ -1,5 +1,5 @@
 {
-  "Title": "希望錦標后・繪出大三角",
+  "Title": "希望S結束後．大三角描繪完成",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,43 +9,43 @@
     },
     {
       "Name": "",
-      "Text": "（唔哦哦哦哦哦哦！！）",
+      "Text": "（唔喔喔喔喔喔喔喔！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "觀眾A",
-      "Text": "好、好強……！愛慕織姬……\n這簡直是和其他人截然不同的強大！",
+      "Text": "好、好厲害的跑法……！愛慕織姬……\n這下終於來個有看頭的了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "愛、愛織同學……好厲害……",
+      "Name": "成田速王",
+      "Text": "唔，織姬……好厲害……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "好厲害……！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "在中山賽場的暮色之中，\n名為愛慕織姬的新星冉冉升起。",
+      "Name": "成田速王",
+      "Text": "真的好厲害……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "比賽一結束，\r\n無數採訪申請蜂擁而至——",
+      "Text": "黃昏時分的中山賽場，\n愛慕織姬風光地宣告新星在此誕生。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她吸引了萬眾矚目，比賽一結束，\n大量的採訪邀約立即飛奔而至──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "乙名史記者",
-      "Text": "我是『閃耀月刊的』乙名史記者！\r\n愛慕織姬選手，您今天在賽場上非常活躍呢。",
+      "Text": "我是「閃耀月刊」的乙名史！\n愛慕織姬選手，\n妳今天表現得非常優異呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "乙名史"
@@ -53,7 +53,7 @@
     },
     {
       "Name": "乙名史記者",
-      "Text": "您今後有更遠大的目標嗎？\r\n如果有的話請務必告訴我！",
+      "Text": "方便的話請務必讓我們聽聽妳對下次比賽的展望，\n請問妳有什麼想法呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -65,45 +65,45 @@
     },
     {
       "Name": "",
-      "Text": "我與愛織四目相對。\r\n和把『希望錦標』當作目標那時候一樣，\r\n她似乎姑且是要確認一下我作為訓練員的意見。",
+      "Text": "我們眼光交會。當初將目標訂為「希望S」時\n也曾經這樣過，看來她姑且知道要先確認\n自己的意見是否與訓練員相同。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "話雖如此，但其實愛織的決心早已不可動搖了。",
+      "Text": "話雖這麼說，\n但其實愛慕織姬的目標非常單純。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "必須要帶著妹妹的份，奔跑、取勝……\n爲了明明想要奔跑，卻無法奔跑的她……",
+      "Text": "妹妹無法親自奔跑的比賽，\n那些她分明想親自奔跑的比賽，\n就由我來參賽……由我來贏下。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "即便留在我心中的，僅僅是她的些許殘影……\n我也要為她獻上她所追求的一切。",
+      "Text": "……我想盡量為她做到所有能做的事情。\n為了那孩子在我心中留下的些許碎片。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "若是爲了她所揹負的一切的話……\r\n那麼，必須選擇那最為崇高、最為榮耀的目標。",
+      "Text": "一切都是為了她所背負的使命。\n她必須爬得更高──獲得更炫目的榮耀。",
       "ChoiceDataList": [
-        "儘管前行吧，愛織。"
+        "盡情前往妳想去的地方吧，織姬"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……——",
+      "Text": "……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "經典三冠路線。",
+      "Text": "我要挑戰經典三冠路線。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "經典"
@@ -111,13 +111,13 @@
     },
     {
       "Name": "乙名史記者",
-      "Text": "……！這麼說的話，下一個目標是——",
+      "Text": "……！這麼說來，妳的下一場競賽就是──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "『皋月賞』。\r\n……就這樣。",
+      "Text": "「皋月賞」。……我說完了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "皋月賞"
@@ -125,121 +125,121 @@
     },
     {
       "Name": "記者們",
-      "Text": "噢噢噢噢……！！",
+      "Text": "喔喔喔喔喔……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "那就是……覺悟。",
+      "Name": "成田速王",
+      "Text": "…………那就是所謂的決心。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "只揹負決定要揹負的事物……\n將決心要達成的夙願堅持到底……",
+      "Name": "成田速王",
+      "Text": "繼續背負自己決定要背負的事物……\n繼續堅持做好自己決定要做的事……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "毫不動搖的……覺悟……！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "次日、萬里無雲——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "實況",
-      "Text": "成田路！成田路！\r\n佔據領先位置的是人氣第一的成田路！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "一定要贏！一定要回報大家的期待！！\n就這樣衝到最後！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "這就是……我的覺悟……！！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "哈啊啊啊啊啊啊——！！！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "實況",
-      "Text": "最前方是成田路！最前方是成田路！！\r\n拉開一馬身的距離——衝線！！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "實況",
-      "Text": "第一名是——成田路！！！\r\n在曾遭敗北的阪神之地、以勝利宣告自己的再起！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路的粉絲A",
-      "Text": "做到了……做到了……！！！\r\n太好啦～！成田路小姐！！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路的粉絲B",
-      "Text": "恭喜你——！！\n太棒了……太棒了……\n真是場難以忘懷的比賽——！",
+      "Name": "成田速王",
+      "Text": "絕不動搖的──決心……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "（——歡呼聲——）",
+      "Text": "隔天，天氣晴朗──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "～～～～～……！！",
+      "Name": "播報員",
+      "Text": "成田速王！成田速王來了！\n支持度第一名的成田速王正往前衝！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "好！！",
+      "Name": "成田速王",
+      "Text": "一定要做到！一定要贏！\n就這樣堅持到最後一秒！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "這就是……我的決心！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "喝啊啊啊啊啊啊────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "領先的是成田速王！\n成田速王跑在最前面！\n拉開一個身距──抵達終點！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "第一名是成田速王！\n在這個阪神賽場上，她終於成功雪恥了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速王的粉絲A",
+      "Text": "太、太棒了……！\n太棒了、太棒了～！速王啊～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速王的粉絲B",
+      "Text": "恭喜妳～～～！！\n好精采、好精采……好棒的一場比賽～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哇啊啊啊啊啊啊！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "～～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "很好！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "電視的聲音",
-      "Text": "『——歡呼聲——』",
+      "Text": "「哇啊啊啊啊啊啊啊……！！」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "嗚哇啊啊啊啊！！\n成、成田路同學……！！\n嗚嗚嗚……恭……恭喜……！！",
+      "Text": "啊哇哇哇哇哇哇！！\n速、速、速王啊啊啊……！！\n嗚嗚，恭喜妳得第一……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "BRAVO！BRAVO！\n實在是完美的勝仗，成田路同學！",
+      "Text": "Brava！Brava！！\n速王，做得好！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "好歌劇",
-      "Text": "這樣一來，奏響的便是──『三重奏』。\n實在是愈發有趣了！",
+      "Text": "這下終於──組成「三重唱」了。\n越來越有趣了呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -257,13 +257,13 @@
     },
     {
       "Name": "",
-      "Text": "在名為「時代」的命運的引導之下、\n眾星終於聚首、開始綻放出無與倫比的光輝——",
+      "Text": "在名為世代的命運指引之下，星辰們陸續集結，\n閃耀的光點開始一個個增加──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "下一個目標是『皋月賞』。\n新年一過，便是經典級的開幕。",
+      "Text": "下一個目標是「皋月賞」。\n過完今年，經典級生涯也即將拉開序幕。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -275,22 +275,22 @@
     },
     {
       "Name": "？？？",
-      "Text": "——……GⅠ比賽。經典三冠。\r\n皋月賞、日本德比、菊花賞，\r\n都能和姐姐一起……",
+      "Text": "──……GⅠ競賽。經典三冠。\n皋月賞、日本打比、菊花賞。\n都可以跟姊姊一起……",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "日本德比",
+        "日本打比",
         "菊花賞"
       ]
     },
     {
       "Name": "？？？",
-      "Text": "……會很開心呢。\n一定、一定會很開心……！",
+      "Text": "……好期待啊。\n好期待喔，真是期待……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "？？？",
-      "Text": "會開心……的吧——",
+      "Text": "真的……很令人期待呢──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

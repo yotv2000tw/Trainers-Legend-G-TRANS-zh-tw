@@ -1,5 +1,5 @@
 {
-  "Title": "挑戰抓娃娃遊戲！",
+  "Title": "挑戰夾娃娃機！",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,7 +9,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "某天，我和愛慕織姬一起出門的時候——",
+      "Text": "某天，\n我跟愛慕織姬一起外出時──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -21,56 +21,56 @@
     },
     {
       "Name": "獨白",
-      "Text": "我順著愛慕織姬的視線看過去，在遊戲廳內\n看見了裝滿以賽馬娘為原型的娃娃的娃娃機。",
+      "Text": "我往愛慕織姬凝視的方向看去，\n那裡擺了一台\n裡面裝著賽馬娘主題玩偶的夾娃娃機。",
       "ChoiceDataList": [
-        "你想要個娃娃嗎？",
-        "你想要個娃娃嗎？"
+        "妳想要那些玩偶嗎？",
+        "妳想要那些玩偶嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……倒也不是特別想……\n讓我考慮一下吧。",
+      "Text": "……我還在思考到底想不想要。\n我指的不是自己。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "…………\n算了。訓練更重要。",
+      "Text": "…………\n沒什麼。\n快點回去訓練吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "好了，走吧。",
+      "Text": "來，我們回去吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "說是這麼說，但愛織卻一步三回頭。\n……這不還是想要嗎。\n好，那麼就由我——",
+      "Text": "愛慕織姬雖然嘴上這麼說，\n但卻一臉依依不捨地頻頻回首。\n好吧，這種時候──",
       "ChoiceDataList": [
-        "我來幫你抓幾個！"
+        "我來幫妳夾"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "誒……？\n我都說了，我不是很……",
+      "Text": "什麼……\n我不是說了，我不想……",
       "ChoiceDataList": [
-        "說不定到時候你就想要了呢？"
+        "夾到後妳可能會改變想法喔"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "…………隨你便吧。",
+      "Text": "…………隨便你吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "——這個遊戲，絕不能輸！！",
+      "Text": "──這個挑戰，不能失敗！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

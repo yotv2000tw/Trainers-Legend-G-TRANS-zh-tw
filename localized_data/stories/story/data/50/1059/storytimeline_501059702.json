@@ -1,0 +1,387 @@
+{
+  "Title": "現在的我……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我跟目白多伯一起去了車站前，在回程路上──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "欸欸，爸爸！\n我們去神社的祭典嘛～！沒關係吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩的父親",
+      "Text": "真拿妳沒辦法，只能去一下下喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "喔，今天有祭典啊……\n……喔。",
+      "ChoiceDataList": [
+        "好奇的話，要不要去看看？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "咦……！？不、不用……！\n我又沒有好奇！",
+      "ChoiceDataList": [
+        "那我希望妳能陪我去",
+        "那我希望妳能陪我去"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……不、不用啦。\n只是想說原來如此罷了。",
+      "ChoiceDataList": [
+        "那我希望妳能陪我去",
+        "那我希望妳能陪我去"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "啊？\n等、等一下──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "啊？\n等、等一下──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "受不了。\n你真的很強勢──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……唉，只去一下下喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "哎呀，小多？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "哎呀，小多？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "咦……爸爸！？\n你怎麼會在這裡……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯的父親",
+      "Text": "我來這裡出差。\n正在要去看妳的路上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "拜託……！我已經不是小孩了，\n別再叫我小多了啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯的父親",
+      "Text": "哈哈，說得也對。畢竟妳現在\n正在特雷森學園努力嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯的父親",
+      "Text": "訓練員……\n小女一直以來受你照顧了。\n我常常聽說你的事喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "哪、哪有……！\n我只是普通地報告近況而已……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "嗯……\n畢竟需要報告近況嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯的父親",
+      "Text": "小女似乎對你充滿感激。\n以後還是要請你多多關照！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯的父親",
+      "Text": "小女似乎對妳充滿感激。\n以後還是要請妳多多關照！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "拜、拜託！\n別說了啦……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "不、不用你雞婆……！\n我自己會好好道謝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯的父親",
+      "Text": "祭典啊。好懷念。\n妳小時候，我們曾一起來呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯的父親",
+      "Text": "祭典啊。好懷念。\n妳小時候，我們曾一起來呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……都是小時候的事了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯的父親",
+      "Text": "祭典的最後放起了煙火……\n那時候的小多真是可愛啊～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的多伯",
+      "Text": "哇～！好多大流星！\n我要趕快許願！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯的父親",
+      "Text": "啊哈哈！跟流星有點不一樣。\n那叫做放煙火喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的多伯",
+      "Text": "咦咦～！？是流星啦～！\n它會幫我實現願望啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的多伯",
+      "Text": "流星、流星……\n保佑我成為一個\n在大比賽也能獲勝的賽馬娘……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯的父親",
+      "Text": "──當時妳這麼說。",
+      "ChoiceDataList": [
+        "是喔……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "那是什麼表情，你在嘲笑我嗎……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "別、別笑我啦……！\n我現在已經分得清楚了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯的父親",
+      "Text": "哈哈，不過看妳這麼有精神就太好了。\n原本還在擔心妳有沒有勉強自己\n登上舞台。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯的父親",
+      "Text": "哈哈，不過看妳這麼有精神就太好了。\n原本還在擔心妳有沒有勉強自己\n登上舞台。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯的父親",
+      "Text": "……那麼，雖然還想多陪陪妳，\n但我差不多該走了。再見囉，小多。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "就說別叫我小多──\n……受不了，再見。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "唉……\n原本以為自己登上舞台，\n就會稍微有所成長──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "但就算這樣……我是不是還不夠成熟，\n才會讓他擔心啊？",
+      "ChoiceDataList": [
+        "別這麼洩氣"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我、我才沒有……！\n這、這跟你沒關係吧……！",
+      "ChoiceDataList": [
+        "那就拿出更多好表現，讓他看到妳有多厲害",
+        "妳爸爸已經認可妳囉"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "嗯……不過我好像……\n還是有點在意。",
+      "ChoiceDataList": [
+        "那就拿出更多好表現，讓他看到妳有多厲害",
+        "妳爸爸已經認可妳囉"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "更好……",
+      "ChoiceDataList": [
+        "多到足以消除他的擔憂！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "更好……",
+      "ChoiceDataList": [
+        "多到足以消除他的擔憂！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "這還用你說……！我今後也會繼續獲勝，\n成為任誰都會認可的賽馬娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……的確，與其鑽牛角尖，\n不如展開行動，才會有所改變。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……所以我要變得比現在更強。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我會變強。\n比現在還強很多很多……！\n多得足以讓爸爸為我感到驕傲……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白多伯意志堅定的眼神，\n完全展現出她的決心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白多伯意志堅定的眼神，\n完全展現出她的決心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "什麼……！\n講得好像你很懂的樣子……！",
+      "ChoiceDataList": [
+        "因為我感受到他對妳的疼惜之情",
+        "因為我感受到他對妳的疼惜之情"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……訓練員又不是我爸爸，\n怎麼能這麼肯定？",
+      "ChoiceDataList": [
+        "因為我感受到他對妳的疼惜之情",
+        "因為我感受到他對妳的疼惜之情"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……他只不過是個寵女兒的笨蛋。\n從以前開始就過度保護又愛操心，真的是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "這樣啊……那妳應該懂我的心情吧？\n正因為知道爸爸對自己的愛才更不甘心。\n覺得自己讓他擔心真是太沒用了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……唉，為了讓他別為我操心，\n我得變得更強才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "所以我會變強。\n比現在還強很多很多……\n多得足以讓爸爸為我感到驕傲……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "嘴上雖然在抱怨，\n但目白多伯想變強的心意似乎十分堅定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白多伯意志堅定的眼神，\n完全展現出她的決心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

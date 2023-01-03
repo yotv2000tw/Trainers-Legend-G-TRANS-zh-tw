@@ -1,5 +1,5 @@
 {
-  "Title": "我才是公主陛下！",
+  "Title": "我就是公主！",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,86 +9,86 @@
     },
     {
       "Name": "獨白",
-      "Text": "然後到了選拔賽當天。\r\n我去找準備參賽的川上公主――",
+      "Text": "時間來到選拔賽當天。\n我前去找準備參賽的川上公主──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "貴安，訓練員。\r\n你來看我比賽了呢。",
+      "Text": "你好，訓練員。\n你來看我比賽了啊。",
       "ChoiceDataList": [
-        "狀態怎樣？"
+        "妳的狀況還好嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "說實話，睡眠不足呢！\u3000我實在太煩惱，不知道該怎麽辦，\r\n就一口氣看了公主戰士全部49話！",
+      "Text": "老實說，我完全沒有睡飽！煩惱到腦袋裡一團亂，\n結果就把Prinfight全部49集一口氣看完了！",
       "ChoiceDataList": [
-        "你、你還好嗎！？",
-        "你、你還好嗎！？"
+        "這、這樣沒問題嗎！？",
+        "這、這樣沒問題嗎！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "不知道！\u3000不過，我也只能上了。公主鬥士可說過，\r\n『公主到最後關頭，不管成功與否，必須上去幹！』",
+      "Text": "不知道！不過，也只能努力看看了。\n而且Prinfight也說「公主不可以在最後自暴自棄」！",
       "ChoiceDataList": [
-        "我會為你加油的哦"
+        "我會幫妳加油的"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "非常感謝！\u3000那麽，我就走了！",
+      "Text": "謝謝你！那麼，我出發了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "實況",
-      "Text": "經歷昨晚的雨後，在晴空之下舉行的選拔賽第3場。\r\n能夠展現實力，抓住出道機會的馬娘到底會是誰呢！",
+      "Name": "播報員",
+      "Text": "選拔賽第三競賽將在經過一夜降雨的晴天下正式展開。\n究竟會是哪一名賽馬娘成功展現實力，拿下出道機會的門票呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "實況",
-      "Text": "實力難分伯仲，在空前激烈的混戰氣氛中，\r\n全體馬娘已入閘。然後，現在――開始！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "川上公主",
-      "Text": "呼……呼……",
+      "Name": "播報員",
+      "Text": "實力不相上下的賽馬娘們醞釀出前所未有的混戰氛圍，\n所有賽馬娘都已經進入閘門。現在──起跑了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "（啊啊，果然全力運動的感覺真好……！）",
+      "Text": "呼……！呼……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "（打一開始就是這樣。我喜歡公主陛下。\r\n但也超級喜歡運動。）",
+      "Text": "（嗯，盡全力奔跑果然很暢快……！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "（跟聖王同學初次相遇時，我很感動。\r\n她很優雅，就像公主陛下一樣……但她那種絕不放棄的強大……）",
+      "Text": "（我從以前就是這樣。我喜歡公主，可是也喜歡活動身體。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "（公主戰士也好聖王同學也好，都有著同樣的光輝。\r\n閃閃發光的、耀眼的、令人羨慕的……）",
+      "Text": "（第一次遇到帝王的時候真的很感動。\n她好高雅，就像公主一樣……卻也很堅強，絕對不會放棄……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "（但是說到底，我真正憧憬的東西，是什麽……？）",
+      "Text": "（Prinfight跟帝王都有一樣的閃耀光輝。\n她們閃閃發亮、好耀眼，讓我好羨慕……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "（可是，我真正嚮往的又是什麼……？）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -100,13 +100,13 @@
     },
     {
       "Name": "川上公主",
-      "Text": "（真痛苦――我不知道。即便模仿過我也不知道。\r\n我想要成為的東西……我想要成為的，公主陛下是……？）",
+      "Text": "（好難過──我不懂。就算模仿她們也還是不懂。\n自己真正嚮往的究竟是什麼……我想變成什麼樣的公主……？）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "（訓練員說我已經有過理想了……\r\n我明明應該有我自己的“理想”――！）",
+      "Text": "（訓練員說過……\n我有屬於自己的「理想」的──！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -117,174 +117,174 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "實況",
-      "Text": "哎呀ーー，最終彎道前方，這是滑倒了嗎！？\r\n川上公主掉到了外側。",
+      "Name": "播報員",
+      "Text": "哎呀──！在準備進到最後彎道之前滑倒了嗎！？\n川上公主往外側偏了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "中堅訓練員A",
-      "Text": "沖到泥潭里了嗎……她是選擇路線失誤了啊。\r\n嘛，出道前的孩子倒也沒辦法……",
+      "Name": "中階訓練員A",
+      "Text": "她踩到泥濘了……看來是沒有搶到好的賽道。\n雖然出道前犯這種錯也不能怪她……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "新人訓練員A",
-      "Text": "這樣想逆襲就很難了吧……真可憐。",
+      "Text": "但這種狀況要反敗為勝應該很難……真可憐。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "（我不知道……我確實不行嗎……？）",
+      "Text": "（我不懂……我沒有那個能耐嗎……？）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "（我確實……不能成為公主陛下嗎……？）",
+      "Text": "（我……沒辦法成為公主嗎……？）",
       "ChoiceDataList": [
-        "不要輸！你是公主陛下對吧！！",
-        "不要輸！你是公主陛下對吧！！"
+        "別認輸！妳是公主吧！！",
+        "別認輸！妳是公主吧！！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "――～～！！！",
+      "Text": "──唔！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "實況",
-      "Text": "她撐過去了！\u3000川上公主，再一次拼命奔跑。\r\n但她跟領頭隊伍已經拉開相當大距離了！",
+      "Name": "播報員",
+      "Text": "她撐住了！川上公主再次開始奮力狂奔。\n但是她已經被領先集團拉開很大的距離！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "實況",
-      "Text": "能追上嗎？\u3000差距沒有縮短。但她還是在跑――",
+      "Name": "播報員",
+      "Text": "她追得上嗎？拉開的距離遲遲無法縮短，但她還是不放棄──",
       "ChoiceDataList": [
-        "跑啊！別放棄“理想中的自己”！",
-        "跑啊！別放棄“理想中的自己”！"
+        "衝啊！不要放棄「理想的自己」！",
+        "衝啊！不要放棄「理想的自己」！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "～～～～我、知道、了、啊啊啊啊！！！！",
+      "Text": "～～～～沒問題，收到了────！！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "實況",
-      "Text": "哎呀～，真厲害！\u3000川上公主真厲害，\r\n非常厲害的猛追。她從大外圈朝著領頭隊伍筆直跑，這下――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "川上公主",
-      "Text": "啊啊啊啊啊，我是……公主！\u3000我，要成為公主！！",
+      "Name": "播報員",
+      "Text": "喔～好厲害！太厲害了！川上公主急起直追。\n她從最外圈直直衝向領先集團，這──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "（是啊。我只不過是不想放棄。\r\n不論是“成為公主陛下”還是“成為我自己”――！）",
+      "Text": "啊啊啊啊啊！我是……公主！我一定要成為公主！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "（因為，所謂“理想”，如果不是自身的延伸那就沒有意義。\r\n憧憬也好做我自己也好，要是全拋下，再跑就沒意義了！）",
+      "Text": "（對。我只是不想要放棄而已。\n我不想放棄「成為公主的夢想」，也不想放棄「自我」──！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "沖啊啊啊啊啊啊啊啊啊啊～～～！！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "實況",
-      "Text": "沖線ーーー！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "實況",
-      "Text": "完全燃燒！\u3000川上公主，向我們展現了不屈的鬥志！\r\n獲勝的是川上公主，剛剛以第1名沖線！",
+      "Text": "（因為「理想」這種事情不以我自己為基礎就沒意義了。\n要懷抱憧憬並保有自我地奔跑才有意義！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "都看好了！！！\r\n身為公主，逆境什麽的都能一拳打飛哦～～～！！！",
+      "Text": "喔喔喔喔喔呀啊啊啊啊啊～～～！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "抵達終點────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "太痛快了！川上公主讓我們看到了不屈不撓的鬥志！\n獲勝的是川上公主，現在第一個衝過終點！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "訓練員～！\u3000我做到了！\r\n不愧是我！\u3000奪取到勝利了哦！！",
+      "Text": "看清楚了嗎！！！\n身為一個公主，就應該要勇敢突破困境～～～！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "訓練員～！我成功了！\n我真是太厲害了！拿下勝利了！！",
       "ChoiceDataList": [
-        "恭喜！真的很厲害哦！",
-        "恭喜！真的很厲害哦！"
+        "恭喜妳！妳的表現太精彩了！",
+        "恭喜妳！妳的表現太精彩了！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "多虧了有訓練員的聲援！\r\n那時所聽到的聲音，我今後也永遠不會忘記的！",
+      "Text": "這都要感謝訓練員為我加油！\n我永遠不會忘記你那時說的話！",
       "ChoiceDataList": [
-        "你找到答案了嗎？"
+        "妳找到答案了嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "嗯！\u3000我果然，還是想成為『華麗、優雅而且勇猛』\r\n的公主陛下。不過，這公主陛下――",
+      "Text": "當然！我還是想要當一個「華麗、高雅又勇敢」的公主。\n不過，其實所謂的公主──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "是指不放棄做自己，深陷泥潭中也會繼續跑下去的人！\r\n有“不放棄“理想”的姿態，才是公主！！",
+      "Text": "是指不會放棄自己嚮往成為的模樣，而且就算滿身泥濘也會\n繼續奔跑下去的人！不放棄「理想」才是真正的公主！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "所以說，現在暫且不太優雅也沒什麽！\r\n我就是我，總有一天我是能變得優雅的！",
+      "Text": "所以，現在就算有點不夠高雅也沒關係！\n總有一天會用我自己的方式學會高雅的身段！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "看著她露出喜悅的表情，\r\n我決定現在是時候跟她講了。",
+      "Text": "我看著她神清氣爽的表情，心想現在就是表明的好 時機而開口。",
       "ChoiceDataList": [
-        "你的那份夢想，能讓我幫忙來實現嗎？",
-        "你的那份夢想，能讓我幫忙來實現嗎？"
+        "可以讓我協助妳實現夢想嗎？",
+        "可以讓我協助妳實現夢想嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "誒？\u3000……啊，幫忙是指，那那那個，難道說！？",
+      "Text": "咦？……啊，你說的協助，該該該不會是！？",
       "ChoiceDataList": [
-        "雖然現在的我還不算是“傳說中的訓練員”"
+        "雖然我現在還不是「傳說級的訓練員」"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "如果說她要追求自己做公主陛下的“理想”的話，\r\n我就想成為支持她的那個“傳說中的訓練員”。",
+      "Text": "如果她想成為公主，追求自己的「理想」，\n那我也想成為能夠扶持她的「傳說級的訓練員」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "哦哦哦哦哦哦～～～～！！！",
+      "Text": "喔喔喔喔喔喔喔～～～～！！！",
       "ChoiceDataList": [
         "！？！？"
       ],
@@ -292,25 +292,25 @@
     },
     {
       "Name": "川上公主",
-      "Text": "當然了！\u3000畢竟當我迷失“理想”時，\r\n喚醒我的就是訓練員啊！",
+      "Text": "當然可以！畢竟我迷失自己的「理想」時，\n就是訓練員指引我的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "同你一起的話，我一定會成為“理想”的公主！\r\n不，是一定要當給你看！",
+      "Text": "有你在的話，我應該就能成為「理想」中的公主！\n不，是一定會！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "兩個人一起創造傳說吧～～！\r\n目標是，華麗的！\u3000優雅的！\u3000最強最快的公主陛下！！！",
+      "Text": "我們就一起寫下輝煌的傳說吧～～！\n我要成為華麗！高雅！最強最快的公主！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "就這樣，我與豪爽、活潑的公主――\r\n川上公主一起的日子開始了！",
+      "Text": "於是，我就這樣跟豪邁又粗魯的公主──川上公主，\n展開共同奮鬥的日子！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

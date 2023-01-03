@@ -1,5 +1,5 @@
 {
-  "Title": "殿下蒞臨義賣會！",
+  "Title": "殿下參加義賣會！",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,288 +9,288 @@
     },
     {
       "Name": "獨白",
-      "Text": "與美妙姿勢出門的歸途上──\n依照她的希望，去看了看教會舉行的義賣會。",
+      "Text": "在我和美妙姿勢出門回程的路上──\n因應她的要求，我們順便去逛了\n教會舉辦的義賣會。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "好多～！好多小店！\n簡直就像祭典的廟會呢，訓練員！",
+      "Text": "哇啊～！有好多小店！\n訓練員，好像在祭典上看見的攤販喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "見覚えのある姿がおる思ったら、\r\nやっぱアンタらか！",
+      "Text": "我就覺得好像看到認識的人，\n原來是你們啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "艾尼斯同學和玉藻同學！\n你們二位也在呢！",
+      "Text": "是艾尼和玉藻！\n妳們兩位也來啦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "畢竟這義賣會對咱來說也是挺重要的嘛！",
+      "Text": "這裡的義賣會，\n對我們來說可是個大活動！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "艾尼斯風神",
-      "Text": "每次都能買到很多很劃算的東西，\n幫大忙啦～♪",
+      "Name": "艾尼風神",
+      "Text": "我們每次都能在這裡找到許多物超所值的\n好東西，真的是非常感激呢～♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "這樣呀！\n覺得越來越有趣了呢～♪",
+      "Text": "這樣啊！聽妳們這麼一說，\n感覺更讓人期待了呢～♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "SP隊長",
-      "Text": "全體聽令，陣型α！\n保護殿下一行人不會被危險人物靠近！",
+      "Name": "護衛隊長",
+      "Text": "所有人，擺出α隊形！\n絕對不能讓殿下一行人受到任何傷害！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "真幫子護衛的動作真麻利呀！\n但──",
+      "Text": "妳的護衛們動作還是一樣俐落呢……\n不過──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "女孩A",
-      "Text": "嗚嗚嗚……好可怕啊，媽媽～！",
+      "Text": "嗚嗚嗚……媽媽，我好怕喔～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "艾尼斯風神",
-      "Text": "哎呀。\n好像嚇到小孩子了～",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美妙姿勢",
-      "Text": "……隊長，我們就此回去吧。\n萬不可給這裡的其他人添麻煩。",
+      "Name": "艾尼風神",
+      "Text": "哎呀。對小孩子們來說，\n好像有點太可怕了～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "這裡還有在享受義賣會的孩子，\n不可讓他們感到害怕。\n我只是遠遠地觀望這場活動就很滿足了。",
+      "Text": "……隊長，我們就逛到這裡吧。\n這樣會給其他人添麻煩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "孩子們都很享受義賣會，\n我不想嚇到他們。\n我只要能從遠處參觀就滿足了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "不不不不，等下呀！\n你要這麼說的話──",
+      "Text": "別這麼著急，先等一下！\n既然如此──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "艾尼斯風神",
-      "Text": "咳咳！美妙殿下，\n今天就由我們來護衛您♪",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "玉藻十字",
-      "Text": "哦啦！\n要是瞅見可疑人物，\n咱玉藻大人肯定不會放過他！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "SP隊長",
-      "Text": "如果是二位也願意護衛的話，我等也放心了。\n我等就以少數人員組成陣型β，在後方待機吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美妙姿勢",
-      "Text": "みなさまのご厚意に感謝します。\r\nそれでは、參りましょうか♪",
+      "Name": "艾尼風神",
+      "Text": "咳！美妙殿下，\n今天就由我等來好好守護妳♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "要說到義賣會就得來看看這玩兒呢！\n這是咱和艾尼斯都很中意的店！",
+      "Text": "沒錯沒錯！如果看到可疑的傢伙，\n玉藻大人我會幫妳把他抓起來教訓一頓！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "護衛隊長",
+      "Text": "既然有兩位常客同行，我們就放心了。\n我們會以少人數的β隊形，\n在後方監視。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "お洋服におもちゃに……あら、\r\nこのアクセサリーは手作りかしら。",
+      "Text": "謝謝各位的好意。\n那麼，我們出發吧♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "艾尼斯風神",
-      "Text": "義賣會呢，除了賣一些平時用不上的東西，\n售賣手製商品也是重中之重呢～。",
+      "Name": "玉藻十字",
+      "Text": "首先是這裡！\n我和艾尼都很常光顧這間店！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "原來如此。\n那我要這個~您就是製作者嗎？",
+      "Text": "有賣衣服和各種玩具……哎呀，\n這件飾品是手工製作呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "除了用不到的東西以外，\n也有人會把手工商品帶來義賣會賣～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "原來如此。那我就買這個吧。\n你就是製作者嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "義賣會的店員",
-      "Text": "嗯，是的……\n誒？您是，美妙姿勢小姐！？",
+      "Text": "是的。\n妳是……美妙姿勢！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "我很喜歡這些作品呢。\n您真是個了不起的匠人呢♪",
+      "Text": "這些作品非常吸引我。\n你是位出色的工匠呢♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "義賣會的店員",
-      "Text": "哪裡哪裏！\n我、我不勝惶恐……！",
+      "Text": "不不不！\n妳、妳過獎了……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "啥呀，咋回事啊……\n咱好像看見美妙的背後在發光啊……",
+      "Text": "怎、怎麼回事……\n美妙背後看起來像在發光……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "タマモさん、アイネスさん！\r\n素晴らしき出會いを授けてくれた\nお2人にも、感謝しますわ。",
+      "Text": "玉藻、艾尼！\n我也要感謝妳們兩位，\n為我帶來如此美好的邂逅。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "艾尼斯風神",
+      "Name": "艾尼風神",
       "Text": "好、好耀眼～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "接下來，美妙姿勢也優雅地享受著義賣會。\n然後──",
+      "Text": "之後，美妙姿勢繼續優雅地\n享受義賣會。然後──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "あら、もう終了のお時間？\r\nなんだかあっという間だったなぁ～。",
+      "Text": "哎呀，結束的時間已經到了嗎？\n感覺時間過得好快啊～",
       "ChoiceDataList": [
-        "玩得開心嗎？",
-        "真是可靠的護衛呀",
-        "頼もしい護衛だったね"
+        "有享受到義賣會的樂趣嗎？",
+        "妳的護衛們真可靠呢",
+        "妳的護衛們真可靠啊"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "あら、もう終了のお時間？\r\nなんだかあっという間だったなぁ～。",
+      "Text": "哎呀，結束的時間已經到了嗎？\n感覺時間過得好快啊～",
       "ChoiceDataList": [
-        "玩得開心嗎？",
-        "真是可靠的護衛呀",
-        "頼もしい護衛だったね"
+        "有享受到義賣會的樂趣嗎？",
+        "妳的護衛們真可靠呢",
+        "妳的護衛們真可靠啊"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "嗯！託大家的福，\n我與許多美妙的寶物相遇了呢♪",
+      "Text": "嗯！託各位的福，\n我才能邂逅許多珍貴的寶物♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "說來，你最後是不是買了件T恤衫？\n讓大傢伙瞅瞅唄？",
+      "Text": "說到這個，\n妳很喜歡最後買的那件T恤呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "艾尼斯風神",
-      "Text": "是呢！買了怎樣的衣服呢？\n讓我們也看看嘛～♪",
+      "Name": "艾尼風神",
+      "Text": "妳買了什麼樣的衣服？\n借我看借我看～♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "艾尼斯風神",
-      "Text": "總、總覺得……好厲害……\n而且上面還有寫著個『面』字呢……",
+      "Name": "艾尼風神",
+      "Text": "感、感覺好驚人啊……\n上面寫了大大的「麵」字……",
       "ChoiceDataList": [
-        "這T恤挺有個性的……？",
-        "ずいぶん個性的なシャツだね……？"
+        "這件衣服真有個性……？",
+        "這件衣服真有個性……？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "對吧？因為我沒怎麼見過這種樣式的衣服，\n所以特別中意呢～♪",
+      "Text": "對吧？因為很少看到這種設計，\n所以讓我感到很在意～♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "這品味挺獨特呀。\n本地的老奶奶們也會很喜歡這種樣式吧……",
+      "Text": "這品味確實很獨特。\n感覺是地方大嬸會喜歡的款式～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "爲了紀念，就把它裝飾在房間裡面吧～？\n哼哼，畢竟義賣會對我而言可是難得一見呢！",
+      "Text": "掛在房間裡裝飾，當作紀念好了～\n呵呵，義賣會的東西可是錯過一次就沒了呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "與朋友一起在義賣會上游玩，\n美妙姿勢看起來也很高興的樣子。",
+      "Text": "看來和朋友一起逛義賣會，\n讓美妙姿勢非常開心。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "ええ！\u3000次の機會には\r\nぜひともまたお願いしたいくらい。",
+      "Text": "是啊！如果之後有機會，\n我還想再拜託她們呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "任しとき！\u3000買い物っちゅーもんは奧深い\r\nからな。次はもっといろいろ教えたるわ！",
+      "Text": "交給我吧！買東西可是門深奧的學問。\n下次我會再教妳更多事情！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "艾尼斯風神",
-      "Text": "以後還能在其他地方一起買東西玩就好了呢～",
+      "Name": "艾尼風神",
+      "Text": "就算不是義賣會，\n也可以一起去購物呢～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "托兩位的福，\n我感受到了這個國家深奧的購物文化……\n謝謝！",
+      "Text": "多虧有兩位幫忙，我才能更深入地\n學習這個國家的購物文化和作法……\n謝謝妳們！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "艾尼斯風神",
-      "Text": "嗯嗯！\n下次的話……\n我們應該也能習慣這種閃閃發光的氛圍了吧～。",
+      "Name": "艾尼風神",
+      "Text": "唔唔！下次得設法適應\n這個閃閃發亮的光環才行～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "對、對哈……",
+      "Text": "是、是啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "看來即便是她的朋友，\n對她時不時散發的皇家光芒也有些招架不住……",
+      "Text": "美妙姿勢偶爾會展現的威儀，\n就連她的朋友都難以招架。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

@@ -1,5 +1,5 @@
 {
-  "Title": "以星光為道標",
+  "Title": "以此星光為嚮導",
   "TextBlockList": [
     {
       "Name": "",
@@ -15,13 +15,13 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（啊……\r\n『日本杯』的參賽者列表出來了啊。）",
+      "Text": "（啊──「日本盃」的參賽者清單\n已經出來了啊。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（我……好歌劇……怒濤也在。\r\n還有——）",
+      "Text": "（我跟……好歌劇，怒濤也會參賽。\n還有──）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -33,43 +33,43 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "——咦？",
+      "Text": "──怎麼會？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "同學A",
-      "Text": "早上好～……誒？\r\n阿路沒在嗎？",
+      "Text": "早安～……咦？奇怪？\n速王班長呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "同學B",
-      "Text": "她還沒來呢……\n啊對了，她今天好像請假了。\n剛剛我聽見老師在跟她打電話哦。",
+      "Text": "啊～她還沒來……應該說，\n她今天好像請假。\n我剛剛不小心聽到老師說的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "同學A",
-      "Text": "真的？這可真少見啊！\r\n她怎麼了？感冒了嗎？\r\n應該沒事吧～",
+      "Text": "真假！？好難得！咦，她怎麼了？\n感冒？她狀況還好嗎～？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "同學B",
-      "Text": "嗯，不過……與其說是身體不舒服……\r\n你看這個～",
+      "Text": "嗯～這個嘛，聽說是身體不舒服啦……\n但說實在的，不就是那個～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "同學B",
-      "Text": "果然是『日本杯』的事情吧。",
+      "Text": "妳還不知道嗎？「日本盃」那件事啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "同學B",
-      "Text": "成田路同學，\r\n好像沒能參加哦——",
+      "Text": "聽說速王\n沒有獲得參賽資格──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -81,13 +81,13 @@
     },
     {
       "Name": "獨白",
-      "Text": "下午。\r\n在由訓練員進行的訓練時間時，\r\n她一般都會早早換好衣服在操場上等我。",
+      "Text": "下午。平常來說，到了跟教官或專任訓練員\n約好的訓練時間時，她都會早早換好衣服\n先到操場上等候的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "她一直以來都是這樣以效率為重的孩子——\r\n一直以來。",
+      "Text": "她平時的行動都很重視效率。\n──要是平時的話。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -95,42 +95,42 @@
       "Name": "愛慕織姬",
       "Text": "……那個。",
       "ChoiceDataList": [
-        "（嗯？她還穿著制服……？）"
+        "（奇怪？她還穿著制服……？）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "——今天，她似乎有什麼事情要說。",
+      "Text": "──這就代表她有想做的事吧。\n我立刻就注意到這一點。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "………………\n…………………………",
+      "Text": "…………\n…………，…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "看著她那副目光遊離不定、\n似乎在斟酌怎樣開口才好的模樣，\n我更加確信無疑。",
+      "Text": "接著，看著視線左顧右盼，\n似乎正在拼命思考如何開口的她，\n我這麼深信。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "——看來，想說的事情是相當多呢。",
+      "Text": "──看來她想說的話\n相當難以啟齒。",
       "ChoiceDataList": [
-        "愛織。"
+        "織姬"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "唔……\n……？",
+      "Text": "呃……?",
       "ChoiceDataList": [
-        "你已經理解『自己』這個詞的意思了吧？",
-        "你已經理解『自己』這個詞的意思了吧？"
+        "我想妳應該已經很了解「自己」了吧？",
+        "我想妳應該已經很了解「自己」了吧？"
       ],
       "ColorTextInfoList": []
     },
@@ -142,276 +142,276 @@
     },
     {
       "Name": "獨白",
-      "Text": "這是她在新年時許下的願望。\n春去秋來、以『好好活下去』為目標的她，\n如今——",
+      "Text": "自她在新年參拜那天表明自己的想法後，\n季節又經過了一番輪轉。那天起她開始忠於自己，\n誠實地「好好地活著」，要是現在的她──",
       "ChoiceDataList": [
-        "……你想要怎麼做，我想聽你親口說出來。"
+        "妳想怎麼做？告訴我吧"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……——",
+      "Text": "…………――――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "訓練。\n……今天的訓練，我想暫停一天。",
+      "Text": "今天的訓練……\n……我想請假。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……我有些話，必須告訴成田路同學。",
+      "Text": "因為我……想去找速王聊聊。",
       "ChoiceDataList": [
         "好，我知道了！",
-        "好，我知道了！"
+        "嗯，我知道了！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……謝謝。",
+      "Text": "……謝謝你。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
+      "Name": "成田速王",
       "Text": "………………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "啊——",
+      "Text": "啊──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……你果然在啊。",
+      "Text": "……妳在這啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "愛、愛織同學？！欸……\r\n你怎麼在這裡？這不是訓練的時間嗎？！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "愛慕織姬",
-      "Text": "你沒資格說我吧。\n『身體不舒服』的話，應該在宿舍裡休息才對。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "啊啊……啊哈哈。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "……果然不該做這些不習慣的事情呀……\r\n我還以為偷懶摸魚什麼的能讓我放鬆一點呢……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "把大腦完全放空到處閑逛，\r\n不知不覺間已經過了半天了……",
+      "Name": "成田速王",
+      "Text": "織、織姬！？咦……\n妳、妳怎麼來了！？現在是訓練時間喔！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……既然這樣的話……",
+      "Text": "妳還敢說呢。要是真的「身體不舒服」，\n不是該留在宿舍睡覺嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "這個嘛……啊哈哈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "……人真的是不該做自己不擅長的事呢！\n我還妄想試著偷懶一下，\n想藉此舒暢一點。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "結果完全想不到該去哪、該做什麼事，\n回過神來時已經在這邊發呆大半天了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "要陪我一起再『稍微』偷會懶嗎？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "誒？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "化妝品……\r\n誒？愛織同學原來對這些事情感興趣的嗎？",
+      "Text": "……既然這樣……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……倒也沒有。",
+      "Text": "接下來乾脆去「徹底」偷懶一番？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "是吧？而且你不是連頭髮都是自己剪嗎？\n那、那為什麼到這裡來……",
+      "Name": "成田速王",
+      "Text": "咦？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "愛慕織姬",
-      "Text": "……這裡不好嗎？\r\n那就——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "欸……這個……呃……\n這家店，好像有什麼特殊的規則的樣子……\n愛織同學知道嗎……？",
+      "Name": "成田速王",
+      "Text": "化妝品……？\n織姬，妳本來就對化妝有興趣嗎……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……不太知道。\n但是——",
+      "Text": "不……還好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "對吧？\n我記得妳連頭髮都是自己剪的吧！？\n怎、怎麼會想來這裡……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我知道，好像這家店的菜單上，\r\n不少菜名都挺讓人難以啟齒的。",
+      "Text": "……這裡不適合？\n那──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "簡、簡直就是地雷原啊……！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "愛慕織姬",
-      "Text": "…………………………………………",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "對吧！你很不擅長應付這種熱鬧的場面對吧？！\n咱們走吧，現在就走！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "愛織與成田路",
-      "Text": "哈——————",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "啊哈哈，雖然我也沒什麼說別人的資格……\r\n但是愛織同學也相當不擅長偷懶呢！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "但是——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "……但是，你願意陪我這樣散心，\n真的非常謝謝你。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "不過，呃……\n我、我已經沒事了！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "雖然這次的『日本杯』沒能參賽，\r\n但一切都還沒結束！我還會繼續努力的！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "所以……那個……\n……我，差不多該回去了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "回去之後還想稍微訓練會，我就先——",
+      "Name": "成田速王",
+      "Text": "呃，那個～\n……這家店好像有些特殊規則呢？\n織姬對這方面很熟嗎……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……等等。",
+      "Text": "……我也不太熟。只是──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……就，再待一會兒吧。",
+      "Text": "我只知道，這份菜單裡其中有一些品項，\n點菜之後會面臨令人十分害羞的場面。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "根、根本處處是地雷啊……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……直到夜幕降臨、群星閃爍為止，\r\n陪我再坐一會兒吧。",
+      "Text": "………………………………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "唔……",
+      "Name": "成田速王",
+      "Text": "對吧？我記得妳不喜歡吵鬧的地方吧！？\n我、我們快走吧，馬上離開！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "織姬＆速王",
+      "Text": "唉～～～～………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "唉，啊哈哈。雖然我也沒有資格說別人啦，\n但織姬妳也很不擅長偷懶嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "不過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "……真是謝謝妳。\n謝謝妳這麼為我著想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "不過，那個……呃，我已經……沒事了啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "沒錯，\n這次我的確無法參加「日本盃」。\n但這又不代表一切就這樣結束了嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "所以該怎麼說，呃……\n……我差不多該回去了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "我想用跑的回去，那我就先──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "等一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "……留下來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "留下來。直到晚上。\n……直到星星出現。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "呃，…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "就這樣，二人都坐了下來，靜候日落。",
+      "Text": "兩人就這樣靜靜地等待日落。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "她們等待著、等待著，直到——",
+      "Text": "不斷、不斷持續等待，直到──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "……愛織同學。\n那邊特別亮的四顆星星，叫什麼呢？",
+      "Name": "成田速王",
+      "Text": "……織姬。\n那邊有四顆閃爍的星星，那是什麼星呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "那是——秋季四邊形，也叫天馬大方框。\n……說到秋季星空，\n那就是『天馬當空，銀河斜掛』。",
+      "Text": "那叫做──秋季四邊形。\n也被稱做「飛馬座巨大四邊形」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "原來如此……天馬……嗎……\n很好呢……不僅聽上去很酷，\n而且，有翅膀的話，就能自由地飛向遠方——",
+      "Name": "成田速王",
+      "Text": "原來如此……飛馬……這樣啊。\n好棒喔，聽起來真帥氣。\n而且好像瞬間就可以飛到遠方──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "……我也……\n想和大家一起，像天馬那般閃耀呢……",
+      "Name": "成田速王",
+      "Text": "……我原本也想變得\n跟妳們大家一樣閃耀的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "但是……總覺得……很難辦到吧。",
+      "Name": "成田速王",
+      "Text": "但……嗯，看來…沒那麼簡單。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -422,212 +422,212 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "我……也想變得和小歌劇一樣……\n和小怒濤一樣……\n和愛織同學一樣……",
+      "Name": "成田速王",
+      "Text": "我……\n無法變得像歌劇、小濤一樣，\n當然也無法變得像織姬妳一樣。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "但是，無論我怎麼做、怎樣努力……\n我都只能是我現在這副模樣……\n最後還淪落到這般地步……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "愛慕織姬",
-      "Text": "…………是……呢。",
+      "Name": "成田速王",
+      "Text": "無論我怎麼做，我都只會是我自己……\n而看來我自己的……極限似乎就到這裡了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……但你就是你。你不是我們之中的任何一個人，\n當然只能是你的模樣。\n但是，正因如此——",
+      "Text": "…………是啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "我，就是想和這樣的你一起奔跑。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "……？",
+      "Text": "妳只能是妳自己，妳無法變成其他人……\n正是因為這樣……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "堅強可靠、有點濫好人、喜歡多管閒事……\n雖然跑法有些粗獷，\n但照樣迫力十足、招人喜歡……",
+      "Text": "才會讓我想跟妳比賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "咦──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "為人直率，爲了迴應大家的期待會不懈努力，\n但有時也會有點鉆牛角尖……\n……我就是想和這樣的你一起奔跑。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "……愛織同學……",
+      "Text": "妳精明能幹，老愛照顧人，有點多管閒事，\n跑起步來有點誇張但又很有魄力，\n非常受歡迎。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "成田路同學。",
+      "Text": "妳充滿熱誠，甚至發誓要回應眾人的期待，\n但有時又有點太過鑽牛角尖……\n我就喜歡這樣的妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "呃，……織……姬。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "再和我一決勝負吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "啊……——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "好好休息、打起精神之後再開始訓練，\n然後……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "我們再一起，在比賽裡一決勝負——",
+      "Text": "速王。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（……——成田路同學的手……）",
+      "Text": "我們要再一起比賽喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "先充分休息，等妳恢復精神後，\n再好好鍛鍊，然後……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "然後我們再來比賽──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（曾被我一度甩開的手……\n跨越了一年的時光……終於觸碰到了……）",
+      "Text": "（……啊啊，這就是速王的手）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（這就是我的……獨一無二的勁敵的手……）",
+      "Text": "（曾經被我甩開一次的手。\n經過一年，我終於能碰觸到這隻手了）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "——來看『日本杯』吧。\r\n一定要來觀戰。",
+      "Text": "（我的……獨一無二的勁敵的……手）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "在那裡……我會讓你親眼見證，\n決心要和你對決的、我的奔跑。",
+      "Text": "──妳一定要來看喔。\n來「日本盃」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……我也會贏給你看的。\n所以……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "……所以，愛織同學的意思是……\r\n要我不顧一切地追上來嗎？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "即便是遍體鱗傷、也要闖到你的身邊來？",
+      "Text": "到時……我會跑出，讓妳會忍不住\n想再次跟我決勝負的表現。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……",
+      "Text": "而且我一定會贏得比賽。\n……所以……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "……所以？妳是不是想告訴這麼沒用的我\n無論如何都要往上爬？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "即使拼命到吐血，也要爬到妳身邊去？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……嘛……大概，就是這個意思吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "……噗……哈哈哈哈哈哈哈哈哈哈！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田路",
-      "Text": "我還是第一次聽見愛織同學說這種任性話的呢！",
+      "Text": "呃──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……是呢。",
+      "Text": "……嗯。或許是吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "──呵。啊哈哈哈哈哈！！\n啊～～～～真是的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "織姬竟然會說出那麼任性的話，\n這還是第一次聽見妳耍任性呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……我也覺得，似乎打出生以來，\n我是第一次說這種耍性子的話。",
+      "Text": "……就是啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……那，該怎麼辦？",
+      "Text": "我想……我也是這輩子第一次說出這種話。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田路",
-      "Text": "就、就算你問我怎麼辦……\n大概現在已經鎖門了吧——",
+      "Name": "愛慕織姬",
+      "Text": "……情況看來如何？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田速王",
+      "Text": "我、我也、我也不知道……！？\n但我想趁現在應該可以偷偷摸進去──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "你們！！！！",
+      "Text": "妳們兩個～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "愛織與成田路",
+      "Name": "織姬＆速王",
       "Text": "！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "終於找到你們了，不聽話的小馬駒們！\r\n你們真夠膽啊——",
+      "Text": "被我抓到囉，壞女孩們！\n妳們真是的──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "不僅跑出去偷懶，還敢打破門禁時間？\n這種珍惜的體驗開心嗎？\n那我就再懲罰你們做做清潔怎麼樣啊？",
+      "Text": "又偷懶又違反門禁，體驗這些平常做不慣的事情\n是不是很開心啊？既然這樣，\n我就再加碼罰妳們體驗打掃環境吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "愛織與成田路",
-      "Text": "……遵命。",
+      "Name": "織姬＆速王",
+      "Text": "……是。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

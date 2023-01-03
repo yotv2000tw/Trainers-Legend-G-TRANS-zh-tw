@@ -1,0 +1,63 @@
+{
+  "Title": "缺席的理由……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我擔心沒來訓練的曼哈頓咖啡\n四處找她時，\n看見她正在對著空氣揮手……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "…………再見。\n……要直接回去，不要再亂跑了……",
+      "ChoiceDataList": [
+        "……妳在跟誰說話？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……啊啊，訓練員……\n我在幫一個迷路的孩子指路…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……那麼，\n我們回去訓練吧……",
+      "ChoiceDataList": [
+        "已經超過訓練的時間了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "…………快要天黑了……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "…………我明明只跟他說了沒有幾秒的話……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "…………不，這不算藉口。\n抱歉……以後我會注意的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看來她真的很認真在反省。\n既然已經答應以後會注意了，\n我就也不要再追問了吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

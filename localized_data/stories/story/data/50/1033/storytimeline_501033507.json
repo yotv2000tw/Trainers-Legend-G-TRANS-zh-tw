@@ -1,5 +1,5 @@
 {
-  "Title": "粉絲來信",
+  "Title": "粉絲信",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,91 +9,91 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "這個……是給我的？",
+      "Text": "這個……是要給我的？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "女孩子",
-      "Text": "嗯！電視上的愛織姐姐特別帥氣哦！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "愛慕織姬",
-      "Text": "……謝謝你。那，回見。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "女孩子",
-      "Text": "那個那個！可以請你現在就讀嗎！\n我就在這兒等你讀完！",
+      "Name": "女孩",
+      "Text": "嗯！我在電視上看到妳，覺得妳很帥氣！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "誒……就在這裡讀嗎……",
+      "Text": "……謝謝妳。再見了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "女孩子",
-      "Text": "我寫這封信的時候，\n心裡一直在想著要成為愛織姐姐的助力哦！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "女孩子",
-      "Text": "我想看看我的這種心情有沒有在信裡表達出來！",
+      "Name": "女孩",
+      "Text": "我說我說！那個啊，妳可以現在就看嗎！？\n我會等妳看完的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……這樣啊……\n……我明白了。",
+      "Text": "咦……現在在這裡看……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩",
+      "Text": "我邊寫信，邊希望\n這封信能讓姐姐你充滿精神～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩",
+      "Text": "我想看看我的心意能不能傳達給妳，\n妳會不會充滿精神！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（至愛織姐姐。\n我一直都在支援你。）",
+      "Text": "……呵……\n…………我知道了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（總是穿著一身藍色的衣服、跑得又特別快，\n而且還特別帥氣哦！每次看見姐姐奔跑的模樣，\n我就覺得我也必須要努力才行呢！）",
+      "Text": "（給織姬姐姐\n我一直都很支持妳）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（從今往後我也會一直支援愛織姐姐的，\n也請你要一直加油下去哦！）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "女孩子",
-      "Text": "怎、怎麼樣呀？有、有成為愛織姐姐的助力嗎？",
+      "Text": "（妳身穿藍色衣服，又跑得快，真的好帥喔～\n我也會努力跑步的）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "嗯………………",
+      "Text": "（以後我也會一～直替妳加油喔。\n要加油喔）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩",
+      "Text": "怎、怎麼樣～？有覺得充～滿了精神嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……真是封暖人心扉的信呢。",
+      "Text": "有…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "播音員",
-      "Text": "『啊，就是在這個車站前對吧！\n愛慕織姬與那位少女在這裡的對話，\n現在已經成為SNS上熱門的話題了——』",
+      "Name": "愛慕織姬",
+      "Text": "……我覺得這封信很溫暖喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播",
+      "Text": "「啊，這裡是車站前！愛慕織姬跟少女的\n對話被路人拍下來，在SNS上廣傳，\n蔚為話題──」",
       "ChoiceDataList": [
         "這是……"
       ],
@@ -101,13 +101,13 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……把電視關掉。馬上關掉。",
+      "Text": "……關掉電視。立刻關掉。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "女孩子",
-      "Text": "『而且而且，愛織姐姐說，\n我的信非常暖人心扉哦！』",
+      "Name": "女孩",
+      "Text": "「然後呢，織姬姐姐她呢，\n看了我寫的信後就提起精神了喔！」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -118,14 +118,14 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "女孩子",
-      "Text": "『我以後還會經常給愛織姐姐寫信的！』",
+      "Name": "女孩",
+      "Text": "「我打算之後還要繼續寫信給她喔～！」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……哈哈……這個還是免了吧……",
+      "Text": "……暫時先放過我吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

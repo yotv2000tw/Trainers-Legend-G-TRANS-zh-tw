@@ -36,13 +36,13 @@
     },
     {
       "Name": "電話另一頭的賽馬娘",
-      "Text": "「嗚嗚～對不起……！嗚嗚。\n我為什麼會感冒了呢……！」",
+      "Text": "「嗚嗚～對不起……！\n嗚嗚。我怎麼會感冒了呢……！」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "秋川理事長",
-      "Text": "哇、哇哇。不要哭了啦！\n大家都會感冒的──",
+      "Text": "哇、哇哇。不要哭了！\n不管是誰大家都會感冒的──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -60,7 +60,7 @@
     },
     {
       "Name": "電話另一頭的賽馬娘",
-      "Text": "「嗚嗚……對不起……\n還給城市妳添了麻煩……」",
+      "Text": "「嗚嗚……對不起……\n還給城市同學添了麻煩……」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -72,7 +72,7 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "所以，快去吃有營養的東西，吃完快點睡覺！\n我說完了，明白了嗎？",
+      "Text": "所以快去吃些有營養的東西，吃完快點睡覺！\n我要說的就這些，明白了嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -90,7 +90,7 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "那我們也開始吧。\n除了制服外，也會用到決勝服吧？",
+      "Text": "那我們也開始吧。\n除了制服外，還會用到決勝服吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -102,13 +102,13 @@
     },
     {
       "Name": "攝影師",
-      "Text": "接下來拍校舍內的情境！\n這表情真棒！",
+      "Text": "接下來改到校舍內拍！\n表情非常棒喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "攝影師",
-      "Text": "接下來是穿上決勝服的樣子！喔，好帥！\n請讓我再拍一張！",
+      "Text": "然後是穿上決勝服的樣子！喔，好帥！\n再來一張！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -120,31 +120,31 @@
     },
     {
       "Name": "攝影工作人員A",
-      "Text": "好厲害……不愧是現役模特兒。\n很清楚需要什麼畫面……",
+      "Text": "好厲害……不愧是當紅模特兒。\n很清楚需要什麼畫面……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "攝影工作人員B",
-      "Text": "哎呀～真是太帥了。\n拍攝進度超快，看來可以早一小時結束喔。",
+      "Text": "哎呀～真是太帥了。拍攝進度超快，\n看來可以提早一小時結束喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "正如他們所言，在拍攝的時候，\n黃金城市完全就是一個專業模特兒。",
+      "Text": "正如他們所言，拍攝時的黃金城市\n完全就是一個專業模特兒。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "與平時跑步的她不同，\n看起來閃閃發光，宛如遙遠的存在──",
+      "Text": "不同於平時跑步的她，\n看起來閃閃發光，宛如遙遠的存在──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "攝影師",
-      "Text": "那麼最後一張！城市，\n請把妳最強的武器展現給我們看！",
+      "Text": "那麼最後一張！城市小姐，\n請把妳最強的武器展現給我們看吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -212,7 +212,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "然後，\n黃金城市去進行最後的拍攝──",
+      "Text": "說完，\n黃金城市便去進行最後的拍攝──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -224,19 +224,19 @@
     },
     {
       "Name": "攝影工作人員B",
-      "Text": "哎呀，真是名不虛傳。最後的跑姿，\n將「妳的風格」表現得淋漓盡致呢～",
+      "Text": "哎呀，真是名不虛傳。最後的跑姿，\n將「個人風格」表現得淋漓盡致呢～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "工作人員說得沒錯。在拍攝上，\n她從頭到尾都很完美。那麼為什麼……",
+      "Text": "工作人員說得沒錯。在拍攝上，\n她從頭到尾都很完美。那為什麼……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "咦？怎麼了，訓練員？",
+      "Text": "嗯？怎麼了，訓練員？",
       "ChoiceDataList": [
         "妳為什麼要問我「自己的武器」是什麼？",
         "妳為什麼要問我「自己的武器」是什麼？"
@@ -245,19 +245,19 @@
     },
     {
       "Name": "獨白",
-      "Text": "……當時其實不需要特地問我，\n她自己也很清楚吧。",
+      "Text": "……當時即使沒有特地問我，\n她自己應該也很清楚才對。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "我跟你說，所謂的模特兒，\n最重要的是達成客戶要求。",
+      "Text": "我跟你說，身為模特兒，\n最重要的是達成客戶要求。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "所以我才向\n比我自己更清楚\n「我最強的武器」是什麼的人請教。",
+      "Text": "所以我才向比我自己更了解\n「我最強的武器」是什麼的人請教。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -269,7 +269,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "在夕陽照耀下，剛才的模特兒已不見蹤影，\n她的臉上完全是\n特雷森學園學生的表情了。",
+      "Text": "夕陽照耀在她的臉上。\n她此刻的神情已非剛才的模特兒，\n而是一名特雷森學園的學生。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

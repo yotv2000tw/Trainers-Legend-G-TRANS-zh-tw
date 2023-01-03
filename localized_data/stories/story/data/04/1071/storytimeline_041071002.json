@@ -1,5 +1,5 @@
 {
-  "Title": "凜然而清澈",
+  "Title": "凜然的透明",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,87 +9,87 @@
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "1、2、3、……1……1、2、3、4……",
+      "Text": "1、2、3……1……1、2、3、4……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "呼……哈……哈……\n好，做完三組了……那麼，現在的負荷——",
+      "Text": "呼、呼、呼……\n做完三組了……繼續用同樣的強度──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "為了見見目白阿爾丹，我來到了體育館。\n她以較輕的負荷、慢慢地進行著訓練。",
+      "Text": "我來到健身房看目白阿爾丹的狀況。\n她似乎正以整體來說偏低的強度，在緩緩進行訓練。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "不過……\n我有些在意她訓練的間隙中不斷確認的那個平板……",
+      "Text": "唯一讓我有點在意的，是她每做完一個項目，\n都會反覆確認平板……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "馬娘A",
-      "Text": "好——力量訓練力量訓練！——啊，唔哇……今天人好多啊~\n嗯……在哪裡有空著的器材呢……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白阿爾丹",
-      "Text": "不好意思，打擾了。若是不嫌棄的話，可以使用這邊的器材哦？\n我的訓練已經完成了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "馬娘A",
-      "Text": "誒，可以嗎前輩！ Lucky~！！\n那我就不客氣啦！",
+      "Name": "賽馬娘A",
+      "Text": "好～重訓重訓！咦……唔哇。今天人也很多呢～\n呃～哪裡有空位……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "嗯嗯，請吧。那麼，我就先告辭了。",
+      "Text": "不好意思。不介意的話，要用這裡嗎？\n我已經做完訓練了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "咦，前輩，可以嗎！太幸運了～！！\n那我就不客氣了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "是的，請用。那麼，我先失陪了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "賽馬娘C",
-      "Text": "哎，這就走了？ 不妙呀~\n這不是才剛剛來嗎？",
+      "Text": "咦，已經做完了嗎？不會吧。\n她不是才剛來嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "馬娘B",
-      "Text": "嗯~應該是身體原因吧？\n果然，她不能勉強自己做負荷太大的訓練呢。",
+      "Name": "賽馬娘B",
+      "Text": "嗯～考慮到身體狀況……\n她果然還是不能太勉強吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "新人訓練員A",
-      "Text": "……果然，因為『那個目白』，\n目白阿爾丹也承擔了過大的壓力呢……",
+      "Text": "……本來有點在意「那個目白家」的賽馬娘，\n不過目白阿爾丹……她背負的不利條件實在太嚴苛了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "資深訓練員A",
-      "Text": "是呢。這樣冒著危險強行出賽，對她自己也沒什麼好處吧……\n明明就是不適合參加比賽的體質……",
+      "Text": "是啊。無視危險出賽，對本人也未必是件好事……\n她的身體實在太不適合競賽了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "果然，就如手綱小姐所說的一樣，\n現在四處都充斥著“她不適合參加比賽”的評價……",
+      "Text": "果然從手綱小姐那裡聽來的評價並不完全，\n甚至還有人說她是不應該參賽的賽馬娘──",
       "ChoiceDataList": [
-        "（阿爾丹自己又是怎麼想的呢……）"
+        "（阿爾丹自己又是怎麼想的呢？）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "……和她聊聊吧。\n這樣想著，我追上了剛剛走出體育館的目白阿爾丹。",
+      "Text": "我想試著和她聊一下。\n於是，我決定追上離開健身房的目白阿爾丹。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -101,22 +101,22 @@
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "……嗚——",
+      "Text": "……",
       "ChoiceDataList": [
-        "怎麼了？！",
-        "怎麼了呀？！"
+        "怎麼了！？",
+        "怎麼了嗎！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "但阿爾丹卻腳步不穩，接著就蹲在了地上。\n我連忙跑上前去扶起她。",
+      "Text": "我看見目白阿爾丹搖搖晃晃地蹲下，\n所以急忙衝過去扶她起身。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "啊，非常抱歉，給您添麻煩了……\n方才我有些頭暈，但現在已經沒事了。",
+      "Text": "哎呀，不好意思，給你添麻煩了。\n我只是有點頭暈，現在已經沒事了。",
       "ChoiceDataList": [
         "那就好……！"
       ],
@@ -124,110 +124,110 @@
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "呵呵，果然還是不行呢，大病初癒就進行高強度訓練……\n嗯……哎呀？平板在——",
+      "Text": "呵呵，我真是的，明明病剛好不能太過操勞。\n……哎呀？我的平板呢──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "她這麼一說，我也跟著轉身一起尋找。\n平板電腦就掉在我的腳邊。",
+      "Text": "聽她這麼一說，我也跟著環視周圍，\n發現她在健身房看個不停的平板剛好掉在我的腳邊。",
       "ChoiceDataList": [
-        "在這裡哦……嗯……？！"
+        "在這裡……！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "在撿起平板電腦的瞬間——\n不經意瞟到的畫面，讓我不禁屏住呼吸。",
+      "Text": "此時──被撿起來的動作喚醒的畫面\n瞬間映入我的眼簾，讓我忍不住倒抽一口氣。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "僅僅一套訓練方案，就記載了無數信息。\n『方法』『次數』『組數』『負荷』『節奏』──",
+      "Text": "每個訓練項目都詳細記載了好幾種情報……\n「方法」「次數」「組數」「強度」「節奏」──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "這是異常明瞭的——\n她正不斷拚命『反覆試驗』的證據。",
+      "Text": "那是讓人一眼就能看出記錄者有多麼拚命──\n「反覆摸索」的痕跡。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "……非常感謝您為我撿起來。\n能把它遞給我嗎……？",
+      "Text": "……謝謝你幫我撿起來。\n可以還給我嗎？",
       "ChoiceDataList": [
-        "啊、啊啊，抱歉！",
+        "好、好的，抱歉！",
         "嗯、嗯，抱歉！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "目白阿爾丹接過平板、再度道謝之後便轉身離開。\n……而我甚至連自己想對她說什麼都忘了，只是呆呆地站著。",
+      "Text": "目白阿爾丹收下平板就離開了。\n……而我呆站在原地，甚至忘了自己來找她做什麼。",
       "ChoiceDataList": [
-        "『以最小的效率，達到最大的效果』——"
+        "「以最小付出達到最大效果──」"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "她的身體，即便如水晶般脆弱，再尋常不過的比賽對她也伴有危險——\n但是她依舊堅持戰鬥著。我此時才真切地觸碰到她那堅定覺悟的冰山一角……\n此時的我大腦一片空白，只能徒然站立而已。",
+      "Text": "隱約窺見她那即使身體脆弱到連正常訓練都伴隨危險，\n仍打算奮戰到底的決心後，我只能呆站在原地。",
       "ChoiceDataList": [
-        "目白阿爾丹……嗎……"
+        "目白阿爾丹嗎……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "駿川手綱",
-      "Text": "這樣……這樣真的好嗎，阿爾丹同學？！",
+      "Text": "怎麼會……阿爾丹，這樣真的好嗎！？",
       "ChoiceDataList": [
-        "？！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "在那之後數日。\n再見到目白阿爾丹時，她正站在滿臉錯愕的手綱小姐面前。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白阿爾丹",
-      "Text": "參賽名額還剩一個，對吧？\n若是可以的話……請將我登記上。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白阿爾丹",
-      "Text": "目白阿爾丹，下次選拔賽中，\n準備參加『沙土1200米比賽』。",
-      "ChoiceDataList": [
-        "（沙土……而且是短距離！？）"
+        "！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "我不禁懷疑起自己的耳朵。根據前幾日我所調查的基本情報，\n目白阿爾丹的適性應該是——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "駿川手綱",
-      "Text": "你的適性應當是『草地中距離』才對哦！\n雖說並不是毫無獲勝的希望，但在這比賽中你很難發揮出全部實力啊……！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "駿川手綱",
-      "Text": "阿爾丹同學……再靜候幾個月吧。到時候選拔賽會再舉辦的。\n等到那個時候，再選擇你真正能發揮實力的比賽——",
+      "Text": "在那之後過了幾天。我再次看見目白阿爾丹時，\n她正站在神情激動的手綱小姐前面。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "這『幾個月』的差距，對我而言相當重要。\n……手綱小姐，您也心知肚明吧。",
+      "Text": "參賽名額只剩下一個了吧？\n那我要參加那場比賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "目白阿爾丹，下一場選拔賽要參加\n「沙地1200公尺」的比賽。",
+      "ChoiceDataList": [
+        "（沙地比賽，而且還是短距離！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我懷疑起自己的耳朵。根據之前大略調查的基本情報，\n目白阿爾丹的資質──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "妳的資質應該是適合跑「草地中距離」的比賽！雖然不能說\n完全沒有勝算，但會很難發揮原本的實力……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "阿爾丹……幾個月後還會再次舉辦選拔賽。\n不如等到時候再報名能夠發揮原本實力的比賽──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "那「幾個月」的差距就是關鍵。\n……手綱小姐，妳應該也隱約察覺到了吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -239,43 +239,43 @@
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "馬娘們能夠發揮全部實力，盡情在舞台上閃耀的時間是有限的。\n在『本格化』之後最為充實的奔跑能力，終有一日也會衰退。",
+      "Text": "賽馬娘能在最高貴的舞台上閃耀的期間是有限的。\n在「巔峰期」培養出來的奔跑能力，遲早會不斷衰退。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "不斷因傷病住院、錯過無數多的選拔比賽……\n在我迎來『本格化』之後，已經浪費了過多時間。",
+      "Text": "反覆進出醫院，連選拔賽都無法參加……\n我在邁入「巔峰期」後，已經浪費了太多時間。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "如果連出道也姍姍來遲的話，\n那麼在閃耀・系列賽事中完成夙願之前，我的全盛期會先一步結束。",
+      "Text": "要是繼續延遲出道，在達成參加閃耀系列賽這個夙願前，\n我的巔峰期就結束了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "只有此事……唯有此事，我絕不容許。",
+      "Text": "只有這件事──只有這件事我絕對無法妥協。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "駿川手綱",
-      "Text": "唔、但是……！！",
+      "Text": "可是……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "您的關切，我心領了，手綱小姐。\n但是，我意已決。",
+      "Text": "手綱小姐，感謝妳的關心。\n不過，我已經決定了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "那麼——參賽所需的各種手續，就拜託您了。",
+      "Text": "拜託了──請幫我辦登記參賽的手續。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

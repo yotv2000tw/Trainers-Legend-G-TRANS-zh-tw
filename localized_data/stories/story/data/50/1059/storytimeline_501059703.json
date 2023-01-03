@@ -1,0 +1,336 @@
+{
+  "Title": "我要試試看",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我跟目白多伯一起出門，在回程路上──\n購物中心前面不知為何有些吵雜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "那是……氣槽前輩？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲A",
+      "Text": "居然能跟妳握手，太榮幸了……！\n真的很感謝妳！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲B",
+      "Text": "我在最前排看了妳之前的比賽……！\n妳的表現就是名副其實的「女帝」……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "謝謝大家的支持。\n給我很大的鼓勵。\n接下來不會辜負大家的期望，也會好好努力的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲C",
+      "Text": "太、太棒了……！\n接下來也可以跟我握手嗎……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "氣槽前輩，辛苦了。\n好驚人的粉絲人數呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……喔，是多伯啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "有人願意評價我很值得感激。\n為了報答粉絲的支持，我得抬頭挺胸，\n持續往更高的目標邁進才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……前輩果然很厲害呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "如果是我──一定沒辦法\n在粉絲面前表現得那麼落落大方。",
+      "ChoiceDataList": [
+        "不需要那麼妄自菲薄"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "畢竟妳有自己的苦衷，那也沒辦法。\n而且我也能體會在一大群人面前緊張的心情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "不過，別迷失了自己的本性。\n重要的是妳自己想做的事──\n就這麼簡單。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我想做的事……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲D",
+      "Text": "啊！是目白多伯！\n本人也好迷人～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲E",
+      "Text": "最近大家都在討論！\n我也變成妳的粉絲了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我、我嗎……！？\n確定不是氣槽前輩……！？",
+      "ChoiceDataList": [
+        "妳也是很有魅力的賽馬娘啊",
+        "妳也是很有魅力的賽馬娘啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "吵、吵死了！\n別說這種話，只會讓我心裡更亂……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "不要連訓練員都誇獎我……！\n只會讓我更迷惘……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……多伯，\n對於認可妳的努力，支持著妳的粉絲，\n妳有什麼想法？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……多伯，\n對於認可妳的努力，支持著妳的粉絲，\n妳有什麼想法？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……那個，我很開心有他們的支持。\n想好好向他們道謝……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "但即使如此，我還是沒辦法像前輩──",
+      "ChoiceDataList": [
+        "只要用自己現在能負荷的方式道謝就好",
+        "只要用自己現在能負荷的方式道謝就好",
+        "我會用盡全力替妳加油的！",
+        "我會用盡全力替妳加油的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "但即使如此，我還是沒辦法像前輩──",
+      "ChoiceDataList": [
+        "只要用自己現在能負荷的方式道謝就好",
+        "只要用自己現在能負荷的方式道謝就好",
+        "我會用盡全力替妳加油的！",
+        "我會用盡全力替妳加油的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "現在能負荷的……？",
+      "ChoiceDataList": [
+        "不需要一步登天，達到完美"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "沒錯。他們想要的是\n多伯以自己的方式表達出肺腑之言吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "訓練員……氣槽前輩……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "只要一步一步前進，總有一天妳也能接近我……\n或妳心中的理想形象吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……我……會努力的。\n因為我已經下定決心……要有所成長……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "那、那個……各位粉絲……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "就、就算有你的加油……",
+      "ChoiceDataList": [
+        "再試著前進一步看看吧",
+        "不是要讓爸爸為妳感到驕傲嗎"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "妳的心意我很開心",
+      "ChoiceDataList": [
+        "再試著前進一步看看吧",
+        "不是要讓爸爸為妳感到驕傲嗎"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "前進……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……哼。\n不、不用你說我也打算這樣做。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……嗯。這是能讓我成長的機會，\n我不想後悔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "我也會幫妳加油喔，多伯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "我也會幫妳加油喔，多伯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "只要一步一步前進，總有一天妳也能接近我……\n或妳心中的理想形象吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "那、那個……各位粉絲……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……雖然我跟其他賽馬娘相比，\n還有很多不足的地方──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "但我接下來也會繼續加油……！\n然後，那個……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "感謝你們的支持……！\n我非常開心……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲E",
+      "Text": "……我、我也要感謝妳！\n接下來也請繼續加油！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "呵。\n看來不需要擔心呢。",
+      "ChoiceDataList": [
+        "講得太棒了喔！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "…………是喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "有、有嗎……謝謝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我正在改變對吧。\n雖然只有一點點……但一定有。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然目白多伯表現出冷淡的態度，\n但她的表情卻隱隱\n流露出開朗的樣子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白多伯道謝時，\n表情隱隱流露出開朗的樣子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

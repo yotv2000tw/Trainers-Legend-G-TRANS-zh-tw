@@ -1,0 +1,306 @@
+{
+  "Title": "彼此信任",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "今天有一場要穿決勝服上場，\n想像是正式參加GⅠ競賽的模擬賽。\n雖然這是非常難得的重要機會──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員前輩",
+      "Text": "是目白阿爾丹的訓練員啊……\n我看了一下賽道，\n剛才的雨讓場地狀態變得極差呢。",
+      "ChoiceDataList": [
+        "是啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員前輩",
+      "Text": "氣溫也下降了很多，\n雖然這確實是個重要的機會……\n但我打算退出這場模擬賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員前輩",
+      "Text": "我記得你的專任賽馬娘……\n身體原本就不怎麼好吧？\n我勸你做決定時最好謹慎一點……再見。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "辛苦了，訓練員。\n我剛才……聽到你們在討論退出。",
+      "ChoiceDataList": [
+        "是啊，好像是在擔心我們",
+        "嗯，好像是在擔心我們"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "原來如此……有人願意關心我們\n是件好事呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……訓練員，可以請你決定\n要不要取消參賽嗎？",
+      "ChoiceDataList": [
+        "可以交給我決定嗎？",
+        "可以交給我決定嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "是的。\n──務必拜託了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……我稍微思考了一會兒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "參加的話，能獲得相當寶貴的經驗。\n目白阿爾丹暖身時的狀況不錯，\n我想不到阻止她的理由。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "不過，如果她隱瞞自己狀況不佳……\n保險起見，我跟目白阿爾丹\n確認她的身體狀況──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "如果是在「這個瞬間」奔跑，\n我沒有問題。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……我可以直接斷言，\n自己絕對能夠發揮出全力。",
+      "ChoiceDataList": [
+        "我知道了……那參加吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……真的沒關係嗎？",
+      "ChoiceDataList": [
+        "因為我相信阿爾丹說的「這個瞬間」"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "呵呵，謝謝你。\n那我要全力以赴，不讓自己留下任何遺憾。",
+      "ChoiceDataList": [
+        "喔，加油吧！",
+        "嗯，加油吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活潑的賽馬娘",
+      "Text": "今天請多指教！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "好的，還請妳多多指教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "（像這樣混在穿著決勝服的賽馬娘當中，\n就會回想起來……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "（──仔細想想，在邁入巔峰期後，\n我真的花了很長的時間\n才穿上決勝服呢。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "「賽馬娘們穿著引以為傲的決勝服，\n現在進入了閘門！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……好漂亮……\n婆婆，謝謝妳帶我來這裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "阿爾丹的管家婆婆",
+      "Text": "不客氣。\n不過，您才剛出院不久，\n請注意不要太過興奮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "好的……\n這我當然明白。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "（……我要到什麼時候……\n才能穿上那件充滿驕傲和光芒的服裝呢。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "（雖然我曾發誓總有一天一定要穿上，\n但如果說我不感到羨慕，那就是在騙人呢。\n而且……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "閘門應聲開啟。\n陰天的空氣十分沉重，\n但決勝服的衣襬仍華麗地飄動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "（而且現在──\n我正穿著這件衣服奔跑！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "（是你給了我契機。\n所以這件衣服也同時是你信任我，\n願意讓我出賽的證明。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "（我想讓自己配得上……\n這件充滿驕傲和光芒的服裝！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……呼──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "呼、呼……呼。\n我輸了……！",
+      "ChoiceDataList": [
+        "辛苦了……！妳跑得滿身泥巴啊",
+        "辛苦了……！妳跑得滿身泥巴呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "呵呵，你說的沒錯。\n雖然弄髒了衣服，不過……",
+      "ChoiceDataList": [
+        "這是邁向勝利的第一步",
+        "這是邁向勝利的第一步",
+        "不過？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "呵呵，你說的沒錯。\n雖然弄髒了衣服，不過……",
+      "ChoiceDataList": [
+        "這是邁向勝利的第一步",
+        "這是邁向勝利的第一步",
+        "不過？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……！呵呵呵。\n我們想的事情完全一樣呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "將這場敗北銘記在心吧。\n不過在「現在」這個瞬間奔跑，\n代表我沒有逃避對決戰鬥過了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "這個經驗一定能成為我的養分，\n讓我繼續向前邁進。\n還有──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……謝謝你，\n願意相信我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "往後……\n也要請你多多指教了。",
+      "ChoiceDataList": [
+        "我才要請妳多多指教！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我以後也想繼續回應她的信賴，\n並繼續讓自己能夠信賴她……\n今天讓我再次有了這樣的想法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "總覺得──\n心情非常暢快。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "正因為你願意相信我，\n即使滿身泥巴或變成落湯雞……\n我還是能繼續跑下去……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "所以訓練員，\n說不定以後……\n也沒人能攔得住我喔。",
+      "ChoiceDataList": [
+        "是啊，下次也要加油！",
+        "嗯，下次也要加油！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "好的，正合我意！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

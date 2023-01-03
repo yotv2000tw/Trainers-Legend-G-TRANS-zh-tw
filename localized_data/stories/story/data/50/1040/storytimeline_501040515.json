@@ -9,25 +9,25 @@
     },
     {
       "Name": "獨白",
-      "Text": "這一天，\n我和黃金城市在開會──",
+      "Text": "這一天，\n我和黃金城市正在開會──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "城市的經紀人",
-      "Text": "抱歉！\n現在可以帶城市去進行拍攝工作嗎！？",
+      "Text": "抱歉！\n我現在可以帶城市去進行拍攝工作嗎！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "經紀人？\n妳不是說今天沒工作……",
+      "Text": "阿經？\n妳不是說今天沒工作……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "城市的經紀人",
-      "Text": "抱歉，不過這次不能不拍！對方說\n要製作賽馬娘特輯，想拍妳穿決勝服的樣子。",
+      "Text": "抱歉，不過這次不能不拍！\n對方說想在賽馬娘特輯中放上妳穿決勝服的樣子。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -41,7 +41,7 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "……欸。經紀人，\n我可以帶他去攝影棚嗎？",
+      "Text": "……欸。阿經，\n我可以帶他去攝影棚嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -53,19 +53,19 @@
     },
     {
       "Name": "獨白",
-      "Text": "結果我就跟黃金城市\n在攝影棚中開會了。",
+      "Text": "結果我只好跟著黃金城市\n到攝影棚中開會。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "好，決定好策略了。\n接下來只剩上場跑了吧。",
+      "Text": "嗯，決定好策略了。\n接下來只剩上場跑了吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "……不過上場之前還有拍攝工作就是了。",
+      "Text": "……不過在那之前還有拍攝工作就是了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -95,13 +95,13 @@
     },
     {
       "Name": "造型師",
-      "Text": "呵呵，被妳岔開話題了呢。\n今天也要加油拍攝喔～",
+      "Text": "呵呵，被妳岔開話題了。\n今天也要加油喔～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "……是。",
+      "Text": "……唉。",
       "ChoiceDataList": [
         "妳想嘗試的事情是什麼？",
         "妳想嘗試的事情是什麼？"
@@ -124,7 +124,7 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "……設計靈感中的確是有加入機車元素。設計成\n就像能感受著風，無止境地跑下去般的款式。",
+      "Text": "……設計靈感中的確是有加入機車元素。\n讓人彷彿能感受著風，並奔向任何地方的感覺。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -136,25 +136,25 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "為了掌握好該怎麼走，\n我請教了喜歡機車的工作人員。",
+      "Text": "為了掌握好走台步的風格，\n我還去請教喜歡機車的工作人員。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "騎機車時，騎士會暴露在外面對吧？\n所以風會直接吹在臉上，\n如果是冬天的話，就會超痛又超冷。",
+      "Text": "騎機車時，騎士會暴露在外面對吧？\n所以風會直接吹在臉上，\n遇到冬天的話，就會超痛又超冷。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "但也因為這樣……會有種靠自己前進的感覺。\n聽他這麼說，就覺得很有趣……",
+      "Text": "但也因為這樣……會有種靠自己前進的感覺──\n聽了這些話，讓我覺得很有趣……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "不過因為機車只有二輪，一定得立腳架\n或維持車輪持續轉動，不然就會倒下來就是了。",
+      "Text": "不過因為機車只有二輪，如果不立腳架\n或持續前進，就會倒下來就是了。",
       "ChoiceDataList": [
         "妳騎過機車嗎？",
         "妳騎過機車嗎？"
@@ -163,7 +163,7 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "……沒有。因為我是個模特兒。\n我只是聽工作人員說說騎乘時的感覺。",
+      "Text": "……沒有。因為我是個模特兒。\n我只是聽工作人員說過騎乘時的感覺。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -171,9 +171,9 @@
       "Name": "黃金城市",
       "Text": "好像是為了避免車禍風險，\n所以我的契約上明令禁止騎車。",
       "ChoiceDataList": [
-        "畢竟妳能跑得比機車更棒",
-        "畢竟妳能跑得比機車更棒",
-        "我有一天會帶妳去騎的"
+        "而且妳能跑得比機車更好嘛",
+        "而且妳能跑得比機車更好嘛",
+        "我以後再騎機車載妳吧"
       ],
       "ColorTextInfoList": []
     },
@@ -181,9 +181,9 @@
       "Name": "黃金城市",
       "Text": "好像是為了避免車禍風險，\n所以我的契約上明令禁止騎車。",
       "ChoiceDataList": [
-        "畢竟妳能跑得比機車更棒",
-        "畢竟妳能跑得比機車更棒",
-        "我有一天會帶妳去騎的"
+        "而且妳能跑得比機車更好嘛",
+        "而且妳能跑得比機車更好嘛",
+        "我以後再騎機車載妳吧"
       ],
       "ColorTextInfoList": []
     },
@@ -195,31 +195,31 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "真是的，你是這世上最不適合\n裝模作樣鼓勵人的傢伙了。",
+      "Text": "真是的，你是這世上最不適合\n裝模作樣地鼓勵人的傢伙了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "之後黃金城市就被攝影師叫走，\n開始進行拍攝了。",
+      "Text": "之後黃金城市就被攝影師叫走，\n開始進行拍攝。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "城市的經紀人",
-      "Text": "今天真是辛苦妳了！\n攝影師也對妳讚譽有加喔！",
+      "Text": "今天真是辛苦妳了！\n攝影師也說妳表現得很好喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "不過下次別再這樣囉。\n今天臨時來叫人，真的太突然了。",
+      "Text": "不過下次別再這樣了。\n今天臨時來叫人，真的太突然了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "城市的經紀人",
-      "Text": "嗚嗚……對不起。\n不過妳的表情真的很棒。\n可以說是展現了不曾見過的一面……",
+      "Text": "嗚嗚……對不起。\n不過妳的表情真的很棒。\n該說是從未見過的一面嗎……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -237,13 +237,13 @@
     },
     {
       "Name": "獨白",
-      "Text": "「畢竟妳能跑得比機車更棒」",
+      "Text": "「而且妳能跑得比機車更好嘛」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "「畢竟妳能跑得比機車更棒」",
+      "Text": "「而且妳能跑得比機車更好嘛」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -255,25 +255,25 @@
     },
     {
       "Name": "城市的經紀人",
-      "Text": "難道真的發生了什麼好事！？\n那件事可以排進拍攝前的固定流程嗎？",
+      "Text": "難道我說中了！？\n那件事可以排進今後拍攝前的固定流程嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "……經紀人妳想太多了，別亂想。\n大家明天都還有事吧。回家了回家了。",
+      "Text": "……阿經，妳想太多了。\n大家明天都還有事吧。解散解散。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "黃金城市說著，\n她的臉頰比起平時多了一抹緋紅。",
+      "Text": "黃金城市這麼說著，\n但她的臉頰比平時多了一抹紅。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金城市",
-      "Text": "欸，你嗎？哈哈……\n你這話是什麼意思啊？",
+      "Text": "喔～你嗎？哈哈……\n你是抱著什麼心情跟我說這些話啊？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -291,7 +291,7 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "啊，我回程要用跑的。\n在河岸的中途放我下車。\n拜託了。",
+      "Text": "啊，我回程要用跑的。\n所以在河岸的中途讓我下車就好。\n拜託了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -303,7 +303,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "（引擎聲！）",
+      "Text": "（機車經過──）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -321,7 +321,7 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "……可信度有多少呢？",
+      "Text": "……我可以相信你多少呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

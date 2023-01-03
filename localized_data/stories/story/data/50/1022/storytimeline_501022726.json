@@ -1,5 +1,5 @@
 {
-  "Title": "挑戰抓娃娃遊戲！",
+  "Title": "挑戰夾娃娃機！",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,65 +9,65 @@
     },
     {
       "Name": "",
-      "Text": "ある日、\r\nファインモーションと出かけた先で──",
+      "Text": "某天，\n我和美妙姿勢一起外出時──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "呀！\u3000訓練員，看那個！",
+      "Text": "欸欸！你看那個！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "わぁ～……あははっ♪\r\nぬいぐるみがいっぱい！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "我看向美妙姿勢所指的方向，\n有一個裝著賽馬娘為原型的娃娃的抓娃娃機。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美妙姿勢",
-      "Text": "ねぇ、遊んでいこうよ！\r\n今日こそは1個取ってみせるから！",
-      "ChoiceDataList": [
-        "今天？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美妙姿勢",
-      "Text": "あー……実はあまり得意じゃないんだ。\r\n1回も取れたことなくて……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美妙姿勢",
-      "Text": "今日も失敗したら、この機械ごと\r\n手配して練習するつもり……！",
-      "ChoiceDataList": [
-        "……要我給你做個示範嗎？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美妙姿勢",
-      "Text": "えっ？\u3000本當に？\r\nそれじゃあ、お願いしようかな！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美妙姿勢",
-      "Text": "加油，訓練員！！",
+      "Text": "哇啊……啊哈哈♪\n好多玩偶喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "——這個遊戲，絕不能輸！！",
+      "Text": "我往美妙姿勢指示的方向看去，\n那裡有一台裝有賽馬娘主題玩偶的夾娃娃機。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "我們去玩那個吧！\n今天我一定要夾一隻給你看！",
+      "ChoiceDataList": [
+        "今天一定要？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "啊……其實我不太會玩這個。\n所以一次都沒夾到過……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "如果今天也失敗的話，\n我打算直接買一台回去練習……",
+      "ChoiceDataList": [
+        "……我來示範給妳看怎麼樣？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "咦？真的嗎？\n那就麻煩你了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "訓練員，加油！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──這個挑戰，不能失敗！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

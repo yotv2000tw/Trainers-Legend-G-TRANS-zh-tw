@@ -1,5 +1,5 @@
 {
-  "Title": "追加的自主鍛鍊",
+  "Title": "額外的自主訓練",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,145 +9,145 @@
     },
     {
       "Name": "獨白",
-      "Text": "訓練結束之後，我送櫻花千代王回宿舍的時候，\r\n我們遇上了看上去有些困擾的米浴。",
+      "Text": "訓練結束後，\n我與櫻花千代王一同走在路上，\n結果看到米浴似乎遇到了什麼困擾。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "嗚嗚……好可怕……",
+      "Text": "嗚嗚……我好怕喔……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "米浴同學？\r\n請問發生了什麼嗎？",
+      "Text": "米浴，怎麼了嗎？\n妳在這裡做什麼呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "啊……千代王同學……",
+      "Text": "啊……千代王……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "其實……米浴剛剛訓練的時候跑到了神社……\r\n回來之後，發現手機好像掉在那邊了……",
+      "Text": "其實，我剛剛一路跑來神社，\n但休息時好像不知道把手機忘在哪裡了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "誒？！這可大事不好了！\r\n得趕緊回去找找才行啊！",
+      "Text": "什麼！不好了！\n得趕快回去找！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "但是……夜晚的神社又黑又沒人……\r\n感覺好可怕啊……",
+      "Text": "不過晚上的神社一片黑暗，\n完全沒有人影，我覺得好可怕……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "……確實呢，\r\n要是一個人去的話的確很很可怕呢。",
+      "Text": "的確，一個人去找會很不安吧……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "……那這樣吧！我陪你一起去！",
+      "Text": "……我知道了！我也一起去！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "誒……？可以嗎……？",
+      "Text": "咦……這樣好嗎……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "我可不能放著米浴同學不管啦！\r\n要是我們兩個人一起去的話，也能互相壯膽嘛！",
+      "Text": "不能丟下米浴不管啊，\n而且，兩人一起找應該也會比較不害怕吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "對了，要不咱們跑著過去吧？\r\n這樣的話還能順便進行訓練，所謂一石二鳥呢！",
+      "Text": "對了，機會難得，要不要用跑的去神社呢？\n還可以順便當作訓練，一舉兩得喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "雖然她有這份心是很好……\r\n但現在還要繼續訓練的話，\r\n說不定會讓她過度疲勞呢……",
+      "Text": "我知道她很替米浴擔心，\n但跑過去會造成過度鍛鍊吧……",
       "ChoiceDataList": [
-        "找到了就快點回來哦。",
-        "找到了就快點回來哦。",
-        "我陪你們一起走過去吧。",
-        "我陪你們一起走過去吧。"
+        "要快點回來喔",
+        "要快點回來喔",
+        "我也陪妳們去，我們一起用走的吧",
+        "我也陪妳們去，我們一起用走的吧"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "雖然她有這份心是很好……\r\n但現在還要繼續訓練的話，\r\n說不定會讓她過度疲勞呢……",
+      "Text": "我知道她很替米浴擔心，\n但跑過去會造成過度鍛鍊吧……",
       "ChoiceDataList": [
-        "找到了就快點回來哦。",
-        "找到了就快點回來哦。",
-        "我陪你們一起走過去吧。",
-        "我陪你們一起走過去吧。"
+        "要快點回來喔",
+        "要快點回來喔",
+        "我也陪妳們去，我們一起用走的吧",
+        "我也陪妳們去，我們一起用走的吧"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "好的！我們會快去快回的！",
+      "Text": "好的！我們會快去快回，\n不會讓妳擔心的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "那個……進神社的時候……\r\n我們可以牽著手進去嗎……？",
+      "Text": "……走進神社時，\n可以牽著妳的手嗎……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "哎嘿嘿……其實，我也還蠻怕妖怪的……\r\n要是你願意的話就牽著吧……！",
+      "Text": "嘿嘿，其實我也很害怕妖怪，\n請務必跟我牽手……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "仍舊有些害怕的二人就這樣跑向了神社。",
+      "Text": "就這樣，兩人邊害怕\n邊跑向了神社。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "誒？訓練員您也一起嗎？",
+      "Text": "咦？訓練員也一起去？",
       "ChoiceDataList": [
-        "順便也當作運動后的冷身運動吧。"
+        "大家一起散步，就當訓練後的緩和運動吧"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "這樣也不錯呢！\r\n要是我們三個人一起的話就根本不會害怕啦！",
+      "Text": "好耶！\n三個人在一起就更不怕了，\n而且散步聽起來很有趣！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "那……那就拜託兩位了……",
+      "Text": "就、就麻煩你了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "之後，我們三人一邊談笑一邊走向神社，\r\n並且平安無事地找到了米浴的手機。",
+      "Text": "之後，我們三人邊聊著天邊前往神社，\n順利地找回她的手機。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

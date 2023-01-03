@@ -1,5 +1,5 @@
 {
-  "Title": "迎接寶冢紀念",
+  "Title": "迎向寶塚紀念",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,19 +9,19 @@
     },
     {
       "Name": "觀眾A",
-      "Text": "……啊啊，果然還是有些不安啊。\n美妙姿勢，她沒事吧……",
+      "Text": "……啊啊，果然很令人不安。\n美妙姿勢沒問題吧……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "觀眾B",
-      "Text": "不知道你在擔心些什麼啦。\n嘛ー，一起來為她加油吧。\n你的這份心意一定能傳遞給她的。",
+      "Text": "呃，我搞不懂你在不安什麼。\n唉～先替她加油吧。\n你的心情一定能傳達到。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "觀眾A",
-      "Text": "唔……",
+      "Text": "嗯……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -33,66 +33,66 @@
     },
     {
       "Name": "空中神宮",
-      "Text": "……先不管能不能傳遞給她的事情吧。\n美妙，你自己的答案是──",
+      "Text": "……不管能否傳達到，都會是一條荊棘之路。\n美妙，妳的答案是──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "……哇。\n緊張起來了！",
+      "Text": "……哇啊。\n感覺好緊張！",
       "ChoiceDataList": [
-        "怎麼啦？"
+        "為什麼？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "不是說，\n要給世界留下名為美妙姿勢的衝擊嘛？",
+      "Text": "因為必須跑出夠驚人的表現，\n才能在大家的心裡留下印象吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "那一般的跑法會不會顯得太平常了？\n要不要在賽道上橫衝直撞，左右馳騁！\n……什麼的，好像有點難呢。",
+      "Text": "這樣就不能跑得太普通吧。\n例如在賽道上自由穿梭！\n……像這樣稍微亂來一點比較好吧。",
       "ChoiceDataList": [
-        "絕對別這樣做啊……",
-        "絶対にやめてね……"
+        "拜託千萬不要……",
+        "拜託千萬不要……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "わかっています。\r\nレースの品格を落とすことはしません！",
+      "Text": "我知道啦。\n我不會拉低競賽的格調！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "但這樣一來，好像也就和平時沒什麼兩樣。\n到底應該怎麼做才好……",
+      "Text": "不過，確實是想不出什麼好主意。\n該怎麼做才好呢……",
       "ChoiceDataList": [
-        "按你平時那樣來就行了"
+        "和往常一樣就行了"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "按平時那樣來，\n那就只是在普通地享樂而已了哦？",
+      "Text": "如果和往常一樣，\n就只是普通地享受比賽而已。",
       "ChoiceDataList": [
-        "要全力享受才行"
+        "全力享受就行了"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "她只是單純地在享受比賽，\n依舊能夠俘獲無數粉絲的心，\n也能給予其他賽馬娘夢想。",
+      "Text": "她只要享受比賽，\n就能吸引許多粉絲，\n給予其他賽馬娘夢想。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "彼女はもう充分衝撃的な存在で、\r\n変えるべきなのは想いの方向性──\nそれは『終わらないで』とは真逆のものだ。",
+      "Text": "她本身就是夠驚人的存在，\n應該改變的是思考的方向──\n和「不想結束」相反的想法。",
       "ChoiceDataList": [
-        "想著『不要忘記我』來跑就行了"
+        "在心裡許願「不要忘記我」"
       ],
       "ColorTextInfoList": []
     },
@@ -104,55 +104,55 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "啊哈哈，\n這話很有意思呢！",
+      "Text": "啊哈哈，\n你說的話真有趣！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "那麼，我就去試一試吧。\n不能光是一味祈禱呀。",
+      "Text": "那麼，來試試看吧。\n就來……祈禱一下吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "要將我奔跑的身姿……\n唰地一下，刻在大家心裡！",
+      "Text": "將我奔跑的模樣……\n刻在大家的心裡！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "留下玉石被唰地切開那樣的，\n強烈的衝擊！！",
+      "Text": "替他們帶來像洋蔥絲那樣，\n強烈的！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "唰～！",
+      "Text": "刺激～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "荒漠英雄",
-      "Text": "ひゃっ……！？\r\nファ、ファインさん……？",
+      "Text": "呀……！？\n美、美妙……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "あはは、驚かせちゃったかな？\r\n気合いを入れなおしておりました。",
+      "Text": "啊哈哈，嚇到妳啦？\n我重新鼓起幹勁了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "今日は味変したファインモーションです。\r\nロブロイちゃんもぜひ楽しんでね？",
+      "Text": "今天的美妙姿勢跟平常不同喔。\n小荒也要跑得盡興喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "荒漠英雄",
-      "Text": "……！\r\nはいっ……！",
+      "Text": "……！\n好的……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

@@ -1,0 +1,371 @@
+{
+  "Title": "卡拉OK挑戰",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "有一天目白多伯受邀\n陪著目白雷恩一起去\n逛街採購。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（～～♪）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……音樂？\n是從另一邊傳來的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "節目工作人員",
+      "Text": "很可惜，大樹快車的得分是89分！\n沒能獲得獎品高級牛排！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "No……今天原本想用這獎品，\n大家一起開一場\n牛排派對的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "多伯，please！！\n要不要挑戰卡拉OK！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "咦咦！？我嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人們",
+      "Text": "欸欸，接下來是那個女生要挑戰嗎？\n呵呵，那就去看她的表現吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "…………不，怎麼可能。\n雖然想幫忙，可是我──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "啊……等一下，大樹。\n我可以代替她上場嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "雷恩……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "（……雷恩很溫柔。\n只要看到我為難的表情，\n無論什麼時候，她都會自願頂替我。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……可是，我不能再這樣\n繼續依賴她了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "節目工作人員",
+      "Text": "徵求下一位挑戰者！\n有沒有人要挑戰卡拉OK的評分──？",
+      "ChoiceDataList": [
+        "多伯去挑戰吧！",
+        "現在就接受雷恩的好意吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "咦咦咦！？請、請等一下！\n那個，觀眾好像有點太多了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……唔。不會的，雷恩。\n我想要挑戰，讓我試試看吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "節目工作人員",
+      "Text": "那麼下一位挑戰者，請妳上場！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……我叫目白多伯。\n要唱的歌是「青春在等待」。\n會唱的朋友……一起唱……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "啊哇哇，\n多伯沒問題吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "卡拉OK的器材開始播放音樂，\n路上的行人\n不約而同望向目白多伯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人A",
+      "Text": "啊，那個是！目白多伯！！\n我很喜歡她的歌聲耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人B",
+      "Text": "她在唱什麼？太猛了，\n不知道可不可以錄影？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "多伯！這裡就是演唱會會場！",
+        "多伯！這裡就是演唱會會場！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……演唱會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "唔，沒錯，多伯！\n妳這個賽馬娘，一定能好好地\n將感謝傳達給支持妳的粉絲們！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "沒問題，妳一定辦得到！\n我敢保證喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "…………唔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……契機是微不足道的小事……！\n跟某個人相遇……",
+      "ChoiceDataList": [
+        "（她唱了……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "……好厲害喔，多伯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "妳的勇氣與日俱增呢。\n……我也得向妳看齊才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在街上唱卡拉OK。聽起來或許只是\n很小的一件事，但對目白多伯來說，\n這肯定是驚人的成長。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "後來她順利拿到90分以上的高分，\n用牛排這個獎品，跟包含大樹快車在內的\n眾人一起開了牛排派對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "（還是覺得很害羞……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "……契機是微不足道的小事♪\n跟某個人相遇……？",
+      "ChoiceDataList": [
+        "開啟嶄新大門！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "咦……雷恩、\n訓練員……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "……妳剛剛踏出了\n充滿勇氣的第一步。\n這麼做就已經很棒了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "不過，一個人總有勇氣不足的時候。\n所以這時就要……有人一起壯膽。\n就這樣漸漸習慣鼓起勇氣吧。",
+      "ChoiceDataList": [
+        "……接下來可以用合唱的方式繼續嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "…………兩位……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "快，下一段旋律要開始囉！\n噗通噗通心動不已♪\n這種嶄新的心情……一起唱！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……開始想要\n高喊青春……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "唔！一無所有的我們～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "兩人",
+      "Text": "……發現自己總有一天\n能夠抓住一切！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……結果很可惜地不到90分。\n不過這一天的收穫\n已經遠遠超過分數和獎品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……訓練員，你都聽到了嗎？",
+      "ChoiceDataList": [
+        "抱歉，因為妳看起來非常為難"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "咦，訓練員！？\n……難不成我說溜嘴了？",
+      "ChoiceDataList": [
+        "抱歉，因為妳看起來非常為難"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……",
+      "ChoiceDataList": [
+        "不過，等妳做好心理建設，下次一定要挑戰"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "唔？心理建設？\n怎麼了，你們在說什麼？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……抱歉，沒什麼。\n只是我太沒有勇氣了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "……雖然不知道妳需要做什麼心理建設，\n但多伯會在需要的時候鼓起勇氣喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "所以等妳做好心理建設，\n就盡全力加油吧。\n我一定會支持妳的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "雷恩……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……謝謝妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

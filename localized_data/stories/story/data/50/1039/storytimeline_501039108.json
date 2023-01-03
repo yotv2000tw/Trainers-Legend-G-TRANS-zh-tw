@@ -1,0 +1,455 @@
+{
+  "Title": "粉絲感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "今天是春季粉絲大感謝祭。\n現場舉辦了各種活動，熱熱鬧鬧的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "唔喔！？好多客人啊～\n啊，赤驥也在。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "赤驥"
+      ]
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "伏特加！？\n妳也是來看「后冠路線座談會」的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "伏特加"
+      ]
+    },
+    {
+      "Name": "伏特加",
+      "Text": "「后冠路線座談會」……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "……我就知道。唉……反正都要開始了，\n妳要看的話就不要走來走去的，安靜在旁邊看吧。\n我要很認真看，不要妨礙我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "什麼！我才想叫妳不要妨礙我好不好！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "綁辮子的少女",
+      "Text": "這邊這邊。\n大姐姐要在這邊跟大家說話～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曬黑的少年",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗色髮賽馬娘的粉絲",
+      "Text": "……！\n又是跟她在同一場活動……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "超級感謝各位\n今天來參加我們舉辦的座談會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗色髮賽馬娘",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "去年也很謝謝各位對我的支持。\n我身為一個公主──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "妳去年表現真的超精彩的～！\n雖然妳沒有像名字給人的印象那麼文靜啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗色髮賽馬娘的粉絲",
+      "Text": "……唉。那個人又在自稱公主了。\n她真的很自私，是想要獨占目光焦點嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "……川上「公主」！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……唔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "「公主」這個詞可能會給人\n可愛、高貴、清廉等等……\n各種不同的印象。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "所以我們就算提到「公主」這個詞，\n也會各自聯想到不同的東西。\n不會是一模一樣的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……我們有時候\n會因為「不一樣」而傷害到彼此。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "──不過，我想成為自己嚮往的公主。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "我有很多需要反省的缺點。\n可是也有值得誇獎的優點。\n所以……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "綁辮子的少女",
+      "Text": "……大姐姐……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "我……！\n………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曬黑的少年",
+      "Text": "……妳別哭了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曬黑的少年",
+      "Text": "我很崇拜帥氣的公主！\n很想成為像妳這樣的公主！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "聚集在會場的觀眾開始議論紛紛。\n群眾自然讓出一小塊圓形空間，\n而在圓裡的是一名少年……跟一名女子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "穿禮服的女士",
+      "Text": "小健！？……你該不會\n還沒放棄想變成公主的願望吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曬黑的少年",
+      "Text": "媽媽！雖然媽媽曾說……\n我不可能當上公主，\n還是死心會比較好……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曬黑的少年",
+      "Text": "可是……我還是想當公主……！\n我就是想當公主……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曬黑的少年",
+      "Text": "我想要變成像川上公主那樣帥氣又強大，\n還很耀眼的公主……\n想變成像她那樣的公主……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "穿禮服的女士",
+      "Text": "至少改說想當王子也好……\n你自己應該也知道……",
+      "ChoiceDataList": [
+        "……他真的當不了公主嗎！？川上公主！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "不！他能不能當上公主，全要看他\n有沒有對的心態，還有夠不夠努力！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "穿禮服的女士",
+      "Text": "！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "公主在我心中的定義是永不放棄的人。\n能不能像個公主的關鍵，都在心態上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "就像妳認為的公主跟我認為的公主不一樣，\n他認為的公主……一定也跟我們截然不同。",
+      "ChoiceDataList": [
+        "這些都沒有對錯之分"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "對，所以我們才必須自律。\n要避免自己\n把自私當成自我風格。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "這樣才不會為自己過去的行為感到丟臉，\n成為可以讓自己引以為傲的人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……是為了自己，而不是其他人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（啪啪啪啪啪啪……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗色髮賽馬娘",
+      "Text": "……我也認為妳說的是對的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗色髮賽馬娘的粉絲",
+      "Text": "咦，妳是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗色髮賽馬娘",
+      "Text": "她有時候講的公主言論在記者會時\n確實很讓人困擾，但是她並不是我。\n我跟她是截然不同的兩個人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗色髮賽馬娘",
+      "Text": "我真的認為妳是很棒的人！\n不過，也同時覺得\n自己的夢想比妳的更好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗色髮賽馬娘",
+      "Text": "所以下次競賽我絕對不會輸給妳！\n等下次在賽場上見面，\n我們再來比比看是誰進步得比較多吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "栗色髮賽馬娘的粉絲",
+      "Text": "！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……好，我很樂意接受妳的挑戰。\n我們到時候就來認真比劃一下吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "……好帥…………\n不愧是我們的……前輩……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "唉……感覺骨頭都要散掉了……\n剛才真的好緊張……",
+      "ChoiceDataList": [
+        "但妳的確是個「有自我風格的」「公主」",
+        "但妳的確是個「有自我風格的」「公主」"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……嗯，我不會再迷惘了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "我不可以對傷害到別人毫無自覺，\n可是也不能過度害怕傷害到人。\n這都是達成自我目標的必經之路。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "我要成為「我嚮往的公主」，\n成為……連我自己都認為值得尊敬的我。",
+      "ChoiceDataList": [
+        "而且也會成為其他人崇拜的對象",
+        "而且也會成為其他人崇拜的對象"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就像她因為崇拜Prinfight而立志成為公主。\n今後一定也會接連出現崇拜川上公主\n而立志成為公主的人。",
+      "ChoiceDataList": [
+        "……就像那個少年一樣"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "唔！呵呵，沒錯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（咕嚕……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……為──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "為什麼我的肚子會在這個時候叫！？\n這樣我就不能瀟灑地收場了啦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "川上公主對自己的肚子發起脾氣。\n而我則是帶著又更進步的她去逛攤位，\n當作是慰勞她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（啪啪啪啪啪啪……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "綁辮子的少女",
+      "Text": "大姐姐，妳好帥喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曬黑的少年",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "哎呀，這場祭典你們玩得還開心嗎？\n那邊在舉辦拳擊大賽喔♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "綁辮子的少女",
+      "Text": "哇，真的嗎！？……不對，\n小健，你剛才有跟伯母講過了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曬黑的少年",
+      "Text": "少囉嗦……其實，\n剛才媽媽有跟我說「對不起」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曬黑的少年",
+      "Text": "……她跟我道歉。\n跟我說對不起……還摸摸我的頭。所以──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曬黑的少年",
+      "Text": "……謝謝妳，公主！那再見了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "綁辮子的少女",
+      "Text": "啊。等我一下嘛～小健！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……哎呀……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……看來他們兩個\n都一定會成為很出色的公主。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──川上公主當時臉上\n也浮現了非常有公主風範的表情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

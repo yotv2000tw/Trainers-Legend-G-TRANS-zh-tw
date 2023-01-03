@@ -1,0 +1,326 @@
+{
+  "Title": "獨來獨往的單色",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "島川喬登開始傳出不好傳聞的幾天後。\n當我經過校門口時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同學",
+      "Text": "啊！喬登，妳在這啊！老師在找妳喔～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "啊～老師剛才直接打電話給我了。所以我現在剛到～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同學",
+      "Text": "趕快去找老師比較好喔！她超生氣的。\n妳蹺課就算了，要是弄不好，真的會被退學喔？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "嗯……我知道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師A",
+      "Text": "不去上課，也不去考試，只是這樣還好說，\n但妳不想出賽，甚至連訓練都不去了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師A",
+      "Text": "……妳是怎麼了。之前即使受了傷，也很努力不是嗎。\n如果有煩惱，可以的話希望妳告訴我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "沒有啊，只是覺得很煩吧。我也不知道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師A",
+      "Text": "……認真回答。我很擔心喔。\n妳是失去幹勁了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "所以說，我也不知道怎麼了，就是不想做了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師A",
+      "Text": "…………我知道了。今天妳先把這些功課做了再回去。\n這是我把本週課程重點彙整後，出的題目。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師A",
+      "Text": "如果想談談比賽的事，妳隨時可以來找我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "我就說了，我也不知道為什麼嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在校門口看到她後，又過了幾個小時──\n這次在空教室看到了，她正與講義搏鬥的身影。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "呃～「求使根號……為自然數的自然數」……？\n自然數是什麼？啊，是自然的數量？什麼是自然的數量？森林？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……唉～～～！簡直莫名其妙到不行，\n這種東西永遠寫不完啦～～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "島川喬登一頭趴到了桌上，\n用力過猛之下……講義就這樣應聲破裂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "…………唉。\n完了，到此為止了。我不行了。做不下去了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師A",
+      "Text": "做得怎麼樣？──呃……咦？講義是怎麼了？\n……是妳撕破的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "咦？啊，算是我自己把它弄破的吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師A",
+      "Text": "…………這樣啊。\n……我知道了。我很清楚妳沒有幹勁了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師A",
+      "Text": "不過……！妳這樣做不對吧？\n竟然故意撕破講義！",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "島川喬登並沒有故意撕破講義。\n她自己應該會好好辯護吧。我本來是這麼想的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……我沒有……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師A",
+      "Text": "老是這個不做那個不做的，為什麼不好好面對呢。\n這樣下去，我沒辦法幫妳囉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師A",
+      "Text": "我問妳，妳是真的，真的失去幹勁了嗎？\n真的不想再參賽了嗎？……真的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……不知道，我自己也不懂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "可是大家都這麼說，那應該是這樣吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她沒有解開老師的誤會，自暴自棄似地轉身離開了，\n我無法放著不管，於是追了過去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "當我追到她時，她正細心地為裂開的腳趾甲塗上護甲油，\n四周散落著許多保養用品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "唉……這麼脆弱，又這麼麻煩，在房間弄的話券藏會哭，\n又會變得加倍麻煩。這腳趾甲到底是怎樣啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "真是有夠…………如果你夠堅硬的話──\n別再來亂了好嗎，真受不了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然口氣透露出疲憊，\n島川喬登的手卻小心翼翼地，不斷在保養她的腳趾甲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "從她細心保養腳趾甲的模樣來看，\n她並不是真心想放棄比賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但正因為如此，我無法理解\n為什麼島川喬登逃避比賽。",
+      "ChoiceDataList": [
+        "（我想知道她真正的想法）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是我開始等待機會來臨。幾天後──\n我在街上看到了蹺課的島川喬登。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "啊？學園的訓練員找我有什麼事？",
+      "ChoiceDataList": [
+        "我想跟妳談一談",
+        "我想跟妳談一談"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "談一談？啊～……難道是學園有意見了嗎？\n要我出賽，要乖乖去訓練之類？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "抱歉喔～我好像沒什麼幹勁。\n所以不好意思，你放棄吧～",
+      "ChoiceDataList": [
+        "……我看到妳保養腳趾甲的樣子了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "啊！？咦，什麼時候？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我為偷看的事真心致歉……\n但這是難得的機會，我可不想在此退縮。",
+      "ChoiceDataList": [
+        "所以，我覺得妳其實是想要賽跑的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "因為我保養腳趾甲嗎？\n不……不是喔，只是不保養我內心會不安而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "所以我到底想不想跑……\n我也不知道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……不過這跟你無關吧？我要跑不跑有什麼重要？\n你就別管我這種人了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（咕嚕～）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……我沒吃早餐啦！",
+      "ChoiceDataList": [
+        "我先……請妳吃飯吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "咦，什麼？我怎麼可能會被吃的騙走，別小看我！",
+      "ChoiceDataList": [
+        "只是吃飯也沒關係喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "……嗯～那間店可以嗎？\n讓我在那間店盡情吃一頓。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "島川喬登所指的，\n是一間看起來很華麗的，賣一堆垃圾食物的店。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

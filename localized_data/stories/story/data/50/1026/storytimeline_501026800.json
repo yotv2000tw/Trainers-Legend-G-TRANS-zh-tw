@@ -1,0 +1,394 @@
+{
+  "Title": "Mission for情人節",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "有決定好要買哪種巧克力了嗎？\n我也可以依照您的喜好\n為您介紹合適的巧克力喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "假日，當我正在看店家辦的情人節活動時，\n美浦波旁前來向我搭話。",
+      "ChoiceDataList": [
+        "妳在這做什麼啊？",
+        "妳在這做什麼呀？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……很抱歉。\n是我過於疏忽，忘記向教練報告了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "目前我正在這場活動中，\n進行「商品介紹」的作戰行動。",
+      "ChoiceDataList": [
+        "意思是在這裡打工嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "從合約的角度上看是如此。\n若要詳細說明的話──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "照她所說，\n是原本的員工因為塞車而還沒趕到現場，\n榮進閃耀因為跟店家熟識，所以幫忙找臨時人手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "美浦波旁經過這裡時，\n恰巧遇見正缺人手的榮進閃耀，\n為了答謝平時對自己的照顧，因此答應幫忙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "剛好可以從中獲得對情人節有用的知識和資金，\n是個非常難得的任務。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "教練，\n能容許我在這裡打工一天嗎？",
+      "ChoiceDataList": [
+        "知道了，我再幫妳跟學園報告吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "！謝謝你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性A",
+      "Text": "不好意思～\n情人節的限定巧克力有松露的嗎～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "您好，請告訴我您喜歡的口味。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性A",
+      "Text": "我喜歡偏甜又口味豐富的那種～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……完成調查。為您推薦那一間店。\n它的奶油巧克力醬非常順口，\n在嘴裡化開的時候會有濃郁的牛奶香。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "它隔壁那間店有豐富多樣的口味可供選擇。\n使用了鮮果汁搭配松露，\n多汁又香氣十足的松露巧克力僅此一家。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性A",
+      "Text": "是喔～小姐介紹得好詳細喔～！！\n那我就去那間店看看吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "沒想到美浦波旁竟然這麼擅長介紹食物。\n這真是意外的發現。難道她試吃過所有店家嗎？\n感覺得到她對情人節非常地熱衷。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店員A",
+      "Text": "抱歉，我來晚了！\n謝謝妳來幫忙！\n剩下就交給我，妳可以休息了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "了解。任務達成。\n辛苦了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "波旁，辛苦妳了。\n今天真的很感謝妳願意幫忙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "想問一下，待會妳有空嗎？\n讓我請妳吃蛋糕當作今天的謝禮吧。\n也請訓練員一起來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "蛋糕……？……不，不需要謝禮。\n我已經有拿到打工的薪資了……",
+      "ChoiceDataList": [
+        "那就不要當作是謝禮，單純一起吃蛋糕吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "！如果是這樣就沒問題……！\n我接受三人一起吃蛋糕的指示。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們三人一起來到附近的咖啡廳。\n美浦波旁和榮進閃耀兩人，\n正在點情人節限定的巧克力蛋糕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "明明才一月，就已經到處都是情人節的氣氛了，\n但能吃到各種巧克力是滿開心的就是了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "每到這個時候，\n就也會有一些朋友來找我，\n希望我能教她們做巧克力的甜點。",
+      "ChoiceDataList": [
+        "原來大家都在為情人節做準備了",
+        "原來大家都在為情人節做準備了呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "是啊。\n沒什麼做點心經驗的人似乎需要反覆練習的樣子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……「手工甜點」存在需要查證的項目。\n閃耀，我想問妳一個問題。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "選擇自己做巧克力的話，\n味道上是敵不過專業甜點師的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "我猜測，\n重要的因素應該是有別於市售巧克力的獨特性。\n那應該要添加什麼才最為合適呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "最重要的因素……\n我覺得應該是心意吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "開始搜尋──\n……並未找到線索。\n要怎麼做才能把「心意」實體化呢？",
+      "ChoiceDataList": [
+        "妳這樣花時間傷腦筋也算是心意吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我向她解釋，煩惱要送對方哪種巧克力，\n像這樣傷腦筋的過程中所花費的時間，\n應該也算是對對方的一種「心意」才對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "親手做甜點是很費心思跟時間的。\n不惜犧牲時間跟精神去為對方製作的心意，\n對方一定也能感受到的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……重新建構目標主旨。\n手工甜點的重要因素為「心意」，\n而「心意」指的就是花費時間跟心思。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "沒錯，為對方設想而親手製作的甜點，\n光是心意就是市售商品所沒有的價值了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "原來如此……我收穫良多。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "前幾天我看了關於手工禮物的報導，\n對其中的論述有了很多的疑問，\n但現在全都成功消除了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "我對情人節有了更深的認識。\n謝謝你們給我建議。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "辛苦啦，波旁。妳下班了吧？\n我剛好也買完東西了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "那我就切換至「會合後移動」的流程。\n我先去換衣服，請稍等。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "對了，問你喔，訓練員有空嗎？",
+      "ChoiceDataList": [
+        "嗯，應該是有空……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "好耶，找到幫手了！\n那我們走吧走吧～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "來啦，這是妳交待的巧克力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "島川喬登在桌上擺上\n從各個店家搜刮來的巧克力，\n然後一個一個拆開包裝。",
+      "ChoiceDataList": [
+        "這不是情人節要送人的啊？",
+        "這不是情人節要送人的嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "不是啊，這是買來吃的。\n情人節很少會收到比較特殊口味的巧克力吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "喬登透過朋友的關係所獲得的巧克力情報\n是非常龐大豐富的。\n作為選擇巧克力的參考有很大的幫助。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "我也是因為想要借助她的情報，\n才提議和她一起來購買，\n再像這樣分享我們買來的巧克力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "波旁想要從朋友推薦的巧克力當中選出最好吃的，\n我也能吃到各種口味的巧克力，彼此都有好處嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "那我就試吃看看了。",
+      "ChoiceDataList": [
+        "試吃選出要送人的巧克力？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "是的，實際吃過才更確實。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "嚼嚼……獲得「美味」狀態。\n焦糖口味應該大部分人都會喜歡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "好好吃──！這個超好吃的！\n喂，你也吃吃看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在兩人的推薦下，我吃下一顆深黑色的巧克力。\n一股巧克力獨有的苦味在口中散開。",
+      "ChoiceDataList": [
+        "口味不會太甜，很好吃"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "…………獲得……「驚訝」狀態。\n……原來這就是教練喜歡的口味……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "我一直以為巧克力一定要吃甜的。\n居然會喜歡不甜的……這出乎我的預料。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "黑巧克力我比較沒有嘗試過，\n因此判斷需要更擴大試吃的範圍。\n也試試看這個黑巧克力好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "嚼嚼……獲得「還不錯」狀態。\n雖然有點苦，但也有一點甜味。\n……這個你覺得怎麼樣呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "島川喬登",
+      "Text": "我說啊──我現在才意識到，\n波旁其實只是想要吃巧克力而已吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看著美浦波旁享受巧克力的表情，\n我似乎也能理解島川喬登為什麼會覺得\n想要嚴選口味只是吃巧克力的藉口了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
