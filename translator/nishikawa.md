@@ -10,6 +10,7 @@
 ## 活動劇情
 1. 想撚，想驅 活動劇情第 1 話至第 8 話。
 2. Illuminate the Heart 活動劇情第 1 話至第 8 話。
+3. Happy new future ～朝霞的羈絆～ 活動劇情第 1 話至第 8 話。
 
 ## 歌詞
 1. KIRARI MAGIC SHOW。
