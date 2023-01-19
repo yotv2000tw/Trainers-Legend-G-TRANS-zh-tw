@@ -31,7 +31,8 @@
     - 贊助目的。
     - 贊助人、贊助目的與贊助金額，以及贊助金額的實際運用情形，會放置於 [贊助與使用情形](sponsor.md) 內。
     - 贊助金額在本項目持續更新期間都會持續進行依照目的使用並記錄，而在本項目結束維護時，則會透過項目內部方式，將所有贊助金額做出最終分配。
-    - 贊助方式：[Portaly（尚未開放）](https://portaly.cc/Yuki_Producer/support)，或Discord 私訊 `雪楓Yuki#0001`溝通即可。
+    - 贊助方式：[街口支付](https://www.jkopay.com/transfer?j=Transfer:901103300)，請使用手機或平板進行操作。
+    - 如果有需要使用轉帳的方式，請直接用 Discord 私訊 `雪楓Yuki#0001`溝通即可。
 
 # 繁體中文貢獻者
 - [`简体中文项目译文仓库`](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS) 負責部分簡體中文翻譯來源，如果此區沒有註明譯者的部分，可以參閱前述倉庫的相關來源標註。
