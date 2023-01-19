@@ -1,4 +1,8 @@
 <div align="center">
+
+# Trainers' Legend G 繁體中文版
+> 賽馬娘 Pretty Derby（DMM版）本地化插件
+
 [![License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 [![Release](https://img.shields.io/github/v/release/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw?color=blue&logoColor=white&label=Release&logo=DocuSign)](https://github.com/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw/releases/latest)
 [![Chat](https://img.shields.io/badge/Join-QQ%E9%A2%91%E9%81%93-blue?logo=tencent-qq&logoColor=white)](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1olqdK&from=246610&biz=ka)
@@ -9,7 +13,7 @@
 
 </div>
 
-# 繁體中文
+# 簡介
 - 此處除了是 [`Trainer's Legend G`](https://github.com/MinamiChiwa/Trainers-Legend-G) 的繁體中文譯文部分外，**同時負責繁體中文版插件本體的發行**。
 - 此處沒有提到的內容，使用方式與注意事項均與 [`Trainer's Legend G`](https://github.com/MinamiChiwa/Trainers-Legend-G) 相同。
 
