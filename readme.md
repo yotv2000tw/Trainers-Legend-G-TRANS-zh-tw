@@ -32,7 +32,7 @@
 ![API Endpoint設定](https://i.imgur.com/X4X3zsQ.png)
 
 # 注意
-- 有關繁體中文（台灣）版的更新，也可以關注 [Telegram頻道](https://t.me/TLG_zh_tw/) 。
+- 有關繁體中文版的更新，也可以關注 [Telegram頻道](https://t.me/TLG_zh_tw/) 。
 - **本插件內所有翻譯內容均屬於原翻譯者，以任何方式（錄製影片、提取文本等）轉載或大段搬運譯文請註明原譯者或此倉庫的貢獻者列表及授權參考列表**
 - 本倉庫的文件使用 [署名-非商業性使用-相同方式共享 4.0 國際 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_TW) 協議開源，您僅能在符合此協議的規定條件下使用這些文件。
 
@@ -60,7 +60,7 @@
 
 - [烤肉教學](https://docs.qq.com/doc/DYk1Ia3h4UHRocGVJ)
 - 加入後請找到 [「TLG插件-繁體中文化」論壇頻道](https://discord.com/channels/811185992198389800/1030943310799454269) 。
-- 您可以透過取得 Discord 頻道內的身分組，加入繁體中文（台灣）化的工作。
+- 您可以透過取得 Discord 頻道內的身分組，加入繁體中文化的工作。
 - 頻道的位置如下圖所示：
 
     ![Discord頻道示意圖](https://i.imgur.com/1gCVntG.png)
