@@ -16,6 +16,7 @@
 
 ## 歌詞
 1. KIRARI MAGIC SHOW。
+2. Overrun!
 
 ## 額外提供
 1. 部分翻譯協助。
