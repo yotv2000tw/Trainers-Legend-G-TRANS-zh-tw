@@ -16,8 +16,10 @@
 4. 甜蜜回憶・午茶時光 活動劇情第 1 話至第 8 話。
 
 ## 歌詞
-1. KIRARI MAGIC SHOW。
+1. KIRARI MAGIC SHOW
 2. Overrunner!
+3. DRAMATIC JOURNEY
+4. Everlasting BEATS
 
 ## 額外提供
 1. 部分翻譯協助。
