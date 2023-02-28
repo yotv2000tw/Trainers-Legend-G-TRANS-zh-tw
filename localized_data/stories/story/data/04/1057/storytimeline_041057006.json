@@ -1,0 +1,329 @@
+{
+  "Title": "無理難題、表現するなら",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "休日──珍しく時間を持て余していたので、\n駅前にでも出かけようとしていると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "あれ、キミもお出かけ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "よっと！",
+      "ChoiceDataList": [
+        "うわっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "突如、木の上からミスターシービーが降ってきた……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "いい天気だね、絶好のお出かけ日和だ。\nどこに行くの？",
+      "ChoiceDataList": [
+        "駅前に行こうかと……君は？",
+        "駅前に行こうかと……貴方は？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "アタシ？\u3000アタシは──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その時、ふと前にあった出来事を思い出した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "歌唱のレッスンで、気分が上がるところを探すミスターシービー。\n行く先々で、彼女の感性が垣間見えた気がして──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あの時はわからなかった彼女の考えも、\nもしかしたら、今日はわかるかもしれない！",
+      "ChoiceDataList": [
+        "そうだ、行き先を当ててみる！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "え……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……はははっ！\u3000それ、面白いね！\nうん、じゃあ当ててみてよ！",
+      "ChoiceDataList": [
+        "よし、わかった！",
+        "うん、わかった！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして、ミスターシービーの行き先当てクイズを\nすることになった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "あははは！\u3000マズいな！\n逆走しちゃった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "これは今度、マルゼンに運転を教わらないとね。\nでも、楽しかったよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "思わぬお土産もできたし、おやつまでできた！\nソース味のスナック駄菓子なんて、久しぶりに食べるよ！",
+      "ChoiceDataList": [
+        "たくさん取れてよかったな！",
+        "たくさん取れてよかったね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "非日常を味わえるゲームセンター。\n彼女も心底楽しんでいるように見える。つまりここが──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ただ、残念。ここじゃないんだ。\nでも発想は悪くないよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "じゃあヒント！\u3000アタシは退屈だったので、\n楽しく過ごしたいな～と思ってました。",
+      "ChoiceDataList": [
+        "楽しく過ごせる場所、といえば……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ふー、たくさん歩いたね！\n巨大迷路、なかなかに楽しかったよ！",
+      "ChoiceDataList": [
+        "全部の道を歩くまで出ないなんて……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "だって、選ばない道の先って気になるでしょ。\nおかげで、行き止まりにいる人形は全部見られたし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ねえ、次はフリーフォールに行こうよ。\n高いところから急降下！\u3000鷹にでもならないと味わえない視界だよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやら遊園地を満喫しているようだ。\n喜ぶ彼女に手ごたえを感じていたのだが──",
+      "ChoiceDataList": [
+        "行き先はここで正解？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ん？\u3000ううん、ハズレ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "さあ、どうしようか。\n次はどこへ連れて行ってくれるのかな？\u3000あははっ！",
+      "ChoiceDataList": [
+        "うぐ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "じゃあ、もうひとつヒント！\nそれはあまり遠くではありません。",
+      "ChoiceDataList": [
+        "それなら……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ふー、ご馳走様～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "やっぱり、ここのコロッケはおいしいなぁ。\nたまに買って帰って、柚子胡椒かけて食べてるんだ。",
+      "ChoiceDataList": [
+        "ソースではなく？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "うん、ピリッと爽やかで……って、キミの口のまわり、\nコロッケの衣だらけだよ！\u3000あははっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "慌てて口を拭いつつ、楽しそうな彼女を見て確信する。\n学園に近く、買い食いや商店街の人との交流も楽しめる。",
+      "ChoiceDataList": [
+        "正解はここ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……ざーんねん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "外した……結局彼女の休日を1日使って、\n希望の場所へ連れていけなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "そんなしょんぼりしないでよ。\n楽しかったのは事実なんだけどな？",
+      "ChoiceDataList": [
+        "でも、本来行くところがあったんだろ？",
+        "でも、本来行くところがあったんでしょ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "あはは……それを気にされちゃうと\n申し訳ない気持ちになっちゃうかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……じゃあ、正解の場所に連れて行ってあげるよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ミスターシービーについていくと、\nそこは最初に出会った校門だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ここだよ、正解は。",
+      "ChoiceDataList": [
+        "……どういうこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "場所は決まっていなかったんだ。\nあてもなく、とりあえず外に出てきただけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "とりあえず登った木の上で、景色を見ながら、\nどこか面白い所ないかな～って探してた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "そしたら、キミが来た。",
+      "ChoiceDataList": [
+        "つまり、正解はなかったってこと……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "いや、ちゃんと“正解”はあったよ。\nなんかキミが面白いこと言い出しちゃったから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "楽しかったよ。一生懸命考えるキミについていくのも、\n行った先で一緒に遊んだのも！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "楽しく過ごしたいなと思ってたアタシを、\nキミはしっかり満たしてくれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "だからね、キミと出会えたこの場所が\n正解の場所ってこと！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……納得？",
+      "ChoiceDataList": [
+        "なんだかズルい……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "あははっ！\u3000実はアタシもそう思う！\nでもさ、また今度もやろうよ、行き先当てクイズ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "脱力すると同時に、少し安心した。\nきちんとミスターシービーを楽しませていられたことに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そしてやっぱり、彼女は自由人で、\nそれでいてひと筋縄ではいかないなと思うのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
