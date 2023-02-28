@@ -1,0 +1,394 @@
+{
+  "Title": "目をつぶると何もかもが見える",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "街で見つけたミスターシービーは、体調を崩していた。大事では\nないと言い張るので、とりあえず彼女の家へ送り届けることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "あはは、ごめんね。送らせちゃって。\nはぁ……助かったよ……。",
+      "ChoiceDataList": [
+        "やっぱり病院へ連れて行こうか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ううん、大丈夫。\nこの感じ、寝てれば治るやつだから……。こほっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……若干心配は残るが、あまり長居してもよくないだろう。\nそそくさと帰ろうとすると──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "待って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ひとり暮らしなんだ。今、家になにもなくてさ……。\n悪いんだけど、水、買ってきてもらっていい……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "よく見ると水どころか食べ物が1つもなかったので、ついでに\nあれこれ買い込んで、調理して……気づけばしっかり看病していた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "は～……、うどんがしみる……！\n……ありがとう、ご飯まで……。本当に助かるよ。",
+      "ChoiceDataList": [
+        "それはよかった"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "総菜や常備薬、栄養ドリンクなどをテーブルに並べる。\nこれくらいあれば、数日寝込んでも不便はないだろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……と、ミスターシービーから視線を感じた。",
+      "ChoiceDataList": [
+        "？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ごめんね。\nスカウトを何度も断っちゃって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "キミは優秀で優しいトレーナーでしょう。見ていればわかる。\nキミが悪いわけじゃないんだ。ただ……。",
+      "ChoiceDataList": [
+        "……ただ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "…………昔ね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "──昔、名門っていわれるクラブチームに入ってたんだ。そこで、\nいろんな有名トレーナーにトレーニングをつけてもらってた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "『貴方の力は逃げてこそ活きる』\n『あらゆる状況に対応できるよういろんな走りを覚えよう』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "『そうすればGⅠ勝利やURA賞の受賞、いや三冠ウマ娘だって\n夢じゃない』そんな言葉をたくさんもらった。けど──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……～～～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "アタシは、GⅠ勝利にも三冠ウマ娘にも興味が持てなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "『トレーナー』にとって、なにより欲しいものっていうのは\nわかってる。大きな実績で、唯一無二の誇りだっていうのも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "でも、どうしても。どのレースにどう勝てば、どんな栄誉が\nもらえるだとか、なにに何回勝てば、どれだけすごいんだとか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "そういうことに、心底興味が持てなかったんだ。\nそれで──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トレーナー",
+      "Text": "どうして言うことが聞けないの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……トレーナーたちと意見がぶつかっちゃってさ。\n辞めることになったんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……今でもよくわかんないんだ。\nルドルフのようなウマ娘の未来のために走りたい、っていうのも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "誰かの笑顔が見たい、なにかを盛り上げたい……そういうのもさ、\n素晴らしいことだって理解はしてる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "でも、アタシにとってあそこは、そういうものじゃない。\nただ走るためにあるもの、それだけのもの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……それこそが至上の幸福なんだ。",
+      "ChoiceDataList": [
+        "（そうか……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女は走るために生きている。\n根本的な価値観が、世間と大きくずれているのだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……とはいえ、そもそも同じ夢を見る必要があるわけではない。\nとりあえずデビューのためにトレーナーと契約を結ぶウマ娘も多い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "お互いがうまく妥協できさえすれば、\n簡単に解決しそうな問題だが──",
+      "ChoiceDataList": [
+        "（できないから、悩んでいるんだろう）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "納得できなければ進めない、どうしようもなく嘘がつけない。\n自由奔放な雰囲気とは裏腹に、かなり不器用な性格のようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そんな、ミスターシービーの話を思い出しては考えるうち……\nふと、あることに気づいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女はトレーナーの望む『GⅠ勝利』や『三冠ウマ娘』を狙えない。\nならばトレーナー側が、彼女の価値観に寄り添うことができれば──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女と同じくらい、ただレースを愛することが\nできればよいのではないだろうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "アタシがレースで見ている景色を知りたい？",
+      "ChoiceDataList": [
+        "どんな魅力を感じているのか知りたいんだ",
+        "どんな魅力を感じているのか知りたいの"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "へ、なんで？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "かいつまんで、理由を説明すると──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "…………。\nアタシに寄り添うの？\u3000キミが？",
+      "ChoiceDataList": [
+        "……いやだった？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……ん、ううん。少し驚いただけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "けど……いいね。うん、悪くない。悪くないな。\n少しやってみようか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "じゃあ……そうだな、目を閉じて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "想像してみて、キミは狭いゲートの中にいて、\nその向こうには青々としたターフが広がっている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "隣に並ぶは、総勢10名近い選りすぐりのウマ娘だ。ルドルフや、\nエース……面白いレースをしてくれそうな子ばかりが並んでる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ファンファーレが響いてゲートが開く。\n狭くて暗いその場所から、青いターフへ飛び出していく！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "今日の芝は柔らかい。冷えた空気が体を抜けていく。\n隣の子たちは次々に、前へ前へと位置取りをするけれど──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "キミはそんな気分じゃない。\nそうだな……1番後ろに回って、最後方からレースを眺めよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……やがて第3コーナー、坂が来る！\n弾む心のままに加速して、登って下って──最終コーナー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "周囲は一気に加速していく、熱を逃すな、先頭を捉えろ！\nもう1度、脚を思いっきり踏み込む、息を短く、吸って吐いて──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "走るんだ！",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "風よりも、光よりも、速く速く、全てを脱ぎ捨てて前へ前へ！\nもう誰もキミを止められない、誰も縛れない……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──目を開けると、\n高揚した様子の彼女がこちらをのぞき込んでいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "ふふっ、なんだかアタシが走りたくなってきちゃったな。\nそれで……どうどう？\u3000どうだった？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どういうものを見ているのかは理解できた。\n想像だけで、少し心が躍ったようにも思えた。が──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……？\u3000うん？",
+      "ChoiceDataList": [
+        "（説明の熱量には、負けた気がする……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "語る口調は優しく、熱っぽく、愛に溢れていた。\nきっと彼女が感じているものとは程遠いのだろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "同じくらいレースを愛することができればと思ったが……\n思い上がった提案だったのかもしれない。",
+      "ChoiceDataList": [
+        "たぶん、本当に理解はできなかった"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "……あはは、なんだ、そっかぁ。……やっぱり、そうだよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "でも、わかるって言えば、契約したがったかもしれないのに！\nキミ、なんていうか──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ミスターシービー",
+      "Text": "バカ正直なんだね。……ふふっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
