@@ -1,0 +1,343 @@
+{
+  "Title": "きゃくしつ？ターボは好きに走るぞっ！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ツインターボに勝てる走りを教えたい。\nそのためには、どうにかしてトレーニーになってもらうしかない。",
+      "ChoiceDataList": [
+        "トレーニング、受けてみる気はないか？",
+        "トレーニング、受けてみる気はない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "トレーニング！？\u3000やだぞっ！\nターボ、あーだこーだ言われるのきらいだもんっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "あーあ、残念。ターボの才能だったら、\n少し教わればテイオーに勝てるかもしれないのになー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "テイオーに！？\u3000ほんとっ！？\nじゃあ、やるーっ！",
+      "ChoiceDataList": [
+        "（ナイスネイチャ……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "えへへ、グッジョブ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "気の利いた一言で、どうにかコンビとして\nスタートすることができた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "で、トレーニングってなにするの？",
+      "ChoiceDataList": [
+        "まずは“脚質”を確かめよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "きゃくしつ……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "つまり“逃げ”“先行”“差し”“追込”。\nどの走り方がターボに1番向くのかってこと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "まずは“先行”や“差し”……中段待機を試してみよっか。\nおいで、ターボ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "ターボ、アタシの少し前か、少し後ろに陣取って！\nとりあえず、どっちでもいいから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "少し前か……少しうしろ……。\nううう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "（ネイチャ、こわい……。そばだとぶつかりそう……。\nう、うぅぅ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "うわあああああああっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "って、ちょっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "セーブさせようとしたが、ツインターボはまったく\n自分を抑えることができなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "あ～の～、もしもしターボさん？\nどうして……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "ターボは急に止まれないから！\u3000えっへん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "いや、開き直んな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "トレーナーさん……。",
+      "ChoiceDataList": [
+        "他のウマ娘にビビっちゃうみたいだな……",
+        "他のウマ娘にビビっちゃうみたいだね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "強がりは臆病の裏返し。前の模擬レース中にも、他のウマ娘を\n嫌がる兆候は見られた。どうやら“先行”や“差し”は難しそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "ビビってないもん……。ただ、いやなだけだもん。\nじゃあターボ、追い込みをやるぞ。",
+      "ChoiceDataList": [
+        "“追込”はどうもな……",
+        "“追込”はどうもね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "トレーナーさん的に、見込みないってこと？",
+      "ChoiceDataList": [
+        "ああ、スピードの絶対値が足りないから",
+        "うん、スピードの絶対値が足りないから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "これも前の模擬レースを見ればわかること。ラップタイム的に\n飛び抜けて速い3ハロン……すなわち“キレる脚”はなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "“先行”も“差し”も“追込”も無理。\nとなると活路は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "ぎゃあああああああ！\nうぎゃぎゃぎゃぎゃあああああ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "ぷしゅしゅしゅしゅしゅ～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "ガス欠！？\u3000また！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "“逃げ”しかないが、何度やらせても暴走してしまう。溜めて\n逃げられるタイプでもなく、現時点では圧倒的にスタミナ不足。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "うごごごご……むごごごご……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "トレーナー、これ、あと何回やるの～！？",
+      "ChoiceDataList": [
+        "今日はずっとこれ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "もぐもぐもぐ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "いや、トレーニングやめて、なにしてる？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "たい焼き食べっこゲーム！\u3000ネイチャもやる？",
+      "ChoiceDataList": [
+        "いや、スクワットを……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "やだやだや～だ～っ！！\nだって食べないと、たい焼きが冷めて負けだぞ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "スタミナを強化するには地道な基礎トレをやり続けるしかないが\n……ツインターボは飽きて、すぐに投げ出してしまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "あはは、まあそう落ち込まないで、トレーナーさん。\nこういう子だってのは、わかってたでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "ほら、子どもに嫌いな野菜を食べさせるようにさ。\n細かく刻んで、どうにか食べさせないと……。",
+      "ChoiceDataList": [
+        "あれ……ターボは？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "え、ターボなら……ほら、コースの上。\nトレーニングは嫌いだけど、じっとしちゃいられないタイプだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "はぁはぁ、ぜぇぜぇ……。もうダメだぁ……もう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "苦しいよ～、息がつまるぅぅぅ～。\nはぁ、はぁ……ぜぇ……ぜぇ……。",
+      "ChoiceDataList": [
+        "……あれ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自主練するツインターボを見て、少し……今までと差を感じた。\n苦しいと言いながらも止まる気配がない。むしろ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "はひぃ……はふぅ……ぜはぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "限界に前向きに挑んでいるようにすら見えた。\nいつまでも、どこまでも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "あー、他人の言う事は聞かないけど、気が向いたら\nとことん燃え尽きるまでやるタイプだからね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナイスネイチャ",
+      "Text": "ほら、見たでしょ。動画編集してるところ。\nあの時と同じ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その姿に、わずかな光を見た気がした。\n走ること自体が嫌いなわけではないならば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "トレーナー、話ってなに？\nトレーニングならしないぞ！",
+      "ChoiceDataList": [
+        "旅行にいこう、3人で"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ターボ＆ネイチャ",
+      "Text": "えええええっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ツインターボ",
+      "Text": "旅行っ！\u3000いく、いくぞ！\nターボ、遊びにいくのだーい好き！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "旅行にカモフラージュした“合宿”で試してみよう。\n上手に野菜を食べさせられるかどうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
