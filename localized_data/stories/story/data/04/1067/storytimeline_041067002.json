@@ -1,0 +1,387 @@
+{
+  "Title": "望外的邀請",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ある日、体育館にて。メジロ家を代表するウマ娘の1人、\r\nメジロマックイーンから告知があった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "在学生の皆さん。そして普段お世話になっている\r\nトレーナーの皆さん。メジロ家からお伝えしたいことがございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "近々、交流のためのパーティーを、当家主催にて開催させて\r\nいただきます。どうぞお気軽に、普段着でお越しくださいませ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人トレーナーA",
+      "Text": "へー、メジロ家のカジュアルパーティーか。いろいろ企画して\r\nくれて、いつもありがたいな。君も行くだろ？",
+      "ChoiceDataList": [
+        "うん、まあ……",
+        "ええ、まあ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人トレーナーA",
+      "Text": "じゃあ会場でな。あ、そういえば知ってるか？\u3000例のサトノ\r\nダイヤモンドのトレーナートライアルだけど、合格者は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人トレーナーA",
+      "Text": "――誰も出なかったらしいな。\r\nこれから、どうするんだろ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そしてパーティー当日。会場でパーティーゲームに興じる\r\nサトノダイヤモンドとキタサンブラックの姿を見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "えええっ、リバーシって端っこ取られたら負けちゃう\r\nゲームでしょ？\u3000なのにそこに置くの、ダイヤちゃん！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "うん。四隅を取られたら負け。\r\nそんなふうに言われているなら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ジンクスは破らないとね！\r\n破って勝ってみせるから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "キタサンブラック",
+      "Text": "うわっ、出た！\u3000ダイヤちゃんのジンクス破り！\r\nこのモードに入った時は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果は――サトノダイヤモンドの圧勝だった。\r\nただのおとなしいお嬢様とは違う、面白い一面を見た。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ジンクス――迷信のようなものを見かけると打ち破りたくなる\r\nようだ。どんな人柄なのか、はかりかねていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あの……少しよろしいでしょうか？\r\n前にお見かけした方ですよね？",
+      "ChoiceDataList": [
+        "サトノダイヤモンド……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "模擬レースの時、私のことを見てくださっていましたよね？\r\nその……お聞きしたいことが～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "トレーナートライアル、どうしてお越しいただけなかったの\r\nでしょう？\u3000関心を持っていただけていると思ったのですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "お眼鏡にかなわなかった理由はなんでしょう？\r\n……やはり素質が足りなかったとか？",
+      "ChoiceDataList": [
+        "そんなことはないよ。だって……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "たまらず打ち明けた。素質は素晴らしいと思ったが、自分は\r\n一般のトレーナーで、高い垣根を越えられるような者ではないと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "でも、それは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ふふ、臆するのはわかりますけれど、そこまで萎縮するのは\r\n行き過ぎだと思いますわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ああっ、マックイーンさん♪\r\nこんばんは、お邪魔しています～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "こんばんは。ようこそサトノさん、そして若きトレーナーさん。\r\n少しばかり話にまぜてくださいますこと？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "サトノは確かに一大コンツェルンですが、近寄りがたい人々では\r\nありませんわ。トレーナー選考なんて大仰なことをするのは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "それだけ『慎重になっている』から。\r\nそうですわよね、サトノさん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "……はい、その通りです。トレーナー探しは、\r\n私の夢、そしてサトノ家の悲願を託す相手探しですから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "サトノ家は――まだ新興ではありますが、ウマ娘のレース文化に\r\n深い愛情を抱き、その発展に貢献したいと考えています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "運営協力、慈善事業など、あらゆる活動を行ってきました。でも\r\nメジロに比べると歴史は浅く『ある最大の貢献』ができていません。",
+      "ChoiceDataList": [
+        "最大の貢献？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "はい、それは――『一族から、GⅠを勝利するような\r\n名ウマ娘を輩出すること』です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "これはウマ娘界ならではの文化ですわね。名ウマ娘を輩出する\r\nことは、何物にも代えがたい、最大の貢献になりますわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "その大望を自ら背負う期待の星が、このサトノダイヤモンドさん。\r\nさらに支える存在を探すため行われたのがトレーナートライアル。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "サトノグループは高い位置に構えているわけではなく、\r\nただ必死なだけですわ。ですわよね、サトノさん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "……はい。すべては家の悲願を成し遂げるため。ですから私は、\r\nあらゆる方法でともに夢を担える方を探し、お迎えしたいのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "トレーナーさん、お聞かせください。あなたは私の走りに、何を\r\n思ったのでしょう？\u3000あの訴えるような目がどうしても気になって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その表情は真剣そのものだった。ただ目指すもののために、\r\n純粋に知りたいと願う真っ直ぐな瞳……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "走りの感想を伝えないのは失礼だと思った。まずは素直に\r\n才能を褒め称え――次に見えた課題を伝えることにした。",
+      "ChoiceDataList": [
+        "まず、本気の競り合い経験が足りないと思う"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "本気の競り合い……？\u3000それはどのような……？",
+      "ChoiceDataList": [
+        "レース中、周囲の圧力に苦しんでなかった？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あ、確かにあの模擬レースの時……戸惑いがありました。\r\nこれまでにないマークのきつさ、好きにさせてもらえない感じ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "でも幼少の頃から、トレーニング相手には伝えていたのですけれど。\r\n『併走の時は手加減しないでね』って。",
+      "ChoiceDataList": [
+        "それでも遠慮されていたのかも"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……わかりますわ。これは生まれの宿命ですわね。主従があれば、\r\n手加減こそしていないつもりでも、ねじ伏せる気概ではこない……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "な、なるほど～。思いもしなかったです……！\r\nそれが当たりが強く感じた理由……！",
+      "ChoiceDataList": [
+        "あともう1つ。ムキになりすぎる"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "えっ……ムキに？\u3000それは生まれて初めて\r\n言われたような……。どういうことでしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "レースで見たままを話す。中盤の我慢しなければならない時、\r\n周囲と競り合うとかすかにペースが速くなった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "あれは、ついムキになったから。令嬢然としたふるまいの奥底に\r\n眠る、素の性格が出てしまったからだと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "――！？\u3000確かにあの時、行きたくて行きたくて、\r\n脚がうずうずして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "でも、すぐにこらえました。こらえたはずなのに……\r\nわずかに乱れた一瞬を、あなたは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あなたは……どういう方なのですか？\u3000たった1レースで、\r\nどうして私のことを、そこまで……。",
+      "ChoiceDataList": [
+        "それだけ走りに惹かれたからだ",
+        "それだけ走りに惹かれたからだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "惹かれたからこそ、長所も短所も一瞬で見えた。家の格式のことは\r\nわからなくても、サトノダイヤモンドの本質は一瞬で理解できた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "誰も……誰もそんなことは言ってくださいませんでした。\r\nトライアルに来た方々は誰も……。でもあなたは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ふふ、よかったですわね。偶然のパーティーで、\r\nいい候補が見つかって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "サトノさん、あらためて、この方もトライアルしてみては？\r\nもしかしてサトノグループの方々のお眼鏡にも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "――採用です。",
+      "ChoiceDataList": [
+        "……え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "採用っ！\u3000あなたが……あなたが私のトレーナーさん！\r\n私の探していた、ただ1人の人です。ですから採用っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ええっ、サトノさん！？\u3000わかっているでしょう？\r\n貴方のトレーナー探しが、サトノにとってどれほどの重大事項か。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "フィーリングで即決していいものではありませんわ！\r\nまずは帰って相談を――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "いえ、決めました。こればかりは、\r\n尊敬するマックイーンさんの助言でも変えられません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "私のトレーナーはこの方！\u3000この方しかいません。\r\n普通なら相談すべきことかもしれませんけど、でも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "家の総意で決めるのも――きっとジンクス。なら直感を信じて、\r\n破ります！\u3000私のトレーナーは、誰がなんと言おうとあなた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "決まりです。決めました。\r\n受けてくれますよね、ね、ね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "おしとやかなお嬢様らしからぬ、確固たる意志。サトノ\r\nダイヤモンドはこちらが頷くまで決して手を離してくれなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
