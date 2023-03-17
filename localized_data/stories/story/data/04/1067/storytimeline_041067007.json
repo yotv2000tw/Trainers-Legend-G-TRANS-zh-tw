@@ -1,0 +1,375 @@
+{
+  "Title": "至高的鑽石",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "毎年恒例の夏合宿が、今年も始まった。\r\nサトノダイヤモンドは厳しいトレーニングも懸命にこなす。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ふぅっ！\u3000またタイムが縮まりました。\r\nまだあまり疲れていないですし、体力もついてきたでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ならば、もっと体力トレーニングを増やしたい。\r\n彼女にも次のメニューを相談してみよう。",
+      "ChoiceDataList": [
+        "次はマラソンと遠泳、どっちがいい？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "そうですね、今日は暑いので泳い――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あ、いえっ。\r\nトレーナーさんは、どちらがよいとお考えですか？",
+      "ChoiceDataList": [
+        "……遠泳にしようか！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "はいっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "やはり……サトノダイヤモンドは遊園地の日以来、\r\n少しぎこちないような気がする……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギャルウマ娘",
+      "Text": "――え～っ！？\u3000夜にお祭りあんの？\r\n行きたい行きたいっ！\u3000みんなで行こうよ～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "お祭り……？\u3000いいなぁ、楽しそう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あっ！\u3000と、その……っ。",
+      "ChoiceDataList": [
+        "一緒に行こうか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "……！\u3000よろしいのですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "――わぁ！\u3000盛り上がっていますね。\r\n面白そうな屋台もいっぱいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あっ、あれはなんでしょう？\u3000金魚すくい、ではなくて……\r\nキラキラしたのがたくさん浮いていますね。",
+      "ChoiceDataList": [
+        "やってみよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "はいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店主",
+      "Text": "らっしゃいらっしゃ～いっ！\r\nキラキラのボールがすくい放題だよ～っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ええと、お椀ですくえばいいのですか？",
+      "ChoiceDataList": [
+        "いやいや、紙の“ポイ”で……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ぽい……？\r\nあぁ、あの丸いのですくうルールなのですね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あんなに薄い紙を破らずに……\r\nなんて、一体どんな感じなのでしょう？\u3000むむむ……？",
+      "ChoiceDataList": [
+        "お手本を見せるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "いえっ、お気遣いは――",
+      "ChoiceDataList": [
+        "えいっ……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "うわぁっ……！\r\nすごいですっ、大きいのがとれました！",
+      "ChoiceDataList": [
+        "まだまだいけるぞ！",
+        "まだまだいけるよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "えっ、と。\r\n……トレーナーさん、なんだかやる気満々ですね？",
+      "ChoiceDataList": [
+        "頼ってもらえると嬉しいからな",
+        "頼ってもらえると嬉しいからね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "嬉しい……？\u3000頼られると、嬉しいのですか？\r\nご迷惑では、なく……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "……トレーナーさんっ！\u3000あのっ、私……私っ――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "――素直になってもいいのでしょうか……！",
+      "ChoiceDataList": [
+        "え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "その、私が自分の気持ちを素直に言っても……\r\nトレーナーさんは……困らない、ですか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どうやら彼女は、何かを気にして自分を抑え込んでいたようだ……。\r\nしかしそんな必要はない。なぜなら――",
+      "ChoiceDataList": [
+        "君の素直さは、長所だよ",
+        "貴方の素直さは、長所だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "長所……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "（そっか、そんなふうに思っていてくれたんだ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "（そうだ……トレーナーさんはあの時だって――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "正直にお答えください。\r\n今のままだと、どうなりますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『正直……このままじゃ相手にならないと思う』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "……ですよね、やはり。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "（正面からぶつかっても、あなたはちゃんと応えてくれる……\r\nそしてそのおかげで、今の私たちがある）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "私、とっても大切なものを見失っていたみたいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "喧騒を離れ2人きりになると、サトノダイヤモンドは、\r\nぽつりぽつりと打ち明けてくれた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "私、思ったことをすぐ口に出したり、やったりしますでしょう？\r\nご迷惑だったかもって、少し考え込んでしまって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "だから抑えなくちゃって、我慢していたんです。\r\nこの前、だって……。",
+      "ChoiceDataList": [
+        "遊園地へ行った時？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "はい。本当はあのグッズすごく嬉しくて、とっさに\r\n『おそろいで持ちたい』、『私も取る』って言いかけて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "でも、トレーナーさんは欲しくないかもって思ったら\r\nなんにも言えなくなっちゃいました。",
+      "ChoiceDataList": [
+        "そうだったんだ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "ふふっ……正直に、言えばよかったですね。",
+      "ChoiceDataList": [
+        "また2人で出かければいい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "はいっ、ぜひ！\u3000約束ですよ。\r\n私、行きたいところを考えておきますから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "覚悟していてくださいね？\u3000『素直さは長所』……なんて\r\n言っていただいたからには、もう遠慮はしませんっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "突飛な場所を言っても、やりたいことをいくつ言っても、\r\n受け止めて、くださいますよね……？",
+      "ChoiceDataList": [
+        "どんとこい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "うふふっ！\u3000ありがとうございます。\r\n頼もしい限りで……あっ――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "――っ……！\u3000わぁ……！",
+      "ChoiceDataList": [
+        "綺麗だな",
+        "綺麗だね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "はい……とっても……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "遠くの空で、花火は上がり続ける。\r\nお祭り会場のほうへ戻れば、もっと近くで見られそうだ。",
+      "ChoiceDataList": [
+        "戻ってもっと近くで見よう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "あっ、トレーナーさん――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "だめっ、です……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "小走りで追いついたサトノダイヤモンドが、\r\n斜め後ろから服の裾を掴んできた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "このまま、2人きりで見ていたいです！",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "だから、だめです。\r\nもう少しだけ、トレーナーさんとここにいたいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サトノダイヤモンド",
+      "Text": "えへへ……これが今の、ダイヤの素直な気持ちです！\r\nいいですよね？\u3000トレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女に引っ張られるまま、並んで砂浜に腰かけた。\r\nそして、遠くで咲く小さな花火を眺めたのだった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
