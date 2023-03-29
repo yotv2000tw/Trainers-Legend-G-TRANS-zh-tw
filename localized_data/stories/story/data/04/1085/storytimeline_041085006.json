@@ -1,0 +1,271 @@
+{
+    "Title": "視線的前方",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "やっときた貴重な休日。\nこの1日を、自分磨きに使おうとかねて計画していた。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "常に自己研鑽に努めるダイイチルビーを支えたいなら、\n自分も己を磨く必要があると考えたのだが――",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "足を運んだ大型書店で、偶然ダイイチルビーと出会う。\n自分の両手にはジャンルも雑多に買い込んだ大量の本があった。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "……なるほど、向上のためにですか。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "買い過ぎを呆れられるかと思ったがその様子はない。\nどうやら彼女自身も、目当ての本があるらしい。",
+            "ChoiceDataList": [
+                "ルビーは何を探しに？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "本日は現在開催中の、美術展の図録を求めに参りました。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "開催中の展示館のほうでは、\nすでに売り切れとのことでしたので……こちらです。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "そう言ってダイイチルビーが見せてくれたのは、\n絵画の写真と共に、詳細な解説が掲載されている分厚い本だ。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "展示に伺う際は、必ず求めることにしております。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "手早く専門家の意見に触れられますし、\n解説や補足が充実していて勉強になります。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "トレーナーさんも、見れば美術史の本などを購入されたご様子。\nご興味あれば、このような図録なども参考になるかと――",
+            "ChoiceDataList": [
+                "買います！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "……今ここで、という意図ではございません。\nかなりの本をすでに購入なさっているようにお見受けいたしますが？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "確かにあれもこれもと大量に手に取ってしまった。\n出費もかなりのものになるだろう。しかし、これも勉強のため……。",
+            "ChoiceDataList": [
+                "君に見合うよう、努力したいから",
+                "貴方に見合うよう、努力したいから"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "そうですか。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "……トレーナーさん、この後のご予定は？\nもしお時間がありましたら、お連れしたいところがございます。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "ダイイチルビーの車に同乗させてもらい、たどり着いたのは、\n購入した図録の展覧会が開催されている美術館だった。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "本日はこちらの美術展鑑賞を予定としておりました。\n図録は、作品理解のための足掛かりにすぎません。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "実物を見ることで得られる学びがございます。\nでは、参りましょう。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "ダイイチルビーの案内で館内を進む。\nすでに調べつくしてからの来館らしく、説明はよどみなかった。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "――本日展示されております作品は、\n全て東北を出身地とする同一画家の手によるものとなります。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "写実的な筆致と幽玄な表現を精髄とし、\n深遠微妙の粋であると高く評価されておりますね。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "またあちらの展示では――",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "美術館を出ても、まだ興奮が覚めやらない。ダイイチルビーの\n解説のおかげで、より深く絵画を鑑賞できた気がする。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "1点1点に時間をかけたため疲れも感じていたが、\nそれ以上に充実感にあふれる1日を過ごすことができた。",
+            "ChoiceDataList": [
+                "とっても勉強になったよ！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "然様にございますか。",
+            "ChoiceDataList": [
+                "それに君が好きな画家がわかってよかった",
+                "それに貴方が好きな画家がわかってよかった"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "日頃、分刻みのスケジュールで生活しているダイイチルビー。\nそんな彼女も、余暇には好きなものに触れて過ごしているのだ。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "それを知れたのが何より嬉しい。そう考えていたのだが――",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "いえ、特別に愛好している画家というわけではございません。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "次の会合にみえる主賓の方が、本日の作者と\n同郷ということでしたので、鑑賞に参ったまでです。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "歓談の話柄にでもなればと。\n美術に造詣の深い方でもいらっしゃるので。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "そういえば鑑賞中、ダイイチルビーは熱心にメモを取っていた。\nそれでよほど好きな作家なのだろうと考えていたのだが――",
+            "ChoiceDataList": [
+                "1度の食事のために、そこまで？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "事前の緻密な準備こそ、表敬の最たる形と考えますので。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "それに、こうした積み重ねが私自身の糧となります。\n研鑽の機会は、十全に活用したく。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "行動を決める指針は、好悪ではなく要か不要か。\n本日はここへの来館が『要』と感じたのみにございます。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "そう言って凜と背を伸ばすダイイチルビー。\nこの高潔さが彼女を形作る核なのだと理解していた。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "それでも、あの時――",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "それは、ある星空の絵を前にした時のことだった。\n何も語らず、ただ真っすぐ視線を向けたのを珍しく感じた。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ダイイチルビー",
+            "Text": "…………蠍の火……。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "あの絵だけは、彼女に一族の責務以外の何かを\n手渡しているように感じた。尋ねても是とは返らないだろうが――",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "帰宅後。ダイイチルビーが眺めていた絵画を図録で調べてみた。\nタイトルは『アンタレス』――さそり座の心臓、夏の星だ。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "白々と煌めく星たちの中で、ただ一点、赤く輝く孤高の星。\nまるで彼女の似姿のよう……そんなことを思ったのだった。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
