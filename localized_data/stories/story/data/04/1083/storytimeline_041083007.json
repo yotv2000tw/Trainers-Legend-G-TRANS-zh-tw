@@ -1,0 +1,375 @@
+{
+  "Title": "Synchronization",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "今夜はシンボリクリスエスと共に、あるパーティーに参加する。\n夏合宿に合わせて開催された、そのパーティーとは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "受付スタッフ",
+      "Text": "『レース振興交流会』へ、ようこそ。\nシンボリクリスエス様御一行様ですね。どうぞ、ご乗船ください。",
+      "ChoiceDataList": [
+        "トレーニングの意見交換、楽しみだな",
+        "トレーニングの意見交換、楽しみだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――ああ。\n学びを――得なければ。――少しでも、多く。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "――会場には、ウマ娘のレース界において活躍する\nそうそうたる顔ぶれが勢揃いしていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "何度も表彰されている名トレーナー……必修テキストとも\n言えるレース理論本の著者近影で見たことがある顔……等々。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "Excuse me,\n――右のグラスを、2つ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウェイター",
+      "Text": "かしこまりました。\n……どうぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――トレーナー。……これを。",
+      "ChoiceDataList": [
+        "ありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "彼女は、率先してエスコートしてくれる。\nこうした場に慣れているからだろうが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "パーティー主催者",
+      "Text": "それでは――乾杯！\n皆様、どうぞご歓談をお楽しみください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "レース関係者",
+      "Text": "――もし、シンボリクリスエスさんよね？\n噂はかねがね。先日のレースも素晴らしかったわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "Thank you.\n――光栄だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "レース関係者",
+      "Text": "……ふふ、クールなのね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "レース研究者",
+      "Text": "僕はウマ娘の体づくりの研究をしていてね。\n君のような一流の走者の話を、ぜひ聞きたいのだが！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "Sure.\n……構わない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "シンボリクリスエスは、次々と参加者たちに声をかけられる。\n応対する彼女の横顔を、しばらく見守ることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "――参加者からの声かけも、ようやく落ち着いてきた。\n話しどおしで、彼女も喉が渇いてきた頃だろう。",
+      "ChoiceDataList": [
+        "少し休憩しようか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "もう……こんな時間か。\n――では、手を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "シンボリクリスエスに手を引かれ、カフェスペースに連れられる。\n参加者のほとんどが甲板にいるおかげか、ほとんど人がいない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――ここなら……座れる。",
+      "ChoiceDataList": [
+        "ありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "船上から眺める夏の空は、どこまでも雄大で、輝いている。\nその輝きは、まるで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "？\u3000……――何を――笑っている？",
+      "ChoiceDataList": [
+        "パーティー、楽しそうでよかったなって"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "―――――楽し、そう……？",
+      "ChoiceDataList": [
+        "目、この星みたいに輝いてたよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――今日の、パーティーは……重要な場だ。\n果たすべき義務のため――必要なこと。",
+      "ChoiceDataList": [
+        "でも、それだけじゃないよな？",
+        "でも、それだけじゃないよね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "彼女といて、わかったのだ。義務や責任のためだけではなく……\n彼女なりに意義を持ち、楽しんでいると。あの時も――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "『この子の義務、見つかってよかったな』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "『この子の義務、見つかってよかったね』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "……よかった、――……と、思う……。\n…………私も。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "売れ残り品の用途――『義務』を見つけてやれて、嬉しそうに\nしていた。彼女の感情は、僅かな態度の変化に表れているのだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "特に、今日の彼女はずっとテンションが高かった。\n積極的に場へと赴き、参加者の話に熱心に耳を傾けて――",
+      "ChoiceDataList": [
+        "だから、今日は楽しんでるんだろうなって"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "…………。\n……………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――専門家の話は、……学びが多い。\n最新鋭の知識も――有用だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "それらを……今後に、どう――活かすか。\n――そう、考えると。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "次は、何を――聞こうかと――",
+      "ChoiceDataList": [
+        "ああ。ワクワクするよな",
+        "うん。ワクワクするよね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――――……ワクワク。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "……………………。\n――――そう、か……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "私は…………高揚、していたのか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "お前は…………すごい、な。",
+      "ChoiceDataList": [
+        "え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "私の――感情を、理解……している。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "口に、――していない、感情を。\n……私さえ――わからなかった――感情を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "この――高揚を……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "懸命に言葉を探していたシンボリクリスエスが、\n不意にこちらを見つめる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "私は、それが――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "…………いや。\n――お前なら、わかるんだろう……この、想いすら……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "ふ、と彼女の目尻が下がる。まっすぐにこちらを射抜く瞳――\nその輝きは、やはり星空に似ていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "But...\n――……何故だ。…………何故、わかる……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "不思議そうに、少しだけ首を傾げるシンボリクリスエス。\nどこか子どもっぽいその表情に、つい――",
+      "ChoiceDataList": [
+        "実は、魔法で心が読めるんだ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――――……ふ。\n……それは――すごいな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "彼女は、わずかに口元を綻ばせる。\n……どうやら、今のが冗談なのだと伝わったようだ。",
+      "ChoiceDataList": [
+        "君を見ていれば、ちゃんとわかるよ",
+        "貴方を見ていれば、ちゃんとわかるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "言葉にせずとも伝わる。\n彼女が何を想い、何を望み、何に心を躍らせるのか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "自分こそが――最も身近な、\n彼女の理解者であろうと誓ったのだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――――そう、か。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "そうか。それは――いいな――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
