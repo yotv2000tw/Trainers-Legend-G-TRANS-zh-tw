@@ -1,0 +1,233 @@
+{
+  "Title": "Blooming Waltz",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "サクラローレルとのトレーニングのため、\n2人でコースへ向かう途中――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生徒会庶務のウマ娘A",
+      "Text": "とりあえずあたし、告知出してくるから……！\n君はマシンの設置進めてて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "貴方たち、どうしたの？\u3000なにかあった？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "そっかぁ、発注間違えちゃったんだね。\nその新しいマシンって、今日がお披露目予定だったの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生徒会庶務のウマ娘B",
+      "Text": "はい……5台入るって告知してたのに、1台しかないなんて……。\nみんなこれ目当てで来るのに、なんて説明すれば……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "会長さんには相談した？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生徒会庶務のウマ娘A",
+      "Text": "会長も副会長も、今日は別件対応で連絡がつかなくて。\nせっかくの導入日なのに、これじゃ台無し――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "どうして？\u30001台だけでも十分楽しいよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "……へ？",
+      "ChoiceDataList": [
+        "ど、どうして……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "だって、楽しくする方法はいくらでもあるじゃないですか！\n例えば、そうだなぁ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "記録会にしちゃう！\u3000とか、どうです？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "他の子と比較することで現状が視覚化されるし、今後の目標も\n立てやすくなる！\u3000記録会形式なら、全員が今日マシンを試せます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "底抜けに前向きで、臨機応変な対応力に……思わず唸る。\n彼女のアイディアのために、今自分ができることは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生徒会庶務のウマ娘B",
+      "Text": "で、でも、みんなが受け入れてくれるか……。",
+      "ChoiceDataList": [
+        "そこは俺が交渉できるよ！それで行こう！",
+        "そこは私が交渉できるよ！それで行こう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "――！\nふふ、トレーナーさんが交渉してくれるなら、安心ですね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "ね、だから大丈夫！\n絶対いい記録会になるよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナーA",
+      "Text": "ええっ、マシン1台しかないの！？",
+      "ChoiceDataList": [
+        "ですから、記録会を開催しようかと！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人トレーナーA",
+      "Text": "なるほど……でも、僕の担当はまだデビュー前だし、\n格上の子といきなり競い合うのはなぁ。",
+      "ChoiceDataList": [
+        "そこは階級を分ける方向で考えてますので！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トレーナーたち",
+      "Text": "そうねぇ……。\nそれなら、まぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ジム使用予定の全員に話を通すため、がむしゃらに奔走する。\nサクラローレルのアイディアを実現するためなら、必死になれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――こうしてすべての準備を整え、\nジムトレーニングが始まった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "――では、新マシン・タイヤフリップの記録会を始めま～す！\nまずはシニア級の子たちから！\u30001分間での回数を測るよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シニア級のウマ娘",
+      "Text": "よっし、それじゃあアタシから！\nやってやるぞ～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シニア級のウマ娘",
+      "Text": "ふんっ！\u3000――どりゃあっ！\nぐっ……あああっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "――5、4、3、2、1、そこまでっ！\n記録は……おおっ、22回！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生徒会庶務のウマ娘A",
+      "Text": "すごい……ほんとに『楽しく』なっちゃった……。\nみんな、モチベも上がってる……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ジュニア級のウマ娘",
+      "Text": "あのっ、記録会、またやってほしいです！\nおもしろいし、すごく刺激になりますし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生徒会庶務のウマ娘B",
+      "Text": "は……はいっ！\n生徒会で、検討させていただきます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "記録会は大いに盛り上がった。みんないいデータを取れたようで、\nこの場を設けたことに感謝してくれるトレーナーさえいたほどだ。",
+      "ChoiceDataList": [
+        "（ローレルの前向きさの賜物だな……）",
+        "（ローレルの前向きさの賜物だね……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "なんとか無事に終わりそうですね、トレーナーさん！\nありがとうございました、いろいろ手配してもらって……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "それと、ごめんなさい！\n勝手に行動しちゃって、かなりご負担かけましたよね。",
+      "ChoiceDataList": [
+        "いや、君の役に立てて嬉しかったよ",
+        "ううん、貴方の役に立てて嬉しかったよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "本当にっ！\u3000トレーナーさんがたくさん頑張ってくれたおかげで、\nうまくいきました！",
+      "ChoiceDataList": [
+        "君の前向きさがあったからこそ、だよ",
+        "貴方の前向きさがあったからこそ、だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "――……ふふ。\nそれじゃ、2人の力、ですね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、サクラローレルも記録会に参加し――\n充実したトレーニングを行うことができたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "Title": "Stronger with You",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "――10本目っ、ゴール！\nふぅー……トレーナーさん、タイムは……？",
+      "ChoiceDataList": [
+        "上がってる。調子いいな",
+        "上がってる。調子いいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "ふふ、ゴールにトレーナーさんが立ってるからかも？\nなんて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "それでそれでっ！\u3000今日はこれで終了、でしたよね！\nということで……この後、お時間ありますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "実は私、肝試し大会の実行委員をやってるんです！\nで、今日このあとコースの仕上げをすることになってて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "トレーナーさん、コースのお試ししてくれませんか？\nそれで感想とかもらえたら、すごく嬉しいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "肝試しのお試し役か……これは、いつも前向きに頑張っている\n彼女の力になれる機会かもしれない。",
+      "ChoiceDataList": [
+        "俺でよければ、ぜひ！",
+        "私でよければ、ぜひ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――ということで、勢い込んで肝試しのスタート地点にやってきた。\n案内役の生徒が迎えてくれる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "案内役のウマ娘",
+      "Text": "この道をまっすぐ進んでくださいね。ゴール地点の祠に\nこの蠟燭型ライトを置いたらクリアです。いってらっしゃ～い！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どこからか不気味な水音がする……。\n心なしか、冷たい風が吹いているような……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ピチャンッ）",
+      "ChoiceDataList": [
+        "ひっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "突然、背中に何か冷たいものが降りかかってきた！\n水、だろうか……？\u3000ただの水であってほしい……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "視界が悪くて、先に進むのが恐ろしい……鼓動が激しくなってきた。\nだが、進まねば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ひた……ひた……――ト、ト……タッタッタッ――）",
+      "ChoiceDataList": [
+        "（なんだろう……？後ろから何か……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "ぁ……ぁぁあ、ああああ～～～……！",
+      "ChoiceDataList": [
+        "うわぁああああああああああ！？",
+        "いやぁああああああああああ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（タタタタタッ！\u3000――ガッ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "――――あはっ、びっくりしました？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "私ですよ、トレーナーさん！",
+      "ChoiceDataList": [
+        "……！！び、びびびびっくり、した……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "あらら……ゴール、もうすぐ目の前ですけど――\n……一緒に行きましょっか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "暴れる鼓動を抑えつつ……サクラローレルに連れられて少し歩くと、\nすぐにゴールの祠に辿り着いた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "はーい、ゴールです！\nお疲れさまでした！\u3000道中、いかがでしたか？",
+      "ChoiceDataList": [
+        "ものすごく怖かった……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どの仕掛けも絶妙なタイミングで襲ってきて、いちいち怖かったが、\n何よりもサクラローレルのお化け役の恐ろしさと言ったら――",
+      "ChoiceDataList": [
+        "……って、あれ？ローレル？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "感想を語っているうちに、いつの間にか彼女の姿が消えている。\n……また怖がらせる魂胆だろうか？",
+      "ChoiceDataList": [
+        "ローレル、もうその手には乗らな――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（――がしっ！）",
+      "ChoiceDataList": [
+        "ひえっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "何かに腕を掴まれた、と思った瞬間、\nものすごい勢いで引っ張られ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ザザザザザザッ――！）",
+      "ChoiceDataList": [
+        "わーーーーなになになに！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "さっきのでゴールではなかったのか！？\n暗闇を引きずられながら、混乱と恐怖で訳がわからなくなり――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "ふふっ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――パッと視界が開けた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "じゃ～ん！\nキレイでしょう、トレーナーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "びっくりしました？\nサプライズ大成功、ですね♪",
+      "ChoiceDataList": [
+        "ここは……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "トレーナーさんへの、お礼です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "私が見つけた、このとっておきの景色――\nトレーナーさんに、1番に見せたかったんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "気に入ってくださいました？",
+      "ChoiceDataList": [
+        "す、すごく……でも――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "お礼、と言われてもピンとこない。今日は、\nただ彼女の作った肝試しの仕掛けに振り回されていただけで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "ふふっ、全力で怖がってくれましたもんね♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "――そんな貴方にこそ、私は助けられてるんですよ。",
+      "ChoiceDataList": [
+        "え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "この間、一緒に出かけた時だって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "トレーナーさんは、私の大好きなものにすごく興味を\n持ってくれました。楽しそうに、話を聞いてくれて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "フランス料理は魔法みたい、だなんて――びっくりしました。\nだって……私もそう思ってたから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "今日だってそうです。私の作った肝試しコースに\n真正面から挑んで、怖がってくれて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "肝試し大会は絶対大成功する！\nって、確信が持てました。",
+      "ChoiceDataList": [
+        "ローレル……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "それに――覚えてますか？\u3000ジムでトラブルがあった時のこと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "あの時、言ってくれましたよね。\n私の前向きさがあったからこそうまくいった、って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "だけど、私が前向きに走り続けられるのは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『そこは俺が交渉できるよ！それで行こう！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『そこは私が交渉できるよ！それで行こう！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "トレーナーさんが……いつだって一生懸命\n私に向き合って、たくさん支えてくれるから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "だから……ひたすら、前へ前へ走れる。\nだって私には――トレーナーさんが、いるから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "……そういうところ、お父さんと少し似てます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "くすりと笑って、彼女は空を見上げる。\nとっておきと言うだけあって、それは絶景と言っていい空だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "星々の輝きは、宵闇をきらきらと照らしている。\nだが自分には、そんなものよりもずっと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "――私、まだまだ強くなりますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "静かに、力強く宣言するサクラローレル。\nその瞳には、確かな信頼が宿っている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "サクラローレル",
+      "Text": "――貴方がいるもの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "輝いている――誰よりも明るく、強く、煌々と……――\nその光を、トレーナーとしてずっと支えていきたいと、そう思った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
