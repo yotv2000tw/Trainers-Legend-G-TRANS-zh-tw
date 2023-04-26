@@ -1,0 +1,394 @@
+{
+  "Title": "通信錄3・屋外的對話、遊戲錄",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "はぁ、はぁ……。\n“追跡者”の信号は――ロスト。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "ネオユニヴァースは明確にしたい。\nあなたは『わたし』を――どう“処遇”？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "どうしたいのかは自分でもわからない。\nだがまずはネオユニヴァースの気持ちを知りたかった。",
+      "ChoiceDataList": [
+        "なあ、君は何者で何がしたいんだ？",
+        "ねえ、貴方は何者で何がしたいの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "それがわからなければ手助けのしようがない。\n仮に正体は明かせなくとも、せめて目的は知りたかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "なにが……したい……。\nネオユニヴァースは――“昇華”をしたい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "そのために自己理解……そして――“倣古”？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……やりたいことはあるようだが、何を指し示しているのかは、\nわからない。言語化不可能な内容なのだろうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "まずはあなたと――“対話”したい。",
+      "ChoiceDataList": [
+        "……わかった"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "そんな中でもかろうじて通じた言葉。\nネオユニヴァースは自分との交流を求めている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "ならば……と理解を深め合うことにした。ネオユニヴァースが\n行ったことのなさそうな、学園外のあちこちを見学させながら。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "まずはラーメン屋へとやってきた。",
+      "ChoiceDataList": [
+        "これが豚骨ラーメンだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "ト・コツ……ラメーン……。ラーメン……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "『食べ物』……だね。\n食したことはない、けれど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "食べ物の概念は、問題なくあるようだった。\n基礎を確認したら、次は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "ここは……“繋養所”？",
+      "ChoiceDataList": [
+        "ああ、動物園だ",
+        "うん、動物園だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "異種生物を――愛でる、ところ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "『かわいい』を見ると、ネオユニヴァースは高揚……。\nつまり『ワクワク』になるよ。",
+      "ChoiceDataList": [
+        "動物、好きなんだな？",
+        "動物、好きなんだね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "アファーマティブ。――『好き』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "相互理解はどんどんと深まる。\nかすかに笑みらしきものも見せてくれるようになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "今日は……『楽しい』をした。",
+      "ChoiceDataList": [
+        "ああ、俺も",
+        "うん、私も"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "かなり打ち解けることができた。言葉もより通じるようになった。\n今なら……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "うまく聞き出せるかもしれない。\nネオユニヴァースが何者で何をしたいのか、その真意を。",
+      "ChoiceDataList": [
+        "ネオユニヴァース、あの……君は……",
+        "ネオユニヴァース、あの……貴方は……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "あのっ、ユニさん？\u3000ユニさんですよね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "とその時、1人のウマ娘がこちらに駆け寄ってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "やっぱり！\u3000さっき走っているのを見かけたもので。\n私です、ゼンノロブロイですっ。図書委員の。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "ゼンノ……ロブロイ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "その存在は……“既知”。\nお世話になっています、だね。",
+      "ChoiceDataList": [
+        "君は、ネオユニヴァースを知っているのか？",
+        "貴方は、ネオユニヴァースを知っているの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "はい、もちろんです！\nだってユニさんは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "トレセン学園の生徒ですから。",
+      "ChoiceDataList": [
+        "トレセン学園の……生徒？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "謎に包まれたその正体について、初めて情報が入った。\nネオユニヴァースはトレセン学園のウマ娘……。",
+      "ChoiceDataList": [
+        "でも制服を着ていたことは1度も……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "制服……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "これも……“保持”……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "その姿を見て納得した。ネオユニヴァースはやはり、\nごく普通のトレセン学園の生徒……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "いや、ごく普通ではない。挙動はあまりに変わっている。\n一体どういうウマ娘なのだろう？",
+      "ChoiceDataList": [
+        "ロブロイ、何か知ってる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "ユニさんについてですか？\nはいっ、ユニさんは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "少し不思議なウマ娘……。言葉遣いがやや難しいので……\nクラスなどではお1人でいらっしゃることも多いようで……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "でも私は……しばしばお話させていただくことがあるんです。\n図書委員ですので。ユニさん、よく図書室にいらっしゃいますから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "ユニさん……あのっ。私、ユニさんとはたくさん話しましたけど\n走るところは今日はじめて見ました。なんというか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "とても……素晴らしい走りでした！\u3000私の憧れる英雄の走りとは\nまた違う、高次元の判断力！\u3000と言いますか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "とくに……あの最終直線のスパート！\u3000お見事でしたっ。迷いなく\n壁の隙間に飛び込んで。一瞬、消えたように見えるほどで……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "消えたように見えた。ということは、\nやはり本当に消えたわけではなかったようだ。とすると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "ネオユニヴァースの正体は、性格が少し変わっているだけのウマ娘。\n自分の気にしすぎだったのかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "……………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "だが、いくつか気になることがある。ネオユニヴァースは確実に\n何かを欲していて、それが何なのかはまだわからない。さらに――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "あの日――屋上にいた謎。空から飛来したのでなければ、\nなぜ施錠された屋上に入ることができたのだろう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゼンノロブロイ",
+      "Text": "トレーナーさん、どうかしましたか？",
+      "ChoiceDataList": [
+        "いや、ひとつ気になったことが……",
+        "ううん、ひとつ気になったことが……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "この話はもしかしたら……\n2人だけでしたほうがいいかもしれない。",
+      "ChoiceDataList": [
+        "ネオユニヴァース、ついてきてくれないか？",
+        "ネオユニヴァース、ついてきてくれない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "ゼンノロブロイと別れた後、\n2人で、かの場所へと向かうことにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "――夜の屋上。\nネオユニヴァースと初めて遭遇した場所。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "あの日、ネオユニヴァースはどうやってここに入ったのだろう？",
+      "ChoiceDataList": [
+        "施錠してあったのに入れるはずが……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "……………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "……“MUTX”。",
+      "ChoiceDataList": [
+        "……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "……“MUTX”だったんだ。\nネオユニヴァースは……最初……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "断片的な言葉。だがそこからなんとなく連想できた。\nもしかしたらネオユニヴァースはあの日……。",
+      "ChoiceDataList": [
+        "誰かと……一緒にいたのか？",
+        "誰かと……一緒にいたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ネオユニヴァース",
+      "Text": "……………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "どうやら、そのようだ。たとえネオユニヴァースは入れなくても、\n夜の屋上に入れる者は何人かいる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "そう、例えば……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
