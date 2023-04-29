@@ -8,23 +8,23 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナレーション",
-      "Text": "この広大な宇宙には――我々には観測できない\n未知の生命体が存在する。",
+      "Name": "旁白",
+      "Text": "這片廣大的宇宙中──存在著我們無法觀測到的未知生命體。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナレーション",
-      "Text": "『異星人』や多次元に生きる『アストラル体』。そういった\n存在はある日、何の前触れもなくこの星を来訪するかもしれない。",
+      "Name": "旁白",
+      "Text": "像「外星人」或存在於高次元的「星光體」。\n這些存在可能會在某一天，毫無預警地造訪這顆星球也說不定。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "――夜のトレセン学園。所用のため、1人で校舎内にいると……\n頭上から奇妙な音が聞こえた。",
+      "Text": "──夜晚的特雷森學園。我為了處理一些事情，\n一個人走在校舍內時……頭上突然傳來奇妙的聲音。",
       "ChoiceDataList": [
-        "この音は……屋上からか？",
-        "この音は……屋上から？"
+        "這聲音是……屋頂傳來的？",
+        "這聲音是……屋頂傳來的？"
       ],
       "ColorTextInfoList": []
     },
@@ -36,216 +36,216 @@
     },
     {
       "Name": "獨白",
-      "Text": "もし設備の故障なら大変だ。原因を確かめるべく、\n宿直のおじさんから鍵を借り、あわてて屋上へと出る。",
+      "Text": "如果是設備故障就麻煩了。我為了確認原因，\n跟值班的大叔借來鑰匙，匆匆跑到屋頂上。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "と、そこには――",
+      "Text": "在那裡──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "見知らぬ少女が立っていた。\nあの耳はウマ娘のもの。だが……少し形状が変だ。",
+      "Text": "站著一位從未見過的少女。\n從耳朵來看是馬娘沒錯。但……形狀有些古怪。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "そして、いくらウマ娘でも施錠してあった屋上に\n飛び移れるわけはない。この少女は一体……。",
+      "Text": "而且，就算是馬娘也不可能突然間飛到上鎖的屋頂上。\n這位少女到底是……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "？？？",
-      "Text": "……………………。",
+      "Text": "………………。",
       "ChoiceDataList": [
-        "あ、あの……"
+        "那、那個……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "こわごわと話しかける。\nはたして……言葉は通じるのだろうか？",
+      "Text": "我有些戰戰兢兢地向她搭話。\n但是……語言真的會通嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "？？？",
-      "Text": "…………“交信”。",
+      "Text": "……「通信」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ネオユニヴァース",
-      "Text": "ネオユニヴァースと“交信”……してみる？\nそれが……“INTI”なら。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "ネオユニヴァース……というのが、この少女の名前なのだろうか。\n発言内容はなんとなく理解できる。",
+      "Name": "新宇宙",
+      "Text": "要和新宇宙試著「通信」……看看嗎？\n如果這麼做……比較「INTI」的話。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "ウマ娘なのか、それともウマ娘型の謎の生命体か……。\nともかくこの少女とは波長が合うようだ。ならば……。",
+      "Text": "新宇宙……就是這位少女的名字嗎？\n我好像大致能理解她的發言。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她究竟是馬娘，還是馬娘外型的神祕生命體……。\n總之我和這位少女的波長似乎對得上。那就……。",
       "ChoiceDataList": [
-        "ここで、何をしているんだ？",
-        "ここで、何をしているの？"
+        "妳在這裡做什麼？",
+        "妳在這裡做什麼？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ネオユニヴァース",
-      "Text": "“断絶”……を埋めていたの。",
+      "Name": "新宇宙",
+      "Text": "我剛才在填補……「斷絕」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ネオユニヴァース",
-      "Text": "来訪した音階は……『お気に入り』だから。\n深層への共鳴は『やすらぎ』になるよ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "――断絶を埋める。それがどういう行為で、\nどのような効果があるのかはわからない。だが……。",
+      "Name": "新宇宙",
+      "Text": "因為造訪的音階……「令人中意」。\n與其進行深層的共鳴能夠獲得「安詳」哦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "この少女はどうやら、\n周りに害をもたらす者ではなさそうだ。",
+      "Text": "──填補斷絕。雖然我不知道那是什麼樣的行為，\n又有什麼樣的效果。但是……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ネオユニヴァース",
-      "Text": "あなたの所属は……“養成者”。\n『トレーナー』……と呼ばれている？",
+      "Name": "獨白",
+      "Text": "這個少女看起來不是個會危害到他人的存在。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "你的所屬是……「養成者」。\n是被稱作……「訓練員」？",
       "ChoiceDataList": [
-        "ああ、トレーナーだ",
-        "うん、トレーナーだよ"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "担当ウマ娘はまだ決まっていない。\nだがトレーナーだと説明すると……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ネオユニヴァース",
-      "Text": "トレーナー……。\n合致する存在ならば……“求める”をしたい。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ネオユニヴァース",
-      "Text": "“競合”の“観測”……。\nいえ、その先へとさらに永続する……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ネオユニヴァース",
-      "Text": "“観測”に留まらない……『？？？』……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "……何かを訴えかけてきているようだ。\nしかし、うまく言葉にできずにいる。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "このウマ娘の姿をした少女“ネオユニヴァース”は、\n何を欲しているのだろうか？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ネオユニヴァース",
-      "Text": "まずは“具現”。\n“可視である”をすること……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ネオユニヴァース",
-      "Text": "それをしなければ“軌道に乗る”ができない……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "夜空を見上げるネオユニヴァース。何かあるのかと自分も見上げ、\n“何も見えないけど”と伝えようとすると……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "その姿は……消えていた。\nまるで時空の稜線に溶け去るかのように。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "“ネオユニヴァース”は……本当に存在したのだろうか？\nあるいは幻か何かを見たのだろうか。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "――その数日後。\n模擬レースの会場にて。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "中堅トレーナーA",
-      "Text": "今日は結構、有力な娘たちが出るのよねぇ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "中堅トレーナーB",
-      "Text": "ああ、どんなレースになるのか楽しみだ。\n中でも……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "中堅トレーナーA",
-      "Text": "だ、誰……？",
-      "ChoiceDataList": [
-        "君は……！？",
-        "貴方は……！？"
+        "對，我是訓練員。",
+        "對，我是訓練員。"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "あの少女“ネオユニヴァース”は忽然と会場に現れた。\nそして――",
+      "Text": "只是我還沒找到擔當馬娘。\n但我一跟她解釋自己是訓練員後……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ネオユニヴァース",
-      "Text": "『競走』……をする。",
+      "Name": "新宇宙",
+      "Text": "訓練員……。\n如果是吻合的存在……我想進行「追求」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ネオユニヴァース",
-      "Text": "ネオユニヴァースは……“STDA”……。\n“シナプス”を獲得する。",
+      "Name": "新宇宙",
+      "Text": "「競爭」的「觀測」……。\n不，是永續存在於未來……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "不止於「觀測」的……「？？？」……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "皆が唖然とする中、気にすることなくターフへと歩んでいく。\nこうして謎の少女は予期せずしてレースに出走することになった。",
+      "Text": "……她好像想向我訴說些什麼。\n但是，沒辦法好好表現在言語上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這位有著馬娘外表的少女「新宇宙」，\n到底想要什麼東西？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "首先要「顯現」。\n化為「可見」的事物……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "不那麼做的話就無法「上軌道」……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "新宇宙抬頭仰望天空。我也跟著好奇地抬起頭，\n然而正當我要告訴她「什麼都看不見」的時候……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她的身影……消失了。\n宛如融入了時空的稜線一般。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "「新宇宙」……是真的存在嗎？\n還是說我只是看見了什麼幻覺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──過了幾天後。\n在模擬賽的會場。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中階訓練員A",
+      "Text": "今天許多滿有實力的馬娘都會出場呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中階訓練員B",
+      "Text": "是啊，好期待會變成什麼樣的比賽喔。\n尤其是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中階訓練員A",
+      "Text": "妳、妳誰……？",
+      "ChoiceDataList": [
+        "妳是……！？",
+        "妳是……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "那位少女「新宇宙」忽然在會場現身。\n接著──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "進行……「賽跑」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "新宇宙是……「STDA」……。\n要獲得「突觸」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "大家陷入了一片啞然，她卻毫不在乎地走向草坪。\n於是神秘的少就這樣女突然其然地參加了比賽。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
