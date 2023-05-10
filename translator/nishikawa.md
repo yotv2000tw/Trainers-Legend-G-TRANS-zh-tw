@@ -35,6 +35,7 @@
 2. Overrunner!
 3. DRAMATIC JOURNEY
 4. Everlasting BEATS
+5. Glorious Moment！
 
 ## 額外提供
 1. 部分翻譯協助。
