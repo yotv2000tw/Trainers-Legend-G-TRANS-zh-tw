@@ -5,7 +5,6 @@
 
 [![License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 [![Release](https://img.shields.io/github/v/release/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw?color=blue&logoColor=white&label=Release&logo=DocuSign)](https://github.com/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw/releases/latest)
-[![Chat](https://img.shields.io/badge/Join-QQ%E9%A2%91%E9%81%93-blue?logo=tencent-qq&logoColor=white)](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1olqdK&from=246610&biz=ka)
 [![Discord](https://img.shields.io/discord/811185992198389800?color=blue&label=Discord&logo=Discord&logoColor=white)](https://discord.com/invite/umaconnect)
 [![Downloads](https://img.shields.io/github/downloads/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw/total?label=Downloads&logo=Github&color=blue&logoColor=white)](https://github.com/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw/releases/latest)
 
@@ -33,8 +32,8 @@
 
 # 注意
 - 有關繁體中文版的更新，也可以關注 [Telegram頻道](https://t.me/TLG_zh_tw/) 。
-- **本插件內所有翻譯內容均屬於原翻譯者，以任何方式（錄製影片、提取文本等）轉載或大段搬運譯文請註明原譯者或此倉庫的貢獻者列表及授權參考列表**
-- 本倉庫的文件使用 [署名-非商業性使用-相同方式共享 4.0 國際 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_TW) 協議開源，您僅能在符合此協議的規定條件下使用這些文件。
+- **本插件內所有翻譯內容均屬於原翻譯者，以任何方式（錄製影片、提取文本等）轉載或大段搬運譯文請註明原譯者或此項目的貢獻者列表及授權參考列表**
+- 本項目的文件使用 [署名-非商業性使用-相同方式共享 4.0 國際 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_TW) 協議開源，您僅能在符合此協議的規定條件下使用這些文件。
 
 - 此插件的翻譯進度目前為 **部分翻譯** 。
 
