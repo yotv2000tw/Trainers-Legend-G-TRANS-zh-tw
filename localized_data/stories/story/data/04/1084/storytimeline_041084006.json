@@ -1,0 +1,372 @@
+{
+  "Title": "為通寧加入剎那的香料",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "休日、自室で目を覚ますと――\nポストに手紙が入っていることに気がついた。",
+      "ChoiceDataList": [
+        "（これは……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "封を開け、手紙を読む。\nするとそこには、流麗な文字でこう書かれていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "謎の手紙",
+      "Text": "『女神は三柱、筋書きは序破急、調和は三和音』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "謎の手紙",
+      "Text": "『これらの理に倣い、三つの標を用意した。\n道のりの果てに刹那を視よ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "謎の手紙",
+      "Text": "『第一の標は、伝令の神の如く素早き鋼鉄の箱。\nその走り去る橋の下、砂礫の門の前にて待つ』",
+      "ChoiceDataList": [
+        "……？？？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "独特の文体からして、タニノギムレットからだとは思うのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "考えているうち、気がついた。そういえば以前、彼女はこう言った。\n『道しるべを作っておく』と。言葉どおりに受け取るなら――",
+      "ChoiceDataList": [
+        "（3つの場所に行けばいい……ってこと？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……考えていてもよくわからない。\nとりあえず外に出てみることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "『素早き鋼鉄の箱』は電車。\n『走り去る橋の下』『砂礫の門』は高架橋。そう予想をつけると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "――伝令は、正しく届いたようだな。",
+      "ChoiceDataList": [
+        "ギムレット！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "慌てるな。早計は失態を生む。\nそれよりも……上を見ろ。",
+      "ChoiceDataList": [
+        "え……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（ゴオオオオオ――ッ！！！！）",
+      "ChoiceDataList": [
+        "――！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "轟音を伴い、頭上を電車が駆け抜けていく。\n耳をつんざくような激しい響きと、強い振動に包まれた――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "瞬く間の出来事だったが、音と衝撃がしばらく体に残っていた。\nしばらくぼんやりした後、視線をもとに戻す――と。",
+      "ChoiceDataList": [
+        "（あれ、いない……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "いつの間にか、タニノギムレットがいなくなっている……！\n代わりに、地面に1通の手紙が落ちていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "手紙",
+      "Text": "『第二の標は、生と死を繰り返す場所。\n花の神の治める地、西風そよぐ平原にて待つ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "やはりよくわからないが――\n『花の神の治める地』というと、花畑のことだろうか……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "そういえば、さっきの電車の行く先に花畑があったはず。\nそこへ向かってみてもいいかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "そして、たどり着いた先に――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "見事、西風の誘いを受けたか。",
+      "ChoiceDataList": [
+        "やっぱりここだったんだな！",
+        "やっぱりここだったんだね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "……フ、歓喜の宴にはまだ早い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "彼方を視ろ。長閑な西風に誘われて、花のひとひらが散っていく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "タニノギムレットの視線の先を見ると、\n暖かい風が吹き、花びらがふわりと空に舞い上がった――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "一瞬にして鮮やかに彩られた、目の前の景色。\n美しい風景の余韻にひたりながら、視線をもとに戻す――と。",
+      "ChoiceDataList": [
+        "（また、いなくなってる……！！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "先ほどと同じく、一瞬にしてタニノギムレットはいなくなっており、\n地面には1通の手紙が落ちていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "手紙",
+      "Text": "『最後の標は、分断を生みし禁断の塔。\n全てを見下ろすその頂にて待つ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "塔というと、街を見渡せるタワーがあったはずだ。\n少し遠いが、ここまできたら――とことん付き合うことにしよう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "電車を乗り継いでいるうち、陽は沈んでいき――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "タワーに着いた頃には、夜になっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "よくぞ、バベルの最上へとたどり着いた。",
+      "ChoiceDataList": [
+        "ああ、来たぞ！",
+        "うん、来たよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "……ククッ、隙を見せすぎるなよ。\n混乱に飲み込まれるぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "それよりも――視ろ。最後の景色だ。\n狼が月に追いつく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "タニノギムレットと同じように、街を見下ろした――その瞬間。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "……ククッ、ハハハッ！\u3000アハハハッ！！",
+      "ChoiceDataList": [
+        "――！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "アーーーーーーーーーッハッハッハッハ！！！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "一斉に街灯が点き、瞬く間に眼下の景色が輝いた――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "街全体がまばゆく、きらきらと輝いている。\n星座に彩られた夜空のような光景に、しばらく目が離せなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "見たか、一瞬の閃光を！！\u3000終わり、始まるその刻をッ！！！\n最上にして、最高のスパイスをッ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "これこそが俺の望んだもの！！\u3000ワタシの求める景色だッ！！！！",
+      "ChoiceDataList": [
+        "綺麗だな……！",
+        "綺麗だね……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ククッ、オマエも魅せられたか。\n……僥倖だ。",
+      "ChoiceDataList": [
+        "もしかして、この景色を見せたかったのか？",
+        "もしかして、この景色を見せたかったの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "肯定だが、否定でもあるな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "思い出せ。全ての行程を。如何なる体験をし、何を享受したか。\nオマエの魂に最も鮮烈に刻まれたものは？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "そう言われ、想いを巡らせた。\n今日見てきたもの。それは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "一瞬にして走り抜けた電車。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "一瞬にして散った花びら。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "一瞬にして明かりを灯した街。\nそうか――考えてみれば、全てに共通点がある。",
+      "ChoiceDataList": [
+        "全部、一瞬の出来事だったな",
+        "全部、一瞬の出来事だったね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "……最適解だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "刹那にて散り、輝き、そして生まれるもの。\n強烈に焼きつき、想いを馳せたくなるもの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "――それこそが、俺の望むものだ。\nその極致を得るために行動する。故に、走る。",
+      "ChoiceDataList": [
+        "（なるほど……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "少しだけわかった気がする。彼女の望むもの――それは恐らく瞬間。\n儚いからこそ強烈に刻まれ、心に残したいと思う瞬間。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "『速さ』と『強さ』の両者にこだわっているのも、\n鮮烈な一瞬にこだわっているから、と考えればより理解できる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ククッ……標は、役立ったようだな。",
+      "ChoiceDataList": [
+        "教えてくれて、ありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "答えを得たのはオマエ自身だ。\n感謝は己に告げるがいい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "それからしばらく、2人で夜景を楽しんだ。\nタニノギムレットの表情は、いつも以上に満足そうだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
