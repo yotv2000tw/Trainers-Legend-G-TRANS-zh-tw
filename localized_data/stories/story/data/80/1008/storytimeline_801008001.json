@@ -1,121 +1,121 @@
 {
-  "Title": "憧憬的那句話",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "某天，我正要去訓練員室的路上──",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "「天上天下唯我獨尊……我要擊敗你！！」",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "好像不太對耶。應該要再更……\n「我要擊敗你──！！」",
-      "ChoiceDataList": [
-        "擊敗……？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "──啊！你你你你你什麼時候來的……！？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "喂，你不要跟任何人說喔！？\n被知道我在練習怎麼耍帥就太遜了吧！？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "而且其實是會更帥的，\n剛剛的完全沒講好啦！",
-      "ChoiceDataList": [
-        "那是什麼的台詞嗎？",
-        "那是什麼的台詞嗎？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "嗯，是我喜歡的不良少年漫畫中，\n主角以下犯上向老大宣戰的那一幕。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "「天上天下唯我獨尊……我要擊敗你！」\n這樣！呼～～～超帥的～～！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "但是我說起來好像就是怪怪的……\n難道是不夠狂野嗎？嗯……",
-      "ChoiceDataList": [
-        "那就讓外表變得更狂野一點？",
-        "擺出狂野的姿勢如何？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "外表……！原來還有這招啊！\n漫畫中的那些傢伙的確都超壯的！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "如果我變得超壯的話，\n或許就能明白壯漢眼中的世界了！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "好啊，我懂了！我這就去練壯一點！謝啦！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "在那之後，我聽說\n伏特加非常熱衷地在健身房做重訓。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "狂野的姿勢啊……\n確實漫畫裡也有做出超帥的姿勢……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "這樣嗎？還是這樣？這樣會比較好嗎？\n沒想到擺姿勢還得用到肌肉！？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "伏特加",
-      "Text": "我現在有股滿滿的衝勁……！\n我要去拿面鏡子來！謝啦！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "伏特加似乎熱衷地研究姿勢直到深夜。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "憧憬的那句話",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "某天，我正要去訓練員室的路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "「天上天下唯我獨尊……我要擊敗你！！」",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "好像不太對耶。應該要再更……\n「我要擊敗你──！！」",
+            "ChoiceDataList": [
+                "擊敗……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "──啊！你你你你你什麼時候來的……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "喂，你不要跟任何人說喔！？\n被知道我在練習怎麼耍帥就太遜了吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "而且其實是會更帥的，\n剛剛的完全沒講好啦！",
+            "ChoiceDataList": [
+                "那是什麼的台詞嗎？",
+                "那是什麼的台詞嗎？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嗯，是我喜歡的不良少年漫畫中，\n主角以下犯上向老大宣戰的那一幕。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "「天上天下唯我獨尊……我要擊敗你！」\n這樣！呼～～～超帥的～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "でもさ、俺が言うとなーんか違うっつーか……\nワイルドさが足りねーのかなぁ、うーん……。",
+            "ChoiceDataList": [
+                "那就讓外表變得更狂野一點？",
+                "擺出狂野的姿勢如何？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "外表……！原來還有這招啊！\n漫畫中的那些傢伙的確都超壯的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "如果我變得超壯的話，\n或許就能明白壯漢眼中的世界了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "好啊，我懂了！我這就去練壯一點！謝啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "在那之後，我聽說\n伏特加非常熱衷地在健身房做重訓。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "狂野的姿勢啊……\n確實漫畫裡也有做出超帥的姿勢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "這樣嗎？還是這樣？這樣會比較好嗎？\n沒想到擺姿勢還得用到肌肉！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我現在有股滿滿的衝勁……！\n我要去拿面鏡子來！謝啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "伏特加似乎熱衷地研究姿勢直到深夜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }
