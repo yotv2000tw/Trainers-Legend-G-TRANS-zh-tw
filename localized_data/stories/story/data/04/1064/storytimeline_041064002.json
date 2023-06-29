@@ -1,0 +1,360 @@
+{
+  "Title": "自由地奔馳吧！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在選拔賽結束後，又過了幾天。當我正走在街上時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "發傳單的人",
+      "Text": "欸，那邊那位！要不要去看看「花式自由賽」？\n在那邊的小巷裡熱烈開賽中喔～！",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "發傳單的人",
+      "Text": "閃耀系列賽是很棒，但自由賽也很有趣喔！\n……啊，那邊的賽馬娘也務必來觀戰～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "──花式自由賽……？\n咦？你是之前的那個人！",
+      "ChoiceDataList": [
+        "妳好，妳正在練跑嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "嗯，是啊。我一邊慢慢暖身，\n一邊思考上次比賽後你說的「適合我的風格」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "不過，自由賽啊。我雖然知道有這種比賽，\n但都沒有親眼看過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "發傳單的人",
+      "Text": "你們都有興趣嗎！？看起來有呢！？來這邊吧！\n這可以中途參加的，好好享受吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "咦，啊，嗯！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──所謂的「花式自由賽」，是想要隨興跑步的賽馬娘們，\n借用空地開辦的業餘競賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "不管跑得多快，也有賽馬娘選擇不成為職業選手……\n這種比賽讓她們自由地隨心所欲競爭，所以也有不少粉絲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "自由賽的觀眾們",
+      "Text": "（唔哇啊啊啊啊啊啊啊啊！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "參加自由賽的賽馬娘們",
+      "Text": "「喔喔喔喔喔喔喔！！」「嗚啊啊啊啊──！！」\n「我！是第一名！！啊────！！！」",
+      "ChoiceDataList": [
+        "這、這就是花式自由賽……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "選手們用的都是自創的粗暴跑法……但是很熱血……！\n她們的鬥爭心表露無遺，這樣的比賽實在是震撼人心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "……氣氛跟正式比賽完全不同……\n這就是花式自由賽……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "好厲害……感覺……光是看著就令人熱血沸騰……！",
+      "ChoiceDataList": [
+        "中途參加看看吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "……！\n……嗯……好，我試試看！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "欸，兩位，請問一下！我也可以參賽嗎！？\n哪場比賽都可以！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "沒眉毛的賽馬娘",
+      "Text": "喔，妳要中途參賽嗎！？挺有膽量的嘛！\n可以喔～妳叫什麼名字？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "啊，善信……呃，我叫目白善信。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "穿舌環的賽馬娘",
+      "Text": "啊～目白，有名的那個啊～不過太長了～叫「善信」好嗎～？\n至於閘位嘛～在開跑前到閘門那裡抽籤吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "啊，嗯！？用善信……就可以了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "穿舌環的賽馬娘",
+      "Text": "嗯～？是啊～太長的話大家記不得～\n不過沒贏的話～再短也不一定能記得～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "沒眉毛的賽馬娘",
+      "Text": "別在意別在意，只要贏就可以了！在自由賽的世界，\n跑步就是一切。實力就是一切喔……好啦，去吧，善信！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "……！！\n嗯……請多指教！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "同時起跑了！領先的是中途參加的，\n穿紅色運動服的二號！她的實力如何！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "（好，冷靜下來，就跟平時一樣……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好勝的賽馬娘",
+      "Text": "喝啊啊啊啊啊啊啊────！！\n再慢吞吞的話，我要丟下妳們了────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "（……！天啊！從這麼近的距離一看，氣魄直逼而來！\n她們居然跑得如此大膽……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "（我要不要……也來試試看呢……？\n嗯……畢竟這裡是可以自由奔跑的地方……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "（而且現在的我，只是「中途參加的二號」……！\n我不是目白，只是單純的「善信」……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "（不管是贏還是輸，我都不是目白……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "──好！喝啊啊啊啊啊啊────！！！",
+      "ChoiceDataList": [
+        "這個跑法……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "好快！好快！第一名是二號的善信────！\n速度不同凡響！以6身距取得完全勝利～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "──呼……呼……！\n天啊……這是怎樣，超開心的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "沒眉毛的賽馬娘",
+      "Text": "喂喂喂喂～！妳挺厲害的嘛！？\n讓我熱血沸騰了……！再來比一場吧，善信！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "嗯……！好啊！我也想多跑幾次……！\n我想更隨心所欲地……遙遙領先所有人！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "喝啊啊啊啊──────！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "（腳停不下來……！風好舒服……！\n感覺得到我正盡情活動著自己的身體……！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "穿舌環的賽馬娘",
+      "Text": "喔喔～善信妳跑得很棒嘛～\n真是驚人的領頭跑法……嗯？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "呼！呼！呼！\n啊哈哈……！糟糕！！衝太快了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "穿舌環的賽馬娘",
+      "Text": "噗……啊哈哈哈哈哈！速度放慢了～！！\n怎麼，妳都不考慮後果嗎～？啊哈哈……挺有趣的嘛～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "參加自由賽的賽馬娘們",
+      "Text": "善信！！上啊上啊，領先到最後吧，善信──！！！\n妳好厲害，善信～～！上吧！一定要贏～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "OK！我這次一定會領先到最後，看著吧！！\n大家要把我獲勝的那一刻……烙印在眼中──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "喝啊啊啊啊啊啊啊啊────！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在今天預定的自由賽賽程結束後……\n包圍著目白善信的狂熱達到了最高潮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "參加自由賽的賽馬娘們",
+      "Text": "善、信──！善、信──！\n善、信──！善、信──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "嗚哇，這情況……哈哈，真的假的。\n……天啊。這麼多人……在叫我的名字……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "謝、謝謝────！！\n感覺棒透了喔────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "──呼～～到現在還是飄飄然的……",
+      "ChoiceDataList": [
+        "呼喊「善信」的聲音超熱烈的呢",
+        "呼喊「善信」的聲音超熱烈的呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "是啊……那是有生以來第一次……跟選拔賽時天差地遠。\n連不知道我屬於目白家的人，都在喊「善信！」……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "舒服極了……感覺超～～棒！！\n……我今後也想跑那種比賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "沒錯……就是這樣，我想把「目白善信」這名字……\n深深刻進大家的心裡！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白善信的眼神閃閃發光。\n看見她找到了自己的偉大夢想，使我不禁──",
+      "ChoiceDataList": [
+        "可以讓我幫妳實現夢想嗎？",
+        "可以讓我幫妳實現夢想嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "咦！\n你剛才是在……挖角？真的假的？",
+      "ChoiceDataList": [
+        "如果妳願意，請讓我挖角妳！",
+        "如果妳願意，請讓我挖角妳！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "……謝謝你。我很高興喔。\n嗯……今後請多指教，我的訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

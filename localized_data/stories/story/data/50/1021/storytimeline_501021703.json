@@ -1,5 +1,5 @@
 {
-  "Title": "去吧！體驗牧場！",
+  "Title": "到牧場體驗吧！",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,19 +9,19 @@
     },
     {
       "Name": "獨白",
-      "Text": "我和玉藻十字一起出門，\n買好了想要的東西後──",
+      "Text": "當我和玉藻十字一起出門，\n買好想要的東西後──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "喔！\n看來小溪和小栗都有來嘛！",
+      "Text": "喔！看來小溪和小栗\n她們都已經到了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "那就趕快開始我們的牧場之旅吧！\n訓練員，就靠你帶路囉！",
+      "Text": "那就趕快開始我們的牧場之旅吧！\n訓練員，拜託你帶路囉！",
       "ChoiceDataList": [
         "交給我吧！"
       ],
@@ -29,33 +29,33 @@
     },
     {
       "Name": "超級小溪",
-      "Text": "呵呵♪\n我要去給可愛的動物們摸摸頭～♪",
+      "Text": "呵呵♪\n我去給各種可愛的動物們摸摸頭吧～♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "小栗帽",
-      "Text": "牛奶、起司、優酪乳……\n一定有很多好吃的東西吧。",
+      "Text": "牛奶、起司、優格……\n一定會有很多好吃的東西吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "好，看來小溪和小栗都各自去自己想去的地方了，\n我們也該出發了！",
+      "Text": "好，既然小溪和小栗都各自去想去的地方了，\n那我們也出發吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "「體驗用羊毛氈做杯墊」……\n是在那邊！",
+      "Text": "「體驗用羊毛氈做杯墊」……\n在那邊！",
       "ChoiceDataList": [
-        "妳是要做給家人的吧？"
+        "記得妳是要做給家人吧？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "對啊！\n我要做非常帥氣的給他們──",
+      "Text": "對啊！\n我要做個超級帥的給他們──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -67,19 +67,19 @@
     },
     {
       "Name": "飼養員",
-      "Text": "等等我啊啊啊啊！！\n牛舍不是往那個方向啊～！！",
+      "Text": "大家別跑啊────！！\n牛舍不是往那個方向啦～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "糟糕，我們快點過去！\n動物們正往小溪的方向衝去……！",
+      "Text": "糟糕，我們動作快點！\n動物們正往小溪在的地方衝去……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超級小溪",
-      "Text": "大家～過來這邊喔～♪\n牛牛、綿羊羊、山羊羊都過來這邊，\n讓我幫你們摸摸頭喔～",
+      "Text": "大家～在這邊喔～♪\n牛牛、綿羊羊、山羊羊都快過來，\n讓我幫你們摸摸頭吧～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -91,13 +91,13 @@
     },
     {
       "Name": "玉藻十字",
-      "Text": "唉……我剛剛看飼養員一副很傷腦筋的樣子，\n我要把牠們都帶回去了喔！",
+      "Text": "唉……飼養員剛才很傷腦筋的說，\n快點把牠們都帶回去吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "動物們總算是都回去了……\n我也可以去做杯墊──",
+      "Text": "動物們總算是都回去了……\n那我要去做杯墊──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -109,7 +109,7 @@
     },
     {
       "Name": "小栗帽",
-      "Text": "你們是來約我去哪玩的嗎？\n……真的很不好意思，我還要忙著搬牛奶。",
+      "Text": "你們是來約我去玩的嗎？\n……真的很不好意思，我還要忙著搬牛奶。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -121,7 +121,7 @@
     },
     {
       "Name": "小栗帽",
-      "Text": "因為這裡的冰淇淋非常好吃，\n來這裡的其他遊客也打算要吃的，\n卻全都被我吃光光了……",
+      "Text": "因為這裡的冰淇淋非常好吃，\n其他遊客本來應該也想吃的，\n卻被我不小心全部吃光了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -133,37 +133,37 @@
     },
     {
       "Name": "玉藻十字",
-      "Text": "原來是這樣喔。\n那我也來幫忙吧！\n這樣才能比較快做完！",
+      "Text": "原來如此啊。\n那我也來幫忙吧！\n這樣比較快做完！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "就這樣，天色越來越晚，\n不知不覺來到了牧場結束營業的時間……",
+      "Text": "就這樣，天色越來越晚，\n不知不覺到了牧場結束營業的時間……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "小栗帽",
-      "Text": "抱歉耶，小玉……\n因為幫我的關係，害妳錯過做杯墊的時間了。",
+      "Text": "抱歉，小玉……為了幫我，\n害妳錯過了做杯墊的時間。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超級小溪",
-      "Text": "我也對不起……\n為了幫忙把動物們帶回去，\n花掉了妳很多時間吧？",
+      "Text": "我也對不起……\n幫忙把動物們帶回去的時候，\n花掉妳很多時間吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "啊──真是的！沒關係、沒關係啦！\n反正我也玩得很開心，沒有留下遺憾啦！",
+      "Text": "啊──真是的！沒關係啦！\n反正我玩得很開心，沒有留下遺憾啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "（而且──）",
+      "Text": "（因為──）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -175,7 +175,7 @@
     },
     {
       "Name": "玉藻十字的弟弟",
-      "Text": "好多店家喔～！\n噯──噯──玉藻姊姊，我想去那裡看看～！",
+      "Text": "好多店家喔～！\n欸──欸──小玉姊姊，我想去那裡看看～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -193,19 +193,19 @@
     },
     {
       "Name": "玉藻十字",
-      "Text": "（呼──走了好多路喔！\n兩條腿都硬梆梆的了。）",
+      "Text": "（呼──走了好多路啊！\n兩條腿都變得硬梆梆的了。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "（不過，看到他們都很開心的樣子，\n就有種……這樣也很不錯的感覺。）",
+      "Text": "（不過，看到大家一直很開心的樣子，\n總覺得……這樣也不錯。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "雖然過程亂糟糟的，但大家都玩得很開心吧？\n那這樣就沒有問題了！",
+      "Text": "雖然有點手忙腳亂，但大家都玩得很開心吧？\n這樣就好了啊！",
       "ChoiceDataList": [
         "回程就好好休息一下吧",
         "還想再跟大家一起出遊呢"
@@ -214,13 +214,13 @@
     },
     {
       "Name": "玉藻十字",
-      "Text": "是啊，反正到公車站之前還有一段時間。",
+      "Text": "也對，反正還有一段時間才會到公車站。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "因為做了很多勞動的關係，\n就連我都覺得自己好像……要沒電了……",
+      "Text": "因為今天一直在活動，\n連我都覺得自己好像快……沒電……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -234,19 +234,19 @@
     },
     {
       "Name": "玉藻十字",
-      "Text": "呼呼……\n謝謝……你們……",
+      "Text": "呼呼……\n謝……囉……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "看著玉藻十字睡著的模樣，\n讓我有一種身心被療癒的感覺。",
+      "Text": "看著玉藻十字放鬆的睡臉，\n讓我有種內心被療癒的感覺。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "對啊！不管是去山上還是海邊……\n我們這群人一起去一定會很好玩的！",
+      "Text": "贊先！看要去山上還是海邊……\n如果是我們這群人，感覺一定會很好玩！",
       "ChoiceDataList": [
         "到時候就去玉藻想去的地方吧",
         "到時候就去玉藻想去的地方吧"
@@ -255,19 +255,19 @@
     },
     {
       "Name": "超級小溪",
-      "Text": "有什麼想做的事情也要告訴我喔？\n像是想玩「真是好孩子呢」的遊戲之類的……\n我很樂意當妳的媽媽喔～♪",
+      "Text": "有什麼想做的事情也要告訴我喔？\n像是玩「真是好孩子呢」的遊戲之類的……\n我很樂意當妳的媽媽喔～♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "小栗帽",
-      "Text": "小溪是媽媽的話……那我就是爸爸了吧。\n小玉，儘管跟爸爸提出要求，沒問題的。",
+      "Text": "小溪是媽媽的話……那我就當爸爸吧。\n小玉，有什麼事都可以告訴爸爸喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "啊～你們一個個都這樣！！\n上次鯛魚燒的大叔這樣，這次連妳們也這樣，\n我明明就已經是個大人了吼～！！",
+      "Text": "唔啊～你們每個都這樣！！\n上次鯛魚燒的大叔這樣，這次連妳們也這樣，\n我已經是個大人了啦～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },

@@ -1,0 +1,310 @@
+{
+  "Title": "走過路過不要錯過！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "回程路上。\n我和北部玄駒被優秀素質叫去參加\n商店街主辦的跳蚤市場。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "怎麼樣？商店街第一名的麵包好吃嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "嗯～～！真好吃！搭配隨附的\n杏桃果醬一起吃真是絕品美食……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員A",
+      "Text": "對吧～真的很好吃吧～\n……明明就這麼好吃，唉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "要是有客人來吃……就好了。",
+      "ChoiceDataList": [
+        "聽你們這麼一說才發現沒什麼人潮……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "真的耶，整個跳蚤市場都沒什麼人……\n可是，這是為什麼呢？\n這麼好吃應該會很受歡迎才對啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "好像是因為附近正在辦大型活動，\n人潮都往那邊去了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員A",
+      "Text": "這個跳蚤市場主要也是為了宣傳之後要辦的\n「商店街．大感謝祭」，\n但看這個狀況……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "總之我們還是不要氣餒，繼續努力吧！\n至少也還是有人吃了覺得很喜歡嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "……不好意思！\n這件事情可以交給我來辦嗎！？",
+      "ChoiceDataList": [
+        "妳有什麼想法嗎？",
+        "妳有什麼想法嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "訓練員也要一起來！\n然後再多買一些麵包跟果醬──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "好！已經把麵包跟果醬都擺好了。\n再來就……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "來吧，訓練員！\n開始盡情地吃吧！！",
+      "ChoiceDataList": [
+        "咦！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "有杏桃果醬跟草莓果醬，\n還有奇異果果醬跟藍莓果醬！\n隨便你抹來吃！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "你想先從那一個開始吃？\n還是先從最基本的草莓果醬開始，怎麼樣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "說完，\n北部玄駒就把抹上草莓果醬的麵包交給我，\n我照她的指示開始吃──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "……味道怎麼樣！？",
+      "ChoiceDataList": [
+        "好、好好吃……！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人",
+      "Text": "真的耶，看起來就很好吃……\n是有在辦什麼賣東西的活動嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "這是在那邊的跳蚤市場買的～！\n不僅有賣好吃的，\n還有很多好東西可以發掘喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人",
+      "Text": "是喔……原來還有跳蚤市場。\n要不要去看看？",
+      "ChoiceDataList": [
+        "真厲害，已經拉到了一組客人……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "好，就照這個感覺繼續吧！\n先換個地方！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "噗哈～！這個抹了奇異果果醬的麵包，\n吃了之後感覺疲勞都消失了～♪",
+      "ChoiceDataList": [
+        "酸酸的味道留在嘴裡感覺很清爽呢",
+        "酸酸的味道留在嘴裡感覺很清爽呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "正在練跑的人",
+      "Text": "喔──\n看得我都覺得有點餓了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "啊！不嫌棄的話，請你吃一個吧。\n這是那邊的跳蚤市場在賣的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（人聲鼎沸……盛況空前……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "喂喂，人潮變多了……！\n北部，這麼短的時間內妳究竟做了什麼啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "嘿嘿嘿！\n開心的氣氛就是會讓人忍不住感到好奇的嘛！",
+      "ChoiceDataList": [
+        "所以呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "就算正在忙，\n聽到歡樂的聲音，還是會忍不住想去看吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "「不知道是在做什麼？」\n「過去看一下好了？」……之類的，\n只要產生了興趣，就注定是祭典的一分子了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "熱鬧的氣氛會吸引更多的人！\n所以我們只須要盡情地享受，\n把更多熱鬧的氣氛傳遞出去！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "真強勢～！\n不過，也讓我學到了一課。",
+      "ChoiceDataList": [
+        "所以才找我在路上大吃啊",
+        "所以才找我在路上大吃呀"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "是！\n但能有這麼好的效果，\n主要也是歸功於商店街的大家！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "因為大家開朗地接待客人、對商品非常用心。\n所以才能留住人潮。\n……我自己是這麼認為的啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "呵呵，真是的，妳可真會說啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員A",
+      "Text": "沒錯沒錯！\n親切又充滿人情味，\n這本來就是商店街的最大賣點！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員B",
+      "Text": "只要有人肯來，\n我們自然有辦法留住客人～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "這次……真的是謝謝你們了。\n之後的祭典應該也不用擔心了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "小事一樁！\n就當是好吃的麵包跟果醬的謝禮了！",
+      "ChoiceDataList": [
+        "真是瀟灑豪邁的謝禮啊！",
+        "真是瀟灑豪邁的謝禮呢！",
+        "反正攬客的過程我們也很開心",
+        "反正攬客的過程我們也很開心嘛"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "小事一樁！\n就當是好吃的麵包跟果醬的謝禮了！",
+      "ChoiceDataList": [
+        "真是瀟灑豪邁的謝禮啊！",
+        "真是瀟灑豪邁的謝禮呢！",
+        "反正攬客的過程我們也很開心",
+        "反正攬客的過程我們也很開心嘛"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "！\u3000……瀟灑豪邁嗎？\n嘿嘿嘿，我沒有那麼厲害啦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "喲！瀟灑大將！\n妳可以更有自信一點。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "咦～真、真的嗎～？\n那我要當真了喔？嘿嘿嘿～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "（爸爸，我……\n我是不是有稍微接近爸爸一點了呢？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "說得好啊！\n真不愧是訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "好心終會有好報。\n這麼做也算是幫助了自己嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

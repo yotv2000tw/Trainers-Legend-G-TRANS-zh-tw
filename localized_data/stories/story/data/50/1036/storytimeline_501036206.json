@@ -1,0 +1,360 @@
+{
+  "Title": "迎向天皇賞（春）",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "──嗯，場地狀態和天氣都符合情境模擬。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "（再來就是到現場確認詳細數值，\n讓「Parcae」安排作戰──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "> Do you start to initialize?\n> [y]:",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "（重新建構後的「Parcae」沒有變化，\n持續導出正確答案。\n一切都一如往常，只不過……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……就是這點不可思議啊。\n我還真的……「什麼都感覺不到了」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "（我也太蠢了，這傢伙只是個程式。\n雖然很蠢，但是……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "（那時「Parcae」讓我再次面臨\n最糟宿命……其實是為了要讓我燃起鬥志。\n不知道為什麼，我是這樣想的。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……走吧。\n──我也得重開機才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "報紙的標題",
+      "Text": "「豪華選手齊聚一堂！\n稱霸天皇賞（春）的會是──逆襲的模範生？\n下剋上的選手？還是預料中的歌劇王？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "網路報導",
+      "Text": "「天皇賞（春）特輯！\n高手對談──勁敵們的真心話」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人A",
+      "Text": "天皇賞（春）感覺還真熱鬧啊！\n對了，比賽好像是今天？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人B",
+      "Text": "話說之前我看電視上報導過～\n那個很冷淡的……是叫空中神宮嗎？\n她也要參加對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人B",
+      "Text": "那麼多人都說她冷淡，肯定很不討喜吧。\n她在那群賽馬娘裡面有辦法好好表現嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人A",
+      "Text": "……唔！\n喂、喂……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "啥？你說啥？\n我可沒聽清楚啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人A&B",
+      "Text": "咿……！\n我們什麼都沒說……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "既然什麼都沒說\n就不要逃啊。",
+      "ChoiceDataList": [
+        "看來妳已經沒事了吧",
+        "看來妳已經沒事了吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……嗯。\n早就沒事了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "不過你是從哪判斷我沒事的啊？\n看到有人怕我，還在那邊點頭。",
+      "ChoiceDataList": [
+        "難得參加比賽，會想讓大家為妳喝采吧",
+        "難得參加比賽，會想讓大家為妳喝采吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "會嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "不過……我搞不太懂那是怎麼運作的。",
+      "ChoiceDataList": [
+        "嗯？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "就算大家不喜歡我，\n只要我是最強的，支持度就會是第一。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "某些情況下當然是這樣沒錯。\n但這兩者本質上還是不同。",
+      "ChoiceDataList": [
+        "……妳想變成人氣王嗎？",
+        "……妳想變成人氣王嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "啥！？\n少講這種事，聽了就噁心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "我只是在思考\n為什麼會是那樣而已。",
+      "ChoiceDataList": [
+        "因為不同的人身上有不同的故事",
+        "因為不同的人身上有不同的故事"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "故事……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "──對了……是什麼來著？「為了夢想或堅持\n而彼此認真較量的競爭對手」？",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "之前那個混帳黑粉說的話。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "他說因為我沒有那種競爭對手，\n所以沒辦法確定我是不是「真正的強者」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "還說我運氣不錯……\n真不爽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "不過，我不會再讓他們隨便亂說了。\n要讓他們通通閉嘴……對吧？",
+      "ChoiceDataList": [
+        "那妳能贏吧？",
+        "那妳能贏吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "哼。\n你還真敢挑釁我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "我不會給你沒有保證的希望。\n但……我也不會再說詛咒自己的話了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾們",
+      "Text": "啊，選手上場了！\n呀啊啊啊啊啊啊啊～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "在新綠耀眼的夏天前，這動人春天的尾聲……\n也就是我登場的時刻！\n來，所有人都把視線投向我，好好享受吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "嗯？看來需要來點飛吻吧！\n來，接著～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "怒濤，妳也來！\n我們一起炒熱氣氛吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "咦～～？\n那、那個……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "請、請收下～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（唔喔喔喔喔喔……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "咦咦！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "呵呵。\n我也不能輸給妳們呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "各位！\n謝謝你們為我加油！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "沒錯，你們的加油聲……就是我的力量。\n我會與優秀的勁敵們帶來令人雀躍的比賽，\n不會讓大家失望的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "──我也很期待能跟妳正面對決喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "我是不怎麼期待。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "咦……空中神宮真的很冷淡……\n不對，那樣已經是惹人厭了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "感覺有點掃興……\n她乾脆大鬧一場還比較有趣。\n她的個性不就是會那樣嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "（我運氣不錯？\n看到這狀況，誰還能說我運氣不錯？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "（什麼同世代，什麼勁敵……\n少把那些想法強加在我身上，跟我又無關。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "（我不是為了被人盯著看才來比賽。\n我是為了往上爬。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "──這就是我的堅持。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "（我不需要任何人的期待。只要比賽結束，\n你們就會明白什麼是「真正的強者」──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "今天我就要從這裡\n向上衝……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "Title": "專業度不輸訓練員的……？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "為了替<chrname>安排新的練習項目，\n我已經坐在辦公桌前好幾個小時了。\n正當我打算休息時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（叩門聲）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "訓練員，我是駿川。\n有客人來訪喔♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "駿川"
+      ]
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "我是閃耀月刊的乙名史。\n請問你有空嗎？",
+      "ChoiceDataList": [
+        "請進"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "打擾了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "你正在工作嗎？抱歉百忙之中打擾了。",
+      "ChoiceDataList": [
+        "是的，我在研擬練習項目"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "練習項目……\n那個，如果方便的話\n可以讓我看看嗎？",
+      "ChoiceDataList": [
+        "沒問題"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "謝謝。\n那我就不客氣了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "啊啊……嗯嗯，原來如此原來如此。\n真是太出色了……不過這樣的話……嗯嗯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……非常感謝你。\n內容非常有意思！",
+      "ChoiceDataList": [
+        "方便的話，可以聽聽妳的意見嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "可以嗎？\n我不過是一介記者，\n不知道我的意見會不會造成困擾……",
+      "ChoiceDataList": [
+        "不同角度的觀點也很重要"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "毫無成見地吸收一切養分，\n宛如黑洞般求知若渴的精神……\n實在太了不起了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "那就恕我冒昧了。\n首先是蹄鐵的部分，我想\n重新審視一下蹄鐵的形狀應該會有所幫助。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "從她的跑步姿勢看來，\n即使採用外框型的蹄鐵\n也不會造成太大的負擔──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "再來是現在這個時期，\n應該有不少賽馬娘遇上\n如何增進持久力的問題吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "從最近的成績秒數看來，\n多增加幾趟坡道訓練\n或許有幫助──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……就是這些了。都是些外行人的意見，\n若能幫上忙是我的榮幸。",
+      "ChoiceDataList": [
+        "原來如此……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然她滔滔不絕地發表長篇大論，\n但她闡述的意見非常有幫助……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "我之前就一直覺得妳懂得很多了……\n乙名史記者真的知道很多\n關於賽馬娘的豐富知識呢！",
+      "ChoiceDataList": [
+        "看來妳也有擔任訓練員的資質呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "太惶恐了。不……\n我只想謹守記者本分。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "非得是記者才行……",
+      "ChoiceDataList": [
+        "……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "……啊！\n乙名史記者，雜誌的工作沒關係嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "咦？啊！\n非常抱歉，我居然忘了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "今天的正事是這些雜誌！\n我想請你們看看這些\n「閃耀巨星巔峰賽」的宣傳狀況。",
+      "ChoiceDataList": [
+        "原來紙袋裡都是雜誌啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "好驚人的數量呢。其中不只有競賽雜誌……\n似乎還有賽馬娘的時尚雜誌、\n漫畫雜誌等等。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "沒錯！除了實體雜誌，\n同時也製作了網路特輯等等，\n所以這裡只是其中一小部份而已。",
+      "ChoiceDataList": [
+        "光雜誌就這麼多了，還只是一部分！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "我第一次聽到詳情時也很驚訝……！",
+      "ChoiceDataList": [
+        "再次感受到規模真的相當龐大呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "能聽到你們這麼說，\n也不枉費我一一去向每間媒體低頭拜託了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "不過，還不只這樣喔。\n距離正式比賽還有一段時間──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "我要活用這些時間更加盡力宣傳，\n我想將這次競賽打造成最棒的舞台，\n讓全體國民無不引頸期盼！",
+      "ChoiceDataList": [
+        "妳真是幹勁十足呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "畢竟這可是決定「最強」賽馬娘的舞台！\n我會向<username>訓練員看齊，\n燃燒生命也在所不惜的！",
+      "ChoiceDataList": [
+        "連我也得燃燒生命嗎",
+        "連我也得燃燒生命嗎"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "那當然！\n……啊，時間已經這麼晚了啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "我得回公司了，\n還有很多本專案的會議等著我去開。\n謝謝你的協助！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "她離開了。\n真是來去如風……",
+      "ChoiceDataList": [
+        "就是啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "啊，訓練員，\n你看過這本雜誌了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她一邊說著一邊向我遞出雜誌。\n雜誌上刊登著好幾位強者賽馬娘，\n其中赫然見到<chrname>的相關報導！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "報導說她是「有望成為最強的人選」喔。\n……你覺得呢？",
+      "ChoiceDataList": [
+        "老實說我很開心。不過……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "不過……？",
+      "ChoiceDataList": [
+        "希望未來有一天能有媒體為她製作整本特輯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "哎呀！說得也是，\n光是小篇幅報導\n有些意猶未盡呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "「最強賽馬娘\n<chrname>特輯號」！呵呵，我很期待\n讀到特輯的那一天喔♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我不認為<chrname>\n只是個「有望人選」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這天的訓練，\n我們比平時都更加充滿幹勁……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

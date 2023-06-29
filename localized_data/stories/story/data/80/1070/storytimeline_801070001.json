@@ -9,15 +9,15 @@
     },
     {
       "Name": "獨白",
-      "Text": "某天假日──\n我為了放鬆一下，決定到外面吃午餐，\n但菜單上寫滿了看起來很難的外文。",
+      "Text": "某天假日──\n我為了放鬆一下而決定到外面吃午餐，\n但菜單上卻寫滿了看起來很難的外文。",
       "ChoiceDataList": [
-        "（完全不懂在寫什麼……）"
+        "（完全看不懂……）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "？？？",
-      "Text": "哦，看你一副不熟悉法式料理的樣子嘛。",
+      "Text": "哦～\n看你一副不熟悉法式料理的樣子呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -38,7 +38,7 @@
     },
     {
       "Name": "天狼星象徵",
-      "Text": "可以啊，不過我只是教你。\n能不能享用到一頓美食，就看你自己了。",
+      "Text": "可以啊。不過我只是教你，\n至於能不能享用到美食，就看你自己了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -53,13 +53,13 @@
     },
     {
       "Name": "天狼星象徵",
-      "Text": "這樣啊，那你加油。\n祝你順利了。",
+      "Text": "這樣啊，那就加油吧。\n但願你順利成功。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "可是，我自己試著點了餐──",
+      "Text": "可是，當我試著自己點了餐──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -74,13 +74,13 @@
     },
     {
       "Name": "天狼星象徵",
-      "Text": "別露出那麼悲哀的表情啦，\n吃飯是件享受的事啊。",
+      "Text": "別露出那麼悲哀的表情嘛，\n吃飯是件享受的事耶。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星象徵",
-      "Text": "真沒辦法，我就幫你一下吧。\n來，借我盤子。",
+      "Text": "真沒辦法，我就幫你一下吧。\n來，盤子借我。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -114,31 +114,31 @@
     },
     {
       "Name": "天狼星象徵",
-      "Text": "呵、哈哈，哈哈哈！\n你別那麼警戒嘛，我又不會把你宰來吃。",
+      "Text": "噗，哈哈、哈哈哈！\n你別那麼警戒嘛，\n我又不會把你宰來吃。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星象徵",
-      "Text": "……現在是不會啦。",
+      "Text": "……還不會啦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星象徵",
-      "Text": "哦，真是老實的乖孩子。\n那首先，就從前菜開始──",
+      "Text": "哦～真是老實的乖孩子。\n那首先，就從前菜開始──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "天狼星象徵說完後，\n向我解釋了菜單的意思，\n並且代替我點了餐。然後──",
+      "Text": "天狼星象徵說著，\n邊向我解釋了菜單的意思，\n邊代替我點了餐。然後──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星象徵",
-      "Text": "有前菜、有湯，又有主菜，\n這樣餐點就平衡多了。",
+      "Text": "有前菜、有湯，又有主菜。\n還滿營養均衡的嘛。",
       "ChoiceDataList": [
         "謝謝妳教我！"
       ],
@@ -152,7 +152,7 @@
     },
     {
       "Name": "天狼星象徵",
-      "Text": "喂喂……\n現在就道謝有點言之過早吧？",
+      "Text": "喂喂……\n現在就道謝有點太早吧？",
       "ChoiceDataList": [
         "咦？"
       ],
@@ -166,7 +166,7 @@
     },
     {
       "Name": "天狼星象徵",
-      "Text": "很可惜，我只是示範給你看而已。\n也就是說，這些料理是我的。",
+      "Text": "很可惜，我只是示範給你看而已。\n也就是說這些料理都是我的。",
       "ChoiceDataList": [
         "咦咦……"
       ],
@@ -174,13 +174,13 @@
     },
     {
       "Name": "天狼星象徵",
-      "Text": "哈哈，你別露出這種表情啊！\n……這樣我會更想捉弄你的。",
+      "Text": "哈哈，你別露出這種表情啊！\n……這樣會讓我更想捉弄你的喔？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星象徵",
-      "Text": "來，這次換你自己點餐試試。\n我會好好看你點餐，看你是不是進步了啊。",
+      "Text": "來，這次換你自己點餐試試。\n我會好好看著你\n有沒有進步的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

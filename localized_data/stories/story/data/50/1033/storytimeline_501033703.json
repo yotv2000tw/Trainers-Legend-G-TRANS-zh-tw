@@ -1,5 +1,5 @@
 {
-  "Title": "言語之外……",
+  "Title": "言語＋……",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,7 +8,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "兒童組織的監護人",
+      "Name": "兒童會的監護人",
       "Text": "兩位儘管吃啊！\n不用費心幫忙啦～",
       "ChoiceDataList": [
         "謝謝您"
@@ -23,26 +23,26 @@
     },
     {
       "Name": "",
-      "Text": "一起外出後的歸途。\n一群面容熟悉的孩子們向我們搭話。",
+      "Text": "一起外出後的歸途。\n一群眼熟的孩子們向我們搭話。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "精神十足的女孩",
-      "Text": "果然沒錯！\n你們是上次幫助了怒濤姐姐的英雄大姐姐！",
+      "Text": "果然沒錯！\n你們是上次幫了怒濤姐姐的英雄大姐姐！",
       "ChoiceDataList": [
         "啊，探訪傳說中的刀那天的……"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "兒童組織的監護人A",
-      "Text": "唉呀唉呀！我聽孩子們說了喔。\n聽說都是多虧了妳，\n好歌劇才能順利創作出新戲呢！",
+      "Name": "兒童會的監護人A",
+      "Text": "唉呀唉呀！我聽孩子們說了喔。\n聽說都是多虧了妳，\n好歌劇才能順利完成新戲呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "兒童組織的監護人B",
+      "Name": "兒童會的監護人B",
       "Text": "孩子們好像也很高興喔，一直喊著想快點看看呢。\n不嫌棄的話，要不要來我們的燒烤派對玩呀？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -67,12 +67,12 @@
     },
     {
       "Name": "",
-      "Text": "就這樣，我們決定參加燒烤派對。\n但愛慕織姬看起來\n似乎仍然有所顧慮……",
+      "Text": "就這樣，我們來到了燒烤派對。\n但愛慕織姬看起來\n似乎仍然有所顧慮……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "兒童組織的監護人B",
+      "Name": "兒童會的監護人B",
       "Text": "──欸，唉呀？食材用光了。\n我再去多採買一些吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -84,8 +84,8 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "兒童組織的監護人B",
-      "Text": "咦，不要啦，妳坐著就好！\n妳是客人耶，而且要買的東西很多喔！",
+      "Name": "兒童會的監護人B",
+      "Text": "咦，不用啦，妳坐著就好！\n妳是客人耶，而且要買的東西很多喔！",
       "ChoiceDataList": [
         "我也會陪她一起去的",
         "我也會陪她一起去的"
@@ -106,7 +106,7 @@
     },
     {
       "Name": "",
-      "Text": "面前的紙箱堆積如山。\n就算抬得起來，\n但實在沒辦法搬著這些箱子走動還維持不倒。",
+      "Text": "眼前的紙箱堆積如山。\n就算抬得起來，\n但搬著這些箱子實在難以維持平衡。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -123,7 +123,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "──呼！搬到這裡就行了吧！\n好，把東西從推車上卸下來吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -135,7 +135,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "不用在意啦！\n剛好我今天正打算大採買，\n才會帶著推車來的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -153,7 +153,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "那我先走啦！\n你們請盡量玩啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -165,19 +165,19 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "兒童組織的監護人A",
+      "Name": "兒童會的監護人A",
       "Text": "是啊是啊，先別急著走嘛！\n為了感謝妳幫忙搬東西，\n當然得請妳留下來吃一頓呀♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "咦，可以嗎！？\n那……謝謝妳的好意。\n那我就打擾了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "嘿嘿嘿。\n這份心意真令人開心！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -196,7 +196,7 @@
     },
     {
       "Name": "名將怒濤",
-      "Text": "但、但是但是，光是道謝還不夠……啊！\n還是別喝飲料，去吃點東西～？\n像是冰淇淋啊，胡蘿蔔燒也不錯！還有──",
+      "Text": "但、但是但是，光是道謝還不夠……啊！\n還是別喝飲料，去吃點東西～？\n像是冰淇淋啊、烤胡蘿蔔也不錯！還有──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -208,7 +208,7 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……速王，\n我來烤吧。妳坐著等就好。",
+      "Text": "……成田路，\n我來烤吧。妳坐著等就好。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -231,7 +231,7 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……我覺得我似乎稍微能理解\n當時怒濤的心情了。",
+      "Text": "……我覺得我似乎稍微能理解\n怒濤當時的心情了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -243,7 +243,7 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……覺得光道謝還不夠的心情。\n原來還有這種心情啊。",
+      "Text": "……覺得光道謝還不夠，\n原來還有這種心情啊。",
       "ChoiceDataList": [
         "那就得為她烤出好吃的料理了呢！",
         "那就得為她烤出好吃的料理了呢！",
@@ -253,7 +253,7 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……覺得光道謝還不夠的心情。\n原來還有這種心情啊。",
+      "Text": "……覺得光道謝還不夠，\n原來還有這種心情啊。",
       "ChoiceDataList": [
         "那就得為她烤出好吃的料理了呢！",
         "那就得為她烤出好吃的料理了呢！",
@@ -268,8 +268,8 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "兒童組織的監護人",
-      "Text": "呵呵！真的很謝謝兩位哪。\n我也來烤些好吃的肉給兩位吧！",
+      "Name": "兒童會的監護人",
+      "Text": "呵呵！真的很謝謝兩位啊。\n我也來烤些好吃的肉給兩位吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -293,7 +293,7 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……不過特地說出口還挺害臊的。",
+      "Text": "……不過真要說出口還挺難為情的。",
       "ChoiceDataList": [
         "唉呀唉呀，別這麼說嘛！"
       ],
@@ -307,7 +307,7 @@
     },
     {
       "Name": "",
-      "Text": "愛慕織姬不停地往我的盤子上\n堆疊烤好的蔬菜與肉，\n害我沒有時間繼續回嘴。",
+      "Text": "愛慕織姬不停地往我的盤子\n堆疊烤好的蔬菜與肉，\n害我沒有時間繼續回嘴。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

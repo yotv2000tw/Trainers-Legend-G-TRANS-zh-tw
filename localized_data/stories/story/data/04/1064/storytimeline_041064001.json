@@ -1,0 +1,323 @@
+{
+  "Title": "無法起步的我",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──我又錯失機會了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "好不容易在選拔賽中發現中意的選手，\n她卻在我出聲之前，被其他訓練員簽走了……",
+      "ChoiceDataList": [
+        "唉……真令人沮喪……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "喔～～～你嘆了好大一口氣呢～",
+      "ChoiceDataList": [
+        "咦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "開朗的賽馬娘",
+      "Text": "啊哈哈！抱歉抱歉，嚇到你了嗎？\n我本來在那邊的陰影下午睡，忍不住就過來看看了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "開朗的賽馬娘",
+      "Text": "所以，你為什麼沮喪？可以告訴我嗎？\n光是說出來，感覺就會輕鬆多囉。",
+      "ChoiceDataList": [
+        "不用了，這種事不該告訴學生……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "開朗的賽馬娘",
+      "Text": "嗯，原來如此～所以是工作上的煩惱囉？\n或是目擊了不能曝光的學園黑暗面！之類的……！？",
+      "ChoiceDataList": [
+        "不是，是工作上的煩惱……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "開朗的賽馬娘",
+      "Text": "啊哈哈！這樣啊，是工作上的煩惱啊～\n當訓練員很辛苦吧～你現在有專任賽馬娘嗎？",
+      "ChoiceDataList": [
+        "我、我本來有中意的人選，可是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "開朗的賽馬娘",
+      "Text": "可是，你沒有當上她的專任訓練員對吧。\n所以所以──？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是我的心事三兩下就被挖出來了……\n在說出口的同時，不知不覺間心裡輕鬆多了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "開朗的賽馬娘",
+      "Text": "既然已經振作起來了，要不要再去看一次選拔賽啊？",
+      "ChoiceDataList": [
+        "謝謝妳，我會試試看的。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "開朗的賽馬娘",
+      "Text": "呵呵，那我等你喔！\n因為下場比賽……我會出場喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "開朗的賽馬娘",
+      "Text": "啊哈哈，而且還是蓄勢待發的首次參賽！你很在意吧～？\n……開玩笑的，只是在宣傳啦，你就輕鬆地來觀戰吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "開朗的賽馬娘俏皮地笑著，\n看著這樣的她，我忍不住開口問道。",
+      "ChoiceDataList": [
+        "等等──妳叫什麼名字？",
+        "等等──妳叫什麼名字？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "開朗的賽馬娘",
+      "Text": "嗯，我？我的名字是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅訓練員A",
+      "Text": "今天最受矚目的果然是「目白雷恩」！\n她看起來狀態很好……！哇啊，太令人期待了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅訓練員B",
+      "Text": "咦，旁邊的也是目白家的人啊……？\n名字叫目白～什麼的……她不怎麼出色呢。",
+      "ChoiceDataList": [
+        "（她是「目白善信」……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──在屋頂上遇到的她，是名門目白家的賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白家是誕生了不少優秀賽馬娘的名門，\n其賽馬娘都冠有「目白」之名。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "尤其是目白雷恩與目白麥昆等，\n才華特別突出的選手，從踏進學園起就蔚為話題。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "喔，是你啊！你來啦～！！\n你要幫我加油喔～我今天會努力的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "雖然我完全不如雷恩那麼受矚目就是了。\n啊哈哈，他們說我不怎麼出色耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "……不過，你看著吧。我也是目白家的賽馬娘。\n不在這裡跑出成績，有辱目白家之名！",
+      "ChoiceDataList": [
+        "嗯……我會為妳加油！",
+        "嗯……我會為妳加油！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她的口氣仍然開朗，但有一瞬間似乎露出了僵硬的表情，\n就這樣，她的比賽終於開始了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白善信跑在前頭，一路領先。\n……一眼就可以看出，她的姿勢優美到堪稱模範。",
+      "ChoiceDataList": [
+        "（是名門千金的跑法嗎？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但是，就在比賽進入尾聲時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "──就是這裡！喝啊啊啊啊啊啊────！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "嗚……！呼、呼、呼、呼……！",
+      "ChoiceDataList": [
+        "（咦，目白善信……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "開始衝刺的賽馬娘們一一追過了她。\n與焦急的表情相反，跑姿仍是堅持不變的「優美」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她「跑得太守規矩」，\n像是退入了守勢──",
+      "ChoiceDataList": [
+        "（她跑得有些死板了……）",
+        "（她跑得有些死板了……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "呼……呼……啊～～～可惡，居然是最後一名……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "這樣不行！\n目白家的賽馬娘跑成這樣，大家會──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅訓練員A",
+      "Text": "妳果然是第一名！目白家名不虛傳！\n事不宜遲，可以來談談嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅訓練員B",
+      "Text": "嗯，不愧是目白家！強得不負眾望！\n請來我們隊伍……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "哇啊……可、可以照順序來嗎？\n在這邊會妨礙到別人，到那邊說……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "……啊，哈哈。真是的，什麼「有辱目白家之名」，\n我在白操什麼心！根本沒人提到我的名字嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "我根本不用在意嘛～！\n不受矚目……自然也不會有人失望。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "…………這是真的呢……",
+      "ChoiceDataList": [
+        "……請問"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "喔……啊哈，你好你好～！比賽怎麼樣？\n有找到好選手嗎？啊，當然就是雷恩了～對吧！",
+      "ChoiceDataList": [
+        "沒這回事──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "沒關係沒關係，我明白的！目白家多得是有才華的選手。\n不把我放在眼裡也是沒辦法的事！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "不過我當然沒有放棄喔，既然現在這樣不行，\n我只能變得更強了。我沒時間沮喪了～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "接下來得立刻開始訓練才行！\n要增加持久力，從基礎開始重新檢視──",
+      "ChoiceDataList": [
+        "這樣真的好嗎……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "咦……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看了比賽後，我覺得「必須不負『目白家』之名」\n這個想法，給現在的她帶來了壓力……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這使得她的跑法變僵硬了。\n遵守基本原則是好事，但偶爾也有選手不適用這方法……",
+      "ChoiceDataList": [
+        "或許有更適合妳的風格……",
+        "或許有更適合妳的風格……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "！適合我的風格……？\n那是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "…………沒事，謝謝你！！\n我會……想想看的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

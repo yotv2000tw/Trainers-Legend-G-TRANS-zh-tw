@@ -1,0 +1,727 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某一天，我碰巧在路上遇見空中神宮。\n於是我們一起走回學園，這時候……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，好玩的抽獎活動！\n歡迎大家來抽喔～！",
+      "ChoiceDataList": [
+        "感覺挺有趣的",
+        "感覺挺有趣的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "空中神宮看起來不感興趣……\n不過剛才買東西的時候，\n我拿到了一張抽獎券。",
+      "ChoiceDataList": [
+        "要不要抽抽看？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "為什麼要問我？\n你想抽就抽。",
+      "ChoiceDataList": [
+        "如果是妳抽，感覺會抽中想要的東西"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "我說你啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "抽獎不是看中哪個獎品才去抽，\n要享受不知道會抽中什麼的樂趣才對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "真不浪漫啊。",
+      "ChoiceDataList": [
+        "……妳真的這麼覺得？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "怎麼可能。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看來空中神宮對抽獎不抱興趣。\n只是如果能抽中特獎的溫泉旅行──",
+      "ChoiceDataList": [
+        "（或許能讓她休息喘口氣）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "那個……\n你們要抽嗎？還是不抽呢？",
+      "ChoiceDataList": [
+        "我們要抽！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "噢。\n看中的獎品當然是……！",
+      "ChoiceDataList": [
+        "溫泉旅行！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "你是打算試個幾萬次嗎？\n不可能抽中的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……好啦，快抽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "空中神宮表現出了些微興趣……\n在她的注視下，我轉動了抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "哦～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "這結果……\n挺有意思的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "喂，到今天為止總共有多少人來抽過？\n特獎在所有彩券裡面占多少比例？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "還有客群的分布、轉抽獎機的方式……\n到目前為止的這些數據有沒有整理？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "呃……\n這我不太清楚耶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "喔，說得也是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "不過小姐，你們抽中特獎了耶……\n妳不開心嗎？是溫泉喔，溫泉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "想去泡溫泉的是那傢伙。\n我不在乎。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "那麼訓練員！\n好好享受溫泉旅行啊！",
+      "ChoiceDataList": [
+        "喔，好……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "你不是想抽到溫泉旅行嗎？\n表現得高興點啊。",
+      "ChoiceDataList": [
+        "妳是不是不喜歡泡溫泉？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "啥？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "溫泉本身是無所謂，\n但我討厭溫泉旅行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "旁邊隨時都有人，光這點我就不行。\n而且跟別人一起泡是有什麼意義？",
+      "ChoiceDataList": [
+        "那妳平常泡澡怎麼辦？",
+        "那妳平常泡澡怎麼辦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "挑沒人的時間去，\n沖完澡就走。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "需要泡澡的時候我會泡，\n沒必要的時候就不想泡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看樣子她原本就不喜歡泡澡，\n能去泡溫泉似乎也不會讓她覺得開心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……話說你問這個要做什麼？\n你平常不是都會跟我保持距離？",
+      "ChoiceDataList": [
+        "只是好奇而已"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……如果只是好奇，\n問的點也太噁了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是我暫時不知道該怎麼處理\n這份幸運抽中的溫泉旅遊券……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "一獎啊。\n可惜沒抽中你想要的。",
+      "ChoiceDataList": [
+        "但是很棒啊，不是嗎？",
+        "但是很棒啊，不是嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "以結果來說算是吧。\n只是要看這東西是不是自己想要的。",
+      "ChoiceDataList": [
+        "獎品送妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "我不需要。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "咦？有滿多賽馬娘都是\n為了胡蘿蔔漢堡排才來抽獎的說。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "是喔。\n我沒興趣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "可是這個超～～～～級好吃喔！\n是集結了肉舖、麵包店、蔬果行、餐廳……\n商店街的各方優秀人才所推出的自信之作！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "聽到沒。\n不錯啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "咦？\n這樣講妳也沒興趣喔？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "既然是不可或缺的營養素，\n我會自己攝取。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "不是啊！我們也是有自尊心的！\n我們設計這個獎品也是為了想讓賽馬娘吃得高興。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "小姐，在妳露出笑容之前，\n我不會讓妳走的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "啥？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "老媽！妳在不在──！？\n現在立刻來這裡煎漢堡排！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "啥？\n喂，我說了不用。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "最後空中神宮不得已，\n只能當場品嚐特等胡蘿蔔漢堡排。\n她吃了之後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……好吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "太好啦～～！\n我就說吧？好吃對吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "嗯，我對味道不太了解，不過不錯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "那就給我們一個笑容──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "不要。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她一口拒絕，\n並且把漢堡排一口不剩地吃光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……橘色。",
+      "ChoiceDataList": [
+        "嗯，是橘色……",
+        "嗯，是橘色……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "營養滿分！\n請好好享用吧～",
+      "ChoiceDataList": [
+        "（拿去分給學園裡的學生好了）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "對了，獎品也可以幫你們宅配……\n不過既然有賽馬娘在，你們要不要一起搬回去？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……",
+      "ChoiceDataList": [
+        "不用，我自己扛回去就可以了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "啥？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "這很重喔～\n沒問題嗎？",
+      "ChoiceDataList": [
+        "我平常都會鍛鍊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "安排空中神宮的訓練項目時，\n有時為了要理解項目內容，我會親自嘗試。\n我相信自己的肌力比同年代的一般人優秀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……至少借台推車吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "帶著大量胡蘿蔔返回學園的路上，\n我聽從空中神宮的建議，\n跟商店街的人借了推車，但是──",
+      "ChoiceDataList": [
+        "（重…………得要死……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "大概是因為我真的走得很慢，\n結果空中神宮一個人先回去了……",
+      "ChoiceDataList": [
+        "（是我自己說要扛的，我要加油！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就在我緩慢前進的時候──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "啊！你就是那個\n「發胡蘿蔔的訓練員」嗎？",
+      "ChoiceDataList": [
+        "發胡蘿蔔的訓練員！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "我是在Umatter上看到有人轉發的！\n貼文寫說有個訓練員正往學園的方向前進，\n他打算要發很多胡蘿蔔呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "還說如果快點過去的話，\n就可以拿到比較多胡蘿蔔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "那我就不客氣了。\n……我要盡量多拿點！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "啊！我們也要，\n請給我們胡蘿蔔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，賽馬娘紛紛聚集過來，\n我都還來不及反應，\n胡蘿蔔就一根根減少……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "等回到學園時，所有胡蘿蔔都分完了。\n我原本就打算把胡蘿蔔送給學生們，\n這樣省了運送的力氣，輕鬆許多。",
+      "ChoiceDataList": [
+        "（轉發消息的該不會是……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……明天見面時再向她道謝吧。\n我心裡這麼想著，結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "啊！是發胡蘿蔔的訓練員！\n你好～",
+      "ChoiceDataList": [
+        "妳、妳好……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這個莫名其妙的暱稱讓我苦惱了一陣子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "可惜。\n只抽中一根胡蘿蔔。",
+      "ChoiceDataList": [
+        "溫泉……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "抽獎就是這樣。\n快去領獎。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……感覺挺好笑的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "手裡拿著一根胡蘿蔔，\n不知道該怎麼辦的樣子……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……或許現在是逗樂空中神宮的好機會！\n於是我把胡蘿蔔當成劍高高舉起──",
+      "ChoiceDataList": [
+        "這樣呢！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "不，這種的就免了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "特意做這種動作真的很難笑，\n剛才很自然才好笑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "還有，我也不喜歡別人迎合我。\n你別太得意忘形了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……之後我把那根胡蘿蔔帶回家享用，\n它吃起來相當細緻甘甜……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "他說沒抽中。",
+      "ChoiceDataList": [
+        "真可惜……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "以機率來講就是這樣吧。",
+      "ChoiceDataList": [
+        "我本來想帶妳去泡溫泉的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……啥？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……原來你在打這種主意喔？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "我又不想去，\n你是在沮喪個什麼勁？真煩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她雖然嘴上這麼說，但我覺得……\n她似乎也感到有點遺憾……\n也可能是我誤會了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

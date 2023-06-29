@@ -9,19 +9,19 @@
     },
     {
       "Name": "觀眾A",
-      "Text": "這次的「大阪盃」\n果然還是氣槽會贏吧！\n其他賽馬娘完全不在同個水準，差太多了！",
+      "Text": "這次的「大阪盃」\n果然還是氣槽會贏吧！\n其他賽馬娘等級完全不同，差太多了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "觀眾A",
+      "Name": "觀眾B",
       "Text": "今天也想陶醉在「女帝」的光芒中……！\n氣槽加油～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "多伯的女性粉絲",
-      "Text": "唔唔，果然一面倒地支持氣槽啊……\n多伯，別輸給現場氣氛……！",
+      "Text": "唔唔，果然一面倒地支持氣槽呢……\n多伯，別輸給現場氣氛了……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -33,19 +33,19 @@
     },
     {
       "Name": "目白多伯",
-      "Text": "你有查覺到……看台的氣氛嗎？\n氣槽前輩的支持度\n果然很誇張啊。",
+      "Text": "看台上的氣氛……感覺到了嗎？\n氣槽前輩的支持度\n果然很不得了呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "……不過，這就是我目前所處的位置。\n跟「全新的榮耀」差得太遠了。",
+      "Text": "……不過，這就是我目前所處的位置。\n距離「嶄新的榮光」，還很遠。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "正因為這樣……！\n這場比賽，我一定要追上氣槽前輩！",
+      "Text": "正因如此……！\n這場比賽，我一定要追上氣槽前輩！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -53,26 +53,20 @@
       "Name": "目白多伯",
       "Text": "必須盡可能地接近我的「理想」……！",
       "ChoiceDataList": [
-        "不要太費神囉",
-        "不要太費神囉"
+        "別太激動喔",
+        "別太激動喔"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "……我明白。\n畢竟前輩不是我光靠意志力就能撼動的對手。",
+      "Text": "……我明白。\n何況前輩不是光靠意志力就能應付的對手。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "……嗯。畢竟前輩\n不是我光靠意志力就能撼動的對手。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "那麼……我上場了。",
+      "Text": "……嗯。\n畢竟前輩不是光靠意志力就能應付的對手啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -84,7 +78,13 @@
     },
     {
       "Name": "目白多伯",
-      "Text": "前輩──\n今天請多指教……！",
+      "Text": "那麼……我上場了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "前輩──\n今天，還請多多指教……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },

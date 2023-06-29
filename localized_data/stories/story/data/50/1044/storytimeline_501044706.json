@@ -1,0 +1,390 @@
+{
+  "Title": "我才不要回去！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "──不～要！\n我還不想回～去～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我和東商變革一起出門，\n但在回程路上遇到了一點麻煩……",
+      "ChoiceDataList": [
+        "可是再不回去的話……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "為什麼？\n又還沒到晚上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "我想去更遠的地方，\n也想吃甜食！",
+      "ChoiceDataList": [
+        "呃，可是──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "接下來才是魔女的時間！\n我絕對不要回去！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……雖然她出門玩得很開心是件好事，\n但如果今天不早點回去，\n會對她之後的行程造成影響。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩們",
+      "Text": "啊哈哈……！\n快來追我啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "此時，我碰巧看到一群小孩，\n他們似乎是在把握回家前的最後一刻盡情地玩耍。",
+      "ChoiceDataList": [
+        "那就盡情地玩吧！",
+        "我們去通過那個魔法陣吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "哼！\n你一開始就該這樣講！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "那就去搭電車──",
+      "ChoiceDataList": [
+        "我去找那些小孩一下",
+        "我去找那些小孩一下"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……啥！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我去拜託那些孩子讓我們加入，\n雖然他們一下就答應了……",
+      "ChoiceDataList": [
+        "變革也過來吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "不要！\n小孩子的遊戲我沒興趣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩A",
+      "Text": "那個姐姐不過來嗎～？\n那我們繼續賽跑吧！",
+      "ChoiceDataList": [
+        "啊，嗯、嗯……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……唔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "唔、唔、唔唔唔唔唔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果害東商變革越來越不高興了。\n正當我想著該怎麼做\n才能讓她也一起開心地玩時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩B",
+      "Text": "可以幫我折這根樹枝嗎？\n我想做成劍。",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "做成劍……\n這樣東商變革或許會願意一起玩！",
+      "ChoiceDataList": [
+        "看來需要用魔法呢……",
+        "看來需要用魔法呢……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "！\n你剛才說了魔法？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩B",
+      "Text": "不用吧，\n只要用大人的力量折斷就可以了。",
+      "ChoiceDataList": [
+        "啊……啊～！那裡正好有個魔女！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩A",
+      "Text": "咦？\n那個姐姐會用魔法嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩C",
+      "Text": "欸～！好厲害～！\n我想看～！讓我看～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……！",
+      "ChoiceDataList": [
+        "變革，妳可以幫他們施魔法嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "受不了！\n真～拿你們沒辦法♪♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "──活力十足☆異果菊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（折斷！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩們",
+      "Text": "好厲害，變出兩把劍了～！\n為什麼有辦法折得這麼漂亮！？\n真的就像魔法一樣……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "真的就是魔法啦！\n因為我找到最脆弱的地方，\n把魔力集中在那一點了！",
+      "ChoiceDataList": [
+        "（與其說是魔力不如說是臂力……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "拿去，這是蘊含特殊魔力的劍。\n要好好珍惜喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩B",
+      "Text": "呃……嗯，謝謝妳……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "東商變革心情變好之後便和小孩們玩在一起……\n結果！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "──我累了，回去吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "魔法陣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "你是說那些……\n一下要單腳踩，一下要雙腳踩的圓形嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "東商變革指向的地上，\n有小孩子畫的一排圓形。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "那些都只是小孩子的塗鴉吧。\n根本沒有任何力量。",
+      "ChoiceDataList": [
+        "……偷偷告訴妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……怎樣？",
+      "ChoiceDataList": [
+        "那個魔法陣，其實是這一帶的魔女畫的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "再跟我說詳細一點！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我告訴她那些圓裡面有魔力，\n這種魔法陣只要通過越多就能獲得越多力量……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……真的嗎？",
+      "ChoiceDataList": [
+        "（驚！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "看來只能實際試試看了。\n步驟呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（跳、跳、跳……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……！\n哇啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "好厲害！\n魔力不斷湧現……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "欸，這真的是魔法陣耶……！\n好厲害好厲害！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "其實不是魔法陣……\n但或許是安慰劑效應吧，\n她似乎玩得很開心。",
+      "ChoiceDataList": [
+        "（再來只要引導她回學園……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……咦？\n力量逐漸消失了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……我知道了！\n這個魔法陣還沒完成對吧！？",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "使魔，快想想辦法！\n效果快沒了！",
+      "ChoiceDataList": [
+        "咦！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "快點！\n快一點啦～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "──好，接下來要跳去那個白色的地方對吧？\n看我的──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後我費盡心思把行人穿越道的白色部分\n比喻成魔法陣的延續……\n最後總算成功帶她回到學園。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "喂，又沒有了！\n下一個魔法陣在哪裡～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

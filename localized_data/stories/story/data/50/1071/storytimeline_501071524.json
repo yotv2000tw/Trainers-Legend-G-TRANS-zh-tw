@@ -1,5 +1,5 @@
 {
-  "Title": "玻璃之腳",
+  "Title": "玻璃細腳",
   "TextBlockList": [
     {
       "Name": "",
@@ -27,7 +27,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "（────嗶嘰！）",
+      "Text": "（────啪嘰！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -41,7 +41,7 @@
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "……我沒事的。",
+      "Text": "……我沒事。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -57,8 +57,8 @@
       "Name": "目白阿爾丹",
       "Text": "…………非常抱歉。\n都怪我太不中用了──",
       "ChoiceDataList": [
-        "不。是我作為訓練員太怠慢了",
-        "不。是我作為訓練員太怠慢了"
+        "不對。是我作為訓練員太懈怠了",
+        "不對。是我作為訓練員太懈怠了"
       ],
       "ColorTextInfoList": []
     },
@@ -70,13 +70,13 @@
     },
     {
       "Name": "獨白",
-      "Text": "……最近連續出賽，\n似乎讓目白阿爾丹的腳\n承受了過多的負擔……",
+      "Text": "……最近連續出賽，\n似乎對目白阿爾丹的腳\n造成了過多的負擔……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "看來有必要審視之後的參賽行程，\n再次重新調整，\n盡量避免連續出賽……",
+      "Text": "看來有必要好好審視之後的參賽行程，\n並重新進行調整，\n盡量避免讓她連續出賽……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

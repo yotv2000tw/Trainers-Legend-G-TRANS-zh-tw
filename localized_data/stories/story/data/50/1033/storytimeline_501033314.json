@@ -1,5 +1,5 @@
 {
-  "Title": "菊花賞結束後．向黑暗墜落",
+  "Title": "菊花賞結束後．墜落",
   "TextBlockList": [
     {
       "Name": "",
@@ -15,7 +15,7 @@
     },
     {
       "Name": "播報員",
-      "Text": "好歌劇！冠軍是好歌劇！！\n菊花頭冠在歌劇王的頭頂\n綻放光芒！",
+      "Text": "好歌劇！是好歌劇！！\n菊花頭冠在歌劇王的頭頂上，\n閃閃發亮！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -45,7 +45,7 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "都怪我忘記最重要的事情……\n都怪我只顧忙著那些傻事……！！",
+      "Text": "都怪我忘記了……\n都怪我只顧著忙那些傻事……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -56,20 +56,20 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "織姬……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我回到自己的辦公室，回想著今天的比賽。",
+      "Text": "我回到自己的房間後，回顧起今天的比賽。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -81,7 +81,7 @@
     },
     {
       "Name": "",
-      "Text": "她本人胸懷「將至高無上的榮耀獻給過世的妹妹」\n一大目標，若考慮到這點來決定下一場賽事，\n或許如年底的「有馬紀念」──",
+      "Text": "考慮到她「將至高無上的榮耀獻給過世的妹妹」\n這個重要目標，接下來該鎖定的競賽，\n應該是例如年底的「有馬紀念」──",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "有馬紀念"
@@ -89,9 +89,9 @@
     },
     {
       "Name": "",
-      "Text": "或是春季資深三冠路線也不錯。\n我們目前也已開始針對這些目標著手進行準備。",
+      "Text": "或者是春季資深三冠路線吧，\n我們目前也已針對這些目標著手進行準備。",
       "ChoiceDataList": [
-        "……先把這些都忘掉吧"
+        "……先把這些都歸零吧"
       ],
       "ColorTextInfoList": [
         "資深"
@@ -99,13 +99,13 @@
     },
     {
       "Name": "獨白",
-      "Text": "該先讓她好好休息一段時間。\n……這也是為了讓她能「不斷實現」她的目的。",
+      "Text": "該先讓她好好休息一段時間。\n……這也是為了讓她能「持續實現」她的目的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "下一場目標比賽，\n就放眼明年夏天來臨前的「寶塚紀念」吧。\n為了向她本人說明這個計畫，我開始著手準備。",
+      "Text": "下一場目標比賽，\n就放眼明年夏天以前的「寶塚紀念」吧。\n為了向她本人說明這個計畫，我開始著手準備。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "寶塚紀念"
@@ -131,7 +131,7 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "（得再把自己逼得更緊。得再奉獻更多。\n繼續……再更多，直到到達極限……）",
+      "Text": "（得把自己逼得更緊。得再奉獻更多。\n繼續……繼續，直到極限……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -154,7 +154,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "……晚安。妳要去哪呢？\n門禁時間快到了喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -166,19 +166,19 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "訓練……是嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
-      "Text": "順便問一下，\n妳有告知專任訓練員妳要去夜間訓練嗎？",
+      "Name": "成田路",
+      "Text": "順便問一下，\n妳有告知過專任訓練員嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "……我猜一定沒有，對吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -190,20 +190,20 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
-      "Text": "織姬。……請妳別逞強。",
+      "Name": "成田路",
+      "Text": "織姬……請妳別逞強。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
-      "Text": "妳昨天才剛正式比賽完喔。\n至少讓身體稍微休息一下……！",
+      "Name": "成田路",
+      "Text": "妳昨天才剛比完正式比賽喔。\n至少讓身體再稍微休息一下……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "那又不重要。",
+      "Text": "那又如何。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -214,20 +214,20 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "有、有關係的！\n妳在胡說什麼嘛……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
-      "Text": "無論是皋月賞還是日本打比，連菊花賞時也是！\n不對，甚至從更早之前起，\n同期的我們，這一路下來不都老是一起奔跑嗎！？",
+      "Name": "成田路",
+      "Text": "無論是皋月賞、日本打比，還是菊花賞！\n不對，甚至從更早之前起，\n同期的我們，這一路下來不都老是一起奔跑嗎！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
-      "Text": "老是一起奔跑、互相比個高下……\n我們是同期夥伴，不是嗎？",
+      "Name": "成田路",
+      "Text": "老是一起奔跑、互相比個高下……\n我們是夥伴，不是嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -238,8 +238,8 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
-      "Text": "不可以再逞強害自己受傷了！\n請妳再更重視自己一點！",
+      "Name": "成田路",
+      "Text": "不可以再逞強害自己受傷了！\n妳也要重視自己！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -250,19 +250,19 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "拜託妳了，\n今天就回房間好好休息吧……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "先充分休息，等妳恢復精神後，\n再好好鍛鍊，然後……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "然後我們再來比賽──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -275,19 +275,19 @@
     },
     {
       "Name": "獨白",
-      "Text": "伸出的手被狠狠甩開，\n在黑暗的夜色之中發出生硬的聲響。",
+      "Text": "成田路伸出的手被狠狠甩開，\n在黑暗的夜色中發出生硬的聲響。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "織……姬──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛慕織姬",
-      "Text": "……別這樣。不要再說了。",
+      "Text": "……別這樣。夠了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -298,7 +298,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "成田速王",
+      "Name": "成田路",
       "Text": "啊……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -329,7 +329,7 @@
     },
     {
       "Name": "愛慕織姬",
-      "Text": "所以。……所以，拜託妳了。",
+      "Text": "所以……所以，拜託妳了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -341,13 +341,13 @@
     },
     {
       "Name": "獨白",
-      "Text": "四周皆是濃郁的暗色，彷彿要將所有一切\n皆抹上漆黑色彩的黑夜之中──",
+      "Text": "四周皆是濃郁的暗色，彷彿要將所有一切\n罩上漆黑的暗夜之中──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "為了迎戰「寶塚紀念」而統整好的資料，\n正沐浴著微微的星光。",
+      "Text": "為了迎戰「寶塚紀念」而統整好的資料上，\n灑落一抹細碎的星光。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

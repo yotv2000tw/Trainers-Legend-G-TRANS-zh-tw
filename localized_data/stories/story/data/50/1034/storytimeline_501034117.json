@@ -1,0 +1,632 @@
+{
+  "Title": "那就是祭典之心「瀟灑」",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "稻荷一開始在宿舍靜養後，\n又過了好幾天──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "……所以，\n我們現在要去哪？\n太陽都要下山了耶。",
+      "ChoiceDataList": [
+        "妳到了之後就知道囉"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "唉，什麼東西啦。\n算了，怎樣都好──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "明明沒時間做這種事了，\n我到底在做什麼啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "稻荷一的內心仍十分沉重，\n我帶著這樣的她前往某處。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "──欸，大哥！\n這是怎麼回事？\n這輛巴士的目的地不正是我家鄉嗎！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "──欸，大姐！\n這是怎麼回事？\n這輛巴士的目的地不正是我家鄉嗎！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "為什麼現在──",
+      "ChoiceDataList": [
+        "現在我希望妳相信我這個夥伴",
+        "現在我希望妳相信我這個夥伴"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "…………我知道了。\n畢竟大哥對我恩重如山。\n我就跟著去一下吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "…………我知道了。\n畢竟大姐對我恩重如山。\n我就跟著去一下吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，當太陽即將西沉時，\n我們抵達了目的地──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "這是怎麼回事──",
+      "ChoiceDataList": [
+        "是祭典喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "這、這種事我看了也知道！\n我問的是為什麼這地方\n會在這時舉辦祭典──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "──等等。\n那邊寫的那些字是……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "「長於庶民區的知名賽馬娘」……\n「稻荷一」……「祈求康復祭」……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "這──\n這是怎麼回事啊，喂！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "師傅",
+      "Text": "──什麼嘛。\n妳比我聽說的還要有精神多了嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "師傅──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "紫色髮圈的賽馬娘",
+      "Text": "稻荷姐！辛苦了！！\n今天選手隊的人都來了，\n好好享受吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的大叔",
+      "Text": "小稻！不管是年輕的還是我們這些老頭，\n今天都總動員了！\n就來大鬧一場如何！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的大嬸",
+      "Text": "真是的～小稻妳好久沒回來，\n聽到妳要來，我們這些大嬸也拚上了命呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "大家……為什麼……",
+      "ChoiceDataList": [
+        "這是庶民區的大家為妳辦的喔",
+        "這是庶民區的大家為妳辦的喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "師傅",
+      "Text": "哼，什麼「庶民區的大家」。\n也太見外了吧，訓練員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "師傅",
+      "Text": "第一個跑來跟我商量，\n四處低頭求當地居民幫忙，\n領著大家準備祭典忙到今天的是誰啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "大哥──",
+      "ChoiceDataList": [
+        "師、師傅！不是說好要保密的嗎！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "大姐──",
+      "ChoiceDataList": [
+        "師、師傅！不是說好要保密的嗎！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "…………唔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "…………\n…………不要這樣──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "拜託你們不要這樣！！",
+      "ChoiceDataList": [
+        "稻荷一──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "我都高聲宣告\n要為了大家爬上「巔峰」！\n要獲得「年度代表賽馬娘」了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "但現在……！\n我卻如此難堪……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "我……辜負了……\n大家託付的心意……\n甚至連背負心意都做不到……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "我這麼……這麼不瀟灑……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "沒資格受到大家如此溫柔的對待！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "稻荷一的嘶喊傳遍四周。\n但我，以及周遭所有人，\n都一直守在稻荷一的身邊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "過了一會兒──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "師傅",
+      "Text": "…………謝謝妳，稻荷。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "咦──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "師傅",
+      "Text": "妳如此在乎我們，\n從不間斷地努力到今天，\n甚至都快被壓垮了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "師傅",
+      "Text": "我覺得很高興……\n也感到驕傲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "為什麼──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "紫色髮圈的賽馬娘",
+      "Text": "……大姐妳在「天皇賞（春）」、\n「寶塚紀念」等中央的比賽上\n大激戰時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "紫色髮圈的賽馬娘",
+      "Text": "我覺得好高興。\n這麼帥氣的賽馬娘，\n正代表著我們！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的大叔",
+      "Text": "──感覺超爽的呢！「每日王冠」跟\n「天皇賞（秋）」！\n小稻在大舞台上跑得那麼精彩！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的大叔",
+      "Text": "看到妳跟這時代最強的選手競技，\n我費了好大力氣才忍住不落淚喔！！\n哇哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的大嬸",
+      "Text": "看到以前那個小不點小稻，\n現在在賽場上，\n被無數的人呼喚著名字──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的大嬸",
+      "Text": "大嬸我就忍不住哇哇大哭了。\n搞不好哭得比我女兒的婚禮還慘呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "各位──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "師傅",
+      "Text": "……稻荷。妳剛才雖然說自己\n「一點都不瀟灑」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "師傅",
+      "Text": "但現在這裡\n沒有任何一個人這麼想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "師傅",
+      "Text": "妳為了我們而跑，\n給了我們多到快收不下的東西。\n妳當然──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "師傅",
+      "Text": "比任何人都「瀟灑」了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的大叔",
+      "Text": "我們光是看到\n小稻在中央賽跑，\n就高興到不行囉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的大嬸",
+      "Text": "沒錯！光是小稻妳在賽跑這件事，\n就足以讓大嬸我慶幸自己還活著！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "紫色髮圈的賽馬娘",
+      "Text": "大姐妳……\n早就是我們的「稻荷大人」了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "師傅",
+      "Text": "……所以啦，\n妳不用給自己這麼大的壓力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "師傅",
+      "Text": "妳只要……\n為了自己闖天下就好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "嗚、嗚……嗚……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "嗚嗚、嗚嗚嗚嗚嗚嗚！\n嗚啊啊啊啊啊啊啊啊────！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "稻荷一如潰堤般湧出的淚水，\n在祭典的照明下閃閃發光，\n而大井的人們與我只是靜靜注視著她……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "──師傅，各位，\n還有……大哥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "──師傅，各位，\n還有……大姐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "真的……很謝謝大家。\n哇哇大哭一場後\n打從心底清爽多了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "好，來換個心情！難得辦了這麼棒的祭典，\n可不能老是一臉鬱悶！\n來祈求我早日康復吧，祭典到了祭典到了～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "師傅",
+      "Text": "哼──\n我看妳這不是已經生龍活虎了嘛？\n大傻瓜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "嘿咻！\n嘿咻！",
+      "ChoiceDataList": [
+        "嘿咻！嘿咻！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的人們",
+      "Text": "嘿咻！\n嘿咻！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "（──不知為何……\n像這樣跟大家一起笑笑鬧鬧時，\n就會想起以前的事。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "（──小時候看祭典時，每當到了重頭戲，\n鎮上大人們總是能在最緊張的時刻\n一舉成功，並炒熱氣氛。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "（有一天我問了大人們，\n為什麼總能瀟灑地成功呢？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的大人",
+      "Text": "──不能失敗，不能輸，必須得做到。\n當出現這些緊張想法的瞬間，\n往往正是祭典的重頭戲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的大人",
+      "Text": "反過來說，只要能掌握這瞬間，\n就會知道該在何時使出實力。\n然後接下來只要「盡情享受其中就好」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的大人",
+      "Text": "在該成功的地方成功是很爽的喔！\n那瞬間就像大家的心意\n隨著我這顆煙火升上天空！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的大人",
+      "Text": "這就是祭典之心，「瀟灑」的精髓！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的稻荷一",
+      "Text": "好厲害……！\n雖然不太明白，\n不過聽起來好「瀟灑」……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "庶民區的大人",
+      "Text": "小稻總有一天一定也會明白的。\n等妳面臨迎接盛大祭典即將到來的時刻！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "（是啊。雖然當時還不懂，\n但現在我就能明白大家的意思了。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "（祭典的心。「瀟灑」的精髓。\n以及……\n我現在的不足之處！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "祈求康復的祭典也到了尾聲，\n最後我與稻荷一來到神社，\n站在這裡將祭典的景象烙印在眼底──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "──我發現自己的\n不足之處了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "我太在乎「要為大家而跑」……\n一心只想著獲勝與成績。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "忘記了最重要的事……\n其實開啟這場較量的人正是我自己。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "雖然這也是為了實現大家的心願啦，\n但我都忘了在那之前還有件更重要的事！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "我忘掉了我的……只屬於我的火種……\n就是「地方才不輸中央」\n這股心情……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "一個人是辦不了祭典的。\n但還有個前提……要是我自己\n沒有想辦祭典的心，那也一樣做不到！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "這場較量……\n是稻荷一的較量！！\n能爬上「巔峰」的就是我！！",
+      "ChoiceDataList": [
+        "稻荷一……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "──「有馬紀念」。\n我一定會在這最大的祭典中一舉定江山。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "我會帶著大家的心願，\n了結這場由我自己開始的較量。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "然後我會放出\n讓所有人仰望的煙火，\n站上閃耀系列賽的「巔峰」！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "所以，大哥──",
+      "ChoiceDataList": [
+        "我們從明天開始繼續加油吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "所以，大姐──",
+      "ChoiceDataList": [
+        "我們從明天開始繼續加油吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "…………！",
+      "ChoiceDataList": [
+        "所謂祭典，一個人是辦不起來的！",
+        "所謂祭典，一個人是辦不起來的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "──哈哈哈，沒錯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "……拜託了，夥伴。\n跟我一起──\n把「有馬紀念」變成最棒的祭典吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，以今年最大\n且最後的祭典為目標，\n我與稻荷一再次向前邁進！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

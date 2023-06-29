@@ -1,0 +1,436 @@
+{
+  "Title": "Where are you, Curren？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "唔～做什麼好呢？",
+      "ChoiceDataList": [
+        "妳怎麼了？",
+        "妳怎麼了呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "聽我說，我想在社群平台發起新企畫。\n我想在「可愛打比♪」拿下勝利！\n哥哥有沒有什麼好點子？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "聽我說，我想在社群平台發起新企畫。\n我想在「可愛打比♪」拿下勝利！\n大姐姐有沒有什麼好點子？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她正在「可愛打比♪」跟短距離的\n網路名人們比按讚數。\n新企劃確實更容易得到好評。",
+      "ChoiceDataList": [
+        "跨社群平台的解謎遊戲怎麼樣？",
+        "跨社群平台的解謎遊戲怎麼樣？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "解謎能讓觀眾參與遊戲。\n推動跨社群平台的解謎遊戲，\n可以在各個媒體增加曝光度。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "解謎遊戲這個點子非常棒！\n參與型的企劃也比較容易增加按讚數。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "要出怎樣的問題才好呢～\n必須抓好讓人能樂在其中的難度。\n可以的話，真想實際試試──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "……噯，明天！\n我們來拍解謎影片～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──於是，\n我們今天在拍攝出題用的影片。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "嗯，前導這種感覺就好。\n休息一下吧！",
+      "ChoiceDataList": [
+        "才開始不到十分鐘……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "我口渴了嘛～\n我去買果汁！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我一邊檢查拍好的影片，\n一邊等真機伶回來。\n但過了十五分鐘，她還是沒出現……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（叮咚♪）",
+      "ChoiceDataList": [
+        "真機伶……傳了訊息？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "「給哥哥：中途開溜。\n沿著亮晶晶的東西來找我吧♪」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "「給大姐姐：中途開溜。\n沿著亮晶晶的東西來找我吧♪」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她用模糊不清的方式描述地點。\n這大概……是謎題吧。\n這麼說來，昨天──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "要出怎樣的問題才好呢～\n必須抓好讓人能樂在其中的難度。\n可以的話，真想實際試試──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "實際玩玩看就知道難度了♪\n呵呵，哥哥解得開這道謎題嗎～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "實際玩玩看就知道難度了♪\n呵呵，大姐姐解得開這道謎題嗎～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "腦中的真機伶對我露出調皮的微笑。\n若這是解謎遊戲的預演，\n提示應該會在社群平台。先看看UG吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "真機伶的最新貼文是\n在宿舍房間內拍的照片。\n標籤是「#中途開溜」……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "換句話說，這張照片是某種提示。\n訊息提到「沿著亮晶晶的東西」，\n並要我去找她。",
+      "ChoiceDataList": [
+        "沿著亮晶晶的東西是什麼意思……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "或許該用其他意思搜尋關鍵字。\n換成同義詞或其他語言是經典題型♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "亮晶晶可以說成璀璨、燦爛。\n換成英文有glitter、sparkle、\ntwinkle……閃耀？",
+      "ChoiceDataList": [
+        "亮晶晶指的是閃耀系列賽……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我靈光一閃，往回翻真機伶的UG。\n接著，在閃耀系列賽的照片中，\n找到跟剛才那張照片一樣的姿勢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那是我們去中京賽場看比賽時，\n在看台拍的照片。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（叮咚♪）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "真機伶在UG發表了新貼文。\n標了「#中途開溜」和……「#反義的讀音」？\n多了剛才那張照片沒有的標籤。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我尋找跟新貼文相同姿勢的照片。\n這次找到了在中山賽場拍的照片。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "「#中途開溜」……中京賽場、\n中山賽場……「#反義的讀音」。\n你已經猜出答案了吧，哥哥？",
+      "ChoiceDataList": [
+        "原來是這樣……謎題全都解開了！",
+        "原來是這樣……謎題全都解開了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "「#中途開溜」……中京賽場、\n中山賽場……「#反義的讀音」。\n妳已經猜出答案了吧，大姐姐？",
+      "ChoiceDataList": [
+        "原來是這樣……謎題全都解開了！",
+        "原來是這樣……謎題全都解開了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "拍下照片的兩座賽場\n都有「中」這個字。「#中途開溜」\n是暗示扣掉中，留下「京」和「山」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "中山另外標了「#反義的讀音」。\n山的相反是「海」。\n將兩個關鍵字合在一起用日文念──",
+      "ChoiceDataList": [
+        "答案是「教會」！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我趕緊前往教會。一路上不斷加快腳步，\n不知不覺地跑了起來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "啊哈，等你好久了，哥哥♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "啊哈，等妳好久了，大姐姐♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "不過呢，先停下腳步！\n必須解開最後的謎題才行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "真機伶是傾注了滿滿心意進行求婚，\n才得到這套決勝服。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "所以……你懂吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "也就是要我像她穿上決勝服一樣，\n說出心中的想法吧。",
+      "ChoiceDataList": [
+        "解謎的同時我發現了",
+        "解謎的同時我發現了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "回顧閃耀系列賽的照片後，\n我發現她的光芒越來越耀眼……\n變得更加可愛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這證明了她的努力。\n她的可愛帶給所有人幸福，\n這份幸福也回報在她的身上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我告訴真機伶，現在的她擁有女王般的\n品格與美麗，配得上那套決勝服。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "耶嘿嘿……\n那哥哥覺得……真機伶怎麼樣？",
+      "ChoiceDataList": [
+        "宇宙第一可愛！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "耶嘿嘿……\n那姐姐覺得……真機伶怎麼樣？",
+      "ChoiceDataList": [
+        "宇宙第一可愛！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "嗯！答對了♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "謝謝你說出感人的求婚宣言，\n哥哥！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "謝謝妳說出感人的求婚宣言，\n姐姐！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "而且還成功解開謎題來接我。\n真機伶非常開心♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "所以，我也向你發誓。\n我會穿著這套可愛的決勝服，\n展現出最可愛的真機伶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "從今以後也請多指教，哥哥！",
+      "ChoiceDataList": [
+        "好的！",
+        "好！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "從今以後也請多指教，姐姐！",
+      "ChoiceDataList": [
+        "好的！",
+        "好！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──之後，她發表了解謎遊戲。\n成功提高了人們對真機伶\n所參加的賽事的關注度！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "也就是要我像她穿上決勝服一樣，\n說出心中的想法吧。",
+      "ChoiceDataList": [
+        "解謎的同時回顧了過往"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我告訴她，重新看了閃耀系列賽的照片，\n我再次感受到她的努力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "為了永保可愛，真機伶無論在比賽\n還是社群平台都全力以赴。",
+      "ChoiceDataList": [
+        "努力的真機伶真是太棒了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "唔……就這樣？",
+      "ChoiceDataList": [
+        "咦？什、什麼意思……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "唉……看來真機伶還要多多努力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "既．然．如．此！\n真機伶要變得更加、更加可愛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "用滿滿的可愛迷倒哥哥，\n讓你滿腦子只有我！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "用滿滿的可愛迷倒姐姐，\n讓你滿腦子只有我！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "做好覺悟吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "被真機伶下了戰帖……\n雖然也是正合我意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之後，她發表了解謎遊戲。\n成功提高了人們對真機伶\n所參加的賽事的關注度！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

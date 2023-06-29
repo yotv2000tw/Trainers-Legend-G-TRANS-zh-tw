@@ -1,0 +1,502 @@
+{
+  "Title": "聖誕節",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "你好──打擾了──！\n訓練員，要開始聖誕派對了喔！",
+      "ChoiceDataList": [
+        "……什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "突然出現的目白善信這麼說完後，\n便自行走進了房間。\n緊接著優秀素質和其他人也跟著進來了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "優秀素質"
+      ]
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "臨時來打擾真的很不好意思。\n我決定要和善信她們\n一起辦聖誕派對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "訓練員要不要一起呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "要是能順便把這邊借給我們當派對場地\n那就更好了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "哎呀，訓練員好像呆住了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "那個啊，其實是這樣的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "咦！？\n小里家裡不會辦聖誕派對啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小里"
+      ]
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "是的。因為聖誕節的時候，\n父親和母親都要工作或參加慈善活動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "雖然偶爾也會跟著父親他們\n去參加合作對象舉辦的派對，\n或是參加里見集團主辦的派對……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "但我們家從來沒有辦過只有家人的派對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "真假？拿不到禮物也太慘了吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "啊，有禮物喔！\n聖誕老公公會在晚上的時候，\n把禮物裝在我的襪子裡！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "不過，沒有過像電影裡面那種\n聖誕節家庭派對的經驗……\n其實我還蠻嚮往的呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "那我們就來辦一個吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "咦！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "是啊。\n雖然沒辦法招待里見的雙親來參加，\n但家庭派對這種事情我們還是能做到的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "如果是溫馨的小家庭派對的話，\n我們還算是非常有經驗的──\n所以就來辦一場吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙渦輪",
+      "Text": "好耶──！派對派對！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "啊，\n雖然沒辦法請來小里的雙親，\n但邀請小里的訓練員呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "唐懷瑟根本天才吧！\n那就直接去找他吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "──事情經過就是如此。\n提供場地兼參加，\n你願意嗎？",
+      "ChoiceDataList": [
+        "當然！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "哇，真的可以嗎！？\n太謝謝你了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "那就趕快動手裝飾一下吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "呼──大概就像是這種感覺吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "好棒……好棒喔！\n明明裝飾全都是自己手工做的，\n竟然可以弄得這麼漂亮……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "我回來啦～！\n我買了料理跟零食回來喔──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "炸雞加披薩☆喔耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "晚安──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "咦？小北！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "嘿嘿嘿，剛才在校門口遇到她們，\n就也被邀請來了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "超級歡迎！\n過來吧，小北！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "是說，現在這個陣容，\n就跟新生歡迎會的時候一樣耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "嗯，會讓我想起當時的事情呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "哇～\n當時的新生現在都已經變得這麼棒了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "好了好了，晚點再繼續聊吧！\n趁熱先吃！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "有披薩、沙拉、炸雞……\n魷魚乾、魟魚鰭乾、醋昆布……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "原來如此，\n就是所謂的一般家庭派對的菜單呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "不對……但又好像也對啦，\n我家過聖誕節的時候桌上也會有下酒菜，\n所以沒辦法否定……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "呀～商店街的人給了我好多的東西啊～\n裡面混了很多古早味零食跟下酒菜。\n真的是覺得好感激喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "我牌出光了！\n再來就只剩下小北跟渦輪，\n看誰會是輸家了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "嗯──不然我挑最右邊的好了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "還是最左邊的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "嗯，就決定是最左邊這張了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙渦輪",
+      "Text": "不行不行不行不行──！！\n左邊這張不能給妳啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……渦輪，妳就死心吧。\n妳的表情真的太好猜了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是我們就這樣一起度過了愉快的時光……\n聖誕節派對就此落幕了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "接著要把留下來幫忙整理的\n里見光鑽和北部玄駒\n送回宿舍。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "嘿嘿嘿，今天真的好開心喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "我原本對聖誕節的印象\n就是要工作的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "對耶，每年聖誕節的時候，\n小鑽都會說有事要出門。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "嗯，下次也想約我弟弟一起參加呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "啊，對啊！他一定會喜歡的！\n明年我們也一起辦聖誕派對吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "明年……\n訓練員也願意參加嗎？",
+      "ChoiceDataList": [
+        "好！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "真的嗎？那我們就約好了哦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "我已經先訂走你的時間了，\n你不能再跟別人有約了哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "原本還沒有任何計畫的明年，\n在這一刻增加了\n和里見光鑽一起過聖誕節的約定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "那我們差不多該吃蛋糕了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "啊！？蛋糕……我忘了買了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我和里見光鑽一起出門去買蛋糕。\n然而附近店家的蛋糕都已經賣完了，\n只好決定去更遠的地方購買。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "燈飾好漂亮喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "呵呵，像這樣走在聖誕節的街道上，\n也是我一直很嚮往的電影情節呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "啊，我這麼說並不是對父親他們\n總是做慈善活動的事情感到不滿哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "一起做慈善活動的過程讓我學到了很多事情，\n我也是很自豪地在幫忙的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "只是，覺得像這樣子的感覺也很不錯……",
+      "ChoiceDataList": [
+        "我們慢慢走吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "可是……大家都還在等蛋糕……",
+      "ChoiceDataList": [
+        "她們還有很多零食可以吃，沒關係的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "呵呵呵，說得也是。\n零食真的多到吃不完的地步呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "……那，我們就慢慢走吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "聖誕節的街道，\n給人一種像是在外國的感覺呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "這讓我……\n想起以前出國旅行時走過的街道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "……我……\n也想和訓練員一起走在異國的街道上呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "訓練員呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "當初你答應做我專任訓練員的時候，\n其實有點像是被我強迫的感覺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "所以，\n這次我想好好確認訓練員內心的想法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "你願意跟著我一起去國外嗎？",
+      "ChoiceDataList": [
+        "只要妳願意，我就跟妳一起去",
+        "只要妳願意，我就跟妳一起去"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "……嘿嘿嘿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "太好了！\n訓練員，今後也要繼續麻煩你了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "到時候我們要一起在外國的街道上漫步喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看著充滿異國風情的聖誕節街道。\n我和里見光鑽定下了一個\n不遠將來的約定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

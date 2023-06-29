@@ -1,0 +1,467 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "黃昏時分。我和北部玄駒幫忙處理完\n社區委員會的事務後，走在路上時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "咦？前面好多人喔……\n是什麼事啊？在辦祭典嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，是好玩的抽獎活動喔！\n任何人都可以來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "哇啊，是抽獎耶！\n我最喜歡這種可以試手氣的事情了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "啊……但我們沒有抽獎券吧？\n畢竟今天沒有買東西。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "喔喔，這不是小北嘛。\n謝謝妳總是幫忙社區做事情呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "我就特別破例讓妳抽一次吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "真的可以嗎！？大叔。\n哇啊，太好了呢，訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "嘿嘿嘿，\n好心是會有好報的呢。\n好──我要來抽了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "訓練員，我們一起充滿活力地轉動它吧！\n嘿呀、嘿呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我跟北部玄駒一起擺動肩膀，\n「喀啦喀啦」地轉動了抽獎機！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "太棒啦────！！\n訓練員，我們抽到特獎了耶，是特獎！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "溫泉旅行……！\n感覺就是可以吃到飽、睡到飽的超級祭典呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "啊……不過這樣好像很不好意思呢……\n人家特別讓我抽的，\n結果我卻把最大的獎品抽走。",
+      "ChoiceDataList": [
+        "嗯……這麼說也是",
+        "嗯……這麼說也是呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "兩位這說的是什麼話。\n小北都不知道為我們社區幫了多少忙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "這也是憑實力抽到的，\n大家一定也替你們感到開心，就去好好享受吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "大叔……\n既然大叔這麼說的話……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "訓練員，\n那我們就坦然接受吧。\n不可以辜負人家的好意嘛。",
+      "ChoiceDataList": [
+        "是啊，就這麼辦吧",
+        "嗯，就這麼辦吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──於是，\n我們就這樣心懷感激地收下了溫泉旅遊券。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "話雖如此，我們也沒辦法立刻就出發呢。\n因為今年……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "對我跟小鑽來說都是很重要的一年。\n可沒有多餘的時間去玩樂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "這兩張券，\n就等我順利完成跟小鑽的約定後，\n覺得自己的表現值得被犒賞時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "到時候我們再一起去吧，\n可以嗎？訓練員。",
+      "ChoiceDataList": [
+        "好，就這麼決定。我們一起努力吧！",
+        "嗯，就這麼決定。我們一起努力吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "是！今年我一定要創下很好的成績！\n然後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "要盡情地泡溫泉泡個夠──！\n一邊泡溫泉，一邊哼著我爸的成名曲！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我彷彿已經看見勝利之後那溫泉的熱氣了。\n以能夠去溫泉旅行為目標，\n北部玄駒充滿了鬥志和笑容！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "哇啊～\n好像抽到了一個很豪邁的配菜耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "超級大的！\n這分量感覺可以替代火鍋呢，\n對吧？訓練員。",
+      "ChoiceDataList": [
+        "火鍋？妳想用煮的來調理嗎？",
+        "火鍋？妳想用煮的來調理嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "不是，我不是這個意思，我是說──\n可以讓大家圍著一起吃，像吃火鍋那樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "大家圍在一起吃的時候才是最好吃的！\n我在家裡的時候，\n也都跟我爸的弟子們圍在一起吃東西喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "訓練員，這麼難得的機會，\n不如，我們也約其他人來一起吃吧。\n像是小鑽之類的！",
+      "ChoiceDataList": [
+        "好，就這麼做吧！",
+        "嗯，就這麼做吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "哇～小北，這是什麼呀！？\n是天上掉下來一根胡蘿蔔\n插在了漢堡排上面嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "啊哈哈，怎麼可能會有這種事嘛，\n小鑽真是的……來，快開動快開動！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們三個人一起圍著巨大漢堡排，\n共度了開心的時光！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "真、真多啊……！\n這些真的可以全部給我們嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "好多的胡蘿蔔……看著這個，\n就會想起以前去慈善廚房幫忙的回憶呢。",
+      "ChoiceDataList": [
+        "妳還參加過慈善廚房的活動啊？",
+        "妳還參加過慈善廚房的活動呀？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "是的！\n我經常會去幫忙喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "下雪的時候，用大鍋子燉煮熱湯……\n那些受寒的人都會很開心喔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "我怎麼也忘不了他們因為溫暖而露出的笑容。\n每次都會讓我覺得「慶幸自己有來幫忙」呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "啊，不能在這裡浪費時間了。\n大家都在等這些胡蘿蔔呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "訓練員，我們快走吧！\n要趕快趕去現場才行了！",
+      "ChoiceDataList": [
+        "我們今天不是志工啦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "啊啊！？對耶，不小心就忘了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "那就帶回去好好享用好了。\n難得收到了這麼多，\n也分給其他人一些吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是，我們把胡蘿蔔用來燉湯，\n分享給學園的其他人一起吃。\n這充滿營養的滋味讓大家都很開心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "唔唔，只有一根啊～\n感覺有點不甘心呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "真抱歉，訓練員。\n最後居然是這種結果～",
+      "ChoiceDataList": [
+        "妳不用在意"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "謝謝。\n可能是剛才氣勢不夠的關係吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "啊，對了！那我們就來做那件事吧。\n用這根胡蘿蔔代替麥克風來場演唱會！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "來唱一些勝利演唱會比較少能聽到的\n演歌之類的歌曲！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "一根胡蘿蔔～♪\n要藏住這不堪的心情～～～～～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "奇妙的胡蘿蔔演歌響徹黃昏的天際。\n後來，\n這根胡蘿蔔成為了當天的晚餐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "啊唔～衛生紙～\n訓練員，我搞砸了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "我這個人，\n常常都是氣勢充足，結果卻不怎麼樣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "剛剛應該怎麼做才不會這樣呢？\n是不是應該要轉輕一點……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "不對，還是說！應該要轉得更快，\n快到手把都要被轉掉的地步！？",
+      "ChoiceDataList": [
+        "與其弄壞東西，還是拿衛生紙比較好吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "唔唔唔，這麼說也對……\n可是衛生紙喔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因為結果不如預期，\n北部玄駒顯得很沮喪……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

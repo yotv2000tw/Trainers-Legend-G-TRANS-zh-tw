@@ -1,0 +1,385 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我與稻荷一為了添購訓練用品，\n順道去了一趟商店街。在回程路上──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "好。\n看來在剛才那家店，\n已經把想買的東西都買齊了呢！",
+      "ChoiceDataList": [
+        "謝謝妳陪我買東西"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "不用客氣！\n畢竟這些都是我要用的嘛，\n連這點事都不做的話反而不好意思。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，是好玩的抽獎活動喔！\n任何人都可以來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "喔，這不是抽獎嗎！\n原來這裡也會辦抽獎啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "我在家鄉也抽過好幾次，\n卻很少中獎。\n但還是每次都會抽，這就是人之常情──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──我想起剛才買東西時\n拿到了一張抽獎券。",
+      "ChoiceDataList": [
+        "機會難得，這張抽獎券就給妳吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "喂喂喂！\n這是大哥買東西拿到的吧？\n不由大哥來轉怎麼行。",
+      "ChoiceDataList": [
+        "那我們一起轉吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "喂喂喂！\n這是大姐買東西拿到的吧？\n不由大姐來轉怎麼行。",
+      "ChoiceDataList": [
+        "那我們一起轉吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我今天買的都是稻荷一的用品。\n換句話說，也是我與稻荷一購物時得到的，\n這是屬於我們兩人的抽獎券。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "──嘿嘿。你還真會說話。\n你都說到這份上了，\n讓我也想要抽抽看了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "好！機會難得！\n我們就兩人一起抽個大獎帶回去吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "喔，你們兩個要一起抽嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "是啊，麻煩囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我與稻荷一一起\n奮力轉動了抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "特、特特、特特特特獎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "──太棒了太棒了太棒了！\n天上掉餡餅，抽獎機掉特獎！！\n居然能抽到這麼大的獎！",
+      "ChoiceDataList": [
+        "成功了呢，稻荷一！",
+        "成功了呢，稻荷一！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "是啊！\n可能是我們兩人把運氣加起來的成果喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "不過……「溫泉旅遊券」啊！\n真是棒透了呢！\n說到旅行就是要泡溫泉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "就是要享受美食！大浴場！\n這樣才像瀟灑的旅行！\n嘿嘿，我已經開始期待了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "……不過現在這時期\n還不適合去旅行。\n反正這票券的使用期限還很長──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "可以請訓練員\n暫時保管這張券嗎？",
+      "ChoiceDataList": [
+        "是沒關係……不過這樣好嗎？",
+        "是沒關係……不過這樣好嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "嗯！今年我想專心在中央的大戰上，\n等告一段落後去旅行當作慶功宴吧，\n這樣比較能悠悠哉哉地休息！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "嘿嘿，你不覺得，\n把快樂留到以後享受也不錯嗎？",
+      "ChoiceDataList": [
+        "真有道理！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "對吧？\n好啦，我們就好好期待那一刻，\n明天起繼續加油吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "太好了！\n抽到好獎了呢，大哥！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "太好了！\n抽到好獎了呢，大姐！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "──嘿嘿，不愧是一獎呢！\n品質這麼好的胡蘿蔔漢堡排\n可不多見呢……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "不快點吃完\n對肉大人是很失禮的！\n一回去就在訓練員室開動吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後，\n我跟稻荷一一起，\n盡情享用了特等胡蘿蔔漢堡排！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "太棒了！\n中獎了中獎了～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "這獎品還真慷慨呢！\n竟然給我們這麼多！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "嘿嘿，\n看來今天勢必得舉辦胡蘿蔔祭典了。\n去請小溪她們幫忙吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "當然你也要參加祭典喔！\n來吧，打鐵趁熱！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後，稻荷一與同伴們辦了場胡蘿蔔祭典，\n共度了開心的時光！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "喔，中獎了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "──嘿嘿，這根胡蘿蔔品質很棒呢。\n就算直接吃一定也很好吃吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "回去之後我們分著吃吧。\n你喜歡怎樣的吃法呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後，我跟稻荷一兩人一起\n分著吃掉了獎品的胡蘿蔔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "嗚哇～！\n沒抽中！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "抱歉，大哥！\n難得有這種機會，\n卻沒抽中東西……！",
+      "ChoiceDataList": [
+        "也會有這種情況的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "抱歉，大姐！\n難得有這種機會，\n卻沒抽中東西……！",
+      "ChoiceDataList": [
+        "也會有這種情況的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "雖說如此……！\n這不瀟灑，一點都不瀟灑！\n啊～真不甘心啊，可惡！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "沒抽中任何獎項，\n讓稻荷一出乎預料地沮喪……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

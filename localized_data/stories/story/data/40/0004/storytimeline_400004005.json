@@ -1,0 +1,157 @@
+{
+  "Title": "驚愕！來自理事長的驚喜！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "校內廣播",
+      "Text": "「──<username>訓練員，\n請立刻前往理事長辦公室。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "校內廣播喊出我的名字，事態似乎非比尋常，\n我有點慌張地趕到理事長辦公室。",
+      "ChoiceDataList": [
+        "我是<username>"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "嗯，進來吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "……請坐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……",
+      "ChoiceDataList": [
+        "請、請問……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "手綱＆理事長",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "安靜得令人發毛……！\n之後這種沉默持續了好幾分鐘──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……我開始感到不安。\n難道發生了什麼嚴重的大事。",
+      "ChoiceDataList": [
+        "請問！究竟發生了什麼事……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "感謝！！",
+      "ChoiceDataList": [
+        "……咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "今天請訓練員你過來，\n是為了感謝你！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "沒錯！你負責指導的\n<chrname>──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "身懷耀眼的光芒，在閃耀系列賽第三年\n這重要的一年中衝刺到最後！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "她這一路走來的軌跡不僅引領了同期，\n對後輩賽馬娘們來說\n也無疑是個閃耀的指標！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "所以……非非非非非、非常感謝！！\n做得好，訓練員！",
+      "ChoiceDataList": [
+        "謝、謝謝妳！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "很好！以及……期待！！\n我誠心期待往後也能看到\n你們空前絕後的活躍表現！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "我也要感謝你……真的是辛苦你了。\n要是有需要我幫忙的地方，\n歡迎隨時提出喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我似乎受到褒獎了！\n雖然很感激……\n但有件事令人在意。",
+      "ChoiceDataList": [
+        "請問剛剛那段沉默是怎麼回事？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "當然！！是給你的驚喜！！",
+      "ChoiceDataList": [
+        "驚、驚喜……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "嗯！我覺得這樣……\n可以稍微炒熱氣氛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "對、對不起。\n我試過阻止她了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……雖然有點想吐槽，\n不過能受到稱讚還是令人感到很高興。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後我告訴<chrname>這件事，\n兩人一起分享了喜悅！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

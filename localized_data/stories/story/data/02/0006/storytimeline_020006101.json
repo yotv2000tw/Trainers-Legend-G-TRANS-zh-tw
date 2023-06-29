@@ -1,5 +1,5 @@
 {
-  "Title": "旅立ちの日、挑戦の日",
+  "Title": "啟程之日、挑戰之日",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,104 +8,104 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "目白賴恩",
-      "Text": "啊、麥昆！",
+      "Name": "目白雷恩",
+      "Text": "啊，麥昆！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白麥昆",
-      "Text": "賴恩和光明。你們二位接下來也要訓練嗎？",
+      "Text": "雷恩、光明，妳們接下來要訓練嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白光明",
-      "Text": "嗯嗯～畢竟『阪神大賞典』已經近在眼前，在做最後衝刺呢～",
+      "Text": "嗯，因為「阪神大賞典」近在眼前，我得努力追上～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "目白賴恩",
-      "Text": "你們這邊的小特也會參賽吧。",
+      "Name": "目白雷恩",
+      "Text": "小特也會參加那場比賽吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白麥昆",
-      "Text": "是的，作為『天皇賞（春）』的前哨戰參賽。",
+      "Text": "嗯，把這視為「天皇賞（春）」的前哨戰。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "目白賴恩",
-      "Text": "終於要和“黃金世代”的德比賽馬娘初次對決了呢～",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白光明",
-      "Text": "我也拜謁了她先前的比賽，實在是令人印象深刻的精彩表現呢～",
+      "Name": "目白雷恩",
+      "Text": "即將和「黃金世代」打比賽馬娘展開初次對決呀～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白光明",
-      "Text": "……但是，無論對手是誰，我現在能做的都只有不斷磨練自身而已。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白賴恩",
-      "Text": "光明不僅贏下了去年的『阪神大賞典』，也是去年『天皇賞（春）』的霸者哦！",
+      "Text": "我也有觀看她上場比賽的表現，\n實在是非常優秀，讓我深感佩服～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白光明",
-      "Text": "勝利是理所當然的——我是以這樣的心態參加比賽的哦。",
+      "Text": "……不過，不管對手是誰，\n我現在只管持續磨練自己就好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "因為光明是去年「阪神大賞典」的霸主，\n也是「天皇賞（春）」的霸者嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "我會抱著獲勝是必然──這樣的心情參加比賽的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白麥昆",
-      "Text": "……簡直是王者的威嚴呢。",
+      "Text": "……完全是王者風範呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "目白賴恩",
-      "Text": "那麽我們就去訓練啦。回見，麥昆！",
+      "Name": "目白雷恩",
+      "Text": "那我們就去訓練吧。\n再見啦，麥昆！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白光明",
-      "Text": "貴安～",
+      "Text": "先告辭了～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白麥昆",
-      "Text": "訓練員、特別週同學……\r\n對手似乎毫無破綻啊。",
+      "Text": "訓練員跟特別週，\n看來對手完全沒有掉以輕心呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "特別週的下一場比賽已經近在眼前。\r\n眼下正是必須要認真對待訓練的時期，但是……",
+      "Text": "特別週的下一場比賽持續逼近。\n這段時間差不多得做好萬全準備才行了，但……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "哈……哈……",
+      "Text": "呼……呼……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "……才這點程度就氣喘籲籲，真不像你啊。",
+      "Text": "……這點程度就沒力了，真不像妳呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -117,19 +117,19 @@
     },
     {
       "Name": "勝利獎券",
-      "Text": "休息之後就再跑一圈吧！\r\n畢竟『熟能生巧』嘛——雖然我也不知道是不是真的有這麽個詞啦！",
+      "Text": "休息之後再練一次看看吧！\n「重複就有力量」！雖然不知道有沒有這句名言！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "好的，拜托了……",
+      "Text": "好的，麻煩了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "果然她還是過於在意無聲鈴鹿的事情，沒法在訓練中集中精力。",
+      "Text": "她或許還是在意著無聲鈴鹿的事吧，\n跑步時無法專注的狀況一直持續著。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -141,73 +141,73 @@
     },
     {
       "Name": "<username>",
-      "Text": "手綱小姐？有什麽事嗎？",
+      "Text": "手綱小姐，有什麼事嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "駿川手綱",
-      "Text": "有的哦。我接到『閃光月刊』的采訪申請，說是想要撰寫＜天狼星＞特刊呢。",
+      "Text": "是的，《閃耀月刊》提出採訪申請。\n似乎是想要做一期關於＜天狼星＞這個隊伍的特輯。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金船",
-      "Text": "喂喂喂！！『閃光月刊』這不是很懂嘛！",
+      "Text": "喂喂喂！《閃耀月刊》很懂嘛！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "米浴",
-      "Text": "居然能做特輯……好厲害啊……",
+      "Text": "竟然要幫我們做特輯，好棒啊……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "駿川手綱",
-      "Text": "呵呵，而且還收到了給隊員們的采訪前問卷調查，\r\n我待會送到訓練員室來哦。",
+      "Text": "呵呵，他們還託我把事前問卷交給隊伍的各位，\n我等一下就拿來訓練員室喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "非常感謝，麻煩你了。",
+      "Text": "謝謝妳，再麻煩了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "駿川手綱",
-      "Text": "此外，還有一件事——實際上，有位非常了解海外的原訓練員來到了學校。",
+      "Text": "另外還有一件事──其實現在有個熟悉海外情形的\n前訓練員來到了學園。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "駿川手綱",
-      "Text": "聽說了無聲鈴鹿同學的事情後，他說一定要來看看她奔跑的模樣。",
+      "Text": "我向他提起了無聲鈴鹿的事，\n他就很想看看她跑步的狀況。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "那可真是幫大忙了。\r\n說不定鈴鹿能得到些有用的建議呢。",
+      "Text": "那還真是感謝。\n或許能得到他加以指點。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "鈴鹿，難得的機會，一定要把你的奔跑完美地展現出來哦。",
+      "Text": "鈴鹿，難得有這個機會，妳能跑給他看看嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "無聲鈴鹿",
-      "Text": "好的，請多多關照。",
+      "Text": "好的，請多指教。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "鈴鹿同學……？！",
+      "Text": "鈴鹿……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -219,7 +219,7 @@
     },
     {
       "Name": "特別週",
-      "Text": "……啊……這個……沒什麽……",
+      "Text": "……啊，那個……沒什麼……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -237,25 +237,25 @@
     },
     {
       "Name": "",
-      "Text": "為了得到那位對海外情況相當了解的原訓練員的建議，\r\n鈴鹿正在賽道上馳騁著。",
+      "Text": "為了讓熟悉海外情形的前訓練員\n能加以指點，無聲鈴鹿在賽道上跑著。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "而特別週站在遠處，目不轉睛地看著疾馳的鈴鹿。",
+      "Text": "特別週站在稍遠的地方\n看著這樣的她。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "你在這裡啊，小特。",
+      "Text": "原來妳在這裡啊，特別週。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "你在這裡啊，小特。",
+      "Text": "原來妳在這裡啊，特別週。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -267,79 +267,79 @@
     },
     {
       "Name": "特別週",
-      "Text": "我……甚至被自己嚇了一跳……\r\n我居然下意識地就叫住了鈴鹿同學……",
+      "Text": "我自己都大吃一驚。\n居然會忍不住想要阻止鈴鹿……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "畢竟從剛到學園開始你就一直和鈴鹿待在一起嘛。\r\n她此時突然說要離開，你會感到動搖也無可厚非。",
+      "Text": "畢竟自從妳來到學園，鈴鹿就一直陪在妳身邊嘛。\n對於她即將離開而心生動搖也是很正常的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "畢竟從剛到學園開始你就一直和鈴鹿待在一起嘛。\r\n她此時突然說要離開，你會感到動搖也無可厚非。",
+      "Text": "畢竟自從妳來到學園，鈴鹿就一直陪在妳身邊嘛。\n對於她即將離開而心生動搖也是很正常的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "……我現在都還清楚地記得，\r\n當初第一次看見鈴鹿同學的奔跑那天的事情。",
+      "Text": "……直到現在我還清楚記得，\n第一次看到鈴鹿跑步時的情景。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "在我離開北海道之後，不知道自己能不能追求到夢想而不安時，\r\n鈴鹿同學奔跑的模樣映入我眼中……",
+      "Text": "我擔心自己離開北海道後，一切沒辦法順利，\n在這樣不安的狀況下看見了鈴鹿跑步──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "我的雙眼就好像要被那模樣吸進去一般，根本挪不開視線……",
+      "Text": "我簡直像眼球被吸住一樣，看得目不轉睛。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "從那之後，我也一直以“成為鈴鹿同學那樣的賽馬娘”為目標奔跑著，\r\n但是……",
+      "Text": "自從那天之後，我就想要跑出跟鈴鹿一樣的表現，\n一路注視著她，直到今天……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "特別週的話語戛然而止。她低下頭，沈默不語。",
+      "Text": "特別週說到這裡，就低頭陷入沉默。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "可能即便是她自己也沒注意到，\r\n無聲鈴鹿奔跑的模樣早已在她心中成為了不可或缺的支柱。",
+      "Text": "就連她自己都沒想到，無聲鈴鹿跑步的樣子\n居然在心中變成這麼重要的支柱吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我看向跑道上的無聲鈴鹿——",
+      "Text": "我朝著賽道上的無聲鈴鹿看去──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "在第一次見到無聲鈴鹿的奔跑時，\r\n我便覺得她是個能夠享受奔跑的賽馬娘。",
+      "Text": "第一次看到無聲鈴鹿跑步時，\n我得出了她是個跑得很開心的賽馬娘這樣的感想。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "不久後，她找到了真正屬於自己的奔跑方式，\r\n凡是見過她奔跑的人都對她抱有無比的期待……",
+      "Text": "後來她找到了屬於自己的跑法，\n那樣的跑法讓見到的人對她的期待瞬間膨脹……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "……小特。鈴鹿的奔跑始終縈繞在你心中，\r\n所以你也想要像她那樣奔跑對吧。",
+      "Text": "……妳深受鈴鹿的跑法吸引，\n希望自己也能跟她有一樣的表現吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -351,31 +351,31 @@
     },
     {
       "Name": "<username>",
-      "Text": "那，你為什麽對鈴鹿的奔跑念念不忘呢？",
+      "Text": "那麼，妳覺得自己為什麼會受到鈴鹿的跑法吸引？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "誒……？要說為什麽，那……\r\n因為，又漂亮、又帥氣……",
+      "Text": "咦……？為什麼，那是因為……\n漂亮又帥氣……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "所以才會不自覺地沈浸進對她的想象中，\r\n想要親眼見證以後的她會帶來怎樣的奇跡……對吧。",
+      "Text": "而且連作夢都會夢到。\n猜測她下次會呈現怎麼樣的跑法。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "是的……！就是這樣！\r\n鈴鹿同學的奔跑，總是能淩駕在我們的期待之上！",
+      "Text": "沒錯……！就是這樣！\n鈴鹿的跑法總是超乎我的期待！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "所以我才想一直一直親眼見證鈴鹿同學的奔跑！\r\n我想見證她連霸『大阪杯』和『寶冢紀念』，然後——",
+      "Text": "所以我還想多看一點鈴鹿的比賽！\n像是「大阪盃」跟「寶塚紀念」連霸，還有──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -387,31 +387,31 @@
     },
     {
       "Name": "<username>",
-      "Text": "時至今日，鈴鹿也在追尋著自己“看見更前方的風景”這個夢想。",
+      "Text": "鈴鹿一直追尋著「想看見景色」這個夢想。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "吸引了我和小特的，\r\n就是鈴鹿這樣純粹地享受奔跑的身姿。",
+      "Text": "她懷著這種坦率的心情跑步的樣子，\n讓我跟特別週都深受吸引。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "吸引了我和小特的，\r\n就是鈴鹿這樣純粹地享受奔跑的身姿。",
+      "Text": "她懷著這樣坦率的心情跑步的樣子，\n吸引了我跟特別週。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "……如果鈴鹿去到了海外，見到了“更前方的風景”，\r\n一定會讓我們看見更加引人注目的奔跑的哦。",
+      "Text": "……要是鈴鹿去了海外，一定能跑出\n比現在更亮眼的表現吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "……如果鈴鹿去到了海外，見到了“更前方的風景”，\r\n一定會讓我們看見更加引人注目的奔跑的哦。",
+      "Text": "……要是鈴鹿去了海外，一定能跑出\n比現在更亮眼的表現吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -423,151 +423,151 @@
     },
     {
       "Name": "特別週",
-      "Text": "……是這樣啊……果然就該是這樣呢……！",
+      "Text": "……沒錯，一定是這樣的……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "鈴鹿同學，永遠都是可以盡情奔向遠方的存在！\r\n我們所有人淺薄的期待什麽的，她可以輕輕松松地就甩開十萬八千里！",
+      "Text": "鈴鹿的跑步不會被侷限！\n連我們的期待，她都能輕易跨越過去！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "這就是我所憧憬的，鈴鹿同學的奔跑……\r\n……阻止鈴鹿同學什麽的……我不應該這樣做的啊……！",
+      "Text": "這就是我所崇拜的鈴鹿跑步的樣子……\n……而我居然想要阻止她……我不能這樣做……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "為了像鈴鹿一樣——為了超越鈴鹿的背影，\r\n小特也要繼續加油啊。",
+      "Text": "為了跟鈴鹿一樣──為了追上鈴鹿，\n妳也得加油才行呢。",
       "ChoiceDataList": [
-        "目標是，“成為日本第一的賽馬娘”！！",
+        "要以「日本第一的賽馬娘」為目標！",
         ""
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "為了像鈴鹿一樣--為了超越鈴鹿的背影，\r\n小特也要繼續加油啊。",
+      "Text": "為了跟鈴鹿一樣──為了追上鈴鹿，\n妳也得加油才行呢。",
       "ChoiceDataList": [
-        "目標是，“成為日本第一的賽馬娘”！！",
-        "目標是，“成為日本第一的賽馬娘”！！"
+        "要以「日本第一的賽馬娘」為目標！",
+        "要以「日本第一的賽馬娘」為目標！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "哎嘿嘿……好的！",
+      "Text": "耶嘿嘿……好的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "實況",
-      "Text": "今天的阪神體育場吸引了無數觀眾。\r\n隨著比賽重頭戲的臨近，觀眾們的熱情也逐漸高漲起來！！",
+      "Name": "播報員",
+      "Text": "許多觀眾擠滿了會場的阪神賽場。\n隨著主賽事越來越近，氣氛也逐漸被炒熱起來！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "實況",
-      "Text": "最值得關注的，果然是“黃金世代”一員的特別週，\r\n以及去年的霸者目白光明！",
+      "Name": "播報員",
+      "Text": "注目焦點果然就是「黃金世代」的要角特別週\n與去年霸主目白光明！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "實況",
-      "Text": "這場二人初次交鋒的『阪神大賞典』，到底會有怎樣的結果呢？！",
+      "Name": "播報員",
+      "Text": "她們首次交鋒就在這場「阪神大賞典」，\n究竟會有什麼樣的結果呢！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "雨天的重馬場……一定要集中在比賽上、好好保存體力……\r\n千萬不要一開始就衝到前面去……",
+      "Text": "下雨導致場地狀態很差……為了保留體力要好好專注於比賽……\n絕對不能一開始就猛衝……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "啊啊，這樣就行。\r\n恐怕整場比賽的節奏會變慢，所以不要勉強自己衝到最前方。",
+      "Text": "嗯，這樣很好。\n步調應該會變慢，不需要逞強追上前面的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "嗯嗯……原來如此……！",
+      "Text": "喔喔……原來如此……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金船",
-      "Text": "阪神3000米的直線不那麽長，而且還有坡道。\r\n從第三彎道附近就開始盡情起飛吧！",
+      "Text": "因為阪神3000公尺的直線不但不長，還有坡道。\n從第三彎道開始再來急起直追吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "那個……黃金船同學的建議，我很難判斷是玩笑話還是真心話誒……",
+      "Text": "……那個……黃金船的建議，\n我很難判斷是開玩笑還是認真的……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金船",
-      "Text": "這可真過分啊喂！說到『阪神大賞典』不就該馬上想到我嗎？！",
+      "Text": "太過分了吧妳！一提到「阪神大賞典」就該想到我啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白麥昆",
-      "Text": "在高談闊論『阪神大賞典』之前，你還是先以出道為重吧！",
+      "Text": "妳在對「阪神大賞典」發表評論前，\n還是先跑完出道戰吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白麥昆",
-      "Text": "說起來，航班和比賽的時間重合了，鈴鹿同學也應該很遺憾吧……",
+      "Text": "不過話說回來，班機時間居然跟比賽撞期，\n鈴鹿不能來好可惜……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "啊啊，不會的哦！\r\n是我自己建議讓她今天出發的哦。",
+      "Text": "喔，不會！\n是我提議要她今天出發的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "為了讓鈴鹿同學能安心地在海外盡情比賽——\r\n我要讓鈴鹿同學知道，就算她不在身邊，我也是能自己做到的！",
+      "Text": "為了讓鈴鹿能放心在海外跑步──\n我會讓她看到，即使她離開我也會表現很好的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白麥昆",
-      "Text": "原來是這樣嗎。\r\n那麽，今天的比賽不贏下來可不行呢。",
+      "Text": "原來是這樣啊。\n那麼就無論如何都得獲勝才行了呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "啊啊。如今的小特滿載著大家的信念，好好回應大家吧。",
+      "Text": "嗯，大家的強大意志現在已經交棒到特別週手中了。\n妳要全力回應才行。",
       "ChoiceDataList": [
-        "去盡情奔跑吧！",
-        "去盡情奔跑吧！"
+        "拿出全力去跑吧！",
+        "拿出全力去跑吧！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "<username>",
-      "Text": "啊啊。如今的小特滿載著大家的信念，好好回應大家吧。",
+      "Text": "嗯，大家的強大意志現在已經交棒到特別週手中了。\n妳要全力回應才行。",
       "ChoiceDataList": [
-        "去盡情奔跑吧！",
-        "去盡情奔跑吧！"
+        "拿出全力去跑吧！",
+        "拿出全力去跑吧！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "好的！那我上了！",
+      "Text": "是！我出發了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

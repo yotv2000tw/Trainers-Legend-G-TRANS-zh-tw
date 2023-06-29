@@ -1,0 +1,575 @@
+{
+  "Title": "她，跟她，以及旁邊的她",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在待兼唐懷瑟跑完出道戰後，\n又過了一陣子的某天裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "訓練員！\n出大事了、出大事了～！",
+      "ChoiceDataList": [
+        "怎麼了？",
+        "怎麼了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "呃～那個、就是！\n電視電視，你先看看電視！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我連忙照著她說的打開電視──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播A",
+      "Text": "「我們要來採訪今年剛出道，而且\n備受矚目的幾位賽馬娘！今天要採訪的賽馬娘\n是在出道戰展現出色才能的美浦波旁！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "哇，\n電視裡面真的有波旁在奔跑耶～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "波旁"
+      ]
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "哎呀～我剛剛才聽說她有接受採訪！\n她好厲害喔～連在同個時期\n出道的我都覺得好風光！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "舉辦出道戰的中京賽場充滿了\n為美浦波旁的才能感到驚艷的喝采。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男性A",
+      "Text": "雖然比較晚起跑，卻在最後的直線\n一口氣搶下第一名！啊～太精彩了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性A",
+      "Text": "她的下盤很穩，\n以後應該會越來越厲害吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "大家都說妳是備受矚目的超強新人，\n那麼，妳目前想在\n閃耀系列賽達成什麼目標呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "取得經典三冠\n是我唯一的目標。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "原來如此……！\n雖然這麼說有些失禮，但其實有點令人意外呢。\n原本以為妳應該會挑戰短距離路線……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "我確實適合短距離，但不影響我的決定。\n取得三冠是不允許變更的目標。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（喔喔……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她泰然自若地在鏡頭前面做出宣言的模樣，\n真的是非常有氣勢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "喔……！太帥了！\n真不愧是波旁！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "嗯？是說，波旁要挑戰三冠路線的話，\n我是不是就要跟她競爭啊？",
+      "ChoiceDataList": [
+        "是啊",
+        "是啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "哎呀～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "同一時刻，\n學生宿舍大廳的電視也在播同一個節目。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播A",
+      "Text": "「──接下來是在經典級跟資深級\n大放異彩的賽馬娘特輯！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "資深級"
+      ]
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "應該會是那兩個人吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播A",
+      "Text": "我們要來採訪被譽為\n今年最強長途跑者的目白麥昆！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "目白麥昆"
+      ]
+    },
+    {
+      "Name": "主播A",
+      "Text": "還有以不敗之姿奪下「日本打比」\n跟「皋月賞」雙冠的天才，東海帝皇！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "東海帝皇"
+      ]
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "啊～果然是她們……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播A",
+      "Text": "「主角級的賽馬娘們齊聚一堂！或許有天\n她們將會成為同一個賽場上的競爭對手呢。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "專家",
+      "Text": "「是啊。不過，東海帝皇在比完打比之後\n受傷一事實在令人遺憾。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "專家",
+      "Text": "「記得要半年才能完全康復吧？\n聽說她不會參加菊花賞了。\n我本來還認為她一定會奪下三冠。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播A",
+      "Text": "「是啊～有不少人都很期待\n看到三冠賽馬娘誕生的那一瞬間。\n我個人也覺得她不能參賽很可惜。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……只要能參賽，就一定會奪下三冠……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……\n……也是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "幾天後。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "姆～今天也跑得好過癮！\n辛苦你了，訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "嗯？那是……素質？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我順著待兼唐懷瑟的視線看過去，\n就發現優秀素質\n正用有些悶悶不樂的表情望著操場。",
+      "ChoiceDataList": [
+        "她怎麼了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "嗯……訓練員。\n其實，她已經這樣子好幾天了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "所以我有點擔心她。\n……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "我去跟她講一下話！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "優秀素質今天的運勢是小吉！\n或許會是有點小憂鬱的一天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "但是沒關係！只要找到名字是\n待開頭瑟結尾的賽馬娘！\n跟她講講話，就會變開心喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "咦？妳突然之間怎麼了啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "咦？呃……\n我在學小福前輩！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小福"
+      ]
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "妳的幸運賽馬娘\n現在願意聽妳傾訴任何事情喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "……嘿嘿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "──呵、呵呵……！\n妳到底在做什麼啊，真是的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……呼，謝謝妳。\n我害妳替我擔心了。對不起。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "那，妳可以聽我講一下嗎？\n名字是待開頭瑟結尾的賽馬娘小姐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……我其實\n想要參加「菊花賞」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "本來是因為看到帝皇那麼厲害，\n才會想說跟她拚拚看吧！\n然後一直努力鍛鍊到現在。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……可是當我看到有個節目說帝皇\n不能參加「菊花賞」很可惜，就覺得──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "說什麼只要她能參賽就一定會奪下三冠，\n也太敢說了吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "畢竟覺得最可惜的一定是帝皇她自己啊！\n可是，她卻沒辦法參賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "她從小就一直為了實現\n成為不敗三冠賽馬娘的夢想，\n而不斷努力著，但現在卻只能放棄……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "她那麼努力地忍住自己的不甘心，\n其他人卻說「只要她能參加一定會奪下三冠」……\n她一定很難過。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "……嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……而且，這次拿下「菊花賞」冠軍的\n賽馬娘一定也會被說──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "她是在沒有帝皇的\n那屆「菊花賞」裡奪下冠軍的賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "假如我拿下了「菊花賞」的冠軍，\n我一定會超級高興的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "可是大概會一直聽到大家說「如果帝皇有參加，\n結果可能就會不一樣了」這種話……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "哈哈，我也覺得自己怎麼還沒參賽\n就在說這裡說一些有的沒有的。\n雖然知道，卻還是會一直胡思亂想──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "啊～討厭！我怎麼這麼窩囊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "我現在明明應該要集中精神，\n加緊腳步加強鍛鍊才行……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "待兼唐懷瑟靜靜地凝視著\n垂下頭的優秀素質。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "唐懷瑟遇到這種事情會怎麼辦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "咦？我嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "唔唔～這個嘛……\n我覺得我也會跟素質有一樣的想法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "因為聽到別人那樣講很難不在意，\n一定會一直覺得心裡悶悶的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "可是，想歸這麼想，\n果然心裡的某一個角落裡\n還是存在著想要贏下「菊花賞」的想法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "……所以，嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "到時候我會用精彩到不行的表現搶下第一名，\n讓人沒辦法說出「帝皇參賽就會不一樣」這種話！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "嗯，我覺得只能這麼辦了！\n就用讓大家都忘記帝皇的超快速度──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "贏得壓倒性的冠軍！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……\n…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "……咦？妳有在聽嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "突然的沉默。\n兩人臉上的錯愕表情。然後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……呵、呵呵、啊哈哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "咦？咦！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "啊～真是的！也對，妳就是這種個性……\n我突然被妳打醒了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "我要振作起來，好好努力才行。\n繼續在這邊垂頭喪氣也無濟於事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "……嗯，我一定要贏。我會用超快的速度\n贏下冠軍。我絕對有能力做到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "……！\n雖然不太懂是怎麼回事，\n不過妳打起精神了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "有喔，打起精神了……謝謝妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "呼～！好耶好耶好耶！\n那現在呢？要不要一起朝著夕陽跑一下！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "啊哈哈！\n我才不要。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "兩人一邊嬉鬧，一邊走回學園。\n優秀素質的表情變得開朗了許多。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "「妳的武器或許光輝不及太陽，\n卻也是獨一無二！\n妳擁有幫助別人往前踏出一步的力量！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "感覺晴朗的天空中傳來了秋川理事長\n那天對她所說的那一段話。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

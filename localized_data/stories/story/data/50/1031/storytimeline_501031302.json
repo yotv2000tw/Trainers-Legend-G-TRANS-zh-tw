@@ -1,0 +1,492 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "傍晚，我走在商店街時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "啊，訓練員！\n你來得正好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "你代替我去抽一下獎吧！\n我要趕著去打工了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她硬塞了一張紙到我的手裡。\n仔細一看──",
+      "ChoiceDataList": [
+        "……抽獎券？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "對！目標是抽到二獎的一整堆胡蘿蔔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "去那邊排隊抽！那就交給你囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "艾尼風神所指的方向\n排起了長長的隊伍，\n都是些剛買完東西的家庭。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，好玩的抽獎活動！\n歡迎大家來抽喔～！",
+      "ChoiceDataList": [
+        "（希望能抽中好獎品……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我交出艾尼風神給我的抽獎券，\n俐落地轉動抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [
+        "喔喔……！"
+      ],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "咦咦～～～～！？\n還真的抽得到特獎啊～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "把那股好運分我一點嘛！\n下次我自己抽獎的時候\n也會抽個特獎給你看看的！",
+      "ChoiceDataList": [
+        "咦，那這張溫泉旅遊券呢……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "那個啊，就交給你吧。\n畢竟是你抽到的嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "不然把你抽到的獎品拿走\n我也會覺得很過意不去的。\n趕快收進口袋裡吧。",
+      "ChoiceDataList": [
+        "但這原本就是妳的抽獎券……",
+        "但這原本就是妳的抽獎券……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "沒關係啦，你就收下吧！",
+      "ChoiceDataList": [
+        "不行，我不能這麼做"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "咦咦～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "呼……呼……\n訓練員，\n你趕快收下就對了啦……！",
+      "ChoiceDataList": [
+        "但是這個是……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "啊～～我知道了！\n不然就這麼辦吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "這張溫泉旅遊券就先讓你暫時保管！\n等到有空去的時候再去，就這樣，可以吧？",
+      "ChoiceDataList": [
+        "好……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "唉～這件事總算告一段落了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "……總之就先把它放在你這了。\n你想用的時候就隨時拿去用，\n知道嗎～？",
+      "ChoiceDataList": [
+        "艾尼自己也是喔！",
+        "艾尼自己也是喔！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "……真受不了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "…………真是讓人傷腦筋的人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [
+        "是一獎耶！！"
+      ],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "歡迎光臨──！\n請問幾位──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "訓練員！？\n你今天也來吃拉麵啊！？",
+      "ChoiceDataList": [
+        "不是不是，我是來跟妳說抽到一獎了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "好厲害喔，是胡蘿蔔漢堡排耶！\n我真的可以收下嗎？",
+      "ChoiceDataList": [
+        "當然囉！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "謝謝你～！\n下班後我就來享用！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "話說回來，\n訓練員該不會是特地送這個來給我的吧？",
+      "ChoiceDataList": [
+        "是啊！",
+        "嗯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "…………啊哈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "明天再給我就好了嘛。\n你這種地方真的很可愛耶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是我將一獎的胡蘿蔔漢堡排\n交給了艾尼風神。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "紙箱裡裝滿了胡蘿蔔。\n我把獎品搬到學生宿舍門口，\n但──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "（飢腸轆轆～）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "（飢腸轆轆～）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "……唔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "每當肚子一發出聲音，\n小栗帽的眼睛也會跟著瞇成一條線。\n看來她現在應該餓得快受不了了吧……",
+      "ChoiceDataList": [
+        "（要是艾尼在這裡的話……）"
+      ],
+      "ColorTextInfoList": [
+        "小栗帽"
+      ]
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "咦？小栗帽同學。\n妳是不是肚子很餓啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "呵呵，那就分妳一些吧。\n但不能告訴其他人喔？因為數量也不多。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "啊～但比起生吃\n還是煮過比較好吃吧。\n不然我煮點料理給妳吃吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "那個……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "……所以你才把鍋子搬出來啊。\n突然收到你傳簡訊說「妳下班後\n能來一趟訓練員室嗎」時我嚇了一跳呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "艾尼……！\n你的訓練員煮飯很好吃呢……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "我家訓練員可優秀了！\n我也坐下來一起吃好了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是那一箱滿滿的胡蘿蔔，\n就在一個晚上之間，\n全都進了她們兩人的肚子裡……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "只得到一根啊～\n但抽獎就是這麼回事啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "還是謝謝你答應臨時幫我這個忙！\n因為抽獎券的期限只到今天而已，\n幸好沒有浪費！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "下次訓練員要是有抽獎券來不及抽的時候，\n就通知我幫忙吧。\n我會去幫你抽的！",
+      "ChoiceDataList": [
+        "會發生這種狀況嗎……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "會啦會啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "…………應該吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，我把胡蘿蔔送去給艾尼風神，\n然後踏上歸途。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [
+        "沒有中獎……！"
+      ],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "哈囉哈囉～訓練員！\n昨天交給你的抽獎券──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "你怎麼看起來這麼沮喪啊？\n不能一大早就這麼沒精神喔──？",
+      "ChoiceDataList": [
+        "其實我沒有抽到獎品……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "咦！？不會吧！？",
+      "ChoiceDataList": [
+        "對、對不起！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "咦？不是、不是啦，我不是這個意思！\n我驚訝的是──\n你居然為了這種事情沮喪……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "啊……我才該道歉，真不好意思啊。\n害你莫名承受這樣的壓力……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果我害得艾尼風神\n也一起感受到壓力……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

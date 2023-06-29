@@ -1,0 +1,603 @@
+{
+  "Title": "結局？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "東商變革漂亮地\n在「寶塚紀念」中獲得第一名。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們成功攜手跨越了\n非常重要的最初的兩年……又多一點……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……………………\n………………………………",
+      "ChoiceDataList": [
+        "咦！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "使魔，吵死了！\n不要突然大叫！！",
+      "ChoiceDataList": [
+        "抱歉……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "真是的，我好不容易想到新的魔法咒語，\n結果聽你一叫就忘了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "還有那個時鐘的時間也不準！\n調整時鐘是使魔的工作吧！？",
+      "ChoiceDataList": [
+        "咦？對不起！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我不斷向東商變革道歉，\n然後立刻去調整時鐘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……但我不能一直當個沒用的使魔。\n身為她的訓練員，\n我必須跟她確認一件事。",
+      "ChoiceDataList": [
+        "話說下一場比賽妳有什麼打算？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "比賽？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "已經不需要再參賽了吧？\n畢竟我都學會了最強的賽跑魔法。",
+      "ChoiceDataList": [
+        "咦咦咦咦！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "安～靜～一～點～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "我、說、啊！！我想學的魔法，\n又、不、是只有賽跑魔法！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "學習魔法很辛苦的耶！\n你應該要再貼心一點才對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（喀啦啦啦！碰！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "打擾了～～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "突然闖入房間的是\n以剛克剛的活潑賽馬娘──\n川上公主。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "川上公主"
+      ]
+    },
+    {
+      "Name": "川上公主",
+      "Text": "請教我怎麼使用賽跑魔法～～！\n拜託了～～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "…………啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……！那個「啊」……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "是「好啊」的「啊」吧！？\n謝謝妳願意答應，真是感激不盡～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "我怎麼可能答應啊！？\n笨蛋川上！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "而且我又沒有要參賽！\n最近也沒打算使用賽跑魔法！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "咦咦咦咦咦！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "吵死了──！",
+      "ChoiceDataList": [
+        "（兩個人的聲音都好大……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "可、可是……\n我需要妳的魔法……！\n因為、因為……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "現在只剩下妳的魔法\n能夠改變那個人的心意了。\n………………嗚哇啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "喂……妳怎麼突然哭了！？\n真是的…………！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "妳為什麼需要賽跑魔法？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "…………我希望她能喜歡賽跑。",
+      "ChoiceDataList": [
+        "喜歡賽跑？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "我想讓某位前輩\n重新喜歡上賽跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "以前我曾經和那位前輩\n一起並行練跑過一次。\n我當時可以說是卯足全力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "因為前輩是名非常優秀的選手，\n所以……我很想贏過她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "比賽一開始，\n我就氣勢十足地往前衝，\n不斷想要衝到更前面──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……然後，我感覺到一陣衝擊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……我聽見了微弱的慘叫聲。\n一回頭便發現前輩變得臉色蒼白。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "接著她停下腳步，\n離開了賽道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "不久之後，我就聽說了\n「前輩變得害怕跑步」的傳聞。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "我當時急忙去向她道歉，\n但前輩只對我說「這不是妳的錯，\n所以不需要道歉」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "可是，那根本就是我的錯……！",
+      "ChoiceDataList": [
+        "妳說的前輩是哪一位賽馬娘啊？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "……這個嘛──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "我聽說妳在「秋華賞」後因為受傷開始休養，\n看來妳現在已經恢復到能跟人並行練跑了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "……咦？變革！？\n啊！！那個……好久不見？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "我問妳，\n妳現在會害怕跑步是真的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "流傳的謠言感覺是亂編的，\n真相是什麼？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "喔，這件事──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "……是真的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "但謠言並非完全正確。\n川上真的一點錯都沒有。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "川上"
+      ]
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "她只是拿出全力和我競爭而已。\n那次碰撞並不嚴重，\n我也沒有因此受傷。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "……當時會停下腳步，是我自己的問題。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "是什麼問題？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "因為我覺得自己辦不到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "在因傷休養時，我就隱隱約約\n感覺到了。即使之後復出……\n我一定也辦不到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "…………這是什麼意思。\n為什麼辦不到……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "證據就是我在和川上對決時退縮了。\n以我的實力贏不了她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "還有……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "還有──我也看了妳在「寶塚紀念」的表現。\n妳很厲害。我終於能夠理解\n為什麼大家會說像魔法一樣了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "厲害到我覺得自己根本不可能追得上，\n所以才想要放棄。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "！？為什麼？\n為什麼看過那場比賽之後\n妳會這麼想！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "別說不可能追得上這種蠢話，\n再重新挑戰一次不就行了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "就像妳之前在\n「奧克斯」和「秋華賞」時那樣──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "我辦不到！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "……我害怕得不得了。\n害怕面對慘敗後，\n走投無路的自己。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "我已經和那個時候的我不同了。\n不管是多厲害的賽馬娘，受傷休養一年\n肯定追不上其他人……這是常識吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "什麼常識啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "為什麼要露出那麼無聊的表情！？\n莫名其妙！\n真是太莫名其妙了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "什麼叫做常識！？\n居然因為這種無聊的理由放棄，\n現在的妳真是太無聊了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "水藍色緞帶的賽馬娘",
+      "Text": "常識就是常識！妳和我不同！\n我不是能夠創造奇蹟的賽馬娘，\n只是個普通的賽馬娘──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "我才不管那麼多！\n妳說的普通和常識，\n都可以用魔法破壞掉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "來看我秋天的比賽！\n我會用魔法讓妳恢復原狀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "我一定……一定會做到！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "使魔！\n我接下來可以參加什麼GⅠ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我開始思考適合東商變革的GⅠ。\n她現在的幹勁更勝以往。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "歷史悠久，高手雲集的秋季舞台。\n而且能發揮她的距離資質和尾段加速的比賽──",
+      "ChoiceDataList": [
+        "「天皇賞（秋）」吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "就選那個！\n還有川上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "咦！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "我會在「天皇賞（秋）」\n使出非常厲害的魔法，\n妳絕對要帶她來看比賽！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "我、我知道了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "（賽跑魔法是能夠破壞無聊的世界，\n讓大家雀躍不已的厲害魔法。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "（我絕對不容許\n有人在看過我的魔法後選擇放棄！\n我要使出更完美更厲害的魔法！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "（再來需要的是勁敵。\n能讓大家陷入瘋狂，\n讓比賽變得特別的勁敵──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "英雄！妳來得正好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "變革！？\n太好了，\n我也有話想對妳說……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "妳絕對夠格當我的勁敵！\n來參加「天皇賞（秋）」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "咦？「天皇賞（秋）」？\n變革也要參加那場比賽嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "沒錯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……！\n呵呵，其實我來找妳\n也是想拜託妳再跟我比一次。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "請再給我一次機會吧。\n這次……我絕對不會輸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "嗯，那就拜託妳扮演最棒的勁敵了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "天才魔法少女Sweepy，\n在「天皇賞（秋）」也會使出\n最強的超級魔法！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
