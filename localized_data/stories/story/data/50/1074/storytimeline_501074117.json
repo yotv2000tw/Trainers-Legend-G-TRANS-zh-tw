@@ -1,0 +1,555 @@
+{
+  "Title": "名為目白的傳說",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "看來全員到齊了呢。光明、雷恩、\n善信、多伯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……哎呀？\n拉莫內跟阿爾丹呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "拉莫內"
+      ]
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "她們都請假。拉莫內出國了，\n阿爾丹正在靜養。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……這樣啊。那我們開始吧。\n針對即將到來的「天皇賞（秋）」──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "屆時光明如何才能超越鈴鹿？\n此為本次目白家會議主題！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "請大家多多指教～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "炎炎夏日中召開的會議──\n其熱烈程度絲毫不輸給夏天的陽光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "在「寶塚紀念」與她比賽後，\n我感到……用一般的方法\n是無法贏過她的跑法的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "就是啊。該封她為超級領頭嗎？\n那樣真的還能算是領頭嗎？\n她那速度根本是不同世界的等級啊～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "嗯～得想出更具有魄力的跑法才行，\n不然是贏不過她的。\n得找到專屬於目白家的新跑法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "目白家的新跑法……\n總算是找到切入點了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "那麼大家一起思考吧。\n何謂「目白家的跑法」？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "我提議，大家一起說出\n自己心中的目白特色吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "好，大家同時說出來吧！\n預備～說！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "五人",
+      "Text": "「長距離！」、「爆速領頭☆」、「衝刺力！」、\n「意志力？」、「我想想～」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "青空下蹦出各種毫無規則的答案。\n在她們每一位心中，目白家的形象\n都截然不同，簡直毫無共識……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "我說你們啊，\n真的有在認真看待嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "嗯～很難用一句話\n就表達出何謂目白家呢。\n每個人都有自己的特色啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "即使如此，我想其中一定有些共通點。\n而找到共通點之後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "一定就能看見何謂「目白家的跑法」。\n進而找出能夠超越鈴鹿，同時屬於我們的跑法。",
+      "ChoiceDataList": [
+        "光明妳覺得呢？",
+        "光明妳覺得呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "我～覺得嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "屆時實際下場比賽的是目白光明。我想，\n得先聽取本人意見，討論才有辦法繼續下去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "這個嘛～何謂我心中的目白家呀～？\n也就是說～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "只要姓目白就是目白家呀～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "啊哈哈……光明……這話是沒錯啦，\n但卻不是我們要的答案……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……只要姓目白就是目白家。\n也就是說……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "原來如此，或許真的是這樣呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白光明的一句話\n似乎意外地激發了\n目白麥昆的靈感。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "麥昆，妳說真的是這樣，\n究竟是怎麼樣呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "也就是說──出生在目白家即是目白，\n出生在目白家以外的，就不能稱之目白。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "就是這樣，除此之外沒有其他判斷法了。\n妳們想想看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "我們每個人各自的速度、持久力、跑法。\n只要擁有資質，\n這些都可以靠後天學成吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "不過他人卻無法獲得出生在目白家的\n賽馬娘獨有的宿命、文化、習慣──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "也就是名為目白家的「傳說」。\n亦即我們從小憧憬的那個故事……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我們家族的祖先──\n降臨到了羊蹄山的冰天雪地之中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她喚醒了「母親之山」，而大地受到慈愛滋潤後，\n從中誕生出「巨人」──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "最終所有孩子們──皆開始覺醒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白家的賽馬娘邁步衝刺。速度快得像陣疾風。\n衝過草原、花田、沙漠、雪原。\n最後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──衝進比賽。讓無數人們沸騰、\n感動人心、讓觀眾露出笑容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "沒錯，目白家的賽馬娘正是每個人的「憧憬」。\n每個人心中的──光之子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "小時候每次聽到這個故事總是會聽得很著迷呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "是啊～這個故事是我們的寶物呢。\n我們總是聽得眼睛閃閃發光呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我有一個憧憬的對象，憧憬到夜不成眠……\n拉莫內。史上第一個達成三后冠的選手，\n目白家的女星……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "第一次跟她面對面說話時，我顫抖到幾乎\n說不出話來。即使是現在，偶爾跟她踏上同一個\n賽場時我還是會激動得想哭……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "或許今天在場的各位，未來哪一天\n也能成為那麼令人憧憬的存在呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "我想一定有人很崇拜\n締造偉大成就的麥昆大人。總有一天多伯也會\n變成受人景仰的賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "夢想……將會持續下去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "沒錯，我們從小到大都一直憧憬、\n深愛著目白家，並以目白家自豪。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "正是這份愛情\n成就了目白家的跑法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "不過，要怎麼做才能把愛化成跑法……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "……原來是這樣。現在正是……\n該不會這場會議──\n正是這麼一回事呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白雷恩緊緊地\n握住拳頭──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "此刻我們齊聚在此，\n並不只是為了協助光明獲勝，對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "我們是為了目白家，我們不想讓目白家\n被埋沒於時代洪流之中，所以才齊聚一堂。\n還有……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "只要是為了守護我們一直以來的憧憬，\n不讓憧憬斷絕，我們將不惜一切努力\n幫助光明。同心協力一起努力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "將全家族的所有力量都託付給光明，將所有意志\n託付在一人身上勇往直前的這份「決心」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "這就是只存在於目白家的力量。\n友情或同期都無法比擬的不朽情誼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──自古以來延續至今的傳說。\n沒錯，那就是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "延續至未來，充滿憧憬，名為目白的傳說。\n這是只有位於相同故事線上的成員\n才能孕育出的結晶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "訓練員，你之前曾說過吧？\n目白家的……光明的跑法\n「繼續維持原狀」就好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "你要她在維持持久力的狀況下鍛鍊速度，\n並且磨練尾段加速。徹底地強化全方位。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "或許這的確是一條出路。\n但要是真的走上這條路，\n由我們全體一起全方位鍛鍊光明──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "想必那負擔會無比沉重吧。\n你覺得光明有辦法撐過那過程，\n找到「目白家的新跑法」嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我彷彿想躲避目白麥昆的銳利目光似的\n看向目白光明……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "…………♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "一張優雅美麗的笑容映入眼簾。\n那笑容乍看溫和，卻帶著毫不動搖的決心，\n她決定積極地接受命運。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "既然她有這份意志，那就一定──",
+      "ChoiceDataList": [
+        "──一定辦得到的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "訓練員大人……",
+      "ChoiceDataList": [
+        "光明一定辦得到的",
+        "光明一定辦得到的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我充滿自信地回答。\n她這次也一定──能夠趕上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "是的，我沒問題的～\n所以，要請各位多多\n關照、指教了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "我會不惜粉身碎骨拚命努力的。\n請各位將妳們的光芒分給我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "光明……很～～～好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是我們展開了特訓。\n由我負責指導，五人全員出動一起幫忙特訓。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "呼……呼……呼……唔嗚嗚～～～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "光明，這樣妳就不行了嗎？\n妳的下盤只有這點程度嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "踏步時再深一點、再深一點！\n記住，踏步踏得多淺就代表了決心有多淺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（啪咻～～～～！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "光明……這樣還不行！要用全身去跑！\n不能光顧著動腳！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "將整個身體的動作化為一體，\n將所有力量傳入地面！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "是、是的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "喔耶耶耶～，我來教妳怎麼爆速領頭！\n……開玩笑的啦，怎麼可能。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "但我至少可以充當小鈴的角色吧。\n光明，來並行練跑吧。快點追上我！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "謝謝妳，善信大人～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "呼、呼、呼…… 唔嗚～\n咳咳咳……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "光明……之前妳曾說過呢。\n自己已經不是累贅了。\n要為了最深愛的目白家努力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "所以……來吧。我會陪妳到最後的。\n我們是出身目白家的同期，\n無論是開心還是累倒都要在一起。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "好的……多伯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "所有人排成一列在海灘上衝刺，\n雷恩、麥昆、善信、多伯，\n而光明跑在最後。這場面……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──彷彿目白家的年代記。\n這場面體現了將持續奔向未來的目白家歷史。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "Title": "需求定義：證明幽靈的存在",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某一天，空中神宮說她在訓練前有事要處理，\n於是我陪她一起來到了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "喂，之前說的數據我拿來了。\n真受不了，為什麼一定要我本人親自跑一趟啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "神宮，妳終於來了！\n呵呵，想知道我為什麼特地把妳找來嗎？\n這是因為──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "咖啡回老家了！\n我很可憐地被丟下了。\n唉，真是寂寞，好想跟人聊聊天～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "想跟人聊天？\n少講這種聽了讓人發毛的謊話。\n我要走了，妳也──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（啪！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……？\n剛才那聲音是什麼？我聽錯了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "不，我也聽到了。\n神宮的訓練員，你聽到了嗎？",
+      "ChoiceDataList": [
+        "我也聽到了",
+        "我也聽到了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……算了，那我先──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（啪，啪啪！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "啥……？\n喂！愛麗速子！妳是不是\n又藏了什麼奇怪的發明？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "怎麼會呢！？妳這樣是冤枉人呀。\n平常要怎麼想是妳的自由，\n不過如果單就今天，我絕對是清白的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "單就今天是吧……\n那剛剛到底是什麼東西在響？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "咖啡在的時候，偶爾也會聽見類似的聲音。\n妳也知道的，她體質比較特殊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "別因為一句她體質特殊就停止思考。\n我想要多做幾次實驗和驗證，\n不過她今天不在對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "是啊，她一早便出門了。\n因為今天是假日，而且也不用上課。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "是喔。\n那算了，我沒時間理這種無聊事。\n我要去訓練──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（喀答、喀答、喀答、喀答……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……有人要來了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "哎呀，真奇怪。\n除了妳以外，今天我應該沒有其他訪客。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "咖啡不在，學生們應該也都不在學園……\n到底是誰會來到這條走廊呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她說得沒錯，剛才來的路上，\n學園裡感覺沒有其他人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "除了占用空教室的愛麗速子還有我們，\n其他人應該沒有理由\n在假日來到學園──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……以目前的條件來看，\n毫無關係的人來到這房間的機率相當低。\n探測剛才的聲音源頭後，也發現結果為錯誤。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "根本完全不合邏輯。\n可惡，到底是怎樣……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（喀答、喀答、喀答、喀答……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（開門聲）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "不好意思，我忘了東西……\n愛麗速子，我之前買的送禮用的咖啡豆──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……？怎麼了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛麗速子",
+      "Text": "呵……呵呵呵……！\n哎呀呀，沒想到會是妳折返回來。\n神宮，妳也覺得意外吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "嘖……！可惡，結果根本就是輸入錯誤。\n咖啡「回來」的這個可能性本來就很高。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "都是因為奇怪的雜訊打亂了我的思考──\n唉～夠了。\n訓練員，我們走。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（喀答、喀答、喀答、喀答……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "啥？又來啊？\n這次又是誰來了……\n等著，我現在就把門打開──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（開門聲）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "空中神宮惱怒地打開門，而門的另一邊──\n半個人都沒有。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……不對啊，剛才我聽見\n腳步聲就在很近的地方……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……對不起，\n好像是跟著我來的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "這種不合邏輯的說法，\n我沒辦法接受……",
+      "ChoiceDataList": [
+        "想簡單點的話，是幽靈？",
+        "或是有人在遠一點的地方大力踏地板……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "就說了──我不想聽這種結論，\n中間跳過了前提和理論，聽起來就像逃避問題！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "既然這樣，我要徹底搞清楚是怎麼回事……\n先來確認走廊的材質，還要測量聲音的回音。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "不然我請祂走路小聲一點吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "空中神宮充滿幹勁，\n曼哈頓咖啡則是盯著半空中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "要弄清楚這現象的原因\n感覺好像沒那麼簡單……\n不過我想空中神宮應該沒問題！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "最好是。\n那聲音聽起來也不像從遠處傳來的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "不過，說是集體歇斯底里症候群還比較合理吧。\n雖然這結論有點太通俗……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "等等。\n如果是這樣，我們的精神數值\n是不是應該大幅向下調整……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "不，這應該能透過訓練補足。\n也要驗證外部因素，將正確的數值──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "不然我請祂走路小聲一點吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "空中神宮恢復以往的冷靜，\n曼哈頓咖啡則是盯著半空中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望空中神宮的理論是正確的……\n這件事有點嚇人，令我忍不住這麼祈禱！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

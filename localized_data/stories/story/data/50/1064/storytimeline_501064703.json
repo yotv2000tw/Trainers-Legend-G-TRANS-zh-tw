@@ -1,0 +1,337 @@
+{
+  "Title": "感情的障礙區",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "當我在外出後的回程路上，\n訊問目白善信是否有想去的地方時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "啊，今天要不要反過來，\n改去訓練員想去的地方呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "你還是很忙的樣子，\n去稍微喘口氣吧！怎麼樣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，我們決定去街上散步好散散心，\n但是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "咦！？這裡開了高爾夫用品店！\n嗚哇～那根1號木桿好像能打很遠～！",
+      "ChoiceDataList": [
+        "要不要去看一下？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "啊，不用了，下次好了。\n我們現在正在散步！",
+      "ChoiceDataList": [
+        "（咦……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "平時的她應該很樂意跑去看看的……\n但她似乎不太對勁。\n之後，這個不對勁仍持續著──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "想看的電影？我每部都很有興趣！\n所以就看訓練員你喜歡的吧！",
+      "ChoiceDataList": [
+        "那看這部「本月最推薦作品」怎麼樣？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "呃～《難解的藝術迷宮》嗎！\n這種的感覺很新鮮，好像不錯呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "這、這個……呃……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……不愧是連名字都寫了「難解」的電影，\n老實說我幾乎是看都看不懂。\n那似乎是給內行人看的作品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "哎呀～結束了～！看完了～！\n該怎麼說……超潮的呢！",
+      "ChoiceDataList": [
+        "的確是很潮",
+        "的確是很潮"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "沒錯沒錯！影像超潮！\n電影銀幕果然魄力十足呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "我最近的煩惱？\n……嗯～我想想……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "就是高爾夫的鐵桿，\n會打出右曲球吧。\n其他沒有什麼很大的煩惱～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "訓練員你才是，最近狀況如何？\n如果有什麼事，我會聽你說喔？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就算在空檔試探，也會被她蒙混過去。\n然後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "啊～已經到宿舍了。\n時間過得真快呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "今天謝謝你！\n訓練員，你開心嗎？",
+      "ChoiceDataList": [
+        "我是很開心……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "嗯？啊，你好像有煩惱的樣子？\n沒問題沒問題，我陪你！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "不管什麼事都可以問善信小姐喔！",
+      "ChoiceDataList": [
+        "……善信妳開心嗎？",
+        "……善信妳開心嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "我嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "咦，這還用問嗎！\n只要訓練員開心，\n我也開心！",
+      "ChoiceDataList": [
+        "我也一樣喔",
+        "我也一樣喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "咦？這是什麼意思？",
+      "ChoiceDataList": [
+        "妳真的開心嗎？",
+        "妳真的開心嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "嗯，我很開心……更正確的說，\n是覺得太好了吧。\n今天沒有給你添麻煩！",
+      "ChoiceDataList": [
+        "添麻煩？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "啊，沒有啦，我覺得，\n最近我都在給訓練員你添麻煩～！\n像之前也是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "你有工作要辦，\n卻拚命地幫我賣牛奶不是嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "不只是那個時候，\n訓練員你，\n在我拜託時總會幫我的忙──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "真的很重視我的想法。\n那令我非常高興！\n可是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "因為這樣就要你到處配合我，\n也不太對吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "……所以！我就決定，\n今後要多加小心了！",
+      "ChoiceDataList": [
+        "善信……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "不過～你一眼就看穿，\n我在顧慮你了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "我還以為我做得很自然呢～\n這樣啊，訓練員你看得出來啊～",
+      "ChoiceDataList": [
+        "妳不用顧慮我喔",
+        "妳不用顧慮我喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "咦？",
+      "ChoiceDataList": [
+        "因為我就是為了幫助妳而活的",
+        "因為我就是為了幫助妳而活的",
+        "只要保持我們該有的關係就好",
+        "只要保持我們該有的關係就好"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "咦？",
+      "ChoiceDataList": [
+        "因為我就是為了幫助妳而活的",
+        "因為我就是為了幫助妳而活的",
+        "只要保持我們該有的關係就好",
+        "只要保持我們該有的關係就好"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "！訓練員……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "這樣啊……對喔。\n你那時候也……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "……？等等。\n訓練員，你剛才說什麼？",
+      "ChoiceDataList": [
+        "「因為我就是為了幫助妳而活的」？",
+        "「因為我就是為了幫助妳而活的」？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "不對吧，為了幫助我而活……！\n訓練員，你意識到，\n你說了很不妙的話了嗎……？",
+      "ChoiceDataList": [
+        "咦？什麼很不妙的話？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "啊哈哈。\n你對這種事意外地遲鈍呢～\n算了，這也是你的優點吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "那我回去囉！\n明天見～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "希望我的心意傳達出去了──\n我望著目白善信離去的背影\n如此想著。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "！訓練員……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "呵呵，今天的我們怪怪的呢。\n該說是相處起來很不自然嗎？",
+      "ChoiceDataList": [
+        "自然的關係是最棒的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "沒錯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "別說了別說了！我們得保持我們該有的樣子，\n大喊喔耶～然後嗨起來才行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看到目白善信\n終於恢復她應有的模樣，\n我鬆了一口氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

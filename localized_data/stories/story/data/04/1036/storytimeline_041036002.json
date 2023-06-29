@@ -1,5 +1,5 @@
 {
-  "Title": "從黑箱中聽到",
+  "Title": "黑盒子內的聲響",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,61 +9,61 @@
     },
     {
       "Name": "中堅訓練員",
-      "Text": "──那麼，空中神宮。\r\n你照著我剛才說明的要領跑跑看。",
+      "Text": "──空中神宮，照剛才我說的方式跑跑看吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "與空中神宮相遇後的第二天。我來到跑道上時，\r\n看見一名訓練員正與空中神宮交談。",
+      "Text": "就在遇到空中神宮後的隔天，我來賽道觀摩，\n正好看到她在和某位訓練員說話。",
       "ChoiceDataList": [
-        "（她會是什麼樣的跑法呢）"
+        "（她跑步會是什麼樣子呢？）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "…………呼，開跑吧。",
+      "Text": "…………呼，開始吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "歐拉啊啊！！",
+      "Text": "喝啊啊啊！！",
       "ChoiceDataList": [
-        "（真……真激烈！）"
+        "（好……好猛！）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "賽馬娘A",
-      "Text": "噫……！？\u3000好、好嚇人……！\n離遠點跑好了……",
+      "Text": "哇啊……！？好、好嚇人……！\n還是離她遠一點跑吧……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "空中神宮的跑法比我想像中的還要粗野。但那並不是“粗暴”，\n反而是給人留下了一種，削減無用功、將跑法磨練到極致的印象。",
+      "Text": "空中神宮的跑姿比我想像的還要狂野，但感覺並不粗暴，\n而是盡量減少多餘動作，給人一種精鍊的印象。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "呼……呼……呼！\n……哈哈哈哈！！",
+      "Text": "呼……呼……呼！\n……哈哈哈！！",
       "ChoiceDataList": [
-        "（真厲害……）"
+        "（好厲害……）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "進入直線，她如猛襲般迅速伸展著末腳……\u3000她的跑法顯現出\r\n她整體能力水平很高，我被吸引住了。然而──",
+      "Text": "她朝直線奔馳，就像使出尾段加速般不斷加速……\n這番表現透露出她優秀的整體能力，也吸引了我，然而──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "中堅訓練員",
-      "Text": "喂、喂……！\u3000你等一下。\r\n你跑的跟和我講的完全不一樣啊……！",
+      "Text": "喂、喂……！妳等一下。\n這跟我剛才說的完全不同啊……！",
       "ChoiceDataList": [
         "（……！？）"
       ],
@@ -71,85 +71,85 @@
     },
     {
       "Name": "中堅訓練員",
-      "Text": "我說，『以先行策略跑跑看』。\r\n為什麼你直到第4彎道都還在壓著跑？",
+      "Text": "我剛才是要妳「採取前列戰術看看」。\n為什麼妳在第四彎道前都沒有使出全力？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "中堅訓練員",
-      "Text": "我想要確認一下你各方面的能力。\r\n不配合的話我很難辦的！",
+      "Text": "我是要確認妳各方面的能力啊。\n妳要是不肯配合，我很難做事！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "不行啊。",
+      "Text": "真夠隨便的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "中堅訓練員",
-      "Text": "誒？",
+      "Text": "什麼？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "為什麼你會認為，先行策略的數據對確認我的能力有用？\r\n有什麼根據？\u3000講一下邏輯啊。",
+      "Text": "既然要確認我的能力，為什麼你覺得前列戰術的數據\n能派上用場？有什麼根據？說出你的邏輯啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "再說，關於我自己的數據全都已經在我腦袋裡了，也驗證過了。\n我可不會聽重複進行非必要測試的指示。",
+      "Text": "而且我記得自己的所有數據，也都驗證過了。\n你這種增加非必要驗證次數的指示，我不會聽的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "中堅訓練員",
-      "Text": "但是，你所掌握的數據不一定全都是“正確的”吧？\n我是作為訓練員，依照積累的經驗提出意見──",
+      "Text": "可是，妳擁有的數據不一定「全是正確的」吧？\n我想以自己擔任訓練員所累積的經驗，提供我的意見──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "啊ー，差不多得了。你“也”跟其他人是一副德行嘛。\n幫確認訓練的事到此為止吧。走了。",
+      "Text": "唉～夠了，看來你「也」跟其他人一樣。\n訓練觀摩就到這裡結束吧，掰。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "中堅訓練員",
-      "Text": "哈！？\u3000你說什麼呢？\n這不是才剛開始嗎！",
+      "Text": "啥！？妳在說什麼啊？\n我們不是才剛開始嗎！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "已經結束了啊。如果你再浪費我的寶貴時間的話……\r\n你知道會發生什麼嗎？\u3000啊！？",
+      "Text": "就說已經結束了，要是你還想繼續浪費我寶貴的時間……\n明白我的意思吧？明白沒！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "中堅訓練員",
-      "Text": "呼……！\u3000怎、怎麼回事啊她……！\n搞不懂什麼情況……！",
+      "Text": "咿……！這、這傢伙是怎樣啊……！？\n真搞不懂……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "訓練員A",
-      "Text": "……剛、剛才的……看到了嗎？\n對付那樣的孩子，要怎麼做訓練啊。",
+      "Text": "……剛、剛才……妳看到了嗎？\n那種賽馬娘是要怎麼訓練啊？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "訓練員B",
-      "Text": "不不，不行的吧……\n好像沒法正常交流的吧──",
+      "Text": "不行不行，不可能啦……\n感覺根本沒辦法溝通啊──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "喂。胡說八道的煩不煩啊。\n我能聽──",
+      "Text": "喂，少囉哩囉嗦的，煩死了。\n以為我聽不──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -161,61 +161,61 @@
     },
     {
       "Name": "名將怒濤",
-      "Text": "啊嗚嗚，不好意思……\n讓你給我扶起來……",
+      "Text": "啊唔唔，對不起……\n不好意思還讓妳扶我……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "哎，又摔得這麼慘啊。\r\n這次是怎麼了？",
+      "Text": "妳又跌得這麼慘啊。\n這次是怎樣？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "啊，就是……那個，我有點兒亂來了……\n最近，我用時完全沒有縮短……就跑過頭了。",
+      "Text": "啊，呃……那個，是我有點太勉強自己……\n因為最近秒數都沒有縮短……我不小心就練跑練過頭了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……是碰壁了吧。\n你是不是該放棄愚蠢的挑戰，轉而向不同的方向進攻了？",
+      "Text": "……是遇上瓶頸了吧。\n別傻傻的只顧著跑，應該要從別的方向下手才對吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "你固然有努力，但成長率可不是無限的。\n它一定有界限。到達某種程度還不放棄的話就沒效率可言了。",
+      "Text": "我知道妳很努力，但成長率不是無限的，一定有極限，\n要是不適時放棄就會變得沒效率。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "就是……我，頭腦不靈光，還比別人更拖拉……\r\n我就只能，拚盡全力去努力了。",
+      "Text": "嗯……我頭腦不太好，又比大家還要愚鈍……\n所以也只能拚命努力。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "名將怒濤",
-      "Text": "如果我像這樣，不斷進攻的話……\r\n總有一天障礙會被打破的吧……我是這麼想的……",
+      "Text": "我想說……如果我繼續努力……\n或許有一天……就能突破瓶頸……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……是這樣啊。你打破障礙的樣子……\n務必要讓我看看啊。",
+      "Text": "……是喔，等妳突破瓶頸的那一刻……\n一定要讓我看啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……總有一天，麼。",
+      "Text": "……或許有一天嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "沒意義，像那樣的希望……",
+      "Text": "那種願望毫無意義……",
       "ChoiceDataList": [
         "（……！）"
       ],
@@ -223,125 +223,125 @@
     },
     {
       "Name": "訓練員B",
-      "Text": "呼～……好像總算平息了……？\n空中神宮，今天真暴躁啊。",
+      "Text": "唉……看來應該沒事了……？\n空中神宮今天比平常還要凶呢。",
       "ChoiceDataList": [
-        "（沒意義是指……）"
+        "（毫無意義……）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "她剛才的小聲嘟噥恐怕只有我聽見了──\r\n那與其內容截然相反的、悲痛的聲音，在我耳邊揮之不去……",
+      "Text": "那微弱的喃喃聲恐怕只有我聽見──\n她那與話語完全相反的悲痛聲音，迴響在我的耳邊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "想著白天看到的她的跑法，\r\n我不經意間在跑道邊駐足……",
+      "Text": "我想起白天曾看到她的跑姿，\n於是一時興起前往賽道……",
       "ChoiceDataList": [
-        "（神宮……？）"
+        "（空中神宮……？）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "呼……呼……呼！",
+      "Text": "呼……呼……呼啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "可惡，還不夠……！\r\n不夠、不夠、不夠、不夠……──",
+      "Text": "可惡，還不行……！\n還不行，還不行，還不行，還不行……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "──追不上，還差，“7cm”……！\n就差這麼點！\u3000可是卻……！",
+      "Text": "──追不上，還差「七公分」……！\n不過就那麼點距離！可是……唔……！",
       "ChoiceDataList": [
-        "（7cm……？）"
+        "（七公分……？）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "？？？",
-      "Text": "啊ー啊，真不像她啊。\r\n說話都支離破碎的了。",
+      "Text": "哎呀～真不像她。\n怎麼把心裡話全都說出來了呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛麗速子",
-      "Text": "晚上好。我叫愛麗速子。\r\n是神宮君的朋友……我要這麼說，她肯定就會一臉厭惡。",
+      "Text": "你好，我叫愛麗速子，是神宮的朋友……\n不過每次我這麼說，她都會露出真心厭惡的表情。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛麗速子",
-      "Text": "她明顯是過勞了呢。重視效率和實際利益的她，為什麼會\r\n做出那種沒有效率的反抗，真令人費解。",
+      "Text": "那明顯是過度訓練了呢。她明明看重效率與實際效果，\n卻用缺乏效率的方式掙扎到這種地步，真是難以理解。",
       "ChoiceDataList": [
-        "她要反抗什麼？"
+        "她是為了什麼在掙扎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛麗速子",
-      "Text": "你，懂得只有0和1構成的世界嗎？\r\n不的話，恐怕你是無法理解的吧。",
+      "Text": "你有辦法解讀只由0與1構成的世界嗎？\n不行的話，恐怕無法明白吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛麗速子",
-      "Text": "神宮君啊……可以說是一名數據的信奉者。\r\n她收集數據並反覆進行模擬，從而獲得正確答案。",
+      "Text": "神宮……該說她算是信奉數據的人嗎？\n她會收集各種數據，重複進行模擬，導出正確答案。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛麗速子",
-      "Text": "她所看到的一切，都被分類為true與false。\n模稜兩可的尺度──比如“可能性”什麼的根本就不存在。",
+      "Text": "她眼裡的一切全被分為true與false。\n模糊的標準──比方說可能性吧，這對她來說是不存在的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛麗速子",
-      "Text": "是啊……自己信仰的神，否定了自己的未來。\n那會是絕對的啟示，無論怎樣祈禱都不會被推翻。",
+      "Text": "我想想該怎麼說……她信仰的神明否定了她自身的未來。\n那是不容質疑的神啟，無論怎麼祈求都不會改變。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛麗速子",
-      "Text": "如果能被推翻的話就說明那不是啟示，這也是件可怕的事情。\r\n信徒別無選擇，只能接受自己的命運。也不能去詛咒它。",
+      "Text": "如果改變了，就不能算是啟示，反而更是件令人畏懼的事。\n信徒能做的只有接受宿命，也無法詛咒自己信仰的神。",
       "ChoiceDataList": [
-        "儘管如此……她還是想改變些什麼"
+        "即使如此……她還是想要改變些什麼"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛麗速子",
-      "Text": "呵呵，問題就在這兒。這是一種有趣的心理。\r\n照她說的話就是，明明是愚蠢的努力，為何還在繼續做……",
+      "Text": "呵呵，就是這一點有趣。在她看來，這樣的努力應該愚不可及，\n可是不知道為什麼，她卻持續下去……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛麗速子",
-      "Text": "神宮君所描繪的願景，被她磨練得太美妙了。\r\n但我覺得，正是在那些空白和多餘的地方，隱藏著可能性。",
+      "Text": "她心中描繪的願景，澄淨而過於美麗。\n不過我認為，空白的地方更可能藏有潛力。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛麗速子",
-      "Text": "哎呀，她好像要結束訓練了。\r\n她明明收集著別人的數據，自己卻不喜歡被偷窺呢。",
+      "Text": "哎呀，她似乎訓練結束了。\n她雖然會收集別人的數據，卻好像討厭別人偷看她訓練呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "愛麗速子",
-      "Text": "我就在此告辭了。那麼，這位被神宮君吸引了的、\r\n奇特而充滿好奇心的訓練員。你要怎麼做？",
+      "Text": "我就先告辭了。這位被神宮吸引過來的訓練員，\n你這麼奇特又充滿好奇心，會怎麼做呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "……我一定要追上空中神宮！",
+      "Text": "……我得去追空中神宮才行！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

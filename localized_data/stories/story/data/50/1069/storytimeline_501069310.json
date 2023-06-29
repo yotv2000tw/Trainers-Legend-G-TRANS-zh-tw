@@ -15,7 +15,7 @@
     },
     {
       "Name": "播報員",
-      "Text": "「太意外了，令人跌破眼鏡！秋季的頂尖對決，\n櫻花花瓣猛烈地席捲了最後的直線！！」",
+      "Text": "「讓人意想不到！秋季的頂尖對決，\n櫻花花瓣猛烈地席捲了最後的直線！！」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -27,7 +27,7 @@
     },
     {
       "Name": "播報員",
-      "Text": "「櫻花千代王領先了！\n櫻花千代王堅持佔領領先地位！」",
+      "Text": "「櫻花千代王領先了！\n櫻花千代王拒絕讓出領先地位！！」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -57,13 +57,13 @@
     },
     {
       "Name": "觀眾A",
-      "Text": "不、不會吧！？\n玉藻十字跟小栗帽怎麼可能會輸！",
+      "Text": "不、不會吧！？\n玉藻十字跟小栗帽竟然輸了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "觀眾B",
-      "Text": "那位賽馬娘真是大爆冷門哪！\n她一定非常開心吧？",
+      "Text": "那位賽馬娘真是大爆冷門！\n她一定非常開心吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -87,7 +87,7 @@
     },
     {
       "Name": "觀眾C",
-      "Text": "──噫！？\n那、那是怎麼回事……那是什麼……？",
+      "Text": "──噫！？\n怎、怎麼了……她那個眼神……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -105,7 +105,7 @@
     },
     {
       "Name": "丸善斯基",
-      "Text": "僅僅為了抓住一隻獵物，拼命研磨\n自己的獠牙，讓自己露出鋒芒。\n妳那雙彷彿餓狼的眼神……",
+      "Text": "僅僅為了抓住一隻獵物，\n拚命研磨自己的獠牙露出鋒芒。\n妳那雙彷彿餓狼的眼神……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -129,7 +129,7 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "訓練員，我發過誓，\n我一定要點燃丸姐的引擎。\n我一定要讓那個人認真起來。",
+      "Text": "訓練員，\n我發誓一定要點燃丸姐的引擎，\n要讓那個人認真起來。",
       "ChoiceDataList": [
         "是啊",
         "是呀"
@@ -144,15 +144,15 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "因為那個人擁有超出標準的實力……\n所以我也不能就這樣待在常識範圍內。",
+      "Text": "因為那個人擁有超出常理的實力……\n所以我也不能就這樣待在正常範圍內。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "我認為，要是想被那個人認可為勁敵，\n這就是最基礎的條件。",
+      "Text": "這是要被那個人認可為勁敵的最基礎條件。",
       "ChoiceDataList": [
-        "那，接下來妳想挑戰哪場比賽呢？"
+        "那麼接下來想挑戰哪場比賽？"
       ],
       "ColorTextInfoList": []
     },
@@ -164,19 +164,19 @@
     },
     {
       "Name": "",
-      "Text": "於是幾天後。\n櫻花千代王邀約丸善斯基一起到了屋頂上。",
+      "Text": "於是幾天後，\n櫻花千代王邀約丸善斯基一起到頂樓。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "丸善斯基",
-      "Text": "千代。\n恭喜妳贏得「天皇賞（秋）」。",
+      "Text": "千代，\n恭喜妳贏得「天皇賞（秋）」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "……！謝謝妳。\n原來妳也來看了啊。",
+      "Text": "……！謝謝妳。\n原來妳也來看了呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -194,19 +194,19 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "要是妳覺得我的實力還不夠，\n我會努力特訓，讓自己更加成長的。",
+      "Text": "要是妳覺得我的實力還不夠，\n我會努力特訓，讓自己更加成長。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "要是妳還需要時間考慮，\n那我會一直等妳的。",
+      "Text": "如果妳還需要時間考慮，\n我也會一直等妳。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "我會一直等到我的表現能夠打動妳的心為止。\n直到能夠被認可為妳的勁敵為止。",
+      "Text": "會一直等到我的表現能夠打動妳為止，\n直到能被認可為妳的勁敵為止。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -230,7 +230,7 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "東京賽場，草地2400公尺，經典距離。\n唯一一場跟妳賦予我的夢想．「日本打比」\n擁有相同條件的GⅠ競賽。",
+      "Text": "東京賽場，草地2400公尺的經典距離。\n唯一一場跟妳賦予我的夢想「日本打比」\n擁有相同條件的GⅠ競賽。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -244,13 +244,13 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "不過我有自覺，我還不夠資格\n跟妳相提並論。所以……",
+      "Text": "不過我知道自己還沒有資格\n跟妳相提並論，所以……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "一年後。一年後的「日本盃」上。",
+      "Text": "一年後……等到一年後的「日本盃」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -262,25 +262,25 @@
     },
     {
       "Name": "",
-      "Text": "風吹過兩人之間。那段時間，若要稱之為一瞬間，\n又未免令人覺得太過漫長。",
+      "Text": "風吹過兩人之間，\n那段時間若要稱為瞬間又未免太過漫長。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "那段時間，只見夕陽緩緩移動，\n最後太陽終於──",
+      "Text": "只見夕陽緩緩移動，\n最後終於──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "丸善斯基",
-      "Text": "……面對耀眼的光芒，\n就算想閉眼不去看也無法呢。",
+      "Text": "……是如此耀眼，\n甚至不讓人閉上眼睛。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "丸善斯基",
-      "Text": "太陽已經開始下山囉。\n我想我是無法再回到顛峰時期了。",
+      "Text": "太陽已經開始下山了喔。\n我想我是無法再回到巔峰時期了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -292,7 +292,7 @@
     },
     {
       "Name": "",
-      "Text": "那瞬間，丸善斯基動手撕破\n一直拿在手中的信封。",
+      "Text": "那瞬間，丸善斯基動手撕破\n拿在手中的信封。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -310,7 +310,7 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "訓練員。\n謝謝你陪我。",
+      "Text": "訓練員，\n謝謝你陪我。",
       "ChoiceDataList": [
         "妳的宣言很棒喔"
       ],
@@ -318,7 +318,7 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "呵呵，竟然先稱讚那部分，\n真像訓練員你的作風。",
+      "Text": "呵呵，竟然先稱讚那部分，\n真像訓練員的作風。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -335,7 +335,7 @@
       "Name": "櫻花千代王",
       "Text": "……訓練員。",
       "ChoiceDataList": [
-        "不過，畢竟我是訓練員嘛，還是會為妳加油的"
+        "不過，我還是會以訓練員的身分聲援妳"
       ],
       "ColorTextInfoList": []
     },
@@ -347,7 +347,7 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "呵……啊哈哈。\n訓練員你真是的……",
+      "Text": "呵……哈哈。\n訓練員你真是的……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -359,19 +359,19 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "呵呵。那請問你願意跟我一起\n開始準備一年後的比賽嗎？",
+      "Text": "呵呵，那請問你願意跟我一起\n開始準備一年後的比賽嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "為了點燃丸姐心中的引擎，\n為了增強實力，接下來該參加\n哪一場GⅠ才好呢？……請你不吝指導？",
+      "Text": "為了點燃丸姐心中的引擎，\n接下來該參加哪一場GⅠ增強實力……\n可以請你不吝指導嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我沐浴在她那期待的眼光中開始思考。\n考慮到她未來的發展，我想不外乎以下兩種選擇。",
+      "Text": "我在她那充滿期待的眼光下開始思考。\n考慮到她未來的發展，不外乎以下兩種選擇。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -402,13 +402,13 @@
     },
     {
       "Name": "",
-      "Text": "目標競賽是安田紀念",
+      "Text": "目標競賽是安田紀念。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "我知道了！\n我立刻寫進千代筆記裡！",
+      "Text": "我知道了！\n會立刻寫進千代筆記裡！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -420,7 +420,7 @@
     },
     {
       "Name": "",
-      "Text": "目標競賽是寶塚紀念",
+      "Text": "目標競賽是寶塚紀念。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "安田紀念"
@@ -428,7 +428,7 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "我知道了！\n我立刻寫進千代筆記裡！",
+      "Text": "我知道了！\n會立刻寫進千代筆記裡！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },

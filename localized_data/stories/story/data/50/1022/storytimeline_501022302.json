@@ -61,13 +61,13 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "謝謝♪",
+      "Text": "謝謝你♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿勢",
-      "Text": "不好意思，\n我也可以參加嗎？",
+      "Text": "不好意思，\n請問我也可以參加嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -97,7 +97,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -125,7 +125,7 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "嗯！有一種叫澡堂的設施吧。\n我偶爾～會和朋友一起去！",
+      "Text": "嗯！有一種叫澡堂的設施對吧。\n我偶爾～會和朋友一起去！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -155,7 +155,7 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "……這張券，\n應該交給你吧。",
+      "Text": "……這張券，\n應該是交給你比較好呢。",
       "ChoiceDataList": [
         "為什麼？"
       ],
@@ -163,7 +163,7 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "這張券，\n是有期限的吧。",
+      "Text": "這張券，\n並不是沒有期限的對吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -236,7 +236,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -312,7 +312,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -383,7 +383,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -445,7 +445,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -488,7 +488,7 @@
     },
     {
       "Name": "美妙姿勢",
-      "Text": "果然不行嗎？",
+      "Text": "果然是這樣嗎？\n不行啊～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

@@ -1,0 +1,534 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那是在我和東商變革\n經過商店街時發生的事情──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "嗯？那裡在做什麼？\n好像在排隊……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，好玩的抽獎活動！\n要不要來試一下手氣，看會抽到什麼～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "哇，是抽獎！感覺很有趣呢！\n使魔，去玩那個吧！",
+      "ChoiceDataList": [
+        "但我們沒有抽獎券"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "沒有的話就去收集！\n隨便買些東西吧！\n例如點心、衣服或炸豬排咖哩飯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "總之我要抽獎！\n不抽我就不回去！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在東商變革的要求下，\n我去買東西拿到了抽獎券！\n當然，是用自己的錢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "那我要抽囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "丁香☆丁香☆四葉草～～！\n幸運的魔法，借給我力量吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "東商變革詠唱魔法後，\n用力轉動抽獎機的把手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "東商變革",
+      "Text": "太──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "太棒了～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "特獎！是特獎啊！\n使魔，這是最厲害的獎啊！",
+      "ChoiceDataList": [
+        "妳的魔法果然厲害！",
+        "妳的魔法果然厲害！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "嘿嘿，對吧對吧！！\n畢竟我是偉大又無敵的\n魔法少女Sweepy！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "偉大的魔法少女心胸也很寬廣，\n這張券送給你，我們回去吧！",
+      "ChoiceDataList": [
+        "我可以收下嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "因為去溫泉旅遊也沒事做吧。\n雖然大浴池感覺很有趣，\n但學園的浴池就夠大了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果是我得到溫泉旅遊券……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "對了！我把這張券給你，\n你就帶我去遊樂園當作回報吧！\n還有動物園～採草莓～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "畢竟這可是特獎，\n應該值得這樣的回報吧？",
+      "ChoiceDataList": [
+        "那等之後有空的時候……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "真拿你沒辦法～\n不過我也很忙就是了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "我現在要做的是徹底學會賽跑魔法，\n讓大家大吃一驚！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "特獎的回禮，\n就等完成這個目標再說吧！\n為了避免你忘記，我來施展約定的魔法吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "普里奇．誓言．琉璃繁縷！\n絕對不能違反約定！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她說自己有其他優先想做的事情，\n這讓我很高興。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "等她完成遠大的目標後，\n我想好好幫她慶祝──\n這張旅遊券就是約定的證明。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "東商變革",
+      "Text": "哇啊，看起來還蠻好吃的呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "今天的晚餐就決定是這個了！\n使魔，快點做準備吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "蔬果店的大叔",
+      "Text": "要不要買點蔬菜配著吃？\n今天的青椒特別好吃喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "欸～不要不要不要！！\n漢堡排直接吃就很好吃了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "比起這個，我們快點回去吃吧！\n快點快點，動作快！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我被東商變革半推半拉地帶回學園，\n在自己房間的廚房烹調漢堡排……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……喂！！\n你為什麼加了青椒啊！？",
+      "ChoiceDataList": [
+        "因為剛好有剩"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "～～～～唔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "想也知道就算有剩也不用加進去吧！\n好不容易抽到的一獎都變成懲罰遊戲了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "真是的，青椒都給你，\n就當作你做漢堡排的獎勵，\n你就心存感激地吃掉吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "東商變革迅速將青椒全部推給我，\n但美味的漢堡排似乎讓她心滿意足！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "東商變革",
+      "Text": "二獎！\n這樣算蠻厲害的吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "不過一整堆胡蘿蔔，\n到底是多──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "哇！？好、好多……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "啊哈哈，就算是賽馬娘，\n說不定也吃不完呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "什麼！？\n我一個人就能吃完好嗎！？\n別小看魔法少女Sweepy！",
+      "ChoiceDataList": [
+        "妳真的吃得完嗎……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "當然吃得完！\n就算你想吃，我也不會分給你！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "東商變革就這樣鬥志高昂地\n帶著一整堆胡蘿蔔回去，然而──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……我膩了。我～膩～了～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "我不吃了！我想吃別的東西！\n使魔～！你快想想辦法～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然胡蘿蔔快要吃完了，但她已經膩了……！\n就在我煩惱該怎麼辦的時候──突然靈光一閃！",
+      "ChoiceDataList": [
+        "用魔法把這些胡蘿蔔變成點心吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "用魔法把胡蘿蔔變成點心……？\n哇，感覺很有趣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "預備──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員＆變革",
+      "Text": "料理☆點心☆料理！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "成功了！\n特製胡蘿蔔百匯，完成了～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "……不過感覺這不是魔法，\n比較像在做料理……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "算了，反正很開心！\n我可以分使魔吃一口喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "東商變革似乎非常開心，\n讓我鬆了口氣。\n看來她覺得很滿意！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "東商變革",
+      "Text": "討厭～！為什麼不是特獎！？\n我明明有好好詠唱魔法！",
+      "ChoiceDataList": [
+        "不過，這胡蘿蔔看起來很好吃"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "唔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "聽你這麼一說，\n看起來確實顏色很橘又充滿光澤……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咬……嚼……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "好……好好吃！！！！\n怎麼會這麼好吃！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "原來如此！\n其實是用魔法抽到了\n最好吃的那根胡蘿蔔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "哼哼！\n我果然是天才魔法少女！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "東商變革看起來很開心。\n我在心裡鬆了口氣，\n和她一起踏上返回學園的路……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "東商變革",
+      "Text": "沒……沒抽中～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "這怎麼可能！？\n我明明施展了幸運的魔法！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "嗚嗚～討厭討厭討厭！我要再抽一次！\n使魔，快點去收集抽獎券！\n我的魔法不可能失敗──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "哈……哈啾！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "真是的！不僅抽獎沒中，\n還冷到打噴嚏，到底是怎樣啊！？\n哈啾！",
+      "ChoiceDataList": [
+        "衛生紙給妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "嗚嗚……既然如此，\n我要把衛生紙全都用光……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "（擤────！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "東商變革在寒冷的天氣中用力擤著鼻涕，\n像是在遷怒衛生紙一樣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

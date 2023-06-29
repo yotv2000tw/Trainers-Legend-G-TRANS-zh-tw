@@ -1,0 +1,302 @@
+{
+  "Title": "妳選哪個姐姐！？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼的粉絲A",
+      "Text": "跟艾尼前輩一起跑步真的很神奇！\n妳沒試過吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雷恩的粉絲A",
+      "Text": "什麼啊？\n那妳有跟雷恩前輩一起重訓過嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……在前往訓練的途中，\n我們撞見令人在意的爭執場面。",
+      "ChoiceDataList": [
+        "是在吵架嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "嗯……\n好像是在吵我跟小雷的事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "先躲起來觀察一下吧。\n我要是這時候現身肯定會火上加油的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主持人賽馬娘",
+      "Text": "肅靜。發言前請先舉手。\n那麼──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主持人賽馬娘",
+      "Text": "「第四屆艾尼前輩跟雷恩前輩\n誰當姐姐比較好研討會」正式開始！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（掌聲！！）",
+      "ChoiceDataList": [
+        "（研討會！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼的粉絲A",
+      "Text": "（舉手！）\n請讓我代表艾尼前輩派發表意見！\n這是發生在幾天前的事情──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "呼！妳看，\n跑步就能忘掉所有煩心事吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "答謝我？不用不用，過程我也覺得很開心啊！\n下次再一起跑步甩開煩惱吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼的粉絲B",
+      "Text": "啊啊～果然還是艾尼前輩\n不擺架子的溫柔最棒了～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雷恩的粉絲A",
+      "Text": "唔唔唔……\n我也要代表雷恩前輩派發表意見！\n那是我去重訓時發生的事情──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "不要放棄！看著妳的肱二頭肌。\n然後……聽聽看肌肉的聲音。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "別怕，我就在妳的後面。\n無論發生什麼事情我都會撐住妳的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雷恩的粉絲B",
+      "Text": "這股安全感！\n雷恩前輩可靠的等級就是這麼誇張！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼的粉絲A",
+      "Text": "可惡……既然如此，\n我就講一件\n絕對能讓大家心服口服的事情──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "感覺很不妙啊！\n氣氛真是太僵了──我過去一下！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "兩人",
+      "Text": "──不可以吵架啦！\n──不可以吵架喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "兩人",
+      "Text": "呃……咦？",
+      "ChoiceDataList": [
+        "（原來雷恩也躲起來聽啊……！）",
+        "（原來雷恩也躲起來聽呀……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "研討會的賽馬娘們",
+      "Text": "艾尼前輩！？雷恩前輩！？\n這、這到底是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "大家聽我說！\n我完全能理解大家的想法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "但還是不希望妳們因此吵架。\n因為我們……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "其實感情好到會像這樣\n同時間一起跳出來啊！所以大家也──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "研討會的賽馬娘們",
+      "Text": "呀啊！她們兩位站在一起～！\n沒想到竟然能這麼近距離看她們……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "奇、奇怪……？\n妳們不是差點就要吵起來了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雷恩的粉絲A",
+      "Text": "啊啊，我們說話一直都是這樣的！\n講到激動的時候就會變成這樣子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼的粉絲A",
+      "Text": "就是這樣子沒錯，只要講到兩位的事情，\n就會一不小心加快語速……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "這樣就好……只是……\n怎、怎麼好像覺得很難為情……的感覺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "有人在定期舉辦自己的研討會，\n還有自己一些無心舉動會令粉絲心動不已，\n知道了這些事情……任誰都會覺得難為情吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "唉……\n……真受不了，真的是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "一群可愛的後輩耶！",
+      "ChoiceDataList": [
+        "……咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "嗯？幹嘛幹嘛？這麼驚訝做什麼。",
+      "ChoiceDataList": [
+        "不是，妳怎麼一點也不驚訝……",
+        "就是，妳怎麼一點也不驚訝……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "咦？才不會才不會！\n因為我很習慣這種狀況啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "真不愧是\n當了一輩子「姊姊」的人呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "所以嘛～就是這麼回事，\n身為姐姐真是再開心不過了♪\n我好想再為她們做點什麼呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "訓練員覺得做什麼比較好啊？\n當作是給這些可愛妹妹們的回禮！",
+      "ChoiceDataList": [
+        "一起喝茶聊天！",
+        "……辦個握手會之類的？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "剛好離訓練還有一點時間，\n那我就陪陪大家吧～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "研討會的賽馬娘們",
+      "Text": "太棒了～！雷恩前輩要不要也一起來？\n要是妳願意參加我們會很開心的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "當然願意，願意是願意……\n但妳們……不可以一直稱讚我喔？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "後來，在研討會成員的圍繞之下，\n兩位姐姐度過了快樂的茶會時光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "這樣就會開心了嗎？\n這我隨時都能做到耶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "研討會的賽馬娘們",
+      "Text": "訓練員，你很懂我們……！\n這是最棒的禮物了！\n得趕快聯絡沒來的成員們才行……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "什麼？還有更多成員……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "好啊！來多少人都沒關係！\n姐姐我沒有做不到的事♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "後來聚集了超乎想像的人數，\n她們憑著姐姐的意志力撐完全程。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

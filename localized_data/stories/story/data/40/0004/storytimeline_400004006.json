@@ -1,0 +1,442 @@
+{
+  "Title": "負面謠言？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今天的訓練結束後，\n當我送<chrname>\n回到宿舍時。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（議論紛紛……議論紛紛……）",
+      "ChoiceDataList": [
+        "（校門附近好嘈雜……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "只要一下子就好了！\n請讓我確認事情的真相！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "非、非常抱歉～！\n這樣會造成學生們的困擾，\n請各位離開！",
+      "ChoiceDataList": [
+        "手綱小姐，請問發生什麼事了！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "訓、訓練員……！\n你現在不可以露臉啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "喂，這不是那個訓練員嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "……不好意思！\n請問你是\n<username>訓練員嗎？",
+      "ChoiceDataList": [
+        "我是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "有謠言說你逼自己的專任賽馬娘\n進行過於嚴苛的訓練，\n請問這是真的嗎！？",
+      "ChoiceDataList": [
+        "什麼！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "聽說你要她每天練耐力跑直到深夜，\n逼她在石頭上面靜坐三天，\n還叫她倒立走完整圈賽道……",
+      "ChoiceDataList": [
+        "全、全都不是事實！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "但已經有媒體刊登報導爆料了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "所以說，就如同我剛剛的回答……\n那篇報導全都是不實內容！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者C",
+      "Text": "真的不是事實嗎？\n這可關係到整個特雷森學園的信譽喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "制止！制止──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "否定！首先容我鄭重否定！\n本學園再重視賽馬娘不過了，\n絕對沒有教職員會苛待賽馬娘！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "以及！關於本次騷動，\n本學園預計會再正式發表聲明！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "各位媒體朋友，拜託！\n希望各位暫且稍安勿躁！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "……我知道了。\n下次請務必接受我們的採訪。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "聽到秋川理事長一聲令下，\n記者們臉上雖仍有不滿，\n但總算是願意散去了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之後我們到理事長辦公室開會商討對策。\n根據乙名史記者的說法──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……就是因為這樣，\n我們盡可能尋求更多媒體同業的協助，\n卻因為數量過多導致沒能一一確保各家水準。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "結果出現了不實報導，\n害得<username>訓練員\n承受莫須有的嫌疑……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "真的……非常抱歉……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "赦免！\n這不是乙名史妳一個人的錯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "就是啊，\n追根究底，都是寫出這種莫名其妙的\n報導的人不對！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "嗯嗯！\n不過事情鬧得這麼大，\n這下難以收場了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "誤會一旦傳開，\n就很難徹底消除……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "嗯。站在學園的立場，\n確保學生們的安全為第一要務！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "這樣看來，果然還是該\n先停止接受媒體採訪嗎……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……！\n請、請稍等一下！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "這次的騷動，\n我難辭其咎。\n一切都要怪我力有未逮！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "不過，\n若缺少特雷森學園的協助，\n「閃耀巨星巔峰賽」就無法順利舉辦……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "當然，我不會停止所有協助！\n只是想暫且縮小媒體報導的規模，\n等待世人的討論度降低──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "要是世人的討論度降低，\n就等於被世人所遺忘！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "唔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "當然，寫出不實報導的記者與媒體\n今後將無法再接觸本賽相關事項！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "我知道這是個無理的要求……！\n求求妳，請允許我維持\n目前的規模繼續報導！",
+      "ChoiceDataList": [
+        "為什麼這麼執著……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "我不想讓\n「閃耀巨星巔峰賽」的聲勢減弱。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……這場全新的競賽，\n是為了實力堅強，有資格獲得\n「最強」頭銜的賽馬娘所舉辦的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "曾因命運的捉弄而失去「最強」稱號，\n但其實很有實力的賽馬娘……現在她們\n也有機會親手奪下至高的榮譽……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "正因如此，我希望她們抓住勝利的那瞬間，\n能身處最熱烈的氣氛之中！所以我才想\n讓競賽受到盛大注目！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "我會負起責任\n盡力讓這件事平息下來的。\n所以……拜託了……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……提問。\n既然如此，乙名史妳打算\n如何平息這件事呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "我深深感受到妳的熱情了。\n然而！身為特雷森學園理事長，\n我無法光憑熱情就輕易許可！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……請允許我進行採訪。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "採訪？嗯，疑惑……\n現在正在討論如何規範報導，妳卻反而想採訪？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "稱之為……\n「<username>訓練員\n貼身採訪」！",
+      "ChoiceDataList": [
+        "貼、貼身採訪！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "是的！\n藉由每天採訪，即可讓全世界\n看到那卓越的訓練情況。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "我想這樣應該可以\n證明他行事沒有問題，\n沒有逼選手進行嚴苛的訓練……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "同時也可作為一種宣傳！\n看來妳考慮得很周全呢……真心佩服！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "既然是由乙名史記者負責採訪，\n我想應該不會給訓練員們\n造成太大負擔。",
+      "ChoiceDataList": [
+        "是啊……畢竟她的知識相當豐富……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "不過，我擔心……\n乙名史記者正在籌備新競賽，\n應該非常忙碌吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "要是進行到一半無法繼續，\n得改由其他記者負責採訪的話……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "不，無論發生什麼事我都會好好採訪。\n就算粉身碎骨我都會爬來採訪！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "我認為這樣才是\n真正的負責任……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "要是粉身碎骨\n請務必先去醫院……\n理事長，這該怎麼辦呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "嗯。這個嘛……\n首先，特雷森學園方面的責任\n自然得由我來承擔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "發問！<username>訓練員，\n你怎麼想？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "我相信，\n有資格下決定的，\n只有身為<chrname>搭檔的你了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我頓時語塞。\n安定的訓練環境與觀眾的聲援，\n哪種狀況對<chrname>更加有利？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "乙名史記者擁有的知識確實會是強力武器。\n但她真的值得信賴嗎──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……拜託你……\n請再讓我繼續追尋夢想……！",
+      "ChoiceDataList": [
+        "……我──",
+        "……我──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "早安！\n今天起將開始貼身採訪，\n敬請多多指教！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……沒想到你真的會答應受訪。\n老實說我還有些不可置信。",
+      "ChoiceDataList": [
+        "因為我不想看別人的夢想破滅"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "什麼？\n你說……夢想？",
+      "ChoiceDataList": [
+        "沒什麼。請多指教！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "請、請多指教！\n我會注意盡量不打擾到你！\n也會全力以赴採訪！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我尚未知曉乙名史記者懷抱著什麼夢想。\n但我覺得要是否定了\n一心追逐夢想的她──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "似乎也就等於違背了\n我與<chrname>一同發誓\n要追逐的那個夢想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……於是，每天接受乙名史記者\n貼身採訪的日子就這樣展開了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

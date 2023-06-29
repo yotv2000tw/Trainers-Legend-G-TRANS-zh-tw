@@ -1,0 +1,225 @@
+{
+  "Title": "開張！特別商店！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天，我經過販賣部時，\n發現新增了一個沒看過的特設賣場。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "賣場前插了寫著「新裝潢！」、「開張！」的\n旗幟，而一臉愉悅地眺望著旗幟的人是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "極佳！成品非常棒！\n這下訓練員一定也會很開心！",
+      "ChoiceDataList": [
+        "請問這是在做什麼呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "喔喔？你也在啊，\n<username>訓練員！\n正好，請看！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "為了各位訓練員，\n這次利用販賣部店內的空間……\n風光！！開張！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "秋川理事長俐落地指向某個方向，\n上頭寫著四個字。",
+      "ChoiceDataList": [
+        "「特別商店」……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "正是！本店將不遺餘力提供精挑細選的\n「培育道具」！方便又好用！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "培育道具"
+      ]
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "為了幫助諸位賽馬娘身心健全地成長！\n誠心！希望有所助力！",
+      "ChoiceDataList": [
+        "喔喔……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "秋川理事長興致勃勃地介紹著商品，一開始\n我還帶著佩服的心情聽她介紹，但──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……所以呢，購物時不需使用現金！",
+      "ChoiceDataList": [
+        "不用現金！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "正是！只要使用特別的商店幣\n就可以兌換商品！",
+      "ChoiceDataList": [
+        "兌換！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "此外！\n商店幣將按照\n參賽成績進行配給！！",
+      "ChoiceDataList": [
+        "配給！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……聽起來未免也太大方了。\n我決定鼓起勇氣發問。",
+      "ChoiceDataList": [
+        "請問，這間店的進貨資金……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "理、理事長～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "喔喔，手綱！\n我正在向訓練員說明\n特別商店的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "特別商店"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "我正是想談談\n特別商店的事！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "理事長……妳又自掏腰包\n買了所費不貲的東西了吧……！？",
+      "ChoiceDataList": [
+        "商品進貨的資金果然是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "嗯！\n都是我自掏腰包進貨！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "結果效率之快！\n進貨管道立刻就安排好了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "妳的心意真的很令人感激，\n但妳每次都把規模弄得太大了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "哇～哈哈哈！\n為了我深愛的諸位賽馬娘，\n就算自掏腰包也在所不惜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "等一下，我話都還沒講完啊～！",
+      "ChoiceDataList": [
+        "……她走掉了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "……太了不起了！",
+      "ChoiceDataList": [
+        "唔哇啊，妳什麼時候來的！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "啊，我今天是為了別的報導來採訪的。\n平時承蒙照顧了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "不過，真是太了不起了……！\n為了賽馬娘，秋川理事長居然願意\n付出所有私人財產，這份決心太了不起了！",
+      "ChoiceDataList": [
+        "不，她沒有用光財產啦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "請務必讓我刊載在報導上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "「為了閃耀巨星巔峰賽，\n秋川理事長下定決心，不惜奉獻一切……」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "「<username>訓練員也隨之響應，\n他將竭盡全力奉獻自己！」",
+      "ChoiceDataList": [
+        "……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "為什麼連我都得\n奉獻自己呢……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "聽著乙名史記者那興奮不已的聲音，\n我一邊凝視著窗外。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……不過，往後可以自由使用\n特別商店，真是幫了大忙。\n充分活用適合的道具吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

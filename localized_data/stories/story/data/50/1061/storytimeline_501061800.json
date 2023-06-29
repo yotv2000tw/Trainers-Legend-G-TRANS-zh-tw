@@ -1,0 +1,311 @@
+{
+  "Title": "加油行",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我好像聽見拉麵店傳來\n帝王光輝的聲音，所以往裡面一瞧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "加油！加油！特別週！\n加油──────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "噗哈！我吃飽了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拉麵店老闆",
+      "Text": "恭喜！\n妳成功完成了巨無霸拉麵挑戰！！",
+      "ChoiceDataList": [
+        "這是……什麼狀況？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "粉絲感謝祭的加油超熱情！\n我都忍不住稍微哭了出來……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "Sí！令人手心冒汗的賣力吶喊……！\n我也想要被人那麼熱烈地聲援一次！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "呵呵呵！\n的確很棒！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "對了！那就由帝王我鼎力相助，\n為大家加油吧！好好感恩吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "……嗯嗯？也包括我們？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……聽說事情就是這樣，\n帝王光輝到處為她們加油。",
+      "ChoiceDataList": [
+        "連衣服都穿來了，真有幹勁耶",
+        "連衣服都穿來了，真有幹勁耶"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "那當然！既然帝王要當啦啦隊，\n就必須拿出一流的表現！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "這就是帝王為了當啦啦隊，\n特地設計的服裝！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "是一流的啦啦隊所不可或缺的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "好，去下一個地方！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "不知不覺就成了她的同伴……\n不過，因為很擔心情況，\n所以我決定照她說的一起走。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "加油！加油！特別週！\n加油！加油──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "啊……可以拜託妳\n像是對那塊大岩石加油嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "咦，那個岩石……？\n是可以啦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "加油！加油！特別週！\n加油！加油！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "帝王，妳來了啊～！\n好，請跟神鷹我一起\n幫曼波加油！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "曼波？咦，誰啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "曼波！\n下次一定要成功翻筋斗！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "咦，呃……雖然不知道是誰！\n加油！加油！曼波！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "謝謝妳……看場合聲援的貼心。",
+      "ChoiceDataList": [
+        "（不發出聲音地加油……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "這個嘛……拜託妳想像成\n幫今天插的花加油……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "呼、呼……為了加油東奔西走，\n也很不容易呢。",
+      "ChoiceDataList": [
+        "辛苦妳了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "這點小事不算什麼！\n舉手之勞而已啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "話說回來，帝王的一流加油\n超棒的吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然帝王光輝自信滿滿，\n但加油的對象好像是岩石跟花……\n但願有成功傳達──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "非常謝謝妳！\n它看起來很喜歡加油的節奏，\n妳抓到了訣竅呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "這讓我成功用新的角度插了花。\n下次也可以拜託妳嗎～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "岩石地的魚也游了出來，真愉快。\n偶爾熱鬧一下也不錯呢～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "我也是！多虧帝帝的加油，\n才能以極快的步調吃麵……！\n完成了巨無霸拉麵挑戰！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特別週",
+      "Text": "帝帝遇到什麼困難也要告訴我們喔！\n我們也會幫妳加油的！",
+      "ChoiceDataList": [
+        "太棒了，非常成功呢！",
+        "太棒了，非常成功呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "……哼、哼！\n帝王隨時隨地都很完美，用不著擔心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "不過，我讚許你\n發現了帝王有多麼偉大！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "還需要加油的話就跟我說吧。\n心情好的話，幫忙加油也不是不行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "整張臉紅通通的還敢說～♪\n啊，這是在掩飾害羞吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "哼！真是不巧，\n我可不會搭理妳的揶揄！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "帝王只是再次感受到\n自己的偉大罷了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "喔～呵呵呵！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "帝王光輝這麼說著，\n看起來十分開心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "是……是因為夕陽才像是臉紅啦！\n對我來說，這點程度是理所當然的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她這麼說著，\n將臉上的紅暈推託給夕陽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "笨蛋！我才沒有害羞！\n我是感動──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
+      "Text": "啊，原來是這樣啊～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "帝王光輝",
+      "Text": "不不不！我什麼都沒說！\n喂，你們笑什麼啦！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "帝王光輝的個性\n還是一樣彆扭。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

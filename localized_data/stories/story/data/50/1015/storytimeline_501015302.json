@@ -1,489 +1,489 @@
 {
-    "Title": "抽獎試手氣！",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "某天傍晚，當我陪著好歌劇散步，\n兩人走在商店街時──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "唔，訓練員！快看前面。\n那裡似乎擠滿了人潮……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "我看是決鬥吧？那我可得上前調解才行。\n或者我也可以瀟灑地加入戰局？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "靠近一看……果不其然，\n並不是決鬥。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人員",
-            "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "溫泉旅遊券"
-            ]
-        },
-        {
-            "Name": "商店街人員",
-            "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人員",
-            "Text": "那邊那位正好路過的歌劇巨星！\n有沒有興趣來試試手氣～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "哈──哈哈！我都藏身在觀眾席裡了，\n竟然還被發現，那就沒辦法了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "抽獎嗎，不錯啊。\n我早就深受這種會轉動的小道具所吸引了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "來吧，訓練員，從懷裡俐落地抽出抽獎券吧。\n要用食指與中指夾住喔。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……連拿出來的方式都要很有戲。\n我把僅此一張的抽獎券像卡牌一樣抽出，\n交給了大叔。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "那就開始吧。訓練員，\n跟我一起握住抽獎機的把手。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "現在，賭上我的天運！\n轉動吧，命運的齒輪！喝啊啊啊！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我們兩人一起高高舉起手，\n轉動了抽獎機。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "結果是──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人員",
-            "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "獲得了「<itemname>」。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "喔喔喔，一道光芒……從天而降！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "特獎！！當然了！即使是幸運女神，\n也敵不過我這巨星的魅力。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "哈──哈哈哈！\n啊──哈哈哈！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "溫泉旅行啊，真不錯。\n雖然很想現在就立刻動身……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "無奈我實在不能這麼做。\n因為我尚在征服霸道的途中呢。",
-            "ChoiceDataList": [
-                "妳想先忍忍嗎？",
-                "妳想先忍忍嗎？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "對，征服霸道的途中沒有地方\n能讓我止步休憩。所以……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "乾脆要溫泉地到我這邊來吧！\n你不覺得應該由它前來拜見我嗎！？",
-            "ChoiceDataList": [
-                "溫泉……又不會走路……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "這樣啊，想不到它還滿不通人情的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "那就沒辦法了。\n這張旅遊券就由你收著吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "在適當的時機到來之前，希望你能\n先用蓋上玉璽的火漆封住，並將它收好。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "溫泉旅遊券就這樣由我保管了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "呵呵、呵呵呵……你看得見嗎？\n我──看得見！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "霸道的前方──有著一座溫泉！\n而且是源泉溫泉！哈──哈哈哈！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "多了溫泉旅行這個日後可以期待的活動，\n讓好歌劇的士氣直線上升！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人員",
-            "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "獲得了「<itemname>」。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "哦，一獎！這不挺有收穫的嘛！\n不愧是受到命運眷顧的我！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "──！！而且這是……聖劍漢堡排！\n這不是聖劍漢堡排嗎！",
-            "ChoiceDataList": [
-                "什麼是聖劍漢堡排？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "你看！在絞肉山丘上，\n氣勢萬千地插著一根胡蘿蔔！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "唯有符合王者資格之人，\n才能拔出這根胡蘿蔔。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "既然如此，我可不能再按兵不動了。\n立刻回去煮來吃吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "好，完成了！\n訓練員，流程都記清楚了吧？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "我把它拔出來之後，\n你就要驚嘆地說出台詞喔？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "一～二！我拔！！",
-            "ChoiceDataList": [
-                "喔喔，您才是真正的王！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "當然了！哈──哈哈哈！\n嚼嚼……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "嗯，這把聖劍……美味！\n實在美味！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "好歌劇把聖劍吃了。\n她玩得開心又吃到好料，看起來心滿意足。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人員",
-            "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "獲得了「<itemname>」。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "嗯……二獎啊。我是覺得不甚滿意，\n不，可是……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "這個分量！如果讓我帶著愛分送出去，\n或許可以當成給粉絲的紀念品呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "哦，正好有人經過！那邊的小男生，\n送你一根胡蘿蔔吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "男孩",
-            "Text": "呃……不要啦……\n我不喜歡胡蘿蔔……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "哈──哈哈哈，說這什麼話？\n這可不是普通的胡蘿蔔，\n裡面還加了我的愛喔。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "男孩",
-            "Text": "更不想要了……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "啊，你別走啊，小男生！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "怎麼會這樣……好吧，我能體會他的心情。\n畢竟一嘗過這種味道，\n就再也不會想吃其他食物了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "啊啊，我忍不住了！訓練員，\n這些就我們自己吃吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "Je t'aime的胡蘿蔔活跳跳吃法！\n我與你還有胡蘿蔔都要一起跳舞！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我們一邊表演謎樣的舞蹈，一邊吃著胡蘿蔔。\n雖然味道就只是普通的胡蘿蔔，\n但還是很好吃。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人員",
-            "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "獲得了「<itemname>」。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "什麼！就只有一根胡蘿蔔！？\n你不覺得自己這樣很丟臉嗎？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "你說句話啊，到底是怎樣！\n胡蘿蔔！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "好歌劇對胡蘿蔔發脾氣。\n但胡蘿蔔當然不可能回答她。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "既然這樣，\n我就用歌唱來發洩這份傷悲好了。\n用胡蘿蔔代替麥克風舉辦獨唱會吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "就讓我來首平常不唱的下町小調，\n沉浸在自虐的心情中吧。伴奏開始！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "嗨喲！嗨喲！\n嗨喲嗨喲嗨喲──！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "歡迎大家光臨，胡蘿蔔王國！\n胡蘿蔔軍隊，一二三向前走！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "好歌劇幾乎是自暴自棄地唱起歌來。\n但商店街的孩子們都聽得滿開心的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "商店街人員",
-            "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "獲得了「<itemname>」。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "喔喔喔……再也沒比這更糟的獎品了……\n偉大的我……竟然會抽到安慰獎！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "想不到我竟然只能收到面紙……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "啊，不是衛生紙喔，是面紙、面紙。\n不覺得正確的名稱很美嗎。",
-            "ChoiceDataList": [
-                "喔，好……",
-                "呃，嗯……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "訓練員！我要給你一道聖旨！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "你拿著這包面紙，\n去找個地方換成溫泉旅行再回來！",
-            "ChoiceDataList": [
-                "這不強人所難嗎……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "夠了，我不想聽藉口。\n悲慘的命運使我深受打擊，\n變成了狂王【Raver Lord】！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "好歌劇",
-            "Text": "你若是辦不到，\n我就把你關進巴黎古監獄！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "殘酷的抽獎改變了王的內心。\n看來她的心情今天一整天都不會變好了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天傍晚，當我陪著好歌劇散步，\n兩人走在商店街時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "唔，訓練員！快看前面。\n那裡似乎擠滿了人潮……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "我看是決鬥吧？那我可得上前調解才行。\n或者我也可以瀟灑地加入戰局？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "靠近一看……果不其然，\n並不是決鬥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "那邊那位正好路過的歌劇巨星！\n有沒有興趣來試試手氣～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哈──哈哈！我都藏身在觀眾席裡了，\n竟然還被發現，那就沒辦法了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "抽獎嗎，不錯啊。\n我早就深受這種會轉動的小道具所吸引了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "來吧，訓練員，從懷裡俐落地抽出抽獎券吧。\n要用食指與中指夾住喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……連拿出來的方式都要很有戲。\n我把僅此一張的抽獎券像卡牌一樣抽出，\n交給了大叔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "那就開始吧。訓練員，\n跟我一起握住抽獎機的把手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "現在，賭上我的天運！\n轉動吧，命運的齒輪！喝啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們兩人一起高高舉起手，\n轉動了抽獎機。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "喔喔喔，一道光芒……從天而降！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "特獎！！當然了！即使是幸運女神，\n也敵不過我這巨星的魅力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哈──哈哈哈！\n啊──哈哈哈！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "溫泉旅行啊，真不錯。\n雖然很想現在就立刻動身……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "無奈我實在不能這麼做。\n因為我尚在征服霸道的途中呢。",
+      "ChoiceDataList": [
+        "妳想先忍忍嗎？",
+        "妳想先忍忍嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "對，征服霸道的途中沒有地方\n能讓我止步休憩。所以……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "乾脆要溫泉地到我這邊來吧！\n你不覺得應該由它前來拜見我嗎！？",
+      "ChoiceDataList": [
+        "溫泉……又不會走路……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "這樣啊，想不到它還滿不通人情的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "那就沒辦法了。\n這張旅遊券就由你收著吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "在適當的時機到來之前，希望你能\n先用蓋上玉璽的火漆封住，並將它收好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "溫泉旅遊券就這樣由我保管了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "呵呵、呵呵呵……你看得見嗎？\n我──看得見！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "霸道的前方──有著一座溫泉！\n而且是源泉溫泉！哈──哈哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "多了溫泉旅行這個日後可以期待的活動，\n讓好歌劇的士氣直線上升！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哦，一獎！這不挺有收穫的嘛！\n不愧是受到命運眷顧的我！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "──！！而且這是……聖劍漢堡排！\n這不是聖劍漢堡排嗎！",
+      "ChoiceDataList": [
+        "什麼是聖劍漢堡排？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "你看！在絞肉山丘上，\n氣勢萬千地插著一根胡蘿蔔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "唯有符合王者資格之人，\n才能拔出這根胡蘿蔔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "既然如此，我可不能再按兵不動了。\n立刻回去煮來吃吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "好，完成了！\n訓練員，流程都記清楚了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "我把它拔出來之後，\n你就要驚嘆地說出台詞喔？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "一～二！我拔！！",
+      "ChoiceDataList": [
+        "喔喔，您才是真正的王！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "當然了！哈──哈哈哈！\n嚼嚼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "嗯，這把聖劍……美味！\n實在美味！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "好歌劇把聖劍吃了。\n她玩得開心又吃到好料，看起來心滿意足。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "嗯……二獎啊。我是覺得不甚滿意，\n不，可是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "這個分量！如果讓我帶著愛分送出去，\n或許可以當成給粉絲的紀念品呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哦，正好有人經過！那邊的小男生，\n送你一根胡蘿蔔吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男孩",
+      "Text": "呃……不要啦……\n我不喜歡胡蘿蔔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哈──哈哈哈，說這什麼話？\n這可不是普通的胡蘿蔔，\n裡面還加了我的愛喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "男孩",
+      "Text": "更不想要了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "啊，你別走啊，小男生！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "怎麼會這樣……好吧，我能體會他的心情。\n畢竟一嘗過這種味道，\n就再也不會想吃其他食物了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "啊啊，我忍不住了！訓練員，\n這些就我們自己吃吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "Je t'aime的胡蘿蔔活跳跳吃法！\n我與你還有胡蘿蔔都要一起跳舞！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們一邊表演謎樣的舞蹈，一邊吃著胡蘿蔔。\n雖然味道就只是普通的胡蘿蔔，\n但還是很好吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "什麼！就只有一根胡蘿蔔！？\n你不覺得自己這樣很丟臉嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "你說句話啊，到底是怎樣！\n胡蘿蔔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "好歌劇對胡蘿蔔發脾氣。\n但胡蘿蔔當然不可能回答她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "既然這樣，\n我就用歌唱來發洩這份傷悲好了。\n用胡蘿蔔代替麥克風舉辦獨唱會吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "就讓我來首平常不唱的下町小調，\n沉浸在自虐的心情中吧。伴奏開始！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "嗨喲！嗨喲！\n嗨喲嗨喲嗨喲──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "歡迎大家光臨，胡蘿蔔王國！\n胡蘿蔔軍隊，一二三向前走！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "好歌劇幾乎是自暴自棄地唱起歌來。\n但商店街的孩子們都聽得滿開心的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "喔喔喔……再也沒比這更糟的獎品了……\n偉大的我……竟然會抽到安慰獎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "想不到我竟然只能收到面紙……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "啊，不是衛生紙喔，是面紙、面紙。\n不覺得正確的名稱很美嗎。",
+      "ChoiceDataList": [
+        "喔，好……",
+        "呃，嗯……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "訓練員！我要給你一道聖旨！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "你拿著這包面紙，\n去找個地方換成溫泉旅行再回來！",
+      "ChoiceDataList": [
+        "這不強人所難嗎……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "夠了，我不想聽藉口。\n悲慘的命運使我深受打擊，\n變成了狂王【Raver Lord】！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "你若是辦不到，\n我就把你關進巴黎古監獄！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "殘酷的抽獎改變了王的內心。\n看來她的心情今天一整天都不會變好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

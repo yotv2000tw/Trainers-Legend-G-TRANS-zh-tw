@@ -1,5 +1,5 @@
 {
-  "Title": "獨行者的參考",
+  "Title": "獨行俠的Reference",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,7 +9,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "有一天，我在找空中神宮……\n很稀奇地發現她開著電腦睡著了。",
+      "Text": "某一天，我正在找空中神宮的時候……\n發現她開著電腦睡著了，真難得。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -21,60 +21,60 @@
     },
     {
       "Name": "獨白",
-      "Text": "我剛要關掉電腦，上面的畫面映入我眼簾。\n畫面上是社交平台的主頁，賬號名叫『!monad』──",
+      "Text": "在蓋上電腦的瞬間，我不小心看見了畫面。\n那是社群平台的主頁面，而帳號名稱是「!monad」──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "看起來她是在用這個賬號投稿DTM*。\n我對她這意外的興趣愛好感到很驚訝……然後悄悄離開了那裡。\n（*DTM：計算機音樂）",
+      "Text": "看來她是用這個帳號來發表數位音樂作品。\n在驚訝於她有這類興趣的同時……我靜靜離開了那裡。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "發生那件事的幾天後。\r\n我跟空中神宮一起來到了唱片店。",
+      "Text": "就在發生了這件事的幾天後，\n我和空中神宮一起來到唱片行。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "雖然沒抱希望，但我還是邀請了她一下。她好像正巧\r\n要去領什麼東西，於是允許我『跟著也行』。",
+      "Text": "本來以為她會拒絕我的邀約，結果她似乎剛好有東西要拿，\n便答應了我，說「只是陪你去的話可以」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "你還真執著啊。\n是忘了在網吧發生過什麼了麼……",
+      "Text": "話說你真是學不乖啊，\n難不成已經忘了網咖的事……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "到了唱片店你也別跟我扯些廢話啊。",
+      "Text": "就算到了唱片行也不要隨便跟我說話。",
       "ChoiceDataList": [
-        "我知道了"
+        "知道了啦"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……不過，追冷門樂手也挺費事啊。\n網上能有賣的話點一下就完事了。",
+      "Text": "……不過，還真搞不懂那些超小眾的創作者在想什麼。\n要是改用直播，按一個鍵就能完成了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "看起來，她是打算買非常小眾的藝術家的CD。",
+      "Text": "看來她是打算買小眾創作者的CD。",
       "ChoiceDataList": [
-        "你很喜歡音樂啊",
-        "你很喜歡音樂啊"
+        "原來妳喜歡音樂啊",
+        "原來妳喜歡音樂呀"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……沒有。\n只是剛好可以放空腦袋罷了。",
+      "Text": "……也沒有。\n只是剛好能用來消除大腦裡的東西。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -85,67 +85,67 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "年輕的藝術家",
-      "Text": "──那麼接下來請聽，新曲『rust』。",
+      "Name": "年輕的創作者",
+      "Text": "──那麼請聽我的新歌「rust」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "空中神宮停下了腳步，在她視線前方有一位年輕的\r\n藝術家，正用帶來的DJ轉盤放音樂。",
+      "Text": "空中神宮不經意地停下腳步，在她視線前方的是年輕的創作者。\n他正用自己帶來的唱盤播放音樂。",
       "ChoiceDataList": [
-        "是你認識的人？"
+        "妳認識嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……是我現在要去買的CD的作者。",
+      "Text": "……我正要去買的作品，他就是作者。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "沒想到會在這種時候遇到。",
+      "Text": "沒想到會在這種時候看到本人表演。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "然後，空中神宮來到離藝術家稍遠一點兒的地方\r\n開始聽歌。",
+      "Text": "接著空中神宮站在離他有段距離的位置\n倚靠著牆邊，開始聽起曲子。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "活潑的節奏、輕快的擬聲吟唱所演奏出的旋律，\r\n讓人不由得心情愉悅到搖擺起來──",
+      "Text": "帶有律動感的節奏加上輕快的擬聲吟唱，\n兩者交織出舒服的旋律，讓人忍不住隨之搖擺──",
       "ChoiceDataList": [
-        "……很好的曲子啊",
-        "……很好的曲子啊"
+        "……真是不錯的曲子",
+        "……真是不錯的曲子"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……嘛，還不錯。",
+      "Text": "……嗯，是不差。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "我印象裡，他往社交網站上傳的大多是有很多高音的\r\n舊學派嘻哈歌曲……現在改走彈跳音樂風了麼。",
+      "Text": "就他上傳到社群平台的作品來說，印象中大多是走\n高音明亮的老派路線……看樣子是轉換成Bounce了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "嘛，沒有什麼是從來不會變的。\n差不多該走了。",
+      "Text": "不過也沒有什麼是不會改變的。\n差不多該走了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "年輕的藝術家",
-      "Text": "那、那個ー！\r\n可以的話請收下這個！",
+      "Name": "年輕的創作者",
+      "Text": "不、不好意思──！不嫌棄的話，這個給妳！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -157,19 +157,19 @@
     },
     {
       "Name": "獨白",
-      "Text": "然後，藝術家遞給了空中神宮一張傳單。",
+      "Text": "那位創作者遞了一張傳單給空中神宮。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "年輕的藝術家",
-      "Text": "雖然我還只是個新人，但下次會在一個日間活動上出場。\n可以的話請過來看看！",
+      "Name": "年輕的創作者",
+      "Text": "雖然我還是個新人，不過下次會參加一場當日活動。\n有空的話請來玩！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……謝謝ー。\n誒，這週末啊──、……！",
+      "Text": "……謝謝。\n哦，這週末啊？……！",
       "ChoiceDataList": [
         "？"
       ],
@@ -177,9 +177,9 @@
     },
     {
       "Name": "獨白",
-      "Text": "我看了一眼傳單……在DJ介紹那裡，寫著\n『我開始活動的契機是對蒙面DJ!monad的憧憬』──",
+      "Text": "我探頭看向傳單……結果介紹DJ的地方寫著\n「我創作的契機是因為崇拜蒙面DJ!monad」──",
       "ChoiceDataList": [
-        "（『!monad』就是……）"
+        "（我記得「!monad」是……）"
       ],
       "ColorTextInfoList": []
     },
@@ -190,47 +190,47 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "年輕的藝術家",
-      "Text": "那個ー……不好意思，怎麼了嗎？",
+      "Name": "年輕的創作者",
+      "Text": "呃……請問怎麼了嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "沒什麼。週末，要加油啊。",
+      "Text": "沒什麼。週末加油。",
       "ChoiceDataList": [
-        "你有憧憬的DJ啊",
-        "你有憧憬的DJ啊"
+        "原來你有崇拜的DJ啊",
+        "原來你有崇拜的DJ啊"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "！\u3000喂！",
+      "Text": "！喂！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "年輕的藝術家",
-      "Text": "啊，是的！\u3000我，非常憧憬『!monad』！\n我作曲都會非常小心，因為很容易就會寫的跟她相似。",
+      "Name": "年輕的創作者",
+      "Text": "啊，沒錯！我真的超級崇拜「!monad」！\n老是會做出很相似的作品，所以我超小心的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "年輕的藝術家",
-      "Text": "我加擬聲吟唱，就是想展現出自己的風格。\n嘛、完成度還不高就是了！",
+      "Name": "年輕的創作者",
+      "Text": "我會加入擬聲吟唱這個元素也是為了做出自己的風格。\n不過現在還差得遠啦！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……她那只是順手做著玩兒的音樂吧。\n基礎的東西都沒搞清楚。",
+      "Text": "……那個人的音樂只是玩票性質，用來打發時間的。\n根本沒半點基礎可言吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "年輕的藝術家",
-      "Text": "沒有沒有，你別這麼說。\n『!monad』可是我的大恩人！",
+      "Name": "年輕的創作者",
+      "Text": "不不不，別這樣說啦。\n對我來說「!monad」是個大恩人！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -241,32 +241,20 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "年輕的藝術家",
-      "Text": "倒不是有直接的幫助，我甚至也從未見過她。\r\n但是……",
+      "Name": "年輕的創作者",
+      "Text": "「!monad」倒也不是直接幫過我，\n而且我也沒見過本人，只是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "年輕的藝術家",
-      "Text": "我自己，沒法像其他人那樣把事做好。生活過得一點也不順利。\n但我並不想非得改變自己去迎合別人。",
+      "Name": "年輕的創作者",
+      "Text": "我不像其他人那麼厲害，人生總沒有一件事如意。\n但是又覺得改變自己去迎合好像不太對。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "年輕的藝術家",
-      "Text": "就在那時，彷彿向世界豎起中指的『!monad』的曲子\r\n給了我莫大的勇氣！我覺得我也能做得到！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "…………",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "年輕的藝術家",
-      "Text": "不，說起來！\u3000拋開這些不談，她的那種風格也與眾不同。\n那種發自靈魂的吶喊，那種一瞬間的感覺，只此一家啊！",
+      "Name": "年輕的創作者",
+      "Text": "可是就在我那樣想的時候，「!monad」的曲子給了我很多勇氣，\n那些曲子就像在對這世界比中指！讓我也想跟他拚了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -277,22 +265,34 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "年輕的藝術家",
-      "Text": "真希望有一天能親自見到她啊。\n她絕對，是個骨子裡都充滿激情的人。",
+      "Name": "年輕的創作者",
+      "Text": "不，話說回來，先不管那些，這個人的品味真的很出色！\n那種像是靈魂的吶喊、轉眼消逝的感覺，其他人都做不出來！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "………………\n……是啊。",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年輕的創作者",
+      "Text": "真希望有一天能見見本人。\n我想「!monad」肯定是個內心充滿熱情的人。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "……啊？\n你丫笑什麼呢……！",
+      "Text": "………………\n……是喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宮",
+      "Text": "……啥？\n你這傢伙笑什麼笑……！",
       "ChoiceDataList": [
-        "不，沒什麼！"
+        "沒、沒有！"
       ],
       "ColorTextInfoList": []
     },
@@ -304,19 +304,19 @@
     },
     {
       "Name": "賽馬娘A",
-      "Text": "吶，你看你看，布告板上有一張好顯眼的傳單！\n是哪個學生貼上去的嗎ー。",
+      "Text": "欸，妳看，告示板上面貼了好花俏的傳單！\n是不是其他學生貼的呀？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "賽馬娘B",
-      "Text": "應該吧。說起來這啥，俱樂部的傳單？\n……誒ー，去看看吧。",
+      "Text": "可能是吧，不過這是什麼？俱樂部的傳單？\n……喔～感覺可以去看看。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "貼在布告板上的一張不尋常的傳單，\r\n似乎成為了學生們一時間的話題。",
+      "Text": "告示板上不知何時貼上了一張罕見傳單，\n而且似乎在學生之間引起了小小的話題。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

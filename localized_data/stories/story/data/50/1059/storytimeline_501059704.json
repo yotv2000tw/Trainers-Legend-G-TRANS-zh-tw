@@ -1,5 +1,5 @@
 {
-  "Title": "對煙火許願",
+  "Title": "將心願寄託煙火",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,13 +9,13 @@
     },
     {
       "Name": "",
-      "Text": "我與目白多伯外出後，在回程的路上──",
+      "Text": "在我與目白多伯外出後的回程路上──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "？？？",
-      "Text": "唔……得堅持繼續找下去！\n再陪我一下吧，我的股四頭肌！",
+      "Text": "唔……得堅持繼續找才行！\n再撐一下吧，我的股四頭肌！",
       "ChoiceDataList": [
         "剛才的是……"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "Name": "目白多伯",
-      "Text": "怎麼了？\n看妳好像碰到麻煩……",
+      "Text": "怎麼了？\n看妳好像很傷腦筋的樣子……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -41,7 +41,7 @@
     },
     {
       "Name": "",
-      "Text": "目白雷恩等人受邀成為鎮民組織\n主辦的演唱會來賓。\n但卻因為一些問題而人員不足。",
+      "Text": "目白雷恩等人受邀\n成為居委會主辦的演唱會來賓，\n卻發生一些問題導致人手不足。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -62,7 +62,7 @@
     },
     {
       "Name": "目白多伯",
-      "Text": "……笨蛋！\n我什麼都還沒說。",
+      "Text": "……笨蛋！\n我什麼都還沒說耶。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -92,7 +92,7 @@
     },
     {
       "Name": "目白雷恩",
-      "Text": "那真的幫了我大忙……但真的沒問題嗎？",
+      "Text": "那真的會幫了我大忙……但是沒問題嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -104,19 +104,19 @@
     },
     {
       "Name": "年幼的多伯",
-      "Text": "流星、流星……\n保佑我成為一個\n在大比賽也能獲勝的賽馬娘……！！",
+      "Text": "流星、流星……\n請讓我成為在很大的比賽裡\n也能獲勝的厲害賽馬娘……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "氣槽",
-      "Text": "只要一步一步前進，總有一天妳也能接近我……\n或妳心中的理想形象吧。",
+      "Text": "只要一步步前進，總有一天妳也會接近我……\n或妳心中的理想形象吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "（……我要向前邁進。\n然後就如同小時候許的願望──）",
+      "Text": "（……我要向前邁進。\n然後，變得像我小時候許的願望那樣──）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -128,7 +128,7 @@
     },
     {
       "Name": "目白雷恩",
-      "Text": "妳怎麼可能會扯後腿！\n根本可靠到不行喔！",
+      "Text": "妳怎麼可能會扯後腿！\n反而可靠到不行啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -140,7 +140,7 @@
     },
     {
       "Name": "目白雷恩",
-      "Text": "──來，\n最後的定格姿勢！",
+      "Text": "──好，\n最後的定格姿勢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -172,19 +172,19 @@
     },
     {
       "Name": "主持人",
-      "Text": "──接下來是大家期待已久的\n特別來賓帶來的演唱會！",
+      "Text": "──緊接著是大家期待已久，\n由特別來賓所帶來的演唱會！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "（小時候許下的夢想……\n以為無法實現，差點放棄的夢想──）",
+      "Text": "（小時候許下的夢想……\n以為無法實現而差點放棄的夢想──）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "（我要再次跟訓練員一起\n伸出手追尋……！所以……！）",
+      "Text": "（我要再次，跟訓練員一起追求它……！\n所以……！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -210,9 +210,9 @@
     },
     {
       "Name": "目白多伯",
-      "Text": "聽說演唱會之後會有閉幕的煙火。\n接下來好像馬上要開始了。",
+      "Text": "聽說演唱會之後會有閉幕的煙火。\n好像等一下就要開始了。",
       "ChoiceDataList": [
-        "演唱會，真是辛苦了"
+        "剛才的演唱會辛苦了"
       ],
       "ColorTextInfoList": []
     },
@@ -222,17 +222,17 @@
       "ChoiceDataList": [
         "大家都感受到多伯的心意囉",
         "表現得落落大方，很棒喔",
-        "不跟大家一起去慶功宴嗎？"
+        "不跟大家一起去慶功嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "謝謝……\n有一種已經盡了全力的感覺。",
+      "Text": "謝謝……\n有一種自己盡了全力的感覺。",
       "ChoiceDataList": [
         "大家都感受到多伯的心意囉",
         "表現得落落大方，很棒喔",
-        "不跟大家一起去慶功宴嗎？"
+        "不跟大家一起去慶功嗎？"
       ],
       "ColorTextInfoList": []
     },
@@ -244,49 +244,43 @@
     },
     {
       "Name": "目白多伯",
-      "Text": "是、是喔……",
+      "Text": "是、是嗎……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "（不過，如果我的心意真的有傳達出去，\n讓大家看見\n截然不同的我──）",
+      "Text": "（不過，如果大家真的感受到我的心意，\n並且看見了截然不同的我──）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "如果我的心意真的有傳達出去，\n讓大家看見\n截然不同的我──",
+      "Text": "如果大家真的感受到我的心意，\n並且看見了截然不同的我──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "（我會很慶幸……\n自己加入演唱會，並且鼓起了勇氣。）",
+      "Text": "（我會很慶幸……\n自己有鼓起勇氣，站上演唱會舞台。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "我會很慶幸……\n自己加入演唱會，並且鼓起了勇氣。",
+      "Text": "我會很慶幸……\n自己有鼓起勇氣，站上演唱會舞台。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "……感覺有點不可思議。\n跟之前看過的煙火相比，\n眼前的漂亮太多了。",
+      "Text": "……總覺得好不可思議。\n跟之前看過的煙火相比，\n此刻在我眼前的要更加漂亮。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "……感覺有點不可思議。\n跟之前看過的煙火相比，\n眼前的漂亮太多了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "……畢竟這是我\n自己決定要做的事。",
+      "Text": "……總覺得好不可思議。\n跟之前看過的煙火相比，\n此刻在我眼前的要更加漂亮。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -298,7 +292,13 @@
     },
     {
       "Name": "目白多伯",
-      "Text": "總不能讓觀眾還有爸──\n呃，朋友看到我出醜吧。",
+      "Text": "……畢竟這是我\n自己決定要做的事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "總不能讓觀眾還有爸──呃，\n朋友看到我出醜吧。",
       "ChoiceDataList": [
         "妳爸爸也有來看喔"
       ],
@@ -306,7 +306,7 @@
     },
     {
       "Name": "目白多伯",
-      "Text": "再說，不管是觀眾……還是爸爸……\n都不能讓他們看到我出醜。",
+      "Text": "再說，我總不能讓人看到我出醜吧。\n不管是觀眾……還是爸爸……",
       "ChoiceDataList": [
         "妳爸爸也有來看喔"
       ],
@@ -314,7 +314,7 @@
     },
     {
       "Name": "目白多伯",
-      "Text": "……又、又沒差！\n他不看也無所謂……！",
+      "Text": "……又、又沒差！\n他看不看都無所謂……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -326,7 +326,7 @@
     },
     {
       "Name": "目白多伯",
-      "Text": "不過，如果他有看到的話，\n或許過度保護這點會稍微收斂。",
+      "Text": "不過，如果他有看到的話，\n或許過度保護這點會稍微收斂一些吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -338,55 +338,55 @@
     },
     {
       "Name": "目白多伯",
-      "Text": "……感覺有點不可思議。\n跟之前看過的煙火相比，\n眼前的漂亮太多了。",
+      "Text": "……總覺得好不可思議。\n跟之前看過的煙火相比，\n此刻在我眼前的要更加漂亮。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "……感覺有點不可思議。\n跟之前看過的煙火相比，\n眼前的漂亮太多了。",
+      "Text": "……總覺得好不可思議。\n跟之前看過的煙火相比，\n此刻在我眼前的要更加漂亮。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "他們雖然有找我……但很多人我都不認識。\n再加上我又是臨時加入的──",
+      "Text": "他們雖然有邀我……但很多人我都不認識。\n再加上我又是臨時加入的──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "他們雖然有找我……但很多人我都不認識。\n再加上我又是臨時加入的──",
+      "Text": "他們雖然有邀我……但很多人我都不認識。\n再加上我又是臨時加入的──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "好歹也得跟你說一聲，\n這次的活動都結束了……",
+      "Text": "況且好歹也得跟你說一聲，\n這次的活動都結束了啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "我現在的心情只想跟訓練員一起，\n靜靜地欣賞煙火……",
+      "Text": "我現在只想跟訓練員\n一起靜靜地欣賞煙火……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "……我問你，\n今天的演唱會怎麼樣？",
+      "Text": "……我問你，\n今天的演唱會，覺得怎麼樣？",
       "ChoiceDataList": [
-        "大家都看得入迷囉！",
-        "非常耀眼喔！"
+        "大家都看得很入迷喔！",
+        "妳非常耀眼喔！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "……我問妳，\n我今天表現得怎麼樣？",
+      "Text": "……我問妳喔，\n我今天，表現得怎麼樣？",
       "ChoiceDataList": [
-        "大家都看得入迷囉！",
-        "非常耀眼喔！"
+        "大家都看得很入迷喔！",
+        "妳非常耀眼喔！"
       ],
       "ColorTextInfoList": []
     },
@@ -404,25 +404,25 @@
     },
     {
       "Name": "目白多伯",
-      "Text": "……感覺有點不可思議。\n跟之前看過的煙火相比，\n眼前的漂亮太多了。",
+      "Text": "……總覺得好不可思議。\n跟之前看過的煙火相比，\n此刻在我眼前的要更加漂亮。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "……感覺有點不可思議。\n跟之前看過的煙火相比，\n眼前的漂亮太多了。",
+      "Text": "……總覺得好不可思議。\n跟之前看過的煙火相比，\n此刻在我眼前的要更加漂亮。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "我還要繼續成長，\n希望能成為耀眼的賽馬娘……\n……不對，是一定要成為……！",
+      "Text": "我想要更加地成長，\n然後成為耀眼的賽馬娘……\n……不對，是一定要成為……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "目白多伯抬頭看著煙火，立下誓言。\n我再次在心中發誓，今後也要全力支持她，\n讓她的這個誓言成真。",
+      "Text": "目白多伯仰望煙火，立下誓言。\n而我再次在心中發誓，\n今後也要全力支持她達成心願。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

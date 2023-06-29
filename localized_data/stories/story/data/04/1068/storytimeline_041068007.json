@@ -1,5 +1,5 @@
 {
-  "Title": "熱鬧慶典中的笑顏之花",
+  "Title": "熱鬧祭典下綻放的笑容之花",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,7 +9,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "夏季集訓今天就要結束了。\n這幾天當中，有一件事讓我很在意──",
+      "Text": "今天是夏季集訓的最後一天。\n這幾天有件事情一直讓我感到很在意──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -21,7 +21,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "我好像在被北部玄駒監視著似的。\n她目光總是往我這邊偷瞄是要做什麼呢……",
+      "Text": "我有種自己好像被北部玄駒監視著的感覺。\n她時不時就瞄向我這裡，不曉得究竟是有何意義……",
       "ChoiceDataList": [
         "那個……"
       ],
@@ -29,40 +29,40 @@
     },
     {
       "Name": "北部玄駒",
-      "Text": "是、是！\u3000怎麼了嗎！\n有什麼困難的話，請儘管說！",
+      "Text": "是、是！請說！\n有什麼需要幫忙的事情就儘管說吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "啊，是要準備下一項訓練用的道具嗎？\n交給我吧，我馬上去准備ーー！",
+      "Text": "啊，是不是要準備下一個訓練要用的器具了？\n交給我吧，我現在就去準備──！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "北部玄駒還沒等到我回話，\n就跑去準備下一項訓練了。",
+      "Text": "還沒等到我回答，\n北部玄駒就跑去為下一個訓練做準備了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "哈，哈……呀啊啊啊啊啊！",
+      "Text": "呼、呼……呀啊啊啊啊啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "我錯過了問她那目光的含義的時機，只得繼續訓練。",
+      "Text": "錯過了詢問她的機會後，我們繼續接著做訓練。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "北部玄駒在跑步方面表現得很出色。\n看來夏季集訓的成果體現在她的雙腳上了。",
+      "Text": "北部玄駒在跑步時展現了俐落的表現。\n看來夏季集訓的成果直接反映在她的腳上了。",
       "ChoiceDataList": [
-        "很厲害哦，小北！",
-        "很厲害哦，小北！"
+        "很厲害喔，北部！",
+        "很厲害喔，北部！"
       ],
       "ColorTextInfoList": []
     },
@@ -74,15 +74,15 @@
     },
     {
       "Name": "北部玄駒",
-      "Text": "哈啊啊啊啊！！",
+      "Text": "喝啊啊啊啊！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "哈啊，哈啊……哈ー……呼……",
+      "Text": "呼、呼……呼──呼……",
       "ChoiceDataList": [
-        "辛苦了！你跑得很好！"
+        "辛苦了！跑得很不錯喔！"
       ],
       "ColorTextInfoList": []
     },
@@ -100,47 +100,47 @@
     },
     {
       "Name": "北部玄駒",
-      "Text": "……誒嘿嘿。",
+      "Text": "……嘿嘿嘿。",
       "ChoiceDataList": [
-        "小北？"
+        "北部？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "不，沒什麼！",
+      "Text": "啊，沒事！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "那天晚上，聽說附近有夏季廟會，\n我就去找北部玄駒想一起去──",
+      "Text": "這天夜晚，聽說附近正在舉辦祭典，\n我和北部玄駒說好要一起去，但──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "……那個，啊。\n去廟會之前，稍給我點時間……可以嗎？",
+      "Text": "……那個，就是──\n要去祭典之前，我可不可以……耽誤你一點時間？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "嗯ー！\u3000在這裡跑步，感覺真舒服啊～！\n訓練，一眨眼間就結束了呢。",
+      "Text": "嗯──！在這裡跑步真的是很舒服的事～！\n轉眼間，在這裡的訓練就都結束了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "……我可以充滿自信地說，多虧了有訓練員，\n我才能得以成長。",
+      "Text": "……我現在可以很有自信地說──\n我因為訓練員的關係成長了很多喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "當然，我今後得學的東西還有很多很多……",
+      "Text": "當然，\n接下來也還有很多須要學習的東西……",
       "ChoiceDataList": [
-        "因為小北很努力哦"
+        "這都是因為北部很努力的關係"
       ],
       "ColorTextInfoList": []
     },
@@ -152,209 +152,209 @@
     },
     {
       "Name": "北部玄駒",
-      "Text": "我，一直覺得訓練員『什麼事都能夠輕鬆搞定，\n是個很厲害的人』！",
+      "Text": "我之前一直以為訓練員是\n「什麼都能輕鬆做到的厲害的人」！",
       "ChoiceDataList": [
-        "誒？"
+        "咦？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "無論提什麼問題都能回答我，有煩惱的時候和我一起解決。\n是即使困難的問題也能夠輕鬆解決的『很厲害的人』。",
+      "Text": "不管我有什麼疑問你都能給出解答，有煩惱的時候\n也會陪我一起解決。是個能夠輕易解決難題的「厲害的人」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "但是……我把那件事告訴爸爸後，他對我說。",
+      "Text": "但是……我這麼跟我爸形容你的時候，他跟我說──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "『有些努力是看不見的哦』",
+      "Text": "「有些人在背後做的努力是妳看不見的」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "……然後。聽到了這句話，我想起來了。",
+      "Text": "……我聽到他這麼說的時候就想到──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "里見光鑽",
-      "Text": "我只是在家中持續學習。\n然後照著我的家人和訓練員一直告訴我的那樣去做。",
+      "Text": "所以我只是照在家研究出的方式去跑而已，\n還有就是遵照了家人跟教練一直以來的建議。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "里見光鑽",
-      "Text": "我們大家一直在為此準備著。『總有一天要成為能在GⅠ中\n獲勝的強大馬娘』。那不僅是我一個人的夢想。",
+      "Text": "「為了成為能跑贏GⅠ的強大賽馬娘」，\n大家都陪著我一起準備。畢竟這不只是我一個人的夢想。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "里見光鑽",
-      "Text": "那是我們整個家族的夙願。為了那一天，以及更長遠的\n目標，已經努力很久了。在我出生之前就……",
+      "Text": "是我整個家族的宿願。打從我出生以前……\n他們就一直以這一天和今後的各種競賽為目標做準備。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "……是啊。小鑽她也是這樣的。",
+      "Text": "……我爸說得沒錯，因為小鑽也是這樣子。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "這是理所當然的吧。\n並不是每個人，都會在別人面前去做出努力。",
+      "Text": "這其實是很理所當然的道理呢。不論是誰，\n大家都是在不會被人看見的地方努力。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "但是……我不知不覺就給忘記了。我會被別人的『厲害』\n所嚇倒，但在摸索達到目標之前還有重要的『努力』。",
+      "Text": "但是……我卻不小心忘記了。只看見眼前「厲害」的地方，\n忽略了變厲害之前的過程所要付出的「努力」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "……訓練員，也有在非常努力呢。\n為了我。",
+      "Text": "……訓練員，你為了我總是付出很多的努力。\n對吧？",
       "ChoiceDataList": [
-        "我因為喜歡才這麼做的哦"
+        "我是出於喜歡才這麼做的喔"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "……是。正因為如此，我才想著去報恩。\n為了訓練員所做的努力。",
+      "Text": "……的確，但也因為這樣，讓我更想要報答你的恩情。\n想讓訓練員的付出能有回報。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "然後，爸爸──",
+      "Text": "然後我爸他就說──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "『想著某人去唱的歌，能夠傳達進某人的心中』",
+      "Text": "「真心為人而唱的歌是一定能傳遞到對方心裡的」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "……他這麼說。\n我，還不太能理解這句話的意思。",
+      "Text": "……他是這麼說的。\n當時我還不太能明白這句話的意思。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "所以，我必須懷著感謝之心去努力報恩。\n不光是被訓練員支持，我想我也應該去支持訓練員。",
+      "Text": "所以我想要抱著感恩的心去回報你為我做的努力。\n不再是單方面受你照顧跟支持，我也要這樣對你。",
       "ChoiceDataList": [
-        "難道說，就是因為那個……"
+        "妳該不會就是因為這樣才……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "是。我努力想在訓練中取得成果，\n讓訓練員好好休息……",
+      "Text": "是的，所以我才會努力想讓訓練有好的成果，\n想要試著讓你有休息喘息的機會……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "為此我考慮了很多，也試著去付諸實踐……\n但總是沒做得很好。",
+      "Text": "我自己想了很多方法，也試著實際嘗試了一些……\n但好像都沒能做好。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "……但是，剛才我突然想到『啊，就是這個』。",
+      "Text": "……可是，剛才我突然有種「啊，就是這個」的感覺。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "那就是我真正想做的事……\n我發現了能夠為訓練員做的事。",
+      "Text": "我發現到我真正想要做到的事情……\n我知道我能為訓練員做些什麼了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "……啊。",
+      "Text": "……唔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "我只是，想著讓訓練員感到高興！",
+      "Text": "我發現我其實只是希望能讓訓練員開心而已！",
       "ChoiceDataList": [
-        "小北……"
+        "北部……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "因為，剛才看到訓練員的笑容，\n我就心跳加速了！",
+      "Text": "因為，剛才看見訓練員露出笑容的時候，\n我的心跳好快喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "我想要報答，想要表達很多的感謝。\n但是，答案並不只是那些──",
+      "Text": "我想要回報你的努力，想要表達更多我對你的感謝，\n但這並不是唯一的答案──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "我想把希望你高興的那份心情，\n還有我的心，都送給訓練員你。",
+      "Text": "我想讓訓練員能夠感受到\n我想讓你開心的這份心意。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "或許，那就是我能做到的『支持』吧！",
+      "Text": "這或許就是我反過來「支持你、照顧你」的方式！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "北部玄駒那純真而直率的話語，讓我不由得害羞了──",
+      "Text": "北部玄駒真摯又直率的言語\n不禁讓我感到有些害羞，但──",
       "ChoiceDataList": [
-        "能互相贈予的話就太好了"
+        "我們如果能互相回報就太好了呢"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "！\u3000是！\u3000最棒了！！",
+      "Text": "！\u3000是的！那一定是最棒的事了！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "北部玄駒的笑容，如同煙花一般耀眼。\n彼此尋求著對方的笑容，那是一件非常幸福的事。",
+      "Text": "北部玄駒燦爛的笑容就像煙火般耀眼。\n互相為了彼此的笑容努力，那是非常幸福的一件事情。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "北部玄駒",
-      "Text": "好──！\u3000聲音從丹田發出，要上囉～！",
+      "Text": "好──！用我的丹田發聲，開始囉～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "北部玄駒面露痛快的表情，舉起雙手。",
+      "Text": "北部玄駒露出煩惱一掃而空的表情，高高舉起雙手。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "我們兩人被其他人推著，一起站到了高台上。\n響徹全場的太鼓聲，將會場的氣氛帶入了高潮。",
+      "Text": "在眾人的幫助下，我們一起站上了祭典高台。\n整個會場因為磅礡的太鼓聲變得熱鬧歡騰。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

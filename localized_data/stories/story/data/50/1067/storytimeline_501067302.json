@@ -1,0 +1,513 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "回程路上，\n我和里見光鑽經過商店街時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，是好玩的抽獎活動喔！\n任何人都可以來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "哇啊，在辦抽獎呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "那個是……手轉的抽獎機！\n抽獎還是要用這種的最有感覺了！",
+      "ChoiceDataList": [
+        "有什麼特別講究的原因嗎？",
+        "有什麼特別講究的原因嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "因為手轉的抽獎機要自己動手轉動，\n所以就能調整力道跟速度不是嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "有一種憑自己的力量去掌握好運的感覺，\n就是這種感覺很好！",
+      "ChoiceDataList": [
+        "要抽看看嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我想起買東西的時候有得到一張抽獎券，\n便問她要不要嘗試。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "我想抽！！\n我一定會抽到特獎的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "嘿呀～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "里見光鑽用非常驚人的氣勢\n轉動了抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "成……成功了～～！！\n特獎！是特獎喔，訓練員！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "你看吧？對吧？我說得沒錯對吧?\n好運就是要用氣勢去爭取的！！",
+      "ChoiceDataList": [
+        "是啊，妳真厲害……！",
+        "嗯，妳真厲害呢……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "沒想到真的如她所說的抽到了特獎，\n真的有種憑氣勢贏得好運的感覺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "呵呵呵，感覺今年會是美好的一年呢♪",
+      "ChoiceDataList": [
+        "妳就和北部一起去泡溫泉吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "不，我要給訓練員。\n因為抽獎券是訓練員的嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "能體驗到抽獎我就已經很滿足了！",
+      "ChoiceDataList": [
+        "可是抽中的人是妳啊……",
+        "可是抽中的人是妳呀……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "不然，\n就我跟訓練員一起去吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "就當作是慰勞之旅。\n嗯，這樣比較好！就這麼決定了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "等閃耀系列賽最初的三年告一段落的時候，\n我們再一起去這趟慰勞之旅吧！\n結束一個階段就是該好好慶祝才對！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "而且，有獎勵的話，做事也會更起勁吧？",
+      "ChoiceDataList": [
+        "是啊",
+        "是呀"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "那就這麼決定了！約好了喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們約好要在資深級這一年留下滿意的成績。\n完成之後再一起使用這張旅遊券。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "哎呀，胡蘿蔔漢堡排……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "這個豪邁的造型還真是不錯。\n在我家吃胡蘿蔔的時候都會是切好的，\n所以我一直很期待能體驗到這樣的外食經驗呢♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "我可以在這根胡蘿蔔立著的狀態下\n把它吃乾淨喔！",
+      "ChoiceDataList": [
+        "從頭到尾都立著！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "是呀♪首先要從胡蘿蔔上面的……\n實際吃給你看應該比較快。\n訓練員，我們就一起吃吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "呵呵呵，讓你見識一下……光鑽的祕技！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "里見光鑽優雅地用著刀叉，\n在完全不弄倒胡蘿蔔的狀態下，\n慢慢地吃著漢堡排。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "……感謝招待。\n不愧是特等的料理，真的很好吃！",
+      "ChoiceDataList": [
+        "妳的刀法真是太厲害了……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "嘿嘿嘿……\n因為我以前聽說有吃胡蘿蔔漢堡排的時候，\n胡蘿蔔倒下的方位會充滿不幸的魔咒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "所以就想著，不讓胡蘿蔔倒下就不會有\n不幸的方位，才練成了這樣的技術喔。",
+      "ChoiceDataList": [
+        "妳是為了破除魔咒練的？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "是呀，每個人看到的時候都會很驚訝，\n還能當作一個聊天的話題呢。\n訓練員要不要也試試看？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "後來，\n里見光鑽傳授我她的祕技，\n讓我學會了不讓胡蘿蔔倒下的吃法！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "哇啊～得到了好多的胡蘿蔔呀♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "訓練員，你帶回去吧。\n畢竟抽獎券是訓練員的嘛。",
+      "ChoiceDataList": [
+        "這麼多我哪吃得完！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "哎呀……\n不然就分給宿舍的大家好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "就這樣直接吃也很無趣，\n做成料理之後再分給大家吧♪",
+      "ChoiceDataList": [
+        "妳打算做什麼？",
+        "妳打算做什麼呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "其實我一直有個想要做做看的料理……\n那就是胡蘿蔔鯛魚燒！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "在鯛魚燒裡面\n加入大家最喜歡的胡蘿蔔當內餡。\n再加醋醃胡蘿蔔絲提味。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "餅皮裡面也加胡蘿蔔……\n再加一些胡蘿蔔片進去！\n就會變成橘色的可愛鯛魚燒喔♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "然後再插一根完整的胡蘿蔔在上面！\n就像胡蘿蔔漢堡排那樣！！",
+      "ChoiceDataList": [
+        "真、真是新潮的作法……",
+        "真、真是新潮的作法……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "訓練員也這麼覺得嗎？\n成功的話，\n我打算讓它成為集團飲食部的新菜色呢♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因為這道料理新潮到讓我覺得不放心，\n所以我提出要幫忙一起做。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "隔天──\n里見光鑽向我報告，栗東宿舍的大家\n非常喜歡「胡蘿蔔鯛魚燒」的事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "一根……真的很抱歉，訓練員。\n枉費你寶貴的抽獎券……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "應該是我的氣勢不夠……",
+      "ChoiceDataList": [
+        "那就吃這根胡蘿蔔補充精神吧！",
+        "那就吃這根胡蘿蔔補充精神吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "咦……？\n真的要給我吃嗎……？",
+      "ChoiceDataList": [
+        "妳就吃吧！",
+        "妳就吃吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "要把就這麼唯一一根的珍貴胡蘿蔔給我……\n謝謝你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "…………呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "訓練員送給我的胡蘿蔔……\n世界上唯一一根的只屬於我的胡蘿蔔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "吃起來一定是世界第一的美味吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "里見光鑽開心比什麼都重要。\n──但商店街的人卻因為世界第一的美味\n這句話而倍感壓力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "…………沒抽中嗎…………？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "…………一次。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "我要再抽一次！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "我絕不接受沒抽中這個結果！\n我一定要顛覆這個結果！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "呃……請問妳還有抽獎券嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "沒有，要在哪裡購買呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "我們沒有在販賣抽獎券耶～\n因為在商店街買東西就可以得到──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "只要買東西就可以得到了是嗎！？\n那我去買了！",
+      "ChoiceDataList": [
+        "等一下！先冷靜下來吧！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "請不要阻止我！！\n身為里見家的賽馬娘，\n我絕不能逃避這個困難！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看來是她對抗厄運的決心被點燃了，\n就像她執著於破除魔咒一樣。\n──不對，也有可能只是單純不服氣而已……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "我的錢包就在……啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這天，\n里見光鑽似乎把錢包放在宿舍忘了帶出門。\n多虧如此，才澆熄了她想繼續拚抽獎的念頭。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

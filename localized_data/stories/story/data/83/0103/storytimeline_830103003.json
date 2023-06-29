@@ -1,0 +1,396 @@
+{
+  "Title": "這也是種表達愛意的方式",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "大樹快車約我們到溪邊玩耍。\n待兼唐懷瑟也前來會合後，\n我們三人一起等著電車──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "溪邊、溪邊～！好期待喔～！\n話說妳沒有約其他人嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "大家都很busy，說下次再參加。\n我好沮喪……\n但有你們兩位在，我就不寂寞了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "嘿嘿嘿，太好了～\n不過，下次大家一起露營也不錯！\n特雷森學園也有所謂的「夏季踏青」呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "Oh！就是啊！\nEnjoy開心的活動！\n一起燃起營火dance吧～！",
+      "ChoiceDataList": [
+        "我記得「夏季踏青」是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "可以說是標準的夏天活動吧。\n為了讓學生們恢復精神，\n學園會做很多安排喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "也會補助旅費喔！\n我們就靠這個refresh吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "對特雷森學園的賽馬娘來說，夏天是拚命\n努力的季節。畢竟還得參加強化集訓等活動。\n所以校方才會安排活動給大家喘口氣吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "啊，電車來了喔！\n前往溪邊！列隊出發～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "換好衣服了！\n哇哈～！水面閃閃發光的！\n哇啊～好冰喔～！",
+      "ChoiceDataList": [
+        "小心別滑倒了喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "兩人",
+      "Text": "好～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "兩人一起玩水、爬樹採果實，\n興奮得像小孩子一樣。\n而我則是在一旁守候著她們。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──話說起來，之前待兼唐懷瑟\n不是在煩惱擁抱的事嗎？\n那個問題已經解決了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "River好舒暢喔～！\nOh！這裡真滑溜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "喝！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "Wow！這裡比其他地方還deep！\n很danger喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "嘿！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……她正在準備接住對方。\n雖然這不是擁抱，但也算是一種練習……\n不，該說是練習的成果嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "奇怪？我聽到可愛的聲音……啊，怎麼會！？\n不、不好了！快看那邊！！\n有隻雛鳥……！可能是從巢裡掉出來的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "得快點救牠……啊，不過我之前好像聽說過，\n要是摸了雛鳥沾上人味，親鳥就不會靠近了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "Oh……！太可憐了！\n快把牠放回巢裡吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "啊，大樹！？",
+      "ChoiceDataList": [
+        "危險，讓我來吧！",
+        "危險，讓我來吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我們還來不及阻止她，\n大樹快車就抱著雛鳥開始爬樹。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然一開始很順利，\n但她似乎爬到一半就找不到落腳處了。\n大樹快車停止了動作。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "Oh……！\n手中抱著baby，\n害我無法check腳邊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "……！\n請妳先暫時別動！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "從現在踩的地方移到下一個落腳處……\n最穩的地方是……\n啊，那邊好像有點腐爛……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "還是選這邊……哪裡能讓腳尖踩穩呢……\n嗯，從直徑看來，那邊的凹洞好像很深。\n然後再……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "──好，我知道了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "請將左腳向右斜下方移動12公分左右！\n雖然會先向下移動，不過請放心。\n移動後，接下來保持這樣，換右腳──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "有了待兼唐懷瑟的精確指示，\n大樹快車得以安全地爬向鳥巢。\n最後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "Yeah！Goal了！\nThank you，唐懷瑟！\nBaby順利回到house了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "！\u3000太好了……！\n謝謝妳，大樹。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "啊，鳥媽媽也回來了……！\n妳一直在附近守候著啊。\n太好了，看來沒問題了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "呼……這下我就放心……oh！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "！\u3000大樹！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "大樹快車差點滑下樹，\n多虧待兼唐懷瑟瞬間爬上去扶住她。\n接著兩人緩緩往下爬到地面──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "唐懷瑟，thank you……！\n我真是嚇了一大跳──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "妳沒受傷吧！？妳一定很害怕吧！？\n哇啊啊啊，真是太好了～～～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "或許是壓抑不住擔心的心情了吧？\n待兼唐懷瑟緊緊抱住大樹快車。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "嗚嗚，真是太好了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "唐懷瑟……！嗯～！\n妳為我擔心，真是暖心！\n我覺得very very happy！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "妳這麼擔心我，令我感受到love！\n所以sorry and thank you！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "（……原來如此。這也是一種愛啊。\n為對方著想，擔心對方而出手相助。\n這下我的心情是不是順利傳達給她了呢？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "嘿、嘿嘿嘿嘿嘿……這樣啊。\n原來表達愛意也有各種不同方式啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "訓練員，我也要thank you！\n你一直在樹下對我張開雙手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我既沒能阻止她的行動，\n也沒幫上任何忙，\n老實說真不想被注意到啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "！\u3000愛……這也是一種愛吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "Yes！Love and peace！\n大家一起hug吧～！",
+      "ChoiceDataList": [
+        "呃！？不，等一下……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我無法承受住兩位賽馬娘的擒抱……\n更正──擁抱，只能任由\n旁邊的溪水噴濺到我身上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "訓練員，我也要向你say sorry！\n讓你這麼擔心……！\n來個放心的hug吧～！",
+      "ChoiceDataList": [
+        "擁抱就不用了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "啊，你害羞了？你害羞了對吧！\n我們果然需要多多練習擁抱呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "練習hug？\nYeah！交給我吧～！\n我會盡情hug你們的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然我嚴正否定，\n但我完全不覺得自己贏得過\n那兩位笑容滿面的賽馬娘……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "訓練員，我也要向你say sorry！\n讓你這麼擔心……",
+      "ChoiceDataList": [
+        "幸好妳沒事……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但我還是希望妳別再做出危險行動了──\n我這樣告訴她。\n要是發生什麼意外，我會很難過的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "就是說啊！\n我們真的擔心死了啦，真是的～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "妳也一樣喔──我悄聲說道，\n接著大大地嘆了一口氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "妳也一樣喔──我悄聲說道，\n接著大大地嘆了一口氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

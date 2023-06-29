@@ -1,0 +1,432 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "傍晚時分。當我跟目白光明一起\n悠哉地在街上散步時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "哎呀～怎麼回事呢？\n前方聚集了大量人潮呢。\n是不是正在舉行什麼典禮呢～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，是好玩的抽獎活動喔！\n那位文靜的小姐，\n要不要來抽抽看呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "哎呀，我可以抽抽看嗎？\n那我就不客氣了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "……不過，訓練員大人，\n我記得應該要有券才能抽獎吧？",
+      "ChoiceDataList": [
+        "剛好我們手上有五張小摸彩券",
+        "剛好我們手上有五張小摸彩券"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "哇～真不愧是訓練員大人～\n也就是說我們有五次機會吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……其實只能抽一次。\n所以這次只好請她忍耐一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "好，訓練員大人。\n一起來轉動這個迷你摩天輪吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "嘿～咻～轉～轉～轉～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們用超慢的速度轉動了抽獎機。\n結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "目白光明",
+      "Text": "…………呼哇～看樣子……\n這下相當不得了了呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "沒想到能夠收到溫泉……\n我還沒有自己的溫泉，\n所以老是去泡目白家的溫泉呢～",
+      "ChoiceDataList": [
+        "獎品不是溫泉，是溫泉旅遊券",
+        "獎品不是溫泉，是溫泉旅遊券"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖說抽中特獎，但怎樣都不可能得到整座溫泉吧。\n不過我們還是收到了最棒的獎品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "溫泉旅行～♪難得收到這麼棒的獎品，\n真希望能早點成行呢～\n訓練員大人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "一回去就立刻開始準備的話……我看看～\n我想，預定成行時間……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "大概會是明年初吧～？",
+      "ChoiceDataList": [
+        "還、還真久呢……",
+        "還、還真久呢……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "會嗎～？不過首先要在比賽中留下好成績，\n然後再開始規劃旅行，\n算算也差不多需要這些時間吧～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "若想同時兼顧，差不多要花上一年。\n看來這就是屬於目白光明的步調。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "請問～一年後……你的行程有空檔嗎？\n訓練員大人？",
+      "ChoiceDataList": [
+        "雖然還不知道，但OK！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "哇，太好了。\n那到時候我們一起去吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "還沒成行前，\n我想麻煩你保管這張券～\n真希望明年能泡在溫泉裡暖暖身子呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們多了一個未來的期待。\n光是期盼著去溫泉旅行，\n目白光明的表情看起來就相當溫暖了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "目白光明",
+      "Text": "哎呀，看起來真美味～\n這漢堡排分量真大呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "訓練員大人，可以的話，\n這份漢堡排能\n交給我來料理嗎～？",
+      "ChoiceDataList": [
+        "妳會煎嗎……？",
+        "妳會煎嗎……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "會的～這種料理必須花時間慢慢地煎，\n才能煎得熟透呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "不如說，就是我這種個性\n才適合料理這種食材吧～",
+      "ChoiceDataList": [
+        "妳打算怎麼料理？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "這個嘛～先稍稍加熱平底鍋，\n然後用小火慢慢地～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "……煎大概兩個小時♪",
+      "ChoiceDataList": [
+        "會焦掉的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "哎呀，這樣嗎？\n火力調整也不容易呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……我決定由我接下料理的責任。\n回到特雷森學園後，目白光明享用了\n煎得柔軟多汁的漢堡排。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "目白光明",
+      "Text": "哎呀哎呀～沒想到會收到這麼多。\n這下削皮會是個大工程了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "不過，訓練員大人，\n以前我削白蘿蔔皮時，\n可是削得非常完美喔。",
+      "ChoiceDataList": [
+        "咦～妳很擅長削皮啊？",
+        "咦～妳很擅長削皮啊？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "是稱不上擅長啦～\n但我仔細專注地削成薄薄一片──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "最後連肉都被我削光了，\n全削成了一整片長長的皮～",
+      "ChoiceDataList": [
+        "這技術太高超了……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看來雖然她的速度緩慢，\n但並不代表她身手不靈巧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "如果你想要的話，我也可以\n把這些胡蘿蔔全都削成薄薄一張皮……",
+      "ChoiceDataList": [
+        "不，我們用普通的方法吃吧",
+        "不，我們用普通的方法吃吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目前不需要讓她繼續精進削薄皮技術。\n我們正常地享用了燉熟的胡蘿蔔。\n削完皮的胡蘿蔔吃起來很甜，非常美味。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "目白光明",
+      "Text": "一根……真對不起～\n都是我害的，沒能抽到好獎品呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "畢竟分量不多，\n令人忍不住想立刻吃掉呢～",
+      "ChoiceDataList": [
+        "那要不要邊走邊吃？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "問題就出在這裡～\n我呀，不太擅長邊走邊吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "我無法邊走路邊吃東西～\n總是會忍不住停下腳步……",
+      "ChoiceDataList": [
+        "那就在這邊吃吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "啊，這裡不錯呢～\n兩人一起邊看著夕陽──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "我們一人一半吧，訓練員大人。\n看，太陽的顏色也好像胡蘿蔔呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "兩人邊欣賞晚霞邊分食胡蘿蔔。\n享受了溫暖人心的甜美滋味。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "目白光明",
+      "Text": "哇哇……衛生紙啊～\n要是獎品是大量衛生紙那還算好……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "但只得到一包，很快就會用光了呀。\n訓練員大人，你也想要更多包吧？",
+      "ChoiceDataList": [
+        "說起來，的確是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "那麼，為了表達歉意，\n下次就由目白家致贈你衛生紙吧。",
+      "ChoiceDataList": [
+        "謝謝妳，幫了大忙",
+        "謝謝妳，幫了大忙"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "送你約一卡車的分量～",
+      "ChoiceDataList": [
+        "太多了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "這樣啊～\n我本來是覺得需要致贈\n一卡車的分量才足以彌補你的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她滿懷歉意地垂下眼簾。\n這次抽獎以遺憾的結果收場……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

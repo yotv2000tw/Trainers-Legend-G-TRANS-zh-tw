@@ -9,7 +9,7 @@
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "千代王。\n妳要上場了呀？",
+      "Text": "千代王，\n妳要上場了呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -21,7 +21,7 @@
     },
     {
       "Name": "目白阿爾丹",
-      "Text": "好的。請一路小心……\n…………",
+      "Text": "好的，請一路小心……\n…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -51,13 +51,13 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "每年慣例，集結來自國內外的巨星，\n以全「世界」為舞台，\n讓全日本為之瘋狂的比賽……",
+      "Text": "每年都會集結來自國內外的巨星，\n以「世界」為舞台，\n讓全日本為之瘋狂的比賽……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "不過，今天，僅限這次，\n我們即將把世界佔為即有。",
+      "Text": "不過在今天，\n唯獨這次我們會把世界占為己有。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -81,13 +81,13 @@
     },
     {
       "Name": "觀眾B",
-      "Text": "她真的很誇張，你一定會嚇到的！\n不僅如此，這次的對手還是秋天王者千代王對吧？\n今天究竟誰會獲勝呢～！？",
+      "Text": "她真的很誇張，你一定會嚇到的！\n而且這次的對手還是秋天王者千代王對吧？\n不知道究竟誰會獲勝～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "工作人員",
-      "Text": "今天來場觀眾人數眾多！\n請不要推擠，慢慢前進！\n請觀眾慢慢前進！",
+      "Text": "今天來場的觀眾人數眾多！\n請不要推擠，慢慢前進！\n請觀眾慢慢前進！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -119,20 +119,20 @@
       "Name": "櫻花千代王",
       "Text": "……好。",
       "ChoiceDataList": [
-        "看來妳的精神很集中呢",
-        "看來妳的精神很集中呢"
+        "看來妳已經集中精神了",
+        "看來妳已經集中精神了"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "是的。我沒有任何迷惘。\n都到了這一天，我只有一個想法。",
+      "Text": "是的，我沒有任何迷惘。\n來到這一步，我只有一個想法。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "既然要參賽，我就要拿下勝績。\n我不想吞敗績。",
+      "Text": "既然要參賽，我就要拿下勝利。\n我不想輸，想贏得勝利。",
       "ChoiceDataList": [
         "一定要獲勝喔"
       ],
@@ -146,13 +146,13 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "……訓練員。\n我跟你說喔，「千代是鍋子，訓練員是鍋杓」。",
+      "Text": "……訓練員。\n「千代是鍋子，訓練員是鍋杓」喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "「天皇賞（秋）」那時，\n我聽到你的聲音了。",
+      "Text": "我在「天皇賞（秋）」的時候，\n聽到你的聲音了。",
       "ChoiceDataList": [
         "……妳聽見了啊",
         "……妳聽見了啊"
@@ -161,19 +161,19 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "是的。正是你的聲音\n在最後關頭推了我一把。",
+      "Text": "是的，就是你的聲音\n在最後關頭推了我一把。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "……所以……訓練員。那個……",
+      "Text": "……所以……訓練員，那個……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "為了讓我能一直堅持跑下去，\n以後我奔跑的時候，\n你還願意在我背後支撐我嗎？",
+      "Text": "為了讓我能一直堅持跑下去，\n以後我奔跑的時候，\n你還願意在我背後支持我嗎？",
       "ChoiceDataList": [
         "當然願意！！"
       ],
@@ -187,7 +187,7 @@
     },
     {
       "Name": "櫻花千代王",
-      "Text": "──打開這扇門，\n走過地下道後。",
+      "Text": "──打開這扇門，\n走過地下道。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -211,31 +211,31 @@
     },
     {
       "Name": "丸善斯基",
-      "Text": "不過，對不起喔。\n我的引擎已經進入高速運轉了……\n看來我是無法手下留情囉。",
+      "Text": "不過，對不起喔。\n我的引擎已經開始高速運轉了……\n看來我是無法手下留情囉。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "丸善斯基",
-      "Text": "今天就委屈妳乖乖地被怪物吃掉囉？",
+      "Text": "所以今天妳就乖乖地被怪物吃掉吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "呵呵……我不能答應妳。\n因為要吃掉對方的是我才對。",
+      "Text": "呵呵……我不能答應妳。\n因為是我要吃掉妳才對。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "櫻花千代王",
-      "Text": "來吧，一起享受吧。\n享受這場我跟妳的一生一次的比賽……",
+      "Text": "來吧，一起享受吧。\n享受這場我跟妳一生一次的比賽……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "千代王＆丸善",
-      "Text": "──享受這場屬於我倆的打比。",
+      "Text": "──享受這場屬於我們兩人的打比。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

@@ -1,0 +1,515 @@
+{
+  "Title": "粉絲感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（咻……咚咚！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──粉絲感謝祭。這天會招待粉絲來到\n特雷森學園參加活動，並舉辦各種表演項目。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "特雷森學園"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "在這場活動上，\n目白光明將與平時難以有機會對決的\n同期們一決勝負。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "呵～呵呵，好久不見啦，光～～明！\n今天一起讓粉絲們見識一場\n情感爆發的激戰吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "Yes！\n我們幾乎沒機會在短途賽上碰到！\n所以今天就用遊戲來一決勝負吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "採珠大人、大樹大人，\n請多多指教～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "對手是採珠，以及跟她同在短距離界\n大展身手的開朗cowgirl，\n大樹快車。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "嗨～各位♪今天由我負責主持！\n主持人是如泡沫般正點的丸善斯基喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "今天的比賽內容是～？（吹口哨～）\n由賽馬娘來場「忍耐大賽」～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "不過單純的忍耐大賽太無趣了，\n所以要請妳們戴上虛擬世界設備\n「VR模擬器」，進入各種極端的世界。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "究竟哪位賽馬娘能在嚴苛的環境中存活下來？\n現在立刻let's start！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "嚴苛的環境～？\n那個～訓練員大人～？",
+      "ChoiceDataList": [
+        "加油！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "聽不懂規則的目白光明\n臉上浮現困惑的表情，\n我送她上場比賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "Wow……雪山……\n嗚嗚嗚，抖抖抖抖……\n比肯塔基州還冷……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "就是啊～聽妳說會冷～\n好像就真的有點冷起來了～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "嗚嗚嗚……我不行了～既然這樣，光明，\n來比賽誰先跑到那個洞穴！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "跑到後，\n大家一起升起營火，\n享用熱牛奶吧！預備～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "唉～呀～大樹大人～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "「出局了～！\n大樹快車，出局～！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "來自肯塔基州的大樹快車\n率先出局。不過……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "啊～哈哈！\n我才不會輸給這點寒冷！\n維吉尼亞州的冬天可是更加嚴酷呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "「接下來前往下個世界吧，GO～GO～♪」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "「受詛咒的美國小鎮！\n妳們耐得住恐怖嗎？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "呵、呵呵呵呵……這種地方根本不算什麼。\n畢竟我……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "我可是（預定將）勇闖全世界的賽馬娘！\n黑暗城鎮我也駕輕就熟啦！預定將來會駕輕就熟！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "妳呢？光明！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "我嗎～我肚子開始餓了～\n差不多要到下午茶時間了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "……原來如此，看來現場氣氛影響不了妳呢。\n所以妳才能那麼毫不退縮地參加比賽……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "不過最後將會是我得勝！\n我早已立志攻略世界各國，\n世上沒有我忍受不了的地方！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "No──！！！\n這裡可不在我的遠征計畫之中啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "要是真的去了這種地方，\n一瞬間就會化成星塵的！\n嗚嗚嗚……完全就像身處宇宙空間……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "哎呀哎呀～這裡沒有空氣呢～\n不好了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "都吸不到空氣了耶……只覺得不好了？\n真、真不愧是目白家的賽馬娘……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "我輸了……沒想到世上竟然有\n超越世界等級的宇宙級家族。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "不過妳們看著吧！下次我一定會成為\n適應真空環境的賽馬娘的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "忍耐大賽到此為止～！\n優勝者是目白光明！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "哎呀～我好開心喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾們",
+      "Text": "喔喔喔喔喔喔喔喔喔喔喔喔喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "真是位穩重沉著的千金小姐哪。\n陷入那種狀況竟然還能如此冷靜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "是啊，好厲害的膽識呢。\n我會替妳加油的～目白光明！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（啪啪啪……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "非常感謝各位！之後我也會像\n今天這場忍耐大賽一樣～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "全力挑戰春季GⅠ的。所以──\n再麻煩各位替我加油了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "哇～完全就是千金小姐中的千金小姐！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "是啊，既清純又氣質高尚……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "話說回來～那個～我開始餓了，\n訓練員大人在哪裡呢～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "訓練員大人？點心時間到囉～\n我要吃點心了喔～\n訓練員大人～～～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "奇怪？總覺得……\n跟我想像的不太一樣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "是、是啊……這怎麼看……\n都不像膽識過人的類型……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白光明展現了天生的堅忍性格\n與傻氣的一面，將活動氣氛\n炒得十分熱烈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "好啦好啦～\n為了一償眾多粉絲的心願，\n請獲勝的小光陪我們聊一聊吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "小光，我還在想妳這份過人的膽識\n好像似曾相識呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "妳很像目白家的「那一位」呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "目白家的……哪一位呢？\n我想不到有誰跟我很像的呀～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "妳最像的就是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "目白家的祖母了！像以前的她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "什麼……奶奶？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "是啊。我也是從書上看來的，\n聽說她年輕時意志力堅強，\n又非常有行動力呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "那時代選手們還鮮少前進海外，但她從那時起\n就積極地與世界各地的名選手交流──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "促成了名門間的姻緣，據說雙方皆實力堅強。\n而聽說那對夫妻對日後的賽馬娘界\n做出舉足輕重的貢獻喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "雖然現在的她就像在背後籌劃的傳統古風指揮官，\n但聽說當時她可是風靡一時的主角，相當活躍呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "呼哇……妳說……奶奶她……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "是啊！其實我也很崇拜她的英勇傳說！\n我這強勢又積極的個性\n搞不好也有些受到她的影響呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "哎呀，丸善大人也？\n原來奶奶也曾有過那種時代啊……還有……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "沒想到我跟那麼偉大的奶奶……\n有相像的地方啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "是啊是啊，讓我有種很熟悉的感覺♪\n雖然我不是目白家的人，\n但我覺得自己跟小光妳……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "有著共通的強勁之處呢。\n讓我隱隱感受到命運♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "我……跟奶奶……\n嗚、嗚、嗚嗚嗚嗚嗚……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "哎、哎呀，怎麼哭了？\n我是不是說了什麼不該說的話？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "對、對不起，訓練員……\n我不是故意的……",
+      "ChoiceDataList": [
+        "沒事的，丸善斯基"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看來目白光明並不是\n因為傷心而哭的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "目白家成員之中……最不起眼的我……\n老是只能跟在\n人家背後的我……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "居然跟奶奶……有這麼了不起的共通點……\n嗚……嗚嗚嗚嗚……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "謝謝妳，奶奶……\n謝謝妳……嗚嗚……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "嗚嗚嗚……目白光明……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "會場裡的粉絲也被她感動得眼眶含淚。\n這股共鳴靜靜地傳染了整個會場──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "唉唷！氣氛怎麼感傷了起來呀，\n各位，要好好支持小光喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "雖然外表文靜，但內心可是熱情如火，\n她可是我的最佳死黨呢♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（哇啊啊啊啊啊啊啊啊啊啊啊啊啊！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "各位……各位～\n謝謝大家的聲援～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "還請各位往後也不吝繼續關照目白光明我，\n還有我最愛的目白家～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "歡呼聲衝破會場天花板，\n響徹整片天空。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "意外聽到的這一個前世代目白選手的珍貴話題，\n已深深刻劃在目白光明跟粉絲心中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

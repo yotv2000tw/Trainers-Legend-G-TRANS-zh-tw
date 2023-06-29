@@ -1,0 +1,388 @@
+{
+  "Title": "我是江戶之子！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我以新人訓練員身分待在特雷森學園一段時間了，\n不僅目前還沒找到專任賽馬娘，甚至連挖角都做不到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然覺得每位選手都很棒，\n但一旦真的要開口問，我還是會感到猶豫……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "──既然這樣，我有一個提議……\n如果學園內找不到，要不要去「外面」找呢？",
+      "ChoiceDataList": [
+        "外面嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "是的♪你應該也知道，賽馬娘的比賽，\n可不是只有閃耀系列賽而已！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "散布在日本各地的賽場擁有各自的系列賽，\n在各地方學園求學的賽馬娘們，就在那些比賽中較勁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "有些訓練員會從中發掘出優秀選手，\n並簽訂專任契約，讓對方轉進特雷森學園喔！",
+      "ChoiceDataList": [
+        "原來如此……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是我立刻動身到大井觀看選拔賽觀，\n據說想參加大井賽事的選手都聚集於此。但是──",
+      "ChoiceDataList": [
+        "這裡是……哪裡……！？",
+        "這裡是……哪裡……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因為我對這裡實在不熟，完全迷失了方向，\n最後甚至──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "威風凜凜的貓",
+      "Text": "喵吼──！！",
+      "ChoiceDataList": [
+        "嗚哇啊啊啊！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "有隻身體超壯的貓突然襲擊了我，\n還一直追著我不放！而且……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咕嗚嗚……）",
+      "ChoiceDataList": [
+        "（肚……肚子餓了……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "啊哈哈哈哈！！喔喔喔，怎麼啦？\n你看起來餓壞了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "威風凜凜的貓",
+      "Text": "吼喵～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "豪邁的賽馬娘",
+      "Text": "喔。怎麼了，你是這附近的貓老大吧。\n……哈哈，有人闖入你的地盤啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "豪邁的賽馬娘",
+      "Text": "好啦好啦，他又不是這地區的人。\n看在這份上放過人家吧！……好乖好乖好乖！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "經過豪邁的賽馬娘來回撫摸後，本來凶暴的貓\n瞬間安靜下來！那摸貓技巧只能說太高明了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "威風凜凜的貓",
+      "Text": "嗚喵～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "豪邁的賽馬娘",
+      "Text": "喔，再見～！……喔。你是第一次來這裡嗎？\n被貓老大追著跑，不只迷路還餓著肚子對吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "豪邁的賽馬娘",
+      "Text": "好，跟我來吧！\n帶你去一家好吃的蕎麥麵店。",
+      "ChoiceDataList": [
+        "我們才剛見面耶，這樣好嗎……？",
+        "我們才剛見面耶，這樣好嗎……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "豪邁的賽馬娘",
+      "Text": "別說笑了，我哪能丟下你！這種不上道的行為\n我是做不出來的啦。閉上嘴跟我來！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是豪邁的賽馬娘領著我來到拱廊商店街，\n並熟門熟路地踏入了立食蕎麥麵店。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "蕎麥麵店的大嬸",
+      "Text": "哎呀哎呀哎呀，這不是小稻嗎！\n要不要吃油炸豆皮？有一大堆喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "豪邁的賽馬娘",
+      "Text": "喔，這真是太感謝了！不過大嬸，\n也來碗碗蕎麥麵吧。我帶了客人來喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "蕎麥麵店的大嬸",
+      "Text": "哎呀，歡迎光臨！呵呵呵，\n既然是小稻介紹的，得熱烈招待你才行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然後端到我面前的蕎麥麵，上面還放了「招待」的\n兩隻炸蝦天婦羅。讓我吃得飽飽飽！",
+      "ChoiceDataList": [
+        "真的很謝謝妳……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "豪邁的賽馬娘",
+      "Text": "好吃到快融化了對吧！附近最好吃的蕎麥麵店就是這裡了。\n……所以說，你本來是想要去哪裡啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "豪邁的賽馬娘",
+      "Text": "送佛送到西天！這裡是我的地盤，\n可以帶你去任何地方。說說看吧！",
+      "ChoiceDataList": [
+        "其實我是想去「大井賽場」……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "豪邁的賽馬娘",
+      "Text": "嗯？你說什麼？\n……啊哈哈哈哈哈！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "豪邁的賽馬娘",
+      "Text": "什麼嘛，我也正要去哪裡呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是我總算來到了大井賽場，\n並開始觀摩選拔賽──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（喔喔喔喔喔！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "豪邁的賽馬娘",
+      "Text": "喝啊啊啊啊啊啊啊！！\n讓開讓開讓開啊啊啊啊啊！！",
+      "ChoiceDataList": [
+        "咦，是今天碰到的賽馬娘！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "沒想到她居然是選拔賽的參賽者！\n不對，先別說這個……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "終於來到最後的直線！在此處捲起漫天煙塵\n衝出重圍的是稻荷一、稻荷一！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "這下……就結束了！\n喝啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "稻荷一領先！稻荷一領先！2身距、3身距，\n逐漸拉開與身後選手的距離！！衝啊稻荷一、稻荷一！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "抵達終點！稻荷一在大井選拔賽以4身距大獲全勝！\n那嬌小身軀中滿溢著力量，跑得太完美了！！",
+      "ChoiceDataList": [
+        "……呼……！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "忍不住呼出的一口氣，是我看得忘了呼吸的證據。\n……剛才目睹的精彩表現就是如此吸引著我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我的心臟劇烈跳動。那撼動大地般的強力跑法。\n宛如火花般的激烈鬥志。在沙地上仍如此耀眼的速度。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她在草地賽道──閃耀系列賽上一定也能有好表現。\n只有她了……就是她了！",
+      "ChoiceDataList": [
+        "我想要──挖角她！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "啊，抱歉。\n你有這份心意我很高興，但我不能答應你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但豪邁的賽馬娘──稻荷一靜靜聽完我說的話後，\n乾脆地如此回答。",
+      "ChoiceDataList": [
+        "……我可以問妳理由嗎？",
+        "……我可以問妳理由嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "如你所見，我生在庶民區長在庶民區！\n從我剛學會走路時，就與這裡的人們形同家人了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "跑步上也是一樣。有一位師傅一直照顧我，培養我。\n他正在大井的選手隊等著我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "更何況──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "紫色髮圈的賽馬娘",
+      "Text": "──啊，找到妳了，稻荷姐！恭喜妳～！\n只是我……持久力又見底了，所以只跑第5名……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "幹嘛一臉沮喪的樣子！那是妳全力跑出的結果吧。\n而且師傅那裡不是來找妳加入了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "紫色髮圈的賽馬娘",
+      "Text": "是的！能和我從小就很仰慕的稻荷姐在同一隊……！\n我好高興！請多指教！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "紫色髮圈的賽馬娘",
+      "Text": "啊，抱歉打擾你們說話！我先走了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "喔，晚點見！！\n…………就像這樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "我也是江戶之子。沒辦法背叛照顧我的師傅，\n還有可愛的後輩……抱歉！",
+      "ChoiceDataList": [
+        "沒關係……我明白了",
+        "沒關係……我明白了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "……喂喂喂，別擺出那麼喪氣的表情！\n來邀請我代表你很有眼光！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "像你這麼有眼光，在特雷森學園也能找到好選手的。\n那邊是超級名門學校吧？既然如此──",
+      "ChoiceDataList": [
+        "我已經在學園裡找很久了。可是──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "可是……什麼？",
+      "ChoiceDataList": [
+        "可是我還是覺得，只有妳才是我的選擇。",
+        "可是我還是覺得，只有妳才是我的選擇。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "…………！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "啊，這個……是、是這樣嗎。\n呃…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "……你已經記得怎麼走了嗎？可別被貓老大抓到囉。\n那麼……回去的路上要小心喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

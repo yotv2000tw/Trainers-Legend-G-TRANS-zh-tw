@@ -1,0 +1,385 @@
+{
+  "Title": "在便利商店前要特別小心",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我和里見光鑽一起外出後回程的路上，\n經過便利商店時……\n看見兩名賽馬娘聚在那裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "可惡！又──是紅鶴子喔！\n都已經第五張了耶……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "我也是……又抽到滾蕃薯蟲了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "哎呀，是黃金船跟中山嗎？\n她們怎麼會在這裡呢？\n──我來去問問看！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "有種不好的預感……我一邊這麼想著，\n一邊追上里見光鑽的腳步。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "妳們好。\n妳們兩位在做什麼啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "喔，是里見啊！\n我們剛才買了大量的「驚人生物巧克力」啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "但我們一直沒有抽到最稀有的那張\n菊石騎士……\n就只好一直在這邊吃巧克力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "哎呀，意思是在嘗試新的挑戰嗎？\n感覺很有趣呢！\n我也可以參加嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "哈哈，真是個好奇心旺盛的大小姐呢。\n……好啊，妳想要挑哪一包？選吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "我想想喔，\n訓練員覺得哪一包比較好？",
+      "ChoiceDataList": [
+        "包裝漂亮的",
+        "包裝皺巴巴的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "我也覺得挑那個比較好呢！\n那就來拆開看看吧，要開囉──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "開了──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "這個是──呃，無齒翼龍……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "──無齒翼龍首領！！！！\n唔喔喔，是無齒翼龍首領耶！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "是喔，抽到了黃金級的喔。\n……運氣還算可以嘛，里見。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "哎呀，所以我是抽到好東西了嗎！？\n那我想要拆更多包看看呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "好啊，妳拆吧！\n妳拆開拿出卡片後就丟過來我這，\n巧克力由我來負責吃完！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "是！那我要開始了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "請先等一下！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "這個「驚人生物巧克力」，\n我本來也打算要買的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "結果全都賣完了……\n是黃金船跟中山前輩搞的鬼吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "神神怎麼了啦，怎麼火氣這麼大……\n真拿妳沒辦法耶。不然──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "──我們來比賽吧！\n妳贏了，我就把無齒翼龍首領送妳！\n但妳輸了的話就只能拿到眠眠蟬喔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "好啊！我接受挑戰！\n我一定會把無齒翼龍首領\n給贏到手的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "那麼，我們就來堂堂正正地──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船&神鷹",
+      "Text": "──決一場勝負吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "嗯──好像演變成不得了的局面了呢。\n訓練員。",
+      "ChoiceDataList": [
+        "是啊……",
+        "嗯……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "──不用擔心。\n放著不管，她們遲早是會玩累的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "咖啡！\n妳是來買東西的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "是啊，因為常去的咖啡廳剛好沒開……\n所以才來這裡……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "不過──我還是去別間咖啡廳好了……\n那我先走了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "哎呀，\n妳有那麼多咖啡廳的口袋名單呀。\n不介意的話，我也可以一起去嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "比起就發生在身邊的戰爭，\n里見光鑽更優先於自己的好奇心。\n……我算是又更清楚見識到了她的單純。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "特意要選這樣的挑戰是吧！\n感覺很有趣，那我要拆開囉──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "然而，在里見光鑽正要拆開包裝的同時──\n突然吹來一陣強風，\n把巧克力袋吹到了某人的腳邊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "嗯……這什麼？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "……真是的，原來是零食的袋子喔。\n妳們是在這裡辦什麼同樂會嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "呵呵……妳來得正好。\n妳要不要也加入啊？天狼星？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "加入是指用零食決勝負嗎？\n喂喂，都幾歲的人了，還為這種無聊事──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "──嗯？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "……喔──天真無邪的大小姐啊。\n對手是妳的話，說不定會很有趣呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "？\n意思是要跟我對決嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "是啊。剛才吹到我腳邊的那包如果裝著好東西，\n就算妳贏。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "反之，裡面東西不好的話，就是妳輸了。\n妳就要聽從我一個要求。\n──怎麼樣？",
+      "ChoiceDataList": [
+        "（什麼……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "呵呵，感覺很有趣呢。\n如果是這種條件的話，\n那我是絕對不能輸的♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "我接受挑戰！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "那麼──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船&中山",
+      "Text": "……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船&中山",
+      "Text": "隱藏角色！！\n是劍五龍……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看到卡片的瞬間，\n黃金船和中山慶典兩人\n立刻出現激動的反應……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "！？隱藏角色……？\n意思是雖不是最好但也不算壞囉？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "……受不了，這場對決只能不算數了。\n不過呢，雖然沒能讓妳吞敗仗，\n卻也確實看了一場好戲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "呵呵♪那麼也就是說，\n勝負就留到下一次了對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "……哦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "因為我們沒有分出勝負嘛。\n請再給我一個挑戰妳的機會吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "呵呵，哈哈哈！難得妳順利逃過一劫了，\n居然還要主動犯險嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "……很好。那我就站在頂點等著妳。\n等到妳爬到我的位置那天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "呵呵呵♪\n這麼一來，我又多了一個目標了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "里見光鑽連面對前輩的時候，\n也是無所畏懼地積極前進。\n我似乎又重新明白她有多堅強。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
