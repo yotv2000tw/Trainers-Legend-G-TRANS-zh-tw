@@ -1,0 +1,354 @@
+{
+  "Title": "「王牌」的望鄉",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "――カツラギエースのホームシックを解消したい。\nその一心で、本屋で『初めての家庭菜園』など数冊を購入した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "しっかり学び、手伝えるようになれば\n少しは彼女の寂しさを軽くできると思うのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "あれ、もしかしてトレーナーさんか？\nおいおい、すげぇ重そうな袋持ってんな。全部本か？",
+      "ChoiceDataList": [
+        "ああ、ちょっと勉強したいことがあって",
+        "うん、ちょっと勉強したいことがあって"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "休みの日まで勉強すんのか！？\n……は～、トレーナーってマジで大変なんだな。",
+      "ChoiceDataList": [
+        "っていっても仕事絡みじゃ――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "よし決めた！\n今日は息抜きしようぜ！\u3000トレーナーさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "この間もヘロヘロになってたし、たまにはいいだろ？\nほら、連れてってやるよ！\u3000――あたしの秘密基地！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "ほい、到着っと！\u3000どうよトレーナーさん！\nいい感じにボロっちくて味があるだろ？",
+      "ChoiceDataList": [
+        "エースはよくここに来るのか？",
+        "エースはよくここに来るの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "んー……気づいたら寄ってる、って感じか？\n空気が地元と似てて、なーんか落ち着くんだよな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いエース",
+      "Text": "――はぁあああああ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "近所のおじいちゃん",
+      "Text": "そら、けっぱれけっぱれ！\nおっはっは！\u3000なまらはえーなぁ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "近所のおばあちゃん",
+      "Text": "んだんだ！\u3000……エース！\u3000こわくなったらこっちゃおいで！\nババがお茶やっから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "じいちゃんたち、元気にしてっかな。\n今年もデカ大根育ててるといいんだけど。",
+      "ChoiceDataList": [
+        "デカ大根？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "ウチ、地区対抗で運動会があってさ。\nリレーで使うバトンが『大根』なんだよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "……あっはっは！\u3000そりゃそういう顔になるよな！\nちなみにその大根は、みんなで最後に食うんだぜ！\u3000そんで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "カツラギエースの話から、彼女がいかに故郷を愛し、\n同じくらい故郷から愛されているかがわかる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "だからこそ、ホームシックになるのだろう。この場所にも、\n故郷を少しでも感じるために来ているのかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "地元の人のようにはいかないかもしれないが、\n少しでも寂しさを紛らわせられれば……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "っと、悪い！\u3000トレーナーさんの息抜きだったのに、\nつい話し過ぎちまった……退屈だったよな？",
+      "ChoiceDataList": [
+        "いや、すごく楽しかったぞ",
+        "いや、すごく楽しかったよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "ならよかった！\u3000腹も減ってきたし、そろそろ帰るか！\n――ん？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "『初めての家庭菜園』って、これ……。",
+      "ChoiceDataList": [
+        "あっ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "『勉強したい』って言ってたの、\nトレーニングのことじゃなくて、畑についてだったのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "隠してたわけじゃないが、なんとなく気まずい。\n苦笑いしながら本を抱え直し、頷く。",
+      "ChoiceDataList": [
+        "どうしても……諦めきれなくて"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "この間のことなら、別に気にしなくていいのに。\nただでさえ忙しいのによ……。",
+      "ChoiceDataList": [
+        "諦めきれないのは君のことだ",
+        "諦めきれないのは貴方のことだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "重要なのは畑仕事でも、失敗を取り戻すことでもない。\nカツラギエースを元気づけたい、ただそれだけだ。",
+      "ChoiceDataList": [
+        "君の助けになることを、諦めたくない",
+        "貴方の助けになることを、諦めたくない"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "……っ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "実際、手伝ったところで大したことはできないかもしれない。\nでも0が1になるならば、やる価値はある――だから。",
+      "ChoiceDataList": [
+        "畑仕事、俺にも手伝わせてくれ！",
+        "畑仕事、私にも手伝わせて！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "トレーナーさん……。\n――わかった。その心意気、しかと受け取ったぜ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "やろう、畑仕事！\n朝めちゃくちゃ早ぇけど、音、上げんなよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "そうだ！\u3000どうせなら一緒に勉強しようぜ！\nわからないことは、あたしが教えてやるからさ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "数日後――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "……ん～、これだとちょっと残しすぎだな。\n間引く時は、わりとがっつり摘んじゃっていいぜ！",
+      "ChoiceDataList": [
+        "そ、そうなのか……",
+        "そ、そうなんだ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "うし！\u3000こっちはこんなもんかな。\n……トレーナーさん！\u3000そっちはどんな感じだ～？",
+      "ChoiceDataList": [
+        "も、もう少し時間くれれば……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "えーと新しい畝は準備できたし、\nあとは肥料と……。",
+      "ChoiceDataList": [
+        "エースこれ見てくれ！",
+        "エースこれ見て！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "ん？\u3000……おぉすげぇ！\u3000この列全部やったのか！\nバランスも完璧だし、トレーナーさんのみ込み早いな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "けど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "ここ、土ついてんぞ？\n……ん、よしとれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "ははっ、こういうとこはまだまだかな～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "さてと！\u3000じゃあ残りの作業もパパッとやっちまうか！\nトレーナーさん、そっちのほうもよろしくな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "――んでさ、葉っぱの中にまた青虫いたんだけど、\nトレーナーさん叫ばないで自分で逃がしてさ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エースの母親",
+      "Text": "『あら～すごいじゃない！\n前はひっくり返ってたって言ってたのにねぇ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エースの母親",
+      "Text": "『……けどよかったわ、すっかり元気そうで！\n前に電話した時、あんた少し変だったから心配してたんよ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エースの母親",
+      "Text": "『やっぱり畑仕事は誰かとやるべきね～。\n母ちゃんも1人だと寂しいもの！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "ははっ、そっか！\nうん……たしかに、そうかもな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "さてと、トレーナーさんが来る前に\n虫のチェックでもしてるかな～……って、あ。",
+      "ChoiceDataList": [
+        "あ、おはようエース！今朝は涼しいな",
+        "あ、おはようエース！今朝は涼しいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "――おう！\u3000おはよう、トレーナーさん！\n……って、ふはっ！\u3000後ろ、すげー寝ぐせ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "（母ちゃんの言うとおりだ。こっちに来てから、\n1人での作業なんて、慣れたもんだと思ってたけど……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "（まだ薄暗い朝に、返ってくる声があって。\n顔についた土をぬぐい合える相手がいる）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "（たったそれだけのことだけど、\nそれだけで……あたしは）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エースの母親",
+      "Text": "『――そしたらまたね。\nこっちが恋しくなったら、いつでも帰っておいで』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "うん。ありがとな、母ちゃん。\n……けど大丈夫、心配ねぇよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カツラギエース",
+      "Text": "――あたしには、トレーナーさんがいるからさ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
