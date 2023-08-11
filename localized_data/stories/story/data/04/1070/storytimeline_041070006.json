@@ -1,0 +1,318 @@
+{
+  "Title": "離隊的狼選擇開路",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "仕事の都合で少しだけ遠出をした帰り道、\nいつものビリヤード場の別店舗を見つけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "せっかくだし練習をしようと中に入ると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "どこにでもいるな、お前らは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ピアスの多いウマ娘",
+      "Text": "ヘヘッ、いいじゃないっすかぁ。\nシリウス先輩が行くところなら、ついていくし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "髪をそり上げたウマ娘",
+      "Text": "マジそれ。つか先輩がいてこそのオレらっつーか？\n許してくださいよ！\u3000ははっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "辺りを見回すと、見慣れたウマ娘たちも大勢いる。\n一瞬、いつもと同じ店に入ってしまったかと思った。",
+      "ChoiceDataList": [
+        "シリウ――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "お前……ついてこい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "髪をそり上げたウマ娘",
+      "Text": "え？\u3000オレっスか？\u3000は……はい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "髪をそり上げたウマ娘",
+      "Text": "あ、あの……シリウス先輩？\nどうしたっスか……？\u3000オレ、なにかしました……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "ヘラヘラとできの悪い能面貼りつけて、私の前に立つとはな。\n……気に食わねえ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "まさか喧嘩じゃ――焦り止めに入ろうとしたところで、\nかわいた笑い声がした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "髪をそり上げたウマ娘",
+      "Text": "あ……あ、あはは……そっか。そうっスよね。\nシリウス先輩には、わかっちまうかー……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "トレーナーの指示通りに走っても、結果が出なかった。\nずっと疑問を抱きながら走っている――そのウマ娘はそう言った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "髪をそり上げたウマ娘",
+      "Text": "言おうとも思ったんスけどー……\n周りのダチとか親も……言う通りにしたほうがいいって言うし？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "髪をそり上げたウマ娘",
+      "Text": "空気悪くなんの苦手っつーか……あははは……。\nすんません、カッコ悪いっスよね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "言ったはずだ。気に食わねえってな。\n私の前で、その笑いはやめろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "髪をそり上げたウマ娘",
+      "Text": "……っ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "周りが言うから、お前はお前の心を無視すんのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "言う通りにしろ？\u3000何のために。\nそいつらはお前の代わりに走ってくれんのか？\u3000違うだろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "走るのは――お前だ。他の誰にも、お前の道は走れねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "他人に踊らされて何が残る。あるのはせいぜい、腐った残骸だけだ。\nいいか、ツケってのは全部自分に返ってくる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "後悔を他人のせいにするくらいなら、道は自分で選べ。\n茨のトゲに刺されても、その責任は自分でとれ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "くだらねえ後悔を抱くくらいならな。",
+      "ChoiceDataList": [
+        "（シリウス……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "髪をそり上げたウマ娘",
+      "Text": "で、でも……でも、怖いっス……。\nもしそれで……周りに見捨てられたらと思うと……オレ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "その程度で消えるヤツらを気にしてどうする？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "それは、お前にとっての楔だ。\n重たいだけで、役には立たねえ。勝手に消えんなら儲けもんだろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "髪をそり上げたウマ娘",
+      "Text": "シリウス先輩……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "選択しろ。\n選ぼうとする意志は、必ず不要なものをそぎ落とす。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "髪をそり上げたウマ娘",
+      "Text": "……っ、あはっ、あははっ……！\nそうっスね……ほんと、そう思います……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "シリウスシンボリの言葉は、いつも真っ直ぐで……\n正直、容赦がないと思う。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "すべてが正しいわけではなく、優しさも感じとりにくい。\n……けれど、不思議だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目を閉じて、先ほどの言葉の数々を頭の中で再生する。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "危険な香りを纏わせながらも、彼女の言葉には強さがある。\n信じたい、ついて行きたいと思わせるような力が――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "おい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "いくら飼い主が恋しくなったからって、\nこんなところまで追いかけてくるとはな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "迷子にならずに、よく見つけた……と褒めるべきか？\n……子犬ちゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "おずおずと顔を上げ、つけてきたわけではないし、\n聞くつもりもなかったと伝える。",
+      "ChoiceDataList": [
+        "……ごめん"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "今更だな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "もとはといえば、隠しきれてねえアイツのツメが甘かった。\n誰に聞かれていようが私には関係ねえ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "そういえば。はたから見ていた限り、先ほどのウマ娘は悩みを\n抱えているようには見えなかった。なのに、シリウスシンボリは――",
+      "ChoiceDataList": [
+        "どうして気づいたんだ？",
+        "どうして気づいたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "あんなに胸糞悪い笑い方してりゃ、誰でも気づく。\n不愉快なんだよ、私の視界にいるのが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "誰でも……いいや、気づいたのはシリウスシンボリだけだ。",
+      "ChoiceDataList": [
+        "（……ああ、そうか）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "――もしかしたら、そういうところが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "で、追いかけてきたんじゃねぇなら、どうしてここにいる。\nいつもは地元の方に行ってるだろ。",
+      "ChoiceDataList": [
+        "仕事帰りで、練習しようかと……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "玉拾いしているほうが、子犬にはお似合いなんじゃねえか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……感心したのも束の間。からかわれている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "負けてなるものかとキリッとした顔をしてみたが……\n目を細めて笑われただけだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
