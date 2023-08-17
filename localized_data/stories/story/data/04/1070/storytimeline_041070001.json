@@ -1,0 +1,337 @@
+{
+  "Title": "渴望的狼牙",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――夜の匂い、光るネオン。雑多な喧騒。闇夜には多くの刺激や\n危険が潜んでいる……そのことを、すっかり忘れていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "怪しい青年",
+      "Text": "まあまあ、そう言わずに！\u3000聞いていってくださいよ～～！\nここだけのオ・イ・シ・イ話……興味あるでしょう？",
+      "ChoiceDataList": [
+        "いや、その、えっと……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "怪しい青年",
+      "Text": "大丈夫、すぐ終わりますから！\u3000さあさあ、こっち！",
+      "ChoiceDataList": [
+        "（ダメだ……断り切れない……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "いつもそうだ、気弱な自分の性格が嫌になる……。\nこういう時は、諦めてやり過ごす。それしか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "――……。\nキツネが一匹、子犬が一匹、か。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ドカァッ……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "怪しい青年",
+      "Text": "ひいっ……！？\u3000な、なんの音だ……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "怯えた小動物をかっ食らって満足かよ？\n……情けねえ獣だな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "いつの間にか、すぐ隣に1人のウマ娘が立っていた。\nどうやら、彼女が壁を蹴って青年を威嚇したらしい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "アンタもだ。",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "子犬にだって牙くらいあるだろ。\n飾りで終わらせてんじゃねえよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "鎖は壊した。牙を剥くか、尻尾巻いて逃げるか――\nあとは自分で“選べ”。",
+      "ChoiceDataList": [
+        "（助けてくれた……のか？）",
+        "（助けてくれた……のかな？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ハッとして、なんとかその場から逃げ出しながらも――\n『選べ』という彼女の言葉を、頭の中でなぜか反芻していた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その数日後。デビュー前のウマ娘たちが、トレーナーからスカウト\nされるべく己の実力を見せる『選抜レース』が催された。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自分も担当ウマ娘を探すべく、張り切って見学に向かったのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "教官",
+      "Text": "ほら、こっちだ！\u3000そこと、あそこの角に置いてくれ！\nいやー助かるよ。設営、手伝ってくれて！",
+      "ChoiceDataList": [
+        "は、はい……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……また断り切れなかった。せっかくのチャンス、ちゃんと\nレースを観たかったのだが……はっきり言えない自分が悪い。",
+      "ChoiceDataList": [
+        "（……あの時の彼女みたいになれたらなぁ）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "裏路地で助けてくれた彼女の、自信に満ちた表情を思い出す。\nそう、ちょうどあんな感じの瞳で――",
+      "ChoiceDataList": [
+        "って、本人……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人トレーナー",
+      "Text": "おお～……！\u3000ようやく登場しましたね……！\nあのシンボリ家のウマ娘――シリウスシンボリ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ベテラントレーナー",
+      "Text": "ああ、これまでの模擬レースでは多くの結果を残している。\n今日はどんな走りを見せてくれるか、楽しみだな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "各ウマ娘がゲートに収まりました！\n本日の選抜レース――スタートです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "ハッ――――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人トレーナー",
+      "Text": "……！\n早朝の雨で、コースはやや重いはずですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ベテラントレーナー",
+      "Text": "ものともしていないな……！\n評判通り、すごいパワーだ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "……、フッ――！！\u3000たァッ――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "桁外れのパワーで地面を蹴っては、\n縦横無尽にコースを抉り、ライバルたちを蹂躙していく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "重い芝が舞い上がるたび、その闘志はますます漲っていき――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "だアアアァァァァァァァァーーーーーーーーーッッッ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "餓狼のような咆哮を発して、勝利した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "観る者を惹き込む、『私はここだ！』と言わんばかりの獰猛さ……\nこんな走りは――初めて見た。",
+      "ChoiceDataList": [
+        "（すごい……なんてウマ娘だ……！）",
+        "（すごい……なんてウマ娘……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "高鳴る胸が抑えられない。彼女の走りをもっと見たい……\nそう声をかけようと、思わず駆け寄ろうとした――のだが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ベテラントレーナー",
+      "Text": "素晴らしい走りだったよ……！！\u3000君ならクラシック三冠制覇を\n狙えるだろう！！\u3000俺の持っている経験、全部叩き込むと誓おう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人トレーナー",
+      "Text": "私も……！！\u3000ぜひぜひ、私と一緒に三冠を掴みませんかっ！？\nまだ新人ですけど、環境、情報、戦略……完璧に整えてみせます！",
+      "ChoiceDataList": [
+        "（うぅ、入っていけない……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "他のトレーナーたちの熱量に押され、言葉が出ない。\nそれでもうろうろと、機会を窺っていたのだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "教官",
+      "Text": "君、何やってるの！\nこっちも手伝って！",
+      "ChoiceDataList": [
+        "あ……は、はい……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "悪いが、担当はもう決めた。\n――オイ、アンタ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "そこの子犬！\nアンタだよ。",
+      "ChoiceDataList": [
+        "……へっ、俺！？",
+        "……へっ、私！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "――今日からアンタが、私のトレーナーだ。\n異論ねぇな？",
+      "ChoiceDataList": [
+        "えっ……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "異論は、ねぇな？",
+      "ChoiceDataList": [
+        "はっ、はい……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "なぜ彼女が、声すらかけられなかった自分を選んでくれたのか……\nわからない。それでも――",
+      "ChoiceDataList": [
+        "（これはチャンスだ……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女の堂々とした走りを思い出す。あれほどまでのウマ娘を\n担当できるなんて、トレーナー冥利に尽きるとしか言いようがない。",
+      "ChoiceDataList": [
+        "（よし、明日から頑張るぞ！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "しかし――その意気は、すぐに消えた。\n翌日、張り切ってトレーニングメニューを作っていったのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "――以上が、今後の方針だ。\nデビューまでは今の計画に沿って進む。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "彼女が提案してきたのは、完璧で隙のないトレーニング計画……\n何よりその口調には、有無を言わさないという圧があった。",
+      "ChoiceDataList": [
+        "……あの、一応、俺も――",
+        "……あの、一応、私も――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "あ？",
+      "ChoiceDataList": [
+        "い、いや、なんでも……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シリウスシンボリ",
+      "Text": "……フン。\n文句はないなら……黙って見てな、“トレーナーさん”？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "シリウスシンボリ……――尊大で、自信に満ち溢れたウマ娘。\n彼女の強気な視線に当てられると、少しも言葉は出てこなかった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
