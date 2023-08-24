@@ -42,6 +42,8 @@
 3. DRAMATIC JOURNEY
 4. Everlasting BEATS
 5. Glorious Moment！
+6. トレセン音頭
+7. L'Arc de gloire
 
 ## 額外提供
 1. 部分翻譯協助。
