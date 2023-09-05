@@ -1,318 +1,318 @@
 {
-  "Title": "Similar",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "老手訓練員A",
-      "Text": "──那麼，吉兆同學。\n能請妳告訴我們嗎？妳想跟誰搭檔。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "吉兆的「訓練員選定」結果發表當天──",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "沒有參加的我就算在這裡，也沒有道理被選上。\n但是──我知道了她的事情。並忍不住祈禱。",
-      "ChoiceDataList": [
-        "（我想主動出聲，想被選上！但是……）"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "──……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "我們對上眼了。\n那個瞬間，我不禁脫口而出。",
-      "ChoiceDataList": [
-        "吉兆……！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "是你。",
-      "ChoiceDataList": [
-        "……！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "吉兆的眼神筆直地看著我這邊。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "──在這裡面，你是……最了解我的人。\n並且試著──想了解我。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "說我。──已是一項成果。\n雖然是慢慢來……但你說，我已達成了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "所以說。……和你的話，必能達成。\n──我是這麼想的。",
-      "ChoiceDataList": [
-        "（──她的眼神怎麼會如此真誠。）"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "她是如此真誠。我也想用最真誠的態度面對她……\n我早已這麼期許、且沒有迷惘。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "──你覺得、如何。",
-      "ChoiceDataList": [
-        "……今後還請多多指教！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "──所以──很抱歉。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "看到低頭道歉的吉兆我才回過神來。\n是啊，我等於是無視了這些候補者插隊！",
-      "ChoiceDataList": [
-        "我……我也想擔任！不好意思！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "中階訓練員A",
-      "Text": "啊──不會……沒事沒事。\n是那孩子自己選的，我們哪會有意見！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "老手訓練員A",
-      "Text": "是啊……再說，也許我們的方針本來就合不來了。\n吉兆同學，我們才要跟妳說對不起。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "──……感謝各位。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "──幾天後。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "……那麼──最後──我稍微、做點緩和。",
-      "ChoiceDataList": [
-        "嗯，慢慢跑完兩圈後就收操吧。"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "我和吉兆經過幾次討論後，\n已經開始習慣這種盡可能減輕負荷的訓練方式時。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "？？？",
-      "Text": "呀，還真勤奮呢。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "魯道夫象徵",
-      "Text": "恭喜你就任了她的專屬訓練員。\n話雖這麼說……這都在我預料中就是了。",
-      "ChoiceDataList": [
-        "預料……？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "魯道夫象徵",
-      "Text": "因為我覺得你很適合。\n畢竟你們有幾分相似。",
-      "ChoiceDataList": [
-        "有、有相似嗎……"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "魯道夫象徵",
-      "Text": "是啊，一定有。\n──我看吉兆也差不多要回來了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "魯道夫象徵",
-      "Text": "打擾你們也不太好，我就先在此失陪了。\n她就拜託你囉，<username>訓練員。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "──那之後又過了幾天。訓練結束的時候。",
-      "ChoiceDataList": [
-        "……妳認為我和妳有幾分相似嗎？",
-        "……妳認為我和妳有幾分相似嗎？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "……？為何。\n你……很會說話、笑容又多。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "確實在說話方面不怎麼像……\n但是魯道夫象徵對我說的「相似」這個字，仍讓我有些在意。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "──不相似會……比較好。\n我不希望看到連你都被……誤解的樣子。",
-      "ChoiceDataList": [
-        "……但只有妳被誤解不嫌寂寞嗎？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "雖然我們解開了前輩訓練員們的誤解，\n但是許多場合仍被同學們敬而遠之。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "──有你。有訓練員……在。\n對我的──狀況。有所理解。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "──要達成、使命……只要有你在。\nSufficient──就夠了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "她表示，知己只要有一個人就夠了。\n即便做到這種地步，她仍堅持要邁向使命──",
-      "ChoiceDataList": [
-        "（……我想幫忙吉兆實現願望）"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "當我自覺這同時也是自己的願望時，\n突然注意到了一件事。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "下定決心，要成為師傅的──成果之一。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "……怎麼了？",
-      "ChoiceDataList": [
-        "……如果達成使命，就是妳的願望",
-        "……如果達成使命，就是妳的願望"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "──？",
-      "ChoiceDataList": [
-        "那麼這一定也是我的願望",
-        "那麼這一定也是我的願望"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "被魯道夫象徵指出的共通點。\n──那就是會無意間，將別人的願望變成自己的願望吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "──在這點上、相似？\n相似──",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "…………。\n…………──是啊。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "吉兆點了個頭……\n用著看似認同這個回答的表情看著我。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "吉兆",
-      "Text": "一樣。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "──相似的兩人繼續一同向前。\n將心中重要的願望，像寶物一樣抱在懷中。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "即便那原本不是出於自己的願望──\n但是期望它能實現的心情，是貨真價實的。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "Similar",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老手訓練員A",
+            "Text": "──那麼，吉兆同學。\n能請妳告訴我們嗎？妳想跟誰搭檔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "吉兆的「訓練員選定」結果發表當天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "沒有參加的我就算在這裡，也沒有道理被選上。\n但是──我知道了她的事情。並忍不住祈禱。",
+            "ChoiceDataList": [
+                "（我想主動出聲，想被選上！但是……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──……。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "我們對上眼了。\n那個瞬間，我不禁脫口而出。",
+            "ChoiceDataList": [
+                "吉兆……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "是你。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "吉兆的眼神筆直地看著我這邊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──在這裡面，你是……最了解我的人。\n並且試著──想了解我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "說我。──已是一項成果。\n雖然是慢慢來……但你說，我已達成了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "所以說。……和你的話，必能達成。\n──我是這麼想的。",
+            "ChoiceDataList": [
+                "（──她的眼神怎麼會如此真誠。）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "她是如此真誠。我也想用最真誠的態度面對她……\n我早已這麼期許、且沒有迷惘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──你覺得、如何。",
+            "ChoiceDataList": [
+                "……今後還請多多指教！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──所以──很抱歉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "看到低頭道歉的吉兆我才回過神來。\n是啊，我等於是無視了這些候補者插隊！",
+            "ChoiceDataList": [
+                "我……我也想擔任！不好意思！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中階訓練員A",
+            "Text": "啊──不會……沒事沒事。\n是那孩子自己選的，我們哪會有意見！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老手訓練員A",
+            "Text": "是啊……再說，也許我們的方針本來就合不來了。\n吉兆同學，我們才要跟妳說對不起。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──……感謝各位。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "──幾天後。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……那麼──最後──我稍微、做點緩和。",
+            "ChoiceDataList": [
+                "嗯，慢慢跑完兩圈後就收操吧。"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "我和吉兆經過幾次討論後，\n已經開始習慣這種盡可能減輕負荷的訓練方式時。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "呀，還真勤奮呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "魯道夫象徵",
+            "Text": "恭喜你就任了她的專屬訓練員。\n話雖這麼說……這都在我預料中就是了。",
+            "ChoiceDataList": [
+                "預料……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "魯道夫象徵",
+            "Text": "因為我覺得你很適合。\n畢竟你們有幾分相似。",
+            "ChoiceDataList": [
+                "有、有相似嗎……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "魯道夫象徵",
+            "Text": "是啊，一定有。\n──我看吉兆也差不多要回來了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "魯道夫象徵",
+            "Text": "打擾你們也不太好，我就先在此失陪了。\n她就拜託你囉，<username>訓練員。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "──那之後又過了幾天。訓練結束的時候。",
+            "ChoiceDataList": [
+                "……妳認為我和妳有幾分相似嗎？",
+                "……妳認為我和妳有幾分相似嗎？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……？為何。\n你……很會說話、笑容又多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "確實在說話方面不怎麼像……\n但是魯道夫象徵對我說的「相似」這個字，仍讓我有些在意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──不相似會……比較好。\n我不希望看到連你都被……誤解的樣子。",
+            "ChoiceDataList": [
+                "……但只有妳被誤解不嫌寂寞嗎？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "雖然我們解開了前輩訓練員們的誤解，\n但是許多場合仍被同學們敬而遠之。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──有你。有訓練員……在。\n對我的──狀況。有所理解。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──要達成、使命……只要有你在。\nSufficient──就夠了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "她表示，知己只要有一個人就夠了。\n即便做到這種地步，她仍堅持要邁向使命──",
+            "ChoiceDataList": [
+                "（……我想幫忙吉兆實現願望）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "當我自覺這同時也是自己的願望時，\n突然注意到了一件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "下定決心，要成為師傅的──成果之一。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……怎麼了？",
+            "ChoiceDataList": [
+                "……如果達成使命，就是妳的願望",
+                "……如果達成使命，就是妳的願望"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──？",
+            "ChoiceDataList": [
+                "那麼這一定也是我的願望",
+                "那麼這一定也是我的願望"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "被魯道夫象徵指出的共通點。\n──那就是會無意間，將別人的願望變成自己的願望吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──在這點上、相似？\n相似──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………。\n…………──是啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "吉兆點了個頭……\n用著看似認同這個回答的表情看著我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "一樣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "──相似的兩人繼續一同向前。\n將心中重要的願望，像寶物一樣抱在懷中。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "即便那原本不是出於自己的願望──\n但是期望它能實現的心情，是貨真價實的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }
