@@ -1,372 +1,372 @@
 {
-  "Title": "為通寧加入剎那的香料",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "假日，我在房間一醒過來──\n便發現信箱裡面放了一封信。",
-      "ChoiceDataList": [
-        "（這是……？）"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "我打開信封讀起內容。\n信上用著一段流麗的文字寫道。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "神秘的信",
-      "Text": "「女神有三柱、故事有序破急、調和有三和弦。」",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "神秘的信",
-      "Text": "「我效仿這些真理，準備了三個路標。\n你就順路前往終點一窺剎那吧。」",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "神秘的信",
-      "Text": "「第一個路標，如傳令之神般迅速的鋼鐵之箱。\n前往它急馳而過的橋下，我在砂礫之門前等你。」",
-      "ChoiceDataList": [
-        "……？？？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "從這獨特的文體來看，我想應該是谷野美酒寄的……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "我想著想著才注意到一件事。話說回來她曾經這麼說過。\n「為你豎起路標吧」。如果照這句話來看──",
-      "ChoiceDataList": [
-        "（去三個地方就好……的意思嗎？）"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "……不過光是在這邊想也不是辦法。\n總之我就先試著出門尋找線索了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "「迅速的鋼鐵之箱」是指電車。「急馳而過的橋下」、\n「砂礫之門」指的是高架橋。我是這麼推測的──",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "──看來，傳令有正確送達了呢。",
-      "ChoiceDataList": [
-        "谷野美酒！！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "不要急。操之過急會產生失態。\n比起那些事……看看上面吧。",
-      "ChoiceDataList": [
-        "咦……？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "（轟──！！！！）",
-      "ChoiceDataList": [
-        "──！！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "電車在頭上隨著轟隆一聲疾馳而去。\n我瞬間被震耳欲聾的激烈巨響和強烈震動包圍──！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "雖然只是一瞬間，但是聲音和衝擊卻在體內迴響了一陣子。\n我稍微呆滯一下後，將視線移回去──。",
-      "ChoiceDataList": [
-        "（奇怪，不在了……！？）"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "谷野美酒不知何時消失得無影無蹤了……！\n取而代之的是一張掉在地上的信。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "信",
-      "Text": "「第二個路標，不斷重演生與死的場所。\n前往花神統治之地，我在西風吹拂的平原等你。」",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "我果然還是搞不太懂──\n「花神統治之地」指的是花田的意思嗎……？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "話說回來，剛才那輛電車駛往的方向應該有花田。\n說不定去那邊就行了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "接著，我一到達後──",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "漂亮，是受到西風的邀請嗎？",
-      "ChoiceDataList": [
-        "妳果然在這裡呢！",
-        "妳果然在這裡呢！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "……哼，舉行歡喜的盛宴還太早了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "看著彼方吧。受到恬靜的西風邀請，花瓣們將隨著飛散。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "我朝著谷野美酒望去的方向一看，\n突然吹來了一陣暖風，令花瓣悄悄地在空中起舞。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "眼前的景色一瞬間充滿鮮豔的色彩。\n我一邊沉浸於美景的餘韻，一邊將視線移回──",
-      "ChoiceDataList": [
-        "（人又突然不見了……！！）"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "就跟剛才一樣，谷野美酒一瞬間就不見了，\n只留下一張掉落在地面的紙條。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "信",
-      "Text": "「最後的路標，造成斷絕的禁忌之塔。\n我在能俯瞰一切的塔頂等你。」",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "說到塔的話，我記得有一座能放眼整個城市的塔。\n雖然有點遠，但是都來到這了──就奉陪到底吧！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "在搭乘電車的過程中，太陽逐漸西下──",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "等我到達那座塔的時候已經是晚上了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "歡迎來到巴比倫的最上層。",
-      "ChoiceDataList": [
-        "嗯，我來了！",
-        "嗯，我來了！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "……哼哼，可不要露出太多破綻。\n不然會被混亂吞噬掉喔。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "比起那個──快看吧。這是最後的景色。\n狼將追上月亮了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "我用跟谷野美酒一樣的角度俯瞰了城市──就在那瞬間。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "……哼哼，哈哈哈！啊哈哈哈！！",
-      "ChoiceDataList": [
-        "──！！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "啊──────────哈哈哈哈！！！！！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "路燈一齊亮起，眼前的景色頓時發出光彩──！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "整座城市變得閃閃發亮、令人炫目。\n宛如被星座點綴的夜空般，這道光景令我短時間無法移開視線。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "看見了嗎，一瞬間的閃光！！結束、開始的時刻！！！\n最上級、最棒的香料！！！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "這就是我渴望的東西！！我所追求的景色！！！！",
-      "ChoiceDataList": [
-        "真是漂亮……！",
-        "真是漂亮……！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "哼哼，你也迷上了嗎？\n……算你僥倖。",
-      "ChoiceDataList": [
-        "難道說妳想讓我看的就是這景色？",
-        "難道說妳想讓我看的就是這景色？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "雖是肯定，同時也是否定。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "回想看看吧。今天全部的行程。你得到何種體驗、\n並享受到了什麼。在你的靈魂中留下最鮮明色彩的是什麼？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "被她這麼一說，我開始思考。\n回顧今天所見的一切。其中有──",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "一瞬間駛過的列車。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "一瞬間飛落的花瓣。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "一瞬間亮起的城市。\n這樣啊──仔細想想，全部都有項共通點。",
-      "ChoiceDataList": [
-        "全部都是一瞬間發生的事情呢",
-        "全部都是一瞬間發生的事情呢"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "……最佳解。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "於剎那凋零，閃耀、並誕生之物。\n留下強烈的燒痕，令人念念不忘之物。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "──這才是我所渴望的東西。\n我為了抵達極致而行動。因此，我選擇奔馳。",
-      "ChoiceDataList": [
-        "（原來如此……）"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "我感覺稍微理解了。她所渴望的東西──恐怕就是瞬間。\n稍縱即逝才能留下深刻的印象，成為讓人想留在心中的瞬間。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "會講究「快速」和「強烈」兩者，\n也是基於講究鮮明的一瞬間，這樣想就好理解了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "哼哼……路標，看來派上用場了呢。",
-      "ChoiceDataList": [
-        "謝謝妳告訴我"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "谷野美酒",
-      "Text": "尋得答案的是你自己。\n對自己表示感謝就行了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "獨白",
-      "Text": "在那之後我們兩人一起稍微享受了一下夜景。\n谷野美酒的表情看起來比平常還要滿足許多。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "為通寧加入剎那的香料",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "假日，我在房間一醒過來──\n便發現信箱裡面放了一封信。",
+            "ChoiceDataList": [
+                "（這是……？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我打開信封讀起內容。\n信上用著一段流麗的文字寫道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神秘的信",
+            "Text": "「女神有三柱、故事有序破急、調和有三和弦。」",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神秘的信",
+            "Text": "「我效仿這些真理，準備了三個路標。\n你就順路前往終點一窺剎那吧。」",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神秘的信",
+            "Text": "「第一個路標，如傳令之神般迅速的鋼鐵之箱。\n前往它急馳而過的橋下，我在砂礫之門前等你。」",
+            "ChoiceDataList": [
+                "……？？？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "從這獨特的文體來看，我想應該是谷野美酒寄的……。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我想著想著才注意到一件事。話說回來她曾經這麼說過。\n「為你豎起路標吧」。如果照這句話來看──",
+            "ChoiceDataList": [
+                "（去三個地方就好……的意思嗎？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……不過光是在這邊想也不是辦法。\n總之我就先試著出門尋找線索了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "「迅速的鋼鐵之箱」是指電車。「急馳而過的橋下」、\n「砂礫之門」指的是高架橋。我是這麼推測的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "──看來，傳令有正確送達了呢。",
+            "ChoiceDataList": [
+                "谷野美酒！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "不要急。操之過急會產生失態。\n比起那些事……看看上面吧。",
+            "ChoiceDataList": [
+                "咦……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（轟──！！！！）",
+            "ChoiceDataList": [
+                "──！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "電車在頭上隨著轟隆一聲疾馳而去。\n我瞬間被震耳欲聾的激烈巨響和強烈震動包圍──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "雖然只是一瞬間，但是聲音和衝擊卻在體內迴響了一陣子。\n我稍微呆滯一下後，將視線移回去──。",
+            "ChoiceDataList": [
+                "（奇怪，不在了……！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "谷野美酒不知何時消失得無影無蹤了……！\n取而代之的是一張掉在地上的信。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "信",
+            "Text": "「第二個路標，不斷重演生與死的場所。\n前往花神統治之地，我在西風吹拂的平原等你。」",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我果然還是搞不太懂──\n「花神統治之地」指的是花田的意思嗎……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "話說回來，剛才那輛電車駛往的方向應該有花田。\n說不定去那邊就行了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "接著，我一到達後──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "漂亮，是受到西風的邀請嗎？",
+            "ChoiceDataList": [
+                "妳果然在這裡呢！",
+                "妳果然在這裡呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……哼，舉行歡喜的盛宴還太早了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "看著彼方吧。受到恬靜的西風邀請，花瓣們將隨著飛散。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我朝著谷野美酒望去的方向一看，\n突然吹來了一陣暖風，令花瓣悄悄地在空中起舞。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "眼前的景色一瞬間充滿鮮豔的色彩。\n我一邊沉浸於美景的餘韻，一邊將視線移回──",
+            "ChoiceDataList": [
+                "（人又突然不見了……！！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就跟剛才一樣，谷野美酒一瞬間就不見了，\n只留下一張掉落在地面的紙條。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "信",
+            "Text": "「最後的路標，造成斷絕的禁忌之塔。\n我在能俯瞰一切的塔頂等你。」",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "說到塔的話，我記得有一座能放眼整個城市的塔。\n雖然有點遠，但是都來到這了──就奉陪到底吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在搭乘電車的過程中，太陽逐漸西下──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "等我到達那座塔的時候已經是晚上了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "歡迎來到巴比倫的最上層。",
+            "ChoiceDataList": [
+                "嗯，我來了！",
+                "嗯，我來了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……哼哼，可不要露出太多破綻。\n不然會被混亂吞噬掉喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "比起那個──快看吧。這是最後的景色。\n狼將追上月亮了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我用跟谷野美酒一樣的角度俯瞰了城市──就在那瞬間。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……哼哼，哈哈哈！啊哈哈哈！！",
+            "ChoiceDataList": [
+                "──！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "啊──────────哈哈哈哈！！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "路燈一齊亮起，眼前的景色頓時發出光彩──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "整座城市變得閃閃發亮、令人炫目。\n宛如被星座點綴的夜空般，這道光景令我短時間無法移開視線。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "看見了嗎，一瞬間的閃光！！結束、開始的時刻！！！\n最上級、最棒的香料！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "這就是我渴望的東西！！我所追求的景色！！！！",
+            "ChoiceDataList": [
+                "真是漂亮……！",
+                "真是漂亮……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "哼哼，你也迷上了嗎？\n……算你僥倖。",
+            "ChoiceDataList": [
+                "難道說妳想讓我看的就是這景色？",
+                "難道說妳想讓我看的就是這景色？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "雖是肯定，同時也是否定。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "回想看看吧。今天全部的行程。你得到何種體驗、\n並享受到了什麼。在你的靈魂中留下最鮮明色彩的是什麼？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "被她這麼一說，我開始思考。\n回顧今天所見的一切。其中有──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "一瞬間駛過的列車。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "一瞬間飛落的花瓣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "一瞬間亮起的城市。\n這樣啊──仔細想想，全部都有項共通點。",
+            "ChoiceDataList": [
+                "全部都是一瞬間發生的事情呢",
+                "全部都是一瞬間發生的事情呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……最佳解。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "於剎那凋零，閃耀、並誕生之物。\n留下強烈的燒痕，令人念念不忘之物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "──這才是我所渴望的東西。\n我為了抵達極致而行動。因此，我選擇奔馳。",
+            "ChoiceDataList": [
+                "（原來如此……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我感覺稍微理解了。她所渴望的東西──恐怕就是瞬間。\n稍縱即逝才能留下深刻的印象，成為讓人想留在心中的瞬間。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "會講究「快速」和「強烈」兩者，\n也是基於講究鮮明的一瞬間，這樣想就好理解了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "哼哼……路標，看來派上用場了呢。",
+            "ChoiceDataList": [
+                "謝謝妳告訴我"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "尋得答案的是你自己。\n對自己表示感謝就行了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在那之後我們兩人一起稍微享受了一下夜景。\n谷野美酒的表情看起來比平常還要滿足許多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }

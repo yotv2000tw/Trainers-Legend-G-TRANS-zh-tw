@@ -1,359 +1,359 @@
 {
-  "Title": "演算法的脈動",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "「Parcae」會「理解」事物。它會分析輸入的數據，\n再導出正確答案，如實又正確地理解目的並執行。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "只要輸入的數值無誤，得到的答案便絕對正確。\n它定義良好的演算排拒了所有推測，唯一而完美，不容推翻。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "因此──「Parcae」不會「理解」。\n在0與1的世界裡，沒有程式碼能夠處理絕望。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "某一天，我為了尋找自己的專任賽馬娘，\n而來觀摩還沒出道的賽馬娘進行訓練。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "名將怒濤",
-      "Text": "好歌劇和阿路都好厲害喔……\n……雖然我可能追不上，但是……！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "真不愧是特雷森學園，到處都是優秀的賽馬娘。\n當我心中滿懷期待，無意間看向一旁時──",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "？？？",
-      "Text": "…………",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "有個賽馬娘一臉嚴肅地望著賽道上的其他人，\n並且不時在筆電上輸入著什麼。",
-      "ChoiceDataList": [
-        "（好專心啊……不過──）"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "她不只是專心……那眼神看起來真摯到讓人有些不忍，\n她的視線彷彿越過了賽馬娘與筆電，在尋找些什麼──",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "？？？",
-      "Text": "……嘖！",
-      "ChoiceDataList": [
-        "！？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "？？？",
-      "Text": "…………",
-      "ChoiceDataList": [
-        "（我直盯著她太久了……）"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "賽馬娘A",
-      "Text": "欸，妳看到了嗎？空中神宮前輩果然好可怕，\n竟然瞪了大人耶……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "賽馬娘B",
-      "Text": "可是她頭腦很好不是嗎？之前老師才因為這樣唉聲嘆氣，\n說她「明明很聰明，賽跑能力也很好，生活態度卻……」",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "賽馬娘B",
-      "Text": "平常她好像都在門禁前一刻才回宿舍，算是那種壞學生嗎？\n而且總是一副心情很差的樣子……不知道都在想什麼。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "空中神宮──其他賽馬娘似乎都對她畏懼三分。\n她性格獨特……尤其是那眼神，令我印象深刻。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "？？？",
-      "Text": "──就說了～\n我什麼都沒做啊……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "那天晚上，當我外出後準備返回學園時……\n看見有個賽馬娘正被警察問話。",
-      "ChoiceDataList": [
-        "（那耳朵……該不會是……）"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "？？？",
-      "Text": "每次都來問東問西煩死了，\n而且現在就來勸導也太早了吧……啊。",
-      "ChoiceDataList": [
-        "空中神宮……！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "警察",
-      "Text": "嗯？你……認識她嗎？",
-      "ChoiceDataList": [
-        "她是我們學園的學生"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "警察",
-      "Text": "這麼說你是學園的人……太好了，老師，請你也跟她聊聊吧。\n她最近好像都在外面閒晃到深夜……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "跟我「聊聊」？\n反正你們只會懷疑我，覺得我在做什麼可疑的事吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "警察",
-      "Text": "不是的！因為妳常常窩在網咖，我怕妳不小心被捲入麻煩\n所以才來關心一下……妳怎麼老是這麼固執啊！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "看來繼續講下去，對話也不會有交集。\n那麼……",
-      "ChoiceDataList": [
-        "是我要她在這裡等我的",
-        "是我要她在這裡等我的"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "啥？",
-      "ChoiceDataList": [
-        "不好意思讓你擔心了"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "警察",
-      "Text": "……原來是這樣，好吧。不過，別讓未成年的孩子落單太久喔。\n妳也是，如果有老師陪同，下次要直接說！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "警察放人之後，我將空中神宮平安地送回宿舍。\n一路上她都沒有講話……",
-      "ChoiceDataList": [
-        "不要忙到太晚囉",
-        "不要忙到太晚囉"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "……你不多問幾句？這個評價超差的學生直到門禁時間前\n都還在外面亂晃喔，一般人都會覺得可疑吧？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "還是說你覺得麻煩，不想牽扯太多？\n喔，那我就能明白了。",
-      "ChoiceDataList": [
-        "你在忙重要的事吧？",
-        "你在忙重要的事吧？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "……啥？",
-      "ChoiceDataList": [
-        "我想……妳應該是個認真的學生",
-        "我想……妳應該是個認真的學生"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "白天我看見了她真摯的眼神，她那麼專注地在思考事情，\n我無法想像這樣的學生會做什麼壞事。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "相較之下……如果說她是為了做某件重要的事，\n才讓自己待在能夠專心的環境，這樣想還合理多了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "……所以你就不多問？只靠毫無根據的印象\n跟自己的主觀來下判斷……跟剛才的警察一樣。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "結果大家都只看自己想看的。人的判斷會混入自己的期望……\n所以才會失準，靠不住……以這點來說，我的「夥伴」很優秀。",
-      "ChoiceDataList": [
-        "夥伴？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "……唔……是電腦啦。不過它不只是個普通的方盒，\n而是能針對各種問題找出解答的頭腦。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "它會以龐大的數據為基礎，導出所有問題的解答……\n不管是有效率的訓練方式，還是在模擬賽確實得勝的方法。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "只要輸入正確的數據，它一定能給出正確答案──\n絕無僅有的答案，沒有半分隱晦的言外之意。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "如果要說它不是萬能，那只是因為使用者懂得不夠透徹。\n但我不同，所以它才能時時為我導出唯一的真實。",
-      "ChoiceDataList": [
-        "妳很信賴這個夥伴啊",
-        "妳很信賴這個夥伴呢"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "……這還用說？\n因為是我做的。",
-      "ChoiceDataList": [
-        "妳……真厲害",
-        "妳……真厲害"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "……唔。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "……好噁。",
-      "ChoiceDataList": [
-        "！？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "我好像又惹她不高興了……\n於是我回想著自己一整天的行動與說過的話，並回到自己房裡。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "名將怒濤",
-      "Text": "啊！神宮，妳回來了～！\n那、那個，就是……呃……那個……！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "……我只是去整理數據而已。\n因為與其待在這裡，去外面我比較能專心。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "而且我之前說過了吧？不要等我回來。\n我去外面是為了妳…………算了，睡覺吧，妳明天也要早起吧？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "名將怒濤",
-      "Text": "好……那個，對了……\n神宮，妳明天的訓練會有訓練員在場對吧……？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "據說是想看看我的能力。沒差，就試試吧……\n反正一定「跟之前一樣」，不用模擬也知道。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "用不著把這件事放在心上。\n我要關燈囉。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "……答案果然沒變啊。\n「Parcae」……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "（「Parcae」──它是我以閃耀系列賽為目標，\n從作業系統到應用程式全都自己一手打造出的夥伴……）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "（「Parcae」計算出的最佳出道日就快到了，\n我已經照預定調整好體能，但是……）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "（──「那個」的數值仍未改變。\n這是理所當然的，程式碼沒有問題，那個答案絕對沒錯。）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宮",
-      "Text": "（但是我為什麼……還要繼續尋找？掙扎？思考？\n為什麼……？）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "演算法的脈動",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "「Parcae」會「理解」事物。它會分析輸入的數據，\n再導出正確答案，如實又正確地理解目的並執行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "只要輸入的數值無誤，得到的答案便絕對正確。\n它定義良好的演算排拒了所有推測，唯一而完美，不容推翻。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "因此──「Parcae」不會「理解」。\n在0與1的世界裡，沒有程式碼能夠處理絕望。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "某一天，我為了尋找自己的專任賽馬娘，\n而來觀摩還沒出道的賽馬娘進行訓練。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名將怒濤",
+            "Text": "好歌劇和阿路都好厲害喔……\n……雖然我可能追不上，但是……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "真不愧是特雷森學園，到處都是優秀的賽馬娘。\n當我心中滿懷期待，無意間看向一旁時──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "有個賽馬娘一臉嚴肅地望著賽道上的其他人，\n並且不時在筆電上輸入著什麼。",
+            "ChoiceDataList": [
+                "（好專心啊……不過──）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "她不只是專心……那眼神看起來真摯到讓人有些不忍，\n她的視線彷彿越過了賽馬娘與筆電，在尋找些什麼──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "……嘖！",
+            "ChoiceDataList": [
+                "！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "（我直盯著她太久了……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "賽馬娘A",
+            "Text": "欸，妳看到了嗎？空中神宮前輩果然好可怕，\n竟然瞪了大人耶……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "賽馬娘B",
+            "Text": "可是她頭腦很好不是嗎？之前老師才因為這樣唉聲嘆氣，\n說她「明明很聰明，賽跑能力也很好，生活態度卻……」",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "賽馬娘B",
+            "Text": "平常她好像都在門禁前一刻才回宿舍，算是那種壞學生嗎？\n而且總是一副心情很差的樣子……不知道都在想什麼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "空中神宮──其他賽馬娘似乎都對她畏懼三分。\n她性格獨特……尤其是那眼神，令我印象深刻。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "──就說了～\n我什麼都沒做啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "那天晚上，當我外出後準備返回學園時……\n看見有個賽馬娘正被警察問話。",
+            "ChoiceDataList": [
+                "（那耳朵……該不會是……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "每次都來問東問西煩死了，\n而且現在就來勸導也太早了吧……啊。",
+            "ChoiceDataList": [
+                "空中神宮……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "警察",
+            "Text": "嗯？你……認識她嗎？",
+            "ChoiceDataList": [
+                "她是我們學園的學生"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "警察",
+            "Text": "這麼說你是學園的人……太好了，老師，請你也跟她聊聊吧。\n她最近好像都在外面閒晃到深夜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "跟我「聊聊」？\n反正你們只會懷疑我，覺得我在做什麼可疑的事吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "警察",
+            "Text": "不是的！因為妳常常窩在網咖，我怕妳不小心被捲入麻煩\n所以才來關心一下……妳怎麼老是這麼固執啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "看來繼續講下去，對話也不會有交集。\n那麼……",
+            "ChoiceDataList": [
+                "是我要她在這裡等我的",
+                "是我要她在這裡等我的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "啥？",
+            "ChoiceDataList": [
+                "不好意思讓你擔心了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "警察",
+            "Text": "……原來是這樣，好吧。不過，別讓未成年的孩子落單太久喔。\n妳也是，如果有老師陪同，下次要直接說！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "警察放人之後，我將空中神宮平安地送回宿舍。\n一路上她都沒有講話……",
+            "ChoiceDataList": [
+                "不要忙到太晚囉",
+                "不要忙到太晚囉"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "……你不多問幾句？這個評價超差的學生直到門禁時間前\n都還在外面亂晃喔，一般人都會覺得可疑吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "還是說你覺得麻煩，不想牽扯太多？\n喔，那我就能明白了。",
+            "ChoiceDataList": [
+                "你在忙重要的事吧？",
+                "你在忙重要的事吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "……啥？",
+            "ChoiceDataList": [
+                "我想……妳應該是個認真的學生",
+                "我想……妳應該是個認真的學生"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "白天我看見了她真摯的眼神，她那麼專注地在思考事情，\n我無法想像這樣的學生會做什麼壞事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "相較之下……如果說她是為了做某件重要的事，\n才讓自己待在能夠專心的環境，這樣想還合理多了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "……所以你就不多問？只靠毫無根據的印象\n跟自己的主觀來下判斷……跟剛才的警察一樣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "結果大家都只看自己想看的。人的判斷會混入自己的期望……\n所以才會失準，靠不住……以這點來說，我的「夥伴」很優秀。",
+            "ChoiceDataList": [
+                "夥伴？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "……唔……是電腦啦。不過它不只是個普通的方盒，\n而是能針對各種問題找出解答的頭腦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "它會以龐大的數據為基礎，導出所有問題的解答……\n不管是有效率的訓練方式，還是在模擬賽確實得勝的方法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "只要輸入正確的數據，它一定能給出正確答案──\n絕無僅有的答案，沒有半分隱晦的言外之意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "如果要說它不是萬能，那只是因為使用者懂得不夠透徹。\n但我不同，所以它才能時時為我導出唯一的真實。",
+            "ChoiceDataList": [
+                "妳很信賴這個夥伴啊",
+                "妳很信賴這個夥伴呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "……這還用說？\n因為是我做的。",
+            "ChoiceDataList": [
+                "妳……真厲害",
+                "妳……真厲害"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "……唔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "……好噁。",
+            "ChoiceDataList": [
+                "！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "我好像又惹她不高興了……\n於是我回想著自己一整天的行動與說過的話，並回到自己房裡。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名將怒濤",
+            "Text": "啊！神宮，妳回來了～！\n那、那個，就是……呃……那個……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "……我只是去整理數據而已。\n因為與其待在這裡，去外面我比較能專心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "而且我之前說過了吧？不要等我回來。\n我去外面是為了妳…………算了，睡覺吧，妳明天也要早起吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名將怒濤",
+            "Text": "好……那個，對了……\n神宮，妳明天的訓練會有訓練員在場對吧……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "據說是想看看我的能力。沒差，就試試吧……\n反正一定「跟之前一樣」，不用模擬也知道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "用不著把這件事放在心上。\n我要關燈囉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "……答案果然沒變啊。\n「Parcae」……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "（「Parcae」──它是我以閃耀系列賽為目標，\n從作業系統到應用程式全都自己一手打造出的夥伴……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "（「Parcae」計算出的最佳出道日就快到了，\n我已經照預定調整好體能，但是……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "（──「那個」的數值仍未改變。\n這是理所當然的，程式碼沒有問題，那個答案絕對沒錯。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宮",
+            "Text": "（但是我為什麼……還要繼續尋找？掙扎？思考？\n為什麼……？）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }
