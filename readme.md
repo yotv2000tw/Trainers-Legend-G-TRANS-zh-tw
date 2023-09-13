@@ -10,6 +10,8 @@
 
 [简体中文](https://github.com/MinamiChiwa/Trainers-Legend-G) | 繁體中文 | [English](https://github.com/MinamiChiwa/Trainers-Legend-G/blob/main/readme_EN.md)
 
+[特定內容之資料蒐集注意事項](/PersonalData.md)
+
 </div>
 
 # 簡介
