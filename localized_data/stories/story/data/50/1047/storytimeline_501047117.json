@@ -1,0 +1,439 @@
+{
+  "Title": "謝幕，亦或是開幕",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "「……敬啟者\u3000訓練員，\n已是歲末時期，不知你過得如何？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "「雖然這麼問，\n但其實我們幾乎每天都會見面──」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "「不過我覺得文章才是最能確切\n表達心情的形式，所以提筆寫信給你。\n現在，我──」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "「覺得自己彷彿置身夢中。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "喂～妳在這裡寫些什麼啊～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "咦……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "啊，哇……千明！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "嗨～\n抱歉抱歉，我好像嚇到妳了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（千明代表……\n擁有超乎常理的過人才華的三冠賽馬娘。\n她怎麼會在這裡……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "剛剛魯道夫一直在找妳喔。\n要是有興趣，就去問她想做什麼吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "魯道夫"
+      ]
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "咦……！？\n謝、謝謝妳。\n妳為了這件事特地來找我啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "不是啦，只是巧合。\n我跑來頂樓想睡午覺，就看到妳在這了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "啊，這、這樣啊……！？\n是我搞錯了，真不好意思……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "那我先去學生會辦公室了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "妳不用一直道歉啦……呃，跑掉了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "嗯哼……\n看她這樣子，該說是不起眼嗎……\n明明平時絲毫不見霸氣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "──但一踏上賽道就會變成「那樣子」呢……\n她果然很有趣。\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（敲門聲……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "我、我是荒漠英雄……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "請進。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "打、打擾了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（是魯道夫象徵跟成田白仁……\n面前有兩位三冠賽馬娘！\n好強烈的壓迫感……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "魯道夫象徵"
+      ]
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "嗯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……？請、請問，難道我……做錯了什麼……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "不，抱歉突然請妳過來。\n我想秋川理事長應該已經表揚過妳了，\n但我仍想親自送上賀詞。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "秋川理事長"
+      ]
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "──經典三冠、春季資深三冠，\n以及秋季資深三冠。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "春季資深三冠"
+      ]
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "妳拿下了足足九冠的榮耀，\n可說是英雄中的英雄。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "咦……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "──做得好。\n能跟妳生於相同時代，\n我打從心底感到光榮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "咦？啊，呃、呃呃……！\n非、非常……感謝妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "……因此，有件事想麻煩妳。\n其實呢，我身旁這位白仁──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "廢話少說。\n妳現在有空嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "呀啊！？那、那個……\n我、我沒有安排什麼行程……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "那就跟我去訓練賽道。\n我預約了全天時段。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "讓我親眼見識見識──\n前所未聞的大英雄的跑法吧。\n我要咬碎妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "好──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "好的……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（這、這下事情不得了了……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（居、居然要跟白仁並行練跑……\n我就要在這裡被咬碎了嗎……！？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "──哎呀。\n妳為何面色如此沉重！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "這、這既美麗又充滿威嚴的嗓音是──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "妳猜得沒錯，正是我！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "好、好歌劇……妳怎麼會在這裡？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "畢竟本霸王擁有天衣無縫的情報網，\n能神出鬼沒在每一處啊！而且──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "……為什麼連這傢伙都跑來了？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "說不定是被英雄傳說吸引來的呢。\n我能想像她喊著「很好！待我前往──！」\n……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "…………好吧。\n大亂鬥也自有其樂趣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "喂，妳別在一旁露出可疑的笑容了！\n我看妳也打算參加這次狂歡吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "啊哈哈，果然被發現了啊。\n嗯，也對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "我本來就不討厭這種混亂場面。\n何況，光看起來就覺得很有趣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "哇……那個……不好意思……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "大、大家……真的會……\n想跟我這種人賽跑……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "這還用問。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "妳早就……\n跟我們站上同一個舞台了。\n甚至並未就此滿足──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "──啊啊，英雄啊。妳還欲繼續向上邁進，\n甚至劍指夢想實現後的景色嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……夢想實現後的景色……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "沒錯……此時此刻這裡就是屬於妳的舞台。\n盡情施展身手吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "當然──妳可得小心提防，\n別讓自己的舞台被我這美麗的霸王一手推翻啊！！\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……我…………我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "我……覺得彷彿還在做夢，\n覺得眼前一切彷彿置身夢中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "不過，各位的鬥志──令我振奮得發麻。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "提醒了我眼前就是現實，\n正是夢想實現後看到的景色。\n所以──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……本人荒漠「英雄」──\n非常樂意奉陪……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "哇啊……！巨星賽馬娘齊聚一堂耶！\n光看就跟著興奮起來了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "……我也想……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄駒",
+      "Text": "總有一天我也想跟她一樣。\n我想變成一個能用自身光芒\n照亮大家的心的賽馬娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "「訓練員，\n我覺得此刻彷彿置身夢中。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "「不過……這一切都要感謝你。\n多虧你讓我的夢想不再永遠只是夢想──」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "教官",
+      "Text": "預備──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "「此刻我才能置身於夢想實現後的景色。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

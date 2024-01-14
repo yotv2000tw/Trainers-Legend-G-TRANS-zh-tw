@@ -1,0 +1,552 @@
+{
+  "Title": "粉絲感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "今天是春季粉絲大感謝祭！\n這是一個邀請粉絲來學園的大規模活動，\n而青竹回憶她──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "擔任糾察隊員的賽馬娘",
+      "Text": "──報告！\n攤位區的突發事件依然為零！\n各攤位沒有資訊要共享！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "嗯，是個順利的開始！！\n報告辛苦了！\n麻煩妳繼續留意！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "我是青竹回憶！\n攤位區無異常！\n我將繼續巡邏！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──青竹回憶身為糾察隊長，\n在學生會的指揮下執行巡邏工作維持治安，\n而我也在協助她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "哎呀～不過還真是盛況空前耶！\n真是令人開心極了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽的粉絲A",
+      "Text": "──好像還能勉強趕上小栗帽的比賽。\n我們快點過去吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽的粉絲B",
+      "Text": "──媽媽～那邊有在賣小栗的玩偶，\n買給我～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽的粉絲C",
+      "Text": "──重點就是小栗！\n沒親眼看到本人，就沒有來的意義了！\n唔喔喔喔喔喔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "哈哈，真是驚人耶！如你所見，\n今年有很多人都是衝著小栗前輩來的，\n好像比往年還熱鬧呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "難得來了這麼多人，\n我得讓今年的活動也平安落幕才行！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "──嗯？\n那是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "…………訓練員！\n這裡可以暫時交給你顧一下嗎？",
+      "ChoiceDataList": [
+        "可以是可以，但怎麼了嗎？",
+        "可以是可以，但怎麼了呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "我有點事要處理！\n辦完就會回來！\n如果你會累就去休息吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "…………唉。\n我到底在幹什麼啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "──千代王────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "果然是妳，千代王！\n妳在這種地方做什麼？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "青、青竹！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "我記得妳今天預計參加\n吃胡蘿蔔賽跑，對吧？\n集合時間快到了耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "好不容易也確定要復出了，\n得讓粉絲們看看妳神采奕奕的樣子啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "啊…………\n呃……那個──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "……是不是發生了什麼事？\n從我剛剛發現妳的時候到現在，\n感覺妳都無精打采的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "…………我參賽有意義嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "咦──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "雖然我的身體狀況足以復出了……\n可是大家都已經在資深級有所成長，\n只有我留在原地踏步……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "再說，外界根本也……\n不記得去年……\n「日本打比」的事情了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "所有人……都關注著小栗。\n她的光芒顯得格外耀眼……\n而時間停止流動的我，根本黯淡無光──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "……不僅如此，\n我的內心某處，不小心察覺到一件事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "我察覺到……\n自己在休養的期間，\n早已過了能夠成長的巔峰期……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "我……已經不會再進步了。\n今後就只會持續走下坡──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "沒有辦法變得比現在更強……\n也無法……追尋自己的憧憬……\n甚至快要被眾人遺忘了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "這般……凋零的我……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "還有露臉的……意義嗎……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "────那還用說，當然有啦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "唔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "千代王，\n我一直都很期待妳復出！\n我還想再看一次妳在賽場上的表現！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "因為妳的跑姿就是那麼熱血沸騰！\n因為妳的「夢想」曾經閃閃發光！！\n所以我一直一直！都在等著妳！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "連我都這麼期望妳的復出……！\n最喜歡妳的粉絲們──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "一定會比我！\n還要更期待妳的復出！\n不是嗎！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "所以，現在就斷定沒人希望妳復出！\n或是自己已經到達極限之類的！\n講這些話都還太早了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "我相信千代王一定可以再次追逐憧憬、\n追逐「夢想」！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "同時我也相信，\n妳的粉絲依然在殷殷期盼\n妳上場跑步！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "──集合時間就快到了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "妳的參賽是否真的沒有意義，\n以及我所說的話究竟有沒有錯──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "……就趁今天確認看看怎麼樣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "──眾所矚目的吃胡蘿蔔賽跑即將開始！\n今年會上演什麼樣的激戰呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千代王的粉絲A",
+      "Text": "終於能見到櫻花千代王了！\n好久沒看到她，真令人期待呢……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千代王的粉絲B",
+      "Text": "真想趕快看到她健康的模樣～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "（看，我就說吧──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "──那麼，請選手進場！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千代王的粉絲A",
+      "Text": "啊，是千代王耶！！\n……呃，奇怪？\n她好像……沒什麼精神……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千代王的粉絲B",
+      "Text": "是不是在緊張呢？\n她究竟怎麼了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "千代王……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "加油──！！加油──！！\n特──！雷──！森──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾",
+      "Text": "咦！？什、什麼！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "大家好！\n我是四處漂泊的單人應援團！\n請各位也來和我一起加油吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "加油──！！加油──！！\n櫻花！千代！王！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "像這樣！！\n大聲喊出想支持的賽馬娘名字！！\n來，請跟著我一起喊吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "加油──！！加油──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千代王的粉絲A",
+      "Text": "好、好……！\n那我也來喊……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千代王的粉絲們",
+      "Text": "加油──！！加油──！！\n櫻花！千代！王！！\n加油加油，千代王！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "……唔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "各位……\n青竹……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "我……是不是太心急了呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "…………我會再努力看看的。\n為了能夠在眾人面前，再次綻放──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花千代王",
+      "Text": "也為了能夠，再次追尋我的「夢想」……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "嘿嘿──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "好啦，那麼再稍微幫她加油一下，\n就回訓練員那邊吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "加油──！！加油──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "──訓練員！\n我回來了！！\n抱歉，讓你一個人顧這麼久！！",
+      "ChoiceDataList": [
+        "……妳的聲音，是不是有點沙啞？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "嘿嘿，其實啊──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後，知道青竹回憶的聲音為什麼有點沙啞後，\n我的內心感到有些驕傲……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "嘿嘿──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "好啦，那麼再稍微幫她加油一下，\n就回訓練員那邊吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "加油──！！加油──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹的粉絲A",
+      "Text": "咦！？青竹回憶在這裡！\n而且好像還在替人家加油！？\n這下子……不跟著一起喊就太虧了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹的粉絲B",
+      "Text": "能、能夠和我的推一起大聲加油嗎！？\n這真是未知的體驗……！\n我的鬥志都來啦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹的粉絲們",
+      "Text": "加油──！！加油──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "哦哦！？\n加油聲變得更加慷慨激昂了！？\n這下子……我可不能輸！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "加油────！！！！\n加油────！！！！\n特──！雷──！森──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "──訓練員！\n我回來了！！\n抱歉，讓你一個人顧這麼久！！",
+      "ChoiceDataList": [
+        "……妳的聲音，是不是有點沙啞？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "嘿嘿，其實啊──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後，知道青竹回憶的聲音為什麼有點沙啞後，\n我的內心感到有些驕傲……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
