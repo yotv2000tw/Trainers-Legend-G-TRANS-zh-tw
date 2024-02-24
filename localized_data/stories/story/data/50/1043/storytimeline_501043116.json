@@ -1,0 +1,611 @@
+{
+  "Title": "黑暗開關",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們朝著「東海S」努力邁進的某天。\n一個採訪團隊來到了學園的操場。\n學園方也事前通知要我們維持原樣就好──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "坐立難安……\n風風也可能會以在學生的身分被採訪嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "攝影師",
+      "Text": "啊……那個女生，\n是之前引發話題的「咬人賽馬娘」吧……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "真的耶！那起事件當時震驚了社會……\n去問問她還有沒有什麼有趣的事情吧？\n說不定會給我們什麼好笑的題材喔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "吼唔────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "攝影師",
+      "Text": "唔哇啊！",
+      "ChoiceDataList": [
+        "啊！新光風！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "她是怎樣啊？\n看來傳言說她個性難搞都是真的呢……\n記下來記下來……好了。",
+      "ChoiceDataList": [
+        "（唉……又給人更不好的印象了……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我嘗試搜尋「新光風」這個關鍵字。\n出現的關聯性結果都是「咬人」、\n「卑鄙」、「迷因賽馬娘」等等……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "跟之前沒有什麼差別……\n著重在她實力的訊息\n則是少之又少。",
+      "ChoiceDataList": [
+        "唉……要改變現況真困難啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "有什麼好嘆氣的啊……！",
+      "ChoiceDataList": [
+        "哇！妳、妳看到了……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "哼！\n自我搜尋這種事，風風自己也做過好不好，\n事到如今有什麼好大驚小怪的！",
+      "ChoiceDataList": [
+        "（原來她也做過……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "真是的……\n大家真的都很不識貨……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "明明風風就有在比賽的時候\n讓大家看到強大的實力……",
+      "ChoiceDataList": [
+        "嗯……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自從她認為「只能努力奔跑」後……\n就一直發憤圖強到現在，\n但一直都沒有什麼太大的改變……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "可惡……既然這樣的話……！\n風風就要在下一場比賽跑出壓倒性大差的勝利！",
+      "ChoiceDataList": [
+        "咦？那不是很容易的事……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "可是……！\n不做到那樣的話……根本就……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "沒有半點機會\n可以把「咬人事件」的印象給蓋過吧？",
+      "ChoiceDataList": [
+        "……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "也許真的就像她說的……\n比珍奇事件更讓人想討論的「強勢勝利」。\n成功做到的話……說不定就能順利推翻了。",
+      "ChoiceDataList": [
+        "（用說的當然是很簡單沒錯……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "哼──！\n風風說什麼都一定要做到啦……！",
+      "ChoiceDataList": [
+        "啊，等一下！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "風風要去做自主訓練了啦！！你別管！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她已經付出十足的努力了……\n要再比現在更激烈地做訓練的話，\n絕對不是最妥善的方法。",
+      "ChoiceDataList": [
+        "（有沒有什麼好辦法呢……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "嘿呀啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "欸，\n最近新光風的練習量是不是太誇張了啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "就是啊。\n感覺像是又為了什麼在暴走的樣子……\n希望她不要太過勉強自己才好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "（可惡可惡可惡！\n風風都聽得見好不好！真是吵死了！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "（風風一定要成功……！\n變成讓所有人都沒話說的……強大！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "（絕對絕對……\n不能……就這樣結束！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "（因為……\n風風有一個絕對不想退讓的「野心」要實現啦！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "……唔！唔啊啊啊啊啊啊！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……毫無章法的跑法。也許是因為心情急躁吧。\n視線也一直無法集中，\n不時地在注意賽道旁的其他人。",
+      "ChoiceDataList": [
+        "（「視線」……嗎……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "注意力渙散也是因為競爭意識過於強烈的關係。\n這個缺點也不是一朝一夕可以導正的，\n但……競爭意識也可以從缺點變成優點。",
+      "ChoiceDataList": [
+        "（只要用對了方式……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這時我突然想起，\n過去曾經在書上讀到合適的訓練方式。\n印象中……好像是要加強對「視野」的意識……",
+      "ChoiceDataList": [
+        "查查看吧……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "哇！小微創下新紀錄了！太好了呢♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "一點一點在進步呢……\n真棒真棒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "不，這樣還不夠！\n我必須要變得更強更強才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "因為我……在夏季集訓的時候就下定決心了。\n絕對不讓自己止步於現狀。\n一定要終止我的連敗紀錄……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "──唔啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "啊，是新光風。氣勢好強喔……！\n可是好像有點過頭了的感覺？\n她這樣沒問題嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "那傢伙……不會有問題的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "我很了解她。\n新光風前輩是比大家認為的還要更強的人。\n所以不用擔心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "比起這個，我要更專注在自己的事情上面才對。\n還要再跑一趟喔──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "控制不住強烈競爭意識的問題、\n過於在意周遭所導致的集中力下降問題。\n這些都是一直以來需要克服的課題。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我拼命地查詢資料後，終於找到了。\n而這個訓練方法就是──",
+      "ChoiceDataList": [
+        "「將視線專注集中在前方的自我暗示」"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "順利的話，\n就能讓她跑步的時候完全專注在終點上……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "──你說有事是什麼事？\n風風想要去做重訓了耶？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "從她不悅的表情中可以感覺到她的焦慮。\n她自己對於不停訓練卻沒得到多少進步的狀況，\n或許也已經感受到極限了吧……",
+      "ChoiceDataList": [
+        "我想嘗試一個作戰計畫",
+        "我想嘗試一個作戰計畫"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "是哦……？那會讓風風變強嗎？\n風風就先聽聽看好了。",
+      "ChoiceDataList": [
+        "打造一個「開關」吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "「開關」？什麼意思啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "現在的她很容易受到對手和觀眾的反應影響，\n導致她的集中力無法維持。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "所以……我向她說明，\n想要打造一個可以自由控制「讓視野變得狹小，\n只能專注於前方」的「開關」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "？？？你到底在說什麼啊……？\n具體來說……到底是什麼意思？",
+      "ChoiceDataList": [
+        "那就是……這樣子！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "唔哇啊！！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我把窗邊的窗簾拉過來，\n纏捲到了她的身上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "笨、笨蛋，你要幹嘛啊────！？\n黑漆漆一片，什麼都看不到了啦！",
+      "ChoiceDataList": [
+        "妳想像妳正在賽道上！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "賽道？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "唔唔唔唔……",
+      "ChoiceDataList": [
+        "邁出妳的腳步，然後開始奔跑……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "唔……唔……唔……唔……",
+      "ChoiceDataList": [
+        "聽好囉？除了前方以外，四周是全黑的……！",
+        "聽好囉？除了前方以外，四周是全黑的……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "除了前方以外……四周全黑……",
+      "ChoiceDataList": [
+        "妳看不見其他人，也看不見觀眾席……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "唔……唔……風風……看不見……",
+      "ChoiceDataList": [
+        "只有終點是亮著的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "……唔！",
+      "ChoiceDataList": [
+        "妳就朝著那裡奔跑！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "喔……喔喔喔──！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "──唔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "──唔！！噗哈！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我鬆開了原本壓著窗簾的手，\n晚風吹來，\n將新光風從窗簾中釋放出來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "剛……剛才……剛才好像……？",
+      "ChoiceDataList": [
+        "妳在跑步的時候要回想剛才的感覺！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "這、這樣哦……？\n黑漆漆一片，只有前面、只有前面……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "訓練員……風風要去外面試試看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這時的操場上\n聚集了許多正在努力訓練的賽馬娘。\n而新光風則在她們之中──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "呃、呃……！\n快想起來～～剛剛的感覺……\n唔唔唔～～～～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "新光風……又在做奇怪的事情了。\n不知道是在玩什麼遊戲……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "──喝！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "嘶──",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "呼──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她……一臉嚴肅地奔跑起來。\n她開始心無旁鶩、專心一意且兇猛地奔跑著。\n將她強烈的競爭意識全部投射在前方……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "真的假的……她是怎麼了……？\n看起來跟早上的時候完全不一樣了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "──呼、呼、呼……！",
+      "ChoiceDataList": [
+        "新光風！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "──啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "訓、訓練員……？",
+      "ChoiceDataList": [
+        "怎、怎麼樣……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "……啊……就……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "好、好厲害喔……\n旁邊的景色一下子就全都不見了……！",
+      "ChoiceDataList": [
+        "……那看來是作戰計畫成功了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "這招……很棒喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "就命名為「黑暗開關」啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "……呵呵呵呵！\n做得好啊！風風的邪惡作戰軍師！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "風風好像、好像……\n好像變得好厲害喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這招感覺非常可行……！\n連她本人也似乎有深刻的感受。\n等操作得更熟練之後一定會更有效果的吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "下一場比賽──「東海錦標賽」，\n就用這個作戰去贏吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

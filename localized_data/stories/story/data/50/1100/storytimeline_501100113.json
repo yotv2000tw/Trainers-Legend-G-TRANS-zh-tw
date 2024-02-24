@@ -1,0 +1,433 @@
+{
+  "Title": "令人驚訝的醫生",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "嗯嗯，原來如此，我明白了。\n也就是說，訓練員，你想說的是這件事吧──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "我很美麗，對吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "是嗎？",
+      "ChoiceDataList": [
+        "……不是"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她搞錯了，因為我完全不是這個意思。\n……她真的明白我說的話嗎？\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "開玩笑的。\n你是想確認奇銳駿的疲勞\n是不是「來自重度訓練」吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "所以呢？醫生怎麼說？",
+      "ChoiceDataList": [
+        "醫生說不清楚……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在那之後，\n我當然也請特雷森學園的醫生為她看診。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "症狀是──「不明的疲勞」。\n醫生的診斷是「至少能確定並沒有患病，\n但其他就不清楚了。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "這樣啊。不出所料。\n既然醫生都不知道的話──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（換裝聲！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "那就由我這個霸王醫生親自檢查吧！\n透過在賽道上並行練跑來一探究竟！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "哎唷喂呀──小劇要跟我跑嗎？\n那可真不得了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小劇"
+      ]
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "但我在草地上跑不好呢。\n實在是沒辦法當小劇的對手……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "那我們跑沙地也無妨。\n本霸王在陸海空都能閃閃發光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "少年維特有煩惱，\n但我們一族可沒有。\n唯有百老匯堅硬的柏油路是我不願挑戰的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然莫名其妙，\n站在賽道上的好歌劇卻風姿颯爽。\n為了檢查疲勞原因的模擬賽開始了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（開閘！跑步聲）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "（──！？\u3000小劇明明跑得很悠哉，\n為什麼速度那麼快呢？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "要想辦法……要想辦法跟上她才行……！\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "喔，衝刺能力很不錯嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "（既然是在我擅長的沙地！\n我可以從這裡開始再加快……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "嘿呀啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "喔喔，很棒！\n如同丟下南瓜車奔馳而去的魔法師！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "但妳是不是忘記了？\n妳的對手可是本霸王！\n來吧，我們在城堡會合吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "喝啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "唔呀啊啊啊啊啊啊啊啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──對手是擁有七冠的賽馬娘。\n就算是在沙地也沒能贏過她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "呼、呼、呼、呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "看妳疲累的樣子……\n原因──不言而喻了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "是因為「我太強了」！\n正面挑戰我的下場當然是這樣。",
+      "ChoiceDataList": [
+        "所以……重度訓練造成的影響呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這是我最想知道的事。\n對手很強這件事我早就知道了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但奇銳駿的身體發出悲鳴的原因，\n果然是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "嗯，就本霸王醫生來看，\n她的身體狀況──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "非常健康！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "哎唷喂呀……非常健康……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "沒錯。還在經典級的妳，\n之所以能跟上我的速度，\n正是因為妳的肌肉夠柔軟。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "甚至是不輸舞者的程度。\n有興趣的話，隨時歡迎妳加入我的劇團！",
+      "ChoiceDataList": [
+        "非常健康？那……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "代表她沒受到重度訓練的影響嗎？\n不需要擔心奇銳駿的疲勞嗎？\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "那個，所以我……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "什麼都不用擔心。就照往常一樣，\n不，比過去更加積極鍛鍊吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "就由本霸王認證，\n妳的身體沒有問題！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "你聽到了嗎？訓練員。\n也許是我們過於操心了呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "看來訓練員的訓練方式並沒有問題，\n我們繼續加緊訓練，\n準備迎接「日本沙地打比」……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "好歌劇都這麼說了，連奇銳駿也這麼表示。\n可是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──我真的可以相信，\n我的訓練方式沒有問題嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "我覺得……\n每次訓練都換項目讓我感到很不放心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "我問過其他人，\n也沒有別的賽馬娘做這麼極端的訓練……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "嗯～抱歉。\n找你當專任訓練員的事，\n可以當我沒說過嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "其他賽馬娘都因為感到危險，\n拒絕我的挖角，但……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "奇銳駿很善良。\n所以她全盤接受我的訓練方式，\n可是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她會不會被自己的善良給壓垮呢？\n要是將錯誤的訓練方式\n貫徹到最後的話……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我就會……\n毀了唯一一個相信我的賽馬娘……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "嗯？怎麼了嗎？",
+      "ChoiceDataList": [
+        "我做不到……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "訓練員？",
+      "ChoiceDataList": [
+        "我沒辦法再加重她的訓練！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（跑遠！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "啊啊啊～訓練員？\n訓練員呀────！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "……真受不了，虧我都特地給建議了，\n竟然主動選擇拒絕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "就好像……某個人一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "訓練員……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "那個～小劇呀。\n關於我偶爾會喘不過氣的原因，\n我想要問問妳……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "會不會是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哎唷，妳自己心裡有底嗎？\n不過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "我對這種事沒興趣。\n舞台提示跟題詞機，\n我可連一眼都不會看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "這些話不應該對我說，\n而是該跟某人說才對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "唔唔……可是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "不用擔心。\n時鐘的針還沒指向天空，時間還夠。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "至少在你們的目標「日本沙地打比」之前，\n還是綽綽有餘的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "「日本沙地打比」……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

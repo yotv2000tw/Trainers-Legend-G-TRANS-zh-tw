@@ -1,0 +1,595 @@
+{
+  "Title": "夏季集訓（第二年）途中",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……呼。\n謝謝你請我吃刨冰。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "但、但真的好嗎？\n我還在斯巴達式訓練期間，\n真的可以悠閒地吃冰嗎……",
+      "ChoiceDataList": [
+        "畢竟休息也是訓練的一環"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "訓練的一環……\n啊，我在小說中讀過這一招！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "趁著休息時間觀察別人的訓練，\n藉以竊取他人技術或發現自己的缺點──\n原來你的用意在此啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "其實我並沒有這層意圖，\n純粹只是想休息一下而已──\n但看到荒漠英雄一臉開心，就當作是這樣吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "觀摩學習各種英雄的鍛鍊過程，\n化為自己的血肉……真是個好主意……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "我看看，沙灘上能看到哪些英雄呢──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "說到英雄當然非我莫屬！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "說到英雄當然非我莫屬！！",
+      "ChoiceDataList": [
+        "說了第二次……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "張揚無比地做出此宣言的，\n是展現了亮眼表現的前輩世代賽馬娘──\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "完全稱霸資深級重大GⅠ競賽的\n「世紀末霸王」好歌劇。\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "資深級",
+        "GⅠ",
+        "世紀末霸王",
+        "好歌劇"
+      ]
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……啊，呃，也、也對！說到英雄……\n好像真的就會想到好歌劇……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "好歌劇"
+      ]
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "英雄，妳不該用疑問句。\n英雄、王者、藝術品等等……\n能夠一手囊括世界上所有稱號的正是我本人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "英雄"
+      ]
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "是、是的，妳說得對……！\n那麼，\n請問妳願意讓我觀摩好歌劇的訓練方法嗎──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "觀摩？我有個更好的辦法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "妳也一起登上我的舞台吧！！\n我需要能跟我互相襯托的對手，\n好讓我的美麗更加脫穎而出！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "來吧，英雄，\n我就開特例讓妳飾演一個角色吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "我想想……充滿力量的怪物，\n或是毅力堅強、服從我的命令的妖精──\n選擇一個喜歡的角色吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "呃，這個嘛……怎麼辦……？\n訓練員，\n你覺得哪個角色比較好！？",
+      "ChoiceDataList": [
+        "充滿力量的怪物",
+        "毅力堅強的妖精"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "那、那我選怪物……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "OK！！那麼妳飾演怪物，\n而我是主角英雄！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（其實我也比較想演英雄……）\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "來吧，第一幕！對了，\n剩下的所有角色全都由\n<username>訓練員負責飾演！！",
+      "ChoiceDataList": [
+        "咦咦！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "這、這齣歌劇會變成什麼樣子呢……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "吼、吼吼～！我要吃掉妳……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "啦啦啦～♪\n我接受一切，愛著一切～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "咦！？我、我要吃掉妳了哦！？\n這樣真的好嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "畢竟本霸王～♪心胸寬大～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "唔唔，故事發展得一團亂……！",
+      "ChoiceDataList": [
+        "剛剛那幕是什麼場景……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "理應上要是……\n好歌劇飾演的主角將邪惡怪物封印起來的場景……\n這樣才對！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "不可以接受啦～～！\n妳不覺得……應該照著原本的故事……\n忠實演出角色應有的行動嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "不覺得！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "不覺得啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "因為這是屬於我的歌劇啊。\n我得自由自在地盡情遨翔，\n觀眾才能徹底欣賞到我的美。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "我的舞台由我一手掌控。\n這才是真正的霸王之路！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "好歌劇……\n……妳真的好厲害。我無法像妳這樣──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "不過呢，英雄。千萬別忘記。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "妳也──同樣站在這個舞台上喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……我也……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "究竟妳只是區區的舞台道具呢？\n還是能為舞台激起漣漪的同台演員呢──\n這一切都要看接下來的發展而定！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "來吧，妳將創造出怎麼樣的故事？\n讓我見識見識吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……！！我、我……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……我……我想成為英雄。\n不對，我不接受英雄以外的身分……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "所以接下來請容我述說一段\n有關怪物變成英雄的故事……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "非常好！！\n不過我也完全不打算讓出主角地位喔。\n來吧──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "拉開序幕吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "霸王啊，獲得妳的允許後……\n我終於得以恢復真正的姿態。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "如今我已經不是怪物了。\n從今天起我將徹底捨棄這股狂暴的魔法之力……！\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "是啊，如今可說濃霧已然散去。\n多虧我的威望，暴風雨終於停歇！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "凱旋歸來吧，我的朋友。\n由妳親手開拓的美妙世界正在等著我們！！\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（啪啪啪……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "那、那麼……我選妖精……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "OK！！那麼妳飾演妖精，\n而我是主角英雄！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（其實我也比較想演英雄呢……）\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "來吧，第一幕！對了，\n剩下的所有角色全都由\n<username>訓練員負責飾演！！",
+      "ChoiceDataList": [
+        "咦咦！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "這、這齣歌劇會變成什麼樣子呢……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "霸、霸王大人！\n接下來該如何處理那些傢伙呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "啦啦啦～♪\n我接受一切，愛著一切～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "咦？那、那復仇呢……？\n您不是命令我去完成復仇嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "畢竟本霸王～♪心胸寬大～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "唔唔，故事發展得一團亂……！",
+      "ChoiceDataList": [
+        "剛剛那幕是什麼場景……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "理應上要是……\n好歌劇飾演的主角命令妖精前去懲戒\n復仇對象的場景……這樣才對！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "不可以接受啦～～！\n妳不覺得……應該照著原本的故事……\n忠實演出角色應有的行動嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "不覺得！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "不覺得啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "因為這是屬於我的歌劇啊。\n我得自由自在地盡情遨翔，\n觀眾才能徹底欣賞到我的美。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "我的舞台由我一手掌控。\n這才是真正的霸王之路！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……好歌劇真的好厲害。\n我無法像妳一樣充滿自信──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "不過呢，英雄。千萬別忘記。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "妳也──同樣站在這個舞台上喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……我也……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "究竟妳只是區區的舞台道具呢？\n還是能為舞台激起漣漪的同台演員呢──\n這一切都要看接下來的發展而定！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "來吧，妳將創造出怎麼樣的故事？\n讓我見識見識吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "我創造的故事……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……我……我想成為英雄。\n不對，我不接受英雄以外的身分……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "所以接下來請容我述說一段\n有關妖精變成英雄的故事……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "非常好！！\n不過我也完全不打算讓出主角地位喔。\n來吧──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "拉開序幕吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "霸王啊，經過跟妳一起原諒敵人……\n我終於得以恢復真正的姿態。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "如今我再也不是渺小的妖精。\n從今天起我將徹底捨棄這股狂暴的魔法之力……！\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "是啊，如今可說濃霧已然散去。\n多虧我的威望，暴風雨終於停歇！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "凱旋歸來吧，我的朋友。\n由妳親手開拓的美妙世界正在等著我們！！\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（啪啪啪……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哈──哈哈哈！！\n這次的舞台很精彩吧？\n不用客氣，盡情稱讚吧！！",
+      "ChoiceDataList": [
+        "妳們兩人都好像真正的英雄"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "你、你又講這種話……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……不過，我覺得……\n好像上了很重要的一課。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "不管是怎麼樣的舞台，\n一旦登台，腳下就是屬於自己的舞台。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……我會牢牢記住的。\n好歌劇，今天謝謝妳了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "很好，儘管稱讚我吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "妳就在屬於妳的故事中盡情前進吧。\n當有朝一日妳成了能跟我並駕齊驅的英傑後，\n我們的故事線或許能再度相交。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "失陪了，屆時再會吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "呵呵……好的！\n未來某一天賽道上見！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

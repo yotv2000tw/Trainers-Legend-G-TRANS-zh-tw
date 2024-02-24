@@ -1,0 +1,707 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "冬季的某一天，\n當我跟荒漠英雄一起走在商店街時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "對、對不起！為了我的私人購物行程，\n竟然耽誤你到這麼晚……",
+      "ChoiceDataList": [
+        "別在意"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "不，真的很感謝你……！\n多虧你我才能買到我想要的書。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "嘿嘿嘿，雖然因為一次逛了好多家書店，\n途中也忍不住翻起了原本沒有要買的書……\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……咦，怎麼回事？\n那裡……聚集了好多人喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，是好玩的抽獎活動喔！\n任何人都可以來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "抽、抽獎……！\n這麼一說，\n剛剛書店的確送了我抽獎券。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "抽獎……試手氣啊……",
+      "ChoiceDataList": [
+        "妳有興趣？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "呃，這個嘛……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "都……都已經讓你陪我到這麼晚了……\n怎麼好意思再佔用你更多時間……！\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……不、不過……那個，\n但我好像同時也覺得……\n真正的英雄似乎也很需要好運……！",
+      "ChoiceDataList": [
+        "好～來試試手氣吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "哇、哇啊，真的可以嗎……！？\n謝謝你……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "那我就……\n不、不好意思～！我想抽一次……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "好，收妳一張抽獎券！\n來來來，勇敢地轉下去吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "我、我要抽了！\n命運女神啊，請庇佑我吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "荒漠英雄鬥志昂揚地轉動了抽獎機的把手！\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "咦……咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "咦咦～～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "哇、哇啊啊……\n我還在想有個二獎就夠我高興的了……\n居然抽到特獎！？",
+      "ChoiceDataList": [
+        "好運也是英雄的實力之一！恭喜妳！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "真、真的嗎……希望真的是這樣……\n謝謝你……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "呵呵呵，溫泉旅行啊……\n對了，訓練員知道有關溫泉的傳說嗎？\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "其實呢，因為日本境內有多處火山，\n所以也存在著許多自然湧出的\n「自古以來的溫泉」──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "而那些溫泉也跟歷史悠久的建築物一樣，\n伴隨著各種趣聞、傳說與神話喔！\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "比如說有個溫泉據傳是由平安時代的\n大將軍發現的，還有些知名溫泉\n據說神話中的神明也曾沐浴過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "──啊，對、對不起。\n又一不小心講得太開心了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "總……總之……！\n說不定這張溫泉旅遊券的目的地\n也流傳著類似的趣聞喔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "所以，那個……呃呃……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "我、我們……一起去好嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "當然是要等閃耀系列賽告一段落之後才能出發……\n",
+      "ChoiceDataList": [
+        "當然好，我很樂意！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "真、真的嗎！？太好了……！\n……約好了喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "待這部英雄傳說告一段落後就去溫泉旅行吧。\n聽起來很適合當作中場休息。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我再次鼓足了幹勁，為了屆時能在溫泉盡情放鬆，\n也為了凸顯中場休息時光有多麼療癒人心，\n明天起還要繼續努力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "哇啊，抽到一獎……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "看、看來幸運女神對我微笑了呢……！\n",
+      "ChoiceDataList": [
+        "恭喜！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "謝、謝謝……！\n那麼這份「特等胡蘿蔔漢堡排」──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "可、可以的話……\n我希望能夠由訓練員收下……",
+      "ChoiceDataList": [
+        "裡面有妳不敢吃的東西？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "沒、沒有……！\n不是因為我不敢吃……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "其實我啊……不是很懂美食。\n我覺得「特等」食物讓我吃掉好像太浪費了……\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "難、難得獲得高級食品，\n還是交給吃得出好壞的人享用吧，\n我想這樣漢堡排也會被吃得比較高興……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "不嫌麻煩的話，請、請你收下……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我得到了「特等胡蘿蔔漢堡排」……！\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "當天晚上，\n我對著收到的「特等胡蘿蔔漢堡排」陷入沉思。\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "要我就這樣吃掉也是可以，\n但這是荒漠英雄抽到的獎品啊──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "還是希望能讓她品嚐……\n於是我決定把漢堡排拿來做便當，\n明天帶去學園！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "在頂樓度過午休……！有一種……\n青春就是這麼回事啊！的感覺……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "不過，\n雖然我很高興能跟訓練員一起吃午餐，\n但為什麼要來到頂樓上呢……？",
+      "ChoiceDataList": [
+        "我做了便當喔",
+        "我做了便當唷！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "咦？訓、訓練員……做的……！？\n你親手做的……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "真、真的要分我吃嗎？\n可是……給我吃好像太浪費了……！",
+      "ChoiceDataList": [
+        "我正是為了讓妳品嚐而做的……",
+        "我正是為了讓妳品嚐而做的……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "說是親手做，其實也只不過是\n把冷凍漢堡排稍微加熱後放進便當盒而已……\n我打開便當盒遞到她面前。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "啊，\n這個是昨天抽到的「特等胡蘿蔔漢堡排」……？",
+      "ChoiceDataList": [
+        "想說難得抽到的獎品嘛"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "是、是啊……！\n那……我要開動了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（嚼……嚼……）\n……嗯！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……真、真好吃。\n真的比普通的漢堡排還要美味許多……！\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "真不可思議……\n至今我還不曾注意過高價物品的過人之處……\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "為什麼會如此美味呢……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（……難道說……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（是因為跟訓練員一起享用，\n所以才感到這麼美味……？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我跟荒漠英雄一起享用著便當，\n共度了午休時光。\n她看起來好像很開心……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "哇啊……！\n能抽到二獎就算很幸運了呢……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "真開心……！不過分量好多……！\n該怎麼辦呢？\n可以分給訓練員一點嗎……",
+      "ChoiceDataList": [
+        "我是很開心妳有這份心意……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "可是這是她自己抽中的珍貴獎品啊。\n聽到我如此勸說，荒漠英雄陷入沉思。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "嗯～還是分給宿舍的同學們呢？\n也可以送給室友……不然就是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……啊，對了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "荒漠英雄似乎想到了什麼點子。\n當天我們一起將抽到的胡蘿蔔搬回宿舍，\n然後暫且道別。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "隔天──\n訓練員室的桌上擺滿了\n以胡蘿蔔為材料做成的點心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "嘿嘿嘿，這些呢……\n全都是出現在我喜歡的故事中的點心喔……！\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "昨天我想起圖書室有一本書，\n裡頭統整了各種食譜，\n照著做就可以重現虛構故事中登場的點心……",
+      "ChoiceDataList": [
+        "好厲害！多虧妳能做出這麼多"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "謝、謝謝……\n不過這當然不是我一個人的功勞──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "我的室友米浴很擅長做料理──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "我請她稍微，呃，不是稍微，\n我請她幫了很多忙……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "所、所以……我敢保證味道是好吃的……！\n不嫌棄的話請吃吃看……！",
+      "ChoiceDataList": [
+        "我要開動了～！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雙手合十說完後，\n我盡力選出一塊造型最不完美的點心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "啊，那是……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因為我猜那就是荒漠英雄自己做的。\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "味、味、味道怎麼樣……？",
+      "ChoiceDataList": [
+        "很好吃！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……唔。\n……太好了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那天，我與荒漠英雄以及來到訓練員室的\n賽馬娘們一起享用了各種點心！\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "謝、謝謝……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "看起來很好吃呢，不過……",
+      "ChoiceDataList": [
+        "覺得有點可惜？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "啊，不、不是的……！\n因為我平時沒在做菜──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "所以一直想不到適合的食譜，\n不知道該怎麼調理才好……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我跟荒漠英雄一起凝視著手上的胡蘿蔔，\n陷入了思考。加進味噌湯？整根烤來吃？\n吃法是有很多種，不過──",
+      "ChoiceDataList": [
+        "……何不在回去的路上邊走邊吃？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "邊、邊走邊吃嗎……！？\n而且直接啃整根生胡蘿蔔……！？\n這──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "聽起來有點叛逆呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "開、開動了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "嗯，真好吃……！\n呵呵，\n偶爾就是會想嘗試一下這種叛逆的壞事呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "荒漠英雄邊啃著胡蘿蔔邊踏上歸途。\n我總覺得她的步伐比起平時洋溢著更多自信──\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……應該不是我的錯覺吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "唔唔……啊，\n抱歉，謝謝你……",
+      "ChoiceDataList": [
+        "真是有點可惜呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "是啊……不、不過呢！\n其實也不乏雖然運氣不好\n卻仍被視為英雄的人物……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "比如說日耳曼神話中打倒惡龍的英雄，\n雖然他被龍血濺到身體，\n成了不死之身──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "但被血濺到時，\n他的背上很不巧地附著了一片葉子，\n結果全身上下只有後背無法不死。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "最後就是這個弱點導致他失去性命──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……聽起來好像還是有點不吉利呢……\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "荒漠英雄變得有點垂頭喪氣……\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
