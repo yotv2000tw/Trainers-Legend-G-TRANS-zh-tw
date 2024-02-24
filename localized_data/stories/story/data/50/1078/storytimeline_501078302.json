@@ -1,0 +1,461 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我和也文攝輝一起外出的回程上，\n看見商店街的一處特別熱鬧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "呵呵，如同百花齊放般熱鬧呢。\n就像吹著青嵐之風的感覺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，是好玩的抽獎活動喔！\n任何人都可以來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "……哎呀，那間旅館是……",
+      "ChoiceDataList": [
+        "怎麼了？",
+        "怎麼了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "我曾聽人說過，\n它座落在四周環山\n且吹著舒適惠風的地方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "聽說那裡棲息著許多森林裡的動物……\n各種小動物、小鳥。",
+      "ChoiceDataList": [
+        "要抽獎看看嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "呵呵，也好。\n就相信這個機遇是祥風吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，\n我們去買了日用品來獲得抽獎券──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "也文攝輝轉動了\n抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "哎呀，真是嚇到我了。\n竟然真的抽中了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "就像冬天吹起白南風；夏天吹起寒風……\n呵呵，真是令人意想不到呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "那我們該怎麼辦才好呢？\n要在薰風之時去呢？還是秋風之時去呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "難得有這樣的機會，\n希望能在像槐月南風般\n悠閒日子的時候再去呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "現在每天都忙於訓練跟比賽。\n若硬是安排旅行，\n或許只會徒增疲勞也不一定。",
+      "ChoiceDataList": [
+        "在有空之前先收著，妳覺得呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "等到有空之後……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "嗯，這樣也好，就這麼決定吧。\n畢竟是難得的瑞風，等到合時之風吹起再去吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "……呵呵。\n往後每一天都像是在等待春節東風般。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "真是令人期待呢，訓練員。",
+      "ChoiceDataList": [
+        "我也要一起去嗎？",
+        "我也要一起去嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "當然。\n一起迎來這陣祥風的是我跟你啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "……你不想去嗎？",
+      "ChoiceDataList": [
+        "沒有，我不是這個意思……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "那就一起去吧。\n爽籟之旅在等著我們呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，我們約好，\n等行程空下來後要一起去溫泉旅行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "一獎……\n看來是還差一步。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "不。\n這也已經是十足的好風了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "就像在自然無為的日子裡，\n突然落下一道迅雷般。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "那麼，如此難得的好運……\n希望能在涼風中好好享用呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "可以的話，你要不要也一起呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，在她的引領下，\n我們來到景色遼闊的高地──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "來吧，坐這邊。\n我還準備了茶喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "──真是美麗的紅色雲彩。\n即將黃昏。就要吹起榆風了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我們就這樣一邊欣賞美景，\n一邊一起享用了漢堡排。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "哎呀，錯過了祥風呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "呵呵，這麼多漂亮的胡蘿蔔。\n這可不是那麼容易入手的呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "就像瑞風般\n水嫩的根與菜葉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "我一個人吃不完，\n跟訓練員兩個人吃也是有點太……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "……呵呵，我想到好辦法了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──隔天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "早安。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "我做了些手工胡蘿蔔蛋糕放在那邊。\n不嫌棄的話素質也請用吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "咦？那麼多的蛋糕，\n都是攝輝做的啊！？\n哇，我要吃我要吃～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "攝輝的料理總是給人溫柔的感覺，\n吃了會很暖心呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "哎呀，真是和風般的稱讚……\n謝謝妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "暖心……\n那我待會也拿一份去給訓練員吃好了。\n呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "哎呀，居然是三獎……\n距離特獎是八重海風般遙遠呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "抽獎就像風車一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "雖然早知道這個道理……\n呵呵，過於期待還是不太好呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "話雖如此，這也是難得的機緣。\n一根胡蘿蔔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "……既然得到了，\n那就用來做點什麼吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，\n她決定用胡蘿蔔來做晚餐──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "燉胡蘿蔔與野草，\n配上當季的魚跟白飯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "心存感激地開動吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，\n我們一起享用了令人暖心的晚餐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "哎呀……\n沒有抽中啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "……不對，是否把這陣風視作黑風，\n全取決於自己採用什麼觀點。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "不能沉浸在失望之中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "也文攝輝",
+      "Text": "很快地，\n就會再吹起新的風。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──也文攝輝雖這麼說，\n卻看起來還是難掩落寞。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

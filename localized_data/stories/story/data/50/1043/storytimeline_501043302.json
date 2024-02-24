@@ -1,0 +1,588 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我和新光風一起外出後回程的路上。\n經過傍晚時的商店街……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "嗯？那邊聚集了人潮。\n是在做什麼嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，是好玩的抽獎活動喔！\n任何人都可以來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "哦哦～！？\n手下快看！有抽獎活動耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "大叔大叔！\n也讓風風抽啦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "哈哈哈，真是活潑啊～\n妳有抽獎券嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "沒有就不能抽嗎？\n唔唔唔唔……！",
+      "ChoiceDataList": [
+        "買東西好像就會拿到了喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "是嗎？\n怎麼不早說啊──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "好──！\n那我們趕快去買點什麼吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "嘿嘿嘿～～！\n看風風把好獎給抽走～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，\n新光風用得到的抽獎券，\n得意洋洋地轉動抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "新光風",
+      "Text": "──唔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "唔喔喔喔喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "好棒好棒！太棒啦～！\n風風是不是抽到最棒的獎了！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "也就是說、也就是說……！\n風風可以去溫泉旅行了！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "太好了！寬敞的溫泉跟美味的料理，\n還有軟綿綿的睡床都是我們可以獨享的了♪",
+      "ChoiceDataList": [
+        "我們獨享？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "？不就是風風跟你一起……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "唔！！那、那那那那是因為！\n上面寫著「雙人同行」啊！\n就是不能一個人去的那種啦！",
+      "ChoiceDataList": [
+        "妳沒有其他想一起去的人嗎……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "少、少囉唆啦～！\n風風就是需要一個幫忙拿行李的人啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "風風的個性呢，\n是不會主動去邀約誰的啦！\n但是風風又需要一個幫忙拿行李的人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "準備工作、導覽工作、回程的整理工作，\n全～～～～都是你要負責做的，\n做好心理準備吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "說完，\n新光風就硬把溫泉旅遊券塞到我手中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "敢弄丟，風風就「啊姆」咬你一口。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "等風風的行程都告一段落之後，\n你就要負責帶風風去喔！\n知道了嗎？",
+      "ChoiceDataList": [
+        "真的要跟我一起去啊？",
+        "真的要跟我一起去呀？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "唔唔…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "你不想嗎……？",
+      "ChoiceDataList": [
+        "沒有不想，我覺得很開心！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "……唔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "哼哼──♪那就這麼說好了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "因此，旅遊券就暫時交由我保管了。\n等她完成遠大的目標後，\n就帶她去玩當作慶祝吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "新光風",
+      "Text": "喔喔喔～！看起來很好吃耶！\n真大～！（流口水……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "光看著就覺得肚子餓了！\n快點帶回去吃吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，\n我們在商店街買了沙拉、飯糰跟甜點，\n準備帶回訓練員室裡一起想用。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "唔唔，好香喔……刀在哪？\n快點快點！我們一人一半～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "開動了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "啊姆、啊姆……嗯嗯嗯！\n這、這是……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "風風喜歡的那種！\n「比較有口感的漢堡排」！",
+      "ChoiceDataList": [
+        "妳說什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "風～風～說～！\n喜歡這種比較有嚼勁跟肉感的啦。\n就是比較少麵粉跟蛋液的味道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "胡蘿蔔也沒有煮得太軟，\n甜度也剛剛好……哼哼♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "跟風風的媽媽做的有點像啦！\n雖然還是媽媽做的比較好吃就是了！",
+      "ChoiceDataList": [
+        "原來如此"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣一邊了解到新光風對食物的喜好，\n一邊一起享用了和樂的晚餐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "新光風",
+      "Text": "喔喔～這麼多的胡蘿蔔……！\n二獎也挺不錯的嘛。",
+      "ChoiceDataList": [
+        "可以隨意吃個夠了",
+        "可以隨意吃個夠了呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "嗯嗯，可以愛吃多少就吃……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "不對！這麼多的胡蘿蔔，\n只是拿來吃就太可惜了！",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "嗯嘿嘿嘿～～！！\n風風要用來惡作劇啦～～～！！！",
+      "ChoiceDataList": [
+        "妳、妳想做什麼……！？",
+        "妳、妳想做什麼……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（──叩叩。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "來了……呃，沒有人……？\n真奇怪……咦？這是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大樹快車",
+      "Text": "What !?地上有胡蘿蔔！\n是surprise嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "──欸，新光風！是妳吧？\n最近在大家房門口放胡蘿蔔，\n玩那種敲了門就跑的遊戲的人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "哼──風風才不知道妳在說什麼勒～！\n才不是風風做的啦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "哈哈哈，我是在鞋櫃裡面找到胡蘿蔔的。\n真是驚天動地的場面。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "啊，什麼嘛！\n原來會長是有發現胡蘿蔔的嘛！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "因為都沒來跟風風說什麼，\n風風還以為是胡蘿蔔放太深沒被看到……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "才──────怪！\n風風什麼都不知道啦～～～～～！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "呵呵，換作是平常的話，\n的確是要因為惡作劇而給妳適當的懲罰……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飛",
+      "Text": "呵呵呵，但因為大家收到都很開心嘛～\n謝謝妳分享胡蘿蔔給我喔。\n新光風前輩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "哼──！\n才不是風風做的勒～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "真是的……就是愛嘴硬……\n把東西分享給大家，\n就讓妳這麼不好意思承認嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "──風風就做了像這種感覺的\n惡作劇啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "呵呵呵！整個美浦宿舍現在都在討論\n「偷放胡蘿蔔魔人」的話題喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "新光風一臉得意的模樣。\n幸好是個讓大家都開心的惡作劇……！\n我默默在心裡慶幸著。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "新光風",
+      "Text": "胡蘿蔔……就一根而已……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "是──────喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "風風是願意收下啦，但……\n虧我們還特地去買東西換抽獎券的說……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "都特地買東西了說……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "唔唔唔……唔啊啊啊──────！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "新光風突然從胡蘿蔔的頂部\n開始一口一口地吃了起來！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "──噗哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "哼！風風一口氣吃掉了！",
+      "ChoiceDataList": [
+        "吃得真是豪邁……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "因為風風是壞蛋啊！\n所以就豪邁地吃了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "這就是讓風風失望的懲罰！\n那根胡蘿蔔就乖乖成為壞蛋賽馬娘的養分吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "新光風因為吃了點心而顯得滿足。\n我心裡則是期望她可以多吃多長大。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "新光風",
+      "Text": "是……衛生紙……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "唔唔唔，無聊死了啦……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "風風想要的、想要的是……\n「砰！」地一次就中大獎的感覺啦……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光風",
+      "Text": "唔～～～！風風要回去了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "新光風看起來很不開心地\n開始朝著學園的方向\n走去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

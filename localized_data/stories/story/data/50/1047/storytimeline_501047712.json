@@ -1,0 +1,44 @@
+{
+  "Title": "缺席的理由……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我尋找著沒在訓練時間現身的荒漠英雄，\n最後在高地找到了她……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "啊，訓練員！\n請看這片街景。\n大樓跟公園的位置也……不會錯的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "這裡就是主角出生長大的城市的原型！\n主角奔馳在城市裡努力鍛鍊的場景\n令人印象非常深刻──",
+      "ChoiceDataList": [
+        "妳的鍛鍊時間也到了",
+        "妳的鍛鍊時間也到了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "啊……！對對、對不起！\n我竟然做出這種事……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看來荒漠英雄是因為沉迷於驗證書中場景\n才會錯過了訓練。\n我叮囑她以後得多加注意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

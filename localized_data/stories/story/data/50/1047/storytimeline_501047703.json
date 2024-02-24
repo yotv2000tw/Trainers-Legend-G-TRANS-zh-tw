@@ -1,0 +1,287 @@
+{
+  "Title": "熟知道路的引導者",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我跟荒漠英雄一起外出後的歸途，\n看見一位長者正滿臉不安地四處張望。\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆",
+      "Text": "嗯～車站該往哪邊走呢……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "請、請問……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "不、不好意思打擾了……\n請問妳是不是在找車站……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆",
+      "Text": "沒錯。我對這一帶完全不熟……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "這個嘛……不嫌棄的話，\n我帶妳走去車站吧……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆",
+      "Text": "哎呀，謝謝妳！\n那可以麻煩妳帶路嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "好、好的……！請跟我來……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "那個……接下來呢……\n有兩種走法可以通往車站──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "第一種，前方300公尺處那個轉角，\n在一家酒舖的十字路口右轉。\n這條路線約八分鐘即可到達車站。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "走這條路線是最快的，\n但途中會經過兩個上坡道，走起來可能有些辛苦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "另一條路線則是直走到底後右轉。\n這條路一路都是平地，\n但會多花費四分鐘才能抵達。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "我想讓妳依照意願選擇走哪條路……\n請、請問妳意下如何呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆",
+      "Text": "哎呀呀，真是太周到了！\n那可以帶我走不用爬坡的路嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "好的，我知道了……！\n啊，我幫妳拿行李……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆",
+      "Text": "呼……抱歉呀，我腳程很慢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "啊，不會的，請別在意……！\n那個，要是累了要不要坐下休息？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆",
+      "Text": "哎呀，可以嗎？\n那我就休息一下吧，真不好意思。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "好、好的……！當然沒問題……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……我想想，我記得離這裡最近的長椅在──\n應該在這裡向左轉就到了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "老婆婆，請往這走。\n我帶妳去喔。",
+      "ChoiceDataList": [
+        "（英雄看起來神采奕奕的！）",
+        "（英雄看起來神采奕奕的！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們在長椅稍作休息後又再度啟程走向車站，\n但此時天空卻突然烏雲密布。\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆",
+      "Text": "哎呀，天色好像越來越不妙了呢。\n我今天沒帶傘出門，得走快一點了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "我也沒帶傘……嗯，不過不要緊！\n我們改走不會淋到雨的路線吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "只需要從原本路線走到下一條路，\n不會增加太多距離的。來吧，請跟我來……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "這條商店街有拱廊式屋頂，\n就算下雨天也不要緊！\n穿過這裡很快就到車站前了！",
+      "ChoiceDataList": [
+        "（甚至還知道不會淋雨的路線！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "荒漠英雄就這樣精準地帶著我們前進，\n最後順利抵達了車站！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆",
+      "Text": "哎呀，真是太謝謝妳了！\n真不好意思，事事都讓妳幫忙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "不會，很高興能幫上忙！\n老婆婆路上小心喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆",
+      "Text": "真的很謝謝妳對我這麼親切！\n再見了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "呼……太好了。\n看來我帶路帶得很正確……！",
+      "ChoiceDataList": [
+        "妳太厲害了！妳知道這附近所有的路啊！",
+        "妳太厲害了！妳知道這附近所有的路呀！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "嘿嘿嘿……謝謝你。\n其實我從以前起就很擅長帶路……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "從以前開始，我就很喜歡邊閱讀故事\n邊查看作為故事背景的地區的地圖。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "從森林到街道、甚至城市的暗巷之中──\n我會邊回想故事情節邊打開地圖，\n想像著故事世界中的每一個角落……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "或許在享受其中樂趣之間，\n同時也鍛鍊到了一點記住景色的能力吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "決定入學特雷森學園後我做的第一件事\n就是打開這個城鎮的地圖，\n盡情想像這裡的景色！",
+      "ChoiceDataList": [
+        "這可是只有英雄辦得到的特技！",
+        "這可是只有英雄辦得到的特技！",
+        "下次也請妳替我帶路吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "決定入學特雷森學園後我做的第一件事\n就是打開這個城鎮的地圖，\n盡情想像這裡的景色！",
+      "ChoiceDataList": [
+        "這可是只有英雄辦得到的特技！",
+        "這可是只有英雄辦得到的特技！",
+        "下次也請妳替我帶路吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "！\u3000只有我辦得到的特技……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "這樣啊……專屬於我的特技……！\n說得對……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "荒漠英雄體會著喜悅的情緒，\n增添了不少自信。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "啊，好的，包在我身上……！\n只要是從學園徒步可到的店家或設施，\n我應該都有辦法帶路！",
+      "ChoiceDataList": [
+        "什麼！？未免太厲害了……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "嘿嘿嘿……被你這樣稱讚，\n我好像變得更有自信了，嗯……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "荒漠英雄細細品味著內心湧起的這股小小自信。\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

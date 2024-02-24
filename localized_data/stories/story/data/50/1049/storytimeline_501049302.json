@@ -1,0 +1,431 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結束訓練後，\n我請中山慶典吃鯛魚燒──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，是好玩的抽獎活動喔！\n任何人都可以來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "哦，抽獎啊。",
+      "ChoiceDataList": [
+        "要不要挑戰看看？",
+        "要不要挑戰看看？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "當然要。\n怎麼可能不抽啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是除了鯛魚燒外，\n我又在商店街採買了些飲料，\n獲得一張抽獎券。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "謝啦，\n我不會白白浪費這張抽獎券的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……看我的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "中山慶典鬥志昂揚地\n轉動了抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "好耶！",
+      "ChoiceDataList": [
+        "喔喔喔！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "太厲害了～！\n這是您的「溫泉旅遊券」～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "好，回去吧。",
+      "ChoiceDataList": [
+        "突然變得這麼冷靜！？",
+        "突然變得這麼冷靜！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "呃……不就是溫泉而已嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "啊，旅遊券就送給訓練員吧。\n感謝你讓我抽獎的回禮。",
+      "ChoiceDataList": [
+        "這樣好嗎……？",
+        "這樣好嗎……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "中山慶典看起來\n對抽到的獎品完全沒興趣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這間溫泉旅館是有名的療養機構，\n連頂尖賽馬娘都會去造訪。",
+      "ChoiceDataList": [
+        "那就看成績決定要不要使用吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "什麼？成績？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "如果要和她一起遠征海外，\n最好找機會先休息一下，\n之後再做最後的調整。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但要是她的成績不理想，\n需要重新提振士氣的話──\n可就沒有時間去享受溫泉了。",
+      "ChoiceDataList": [
+        "所以能不能去都取決於妳",
+        "所以能不能去都取決於妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……！呵呵……\n萬一調整得不好，\n溫泉旅行也就泡湯了啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "既有風險也有報酬，\n你提議的賭局有掌握到精髓喔。",
+      "ChoiceDataList": [
+        "能稍微點燃妳的幹勁吧？",
+        "能稍微點燃妳的幹勁吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "是啊，你還真了解我呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，我跟中山慶典之間\n又多了一個新的賭局。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "哦，一獎！\n運氣還不賴嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "哼，只有一個啊。\n那就不能分大家吃了。",
+      "ChoiceDataList": [
+        "難得抽中，妳自己吃吧",
+        "難得抽中，妳自己吃吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "哈哈，那我就不客氣了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "喂，不對吧。\n再稍微推敲一下嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "報酬只有一個，但在場有兩個人。\n這情況……該怎麼做？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "來，亮牌吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "同花順！\n你的是……？",
+      "ChoiceDataList": [
+        "我只有一對……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "好，\n這下胡蘿蔔漢堡排跟\n你家的所有泡麵都是我的了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，不只胡蘿蔔漢堡排，\n連我家中所有糧食\n都被她理所當然地掠奪一空。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "品質不錯嘛。\n應該直接烤過就很好吃了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "怎麼了？",
+        "怎麼了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "就當作是\n請我鯛魚燒跟抽獎的回禮吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（哇哈哈哈哈……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "開朗的大叔",
+      "Text": "喔，中山的訓練員。\n多吃點多吃點！今天老闆不收錢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "關東煮店老闆",
+      "Text": "不要亂講。\n……來，中山。妳的燉胡蘿蔔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "謝啦，老闆。\n喂，訓練員也吃吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "這裡的高湯可是極品喔，\n快吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "關東煮店老闆",
+      "Text": "你們兩個不用付錢，\n當作感謝你們帶了這麼多胡蘿蔔過來。",
+      "ChoiceDataList": [
+        "謝、謝謝……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "中山慶典請熟識的店家\n幫忙料理了那一整堆胡蘿蔔，\n滋味相當深入人心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "啊──也是啦。\n畢竟這種抽獎都只會掉出綠球跟藍球。",
+      "ChoiceDataList": [
+        "但剛剛掉出來的球是黃色的……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……呃，是啊。\n我是在比喻最容易抽到的獎項等級。\n電玩中心不也有類似的機台？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "中山慶典把抽獎得到的\n胡蘿蔔拿在手上把玩，\n我們就這樣一起回到學園。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……啊──",
+      "ChoiceDataList": [
+        "真可惜……",
+        "真可惜……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "哈哈，你也太沮喪了。\n都是這樣的，我的經驗有九成不會抽中。",
+      "ChoiceDataList": [
+        "是嗎……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "是啊，就是這樣。\n所以根本不用喪氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "…………唉……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "中山慶典雖然嘴上這麼說，\n但她還是忍不住嘆起氣來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
