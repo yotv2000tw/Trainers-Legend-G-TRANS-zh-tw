@@ -1,0 +1,497 @@
+{
+    "title": "Trainers-Legend-G Config",
+    "description": "赛马娘本地化插件配置",
+    "type": "object",
+    "properties": {
+        "enableConsole": {
+            "description": "启用用来输出调试信息的控制台",
+            "type": "boolean"
+        },
+        "enableLogger": {
+            "description": "将未覆盖的文本输出到 `dump.txt`",
+            "type": "boolean"
+        },
+        "dumpStaticEntries": {
+            "description": "需要上一条启用, 在游戏启动时将游戏内硬编码的文本条目输出到 `dump.txt`",
+            "type": "boolean"
+        },
+        "maxFps": {
+            "description": "帧率限制 (-1 = 游戏原版/0 = 无限/>0 = 锁定到特定帧数)",
+            "type": "integer",
+            "minimum": -1
+        },
+        "better60FPS": {
+            "description": "启用60帧优化",
+            "type": "boolean",
+            "default": false
+        },
+        "highQuality": {
+            "description": "高画质模式 (抗锯齿 MSAA x8, 锁定图形质量等级到最高)",
+            "type": "boolean"
+        },
+        "virtual_resolution_multiple": {
+            "description": "3D渲染分辨率倍率。1.0为原版\n  可大幅减轻 1080P 分辨率下锯齿感的问题。\n  可能会导致部分场景的2D图片背景过小。\n  建议值 4k以下: 2.0；4k及以上: 1.5",
+            "type": "number",
+            "default": 1.0
+        },
+        "enableVSync": {
+            "description": "开启垂直同步 (开启后 maxFps 设置将会失效)",
+            "type": "boolean"
+        },
+        "unlockSize": {
+            "description": "允许游戏使用`1080p`以上的分辨率",
+            "type": "boolean"
+        },
+        "aspect_ratio_new": {
+            "description": "设置UI比例，默认16:9\n若将值设为-1，游戏UI比例将会自适应您的屏幕比例\n若UI显示不全，可以在下面设置\"自定义UI缩放\"\n修改后需要重启游戏",
+            "type": "object",
+            "properties": {
+                "w": {
+                    "description": "长边",
+                    "type": "number",
+                    "default": 16.0
+                },
+                "h": {
+                    "description": "短边",
+                    "type": "number",
+                    "default": 9.0
+                },
+                "forceLandscape": {
+                    "description": "强制启用横屏模式",
+                    "type": "boolean",
+                    "default": false
+                }
+            }
+        },
+        "autoFullscreen": {
+            "description": "在屏幕比例对应时自动设置为全屏",
+            "type": "boolean"
+        },
+        "fullscreenBlockMinimization": {
+            "description": "屏幕全屏时，阻止最小化",
+            "type": "boolean",
+            "default": true
+        },
+        "uiScale": {
+            "description": "自定义UI缩放",
+            "type": "number"
+        },
+        "readRequestPack": {
+            "description": "是否读取客户端发送包信息，开启此功能可在命令行中输入reboot快速重启游戏",
+            "type": "boolean"
+        },
+        "extraAssetBundlePaths": {
+            "description": "图片等资源替换包的路径（需要用unity打包，一般情况下请不要改动此项）",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "replaceFont": {
+            "description": "替换字体，true:用系统默认字体或自定义字体替换；false：使用游戏原字体",
+            "type": "boolean"
+        },
+        "customFontPath": {
+            "description": "extraAssetBundlePath项设置的资源包内的字体路径：自定义字体",
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "customFontSizeOffset": {
+            "description": "字体大小，-4即为减少4",
+            "type": "integer"
+        },
+        "customFontStyle": {
+            "description": "字体风格，0为正常，1为粗体，2为斜体，3为粗斜体",
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 3
+        },
+        "customFontLinespacing": {
+            "description": "文字行间距，基准值为1.0",
+            "type": "number"
+        },
+        "replaceAssets": {
+            "description": "是否开启图片等资源替换",
+            "type": "boolean"
+        },
+        "dumpSpriteTexture": {
+            "description": "Dump Sprite 图像资源",
+            "type": "boolean",
+            "default": false
+        },
+        "dumpRuntimeTexture": {
+            "description": "Dump Runtime 图像资源",
+            "type": "boolean",
+            "default": false
+        },
+        "assetLoadLog": {
+            "description": "是否在debug输出游戏资源调用情况",
+            "type": "boolean"
+        },
+        "live": {
+            "description": "Live配置",
+            "type": "object",
+            "properties": {
+                "free_camera": {
+                    "description": "启用自由视角",
+                    "type": "boolean"
+                },
+                "mouseSpeed": {
+                    "description": "鼠标视角移动速度",
+                    "type": "number",
+                    "default": 100.0
+                },
+                "force_changeVisibility_false": {
+                    "description": "禁用改变角色可见性",
+                    "type": "boolean"
+                },
+                "moveStep": {
+                    "description": "相机移动步幅",
+                    "type": "number"
+                },
+                "close_all_blur": {
+                    "description": "关闭所有模糊镜头",
+                    "type": "boolean"
+                },
+                "enableLiveDofController": {
+                    "description": "启用 Live 参数控制台（点击 LIVE 设置按钮开启）",
+                    "type": "boolean",
+                    "default": false
+                },
+                "setLiveFovAsGlobal": {
+                    "description": "将 Live 的 FOV 应用到游戏全局",
+                    "type": "boolean",
+                    "default": false
+                },
+                "followUmaSmoothCamera": {
+                    "description": "角色追踪模式下平滑移动视角",
+                    "type": "object",
+                    "properties": {
+                        "enable": {
+                            "description": "是否启用",
+                            "type": "boolean",
+                            "default": false
+                        },
+                        "lookatStep": {
+                            "description": "LookAt 移动步幅",
+                            "type": "number",
+                            "default": 0.01
+                        },
+                        "positionStep": {
+                            "description": "Position 移动步幅",
+                            "type": "number",
+                            "default": 0.001
+                        }
+                    }
+                }
+            },
+            "additionalProperties": false
+        },
+        "homeSettings": {
+            "description": "主页设置",
+            "type": "object",
+            "properties": {
+                "free_camera": {
+                    "description": "启用主页自由视角",
+                    "type": "boolean",
+                    "default": false
+                },
+                "homeWalkMotionCharaId": {
+                    "description": "主页走路姿势修改\n(填写4位角色ID, -1为不设置)",
+                    "type": "integer",
+                    "default": -1
+                }
+            }
+        },
+        "raceInfoTab": {
+            "description": "比赛实时信息显示",
+            "type": "object",
+            "properties": {
+                "enableRaceInfoTab": {
+                    "description": "启用比赛实时信息显示窗口",
+                    "type": "boolean",
+                    "default": false
+                },
+                "raceInfoTabAttachToGame": {
+                    "description": "将窗口附加到游戏中, 不单独弹窗",
+                    "type": "boolean",
+                    "default": false
+                }
+            }
+        },
+        "race_camera": {
+            "description": "比赛相机设置",
+            "type": "object",
+            "properties": {
+                "free_camera": {
+                    "description": "启用自由视角",
+                    "type": "boolean"
+                },
+                "moveStep": {
+                    "description": "相机移动步幅",
+                    "type": "number"
+                },
+                "defaultFOV": {
+                    "description": "默认FOV",
+                    "type": "number"
+                },
+                "freecam_lookat_target": {
+                    "description": "视角随着马娘移动",
+                    "type": "boolean"
+                },
+                "freecam_follow_target": {
+                    "description": "摄像机随着马娘移动",
+                    "type": "boolean"
+                },
+                "follow_offset": {
+                    "description": "摄像机随马娘移动参数",
+                    "type": "object",
+                    "properties": {
+                        "distance": {
+                            "description": "与目标马娘的距离",
+                            "type": "number"
+                        },
+                        "x": {
+                            "description": "x轴偏移",
+                            "type": "number"
+                        },
+                        "y": {
+                            "description": "y轴偏移",
+                            "type": "number"
+                        },
+                        "z": {
+                            "description": "z轴偏移",
+                            "type": "number"
+                        }
+                    }
+                }
+            },
+            "additionalProperties": false
+        },
+        "cutin_first_person": {
+            "description": "CutIn 第一人称（使用 F 键切换）",
+            "type": "boolean",
+            "default": false
+        },
+        "externalPlugin": {
+            "description": "外部插件配置",
+            "type": "object",
+            "properties": {
+                "hotkey": {
+                    "description": "启动热键",
+                    "type": "string"
+                },
+                "path": {
+                    "description": "插件路径",
+                    "type": "string"
+                },
+                "openExternalPluginOnLoad": {
+                    "description": "启动游戏时自动打开外部插件",
+                    "type": "boolean"
+                }
+            },
+            "additionalProperties": false
+        },
+        "httpServerPort": {
+            "description": "HTTP服务器端口, 用于外部插件交互",
+            "type": "integer"
+        },
+        "autoChangeLineBreakMode": {
+            "description": "根据横竖屏模式自动切换\"忽略换行符\"模式",
+            "type": "boolean"
+        },
+        "static_dict": {
+            "description": "static字典文件的路径",
+            "type": "string"
+        },
+        "no_static_dict_cache": {
+            "description": "是否禁用static字典缓存",
+            "type": "boolean"
+        },
+        "stories_path": {
+            "description": "剧情文件路径",
+            "type": "string"
+        },
+        "text_data_dict": {
+            "description": "文本数据字典文件路径",
+            "type": "string"
+        },
+        "character_system_text_dict": {
+            "description": "角色系统文本字典文件路径",
+            "type": "string"
+        },
+        "race_jikkyo_comment_dict": {
+            "description": "比赛实况评论字典文件路径",
+            "type": "string"
+        },
+        "race_jikkyo_message_dict": {
+            "description": "比赛实况信息字典文件路径",
+            "type": "string"
+        },
+        "autoUpdate": {
+            "description": "自动更新",
+            "type": "object",
+            "properties": {
+                "source": {
+                    "description": "自动更新的仓库源",
+                    "type": "string"
+                },
+                "path": {
+                    "description": "自动更新的抓取地址",
+                    "type": "string"
+                }
+            },
+            "additionalProperties": false
+        },
+        "enableBuiltinAutoUpdate": {
+            "description": "启用内置自动更新 (可能有BUG)",
+            "type": "boolean"
+        },
+        "resolution_start": {
+            "description": "设置启动时的分辨率",
+            "type": "array",
+            "items": {
+                "type": "integer",
+                "minimum": -1
+            },
+            "minItems": 2,
+            "maxItems": 2
+        },
+        "dicts": {
+            "description": "将会读取的字典列表` (相对/绝对路径)，可删除相应字典提取命令。例如删除\"localized_data/Umaname.json\",即可在游戏内显示角色名日文，不影响其他翻译",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "replaceHomeStandChar": {
+            "description": "替换主页角色",
+            "type": "object",
+            "properties": {
+                "enable": {
+                    "description": "启用主页角色替换",
+                    "type": "boolean"
+                },
+                "data": {
+                    "description": "主页角色替换设置",
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "origCharId": {
+                                "description": "原角色ID, 例: 1046",
+                                "type": "integer"
+                            },
+                            "newChrId": {
+                                "description": "新角色ID, 例: 1046",
+                                "type": "integer"
+                            },
+                            "newClothId": {
+                                "description": "新角色服装ID, 例: 104601",
+                                "type": "integer"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "replaceGlobalChar": {
+            "description": "全局角色替换",
+            "type": "object",
+            "properties": {
+                "enable": {
+                    "description": "启用全局角色替换",
+                    "type": "boolean"
+                },
+                "replaceUniversal": {
+                    "description": "将通用服装也替换为指定服装",
+                    "type": "boolean",
+                    "default": true
+                },
+                "data": {
+                    "description": "全局角色替换设置",
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "origCharId": {
+                                "description": "原角色ID, 例: 1046",
+                                "type": "integer"
+                            },
+                            "newChrId": {
+                                "description": "新角色ID, 例: 1046",
+                                "type": "integer"
+                            },
+                            "newClothId": {
+                                "description": "新角色服装ID, 例: 104601",
+                                "type": "integer"
+                            },
+                            "replaceMini": {
+                                "description": "替换迷你角色",
+                                "type": "boolean",
+                                "default": false
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "loadDll": {
+            "description": "加载其它DLL插件",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "customPath": {
+            "description": "自定义路径",
+            "type": "object",
+            "properties": {
+                "enableCustomPersistentDataPath": {
+                    "description": "启用自定义数据路径",
+                    "type": "boolean",
+                    "default": false
+                },
+                "customPersistentDataPath": {
+                    "description": "自定义数据路径\n（游戏默认位置为 C:/Users/{用户名}/AppData/LocalLow/Cygames/umamusume）",
+                    "type": "string"
+                }
+            }
+        },
+        "uploadGachaHistory": {
+            "description": "上传您的抽卡记录\n点击\"抽奖记录\"按钮上传\n您可以前往 uma.gacha.chinosk6.cn 查看抽卡记录",
+            "type": "boolean",
+            "default": false
+        },
+        "enableEventHelper": {
+            "description": "启用事件簿",
+            "type": "boolean",
+            "default": false
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "enableConsole",
+        "enableLogger",
+        "dumpStaticEntries",
+        "maxFps",
+        "unlockSize",
+        "uiScale",
+        "extraAssetBundlePaths",
+        "replaceFont",
+        "customFontPath",
+        "customFontSizeOffset",
+        "customFontStyle",
+        "customFontLinespacing",
+        "replaceAssets",
+        "assetLoadLog",
+        "autoFullscreen",
+        "autoChangeLineBreakMode",
+        "resolution_start",
+        "aspect_ratio_new",
+        "dicts",
+        "static_dict"
+    ]
+}

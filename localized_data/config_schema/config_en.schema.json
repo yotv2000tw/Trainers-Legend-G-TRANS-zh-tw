@@ -1,0 +1,497 @@
+{
+    "title": "Trainers-Legend-G Config",
+    "description": "Umamusume Localify Config",
+    "type": "object",
+    "properties": {
+        "enableConsole": {
+            "description": "Show the cmd console",
+            "type": "boolean"
+        },
+        "enableLogger": {
+            "description": "Dump the untranslated text to `dump.txt`",
+            "type": "boolean"
+        },
+        "dumpStaticEntries": {
+            "description": "Dump the untranslated hardcored text to `dump.txt`, require enabling 'enableLogger'",
+            "type": "boolean"
+        },
+        "maxFps": {
+            "description": "Fps setting (-1 = Default fps|0 = Infinity|>0 = Limit game to specific fps)",
+            "type": "integer",
+            "minimum": -1
+        },
+        "better60FPS": {
+            "description": "60 Fps optimization",
+            "type": "boolean",
+            "default": false
+        },
+        "highQuality": {
+            "description": "High quality mode (FullQuality, MSAA x8)",
+            "type": "boolean"
+        },
+        "virtual_resolution_multiple": {
+            "description": "3D rendering resolution multiple. 1.0 is the original version.\n Can greatly reduce the problem of aliasing at 1080P resolution.\n May cause the background of some 2D images to be too small.\n Recommended values: below 4k: 2.0; 4k and above: 1.5.",
+            "type": "number",
+            "default": 1.0
+        },
+        "enableVSync": {
+            "description": "Enable vertical synchronization",
+            "type": "boolean"
+        },
+        "unlockSize": {
+            "description": "Allow to use the resolution higher than `1080p`",
+            "type": "boolean"
+        },
+        "aspect_ratio_new": {
+            "description": "Set UI aspect ratio. Default 16:9\nIf the value is set to - 1, the game UI scale will adapt to your screen scale\nIf the UI display is incomplete, you can set \"Customize UI scale\" below\nNeed restart the game after modification.",
+            "type": "object",
+            "properties": {
+                "w": {
+                    "description": "The longer side",
+                    "type": "number",
+                    "default": 16.0
+                },
+                "h": {
+                    "description": "The shorter side",
+                    "type": "number",
+                    "default": 9.0
+                },
+                "forceLandscape": {
+                    "description": "Force landscape",
+                    "type": "boolean",
+                    "default": false
+                }
+            }
+        },
+        "uiScale": {
+            "description": "Customize the scale of ui",
+            "type": "number"
+        },
+        "autoFullscreen": {
+            "description": "Full screen the game automaticlly",
+            "type": "boolean"
+        },
+        "fullscreenBlockMinimization": {
+            "description": "Block window minimization while fullscreen",
+            "type": "boolean",
+            "default": true
+        },
+        "readRequestPack": {
+            "description": "Read the msgpack sent by game, you can reboot the game quicker by typing 'reboot' in the console if you enable it.",
+            "type": "boolean"
+        },
+        "extraAssetBundlePaths": {
+            "description": "The location of asset bundle that is used to replace the original asset file of the game (Do not change it if you don't understand what it is)",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "replaceFont": {
+            "description": "Use system default font to show the Chinese characters that is not contained in the orignal game font",
+            "type": "boolean"
+        },
+        "customFontPath": {
+            "description": "the font's asset bundle location (in extraAssetBundlePath)",
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "customFontSizeOffset": {
+            "description": "Size of font",
+            "type": "integer"
+        },
+        "customFontStyle": {
+            "description": "*Style of font (if exist), 0-Normal, 1-Bold, 2-Italic, 3-Bold italic",
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 3
+        },
+        "customFontLinespacing": {
+            "description": "Text line spacing, Default 1.0",
+            "type": "number"
+        },
+        "replaceAssets": {
+            "description": "Replacing the game picture/texture with resource in extraAssetBundlePath if exist",
+            "type": "boolean"
+        },
+        "dumpSpriteTexture": {
+            "description": "Dump Sprite Texture",
+            "type": "boolean",
+            "default": false
+        },
+        "dumpRuntimeTexture": {
+            "description": "Dump Runtime Texture",
+            "type": "boolean",
+            "default": false
+        },
+        "assetLoadLog": {
+            "description": "Print the asset bundle path of game resource that the game is using",
+            "type": "boolean"
+        },
+        "live": {
+            "description": "Set Live",
+            "type": "object",
+            "properties": {
+                "free_camera": {
+                    "description": "Enable free camera",
+                    "type": "boolean"
+                },
+                "mouseSpeed": {
+                    "description": "Mouse speed",
+                    "type": "number",
+                    "default": 100.0
+                },
+                "force_changeVisibility_false": {
+                    "description": "Force disable character visibility changing",
+                    "type": "boolean"
+                },
+                "moveStep": {
+                    "description": "Camera move step",
+                    "type": "number"
+                },
+                "enableLiveDofController": {
+                    "description": "Enable Live control pannel (click LIVE setting button)",
+                    "type": "boolean",
+                    "default": false
+                },
+                "close_all_blur": {
+                    "description": "Disable all blur",
+                    "type": "boolean"
+                },
+                "setLiveFovAsGlobal": {
+                    "description": "Set live FOV to global",
+                    "type": "boolean",
+                    "default": false
+                },
+                "followUmaSmoothCamera": {
+                    "description": "Smooth move camera in follow umamusume mode",
+                    "type": "object",
+                    "properties": {
+                        "enable": {
+                            "description": "Enable",
+                            "type": "boolean",
+                            "default": false
+                        },
+                        "lookatStep": {
+                            "description": "LookAt step",
+                            "type": "number",
+                            "default": 0.01
+                        },
+                        "positionStep": {
+                            "description": "Position step",
+                            "type": "number",
+                            "default": 0.001
+                        }
+                    }
+                }
+            },
+            "additionalProperties": false
+        },
+        "homeSettings": {
+            "description": "Home Settings",
+            "type": "object",
+            "properties": {
+              "free_camera": {
+                  "description": "Enable home free camera",
+                  "type": "boolean",
+                  "default": false
+              },
+              "homeWalkMotionCharaId": {
+                "description": "Home walk motion character id\n(4-digit chara id, fill in -1 to not set)",
+                "type": "integer",
+                "default": -1
+              }
+            }  
+        },
+        "raceInfoTab": {
+            "description": "Race real time info tab",
+            "type": "object",
+            "properties": {
+              "enableRaceInfoTab": {
+                  "description": "Enable race real time info tab",
+                  "type": "boolean",
+                  "default": false
+              },
+              "raceInfoTabAttachToGame": {
+                "description": "Attach window to game",
+                "type": "boolean",
+                "default": false
+              }
+            }  
+        },
+        "race_camera": {
+            "description": "Race Camera Settings",
+            "type": "object",
+            "properties": {
+                "free_camera": {
+                    "description": "Enable free camera",
+                    "type": "boolean"
+                },
+                "moveStep": {
+                    "description": "Camera move step",
+                    "type": "number"
+                },
+                "defaultFOV": {
+                    "description": "Default FOV",
+                    "type": "number"
+                },
+                "freecam_lookat_target": {
+                    "description": "Look at Umamusume",
+                    "type": "boolean"
+                },
+                "freecam_follow_target": {
+                    "description": "Move after Umamusume",
+                    "type": "boolean"
+                },
+                "follow_offset": {
+                    "description": "Move offset",
+                    "type": "object",
+                    "properties": {
+                        "distance": {
+                            "description": "Distance from Umamusume",
+                            "type": "number"
+                        },
+                        "x": {
+                            "description": "X offset",
+                            "type": "number"
+                        },
+                        "y": {
+                            "description": "Y offset",
+                            "type": "number"
+                        },
+                        "z": {
+                            "description": "Z offset",
+                            "type": "number"
+                        }
+                    }
+                }
+            },
+            "additionalProperties": false
+        },
+        "cutin_first_person": {
+            "description": "CutIn first person (perss F to switch).",
+            "type": "boolean",
+            "default": false
+        },
+        "externalPlugin": {
+            "description": "Set external plugin.",
+            "type": "object",
+            "properties": {
+                "hotkey": {
+                    "description": "Hotkey. Press ctrl + `the key you set` to open it",
+                    "type": "string"
+                },
+                "path": {
+                    "description": "plugin path",
+                    "type": "string"
+                },
+                "openExternalPluginOnLoad": {
+                    "description": "Open external plugin on load.",
+                    "type": "boolean"
+                }
+            },
+            "additionalProperties": false
+        },
+        "httpServerPort": {
+            "description": "HTTP Server Port",
+            "type": "integer"
+        },
+        "autoChangeLineBreakMode": {
+            "description": "Automatically toggle \"Ignore line break\" mode based on whether the game is 16:9 or 9:16",
+            "type": "boolean"
+        },
+        "static_dict": {
+            "description": "The path of translated static text",
+            "type": "string"
+        },
+        "no_static_dict_cache": {
+            "description": "Disable cache using of static dict",
+            "type": "boolean"
+        },
+        "stories_path": {
+            "description": "The path of translated story text",
+            "type": "string"
+        },
+        "text_data_dict": {
+            "description": "The path of translated text data",
+            "type": "string"
+        },
+        "character_system_text_dict": {
+            "description": "The path of translated character system text",
+            "type": "string"
+        },
+        "race_jikkyo_comment_dict": {
+            "description": "The path of translated race jikkyo comment",
+            "type": "string"
+        },
+        "race_jikkyo_message_dict": {
+            "description": "The path of translated race jikkyo message",
+            "type": "string"
+        },
+        "autoUpdate": {
+            "description": "auto update",
+            "type": "object",
+            "properties": {
+                "source": {
+                    "description": "source (github)",
+                    "type": "string"
+                },
+                "path": {
+                    "description": "auto updating url",
+                    "type": "string"
+                }
+            },
+            "additionalProperties": false
+        },
+        "enableBuiltinAutoUpdate": {
+            "description": "enable built-in auto update (possibly bugs)",
+            "type": "boolean"
+        },
+        "resolution_start": {
+            "description": "set the game windows size when booting the game (Use [-1, -1] if you don't need it)",
+            "type": "array",
+            "items": {
+                "type": "integer",
+                "minimum": -1
+            },
+            "minItems": 2,
+            "maxItems": 2
+        },
+        "dicts": {
+            "description": "The translation files' path (Absolute/Relative path)",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "replaceHomeStandChar": {
+            "description": "Replace Home Character",
+            "type": "object",
+            "properties": {
+                "enable": {
+                    "description": "Enable home character replace",
+                    "type": "boolean"
+                },
+                "data": {
+                    "description": "Home character replace settings",
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "origCharId": {
+                                "description": "Original charID, eg.1046",
+                                "type": "integer"
+                            },
+                            "newChrId": {
+                                "description": "New charID, eg.1046",
+                                "type": "integer"
+                            },
+                            "newClothId": {
+                                "description": "New clothId, eg.104601",
+                                "type": "integer"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "replaceGlobalChar": {
+            "description": "Replace Global Character\n(Race and training parts cannot be replaced)",
+            "type": "object",
+            "properties": {
+                "enable": {
+                    "description": "Enable global character replace",
+                    "type": "boolean"
+                },
+                "replaceUniversal": {
+                    "description": "Replace universal dress",
+                    "type": "boolean",
+                    "default": true
+                },
+                "data": {
+                    "description": "Global character replace settings",
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "origCharId": {
+                                "description": "Original charID, eg.1046",
+                                "type": "integer"
+                            },
+                            "newChrId": {
+                                "description": "New charID, eg.1046",
+                                "type": "integer"
+                            },
+                            "newClothId": {
+                                "description": "New clothId, eg.104601",
+                                "type": "integer"
+                            },
+                            "replaceMini": {
+                                "description": "Replace Mini Character",
+                                "type": "boolean",
+                                "default": false
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "loadDll": {
+            "description": "Load other oll plugins",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "customPath": {
+            "description": "Custom path",
+            "type": "object",
+            "properties": {
+                "enableCustomPersistentDataPath": {
+                    "description": "Enable custom persistent data path.",
+                    "type": "boolean",
+                    "default": false
+                },
+                "customPersistentDataPath": {
+                    "description": "Custom persistent data path.\n(Game default path is C:/Users/{userName}/AppData/LocalLow/Cygames/umamusume)",
+                    "type": "string"
+                }
+            }
+        },
+        "uploadGachaHistory": {
+            "description": "Upload your gacha history\nClick on the \"Gacha history\" button to upload\nYou can go to uma.gacha.chinosk6.cn to view the gacha history",
+            "type": "boolean",
+            "default": false
+        },
+        "enableEventHelper": {
+            "description": "Enable Events Helper",
+            "type": "boolean",
+            "default": false
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "enableConsole",
+        "enableLogger",
+        "dumpStaticEntries",
+        "maxFps",
+        "unlockSize",
+        "uiScale",
+        "extraAssetBundlePaths",
+        "replaceFont",
+        "customFontPath",
+        "customFontSizeOffset",
+        "customFontStyle",
+        "customFontLinespacing",
+        "replaceAssets",
+        "assetLoadLog",
+        "autoFullscreen",
+        "autoChangeLineBreakMode",
+        "resolution_start",
+        "aspect_ratio_new",
+        "dicts",
+        "static_dict"
+    ]
+}
