@@ -1,0 +1,236 @@
+{
+  "Title": "研鑽",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "この日、トレセン学園の体育館は熱狂に包まれていた。\nなぜなら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "逸らずに、スローだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チームメイトのウマ娘",
+      "Text": "はいっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今日は授業の一環で球技大会が催されており、\nバスケットボール部門にはドゥラメンテが出場しているのだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ベテラントレーナー",
+      "Text": "さすがだな、ドゥラメンテは。\nあの一族の結晶だけあって、球技の才能まで抜きん出ている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナー",
+      "Text": "ポジションはポイントガード？\u3000にもかかわらずあの得点率……\nもはやドゥラメンテの独擅場だわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "敵チームのウマ娘",
+      "Text": "くっ……やられてばっかりじゃいられな――あっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客のウマ娘",
+      "Text": "うわ、すっごい立ち回り……！\u3000これもう勝ち確でしょ！\nどこまで点差開いちゃうんだろ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "…………ふぅ。\n――よし。上がれ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "観る人を魅了するほど、大活躍のドゥラメンテ。\nだがその表情は、自分には強張っているように見える。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "敵チームのウマ娘",
+      "Text": "パス出させるな！\nここで止めろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "……っ！！",
+      "ChoiceDataList": [
+        "（やばい、パスを出せる子がいない……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナー",
+      "Text": "！\u3000まさかあの距離から打つの……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "――……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（――ガンッ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "敵チームのウマ娘",
+      "Text": "――っ、リバウンドー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客のウマ娘",
+      "Text": "あれっ、外した……？\nま、まあまだリードしてるもんねっ、がんばれー！",
+      "ChoiceDataList": [
+        "（大丈夫かな……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "……っ、すまない！\n下がれ！\u3000取り返すぞっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客のウマ娘",
+      "Text": "勝ったー！\u3000さっすがドゥラメンテさん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ベテラントレーナー",
+      "Text": "危なげなく、といったところだな。個人スコアはどのくらいか……\nいやはや、いいものを見させてもらった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "ふぅーー…………。",
+      "ChoiceDataList": [
+        "お疲れ様、ドゥラ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "……！\nトレーナー。観ていたのか……。",
+      "ChoiceDataList": [
+        "……大丈夫だったか？",
+        "……大丈夫だった？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ギャラリーの声は届いていたはずだ。そしてそれ以上に、\n無数に注がれる期待が重くのしかかっていたはず。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "……やはり、どうしても緊張してしまう。\nそのせいで情けないミスもした。",
+      "ChoiceDataList": [
+        "みんなそんなものだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "――そう、だな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "あー、いたいた！\u3000探しましたよ、ドゥラメンテさん！",
+      "ChoiceDataList": [
+        "この方は……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "密着取材の記者の方だ。\nこの後、インタビューを受ける。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "家を通してオファーされたものだから、君は気にしなくていい。\n――では。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "先ほどの試合でも縦横無尽のご活躍で！\nただ、惜しい場面もいくつかありましたね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "――心の弱さが招いた結果です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "この経験を活かし、一層精神を鍛えます。\nどのような状況でも、泰然とあるために。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "――“最強”を示すために。",
+      "ChoiceDataList": [
+        "（……立派だなあ）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "弱さを隠さず、そのうえでストイックに努力を続ける向上心。\nプレッシャーの中で懸命に背筋を伸ばす姿勢――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "心身ともに、ますます強くなっていくと！\nいやはや、これからのご活躍に期待が膨らみますねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうして気を張りつめ続ける彼女を、\nもっとあらゆる場面で支えたい……そう改めて思った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

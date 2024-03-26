@@ -1,0 +1,232 @@
+{
+  "Title": "不壊なる誓い",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "イクノディクタスと最後に会話をしてから、\nひとつの季節を挟み――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自分はその日、ある場所へと向かうべく、桜並木を歩いていた――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "――さぁ、各ウマ娘きれいなスタート！\n芝1000m短期決戦の火蓋が切られた！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "熾烈な位置取り争いが繰り広げられている！\nこれは混戦必至だ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……思わず両手に力が入る。心臓の鼓動が早くなるのを感じる。\nそうして、“あの時”のやりとりが甦ってくる――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "ですが――――お断りさせてください。",
+      "ChoiceDataList": [
+        "…………そうか",
+        "…………そっか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……非常に残念ではあった。だが、致し方ない。\nイクノディクタスの意志を尊重して――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "――今の私では、相応しくない。\n……どうか私に、3か月の時間をください。",
+      "ChoiceDataList": [
+        "……え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "これまでの模擬レースで、ようやく見えてきたのです。\nまだ未熟な私がとれる、最も確度の高い勝ち筋が。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "3か月後の選抜レースで、それを実証してみせます。\nなのでまずは……そのレースを見て、ご判断いただけますか？",
+      "ChoiceDataList": [
+        "えっと、それは……つまり……――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "――フェアではないと思ったのです。私は貴方にまだ、\nレースでのちゃんとした実力を示すことができていません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "貴方が私の目標を応援したいと言ってくれたからこそ……\n私が勝てるウマ娘であることを見せて、応えたいのです。",
+      "ChoiceDataList": [
+        "……！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "……いかがでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その答えは、決まりきっていた――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "600mを通過！\u3000依然集団のまま！\u3000誰が抜け出す！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "（――――私は決して、強いウマ娘ではない）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "（このトレセン学園には、圧倒的な素質を誇る\n素晴らしきウマ娘たちが数多くいる）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "（そんな彼女たちの走る舞台で、私が戦うには……\n己の強みを極限まで活かし、その一点で貫くより他ない）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノの恩師",
+      "Text": "『――イクノ君にはやはり、\nマネジメントにおける素晴らしい素質があるね』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "『素質、ですか？\u3000それはいったい、どんな――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノの恩師",
+      "Text": "『鉄の如き強く固い“意志”さ。やると決めたら必ずやるという、\n強靭な心が君にはある。それはマネジメントにおける最大の力だ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノの恩師",
+      "Text": "『君がいつか真に果たしたい目標を見つけたら、その“意志”で\n一歩ずつ着実に目指すといい。きっと、どんな目標も果たせるよ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "（――私は今日、この選抜レースで勝つために、\n多くの模擬レースを走り、自分が今できる最強の走りを掴んだ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "（鉄は叩けば叩くほど強くなる。\n今こそ示してみせる、私の強みを――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "――ハァァァァァァァァァッ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "イクノディクタスがここで飛び出した！\n前に躍り出る！！\u3000凄まじいスピードだ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "――ゴールインッ！！\u30001着は2番、イクノディクタス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ベテラントレーナー",
+      "Text": "――素晴らしいスピードだったよ、イクノディクタス！\nその走りで一緒に、GⅠウマ娘を目指してみないか！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナー",
+      "Text": "見事なレース運びでした。よければ私のもとで、\n上を目指していきませんか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "……私は……――",
+      "ChoiceDataList": [
+        "――君を誰よりも長く走らせたい！",
+        "――貴方を誰よりも長く走らせたい！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "――――",
+      "ChoiceDataList": [
+        "そして誰よりも多く勝たせたい！だから――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "イクノディクタスのもとに歩み寄る。\nそして、彼女に負けないぐらい強い意志を込めて、言葉にする。",
+      "ChoiceDataList": [
+        "君のトレーナーを、俺にやらせてくれ",
+        "貴方のトレーナーを、私にやらせてほしい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イクノディクタス",
+      "Text": "…………ええ、こちらこそ。\nよろしくお願いします。トレーナーさん――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうしてイクノディクタスと交わした握手は、\n何よりも固い誓いとなったのだった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

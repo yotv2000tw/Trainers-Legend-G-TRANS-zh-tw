@@ -1,0 +1,358 @@
+{
+  "Title": "静穏",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ショッピングモールに買い物に来たところ、\n何やら人だかりができているのを見かけた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "イベントスペースを覗いてみると、有名なスポーツブランドの\n新作発表会と書いてある。さらにスペシャルゲストとして――",
+      "ChoiceDataList": [
+        "えっ、ドゥラメンテ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "――ん。\n……なぜ、ここに君が。",
+      "ChoiceDataList": [
+        "買い物してて……君は、これに出るのか？",
+        "買い物してて……貴方は、これに出るの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "ああ。我が家が長らく愛用しているブランドだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "広告出演、商品開発の監修なども行っている。\n今回の新作もそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イベントスタッフ",
+      "Text": "ドゥラメンテさん！\u3000ご準備よろしいでしょうか～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イベントスタッフ",
+      "Text": "ああ、さすがドゥラメンテさんです、\n新作のスニーカーもよくお似合いで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イベントスタッフ",
+      "Text": "本日のトークも期待していますよ！\u3000名門一家の様々なこだわりや\nスポーツ理論などについても、いろいろお聞きしたいですし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "……ええ。本日はよろしくお願いします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "期待に満ちた表情のスタッフにそつなく受け答える彼女……\nだが、少々表情が硬く、緊張しているように見えた。",
+      "ChoiceDataList": [
+        "せっかくだし、見ていかせてもらおうかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "……好きにするといい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "司会者",
+      "Text": "今回のハイテクスニーカーには、ドゥラメンテさんご一家に\n開発から携わっていただきました。こだわりを伺っても？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "脚への負担軽減に注力しました。\n緻密な設計の考案には、特に時間をかけました。",
+      "ChoiceDataList": [
+        "（少し硬いけど……さすがの受け答えだな）",
+        "（少し硬いけど……さすがの受け答えだね）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "司会者",
+      "Text": "レース界で活躍されているドゥラメンテさんにとって、\nやはり日常生活における脚への負担は重要な課題ですよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "司会者",
+      "Text": "このスニーカーを普段から着用し、脚を気遣うことで、\nレースでのパフォーマンスも違ってくるということでしょうか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "……ええ。\n――……。",
+      "ChoiceDataList": [
+        "……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "走る者の脚に最大限に寄り添ったスニーカーです。\nその商品性能は――私が、レースで証明します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "司会者",
+      "Text": "おお～！！\u3000これは楽しみですね！\nドゥラメンテさんのレースも、その結果に伴っての売れ行きも！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "イベントスタッフ",
+      "Text": "本日はありがとうございました！",
+      "ChoiceDataList": [
+        "ドゥラ、お疲れ様！この後はもう帰る？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "――いや、ジムに行く。\n新しく導入されたマシンを試さなくては。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "あまりのハードスケジュールぶりに驚いたが……新しいマシンには\n興味を惹かれる。せっかくなので、同行させてもらうことにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "あれだ。ハックスクワットマシン。\n使用感や効果を見極めようと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "利用客のウマ娘A",
+      "Text": "わっ、あれドゥラメンテじゃない……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "利用客のウマ娘B",
+      "Text": "ここ利用してるってウワサ本当だったんだ……。\nやっぱり今日は新しいマシンが目当てかな？",
+      "ChoiceDataList": [
+        "やっぱり注目されちゃうな",
+        "やっぱり注目されちゃうね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "……慣れている。\n準備運動をしたら、すぐにあれを試してくる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ドゥラメンテの様子が気になり、なんとなくそのまま\n準備運動を見守っていると……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "利用客の男性",
+      "Text": "ドゥラメンテ、どんなパフォーマンスを見せるんだ……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ドゥラメンテの手がどんどん白くなって、\n血の気が引いているように見える。これは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "（……っ、ダメだ、かえって体が硬くなって――）",
+      "ChoiceDataList": [
+        "いったんストレッチからやり直さないか？",
+        "いったんストレッチからやり直さない？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こう注目を集めて、無邪気な期待を浴びせられ続ければ、\n緊張するのも無理はない。",
+      "ChoiceDataList": [
+        "周りが気になるならイヤホンとかもあるし"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "……ああ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "ふっ……！\u3000ふっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "利用客の男性",
+      "Text": "すっげ、あれ重量ヤバくねぇ……！？\nどこまで上げちまうんだ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "利用客のウマ娘A",
+      "Text": "ねえ、見てこ見てこ！\n普通のウマ娘とレベチなとこ、見てみたいー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "――……っ。",
+      "ChoiceDataList": [
+        "ストップ、インターバルを挟もう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "――っは。\nふぅーー…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "――……。",
+      "ChoiceDataList": [
+        "――3分。インターバル終了だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "――……止まった。",
+      "ChoiceDataList": [
+        "止まった……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "……いや、こちらの話だ。\nもう1セットいこう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "ふぅーー…………はっ！\u3000ふっ！",
+      "ChoiceDataList": [
+        "いい感じだよ！呼吸整えてな！",
+        "いい感じだよ！呼吸整えてね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "はぁっ――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "利用客のウマ娘A",
+      "Text": "――うわ、まだ続けるの！？\nパワーもスタミナも桁違いだよ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "利用客のウマ娘B",
+      "Text": "やっぱりドゥラメンテってすごい……！",
+      "ChoiceDataList": [
+        "負荷はどう？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "……ああ、適度にかかっているし、使用感もいい。\n導入を検討する。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "――……なぜ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "……結局最後まで付き合わせたな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ドゥラメンテの休日の様子を知ることができたし、\n有意義だった、と伝える。ジムでは明確な収穫もあった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "明日はまたトレーニングだ。\n引き続き彼女をサポートしていけるよう、気合いをいれなくては。",
+      "ChoiceDataList": [
+        "それじゃ、また明日！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "ああ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "――……。\n…………温かい、な……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドゥラメンテ",
+      "Text": "…………不思議な人だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
