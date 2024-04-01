@@ -1,0 +1,519 @@
+{
+  "Title": "第1話※タイトル記載",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "──嘿咻。這下東西就搬完了吧。",
+      "ChoiceDataList": [
+        "聖王，能幫我做最後確認嗎？",
+        "聖王，能幫我做最後確認嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "──嘿咻。這下東西就搬完了吧",
+      "ChoiceDataList": [
+        "聖王，能幫我做最後確認嗎？",
+        "聖王，能幫我做最後確認嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "我知道了。……那麼，〈天府星〉隊！\n全員都到齊了嗎？要做行前最後確認囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "呆毛的馬娘",
+      "Text": "好～隊員一號，在這裡～。\n我自己的行李已經裝好了～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "單馬尾的馬娘",
+      "Text": "我也完成了！\n啊，我帶了很多點心來，大家一起在車內吃吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "ちょっと、やたら荷物がかさばってると思ったら……もうっ。\n……で、新入り2人は？\u3000大丈夫かしら？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーザリオ",
+      "Text": "はい。シーザリオ、問題ありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラインクラフト",
+      "Text": "ラインクラフトもです！\n忘れものも……えっと、多分、ないと思います！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "た、多分なのか？\nなにかあったら遠慮せず、すぐに言ってくれよな……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "た、多分なの？\nなにかあったら遠慮せず、すぐに言ってね……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "そうね。なんといっても――クラフトさん。\n今回は、あなたのための遠征なんだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "さて、じゃあそろそろ出発だな！\nみんな、車に乗ってくれ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "さて、じゃあそろそろ出発だね！\nみんな、車に乗って！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "ラインクラフトの『阪神JF』に向けて、出発だ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "ラインクラフトの『阪神JF』に向けて、出発だよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "チームメンバー",
+      "Text": "おー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラインクラフト",
+      "Text": "よろしくお願いします！\n初GⅠ……みなさんの応援にも、きっと応えてみせますから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "で、肝心のあなたは大丈夫なわけ？\u3000昨日はしっかり寝たの？\nちょっとクマがあるように見えるのは私の気のせいかしら。",
+      "ChoiceDataList": [
+        "だ、大丈夫！バッチリ寝たぞ！",
+        "だ、大丈夫！バッチリ寝たよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "……緊張でなかなか寝つけなかったってところね。\nもう、相変わらずへっぽこなんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "ともかく、阪神レース場近くの宿まで、休憩込み8時間！\nしっかり運転しきってちょうだいよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "うとうとなんかする前に、\n横から太ももつねってあげるんだから。",
+      "ChoiceDataList": [
+        "はは……お手やわらかに……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "あ。そろそろ右車線行ったほうがいいみたいよ？",
+      "ChoiceDataList": [
+        "っと！ありがとな、キング",
+        "っと！ありがとね、キング"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "はいはい、ぼさっとしないの。……にしても、あっという間に\n全員ぐっすりだなんて……みんなも寝つけなかったのかしら。",
+      "ChoiceDataList": [
+        "キングも寝てていいんだぞ？",
+        "キングも寝てていいんだよ？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "起きてあなたを見張ってるわよ、おばかね。\nこんなにたくさん積んでるんだから、責任重大よ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "……本当、たくさん増えたわね、メンバー。\nこのバンいっぱいになる日が来るだなんて、あなた想像してた？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "してなかったかもな。……父さんがチームの担当トレーナー\nだった頃は、この車じゃちっとも足りないくらいだったけど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "してなかったかもね。……父さんがチームの担当トレーナー\nだった頃は、この車じゃちっとも足りないくらいだったけど――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "父親",
+      "Text": "<username>。これからはお前に、チーム＜アスケラ＞の\n担当トレーナーを引き継ぐ。……いいな？\u3000しっかりやれよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "俺がチームを引き継いでからは、ずいぶん減ってしまって。\nそういえば、キングと2人だけだった頃もあったなぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "私がチームを引き継いでからは、ずいぶん減ってしまって。\nそういえば、キングと2人だけだった頃もあったなぁ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "あったわね、そういえば。……少し懐かしいくらいだわ。\n今となってはこんなに増えて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "そのうえ、GⅠレースにも出られるような大型新人が2人も入って。\n……なかなかのチームになってきたんじゃない？",
+      "ChoiceDataList": [
+        "だな……！",
+        "だね……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "俺たちのチーム＜アスケラ＞に新たな風を吹き込んでくれた、\nラインクラフトとシーザリオ。2人との出会いは、鮮烈だった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "私たちのチーム＜アスケラ＞に新たな風を吹き込んでくれた、\nラインクラフトとシーザリオ。2人との出会いは、鮮烈だった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "さあ、各ウマ娘、続々とゲートイン。どのウマ娘も見事実力を\n知らしめ、トレーナー陣からのスカウトを獲得せんと燃えています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "態勢完了。選抜レース――スタートです！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラインクラフト",
+      "Text": "やあっ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "さあ、素早く好位置につきました、ラインクラフト！\nこれは抜群の出足だ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人トレーナーA",
+      "Text": "うおおっ、さすが！\u3000レース序盤から見せつけてくれるな～……！\nラインクラフト、前評判通り、かなりの先行力を持った子ですね！",
+      "ChoiceDataList": [
+        "確かに……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（スタート直後からすぐに、あそこまでの立ち上がりを\n見せるなんて……天性のスピードの持ち主だ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（スタート直後からすぐに、あそこまでの立ち上がりを\n見せるなんて……天性のスピードの持ち主！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（出遅れずに飛び出すための集中力、位置取りを誤らないための\n判断力……まさに、目を見張るような素質の高さ……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラインクラフト",
+      "Text": "はっ、はっ、はっ……！\nまだまだいける……このまま……！！",
+      "ChoiceDataList": [
+        "ラインクラフト……すごいウマ娘だ……！",
+        "ラインクラフト……すごいウマ娘……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人トレーナーA",
+      "Text": "よしよし、ペース配分もいい感じだ！\nこりゃ、このままラインクラフトが勝っちゃいますかね！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅トレーナーA",
+      "Text": "……いえ、そうはいかないはずよ。\nだってほら、終盤になると――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーザリオ",
+      "Text": "――ふっ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "さあ残り400m、ここでシーザリオ！\u3000シーザリオがスパート！！\n後方からバ群を割って一気に抜け出してきたっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "恐るべき、恐るべき速さです！\u3000他ウマ娘を悠々と抜き去り！\nシーザリオ、一気の末脚で、先頭のラインクラフトに迫る！！",
+      "ChoiceDataList": [
+        "なんて末脚のキレなんだ……！",
+        "なんて末脚のキレ……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（しっかり脚を溜めてたんだろうけど、それにしてもあの鋭さ！\n群を抜いてるどころじゃない……モノが違いすぎる！！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーザリオ",
+      "Text": "ハァアアアアアアッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラインクラフト",
+      "Text": "っ！\u3000来るよね、やっぱり……！\nでも！\u3000っやぁあああああー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（追いついた……！\u3000このままシーザリオがまくるのか！？\nいや、でもラインクラフトだって全然譲る気配がないぞ！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（追いついた……！\u3000このままシーザリオがまくるの！？\nいや、でもラインクラフトだって全然譲る気配がない！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（他の子たちは全然追いつけてない！\nあの2人の……一騎打ち……！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "クラフト＆シーザリオ",
+      "Text": "ァアアアアアアアッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "……っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どっと上がる歓声。同着のアナウンス。すべてが遠くに聞こえる。\nそれほど――ラインクラフトに、シーザリオに、夢中だった！",
+      "ChoiceDataList": [
+        "すごい……あの子たち、すごいぞ……！！",
+        "すごい……あの子たち、すごいよ……！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（もちろん、どのチームも彼女たちをスカウトしたがっていた。\nそれこそ、俺と同期の『天才』トレーナーのチームでさえも）",
+      "ChoiceDataList": [
+        "（なのに、2人は――）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（もちろん、どのチームも彼女たちをスカウトしたがっていた。\nそれこそ、私と同期の『天才』トレーナーのチームでさえも）",
+      "ChoiceDataList": [
+        "（なのに、2人は――）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラインクラフト",
+      "Text": "初めまして、トレーナーさん！\nわたし、ラインクラフトです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーザリオ",
+      "Text": "シーザリオ、と申します。\n選抜レース、お越しいただきありがとうございました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラインクラフト",
+      "Text": "あのっ、わたしたち、一生懸命頑張りますから！\nだから――チーム＜アスケラ＞に、加わりたいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーザリオ",
+      "Text": "私たちの、担当トレーナーになっていただけませんか。\n……よろしくお願いいたします。",
+      "ChoiceDataList": [
+        "……えっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "――まさか2人のほうから来てくれるだなんて、あの時は驚いたな。\nなんでうちを選んでくれたのか、いまだに不思議なくらいだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "それでも来てくれたからには……勝たせてやりたい。すごい才能の\n子たちだからこそ、なおさら、俺のほうは気合い入れなきゃな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "それでも来てくれたからには……勝たせてあげたい。すごい才能の\r\n子たちだからこそ、なおさら、私のほうは気合い入れなきゃ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "そうね。……で、気合い入れて頑張った結果、どうなの？\nクラフトさんの『阪神JF』。勝算はありそう？",
+      "ChoiceDataList": [
+        "ああ。充分、勝利を狙えると思ってるよ",
+        "うん。充分、勝利を狙えると思ってるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "デビュー戦に、先月の重賞もしっかり勝てたし、内容だって\n現時点なら完璧といっていいものだった。準備は、万全だと思う。",
+      "ChoiceDataList": [
+        "後は初GⅠ、緊張しすぎないといいが――",
+        "後は初GⅠ、緊張しすぎないといいけど――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "それは大丈夫じゃない？\u3000車内でぐっすり寝てるぐらいだし。\n案外どっしり構えてるっていうか……大一番に強い子なのかもね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "かもな。ジュニア級ウマ娘の頂点クラスが集まるレースだけど……\nきっと、ラインクラフトなら――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "かもね。ジュニア級ウマ娘の頂点クラスが集まるレースだけど……\nきっと、ラインクラフトなら――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "長旅を終え、ひと晩が明け――そして、いよいよ。\nラインクラフトの『阪神JF』、当日……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラインクラフト",
+      "Text": "すーっ……――ふぅ。\n……うん、よし！",
+      "ChoiceDataList": [
+        "クラフト、いけそうか？",
+        "クラフト、いけそう？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラインクラフト",
+      "Text": "はい！\u3000トレーナーさん、見ていてくださいね。\nわたし、きっと、勝ってみせますから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ラインクラフト",
+      "Text": "あなたのチームに相応しいウマ娘だって。\nここで、証明してきますから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "クラフト……ああ。\n君の力、GⅠの舞台で存分に見せつけてこい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "クラフト……うん。\n貴方の力、GⅠの舞台で存分に見せつけておいで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
