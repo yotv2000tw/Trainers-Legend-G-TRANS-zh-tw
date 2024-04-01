@@ -1,5 +1,5 @@
 {
-  "Title": "情報：オススメのウマ娘",
+  "Title": "情報：推薦的馬娘",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,313 +8,313 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "この子は気難しいからな～。\nフレンドリーなトレちゃんとは、逆にね？",
+      "Name": "創昇",
+      "Text": "這個馬娘脾氣不好應付呢～。\n和友善的阿訓反而很搭也說不定？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "彼女が撮影したウマ娘たちの映像を見ながら、\n走りだけではわからない情報を、トランセンドは付け足してくれる。",
+      "Name": "旁白",
+      "Text": "我和創昇一起看著她拍下的馬娘們的影片，\n她還會同時補充一些只看奔馳時的樣子無法得知的情報。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "走り的には、ど？\nトレちゃんが惹かれる要素はある？",
+      "Name": "創昇",
+      "Text": "從奔馳方面來看，怎樣？\n有吸引到阿訓的要素嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "モニターの中、走っているウマ娘を改めて見る。",
+      "Name": "旁白",
+      "Text": "我再次看向了螢幕中奔馳的馬娘。",
       "ChoiceDataList": [
-        "フォームが綺麗だな",
-        "フォームが綺麗だね"
+        "姿勢真漂亮呢",
+        "姿勢真漂亮呢"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "基本はしっかりと身についているようだった。\nスタートも悪くないし、これといった問題は見当たらない。",
+      "Name": "旁白",
+      "Text": "基礎看起來打得很穩。\n起跑也不差，沒有看到什麼大問題。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "ウチも同意見。\nま、性格さえ合えば、問題らしい問題はないかねぇ。",
+      "Name": "創昇",
+      "Text": "我也抱持相同意見。\n反正只要性格合得來，應該是不會有什麼大問題。",
       "ChoiceDataList": [
-        "（でも……）"
+        "（但是……）"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "なぜか、ピンとこない。",
+      "Name": "旁白",
+      "Text": "不知為何，就是沒有感覺。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "トランセンドから情報を得て、色々なウマ娘を見てきたが……\n『この子だ』と思える子には、まだ出会っていない。",
+      "Name": "旁白",
+      "Text": "我從創昇那裡獲得情報，看過了許多的馬娘……\n但我還沒遇到會讓我覺得「就是她」的馬娘。",
       "ChoiceDataList": [
-        "（……どうしてだろう）"
+        "（……到底為什麼）"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "もちろんみな優秀で、魅力的な走りをするウマ娘たちだ。\nであるにもかかわらず、しっくりとこない。",
+      "Name": "旁白",
+      "Text": "大家當然都是很優秀，且奔馳也很有魅力的馬娘。\n明明是那樣，我卻一點都沒有感覺。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "理由はわからないが、これは自分自身の問題だろう。\nその原因を見つけないことには――",
+      "Name": "旁白",
+      "Text": "雖然搞不清楚原因，但這應該是我自身的問題吧。\n找不到那個原因的話──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "お、ワンダーアキュートが来たね。\nこの子たち、今から一緒に走るから注目。",
+      "Name": "創昇",
+      "Text": "喔，奇銳駿也來了呢。\n這些馬娘現在要一起跑了，注意看。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ウマ娘A",
-      "Text": "わ、アキュートさんも走るの？\u3000彼女、最近調子いいよね……。\nトレーナーさんたち見てるのに、勝てるかなぁ。",
+      "Name": "馬娘A",
+      "Text": "哇，銳駿學姊也要跑喔？她最近狀態很好耶……。\n訓練員們也在看，能不能贏啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ウマ娘B",
-      "Text": "下手にトップ狙わないほうがいいかも……悪目立ちしそうだし。\n入着狙いのほうが、確実性あるかもね。",
+      "Name": "馬娘B",
+      "Text": "我看還是不要冒險拚第一比較好……跑差了反而更顯眼。\n拚前五可能還比較穩健呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "――トップを狙い下に落ちるよりも、最初から入着狙いでいく作戦。\nそんなウマ娘たちの会話を聞きながら、ふと、気になった。",
+      "Name": "旁白",
+      "Text": "──比起拚第一掉了名次，更多人選擇一開始就只拚前五的作戰。\n聽那些馬娘們的對話時，我突然間有點在意一件事。",
       "ChoiceDataList": [
-        "トランセンドなら、どう走ってた？"
+        "如果是創昇的話，當下會怎麼跑？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "え、ウチ？",
+      "Name": "創昇",
+      "Text": "咦，我嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "……んー……まぁ、見せるためだけにレースやってるなら、\nわからんでもない？\u3000みたいな？",
+      "Name": "創昇",
+      "Text": "……嗯─……不過，這只是為了讓人看而跑的比賽，\n我也不是不能理解？之類的感覺？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "でもレースは勝負だからさぁ。\nやっぱり走るなら全力を出して、倒れるくらいはやりたいかな。",
+      "Name": "創昇",
+      "Text": "但比賽就是講求勝負啊。\n要跑的話果然還是想使盡全力，最好是會倒下的程度呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "……あはは、なんてねー？\u3000でもほら、見られているからこそ、\n安全圏内で走るだけなんて、あまりにも――",
+      "Name": "創昇",
+      "Text": "……啊哈哈，開玩笑的啦？但是你想嘛，正因為被人看，\n所以只跑進安全範圍內這種事，不就太──",
       "ChoiceDataList": [
-        "確かに、つまらない"
+        "的確，太無趣了"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "――――",
+      "Name": "創昇",
+      "Text": "────",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "そう言うだろうと、疑いもなく思い言葉を繋げた。\nトランセンドは一瞬だけポカンとした後、うっすらと笑う。",
+      "Name": "旁白",
+      "Text": "我毫不猶豫地把她可能會說的話接下去。\n創昇瞬間愣了一下之後，露出一絲微笑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "……。うん、そう。つまらない。",
+      "Name": "創昇",
+      "Text": "……。嗯，對。太無趣了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "入着狙いなんかじゃ足りない。\n1着だったって、足りないくらい。",
+      "Name": "創昇",
+      "Text": "只拚前五是不夠的。\n至少要拚了第一名，也不夠的程度。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "もっと予測できないような――",
+      "Name": "創昇",
+      "Text": "想要跑出更叫人無法預測的──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "ゾクゾクする走りがしたいよね。",
+      "Name": "創昇",
+      "Text": "跑出會令人驚心動魄的奔馳呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "はぁあああああああ！！",
+      "Name": "創昇",
+      "Text": "哈啊啊啊啊啊啊啊！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "くっ、はっ……はぁ……！！\nふぅ、ふっ、う……たどり、つけ……！",
+      "Name": "創昇",
+      "Text": "喀、哈……哈啊……！！\n呼、呼、嗚……要抵達、那裡……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "……はぁ、はっ……！\nイメージの、向こう側ぁ……！！",
+      "Name": "創昇",
+      "Text": "……哈啊、哈啊……！\n想像的、另一側……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "くぅう……！！",
+      "Name": "創昇",
+      "Text": "喀嗚……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "――ただの散歩のつもりだった。夕暮れ時の高台へと\nたどり着いた時、聞いたことのない、彼女の声に体が震えた。",
+      "Name": "旁白",
+      "Text": "──本來只是打算出來散步的。但是當我抵達黃昏時分的\n高台時，聽到她吼出陌生的聲音，令我渾身顫抖。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "トランセンドの姿を探す。走っていたであろう彼女は、\n大量の汗を流しながらよろめいた。",
+      "Name": "旁白",
+      "Text": "我開始找起創昇的身姿。似乎剛跑完步的她，\n不僅汗如雨下還有些站不穩。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "さっきは、ごめーん。驚かせちゃったかね？\n支えてくれて、ありがとね～。",
+      "Name": "創昇",
+      "Text": "剛才的抱歉啊。嚇到你了吧？\n還跑過來扶我，謝謝啊～。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "ごまかしているのか、トランセンドはいつもの調子で笑っている。",
+      "Name": "旁白",
+      "Text": "不知道是不是想糊弄過去，創昇跟平常一樣笑著。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "あれ、なんだか悶々とした顔してるし。どしたの？",
+      "Name": "創昇",
+      "Text": "奇怪，一臉悶悶不樂的。怎麼了？",
       "ChoiceDataList": [
-        "さっき、言っていたこと……"
+        "剛才妳說的話……"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "さっき？\n……あー……聞こえちゃってた？\u3000てか声に出てたかぁ。",
+      "Name": "創昇",
+      "Text": "剛才？\n……啊──……你都聽到啦？誰叫我都喊出來了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "恥ずかしいじゃーん。\nトレちゃんも聞こえないフリしてくれてもいいのにさ～。",
+      "Name": "創昇",
+      "Text": "這不是搞得我很丟臉嗎。\n阿訓裝作沒聽到不就好了～。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "聞かれたくない――というわけではなさそうだ。\nむしろ『わかるんじゃない？』とでも言うかのような視線。",
+      "Name": "旁白",
+      "Text": "感覺也不是──不想被聽見的樣子。\n不如說她的視線就像在表示「你應該懂吧？」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "……そうかもしれない。\nだが今は、それを言葉にしてほしかった。",
+      "Name": "旁白",
+      "Text": "……也許是吧。\n但是現在的我，希望她能用說的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "もしかしたらそこには、自分がこれまで担当を決められなかった、\nその理由があるような気がして――",
+      "Name": "旁白",
+      "Text": "我在想該不會，那裡就存在著我至今都沒辦法決定\n找誰當擔當馬娘的理由在──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "トレちゃん？",
+      "Name": "創昇",
+      "Text": "阿訓？",
       "ChoiceDataList": [
-        "イメージの中の自分を、超えたい？"
+        "妳想超越想像中的自己嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
+      "Name": "創昇",
       "Text": "…………。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "ウチはねぇ、楽しみたいだけ。",
+      "Name": "創昇",
+      "Text": "我啊，只是想要享樂而已。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "イメージができる範囲って決まってるじゃん？\n走りにはまぁ、限界とかあるし？",
+      "Name": "創昇",
+      "Text": "能想像出的範圍不是固定的嗎？\n奔馳也是啊，有極限對吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "……でも、レースならそれを超えられる気がする。\n走る相手がいるってだけで、想像も追いつかなくなる。",
+      "Name": "創昇",
+      "Text": "……但是，我覺得比賽就能超越那一切。\n光是有奔馳的對手在，就會變得無法想像。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "それって、めっちゃワクワクしない？",
+      "Name": "創昇",
+      "Text": "那不是很讓人驚動魄嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "トランセンドの言葉が、妙にストンと胸に落ちた。そして、\n自分の中にあった引っ掛かりがほどけるように、口から洩れる。",
+      "Name": "旁白",
+      "Text": "創昇的言語，莫名讓我感到心悅誠服。然後，\n我感覺被卡在自己心中的某樣東西，如融化般從口中溢出。",
       "ChoiceDataList": [
-        "イメージできるものだけじゃ、物足りない"
+        "光是能想像的東西，無法令人滿足"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
+      "Name": "創昇",
       "Text": "！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "想像を超え、予想もできない。\nスリルとも呼べるようなレースを一緒に求めていける、そんな――",
+      "Name": "旁白",
+      "Text": "超越想像，也無法預測。\n能夠一起追求刺激滿點的比賽，像那樣的──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "……うん、わかる。\n予想も予測もできないような、最高のレースで。",
+      "Name": "創昇",
+      "Text": "……嗯，我知道。\n想在無法料想也無法預測的，最棒的比賽。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "トランセンド",
-      "Text": "ゾクゾク、したいよね。",
+      "Name": "創昇",
+      "Text": "感受驚心動魄、對吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
