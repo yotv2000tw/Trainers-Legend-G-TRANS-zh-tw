@@ -1,0 +1,464 @@
+{
+  "Title": "找出獨一無二的，那條路",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萊茵力量",
+      "Text": "──哈啊、哈啊、哈啊……！！\n啊啊真是的，又在途中用盡耐力了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萊茵力量",
+      "Text": "我明明就做了不少耐力訓練……不對，不是碎碎念的時候了！\n「橡樹賞」已經近了，要努力才行……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "我問你。……你注意到了對吧？\n力量同學的事情。",
+      "ChoiceDataList": [
+        "……我知道。妳是指適性的事情，對吧。",
+        "……我知道。妳是指適性的事情，對吧。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（我早就明白了。距離拉得越長，對力量而言就變得更加難贏。\n\u3000「橡樹賞」、2400m……是相當吃力的。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（基於現實層面考量，給予力量最適合她的提案……\n\u3000向她暗示新的選擇會比較好，我也是這麼想……）",
+      "ChoiceDataList": [
+        "（但是──）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萊茵力量",
+      "Text": "……我啊，一直感到非常憧憬。\n憧憬著三大后冠路線的前輩們。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萊茵力量",
+      "Text": "所以我要朝著三大后冠路線前進。\n然後，獲得不輸給三冠路線馬娘們的實力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（憧憬、夢想是她的動力。\n\u3000奪走那項東西，就同等於奪走了她奔馳的目的。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（要讓她放棄出賽「橡樹賞」……\n\u3000對如此憧憬后冠的力量而言，實在是──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "持續奔馳的過程中，夢想改變了形式……\n或是不得不改變，都是有可能的。",
+      "ChoiceDataList": [
+        "！！……聖王……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "不過，並不會就此消失。\n只要不放棄、不放手並持續挑戰的話──絕對不會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "你應該最理解這一點吧？\n……畢竟你是和我一起一路走來的啊。",
+      "ChoiceDataList": [
+        "……說得也對。",
+        "……說得也對。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "對……快想啊。不要拋在一旁，要持續思考。\n我到底，能為現在的力量做什麼……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "對……快想啊。不要拋在一旁，要持續思考。\r\n我到底，能為現在的力量做什麼……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（力量她……是憧憬后冠馬娘勝於一切的孩子。\n\u3000所以，現在最明白該怎麼向力量表達的人選──）",
+      "ChoiceDataList": [
+        "說不定就是，后冠馬娘的前輩們。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "電視主播",
+      "Text": "「稀世的女王們」──今晚我們就一同探訪作為最優秀\n古馬級女王發光發熱過的馬娘們，一窺他們寶貴的故事吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "名字曾在歷史上造成轟動的女王馬娘們出現在畫面上，\n並照出了他們莊重地接受採訪的樣子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶石",
+      "Text": "──我確實能說，是「背叛」了期待吧。\n作為繼承了中興始祖的祖母，以及坐擁后冠二冠的母親血統之人──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶石",
+      "Text": "同時作為崇高的「華麗一族」的後繼者。\n明明被眾人期待能拿下三大后冠，卻沒能回應他們的期待也是事實。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶石",
+      "Text": "「櫻花賞」連出賽都無法實現，「橡樹賞」起跑失誤。\n秋天因為腳的問題不得不進入休養。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶石",
+      "Text": "……再加上，查證後才發現其實我的距離適性在短距離。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶石",
+      "Text": "如各位所知，和王道的中距離相比。當時關注度的差距一目瞭然。\n也有許多對我轉向短距離而失望的聲音。──可是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶石",
+      "Text": "傳承自祖母、以及母親，寄宿於華麗之血的「速度」。\n在短距離這個競爭一瞬間的世界，我為了證明那點而疾馳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶石",
+      "Text": "我將這條路──定為讓我的使命、我的熱情發光發熱的場所。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "第一紅寶石。拿下「安田紀念」，還有「短途S」，\n證明了自身血脈的崇高，以及寄宿其中的至上「速度」的馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "──我認為自己並沒有傑出的素質或是才能。\n畢竟我和大家不一樣，沒有在G1中拿下勝利過。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "不過，我確實有一件值得誇耀的事情。\n透過周遭各位的引導下磨練出的，只屬於我的強項。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "「管理能力」就是我能自豪地向大家說出的，屬於我的武器。\n為了在各路豪傑齊聚的競跑界發光發熱──我創造出的武器。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "盡可能多跑更久。盡可能多跑一戰。\n然後──盡可能地多拿下一項榮光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "我用「管理能力」這項武器，達成了那項目標。\n……我能很有自信地說，我貫徹了自己意志。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "生野狄杜斯。\n在星光系列賽中的51戰比賽。皆在無傷的狀態下跑完──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "從「安田紀念」到「寶塚紀念」。G1間只隔三週這般嚴峻的賽程下，\n皆留下了第2名的佳績。有著鋼鐵般肉體和精神的馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "──雖然我拿下了「稀世的女王」這種浮誇的稱號。\n但說實在的，我沒有想過什麼很複雜的事情！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "我追求的就是，和強悍的傢伙單挑！僅此而已！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "要是跑了散漫的比賽，我的靈魂可是會感冒的呢。\n必須是苛刻到能讓我的身心都熊熊燃燒的比賽才行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "像那種，能夠試探自己的極限邊緣──不對，\n正因為是不得不超越極限的比賽，我才能變成最強。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "所以啊，雖然常有人問，但我從來沒有嚇到發抖過！\n不如說我感到很開心，心情澎湃得不得了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "和那個「怪物」互相鬥爭的時候也是！\n我在跟對手單挑時，是最強的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "菱亞馬遜。雖然沒辦法出賽櫻花賞、橡樹賞，\n但卻拿下了重賞5連勝。並且在伊莉莎白女王杯奪勝──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不僅做為時代的女王大放光彩，還是用無二的豪腳，\n唯一在「有馬紀念」隻身逼近「怪物」成田白仁的馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "──我是因為，有一位曾在「女王」的寶座上發光發熱的母親。\r\n所以踏出第一步時……或是在那之前就下定決心了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "成為至上的指導者。成為對所有馬娘而言可謂「理想」，\n對所有跑者而言是散發著無上光彩的燈火。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "那正是我的使命。\n令我成為「女帝」的存在理由。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "因此，我沒什麼好膽怯的。無論是何種戰地──\n無論是「天皇賞(秋)」、還是「日本盃」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "我都會威風凜凜地前往，用此身賭上全力嘗試抓住勝利。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "持續挑戰的背影，最能振奮跟隨在後方的存在──\n我想就是那股確信，將我推向了更高的位置。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "氣槽。\n是后冠路線出身的馬娘中第一個稱霸中距離「天皇賞(秋)」，\n成為多數名馬娘明燈的馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我目不轉睛地看著電視畫面，更努力絞盡腦汁。持續思考。\n在歷史上留下名字的偉大馬娘，大家的共通點是──",
+      "ChoiceDataList": [
+        "……走上了、自己的道路。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "他們大家都一樣。對自身的夢想、目標、使命有強烈的信念，\n並且為了貫徹目標──看清自己的方向。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自己最能發光發熱的舞台在哪裡。\n自身真正的強項是什麼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "思考、看準方向、並做了選擇。\n然後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（……在自己選出的，只屬於自己、只為自己存在的道路上，\n\u3000留下足以自豪且獨一無二的成果，抓住了榮光。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "像三冠馬娘一樣，建立起一個時代，\n多方面留下了強烈衝擊，作為世代代表被傳承下去的案例或許不多。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但是后冠馬娘們，各自都散發著他人不具備的魅力，\n並且──讓人迷上。傳承、連繫至今。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（所以，現在……萊茵力量正在這裡。正奔馳於此。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "節目在不知不覺間就結束了。我關掉電視，做了個深呼吸。\n在被沉默包圍的室內，我聯想到的──是「櫻花賞」上的歡呼。",
+      "ChoiceDataList": [
+        "櫻花賞的力量……真的很厲害。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "低聲脫口而出的話語，讓我有了確信。\n果然萊茵力量的強項、光彩，最能被發揮的地方是──",
+      "ChoiceDataList": [
+        "……是英哩戰。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（叩叩……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萊茵力量",
+      "Text": "打擾了……啊，訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萊茵力量",
+      "Text": "午安。呃、然後……\n重要的事情，是什麼？",
+      "ChoiceDataList": [
+        "……力量。我跟妳說──",
+        "……力量。我跟妳說──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "首先，我盡可能不要太過冷淡，但很直率的告訴她事實。\n從適性上來看，恐怕很難在橡樹賞中拿出結果這件事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因此我，作為訓練員──",
+      "ChoiceDataList": [
+        "想對妳，提議別的目標賽事。",
+        "想對妳，提議別的目標賽事。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萊茵力量",
+      "Text": "咦……咦？別的是指……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "……「櫻花賞」時的奔馳，真的非常優秀。\n在英哩戰的話，妳一定能抓住當世代最快的寶座……我是這麼想的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "……「櫻花賞」時的奔馳，真的非常優秀。\n在英哩戰的話，妳一定能抓住當世代最快的寶座……我是這麼想的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "所以……力量。",
+      "ChoiceDataList": [
+        "妳願意，參加看看「NHK英哩盃」嗎？",
+        "妳願意，參加看看「NHK英哩盃」嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萊茵力量",
+      "Text": "……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "仔細思考看看，力量。\n關於妳的憧憬、妳的夢想，還有至今看過的許多路途。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "仔細思考看看，力量。\n關於妳的憧憬、妳的夢想，還有至今看過的許多路途。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "還有……\n關於只屬於妳、只有妳才能跑上的唯一道路。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "還有……\n關於只屬於妳、只有妳才能跑上的唯一道路。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

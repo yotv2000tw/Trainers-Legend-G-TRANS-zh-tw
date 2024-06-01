@@ -1,0 +1,601 @@
+{
+  "Title": "泥だらけの道、その先で",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "『俺しかいない』って……\nどうして、そんなふうに思ってくれたんだ……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "『私しかいない』って……\nどうして、そんなふうに思ってくれたの……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奧",
+      "Text": "……実は私たち、貴方のことを入学前から知っていたんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奧",
+      "Text": "……『名士』と呼ばれた父君の後を継ぐ形で、\nチーム＜アスケラ＞のトレーナーになった、貴方のことを。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（正直――それを知られていたこと自体に、あまり驚きはなかった。\n何しろ、当時はずいぶんと世間で騒がれてしまったから）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "ウマ娘の資質を即座に見抜く鋭い直感を持ち、ピタリとはまる\n指導によって、数多くを強豪ウマ娘に育てあげた『名士』の父。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "若くしてリーディングトレーナーにも輝いた彼が、引退を決意した\nその後……彼のチーム＜アスケラ＞は、俺が引き継ぐことになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "若くしてリーディングトレーナーにも輝いた彼が、引退を決意した\nその後……彼のチーム＜アスケラ＞は、私が引き継ぐことになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "もちろん、最初は大注目を浴びた。その後担当契約を結んだ、\n名ウマ娘を母に持つ聖王光輝同様――『二世コンビ』として。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "ここまで無敗、さらには初重賞制覇おめでとうございます！\nやはり今後は、クラシック三冠路線に進まれるご予定ですか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "ええ、もちろん！\u3000『皐月賞』『日本ダービー』『菊花賞』、\n三冠レース全てで必ず勝利し――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "一流と称するに相応しい結果を、必ずお見せいたします。\nどうぞ、ご期待くださいませ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "来年のクラシック三冠には、新時代の『天才』トレーナー率いる\nスペシャルウィーク陣営も出走を表明しています！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "チーム＜アスケラ＞こそ、かの『天才』チームのライバルであると\n見る向きも多いようですが、勝つ自信はおありでしょうか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "トレーナー同士の戦いではなく、あくまでウマ娘たち同士の\n勝負ですから、そこは勘違いいただきたくはないのですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "自信なら、もちろんあります。……それは聖王光輝という\n一流のウマ娘に寄せる信頼と、同義ですから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "さすが……！\u3000偉大なるトレーナーのお父上、そして名ウマ娘の\nお母上に続く『二世コンビ』のご活躍に、心より期待しております！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "でも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "……『日本ダービー』。\nいよいよ、ね……。",
+      "ChoiceDataList": [
+        "あ、ああ……",
+        "う、うん……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（まずい……キング、かなり不安そうだ……少しでも自信が持てる、\n前向きになれるような助言をしてやりたい……でも……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（まずい……キング、かなり不安そうだ……少しでも自信が持てる、\n前向きになれるような助言をしてあげたい……でも……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（正直……俺自身、どう指示すべきか定まってない！\u3000皐月の時は\nセイウンスカイにしてやられたし、前を警戒したいけど――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（正直……私自身、どう指示すべきか定まってない！\u3000皐月の時は\nセイウンスカイにしてやられたし、前を警戒したいけど――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（後ろにはスペシャルウィークが控えてる！\n前を気にし過ぎて終盤前に消耗したら、差し切られて終わり……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（じゃあどうする？\u3000なんて言ってやればいい？\n位置取りはどこに、誰をマークして、どう走るべきなのか……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（じゃあどうする？\u3000なんて言ってあげればいい？\n位置取りはどこに、誰をマークして、どう走るべきなのか……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（くそ、くそ、くそ！\u3000なんで何も思いつかないんだ！\n『名士』の息子のくせに、こんな……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（くそ、くそ、くそ！\u3000なんで何も思いつかないの！\n『名士』の娘のくせに、こんな……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "ちょ、ちょっと……どうしたのよ。\n本番前に、そんな顔しないでよ……ねえ――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "レース係員",
+      "Text": "――失礼します。\n聖王光輝さん、お時間です。パドックへとお越しください。",
+      "ChoiceDataList": [
+        "！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "っ、ぁ……。\n……行かなきゃ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（時間切れ……！\u3000何も……言ってやれなかった……！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（時間切れ……！\u3000何も……言ってあげられなかった……！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "實況",
+      "Text": "さあ、『日本ダービー』、いよいよ――スタートですっ！！\n夢の栄冠に向け、18人のウマ娘が一斉に駆けだしました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "（勝たなきゃ、勝たなきゃ、勝たなきゃ！\n勝たなきゃ、私……っ……！？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "っ、ぁあああああああ！！",
+      "ChoiceDataList": [
+        "キング！？なんで先頭に……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "（あ……ぇ……？\u3000先頭？\nど、どうして私、こんなところに……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "（ウソ……頭……真っ白に、なってた……？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "っ……！！\nハァッ、ハァッ、ハァッ、ハァッ――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "實況",
+      "Text": "スペシャルウィークだスペシャルウィークだ！\n後ろを大きく引き離して、スペシャルウィークがゴールイン！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "實況",
+      "Text": "栄光の『日本ダービー』！\n『日本ダービー』をスペシャルウィークが掴みましたっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "實況",
+      "Text": "――2番人気に推されましたが、聖王光輝は14着惨敗！\nデビュー以来初の逃げを打ちましたが、残念な結果に終わりました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "はっ……はぁっ……～～～っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客A",
+      "Text": "おいおいおいおい！\u3000何やってんだよ『二世コンビ』！\n『天才トレーナー』チームにボロ負けじゃんか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客B",
+      "Text": "ていうか……なんで逃げたの？\u3000かかっちゃった？\nそれともトレーナーの指示？\u3000いずれにせよ、これはちょっとねぇ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客A",
+      "Text": "しょせん、二世はただの二世……かぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（その後の重賞2つと、『菊花賞』含む年内のレース全てで敗北。\n全ての期待を裏切り、俺たちはクラシック級を終えた――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（その後の重賞2つと、『菊花賞』含む年内のレース全てで敗北。\n全ての期待を裏切り、私たちはクラシック級を終えた――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "……チーム＜アスケラ＞の記事、今日もないわね。\nまあ、あっても最近はボコボコに書かれるだけだったんだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "……へっぽこ二世コンビの珍道中にも、\n世間はいよいよ興味がなくなった、ってわけね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（情けなかった。消えてしまいたいくらいだった。一生に一度しか\nないキングのクラシック級を、俺の力不足で棒に振らせて）",
+      "ChoiceDataList": [
+        "（……っ、それでも――！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（情けなかった。消えてしまいたいくらいだった。一生に一度しか\nないキングのクラシック級を、私の力不足で棒に振らせて）",
+      "ChoiceDataList": [
+        "（……っ、それでも――！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（謝るな。手放すな。……逃げるな！\n俺は聖王光輝の担当トレーナーだ！）",
+      "ChoiceDataList": [
+        "（だったら、まだやることがあるだろ！）",
+        "（だったら、まだやることがあるでしょ！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（謝るな。手放すな。……逃げるな！\n私は聖王光輝の担当トレーナーだ！）",
+      "ChoiceDataList": [
+        "（だったら、まだやることがあるだろ！）",
+        "（だったら、まだやることがあるでしょ！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "キング。……次の目標レースだが、『安田記念』でどうだろう？\n君の持つ武器、スピードを活かせる道を探っていきたいんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "キング。……次の目標レースだけど、『安田記念』でどう？\n貴方の持つ武器、スピードを活かせる道を探っていきたいんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "次……って。あなた――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "傷ついてる。正直キツい気分だ。\n……でも君は、それでも、諦めてしまえるウマ娘じゃないだろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "傷ついてる。正直キツい気分。\n……でも貴方は、それでも、諦めてしまえるウマ娘じゃないよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "どこかの誰かが勝手に失望してても、もう無理だって言われてても。\n『一流のウマ娘』として誇り高く笑うまで、君は、絶対！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "どこかの誰かが勝手に失望してても、もう無理だって言われてても。\n『一流のウマ娘』として誇り高く笑うまで、貴方は、絶対！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "……～～～っ、当たり前でしょう！？\n絶対っ、このまま諦めて、俯いて終わるなんて、イヤよっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "さあ準備なさい、トレーナー！\u3000次走についてミーティングよ！！\nあなたには特別に――キングの新たな道を、支える権利をあげるわ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "それからはもう、がむしゃらだった。笑われながら、\n後ろ指をさされながら、それでも前だけ向いてひたすら走り続けた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "『安田記念』『宝塚記念』『天皇賞（秋）』『マイルCS』\n『スプリンターズS』『フェブラリーS』……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "負けては挑み、また負けて、ただただ必死に食らいついた。\n最高峰の舞台に。GⅠレースに。全てはただ、そこで勝つために。",
+      "ChoiceDataList": [
+        "そして、……そして――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "實況",
+      "Text": "外から飛んできた、聖王光輝！\u3000聖王光輝です！\n聖王光輝、まとめて撫で切ったっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "實況",
+      "Text": "1着は聖王光輝！\u300010度もの敗北を乗り越え、今！\n聖王光輝、『高松宮記念』にて初のGⅠ制覇ですっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "ぅ、……っ、ぅぁああああああっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（吼える聖王光輝。そのウマ娘が今まさに放った輝きこそ、\n一流のウマ娘の証明。それを疑う者なんて、――誰もいなかった！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "――……たくさんの祝福のお言葉、感謝申し上げます。\n正直、平坦な道ではなかったのですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "っ、ここまで、諦めずに、走ってこられて……！\nとても……嬉しく、思いますっ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "（あの後……放送された映像を見ながら、キングと2人して\n『そっちのほうがよりひどく泣いてた』なんて、言い合ったっけ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奧",
+      "Text": "――……とても強く、心を打たれました。\nあの会見でのお2人のご様子には……本当に、強く。",
+      "ChoiceDataList": [
+        "……え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萊茵力量",
+      "Text": "ふふっ。……実はわたしたち、あの日の会見を\n街頭ビジョンで見てたんです！\u3000しかも偶然、お隣どうしで！",
+      "ChoiceDataList": [
+        "そ……そうだったのか！？",
+        "そ……そうだったの！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萊茵力量",
+      "Text": "わたしも西沙里奧も、そこで心が決まったんです。いつか絶対、\nキングさんとトレーナーさんのいるチームの一員になりたいって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萊茵力量",
+      "Text": "掲げた夢を、決して最後まで諦めない。\nどんなに傷ついても、苦しくても、掴むために走り続ける。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奧",
+      "Text": "そして道は、いつも共に。二人三脚で切り開いていく。\nそんなお2人の姿に……心から、憧れたんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奧",
+      "Text": "……ですから、私とクラフトは、チーム＜アスケラ＞を選びました。\nこのチームしかない、と、その一心で。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萊茵力量",
+      "Text": "トレーナーさんとなら、絶対諦めずにいられる。\n最後に夢を掴むまで、どんなに苦しくても走り続けられる……って！",
+      "ChoiceDataList": [
+        "クラフト……西沙里奧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "……まったく、何を話しているのかと思ったら。\nあなたね、もうちょっと胸を張るべきよ。",
+      "ChoiceDataList": [
+        "キング――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "……期待され、準備された道からは弾き出されたとしても！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "名ウマ娘の子らしい、名トレーナーの息子らしい結果は\n残せなかったのだとしても。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "名ウマ娘の子らしい、名トレーナーの娘らしい結果は\n残せなかったのだとしても。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "私たちが、私たちらしい――私たちにしかできない一流の結果を\n掴むことができたのは、誰のおかげだと思っているの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "聖王光輝",
+      "Text": "私が顔を上げて走り続けられたのは、\n……どこの誰が、しぶとく隣にいてくれたからだと思っているのよ。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――情けない。そんな気持ちで聖王光輝に苦笑を返し、\n改めて、萊茵力量と西沙里奧のほうに向きなおる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "クラフト、西沙里奧。……チーム＜アスケラ＞を選んでくれて、\n本当にありがとう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "俺は父さんみたいな名士じゃない。\nしぶとさくらいしか取り柄がない。それでも――",
+      "ChoiceDataList": [
+        "君たちと夢を掴むまで。必ず、支え続ける",
+        "貴方たちと夢を掴むまで。必ず、支え続ける"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "私は父さんみたいな名士じゃない。\nしぶとさくらいしか取り柄がない。それでも――",
+      "ChoiceDataList": [
+        "君たちと夢を掴むまで。必ず、支え続ける",
+        "貴方たちと夢を掴むまで。必ず、支え続ける"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萊茵力量",
+      "Text": "トレーナーさん……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奧",
+      "Text": "ありがとうございます。\n……改めて、よろしくお願いいたします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
