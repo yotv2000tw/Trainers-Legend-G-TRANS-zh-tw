@@ -1,0 +1,465 @@
+{
+  "Title": "情人節",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "（明天就是情人節。\n有件事我已經下定決心了，那就是──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "我要送訓練員巧克力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "（畢竟我老是受他照顧嘛，\n要好好表達我的感謝才行！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "（要做的是「熔岩巧克力蛋糕」！\n我要努力──！畢竟大家都替我加油了！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "──所以我想請閃耀\n教我巧克力的做法！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "我去問了菱亞，\n她說可以來拜託妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "菱亞"
+      ]
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "原來如此，我明白了。\n要做熔岩巧克力蛋糕啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "請問……是不是很難做呢？\n但我很想挑戰看看……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "其實我不太會做料理。\n甚至連讓巧克力融化以及再凝固的步驟，\n都還要請媽媽幫忙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "但是，既然要做給訓練員吃，\n我想好好做出既時髦又好吃的巧克力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "最後我一定會想辦法做成功的！\n所以麻煩妳教我……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "沒問題的。妳不用這麼緊張，\n熔岩巧克力蛋糕並不難做。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "不如說這道甜點即使用簡化食譜來做，也能做得\n十分美味，並呈現出華麗的外觀跟豐富的口感，\n可以說是很適合初學者的選擇。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "！\n這樣的話……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "我給妳簡化過的食譜吧，\n希望妳能順利傳達心意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "──嗯，不愧是閃耀，\n真的跟富士說的一樣厲害。\n如果是這個食譜，對雪之來說也不會太困難。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "可是我還是滿擔心的，\n所以還是想先請菱亞也幫忙一起做……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "當然沒問題，我會幫妳的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "不過，真的不要緊嗎？\n妳要正式製作的那天我也能幫忙喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "不！我可以的！\n我要靠自己的力量努力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "……這樣啊。\n那我們就先開始備料吧，\n妳先去打蛋好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "好的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（叩叩……喀啦！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "啊！？\n蛋碎得亂七八糟的！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亞馬遜",
+      "Text": "……加油啊，雪之！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "啊，這個雪人的裝飾好口愛！\n拿來插在上面好像不錯耶～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "嗯，很可愛呢！\n既然這樣，在盤子上灑糖粉應該也不錯吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "對耶，就像雪景一般呢！\n喔喔～擺盤裝飾真好玩！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "只是直接送給對方也滿單調的，\n如果來玩個開店遊戲，\n像是「雪之咖啡」之類的，說不定會很有趣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "喔喔～！\n好厲害，不愧是真機伶。\n幸好我有鼓起勇氣開口問妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "呵呵♪真機伶啊，\n永遠都站在想努力的人那邊喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "然後……我再教妳一句\n送巧克力的時候可以唸的祕藏咒語吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "咒語？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "嗯，就是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "……那個咒語，\n我、我真的有辦法唸出來嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "不，這些都是之後的事了。\n我要先做出好吃的熔岩巧克力蛋糕才行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "好～！\n加油唄！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今天是情人節。因為雪之美人叫我，\n於是我來到學生餐廳……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "歡迎光臨餒！\n這裡是雪之咖啡廳～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她突然開始演起戲來。\n雖然不知道她想做什麼，但我決定靜觀其變。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "其實本店呢～\n只提供一種餐點。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "那也是本店最推薦的一道餐點，\n您想試試嗎……？",
+      "ChoiceDataList": [
+        "那我就點那道餐點吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "好的！\n請您稍等一下～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雪之美人端來了一個盤子，\n上面放的是熔岩巧克力蛋糕，\n盤上還有著可愛的擺盤裝飾。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "這道是「雪熔岩巧克力蛋糕」，\n是本店大廚用心製作的。",
+      "ChoiceDataList": [
+        "（大廚指的是……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "……再來，就是……\n其實它還附有一個咒語……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "……還、還是算了！\n請你……品嚐看看餒！",
+      "ChoiceDataList": [
+        "……我開動了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我用刀子將溼潤的蛋糕體切開，\n裡面立刻流出了濃稠的巧克力醬。\n吃進嘴裡後，有股暖暖的甜味……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "味、味道怎麼樣……？",
+      "ChoiceDataList": [
+        "可以幫我請大廚過來嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "咦？",
+      "ChoiceDataList": [
+        "我想謝謝大廚做出這麼好吃的蛋糕"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "耶嘿嘿，這樣啊，\n你覺得好吃啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "那個，其實……\n大廚現在就在這裡。",
+      "ChoiceDataList": [
+        "謝謝妳，雪之"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "耶嘿嘿……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "我才是，\n一直以來真的謝謝你！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "……再來，就是……\n其實它還附有一個咒語……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "……加、加油啊雪之！\n這時就要一鼓作氣說出來！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "這是我的愛心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "請盡情享用吧……♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "……呼啊啊～～！！\n我、我成功了，真機伶……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "訓練員，\n請、請快趁熱吃吧！",
+      "ChoiceDataList": [
+        "……我開動了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我用刀子將溼潤的蛋糕體切開，\n裡面立刻流出了濃稠的巧克力醬。\n吃進嘴裡後，有股暖暖的甜味……",
+      "ChoiceDataList": [
+        "非常好吃！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "！\n真的嗎！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "太好了……",
+      "ChoiceDataList": [
+        "謝謝妳！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "嘿嘿……\n能讓你吃得開心，我也很高興。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "然後啊，我為了替今天做準備，\n麻煩了好多人幫忙我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "我也想謝謝大家，\n等一下我可以請她們過來這裡嗎？",
+      "ChoiceDataList": [
+        "當然可以！我來幫妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "謝謝你！\n這樣的話……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "雪之＆訓練員咖啡廳，\n準備開店囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，雪之美人的朋友們也都聚集過來……\n大家一起過了個熱鬧的情人節。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

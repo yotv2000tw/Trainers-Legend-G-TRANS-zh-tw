@@ -1,0 +1,346 @@
+{
+  "Title": "深閨千金……？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天，我要與早一步出門的\n目白阿爾丹會合，一起去採購。\n當我到了會合地點時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人A",
+      "Text": "哇……好漂亮的女孩，\n就像是深閨裡的千金小姐……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人B",
+      "Text": "確實有股不食人間煙火的氣質，\n感覺不太懂人情世故呢～",
+      "ChoiceDataList": [
+        "（不食人間煙火的氣質嗎……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "訓練員。",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……怎麼了嗎？",
+      "ChoiceDataList": [
+        "沒事……抱歉讓妳久等了",
+        "沒事……抱歉讓妳久等了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "我也才剛到而已。\n來，我們走吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是我跟目白阿爾丹\n一起去採購訓練時需要的東西。然後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "──比原定時間還早結束呢。",
+      "ChoiceDataList": [
+        "是啊",
+        "是呀"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……難得有這機會，\n要不要繞遠路回去呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "畢竟今天都一直在談公事，\n我們可以聊點輕鬆的話題。",
+      "ChoiceDataList": [
+        "就這麼做吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是我跟她隨意地走著，不斷前行，\n結果──",
+      "ChoiceDataList": [
+        "（我們跑到可疑的地方來了……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "這附近……氣氛真獨特呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目白阿爾丹就好像看到新奇東西一般，\n在昏暗的小巷四處張望。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人B",
+      "Text": "確實有股不食人間煙火的氣質，\n感覺不太懂人情世故呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……或許她在陌生的地方會感到不安。\n我開始覺得，自己必須要保護她──",
+      "ChoiceDataList": [
+        "不管發生什麼事我都會保護妳！",
+        "跟我來！",
+        "跟我來！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……或許她在陌生的地方會感到不安。\n我開始覺得，自己必須要保護她──",
+      "ChoiceDataList": [
+        "不管發生什麼事我都會保護妳！",
+        "跟我來！",
+        "跟我來！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……好的。\n拜託你了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "為了不讓她感到更不安，\n我盡可能選擇明亮的路──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "哎呀，這條路是……",
+      "ChoiceDataList": [
+        "走到我們熟悉的地方了呢！",
+        "走到我們熟悉的地方了呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "是啊。",
+      "ChoiceDataList": [
+        "妳很怕吧",
+        "妳很怕吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "不會，我一點都不怕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "因為有一位可靠的騎士保護了我。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這麼說來，\n剛才在氣氛烘托下，我竟然說了那種話……\n事到如今，我開始難為情起來──",
+      "ChoiceDataList": [
+        "我、我們回去吧──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "！\n危險！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "──沒事吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我急著動身結果失去平衡，\n就在差點要跌倒時，\n目白阿爾丹扶住了我……",
+      "ChoiceDataList": [
+        "抱歉，謝謝妳……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……呵呵。",
+      "ChoiceDataList": [
+        "阿爾丹？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "不好意思，\n總覺得你很可愛……",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "你不用跟我道謝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "因為我也想要保護你呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "訓練員？",
+      "ChoiceDataList": [
+        "跟緊我！",
+        "跟緊我！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我抓著目白阿爾丹的手臂跑了起來。\n一口氣衝到底，盡快逃離這裡吧──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就在我這麼想的時候……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "──請等一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "既然這樣，應該是跟緊「我」才對。",
+      "ChoiceDataList": [
+        "阿爾丹……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "請把手給我，\n跟我來吧。",
+      "ChoiceDataList": [
+        "咦──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我才剛會意到自己的手臂被抓住後，\n接著便換成了她在前頭拉著我跑……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "──呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "抱歉，由於這附近有些昏暗……\n我就想我們循原路回去比較好。",
+      "ChoiceDataList": [
+        "呼……呼……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "你沒事吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "我盡量把速度控制在\n輕度慢跑的程度了……",
+      "ChoiceDataList": [
+        "我、我沒事"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "這樣嗎？\n稍微休息一下再回去吧。",
+      "ChoiceDataList": [
+        "可是為什麼……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "你是問……為什麼要換我領路嗎？\n因為──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "既然要跑步，\n那麼帶領你便是我的職責。",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "不過……這樣說或許不妥，\n但我很享受……那樣的狀況。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "如果你不排斥……我下次還想要繞遠路。\n到時候我一樣會帶領你的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

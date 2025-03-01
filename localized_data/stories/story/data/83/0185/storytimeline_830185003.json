@@ -1,0 +1,256 @@
+{
+  "Title": "遺忘的光輝",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "謝謝妳，飛翔！\n我學到了很多！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "不用客氣。\n透過觀察各式各樣的人，尋找那份心動的感覺\n也是很好的學習方式……啊！",
+      "ChoiceDataList": [
+        "妳們好，妳們在做什麼呢？",
+        "妳們好，妳們在做什麼呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "你好，訓練員。\n我們現在……正在觀察公園裡的人，\n檢查他們的時尚穿搭。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "其實我想要買新的衣服……\n所以才來找飛翔諮詢。\n因為我不知道自己該買什麼才好。",
+      "ChoiceDataList": [
+        "所以才在尋找心動的感覺嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "是的，雖然我可以幫她選出適合的衣服，\n但如果自己不「喜歡」的話，\n就不會感到開心了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "時髦的女性",
+      "Text": "那個！你、你們好。\n……沒想到我們又見面了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "啊，大姐姐！\n呵呵，很高興能見到妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "哇……\n好漂亮的人啊。\n那個……請問這位是？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "時髦的女性",
+      "Text": "啊，對不起。\n我突然就打斷了你們的對話。\n那個，我是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "唉……明明這麼時髦又漂亮。\n但這個世界對我來說還是太艱難了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "時髦的女性",
+      "Text": "……然後，那個。\n不介意的話，我也可以加入你們嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "時髦的女性",
+      "Text": "我覺得……\n我好像快要找到答案了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "當然可以。每個人看到的\n光輝都不一樣，耀眼程度也都不同。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "讓我們一起找出\n屬於自己的光輝吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結束時尚檢查之後，\n我們決定去買雪之美人想買的衣服。\n那間店就是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "時髦的女性",
+      "Text": "呃……這裡是商店街吧？\n雖然這裡確實有服飾店，那個……\n這裡可能不會有什麼流行商品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "啊啊，果然不行嗎！？\n但是……我覺得這裡\n對我來說是最好的選擇……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "嗯嗯。\n之之，能告訴我妳為什麼選擇這裡嗎？\n請務必讓我聽聽妳的想法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "那個……我原本想要一些很成熟，\n看起來像「都市女孩」的衣服。\n不過看了很多人的衣服之後……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "我覺得……普通的衣服才是最適合我的。\n雖然成熟的衣服也很棒，\n但我想像了自己穿起來的樣子，總覺得不太對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "時髦的女性",
+      "Text": "……這樣啊。自己沒辦法接受的話，\n勉強自己選擇也不會感到開心吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "時髦的女性",
+      "Text": "不過……心動的感覺呢？\n就算很適合自己，\n但要是沒有心動的感覺也不行……對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "──既然如此。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "我們就來確認看看，\n這種「普通」……\n能夠讓人心動到什麼程度吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "雖然是素色，但稍微加點光澤就能增添成熟感。\n刻意將蝴蝶結綁得大一點，\n讓它成為焦點。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "即使是簡單的設計，\n只要稍微下點功夫，\n也能展現出成熟可愛的風格♪然後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "時髦的女性",
+      "Text": "……好厲害。顏色的搭配也很大膽，\n不僅僅是穿得隨意，還刻意調整了扣子的位置，\n故意讓它像這樣翻過來──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "是的！！然後，我覺得這很適合我！\n該怎麼說呢，感覺這就是我！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "把衣服穿得正確，\n並不是享受樂趣的唯一方式。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "對設計師抱持著敬意。\n在這樣的前提下，\n找出屬於自己的光輝也是一種樂趣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "時髦的女性",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "時髦的女性",
+      "Text": "……原來如此。\n我總是想著要如何\n變得更美麗或更時髦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "時髦的女性",
+      "Text": "但我似乎卻遺忘了……玩樂的心。\n以前雖然不像現在有品味，\n但我能夠更自由地享受一切。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "大姐姐的眼睛非常閃耀喔♪\n就好像鑲嵌著寶石一樣。\n呵呵……感覺光芒都快溢出來了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "時髦的女性",
+      "Text": "飛翔……\n……唔，謝謝妳！\n我……感覺好像找到什麼了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "我什麼都沒做。\n這些都是大姐姐\n自己努力找到的結果。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "……不過，如果找到答案後，\n能讓大姐姐再次覺得\n「有趣」的話。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "下一次就不是巧遇……\n而是約好時間，\n讓我見證那份光輝好嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北方飛翔",
+      "Text": "我希望在我的眼中，\n可以映照出妳閃耀動人的身影！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "聽到北方飛翔的話後，\n那位女性瞬間低下了頭，再次抬起頭時──\n她露出了耀眼又開朗的笑容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某天，我在商店街採買完日用品，\n正打算回去時──",
+      "ChoiceDataList": [
+        "紅寶？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "訓練員。",
+      "ChoiceDataList": [
+        "妳怎麼會來這裡？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "第一紅寶居然身在商店街……\n這景象太難得一見，我不禁詢問緣由。\n她看向道路前方的汽車修理廠──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "回去的路上，管家發現車子有問題。\n剛好簽約的車廠就在附近，便請他們檢查。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "檢查需要一些時間，\n所以我本來打算先自行回去。\n不過就在那時，你朝這裡走了過來。",
+      "ChoiceDataList": [
+        "……妳在等我啊？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "畢竟我們目的地相同，又還有些事待討論。\n在這個情況下，我判斷活用移動時間最有效率。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "好了，我們走吧。",
+      "ChoiceDataList": [
+        "抱、抱歉！可以稍等一下嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，好玩的抽獎活動！\n歡迎大家來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……抽獎。",
+      "ChoiceDataList": [
+        "回去前我想挑戰抽獎……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "無妨。\n反正應該不會太花時間。",
+      "ChoiceDataList": [
+        "紅寶也要挑戰看看嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "我就不用了。",
+      "ChoiceDataList": [
+        "我想也是！",
+        "我想也是！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在第一紅寶的關注下，\n我轉動了抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "恭喜你。",
+      "ChoiceDataList": [
+        "謝謝……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "喔喔，你很開心嘛！很開心對不對！\n你這麼喜歡溫泉啊？",
+      "ChoiceDataList": [
+        "我想說可以藉此放鬆心情"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "喔，看來你真的累了呢……\n咦？你別著訓練員徽章啊！\n所以，這位小姐是特雷森學園的學生……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "特雷森學園"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "喔～這位小姐，\n妳是不是對訓練員很嚴厲？\n不可以這樣啦，要更體貼人家一點。",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……謝謝你的寶貴意見──",
+      "ChoiceDataList": [
+        "她很體貼喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "咦？",
+      "ChoiceDataList": [
+        "這女孩非常體貼"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "是、是喔……這樣啊。\n是我不該多嘴啦！\n盡情享受旅行吧！",
+      "ChoiceDataList": [
+        "好的，謝謝你！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "──我認為體貼二字不恰當。",
+      "ChoiceDataList": [
+        "什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "剛剛你對著商店街人員如此形容我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "首先我要聲明，\n你剛才並不需要顧慮我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "更何況，體貼二字與我格格不入。\n就算是為了維護我也說不過去。",
+      "ChoiceDataList": [
+        "這個嘛，要是說得更精確些……",
+        "這個嘛，要是說得更精確些……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "剛剛我只是配合對方才說出「體貼」。\n我真正的意思是，\n第一紅寶總是誠心誠意地對待我──",
+      "ChoiceDataList": [
+        "其實該說妳總是對我抱持敬意吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "這樣啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……你決定旅行日期後，\n請讓我知道。",
+      "ChoiceDataList": [
+        "不，暫時先保留吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "現在我還不夠資格悠哉地享受旅行。\n我還得更加成長、締造更多成就，\n才能理直氣壯地享受獎賞。",
+      "ChoiceDataList": [
+        "我會向紅寶看齊，努力變得跟妳一樣！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……你根本不需要\n變得跟我一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "不過……你想努力到變成理想中的自己，\n我認為此行為值得讚賞。",
+      "ChoiceDataList": [
+        "嗯！",
+        "嗯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，我將旅遊券細心保管起來……\n直到自認有資格悠哉地享受溫泉的那天，\n再拿出來使用。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "這款漢堡排非～常美味喔！\n而且分量十足！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "正好適合跟旁邊這位小姐一起享用呢。",
+      "ChoiceDataList": [
+        "……紅寶"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "訓練員，請你獨自享用。",
+      "ChoiceDataList": [
+        "我想也是！",
+        "我想也是！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "……嗯？紅寶這名字……\n這、這位小姐該不會是「華麗一族」！？",
+      "ChoiceDataList": [
+        "是的，她是第一紅寶"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "…………這、這樣的話！還是請妳務必\n品嚐看看那份漢堡排……可以嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "請先告訴我此要求背後的理由。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "既然是大小姐，標準應該會很高吧。\n我想得到美食家背書！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "這樣就可證明──\n這塊灌注商店街全部尊嚴的\n「特等胡蘿蔔漢堡排」抓得住每個人的胃！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……",
+      "ChoiceDataList": [
+        "……紅寶，妳覺得呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……如果只要我品嚐完後說出感想……\n那就無妨。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "！\n是的，這樣就好！非常感謝妳……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "回到學園後，我與第一紅寶\n一起享用了料理好的漢堡排……",
+      "ChoiceDataList": [
+        "（真好吃！……但是──）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "第一紅寶的表情完全沒有變化。\n不知道她有什麼感想？\n我在一旁緊張地看著她享用。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──幾天後。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "請、請問味道還可以嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……",
+      "ChoiceDataList": [
+        "（吞口水……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "感謝招待。\n──美味程度不同凡響。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "！！！！\n太好啦～～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "四周突然爆出掌聲與歡呼。\n看來商店街的人們心裡七上八下地，\n一直等待著她的感想……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "喔喔，手氣不錯嘛！\n我們家的胡蘿蔔可好吃啦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "這位特雷森學園的小姐\n也喜歡吃胡蘿蔔吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "特雷森學園"
+      ]
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "裡頭含有許多營養素，\n因此我會積極攝取。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "……呃，這是喜歡的意思嗎？",
+      "ChoiceDataList": [
+        "這是對她來說有必要的意思"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "這樣啊這樣啊！\n那就盡情吃光光吧！",
+      "ChoiceDataList": [
+        "話雖這麼說，這分量……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……若你獨自消化不完，\n我有個方法。",
+      "ChoiceDataList": [
+        "麻煩妳了。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "我知道了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "請將這些胡蘿蔔\n送到特雷森學園的學生餐廳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "可以順便借用紙跟筆嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "幾天後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "啊，看啊！今天也有\n胡蘿蔔沙拉吃到飽耶！好棒～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "聽說啊～這些送到學生餐廳的胡蘿蔔還附著一張\n字跡超漂亮的小卡，寫著「捐贈給貴校」。\n對方一定是個很好心的老爺爺！",
+      "ChoiceDataList": [
+        "老爺爺……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……我也要去用午餐，失陪了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "抱歉啊，只抽到一根。\n盡情享用吧！",
+      "ChoiceDataList": [
+        "姑且一問，紅寶妳……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "謝謝你想到我。\n訓練員請獨自享用。",
+      "ChoiceDataList": [
+        "讓我盡情享用啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我很清楚自己的廚藝。\n靠自己料理想必也煮不出\n好吃到哭的餐點吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……用油類調理胡蘿蔔，\n可提高β-胡蘿蔔素的吸收率。",
+      "ChoiceDataList": [
+        "這樣啊～～"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "事情都辦完了吧？\n我們回學園吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "回房間後，我依照第一紅寶的建議\n嘗試用油調理了胡蘿蔔。\n吃進嘴裡，感受到隱約的甜味。",
+      "ChoiceDataList": [
+        "（雖然還是沒有好吃到哭……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "多虧第一紅寶告訴我的小常識，\n這根胡蘿蔔的營養價值應該有稍微提高。\n……我有種身體好像多了一點活力的感覺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "參加獎……",
+      "ChoiceDataList": [
+        "真可惜……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "別難過，難免會這樣嘛！\n期待你下次再來挑戰！",
+      "ChoiceDataList": [
+        "對了，只要再去買點東西……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……恕我直言，請不要再掙扎。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "結果已經註定，\n勸你乖乖接受現實。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "若真有那麼想要的東西，\n就請別依賴運氣，而是用實力爭取。",
+      "ChoiceDataList": [
+        "抱歉……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "連我都覺得抱歉起來了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……不會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

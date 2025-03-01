@@ -1,329 +1,329 @@
 {
-    "Title": "砂糖一匙，如何？",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "馬娘A",
-            "Text": "喂喂，妳知道嗎？那間傳聞中的咖啡廳。\n據說去過那間咖啡廳的人全都會變得充滿活力哦！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "女性A",
-            "Text": "我當然知道囉！去那個地方──\n就能夠得到最關鍵的勇氣。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特雷森學園生A",
-            "Text": "巧克力要送什麼～！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特雷森學園生B",
-            "Text": "妳聲音太大了啦……不過，已經情人節了啊～。\n…………那我也送一下好了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "特雷森學園生A",
-            "Text": "真！？那個嗎！？本命的那種！？\n終於要告白啦～！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "（本、本本本本本命……！？\n意思就是，有想交往的對象，所以才……）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "（哇啊啊啊啊～～……！）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "哈啊…………哈啊啊啊～～～……。\n告白啊～……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "…………。「我的告白是──」",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "（我拿出了「教科書」。像砂糖般甜蜜、閃閃發亮。\n這本祕密的書能夠告訴我與我無緣的小鹿亂撞）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "（我現在沉迷的這本是「甜蜜回憶‧午茶時光」。\n還是女高中生的小光在兩個男孩子之間猶豫不決的故事）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "※以下呈現的是目白賴恩的妄想。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "加賀",
-            "Text": "「……拜託，不要避著我。光。\n今年我們也一起去海邊吧。」",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小光",
-            "Text": "「不行。你已經有可愛的未婚妻在了。\n……你要好好珍惜那孩子。」",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "峰",
-            "Text": "「……光？」",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "旁白",
-            "Text": "光一個人跑了出去。原本已死心的戀情化為眼淚從\n臉頰上滑落，她跑著跑著……抵達了她打工的喫茶店。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "雙胞胎外場服務生",
-            "Text": "「歡迎光臨！歡迎來到甜蜜回憶‧午茶時光！\n這不是小光嗎！？奇怪，今天應該沒有排班對吧！？」",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "喫茶店的看板娘",
-            "Text": "「……有什麼關係。光今天是來當客人的！\n進來吧，光。今天吧檯的位子正空著哦。」",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "溫柔的糕點師",
-            "Text": "『……小光。我都聽店長說了。\n我為妳準備了特別的巧克力，等一下記得叫我喔。」",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小光",
-            "Text": "「特別的──巧克力，是嗎……？」",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "喫茶店的店長",
-            "Text": "「沒錯，是送禮用的。\n……光。把那個送給妳最喜歡人吧。」",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "旁白",
-            "Text": "店長早就發現了。來到店裡的光，\n想要跟自己的這份戀情做個了斷。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "所以就用這種溫柔的方式，鼓舞她拿出勇氣。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "喫茶店的店長",
-            "Text": "「……妳很喜歡對吧？那孩子的一切。」",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "喫茶店的店長",
-            "Text": "「那麼只要妳心中一直掛念著他，這份戀情就不會結束。\n把心情確實化成言語，告訴他──讓自己能乾脆地放手吧。」",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "於是光在店長的鼓勵下，\n總算是有勇氣把巧克力──交給那孩子了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "……哈啊～……好帥喔～……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "這樣的人……真是棒呆了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "？？？",
-            "Text": "喔喔，那個棒呆的人是？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "那還用說，當然是店長啊。\n尤其是用大人的風範指引光這部分──……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "雖然我不知道該怎麼說形容才好\n──但我也想變成那樣子。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "……………？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "艾尼斯風神",
-            "Text": "……………？哈囉哈囉──？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "艾、艾尼斯～！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "艾尼斯風神",
-            "Text": "啊哈。反應不錯耶！\n對了，乾脆賴恩就來試試看吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "艾尼斯風神",
-            "Text": "──實現妳的憧憬！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "イベントタイトルロゴ表示。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "艾尼斯風神",
-            "Text": "嗯～要不要先做喫茶店的打工看看？\n現在這個時期能做短期的地方有──……我看看。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "不、不用了啦！沒必要陪我的妄想到這種地步！\n而且打工這種事，要是被祖母聽到的話──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "艾尼斯風神",
-            "Text": "……哼──嗯？也就是說，\n首先必須跟妳的祖母確認才行囉？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "……就是這麼一回事，沒錯。和朋友、那個。\n說好要一起在喫茶店做期間限定的打工。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "啊，不、不過我也明白這不太好。比起熱衷於其他\n小事，我有更該優先著手的事情──……嘿？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "……去增廣見聞……跟認識的人問問看……。\n……咦。…………欸欸欸！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "咖啡廳的老闆",
-            "Text": "嗯。您的祖母都告訴我事情經過了！\n請自由使用我們這家店吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "咖啡廳的老闆",
-            "Text": "我依舊會做為一位老闆在背後協助妳們……\n只要不弄壞東西的話，菜單愛怎麼換都沒關係喔！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "但、但是一間氣氛這麼好的店，雖然說是期間限定，\n但是讓我來當店長的話……評價應該會下滑吧……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "咖啡廳的老闆",
-            "Text": "沒關係沒關係。這家店我本來就是開興趣的。\n比起我來開，店長是目白家現役大小姐的咖啡廳……天啊～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "咖啡廳的老闆",
-            "Text": "好，那服裝我去找專業的訂做！\n加上朋友總共兩套對吧！還有……行程表！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "咖啡廳的老闆",
-            "Text": "把店借給妳們的日子得要配合妳們的休假才行對吧！\n齁～害得阿姨又有新的人生目標了～！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "艾尼斯風神",
-            "Text": "啊哈，老闆娘看起來也是個很溫柔的人呢！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "但是待遇會不會太好了？世上真能允許這麼好的事發生嗎？\n這是夢嗎？是夢對吧？艾尼斯，可以捏一把我的臉頰嗎？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "艾尼斯風神",
-            "Text": "那就不客氣囉。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白賴恩",
-            "Text": "噫！？……痛痛痛。\n……這真的不是夢呢……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "要不要來一匙砂糖呢？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "話說妳知道傳聞中的那間咖啡廳嗎？\n聽說去過那裡的人全都變得很有精神喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女性A",
+      "Text": "我當然知道！因為那是個──\n能讓人獲得珍貴勇氣的地方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特雷森學園學生A",
+      "Text": "巧克力的事妳打算怎麼辦～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特雷森學園學生B",
+      "Text": "妳太大聲了……不過原來情人節快到了啊～\n…………我也來送巧克力好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特雷森學園學生A",
+      "Text": "真假！？是那個嗎！？真心的巧克力嗎！？\n妳終於要告白了嗎～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "（真、真真真真真心……！？\n這表示她有想要交往的對象……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "（哇啊啊啊啊～～！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "呼…………呼～～～\n告白啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "…………「我的告白──」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "（我拿出「教科書」。這是本如同砂糖般甜又充滿閃耀光芒，\n讓我了解到什麼是怦然心動的祕密之書。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "（我最近迷上了這本《甜蜜回憶．午茶時光》，\n這是講述女高中生小光在兩個男生之間搖擺不定的故事。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "※以下內容是目白雷恩的妄想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "加賀同學",
+      "Text": "「……小光，不要躲著我。\n今年也一起去海邊吧。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小光",
+      "Text": "「不行。你已經有可愛的未婚妻了。\n……你要好好珍惜她。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "峰同學",
+      "Text": "「……小光？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旁白",
+      "Text": "小光獨自跑出房間。原本應該已經放棄的愛慕之心化為淚水\n奪眶而出，她持續奔跑……最後來到了她打工的咖啡廳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙胞胎服務生",
+      "Text": "「歡迎光臨咖啡廳．甜蜜回憶．午茶時光！\n咦，是小光啊！？奇怪，妳今天沒有排班吧！？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳的招牌服務生",
+      "Text": "「……有什麼關係。小光今天是客人！\n進來吧，小光。今天櫃台有位子喔。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "溫柔的甜點師",
+      "Text": "「……小光，我聽店長說了。\n我會替妳準備特別的巧克力，晚點過來找我吧。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小光",
+      "Text": "「特別的──巧克力……？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳店長",
+      "Text": "「沒錯，是用來送人的。\n……小光，把那個送給妳最喜歡的人吧。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "旁白",
+      "Text": "店長注意到踏進店裡的小光的心情，\n她想為自己的心意做個了斷。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "所以店長才用這種溫柔的方式支持她的勇氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳店長",
+      "Text": "「……妳喜歡他，對吧？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳店長",
+      "Text": "「只要心裡還有留戀，妳的戀情就不會結束。\n去好好說出妳的心意──消除心中的芥蒂吧。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "然後，在店長的支持下，\n小光總算──順利將巧克力送出去了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "……哇啊……好帥氣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "那個人……真的好棒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "哦哦？妳說誰很棒啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "當然是店長啦。\n她引導小光時展現的成熟態度……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "我也不曉得該怎麼形容，但──\n我也想變得像她一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "…………？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "…………？\n哈囉哈囉──？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "啊，艾尼～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "啊哈。聽起來不錯呢！\n小雷，那妳就試試看嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "──讓我來協助實現妳的憧憬！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "顯示活動標題圖示。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "嗯～首先試試看去咖啡廳打工怎麼樣？\n現在正在徵短期打工的地方……讓我來看看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "不、不用了啦！妳不需要配合我的妄想啦！\n更何況要是奶奶知道我去打工的話──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "……哦？所以也就是說，\n首先必須要跟妳奶奶確認對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "……事情就是這樣。那個，\n朋友邀我跟她一起去咖啡廳打工一段期間。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "啊，不、不過我很清楚自己還有真正該做的事，\n不該因為其他外務分心……咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "……凡事都是種經驗……妳會去拜託認識的人……\n……咦…………咦咦咦！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳老闆娘",
+      "Text": "嗯，詳情我都聽妳奶奶說了！\n妳可以自由使用這間店！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳老闆娘",
+      "Text": "我姑且會以老闆娘的身分協助妳……\n但只要別弄壞東西，要隨意變更菜單也沒問題喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "雖、雖然只是暫時的，但讓我在氣氛這麼好的店當店長……\n會影響這間店的評價吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳老闆娘",
+      "Text": "別在意，別在意。這間店本來就可以說像是為了興趣而開的。\n而且由活躍中的目白家大小姐擔任咖啡廳店長……唔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳老闆娘",
+      "Text": "好，制服也委託專家製作吧！\n連同妳朋友的份準備兩人份！再來是……排班表！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡廳老闆娘",
+      "Text": "得配合妳們學校的假日來安排把店借給妳們營運的日期對吧！？\n真是的～阿姨我找到新的生存意義了～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "啊哈，老闆娘也是個非常溫柔的人呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "但這待遇未免好過頭了吧？真的可以這麼隨心所欲嗎？\n我是在做夢嗎？這是夢吧？艾尼，可以捏一下我的臉頰嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "那我就不客氣了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "好痛……！？痛痛痛。\n……這不是夢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

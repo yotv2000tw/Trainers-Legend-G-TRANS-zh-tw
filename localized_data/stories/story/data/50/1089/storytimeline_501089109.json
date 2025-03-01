@@ -1,0 +1,513 @@
+{
+  "Title": "聖誕節",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "聖誕節就快到了。\n我想好好慰勞總是努力不懈的高尚駿逸，\n於是約她一起外出……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "咦咦！？這、這樣太不好意思了……\n怎麼能讓你跟我一起過節──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "………………\n啊……不行…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "只、只要訓練員不嫌棄，我很樂意……",
+      "ChoiceDataList": [
+        "太好了，那一起出去吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "那……那個！\n我有個想去的地方……\n可以陪我一起去嗎……？",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "老實說我有些驚訝。\n我還以為她會跟我客氣，\n沒想到卻主動提出要求……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──於是來到約定好的日子。\n明明我稍微提早到，\n但她人也已在集合地點等我了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "訓練員……！你來得真早。",
+      "ChoiceDataList": [
+        "駿逸才早"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "沒有啦，我只是想比你先到……\n也想先確認好遊玩路線……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "那個……\n這裡的燈飾每年都很美喔。\n而且又靠近海，所以即使冬天也很溫暖。",
+      "ChoiceDataList": [
+        "妳帶我來推薦的景點啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "算是吧。\n另外還有很多有趣的活動喔……\n像是攤販、街頭演唱會等等……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "我來帶路！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "接著我們便沿路逛起各區域，\n同時悠閒地欣賞著燈飾。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……你覺得……怎麼樣……？",
+      "ChoiceDataList": [
+        "非常漂亮！",
+        "非常漂亮！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……！是啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "──然後呢，這裡可以看夜景……！",
+      "ChoiceDataList": [
+        "喔喔～！",
+        "哇啊～！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "夜景也非常美麗，\n所以我很想讓訓練員看看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "…………\n你玩得開心嗎……？",
+      "ChoiceDataList": [
+        "當然開心！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "太好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "總覺得今天的她似乎跟平時不太一樣。\n是因為來到喜歡的地方所以情緒高昂嗎？\n不對……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "接下來到這裡！\n從樓梯看出去的風景可是我的獨家珍藏美景。\n沒什麼人潮，視野又好……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "一直去我喜歡的地方真是不好意思──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "不行……應該說……！\n這個我也很推薦喔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "唉……明明決定好\n今天不能說出那種話的……",
+      "ChoiceDataList": [
+        "那種話是指……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "嗚……\n那個……我在想……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "太過客氣、謙虛……\n似乎也不太好……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "說穿了那其實是因為害怕被他人拒絕，\n所以用謙虛來設防線保護自己……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "但明明訓練員……是這麼地溫柔。",
+      "ChoiceDataList": [
+        "駿逸……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "都在一起相處三年了，\n要是還繼續害怕被你拒絕，那……\n不就等於在說我不相信你嗎……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "所以……我想讓你知道，\n我並非不相信你……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "這個……！\n雖然不成敬意……不對！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "我覺得你收到一定會很開心才買下的！\n祝你聖誕節快樂！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她坦率地說出了真實的想法。\n要是回到我們剛相識時，\n想必她一定說不出這種話吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不過她的手卻正在發抖。\n令人深刻感受到她是多麼拚盡全力，\n於是我不禁……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（緊握──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……呃！？啊，手……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "嗚哇，原來我……\n抖得這麼厲害啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我不禁握住她的手，過了一會，\n冰冷的手漸漸停止發抖，恢復紅潤。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "嗚嗚嗚……我好沒用……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "對不起……\n看來我好像沒辦法立刻改變。",
+      "ChoiceDataList": [
+        "慢慢來就好了",
+        "慢慢來就好了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……呵。好的。",
+      "ChoiceDataList": [
+        "謝謝妳的禮物！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "不客氣……我也要向你道謝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "謝謝你。\n訓練員的手很溫暖喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "拆開她送的禮物一看，是手套。\n我立刻套上，兩人一起走下瞭望台。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "接下來……該去哪呢？\n差不多該吃晚餐了，可是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "咦～！這不是逸逸嗎♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "哎呀，妳說要跟訓練員一起出門，\n原來是來這裡啊？呵呵，真巧呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "妳、妳們也是……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "我家妹妹平時受你照顧了。\n哎呀，訓練員手上的手套……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "就是之前逸逸給我們看的\n網購頁面上那款！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "她問～～了好幾次\n「這款怎麼樣？」、「夠時髦嗎？」……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "啊！……原來如此！？\n原來不是逸逸自己想要～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "呵呵呵，我就覺得奇怪。\n果然是要送給訓練員的禮物啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "等一下……！不要說了啦！",
+      "ChoiceDataList": [
+        "原來還有這段過程啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "因……因為……\n嗚嗚…………！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "我們快走吧！訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "啊～！害羞了～！等等我們嘛────！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "駿逸拔腿狂奔逃離了現場，\n但一番波折後還是被姊妹追上，\n之後我們四人一起熱熱鬧鬧地返回學園。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "你有想吃的東西嗎？",
+      "ChoiceDataList": [
+        "要吃飯的話我知道一個好地方！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "──咦咦咦……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "其實我事先查好了幾家\n不用預約也能入座的餐廳或咖啡廳，就是為了\n得以因應今天的最終目的地自由變通。",
+      "ChoiceDataList": [
+        "這是我送妳的聖誕禮物",
+        "這是我送妳的聖誕禮物"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……謝謝你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "好厲害……牆上掛著菜單，\n每一道看起來都好好吃……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "該點什麼呢？\n啊，還有好多種聖誕蛋糕……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "草莓蛋糕……樹幹蛋糕……\n真難以抉擇……！",
+      "ChoiceDataList": [
+        "可以兩種都點喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "不行……要是兩種都點……！\n未免也太得寸進尺了……",
+      "ChoiceDataList": [
+        "妳在跟我客氣……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "別、別露出那種表情嘛……！\n這不算客氣啦……其實是那個……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "那個啊，因為我很容易發胖嘛，\n所以得注意控制體重才行……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "不過，那個…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "什麼？說出來"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "其實……我想跟你一起吃蛋糕……\n畢竟今天是聖誕節嘛……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "所以都點來一人分一半吧？\n這樣也可以兩款都嚐到味道……",
+      "ChoiceDataList": [
+        "當然好！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "呵……\n我也隱約覺得你應該會這麼說……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "嘿嘿嘿……再一次……\n祝你聖誕快樂……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

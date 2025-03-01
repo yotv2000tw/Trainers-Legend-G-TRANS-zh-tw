@@ -1,0 +1,464 @@
+{
+  "Title": "溫泉旅行",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我和生野狄杜斯一起跑完了\n閃耀系列賽最初的三年。\n然而忙碌的日子卻未就此結束。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅訓練員",
+      "Text": "──請問賽馬娘的狀況出現變化時\n該怎麼輸入「IRON WILL」呢？\n這app也能記錄精神方面的低落嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員",
+      "Text": "抱歉，\n可以請你詳細說明生野狄杜斯的這份數據嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "──打擾了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員",
+      "Text": "原來如此。你讓「IRON WILL」透過學習\n獲得賽馬娘的個性啊。",
+      "ChoiceDataList": [
+        "是的。若想促進AI學習……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新手訓練員",
+      "Text": "謝謝你總是這麼熱心，真的很有幫助。\n我泡了紅茶，請用。",
+      "ChoiceDataList": [
+        "謝謝！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "我先失陪了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（振動聲）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "手機發出振動，我打斷訓練員們的提問，\n確認手機，原來是待辦工作通知。\n螢幕上顯示著「溫泉旅行」四個字。",
+      "ChoiceDataList": [
+        "對了，溫泉旅遊券！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我把「IRON WILL」課程做個收尾，\n趕往生野狄杜斯身邊。\n她仍一如往常地做著訓練。",
+      "ChoiceDataList": [
+        "生野，我們去泡溫泉吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "唔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "……對喔。\n我想起來了，抽獎抽到的溫泉旅遊券。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "好，我們走吧。\n該是維護身體的時候了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "溫泉旅行當天。\n生野狄杜斯的行李量相當多。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "訓練員，\n在車上要喝些什麼嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "有茶、水跟咖啡。\n要是你還沒吃早餐，\n這裡還有飯糰跟鹹麵包。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她列出的品項無一不是我平時愛吃愛喝的東西。\n甚至還設想到了我可能會沒吃早餐就來。",
+      "ChoiceDataList": [
+        "真不愧是生野，好貼心啊！",
+        "真不愧是生野，好貼心呀！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "謝謝。\n畢竟跟訓練員共度的這三年也不是白過的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "旅行期間若需要任何支援就交給我吧。\n我還事先做好了充分調查。",
+      "ChoiceDataList": [
+        "就靠妳了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "到了呢。\n但接下來才是重點喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "還沒進入旅館前，\n我們就已經在溫泉街散完步了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "傳統古早味遊戲場真是有趣呢。\n──動動身體後是不是有點餓了？",
+      "ChoiceDataList": [
+        "嗯。去物色一些小吃吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "有溫泉日式饅頭、溫泉胡蘿蔔、可樂餅、\n霜淇淋……也可以買好蔬菜或蛋後\n用溫泉蒸氣蒸來吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "訓練員，\n你的肚子正在表達想吃什麼？",
+      "ChoiceDataList": [
+        "溫泉日式饅頭吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "最近的店家是知名老店，可以品嚐到招牌滋味。\n要是不喜歡吃太甜我推薦二十五公尺外的店家，\n若想吃卡士達醬等新潮口味的話再走四十公尺──",
+      "ChoiceDataList": [
+        "妳連口味、距離都事先調查好了！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "是的。因為每次都會猶豫不知道該選哪家店啊。\n只要事先調查好就能做出正確選擇避免後悔了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "因為她的事前調查，已經讓我玩得很愉快了，\n沒想到她還藏了這招。",
+      "ChoiceDataList": [
+        "我可以發出開心的吶喊嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "呵呵呵，\n我會讓你不斷發出吶喊的喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "訓練員，\n吃晚餐前要不要去二樓的休憩室看看？\n聽說會舉辦和太鼓演奏會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "還聽說開演前會有一小段介紹。\n我們最好早點入場。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我們來到休憩室時只有零零落落的觀眾。\n才剛找到位置坐下，\n館內便隨即響起廣播，告知活動訊息。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "等一下應該會擠進很多人吧。\n能占到好位置真是太好了。",
+      "ChoiceDataList": [
+        "今天真的多虧生野幫了好多忙"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "呵呵，謝謝你的稱讚。\n敬請繼續期待。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "我會親手為訓練員獻上最棒的旅行體驗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "泡溫泉中……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我發現大浴池附近放著按摩椅。\n趁著泡完溫泉後身體放鬆時按摩肌肉最有效了。\n正當我打算坐下時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "嚇、嚇我一跳！妳什麼時候來的！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "……你要按摩嗎？\n依照我個人淺見，比起機器，\n手指更能因應身體做出細微的調整。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "如果你願意的話，請讓我來……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我完全來不及回答，\n只能在生野狄杜斯的催促下讓她幫我按摩肩膀。\n她的力道適中，令人感到很舒適。",
+      "ChoiceDataList": [
+        "妳說得沒錯，比起機器舒服多了",
+        "妳說得沒錯，比起機器舒服多了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "啊……那就好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "……呃，訓練員。\n真的很對不起！",
+      "ChoiceDataList": [
+        "咦！？怎麼突然道歉？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "剛剛我說手指比機器更好，\n其實只是情急之下的藉口！",
+      "ChoiceDataList": [
+        "藉口？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "……這次旅行的目的是維護我們雙方的身體健康。\n所以我……做了準備。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "當然，我並沒有事先告訴你，\n所以無論訓練員選擇哪種按摩都是你的自由，\n但……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "剛剛我還是不由自主地脫口而出。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "很難得看到她說起話來這麼不得要領。\n也就是說，\n她已經事前準備好要替我按摩……？",
+      "ChoiceDataList": [
+        "妳不需要道歉喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "──不。\n除此之外我還找了其他藉口。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "你找我去泡溫泉時，\n我表現得彷彿像剛剛才想起這件事……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "但其實我一直都記得。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "所以你來問我之前……\n其實我曾去了一趟訓練員休息室。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "因為我們約好，\n要是你忘了我會去提醒你……",
+      "ChoiceDataList": [
+        "啊！抱歉我沒注意到！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "不，我也知道你很忙碌。\n我本來在一旁等你講完話。\n但是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "看到其他訓練員端了茶給你……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "回過神來時……我就已經離開休息室了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "我說謊掩蓋自己的行為，對你有所隱瞞，\n真的非常抱歉。",
+      "ChoiceDataList": [
+        "我並不在意喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "不！我很清楚我做出了嚴重的背信行為，\n甚至恐怕動搖兩人間的信賴關係！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "我還不夠成熟，沒能徹底管理自己的精神層面，\n請……請別因此對我心寒……",
+      "ChoiceDataList": [
+        "才不會心寒。生野真是老實"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "其實她大可以選擇保密，\n但還是老實地對我坦誠自己有事瞞著我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她實在太過老實了，令我莫名過意不去。\n不過她寧願做到這地步也不願失去我的信賴，\n這份心意讓我再高興不過了。",
+      "ChoiceDataList": [
+        "我也得忠實對待妳的誠意才行",
+        "我也得忠實對待妳的誠意才行"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "訓練員……你已經夠誠心了。\n不過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "要是你還願意繼續信賴我的話──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "可以答應我一個要求嗎？",
+      "ChoiceDataList": [
+        "什麼事？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "……我可以準備水壺放在你的休息室，\n供你隨時飲用嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我在這段時光中，\n深刻地感受到了\n與生野狄杜斯之間無可取代的情誼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

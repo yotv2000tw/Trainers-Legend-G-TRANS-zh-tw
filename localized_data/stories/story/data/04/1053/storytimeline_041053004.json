@@ -1,0 +1,334 @@
+{
+  "Title": "奔馳吧！通往明天的賽場！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "呼、呼、呼、呼……\n教、教官！怎麼樣！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深教官",
+      "Text": "……這個嘛，跑得比想像中還好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "青竹回憶給教官看她在草地上的表現，想藉此讓教官放心──\n然而受託前來的教官卻面無表情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "那、那個，教官！很抱歉我自作主張！！\n可是我覺得，這種狀態也足以參加多項目競技大會了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深教官",
+      "Text": "……妳的實力，我很清楚。\n還有妳想跑草地比賽的心情也是。但是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深教官",
+      "Text": "──訓練員，你覺得呢？\n你有信心讓這孩子不會後悔參加草地比賽嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我嚇了一跳。該讓她在這短短的期間內改跑草地路線嗎？\n這選擇，將會影響到一位賽馬娘的賽跑生涯。然而──",
+      "ChoiceDataList": [
+        "沒問題。青竹在草地上也有辦法比賽"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "──！！\n是的！！就是說啊，我有辦法比賽！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "青竹回憶已經做出了選擇。\n既然如此，那我該做的事也確定了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深教官",
+      "Text": "……我懂了。真是太好了，青竹同學。\n妳找到了一個很棒的夥伴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "──是的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，青竹回憶如願以償，\n即將參加多項目競技大會的草地1600公尺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──多項目競技大會當天的天候不佳，\n但中午之後就雨過天晴了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（哇啊啊啊……！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "（想當然，小栗前輩根本不認識我。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "小栗前輩！早安！\n今天請多多指教！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "喔，妳也要參加同一場比賽嗎？請多指教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "──今天這場比賽跑完之後！\n我有信心讓小栗前輩記住我的名字。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（──喀咚！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "（今天要跑在小栗前輩後面……！其實我很想衝出去！\n超越她比較放心！可是！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "（別跑太前面……別跑太前面啊我！\n想想訓練員說過的話！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "換作平常可會飛奔出去的青竹回憶，目前待在偏後方的位置！\n第一次參加草地比賽，果然想跑得比較謹慎嗎？",
+      "ChoiceDataList": [
+        "（不錯，很好……！）",
+        "（不錯，很好……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "剛剛為什麼要喊停呢？\n我覺得自己起跑衝得很順利啊！",
+      "ChoiceDataList": [
+        "一開始就衝太快也不好"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "唔唔。你的意思是不用「咻──！」地盡全力衝出去嗎？\n可是我開場才能跑得最有活力耶！",
+      "ChoiceDataList": [
+        "不過，照護腳趾甲時也是循序漸進的對吧？",
+        "不過，照護腳趾甲時也是循序漸進的對吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "那跟熱血訓練是一樣的道理啊！\n重要的是平常一點一滴的累積──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "──啊，難不成比賽時也一樣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "青竹回憶的武器，是追逐夢想的爆發力。先是不斷累積，\n等對手疏忽大意後再一鼓作氣釋放出來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "（多虧平常和訓練員踏實地努力，\n我才能在這裡參賽。所以！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "（我要做的事情就只有一件。\n那就是相信訓練員和我的夢想！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "好的，領先隊列擠在一起通過了第四彎道！\n距離最後直線還有──哎呀！？",
+      "ChoiceDataList": [
+        "上啊，青竹！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "青竹回憶從外側衝上來了！好驚人的氣勢！\n她並非狀況不佳！而是在後方蓄勢待發──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "……唔！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "（無論如何我都要追上她！！\n追上──我的勁敵！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "喝啊啊啊────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這時刮起一陣強風。坐在最後直線前觀賽的我，\n看到青竹回憶從眼前極近之處飛奔而去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "那一瞬間──\n青竹回憶確確實實地跑在小栗帽前面。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "是內側！？還是外側！？是內側快了一些嗎？\n贏家是反追回來的小栗帽──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "再來是以鼻差位居第二的青竹回憶！\n這可是大爆冷門！第三名是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "呼、呼、呼……！\n啊──我輸了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "……妳，是青竹回憶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "咦──啊，小栗前輩！辛苦了！！\n奇怪，我有做過自我介紹嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "播報員喊了很多次，我都記起來了。\n……這場比賽非常精彩，希望我們還能再戰。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "啊……！！當然好！！\n一言為定！！我們要再一起跑步喔，小栗前輩！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "直到競技大會閉幕前，青竹回憶都一如往常地活力十足。\n可是當訓練員室的門一關上，她卻突然哽咽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "訓練員……唔……",
+      "ChoiceDataList": [
+        "妳表現得很好……！",
+        "妳表現得很好喔……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "嗚……嗚嗚……！\n我不甘心！訓練員，我好不甘心……！",
+      "ChoiceDataList": [
+        "下次贏回來吧！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "是的！！沒錯！！\n你願意跟我一起嗎？訓練員！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我深深地點頭答應。\n我們要在閃耀系列賽贏過小栗帽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我和青竹回憶無止盡地追求熾熱對決的旅程，\n雖然才剛剛開始──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "那就再次請你多多指教囉！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──但我心想，有這份熱情，\n無論將來面對什麼的困境都能披荊斬棘吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

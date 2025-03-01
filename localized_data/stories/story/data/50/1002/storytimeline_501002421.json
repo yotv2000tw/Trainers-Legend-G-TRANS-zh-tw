@@ -1,37 +1,37 @@
 {
-    "Title": "寶塚紀念結束後．心跳與光輝",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "『宝塚記念』を好走したサイレンススズカ。\nレース後、勝負に敗れたエアグルーヴは\nそのプライドにかけて再戦を望むのだった。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "無聲鈴鹿接受氣槽的那份熱忱，\n堅定地和她握手。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "觀看了「寶塚紀念」的比賽，\n神鷹和草上飛也點燃鬥志，\n為了要向無聲鈴鹿挑戰而有所行動。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "草上飛"
-            ]
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "之後不久就是夏季集訓，\n無聲鈴鹿即將開始新的戰鬥。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "寶塚紀念結束後．心跳與光輝",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "無聲鈴鹿稱霸了「寶塚紀念」。\n比賽結束後，輸掉的氣槽賭上尊嚴，\n希望能有機會再次對決。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "無聲鈴鹿接受氣槽的那份熱忱，\n堅定地和她握手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "觀看了「寶塚紀念」的比賽，\n神鷹和草上飛也點燃鬥志，\n為了要向無聲鈴鹿挑戰而有所行動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "草上飛"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後不久就是夏季集訓，\n無聲鈴鹿即將開始新的戰鬥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

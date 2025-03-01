@@ -1,0 +1,543 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "傍晚時分。我和成田路\n一起去買了訓練用的備用品，\n在回程的路上──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "前面聚集了一群人……\n訓練員，會是什麼事呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "該不會是有特賣會吧？\n如果有便宜又好用的東西，是不是可以買點──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，\n好玩的抽獎活動！\n喔，在那裡的不是小路嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "妳還是一樣漂亮呢。\n怎麼樣，要不要來抽獎啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "謝謝誇獎。\n原來如此，是抽獎活動啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "訓練員，我記得我們有抽獎券對吧？\n剛才拿到的那張。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "啊，不過……這是用特雷森學園的經費\n買東西時拿到的東西。\n我們不能使用吧。",
+      "ChoiceDataList": [
+        "不，沒問題的",
+        "不，沒問題的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在這種情況下，可以由訓練員來判斷，\n自行決定怎麼做。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "這樣啊！\n那麼，不要白白浪費這個機會，\n盡量抽一些好東西吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "訓練員，可以把力量借給我嗎？\n我想結合我們兩個人的運氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我點了點頭，和成田路兩個人一起\n握住了抽獎機的把手。然後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "保持規律地轉了幾圈！\n結果究竟會如何呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "…………咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "是特獎「溫泉旅遊券」……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "不，那個……",
+      "ChoiceDataList": [
+        "中大獎了喔，成田路"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "可是，不可能會有這種事吧。\n因為……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我很少在這種一次定勝負的\n情況下展現出好運氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "明明每次都會只差一步。\n咦咦咦咦……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我抽到特獎……\n我……抽到了……",
+      "ChoiceDataList": [
+        "是啊，沒錯！",
+        "嗯，沒錯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "這不是騙人的吧？是真的對吧？\n這樣的話……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "太好了──！謝謝！\n一定是託了訓練員的福。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "意想不到的幸運……\n竟然會讓人如此開心啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "成田路在瞬間變得欣喜若狂。\n她原本似乎對於不熟悉的幸運而感到困惑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "雖然很感激……但總覺得無法冷靜。\n我心中那要是能永遠這麼幸運就好的心情，\n以及……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "這麼幸運感覺會變沒用的心情──\n兩種感受在互相碰撞……嗚嗚嗚～",
+      "ChoiceDataList": [
+        "總之現在先開心一下吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "說、說得也是！\n畢竟這可是特獎呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "不過……我還是無法輕易收下。\n這個溫泉旅行──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我想當成是努力過後，\n證明我達成目標而獲得的「獎勵」！",
+      "ChoiceDataList": [
+        "意思是沒有要立刻去嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是的！要去的話，\n就要達成站上頂點這個目標後再去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "如果不這麼做的話\n我想我無法打從心底享受。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "成田路的性格非常認真。\n看來她果然無法接受\n在途中就獲得獎勵。",
+      "ChoiceDataList": [
+        "好，那就告一段落後再去吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "好的！抱歉，竟然說出這麼麻煩的要求。\n不過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我覺得獲得榮耀之後再去，\n應該會比現在還要快樂好幾倍。\n為了訓練員，我也必須這麼做！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──溫泉旅行。\n遠大的夢想，再增添些許療癒，\n成田路繼續向前邁進。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "特等胡蘿蔔漢堡排！\n在比較有機會抽中的東西裡面，\n抽到了最好的一個呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "畢竟特獎是不可能實現的夢想，\n我已經盡力而為了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "真不錯呢……胡蘿蔔漢堡排。\n其實……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我有點尊敬它。",
+      "ChoiceDataList": [
+        "胡蘿蔔漢堡排嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "並沒有什麼奇怪的意思哦。\n我只是覺得它營養均衡這點很棒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我希望我也能跑出這種感覺。\n畢竟這可是完美的美味。",
+      "ChoiceDataList": [
+        "這樣啊……妳打算怎麼調味呢？",
+        "這樣啊……妳打算怎麼調味呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "讓我想想……稍微灑點鹽或是\n做成照燒口味也不錯──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "但我還是想直接\n沾上附帶的醬汁來享用！",
+      "ChoiceDataList": [
+        "不特別做些變化嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是的，因為這是廠商考慮過後，\n做出的最佳調味。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "直接這樣吃才是最棒的。\n好，我開動了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "完成度高的東西是不需要耍小手段的。\n我和成田路一起\n享受了正統的味道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "哇，抽到了。\n相當幸運呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "有這麼多胡蘿蔔的話，\n好像可以做很多東西……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "啊，對了！要不要一起\n做備用的胡蘿蔔條呢？",
+      "ChoiceDataList": [
+        "備用的胡蘿蔔條？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是的，生吃當然是沒問題，\n也可以烤至酥脆，\n或炸到像是花林糖那樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "在訓練空檔吃下去的話，營養滿分！\n雖然營養補充品也不錯，\n但也可以跟這個一起吃！",
+      "ChoiceDataList": [
+        "妳、妳好像特別開心呢……",
+        "妳、妳好像特別開心呢……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "耶嘿嘿，其實啊～\n比起營養補充品的藥錠，\n我果然……還是比較喜歡胡蘿蔔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我覺得這對訓練員的身體也有好處！\n可以拜託你一起幫我備料嗎？",
+      "ChoiceDataList": [
+        "當然沒問題！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "比想像中還要自然派的成田路。\n在這之後，我們兩個努力地\n做了胡蘿蔔條來吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "嗚嗚……只有一根啊～\n雖然是比安慰獎好啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "不過！本來就是這樣嘛。\n我會心懷感激地吃掉。",
+      "ChoiceDataList": [
+        "重新振作得好快啊！？",
+        "重新振作得真快呢！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "哎呀，該說是習慣了嗎？\n還是說總是這樣呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我並不是個幸運的人。\n不過，這樣剛剛好呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "運氣不好的話，就會覺得\n要靠自己努力做些什麼才行！",
+      "ChoiceDataList": [
+        "原來如此，真了不起啊",
+        "原來如此，真了不起呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "不，抱歉……\n如果我更幸運一點的話，\n就能讓訓練員輕鬆一點了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "今後也請你多多指教！\n胡蘿蔔，我們一起分著吃吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就算結果差強人意，\n成田路也不會氣餒。\n我們兩個人氣勢十足地吃著胡蘿蔔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "衛生紙……因為很常使用，\n所以也不算是沒用……嗚嗚嗚……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "訓練員，\n我們是哪裡做得不好呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是開始轉動的時機嗎？\n還是應該要再用力一點\n轉動把手比較好呢？",
+      "ChoiceDataList": [
+        "不，都不是",
+        "不，都不是喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "那是什麼呢？請你告訴我！\n簡單來說，不好的地方是──！？",
+      "ChoiceDataList": [
+        "是「運氣」啊",
+        "是「運氣」喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "運氣……這樣的話，我就無能為力了呢。\n就算想反省也無法……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就算改變了做法，也有沒辦法改善的事情。\n成田路感到垂頭喪氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "Title": "因頭痛而憂鬱",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "這裡沒有賣梅乾嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "嗚嗚，那怎麼辦……",
+      "ChoiceDataList": [
+        "妳怎麼了嗎？",
+        "妳怎麼了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "沒有，我頭很痛，\n所以想找梅乾貼在頭上……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "在我故鄉那邊，都說把梅乾貼在\n太陽穴上頭就不會痛了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "好痛喔……我要快點找到梅乾才行……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雪之美人似乎正為頭痛所苦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

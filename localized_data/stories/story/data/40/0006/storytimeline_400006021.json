@@ -1,0 +1,332 @@
+{
+  "Title": "勝利的功過",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們在「凱旋門賞」拿下第一名，\n實現大家期盼已久的宿願──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "回國後，我們的日常生活有了大幅轉變。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "節目主持人",
+      "Text": "那麼，有請特別來賓登場！\n歡迎<chrname>小姐和引導她的\n<username>訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "電視上的藝人",
+      "Text": "哇～是本人耶～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店店員",
+      "Text": "<chrname>周邊發售中～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女高中生A",
+      "Text": "不妙，得趕緊去買！\n我家附近的店也全都賣光了啊～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女高中生B",
+      "Text": "啊～<chrname>好帥喔～♪\n好喜歡、超喜歡、最喜歡了～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "幾乎每天都會收到採訪或上節目的邀約，\n行程全被媒體相關的工作填滿。",
+      "ChoiceDataList": [
+        "累、累死了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但<chrname>\n也早就預料到這個情況。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這都是為了替明年的活動做準備。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……<chrname>\n能在「凱旋門賞」中領先其他人，\n都是多虧了來自大家的援助。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "讓我們能在「代表交流賽」學到草地經驗，\n還準備了抵達當地後的訓練設施，\n以及無可挑剔的並行練跑對象。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之所以能辦到這些事，全都多虧了「L'Arc計畫」\n仍在運作，以及支持這個計畫的──",
+      "ChoiceDataList": [
+        "「贊助者」們"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "不只是讓全日本的人懷抱夢想，\n也希望能請大家一起幫忙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "一個人的存款，對一個組織來說\n只是杯水車薪。然而，\n如果能夠獲得全國人民的支持──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "……應該就能在背後支持著\n所有夢想成為世界第一的賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──明年想要參加「L'Arc計畫」的\n賽馬娘一定會增加吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "若無法爭取到充足的預算，每個人能\n分配到的經費也會變少。但那樣可就傷腦筋了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因為<chrname>\n還打算再拿下「凱旋門賞」。",
+      "ChoiceDataList": [
+        "如果明年也能獲勝，就達成連霸了啊",
+        "如果明年也能獲勝，就達成連霸了呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "既然已經成為了貨真價實的「巨星」，\n就得做好所有能做的事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "感覺<chrname>的表情\n也變得比去年還要成熟了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員",
+      "Text": "嗨，冠軍！\n麻煩你們指導啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中堅訓練員",
+      "Text": "前輩，你也太厚臉皮了吧。\n<username>訓練員，\n今天的模擬賽，還請多多指教。",
+      "ChoiceDataList": [
+        "我才是，請多指教"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今天終於有空和幾位前輩訓練員的\n賽馬娘一起參加模擬賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "接著，閘門敞開──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "呼……呼……！\n<username>訓練員……！",
+      "ChoiceDataList": [
+        "……佐岳小姐？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "<chrname>呢……！？",
+      "ChoiceDataList": [
+        "……呃？她正在參加模擬賽喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我替佐岳鳴指出\n正在賽道上奔跑的<chrname>。\n她跑步的樣子──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……跟平常截然不同，\n表現明顯欠佳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "……對不起，\n<username>訓練員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "可以立刻讓她停下來嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我急忙中斷模擬賽，\n帶<chrname>前往保健室。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室老師",
+      "Text": "我大致看了一下，她應該沒有受傷，\n但保險起見，我會寫一封介紹信，\n之後帶她去大學醫院仔細檢查吧。",
+      "ChoiceDataList": [
+        "……我明白了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "曼哈頓咖啡，\n還有里見光鑽也一樣啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "可惡……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任學園理事長",
+      "Text": "……她的腳沒事吧！？\n在競賽後半簡直就像是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員",
+      "Text": "她暫時不能參賽，\n現在最重要的是讓她好好休養。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員",
+      "Text": "我們都疏忽了\n「凱旋門賞」的風險。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醫生",
+      "Text": "她受到的傷害非常嚴重。\n原因應該就是\n參加了「凱旋門賞」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醫生",
+      "Text": "歐洲的賽場和日本截然不同。\n既然環境有所改變，\n當然也會累積疲勞和壓力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醫生",
+      "Text": "……然而，過度興奮會讓大腦麻痺。\n讓人產生就這樣結束也無所謂的錯覺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醫生",
+      "Text": "賽馬娘就會變得不太在意疼痛，\n甚至輕易地忽視自己的極限。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任學園理事長",
+      "Text": "……如果她沒有和我們一同追尋夢想，\n是不是就不會受傷也不至於變得狀態不佳了呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任學園理事長",
+      "Text": "鳴，\n我們總是缺乏經驗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任學園理事長",
+      "Text": "妳……得小心別犯錯了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "……是誰在逼迫她們？\n是誰沒有好好阻止她們？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "……我明明知道周圍的人提供的支援，\n足以改變她的人生。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "是誰用夢想蒙蔽了她們的雙眼！？\n是誰用期待壓垮了她們！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "……唔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "我到底在幹什麼……！\n我可是負責人啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "我明明最沒有資格\n剝奪她們的可能性……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Title": "缺席的理由……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "大鳴大放沒在訓練時間出現，\n我便四處尋找，最後在圖書室找到了她。",
+      "ChoiceDataList": [
+        "大鳴大放，訓練呢……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "唔！？抱歉……！\n太專注看書都沒注意到時間！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "看天文雜誌看到忘我了……\n看著宇宙的遼闊……不小心就沉浸在其中。\n意識隨著對宇宙的幻想飄得越來越遠……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "真的很抱歉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看來大鳴大放已在發自內心地反省。\n於是我叮囑她今後一定要注意時間。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

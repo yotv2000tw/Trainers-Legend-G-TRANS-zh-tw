@@ -1,0 +1,520 @@
+{
+  "Title": "新年參拜",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──新的一年到來。微光飛駒在去年年底\n成為了短距離的新英雄，不過……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "人們討論的焦點果然還是「有馬紀念」。\n特別是成田白仁，\n身為最強存在的她受到了壓倒性的關注。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "有馬紀念"
+      ]
+    },
+    {
+      "Name": "記者A",
+      "Text": "成田白仁小姐，\n去年妳充分展現了活躍表現呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "請跟我們分享今年春天的目標。\n果然打算先挑戰「天皇賞（春）」\n然後前進「寶塚紀念」嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "天皇賞（春）",
+        "寶塚紀念"
+      ]
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "──太嫩了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者B",
+      "Text": "咦，妳的意思是……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "能參賽的GⅠ──我全部都要跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者A",
+      "Text": "咦咦，妳說全部……真的要全部都跑嗎！？\n白仁小姐，請留步！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "哇啊，能參賽的GⅠ全都要跑啊。\n好厲害喔，訓練員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我跟微光飛駒兩人一起透過電視\n看著一片嘩然的記者會會場。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "不過，白仁為什麼要這麼亂來呢？\n是不是因為去年沒能實現世間的傳聞……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "沒跟自家姊妹來場大決戰，\n讓她覺得很煩躁？",
+      "ChoiceDataList": [
+        "是啊，或許那也是原因之一……",
+        "嗯，或許那也是原因之一……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "成田白仁的親姊姊是琵琶晨光。\n她是身擁勝利方程式的頭腦派選手，也是其中一位現役最強賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "琵琶晨光"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "成田白仁一直很想進行姊妹對決，\n然而琵琶晨光卻在去年秋天受傷，\n因此沒能實現這個目標。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這只是我的推測……\n但她或許是想藉由參加大量競賽\n來發洩這股挫折感吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "但她說GⅠ全都要參加喔，\n這麼邪惡的參賽計畫真的沒問題嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好吧，或許真的沒問題。\n畢竟白仁可沒有弱到需要我來擔心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "訓練員，我們還是快去新年參拜吧！\n她們兩個已經在等了！",
+      "ChoiceDataList": [
+        "是啊，走吧！",
+        "嗯，走吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今天的新年參拜，我們還約了\n另外兩個人一起來。沒錯，那兩人就是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "新年快樂～～～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "新年快樂，嘿喝！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "──大家！\n新年快樂！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "菱曙與動作片演員大姐姐。\n兩人都與微光飛駒一起\n並肩挑戰著未來的難關。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "我們去年都發生了好多事呢。\n決定好今年的抱負了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "我的抱負是\n「成為能夠拯救他人的英雄」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "我我我～！我的很簡單，\n就是「拿下第一場勝利」♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "因為我自從秋天出道以來還沒有跑贏過，\n所以目標就是！首先拿下一勝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "但畢竟我連輸了兩次嘛……\n或許不該繼續傻傻地向前衝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "我決定春天前先暫停參賽，\n暫時專心訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "嗯嗯，修行很重要呢。\n我會為妳加油的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "我的目標……應該是「下次一定要合格！」吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "其實呢，之前我參加某部好萊塢電影的選角，\n進到了第二輪甄選呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "喔喔，真的嗎！？\n進入第二輪甄選很厲害嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "沒錯！因為下一輪就是最終甄選了！\n我目前參加過的甄選中，\n這次是最好的機會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "只要成功入選就能逆轉現在的情勢！\n說不定還能一口氣成為巨星呢……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "所以我也要把跟賽馬娘學到的武打動作\n鍛鍊得更加精湛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "就像這樣，咻噠噠噠噠……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "好痛痛痛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "唔！？妳沒事吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "嗚嗚，背上肌肉好痠痛……不過不要緊，\n肌纖維痠痛正是成長的證明！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "真的沒事嗎～？大姐姐，\n仔細一看，妳全身上下好多瘀青……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "根本不算什麼。\n畢竟賽馬娘的武打動作很激烈啊。\n這樣還只是小傷。",
+      "ChoiceDataList": [
+        "請多保重。身體是一切的基礎啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "說得也是……謝謝你擔心我。\n我會再盡力做好照護的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "別太逞強喔？\n千萬絕對不能受傷啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……然後，我們一行人完成了參拜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "大家接下來有其他行程嗎？\n沒有的話一起去玩吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "贊成！要去哪玩？\n我對這一帶不太熟呢。\n訓練員知道什麼有趣的地方嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "真想盡情玩樂一番呢。\n不過悠閒地聊天也不錯～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "哪個行程最能讓她們盡興呢？\n這時最適合去……",
+      "ChoiceDataList": [
+        "吃頓美味的午餐",
+        "去遊樂園！",
+        "到卡拉OK舉辦新春歌唱大賽！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "喔喔，聽到這個提議我也開始餓了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "唔唔唔唔……\n好煩惱該點哪道菜喔～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "胡蘿蔔漢堡蓋飯看起來很好吃，\n但份量好大……！\n啊，胡蘿蔔配熱沾醬也不錯耶……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "別～擔心～！\n多點幾道菜一起分享吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "喔喔，還有這招啊！\n曙曙果然可靠～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "曙曙"
+      ]
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "呵呵呵，大家一起到餐廳\n就可以這樣分享，真不錯呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "總覺得好久沒這樣了……\n好像回到了學生時代……",
+      "ChoiceDataList": [
+        "我懂妳的感覺"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "妳們想吃什麼？\n還要點甜點喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們就這樣度過了開心的新年。\n大家似乎都放鬆了身心，\n順利補充了活力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "遊樂園！走吧走吧────！！\n一起去搭雲霄飛車！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "明明是新年還這麼多人啊～！",
+      "ChoiceDataList": [
+        "啊，正在上演英雄秀！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "真的嗎！？我要看我要看────！！\n大家一起去看嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們就這樣一起在觀眾席坐下。\n今天的主角英雄的必殺技是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "磁鐵超人",
+      "Text": "看招，巨大怪獸！\n我要用磁力能量進行宇宙爆炸變身！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "喔喔喔喔喔喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "巨大化英雄太厲害了！\n好，我也來模仿看看那一招！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "嗯，小微，妳快表演看看！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "看招，巨大曙曙！\n宇宙爆炸微光！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "曙曙"
+      ]
+    },
+    {
+      "Name": "菱曙",
+      "Text": "……咦咦咦？好像沒什麼變？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "有變啦～！我努力踮腳尖，\n變高了一點！怎麼樣啊～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "啊哈哈，嗯嗯！\n好像真的看起來變高了一點。\n下次拍攝時我也試看這招吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "微光飛駒拼命地踮著腳尖，\n沉浸在稍微長高了一點……的感覺之中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "聽起來很好玩！剛好今天很冷，\n唱些熱血的英雄主題曲炒熱氣氛吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "兩人",
+      "Text": "衝啊！站起來！胡蘿蔔～♪\n熱血周邊圍繞著～愛～與勇氣～\n跟胡～蘿～蔔～素～～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "耶～耶♪",
+      "ChoiceDataList": [
+        "呼～～～！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "大姐姐，妳好會唱歌喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "呵呵呵，因為我有在鍛鍊腹肌啊。\n我還很擅長腹式呼吸喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "動作片演員",
+      "Text": "小微也唱得很好啊，不愧是賽馬娘。\n畢竟妳們除了比賽，\n還要開演唱會嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "沒錯！\n為了在舞台上也能成為英雄，\n我拼命練習了很久喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好～！\n下一首就點\n「嘿呀☆胡蘿蔔超人音頭」來唱吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她跟大姐姐合唱，而菱曙在一旁\n為兩人助興。大家一起唱了各種歌曲，\n度過快樂的時光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

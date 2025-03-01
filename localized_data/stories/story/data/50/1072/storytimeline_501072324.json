@@ -1,5 +1,5 @@
 {
-  "Title": "寶塚紀念結束後．勇者的說法",
+  "Title": "寶塚紀念結束後．勇者如此說道",
   "TextBlockList": [
     {
       "Name": "",
@@ -56,13 +56,13 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
+      "Name": "獨白",
       "Text": "稻荷一像變了個人般猛烈衝刺。\n青竹回憶即使已經到了極限，\n仍拚命向前跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
+      "Name": "獨白",
       "Text": "──她們簡直就像\n在靠著鬥爭心推動身體奔跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -87,7 +87,7 @@
     },
     {
       "Name": "八重無敵",
-      "Text": "…………唔。",
+      "Text": "…………！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -111,7 +111,7 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "哈哈～被我說中了嗎？\n如果就這樣了結這件事，\n我們彼此都會睡不好覺吧？",
+      "Text": "哈哈～被我說中了嗎？\n如果就這樣了結我們的勝負，\n彼此都會睡不好覺的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -178,8 +178,8 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
-      "Text": "我認為她們奔跑的動力來源出自於鬥爭心。\n她們徹底展現出對勝利的強烈鬥爭心，將其\n化為超越極限的潛力。我這麼說道。",
+      "Name": "獨白",
+      "Text": "我回答，我認為她們奔跑的動力出自鬥爭心。\n她們徹底展現出對勝利的強烈鬥爭心，\n將其化為超越極限的潛力。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -213,7 +213,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
+      "Name": "獨白",
       "Text": "「火水合一」的本質是控制鬥爭心防止失控，\n所以不會徹底解放鬥爭心，\n這就是八重無敵的跑法。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -225,20 +225,20 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
-      "Text": "我告訴她如果徹底釋放所有的激情，\n或許能夠超越現在的極限。",
+      "Name": "獨白",
+      "Text": "我告訴八重無敵，如果徹底釋放所有的激情，\n或許能夠超越現在的極限。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
-      "Text": "不過，我不知道八重無敵本人\n是否能控制得了那股激情。",
+      "Name": "獨白",
+      "Text": "不過，我不知道她\n是否能控制得了那股激情。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
-      "Text": "論控制之前，甚至不曉得她能否真正解放\n壓抑在內心的激情，並將其展現出來。\n我如此向她說明。",
+      "Name": "獨白",
+      "Text": "我告訴她在論控制之前，我甚至不曉得\n她能否真正解放壓抑在內心的激情，\n並將其展現出來。",
       "ChoiceDataList": [
         "因為妳害怕順從自己的激情行動",
         "因為妳害怕順從自己的激情行動"
@@ -252,20 +252,20 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
+      "Name": "獨白",
       "Text": "所以即使想解放鬥爭心，\n也可能在無意識中繼續壓抑那股激情。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
+      "Name": "獨白",
       "Text": "這樣可能反而導致\n她迷失自己的跑法。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
-      "Text": "我告訴她這種捨棄「火水合一」，\n解放鬥爭心奔跑的方法，\n伴隨著極大的風險。",
+      "Name": "獨白",
+      "Text": "我告訴她，這種捨棄「火水合一」，\n解放鬥爭心奔跑的方法，\n伴隨著極大的風險。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -276,7 +276,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
+      "Name": "獨白",
       "Text": "我繼續說明，如果八重無敵\n打算採取解放激情的方法，\n那我也會盡全力協助她。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -303,13 +303,13 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
+      "Name": "獨白",
       "Text": "我跟八重無敵離開賽場，\n一起走向車站。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
+      "Name": "獨白",
       "Text": "八重無敵看起來已經順利轉換心情，\n昂首闊步地直視前方。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -324,38 +324,38 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
-      "Text": "「天皇賞（秋）」將於東京賽場舉辦，\n我個人覺得該場地的賽道很適合八重無敵。\n距離對她來說也沒有問題。",
+      "Name": "獨白",
+      "Text": "「天皇賞（秋）」將於東京賽場舉辦，\n我個人認為場地的賽道很適合八重無敵。\n距離對她來說也沒有問題。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "八重無敵",
-      "Text": "據說小栗同學也會參加「天皇賞（秋）」。",
+      "Text": "據說小栗也會參加「天皇賞（秋）」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "八重無敵",
-      "Text": "……小栗同學現在人氣扶搖直上。\n她究竟已經變得多強了呢……",
+      "Text": "……小栗現在人氣扶搖直上。\n她究竟已經變得多強了呢……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
+      "Name": "獨白",
       "Text": "小栗帽能將粉絲的聲援轉換成自己的力量。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
+      "Name": "獨白",
       "Text": "現在無論男女老少都被捲入了小栗帽熱潮，\n她的實力可說是深不可測。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "八重無敵",
-      "Text": "……不過依照我個人淺見，現在\n做好自己該做的事才是最佳解。",
+      "Text": "……不過依照我個人淺見，\n現在做好自己該做的事才是上策。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -370,7 +370,7 @@
     },
     {
       "Name": "八重無敵",
-      "Text": "……接下來要朝「天皇賞（秋）」邁進，\n從明天開始還要繼續請你多多指教了。",
+      "Text": "……接下來要朝「天皇賞（秋）」邁進，\n從明天開始還要請你多多指教了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

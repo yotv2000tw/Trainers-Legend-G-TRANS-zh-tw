@@ -1,0 +1,58 @@
+{
+  "Title": "因頭痛而憂鬱",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱奇蹟",
+      "Text": "哼～哼哼～♪\n期待已久的休假日～要做些什麼呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱奇蹟",
+      "Text": "今天就睡一整天，懶懶散散地度過吧。\n晚安～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱奇蹟",
+      "Text": "嗚嗚……好痛……",
+      "ChoiceDataList": [
+        "頭痛？妳還好嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱奇蹟",
+      "Text": "嗯……勉強還可以……",
+      "ChoiceDataList": [
+        "妳知道是什麼原因嗎？",
+        "妳知道是什麼原因嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱奇蹟",
+      "Text": "……也許是因為\n昨天睡了一整天的緣故吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱奇蹟",
+      "Text": "因為睡太多而頭痛，不是常有的事嗎？\n那就是原因吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "菱奇蹟就這樣為頭痛所苦了好一陣子……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

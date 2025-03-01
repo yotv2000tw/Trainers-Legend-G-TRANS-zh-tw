@@ -1,0 +1,594 @@
+{
+  "Title": "粉絲感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "今天是粉絲感謝祭。賽馬娘們將在這個\n祭典般的活動中挑戰各種競技，跟粉絲們同樂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "這一天終於到了！\n好！我們一定要贏喔，光鑽！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "嗯！\n一起加油吧，小冠！",
+      "ChoiceDataList": [
+        "妳們真是幹勁十足呢！",
+        "妳們真是幹勁十足呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "是啊，當然了！\n得好好回報各位粉絲平時的恩情啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "每當里見家賽馬娘們無法順利獲勝時，\n是粉絲們給了我們溫暖的支持。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "每次以些微差距落敗，就快陷入沮喪時，\n粉絲的加油聲都能讓我們再度向前看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "所以今天輪到我們了！\n一定要贏得競技用行動表示感謝！\n才能報答粉絲們一直以來的聲援！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "好的，「雙人障礙跑」即將開始！\n賽馬娘們今年也將面臨各種障礙！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "接著為大家介紹參賽陣容！\n首先是這兩位，\n里見皇冠＆里見光鑽！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "兩位身為里見家的賽馬娘，\n至今已跨越過各種高牆與難關，\n而今天她們即將跨越障礙物！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "接下來是這兩位！\n被譽為本屆比賽最有望組合的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "大鳴大放＆高尚駿逸！\n是否能在今天的障礙跑展現出\n平時的賽跑實力呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "高尚駿逸"
+      ]
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "駿逸！大鳴大放！\n妳們也參加「雙人障礙跑」啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "駿逸"
+      ]
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……呃，嗯。嗚嗚……其、其實我\n不太擅長這種活動，但……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "如、如果我不參加……\n會讓各位粉絲失望，我更不想這樣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……我要證明自己的最強地位。\n就這樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "看來兩位都幹勁十足呢。\n……這下越來越有趣了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我正需要像妳們這種程度的逆境，不然就\n燃不起鬥志了！請多指教啦，兩位！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "光鑽，預備好未？\n要去贏下冠軍囉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "嗯，當然準備好了！\n我們一定要贏得第一名喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "在波瀾與感動交織之下，各隊朝著\n位於障礙物之後的榮耀──開始起跑！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "第一關「蹦蹦跳跳不要停」！每個落腳處\n被踩過一次就會消失，如何邊前進邊\n為身後夥伴留下落腳處是本關卡的一大重點！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "順帶一提，若連續跳躍失敗，\n將會落入設置在地面的黏鼠板，\n損失大量時間！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "哇啊，喔喔……！\n哪、哪裡有能跳過去的地方……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "嗯……原來如此。\n擅自行動會拖累夥伴……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "右、左、右、左……！\n這步調可以嗎？小冠！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "Perfect！很適合跳躍移動！\n就這樣向前衝吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "下一關是「計步器1000步」對決！\n只要兩人腰上的計步器合計步數\n達到1000步即可過關！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "一、二！一、二！\n照這樣下去應該很快就能達到1000了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "嗯！真不枉費我們一起\n看Umatube學跳這種舞步！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "里見二人組已經來到第三關！接下來是\n「比手劃腳猜謎」！一人擔任出題者，\n另一人請看著搭檔回答「誰在哪裡做什麼」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "………………！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我知道了！答案是\n「唱卡拉OK時情緒高昂的北部」！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "答對了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "對、對不起，大鳴大放……！\n都、都怪我笨手笨腳……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "不要緊。\n……我們還有勝算。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "這領先幅度是否已經保證獲勝！？\n除了里見二人組外，\n其他組別都還卡在第一、二關的障礙！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "呼、呼──好！\n目前都很順利！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "嗯！練習見效了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "真不枉費我事前調查了這項競技\n過去每一屆曾經出過的競技題目啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "因此才能做好萬無一失的對策！\n跟訓練時一樣，一一選出最適合的解法！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "繼續這樣下去一定能夠順利獲勝，\n不會被大鳴大放她們追上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "可是小冠，不能掉以輕心……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "無問題。我知道。\n我老是在這種關鍵時刻出錯呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "所以現在更該繃緊神經！\nFinal spurt！要上囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "最終考驗是「破壞巨石」！\n使用我們準備好的道具擊碎\n直徑一公尺的巨大岩石，就能成功通關！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "咦？破、破壞巨石！？\n往年的「雙人障礙跑」有出過這題嗎……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "……這、這麼說起來，小冠！\n我們一起閱讀資料時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "原來還有「破壞巨石」這種考驗啊……\n只有在五年前出題過一次？\n看來應該是當時不受歡迎就被廢除了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "出現這題的機率應該不高，\n只是要破壞岩石感覺也不困難──\n把時間用來練習其他題目吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "啊啊啊啊啊啊啊啊！！？\n哎呀，那時我怎麼會下那種判斷……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "總之打碎這顆石頭就對了吧？\n好多種道具喔，我選這個──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "……嗚嗚，好痛。\n指尖發麻了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "可惡……都到最後關頭了，\n居然出現我們毫無準備的競技──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我真係……！\n為什麼我老是這樣啊──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "哦哦──就在此時！\n大鳴大放＆高尚駿逸組\n一口氣向前衝囉──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……絕對不能輸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "我、我也是……！\n至少今天得拿出好表現……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "──唔！看來時間不多了！\n得盡快想點辦法！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "怎麼能就此放棄！無論如何都要想盡辦法！\n跟光鑽一起贏得勝利──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "領先組別抵達終點！！\n獲勝的是大鳴大放＆高尚駿逸！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "里見皇冠＆里見光鑽二人組\n在最後關頭被超越了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "唔嗚嗚嗚～～！！\n好不甘心！居然輸在最後一刻！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "真可惜啊～！妳們很努力了！\n謝謝妳們讓我看得這麼興奮──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "看到好多種競技，真的很有趣──！\n我還會再為妳們加油的──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "大家……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "……每次這種時刻都會\n真心感到很感激呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "嗯，是啊……\n所以我們也要好好說出自己的心情！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "抱歉！今天沒能贏得對決。\n──謝謝大家的聲援！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "下次我們一定不會辜負大家的加油聲！\n可不能老是讓大家失望！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "所以，請繼續看著！\n下次我們會在競賽上贏回來！我發誓！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲們",
+      "Text": "「不能輸──！！」、「妳還可以的──！」、\n「拜託讓我看看妳獲勝的樣子吧！！」、\n「逆境算什麼──！」、「衝啊──！！！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "大家……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "是啊，沒錯！還沒結束呢。\nI'm confident！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "（──快動腦！皇冠，好好思考！\n陷入危機時更是嚴禁停止思考！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "（現場道具有──槌子、鋸子、\n平底鍋、剪刀……但光用這些東西攻擊\n一定擊碎不了巨石──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "這樣的話……對了！用撞的！\n把這個放在地面，再利用巨石本身的重量──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "光鑽，來幫忙！舉起巨石往這裡摔──\n讓巨石撞上槌子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "啊，這樣啊……嗯！\n我來幫忙，小冠！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "來囉──預備！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "啊啊！？天啊……怎麼回事！？\n巨石摔落地面後出現裂痕──\n裂、裂開了──！！漂亮地裂成兩半──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "「雙人障礙跑」獲得優勝的是──\n里見皇冠＆里見光鑽二人組！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "好嘢！謝謝大家的聲援！\n多虧大家，我們順利獲勝了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾",
+      "Text": "（哇啊啊啊啊啊啊啊！！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "多虧大家的加油聲，我們才獲得了力量！\n踏出通往勝利的最後一步！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "還請繼續看著我們！我跟光鑽──我們里見家\n一定會繼續回應大家的期待！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "往後還請各位繼續多多支持！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "今天謝謝妳，小冠。\n我玩得很開心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "那就好。\n我也一樣開心喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我呢，經過這次跟光鑽一起練習競技題目，\n又再次體會到──有妳在真的很可靠。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我想練習一定很辛苦。\n不過妳一次都沒有抱怨……\n一直跟我一起努力練習。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我相信這樣的光鑽一定能獲勝。\n「皋月賞」要加油喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "這樣啊……小冠，妳之所以在感謝祭這麼努力，\n就是為了能對我說出這句話啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "嗯。我一定會贏！\n小冠一定要來現場觀戰喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "當然啦！\n真期待看到我們里見家引以為傲的跑法！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

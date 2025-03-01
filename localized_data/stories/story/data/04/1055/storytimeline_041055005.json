@@ -1,5 +1,5 @@
 {
-  "Title": "快注意到美麗吧☆",
+  "Title": "發現美麗吧☆",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,15 +9,15 @@
     },
     {
       "Name": "獨白",
-      "Text": "這一天，我參加了一場重要的會議，\n和大家一起挑論如何改善訓練場的使用方案──",
+      "Text": "這天，我有一場\n討論改善賽道利用的重要會議──",
       "ChoiceDataList": [
-        "今天非常謝謝各位……！"
+        "今天非常感謝大家……！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "雖然我在會議上發表了改善方案，\n但結果還是被退回，採用了其他訓練員的方案。",
+      "Text": "雖然我在會議上發表了改善提案，結果卻被駁回，\n最後是其他訓練員的提案被納入考量。",
       "ChoiceDataList": [
         "唉……"
       ],
@@ -25,101 +25,101 @@
     },
     {
       "Name": "獨白",
-      "Text": "……如果遇上這種時候，\n她會對我說什麼呢？",
+      "Text": "…………\n……如果是她，會在這種時候說什麼呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美麗週日",
-      "Text": "真美麗呢☆",
+      "Text": "真是美麗呢☆",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美麗週日",
-      "Text": "能在大家的面前發表就已經很美麗了☆\n就算很不甘心，仍能老實接受他人的方案也很美麗★",
+      "Text": "在大家面前報告，就已經很美麗了☆\n即使不甘心仍然接受其他人的提案，這點也很美麗★",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美麗週日",
-      "Text": "從整體來看全部都非常美麗☆\n今天的發表一定能讓下次的發表變成更好的東西哦★",
+      "Text": "這些加起來就超～級美麗☆\n今天的報告，肯定能讓下次的報告變得更棒喔★",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "……她肯定會這麼說吧。不能一直垂頭喪氣的。\n為了下次能夠被採用，要繼續努力才行。",
+      "Text": "……她大概會這麼說吧。一直耿耿於懷也不是辦法。\n為了讓下次的提案被採用繼續努力吧。",
       "ChoiceDataList": [
-        "（嗯，要想得美麗一點！）"
+        "（嗯！把這當作是一種美麗吧！）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "天啊，這個單字怎麼這麼偉大。",
+      "Text": "啊啊，這個詞真是太偉大了啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "光是想到這個字，整個人就積極樂觀起來了。\n這種時候把聲音喊出來說不定會更好──！",
+      "Text": "光是想起這個詞心情就能變得明朗積極。\n在這種時候，出聲把它喊出來好像也不錯──！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "？？？",
-      "Text": "美麗☆★☆",
+      "Text": "美麗～☆★☆",
       "ChoiceDataList": [
-        "！？！？這、這聲音是──"
+        "嗯！？！？這、這個聲音是──"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美麗週日",
-      "Text": "恭喜妳──！避免鴨蛋了！非常的美麗哦☆",
+      "Text": "恭喜妳～！沒有不及格呢！\n這非～常美麗喔☆",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "馬娘A",
-      "Text": "哪有，還差得遠咧。的確是避免抱鴨蛋了啦……。\n但也只是比之前好一點點，分數還是在平均以下……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美麗週日",
-      "Text": "不會！沒那回事哦！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "馬娘A",
-      "Text": "咦、咦咦！？這、這裡是……！？",
+      "Name": "賽馬娘A",
+      "Text": "不，一點也不美麗。及格是及格了……但分數也不過\n比上次高一點而已，仍然低於平均分數……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美麗週日",
-      "Text": "分數比之前高就代表妳進步了☆\n有所成長是很厲害的喔！美麗★",
+      "Text": "不對！不是這樣喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "咦，什麼！？這、這個地方是……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美麗週日",
-      "Text": "而且成長的還是不拿手的科目！\n代表妳非常努力了對吧，美麗☆★",
+      "Text": "分數比上次更高，就代表妳進步了☆\n能夠成長是非常厲害的！真是美麗★",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美麗週日",
-      "Text": "就照這個樣子不斷增加美麗吧☆",
+      "Text": "而且還是在不擅長的科目上進步了！\n妳一定非常努力，真美麗～☆★",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美麗週日",
-      "Text": "只要能累積很多很多美麗的話，\n一定能創造出很大──的美麗☆",
+      "Text": "就照這個步調繼續增加美麗吧☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "只要累積很多、很多的美麗，\n一定就能獲得超級棒的美麗喔☆",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -130,94 +130,94 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "馬娘A",
-      "Text": "奇怪……剛才的到底是……？",
+      "Name": "賽馬娘A",
+      "Text": "奇怪……剛才究竟是……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美麗週日",
-      "Text": "這次的結果是美麗喔☆\n所以妳要更美麗地感到高興才行★",
+      "Text": "這次的成績很美麗喔☆\n要對美麗感到更加、更加喜悅才行★",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "馬娘A",
-      "Text": "……的確，妳說得對。分數都變高了嘛……。",
+      "Name": "賽馬娘A",
+      "Text": "……的確，妳說得沒錯。\n分數都進步了嘛……",
       "ChoiceDataList": [
-        "就這樣繼續相信自己看看！"
+        "像這樣試著相信自己吧！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "馬娘A",
-      "Text": "啊，您是，美麗同學的……！",
+      "Name": "賽馬娘A",
+      "Text": "啊，你是美麗同學的……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "馬娘A",
-      "Text": "……相信、自己……。\n啊，我……靠自己的力量，拉高分數了。",
+      "Name": "賽馬娘A",
+      "Text": "……相信自己……\n啊，我……是靠自己的力量讓分數上升的。",
       "ChoiceDataList": [
-        "是啊！下次一定能拿更高的分數！",
-        "是啊！下次一定能拿更高的分數！"
+        "沒錯！下次一定能拿到更好的成績！",
+        "嗯！下次一定能拿到更好的成績！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "馬娘A",
-      "Text": "是啊……對！我突然覺得稍微有自信了！",
+      "Name": "賽馬娘A",
+      "Text": "沒錯……好！總覺得對自己有點信心了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "馬娘A",
-      "Text": "我能努力準備下次小考了！非常謝謝你們兩位！",
+      "Name": "賽馬娘A",
+      "Text": "下次考試我好像也能繼續努力了！\n非常謝謝你們兩位！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "說完，她便笑咪咪地離開了。",
+      "Text": "她說完便帶著笑容離開了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美麗週日",
-      "Text": "啊哈哈！剛才的笑容真棒呢！那孩子也是、訓練員也是！\n笑得非常開心呢，笑嘻嘻的美麗☆",
+      "Text": "啊哈哈！剛才的笑容真棒呀！無論是她還是訓練員！\n兩個人都非常開心，笑咪咪的非常美麗☆",
       "ChoiceDataList": [
-        "我也是？",
-        "我也是？"
+        "我也是嗎？",
+        "我也是嗎？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美麗週日",
-      "Text": "嗯！超級美麗哦☆\n尤其是剛才開口鼓勵那孩子的時候真是美麗至極了★☆★",
+      "Text": "嗯！你也非常美麗喔☆\n你鼓勵她的時候最美麗了★☆★",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "她的樂觀……不對，她的「美麗」，\n似乎遇上多麼零碎的小事，都能化為耀眼的存在。",
+      "Text": "再怎麼細微的事物，似乎都能因為她的樂觀程度……\n不對，是都能因為她的「美麗」程度而閃耀起來。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "不只是能將消極的想法變得樂觀──\n還能讓樂觀的想法，變得更樂觀。",
+      "Text": "不只能將悲觀轉變為樂觀──\n連原本就正向的事物也能變得更加積極。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "如她所願將美麗推廣到全世界恐怕也只是時間的問題了。",
+      "Text": "或許她將美麗傳遞給世界的夢想實現，\n只是時間的問題罷了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "雖然可能微不足道，但我想繼續為她的夢想盡一份力。",
+      "Text": "為了她的夢想，我也想盡自己的微薄之力。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

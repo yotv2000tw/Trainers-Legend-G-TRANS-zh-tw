@@ -1,284 +1,284 @@
 {
-    "Title": "奔向勝利！隊伍起步",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "當天夜裡，\n我準備前往訓練賽道和目白麥昆談談──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "駿川手綱",
-            "Text": "啊，訓練員！\n總算找到你了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "駿川手綱",
-            "Text": "關於解散隊伍的緩衝期有了進展，\n我想說早點來通知你。",
-            "ChoiceDataList": [
-                "結果怎麼樣！？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "駿川手綱",
-            "Text": "呵呵呵，還請先放心。\n可以等到整個上半期結束……也就是六月底。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "駿川手綱",
-            "Text": "因為就協會的立場來說，\n讓賽馬娘能專注在賽事上面是最優先事項──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "駿川手綱",
-            "Text": "所以才會做出「等到一個恰當的時間點」\n這樣的決定。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "太好了。這樣就能暫時拋開招募成員的事，\n先集中精神在春季「天皇賞」上……！",
-            "ChoiceDataList": [
-                "謝謝妳！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "駿川手綱",
-            "Text": "不會，我只是負責傳話而已。\n不過真是太好了呢。春季「天皇賞」還請先加油了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "夜晚空無一人的訓練賽道。\n現在這個時間，其他的賽馬娘想必早已就寢了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "呼、呼啊……呼、呼啊……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "そんな時間にもかかわらず、メジロマックイーンは今日も1人、\r\nトレーニングを続けていた。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "但很明顯鍛鍊過頭了。\n她的姿勢因為疲勞而不確實，上半身和下半身沒有取得平衡。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "這樣不但訓練效果不彰，而且如果繼續逞強下去，\n麥昆在迎來春季「天皇賞」前就會受傷──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "……呼、呼……嗯、啊……啊啊！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我才剛在心裡默默擔心，目白麥昆的身體就嚴重失去重心，\n整個跌落地面並揚起沙塵。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "<username>",
-            "Text": "麥昆！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "……",
-            "ChoiceDataList": [
-                "麥昆，妳還好嗎？",
-                "麥昆，妳還好嗎？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "這裡是……？咦，訓練員？\n為什麼……？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "<username>",
-            "Text": "這裡是保健室。\n妳還是躺著比較好，畢竟好像還有發燒。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "<username>",
-            "Text": "這裡是保健室。\n妳還是躺著比較好，畢竟好像還有發燒。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "……發燒。\n唉……看來我似乎累積了超乎想像的疲勞。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "讓我回想起自己小時候玩得太瘋\n就很容易發燒的事。",
-            "ChoiceDataList": [
-                "妳好像有點太逞強了",
-                "妳好像有點太逞強了"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "似乎是這樣呢……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "──唔，你發現我在做自主訓練了嗎！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "<username>",
-            "Text": "嗯，我今天原本想要跟妳談談的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "……這樣啊。\n對於這種事，你還是一樣很敏銳呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "你想要叫我「停止自主訓練」對吧？",
-            "ChoiceDataList": [
-                "我不能讓妳勉強自己"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "……既然已經被看到這麼難堪的一面，我也沒什麼好說的。\n我會乖乖聽從你的指示。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "<username>",
-            "Text": "那麼，作為禁止自主訓練的替代方案，妳可以更加依賴我嗎？\n希望妳可以對我坦承一切。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "<username>",
-            "Text": "那麼，作為禁止自主訓練的替代方案，妳可以更加依賴我嗎？\n希望妳可以對我坦承一切。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "<username>",
-            "Text": "希望可以再讓我多幫點忙，實現妳的夢想，\n也就是稱霸「天皇賞」。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "<username>",
-            "Text": "希望可以再讓我多幫點忙，實現妳的夢想，\n也就是稱霸「天皇賞」。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "你怎麼會知道……啊！\n是聽雷恩說的對吧？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "……真是的，原來祕密是在說這個。\n她還是一樣愛多管閒事。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "不過，真的可以嗎？\n要認真幫我，就代表你要一起背負目白家的使命。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "你有這樣的決心了嗎？\n也就是……要和我建立「一心同體」的關係。",
-            "ChoiceDataList": [
-                "當然了！",
-                "那當然！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "呵呵，回答得毫不遲疑，\n從你還是附屬訓練員的時候就沒有改變呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "總是把我們的事擺在第一順位。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "──我知道了。\n這樣的話，我也不會客氣。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "為了實現稱霸「天皇賞」的夢想，\n我會毫不保留地對你提出任性要求。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "目白麥昆",
-            "Text": "然後，絕對要贏！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "<username>",
-            "Text": "是啊，我們絕對要贏！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "<username>",
-            "Text": "嗯，我們絕對要贏！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "奔向勝利！隊伍起步",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "當天夜裡，\n我準備前往訓練賽道和目白麥昆談談──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "啊，訓練員！\n總算找到你了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "關於解散隊伍的緩衝期有了進展，\n我想說早點來通知你。",
+      "ChoiceDataList": [
+        "結果怎麼樣！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "呵呵呵，還請先放心。\n可以等到整個上半期結束……也就是六月底。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "因為就協會的立場來說，\n讓賽馬娘能專注在賽事上面是最優先事項──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "所以才會做出「等到一個恰當的時間點」\n這樣的決定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "太好了。這樣就能暫時拋開招募成員的事，\n先集中精神在春季「天皇賞」上……！",
+      "ChoiceDataList": [
+        "謝謝妳！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "不會，我只是負責傳話而已。\n不過真是太好了呢。春季「天皇賞」還請先加油了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "夜晚空無一人的訓練賽道。\n現在這個時間，其他的賽馬娘想必早已就寢了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "呼、呼啊……呼、呼啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "即使時間已經這麼晚了，\n目白麥昆今天也持續獨自進行訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但很明顯鍛鍊過頭了。\n她的姿勢因為疲勞而不確實，上半身和下半身沒有取得平衡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這樣不但訓練效果不彰，而且如果繼續逞強下去，\n麥昆在迎來春季「天皇賞」前就會受傷──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……呼、呼……嗯、啊……啊啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我才剛在心裡默默擔心，目白麥昆的身體就嚴重失去重心，\n整個跌落地面並揚起沙塵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "麥昆！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……",
+      "ChoiceDataList": [
+        "麥昆，妳還好嗎？",
+        "麥昆，妳還好嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "這裡是……？咦，訓練員？\n為什麼……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "這裡是保健室。\n妳還是躺著比較好，畢竟好像還有發燒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "這裡是保健室。\n妳還是躺著比較好，畢竟好像還有發燒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……發燒。\n唉……看來我似乎累積了超乎想像的疲勞。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "讓我回想起自己小時候玩得太瘋\n就很容易發燒的事。",
+      "ChoiceDataList": [
+        "妳好像有點太逞強了",
+        "妳好像有點太逞強了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "似乎是這樣呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "──唔，你發現我在做自主訓練了嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "嗯，我今天原本想要跟妳談談的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……這樣啊。\n對於這種事，你還是一樣很敏銳呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "你想要叫我「停止自主訓練」對吧？",
+      "ChoiceDataList": [
+        "我不能讓妳勉強自己"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……既然已經被看到這麼難堪的一面，我也沒什麼好說的。\n我會乖乖聽從你的指示。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "那麼，作為禁止自主訓練的替代方案，妳可以更加依賴我嗎？\n希望妳可以對我坦承一切。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "那麼，作為禁止自主訓練的替代方案，妳可以更加依賴我嗎？\n希望妳可以對我坦承一切。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "希望可以再讓我多幫點忙，實現妳的夢想，\n也就是稱霸「天皇賞」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "希望可以再讓我多幫點忙，實現妳的夢想，\n也就是稱霸「天皇賞」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "你怎麼會知道……啊！\n是聽雷恩說的對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……真是的，原來祕密是在說這個。\n她還是一樣愛多管閒事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "不過，真的可以嗎？\n要認真幫我，就代表你要一起背負目白家的使命。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "你有這樣的決心了嗎？\n也就是……要和我建立「一心同體」的關係。",
+      "ChoiceDataList": [
+        "當然了！",
+        "那當然！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "呵呵，回答得毫不遲疑，\n從你還是附屬訓練員的時候就沒有改變呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "總是把我們的事擺在第一順位。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "──我知道了。\n這樣的話，我也不會客氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "為了實現稱霸「天皇賞」的夢想，\n我會毫不保留地對你提出任性要求。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "然後，絕對要贏！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "是啊，我們絕對要贏！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "<username>",
+      "Text": "嗯，我們絕對要贏！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

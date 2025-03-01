@@ -1,0 +1,210 @@
+{
+  "Title": "在神社祈求！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我帶著狀態不太好的大鳴大放來到神社，\n希望能轉換一下心情。",
+      "ChoiceDataList": [
+        "要去參拜嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……不，還是算了。\n感覺今天沒辦法誠心地參拜……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "哎呀，還真巧。\n你們這應該……不是在訓練吧。",
+      "ChoiceDataList": [
+        "就是來稍微散心一下",
+        "就是來稍微散心一下"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……原來如此。\n大放，妳最近狀態好像不太好啊。\n在學園裡見到妳的時候也──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "不，沒有這種事。\n我的狀態非常好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……呵。\n還是這麼逞強啊……那──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "大放，能陪我一下嗎？\n在這裡遇到妳，讓我想起很久以前的事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "是沒問題，但要做什麼……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "神社境內不是有條林中小道嗎？\n──我們來玩鬼抓人。",
+      "ChoiceDataList": [
+        "鬼抓人？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "是啊，\n大放也還記得吧？\n以前養成班的戶外訓練不是常玩嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "我想久違地跟妳比個高下。\n妳當鬼，來吧，像以前那樣──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "來追我吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "！！唔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "接受挑戰！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "來啊來啊，\n這樣子是永遠追不到我的喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "唔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "──還沒結束！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "唔……！\n速度提升了一個層級啊……！\n而且──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "這下表情變得好多了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……………哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "呵，眼神都變得不一樣了。\n這表情很好，這才像大放。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "──謝謝妳。\n這都要感謝……槽姐幫忙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "我真是永遠都贏不過妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "或許是因為玩了鬼抓人的關係吧，\n大鳴大放恢復了平時的狀態。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……不過。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "附近的小朋友A",
+      "Text": "嘿嘿～！\n鬼～我在這～裡～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "附近的小朋友B",
+      "Text": "等～～等～～我！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "看來已經有人搶先了。\n我們在這會妨礙到他們。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……是啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "這次真是不巧啊。\n……下次再找機會玩吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "或許是因為沒能盡興的緣故，\n大鳴大放並未恢復原本狀態。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

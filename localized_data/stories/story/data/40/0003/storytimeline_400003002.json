@@ -1,0 +1,60 @@
+{
+  "Title": "說明≠命令",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我把接下來為了復辦繁星演唱會，\n而要舉辦宣傳演唱會，並進行相關訓練\n的計畫告訴美浦波旁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "美浦波旁"
+      ]
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "指示已確認。\n已接受命令。",
+      "ChoiceDataList": [
+        "不，這不是命令，而是在和妳商量",
+        "不，這不是命令，而是在和妳商量"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……商量？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "明亮光暈說過，「繁星演唱會是\n為了傳達感謝而舉辦的演唱會」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "所以我希望她不是因為命令，\n而是以「自己的意志」\n以及「情感」登上舞台。",
+      "ChoiceDataList": [
+        "妳可以先觀摩，之後再決定就好"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美浦波旁",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "如果有一天，\n美浦波旁主動表示想要參加的話……\n到時候就讓她也登上舞台吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

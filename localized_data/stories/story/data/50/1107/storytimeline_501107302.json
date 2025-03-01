@@ -1,0 +1,621 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "今天訓練結束後，\n我帶著踢踏城市來到商店街。\n其原因是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "呼，i found it！\n找到了，這裡就是傳說中的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，好玩的抽獎活動！\n歡迎大家來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "──抽獎！\n這真是讓人充滿期待耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "一張抽獎券就能變成寶藏，對吧！？\n唔～～wonderful！",
+      "ChoiceDataList": [
+        "我就猜妳會喜歡"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我剛好在幾天前購物時知道抽獎的活動，\n想著踢踏城市應該會喜歡，\n就約她一起來了。",
+      "ChoiceDataList": [
+        "妳用我給妳的券去抽抽看吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "OK。\n交給我吧！目標當時就是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "The grand prize……\n特獎！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "踢踏城市開心且充滿鬥志地轉動了抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "YEAAAAAH!",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "訓練員！我抽到了！\n抽到最好的東西，這就代表──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "我們發大財了吧！\n快，給我吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "什麼～～！？",
+      "ChoiceDataList": [
+        "妳抽到的是溫泉旅行啦",
+        "妳抽到的是溫泉旅行唷"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "嗯？\n是喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "好，溫泉也很棒耶！\n非常有日本的感覺！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "問你喔，那個溫泉是可以直接變我的嗎？\n我也想在我們的城堡裡裝個溫泉！",
+      "ChoiceDataList": [
+        "玩笑話差不多就好囉",
+        "玩笑話差不多就好囉"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "嘿嘿，\n好啦～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "泡湯泡湯泡湯～\n泡完舒服了就舒flow～哈哈♪",
+      "ChoiceDataList": [
+        "妳心情很好嘛",
+        "妳心情很好呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "當然囉！\n因為我很喜歡日本的泡湯文化嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "自從來這裡生活後，\n體驗到了跟大家一起泡湯的樂趣。\n哎呀～那真的是很棒的活動耶！",
+      "ChoiceDataList": [
+        "溫泉妳就和同伴們一起去吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "好！\n那肯定會是一場超棒的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "……",
+      "ChoiceDataList": [
+        "踢踏？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "……不對，\n這個我想跟你一起去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "我覺得泡湯是一個可以讓人敞開心胸對話的事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "啊～該怎麼說呢……\n就是真正意義上的坦誠相見。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "等到我們的夢想實現後，\n我想好好地跟你聊一聊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "所以這個溫泉旅行券，我要跟你一起用。\n在獲得黃金後的……\nencore performance.",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "你會跟著我去的吧？",
+      "ChoiceDataList": [
+        "踢踏希望是我去的話"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "那就說好了。券交給你保管。\n不然我可能會搞丟……應該是一定會搞丟！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "那我們回學園吧。\n一起去綠洲是將來的事──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "Great!",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "嗯～賣相真好！\n看起來真好吃～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "那可是名副其實的最棒的漢堡排喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "是哦？\n那也得讓同伴們吃吃看才行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "訓練員，\n你把這個漢堡排切出大家的份吧！",
+      "ChoiceDataList": [
+        "那樣踢踏就沒得吃了耶",
+        "那樣踢踏就沒得吃了耶"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "……嗯？\n啊～也是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "雖然我也想吃，\n但好吃的東西就是要跟大家一起分享。",
+      "ChoiceDataList": [
+        "那不然這樣好不好？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "──好啦，大家都不用客氣，拿去吃吧！\n這是手工特等胡蘿蔔漢堡排喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏的同伴們",
+      "Text": "喔喔喔喔喔喔～！\n好大喔喔喔喔喔喔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我向踢踏城市提議。\n抽中的漢堡排就自己吃，\n記住了那個味道後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "再自己親手重現一份超特大特等胡蘿蔔漢堡排，\n請同伴們吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴髮帶的賽馬娘",
+      "Text": "真的有夠大耶！\n看起來幾乎跟踢踏一樣高了吧？\n……踢踏的身高，呀哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "褐髮女高中生",
+      "Text": "是說，看起來真的有夠好吃的樣子耶……\n這真的是踢踏自己做的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "嗯！\n這還用說嗎──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "當然幾乎都是訓練員做的啊！\n啊哈哈哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "褐髮女高中生",
+      "Text": "我就知道。\n謝啦，訓練員！",
+      "ChoiceDataList": [
+        "不用客氣"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "好啦好啦，快點趁熱的時候吃啦！\n我剛剛有偷吃過了，味道真的是完美重現！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "訓練員，你真的好厲害喔。\n要不要乾脆變成我的專屬主廚啊？",
+      "ChoiceDataList": [
+        "我已經是專屬航海士了耶？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "哎唷，這麼說也是！\n那就航海士兼主廚吧！",
+      "ChoiceDataList": [
+        "我還要當主廚喔……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "特級漢堡排作戰計畫大成功。\n同伴們跟踢踏城市都很開心，\n就這樣熱鬧地度過了午餐時間。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "唔喔喔喔喔喔～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "So many carrots!",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "所謂寶藏如山就是指這種感覺吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "……！\n寶藏如山！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "妳剛才……\n說我們的胡蘿蔔是寶藏嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "Of course！\n怎麼看這都是寶藏沒錯吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "媲美水晶般的耀眼！\n這絕對是會讓所有海盜都眼睛發亮的寶藏！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "唔～～真令人開心啊！\n好，我得多給妳些什麼優惠才行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "──這件事我只跟妳說……\n我還知道一個有更多更多寶藏的地方喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "……！\n說來聽聽！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "──來吧，\n這就是負責種植我們胡蘿蔔的田！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "我已經打過招呼了。\n隨妳採挖，盡情去尋寶吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "Wow!\n可以尋寶囉～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "踢踏城市天真爛漫地開心採挖胡蘿蔔，\n帶著比獎品多一倍的胡蘿蔔返回學園。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "啊啊～\nDream沒成真啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "但也抽中了一根！\n總比空手而歸好嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "那根胡蘿蔔就……",
+      "ChoiceDataList": [
+        "就這麼一根而已，妳就自己帶回去──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "好，\n大叔，給我吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（啪！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "踢踏城市毫不猶豫地將胡蘿蔔掰成兩半。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "拿去，訓練員的份！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "畢竟我的東西就等於同伴的東西。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "一起吃吧！\n直接大口咬！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，在踢踏城市的好意下，\n我們一邊生啃胡蘿蔔，一邊走回學園。\n……我咬得嘴巴痠痛，她則是若無其事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "WHAT?!",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "真的假的！\n啊啊，我的理想……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "竟然化成這麼一小包的衛生紙……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "啊啊～～！\n──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她最後快速脫口而出的那句英文……\n我雖然當作沒聽到，\n卻也深刻感受到她的不甘心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

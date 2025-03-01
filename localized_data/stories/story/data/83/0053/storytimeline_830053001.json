@@ -1,5 +1,5 @@
 {
-  "Title": "教條之一：絕對要積極辦派對",
+  "Title": "教條之一：絕對不能疏於舉辦派對",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,16 +9,16 @@
     },
     {
       "Name": "大樹快車",
-      "Text": "Congratulations！\nCheers～！乾杯喔！",
+      "Text": "Congratulations！\nCheers～！乾杯！",
       "ChoiceDataList": [
-        "（怎麼這麼熱鬧……？）",
-        "（怎麼這麼熱鬧……？）"
+        "（是什麼這麼熱鬧……？）",
+        "（是什麼這麼熱鬧……？）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "大樹快車",
-      "Text": "各位，真的很thanks你們特地來參加！\n能夠獲得這樣的殊榮都要感謝爸爸、\n媽媽、friends……當然還有──",
+      "Text": "各位，真的很thanks你們來參加！\n能夠獲得這樣的殊榮都是多虧了\n我的爸爸、媽媽、friends……當然還有──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -30,21 +30,21 @@
     },
     {
       "Name": "青年",
-      "Text": "咦！？沒、沒這回事！名導演太過譽了！\n我也還在學習而已，所以……",
+      "Text": "咦！？沒、沒這回事！說我是名導演太過獎了！\n我也還在學習中，所以……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "路過的賽馬娘",
-      "Text": "咦？什麼什麼？意思是大樹參演了電影，\n還得獎了嗎！？好厲害喔！",
+      "Text": "咦？什麼什麼？意思是大樹同學參演了電影，\n還得獎了嗎！？好厲害喔！",
       "ChoiceDataList": [
-        "（原來還有這樣的事情……！）"
+        "（哦，原來還有這樣的事情……！）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "大樹快車",
-      "Text": "Hey！後面的大家都能臨時加入\n這場party，我很welcome！\n還有準備很多的活動喔♪",
+      "Text": "Hey！在後面的大家\n如果想臨時參加這場party也很welcome！\n還有很多活動喔♪",
       "ChoiceDataList": [
         "咦？真的可以嗎……？",
         "咦？真的可以嗎……？"
@@ -59,21 +59,21 @@
     },
     {
       "Name": "大樹快車",
-      "Text": "BBQ&跳舞！",
+      "Text": "BBQ＆dance！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大樹快車",
-      "Text": "讓肉變得更好吃的舞步！\nRare♪Medium♪\nWell-done♪呼～～～！",
+      "Text": "讓肉變得更好吃～的dance！\nRare♪Medium♪Well done♪\n呼～～～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "導演",
-      "Text": "呃，那個……變、變好吃──吧！\n變好吃──吧……！",
+      "Text": "那、那個……變、變好吃～吧！\n變好吃～吧……！",
       "ChoiceDataList": [
-        "變……變好吃──吧……！"
+        "變……變好吃～吧……！"
       ],
       "ColorTextInfoList": []
     },
@@ -88,7 +88,7 @@
     },
     {
       "Name": "大樹快車",
-      "Text": "Wow！Congratulations～！\n為你獻上豪華的獎品！也就是呢──",
+      "Text": "Wow！Congratulations～！\n為你獻上豪華的獎品！也就是──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -100,13 +100,13 @@
     },
     {
       "Name": "導演",
-      "Text": "簽名嗎！？\n可、可是，我的簽名真的有人想要嗎……！",
+      "Text": "簽名嗎！？\n可、可是獎品是送我的簽名，真的沒問題嗎……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大樹快車",
-      "Text": "Party現在也來到了最高潮！\n最適合用來點綴finale的沒有別的了！",
+      "Text": "來吧，party現在也來到了最高潮！\n沒有其他東西更適合用來點綴finale了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -124,9 +124,9 @@
     },
     {
       "Name": "大樹快車",
-      "Text": "讓我對之後的拍攝工作感到非常期待，\n也有動力好好努力了喔！",
+      "Text": "讓我對之後的拍攝工作感到非常期待，\n感覺能好好努力了！",
       "ChoiceDataList": [
-        "是啊，拍攝工作也要好好加油……咦？",
+        "嗯，拍攝工作也要好好加油……咦？",
         "嗯，拍攝工作也要好好加油……咦？"
       ],
       "ColorTextInfoList": []
@@ -142,7 +142,7 @@
     },
     {
       "Name": "大樹快車",
-      "Text": "得獎？Oh，you是很hasty的人呢！\n電影接下來才要開始拍攝喔！",
+      "Text": "得獎？Oh，you是很hasty的人呢！\n電影接下來才要開始拍攝！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -156,45 +156,45 @@
     },
     {
       "Name": "導演",
-      "Text": "……其實，我們是正在準備製作\n要在「學生電影祭」發表的電影。\n當我們正在苦惱要找誰來當主角的時候──",
+      "Text": "……因為這樣，我們正準備製作\n要在「學生電影祭」發表的電影。\n當我們苦惱著要找誰來當主角的時候──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "導演",
-      "Text": "發現了在比賽中相當活躍的大樹。\n她在那樣的大舞台上……不但沒有怯場，\n甚至還帶著非常自信的笑容在快樂地奔跑。",
+      "Text": "發現了在比賽中相當活躍的大樹小姐。\n她在那樣的大舞台上……不但沒有怯場，\n甚至還帶著非常有自信的笑容在快樂地奔跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "導演",
-      "Text": "剛好和我電影中的主角形象非常吻合，\n於是我當下就向她提出邀請了！",
+      "Text": "剛好和我電影中的主角形象非常吻合，\n於是我當下就向她提出演電影的邀請了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "導演",
-      "Text": "大樹爽快地答應之後，\n我們開始討論要立刻進行各種準備！\n原本以為是在進行拍攝的準備工作──",
+      "Text": "大樹小姐很爽快地答應，\n我們便討論說要趕緊開始行動！\n原本以為是在做拍攝的準備工作，沒想到──",
       "ChoiceDataList": [
-        "結果卻是派對的準備工作，是嗎……"
+        "卻是派對的準備工作……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "大樹快車",
-      "Text": "那是因為我真的非常開心啊！\n這麼開心就只能辦party慶祝了吧！",
+      "Text": "因為我真的非常開心啊！\n這麼開心就只能辦party慶祝了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大樹快車",
-      "Text": "我當然也是有考量到其他事情的喔。\n為了找齊工作人員──",
+      "Text": "當然，我也是有將其他事情考量進去的喔？\n為了要找齊工作人員──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大樹快車",
-      "Text": "演出者徵選party跟決定外景場地的party，\n也是一定要辦的！",
+      "Text": "挖角演員的party跟決定外景場地的party，\n也是一定要辦的！",
       "ChoiceDataList": [
         "還要辦派對啊！？",
         "還要辦派對呀！？"

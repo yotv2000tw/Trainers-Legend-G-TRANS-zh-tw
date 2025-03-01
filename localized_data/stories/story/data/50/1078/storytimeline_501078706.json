@@ -9,7 +9,7 @@
     },
     {
       "Name": "",
-      "Text": "我和也文攝輝一起外出後的回程路上，\n因為她說「想要感受風」，\n所以我們一起來到高地。而在那裡──",
+      "Text": "我和山人西風一起外出後的回程路上，\n因為她說「想要感受風」，\n所以我們一起來到高地。而在那裡──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -20,8 +20,8 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "哎呀，真是一陣好風。兩位也是來吹風的嗎？",
+      "Name": "山人西風",
+      "Text": "哎呀，真是一陣順風。兩位也是來吹風的嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -45,15 +45,15 @@
     },
     {
       "Name": "雙渦輪",
-      "Text": "妳們呢？來散步嗎？\n要不要跟我們一起玩！？",
+      "Text": "妳們呢？來散步嗎？\n要不要一起來玩！？",
       "ChoiceDataList": [
-        "妳應該沒有時間可以玩了吧……"
+        "妳應該沒有時間可以玩吧……"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "呵呵。真是像小颱風的人。\n充滿活力的小雙雙。",
+      "Name": "山人西風",
+      "Text": "呵呵。充滿活力的小雙雙，\n真是像個小颱風呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -82,7 +82,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "我們只是路過的風，不會打擾妳們的。\n我們去那邊吧──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -96,19 +96,19 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "看妳這樣跳著拜託，\n難道小雙雙其實是圓滾滾嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "優秀素質",
-      "Text": "圓滾滾……我記得是指麻雀吧？\n唉，現在這樣也沒辦法專心用功了吧。\n沒辦法了。",
+      "Text": "圓滾滾……我記得是指麻雀吧？\n唉，算了，反正現在這樣渦輪應該也沒辦法\n專心用功了，沒辦法。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "呵呵。小雙雙，妳想要玩什麼呢？\n鬼抓人嗎？唱歌嗎？還是──？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -120,20 +120,20 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "妳可以慢～慢地、慢～慢地想喔。\n因為現在的風非常和穩。",
+      "Name": "山人西風",
+      "Text": "妳可以慢～慢地、慢～慢地想喔。\n因為現在的風非常平穩。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "雖然也文攝輝總是給人我行我素的感覺，\n但怎麼說呢？\n感覺她對雙渦輪就──",
+      "Text": "雖然山人西風行事本來就我行我素，\n但怎麼說呢？\n感覺她對雙渦輪──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "優秀素質",
-      "Text": "雖然畫面是很溫馨啦，\n但她根本把她當小動物在對待了吧……",
+      "Text": "雖然畫面是很溫馨啦，\n但渦輪根本被當小動物在對待了吧……",
       "ChoiceDataList": [
         "的確……"
       ],
@@ -141,31 +141,31 @@
     },
     {
       "Name": "",
-      "Text": "雖然對方用的是對待小動物時的態度，\n但雙渦輪似乎也不在意，\n看起來好像很開心。",
+      "Text": "雖然被用與小動物對話時的態度對待，\n但雙渦輪似乎並不在意，\n看起來還很開心。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "雙渦輪",
-      "Text": "好猶豫喔～因為西風喜歡風嘛，\n乾脆來放風箏？但我們現在也沒有風箏！！",
+      "Text": "好猶豫喔～因為西風喜歡風嘛，\n那來放風箏吧？但我們現在沒有風箏耶！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "我能成為風，但卻變不成風箏呢。\n訓練員，你有沒有什麼好建議呢？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "也文攝輝居然會轉過來詢問我的意見，\n這是非常難能可貴的機會。",
+      "Name": "山人西風",
+      "Text": "我雖然能成為風，但卻沒辦法變成風箏。\n訓練員，你有沒有什麼好建議呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "難得她尋求我的幫忙。\n一定要好好地想出一個好答案來才行。\n既然沒有風箏的話──",
+      "Text": "山人西風居然會來詢問我的意見，\n這是非常難能可貴的機會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "難得她尋求我的幫忙。\n一定要想出一個好答案來才行。\n既然沒有風箏的話──",
       "ChoiceDataList": [
         "我來當風箏……！",
         "我來當風箏……！",
@@ -175,7 +175,7 @@
     },
     {
       "Name": "",
-      "Text": "難得她尋求我的幫忙。\n一定要好好地想出一個好答案來才行。\n既然沒有風箏的話──",
+      "Text": "難得她尋求我的幫忙。\n一定要想出一個好答案來才行。\n既然沒有風箏的話──",
       "ChoiceDataList": [
         "我來當風箏……！",
         "我來當風箏……！",
@@ -184,7 +184,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "哎呀，訓練員要當風箏嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -197,57 +197,57 @@
     },
     {
       "Name": "優秀素質",
-      "Text": "不對不對不對，哪可能啊！\n真是的──不要隨口說這種話啦。",
+      "Text": "不對不對不對，哪可能當得了風箏啊！\n真是的──不要隨口說這種話啦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我太過著急，不小心說出了奇怪的話。\n這樣是不是反而\n讓她看到我不可靠的樣子了？",
+      "Text": "我一著急，不小心說出了奇怪的話。\n這樣是不是反而\n讓她看到我不可靠的樣子了？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "呵呵。\n如果我能化成夕嵐的話，\n說不定真的能讓訓練員飛起來也不一定呢。",
+      "Name": "山人西風",
+      "Text": "呵呵。\n如果我能化身為傍晚的強風，\n或許真的能讓訓練員飛起來也說不定呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "是啊，這也是個不錯的遊戲。",
+      "Name": "山人西風",
+      "Text": "嗯嗯，這主意也不錯呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "也文攝輝輕輕地笑著。\n也許是因為她的心願是成為又強又快的風，\n所以才會這樣回應我吧……",
+      "Text": "山人西風輕輕地笑著。\n也許是因為她的心願是成為又強又快的風，\n所以才會這樣回應我吧……",
       "ChoiceDataList": [
-        "飛起來什麼的還是算了吧……"
+        "把我當風箏放這事還是算了吧……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "不管也文攝輝是不是能成為風，\n但要我還是先收回了讓自己\n像風箏一樣飛在空中的提議。",
+      "Text": "但不管山人西風是不是要成為風，\n我還是先收回了讓自己\n像風箏一樣飛在空中的提議。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "優秀素質",
-      "Text": "嗯──這倒還可以，\n但如果飛到鎮上去就不好了吧？",
+      "Text": "嗯──這倒還可以，\n但如果飛到鎮上去的話應該不太好吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "優秀素質",
-      "Text": "要是找不回來的話就會變成垃圾，\n而且掉到馬路上也會造成危險──",
+      "Text": "要是找不回來的話就會變成垃圾，\n而且掉到路上也會造成危險──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "白色在晚風中變成了橘色……\n飛得很漂亮呢。\n小雙雙的紙飛機。",
+      "Name": "山人西風",
+      "Text": "白色在晚風中變成了橘色……\n小雙雙的紙飛機\n飛得很漂亮呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -259,15 +259,15 @@
     },
     {
       "Name": "雙渦輪",
-      "Text": "那邊！\n渦輪的紙飛機可是裝著飛行渦輪的，\n所以能飛得又快又遠喔──！！",
+      "Text": "那邊！\n渦輪的紙飛機上裝著渦輪引擎，\n所以可以飛得超級快哦──！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "在夕陽的照射下，\n可以隱約看見上面的文字。\n那是──",
+      "Text": "在夕陽的照射下，\n可以隱約看見紙飛機上透出來的文字──",
       "ChoiceDataList": [
-        "……考試的試卷吧？"
+        "……那不是考卷嗎？"
       ],
       "ColorTextInfoList": []
     },
@@ -279,13 +279,13 @@
     },
     {
       "Name": "優秀素質",
-      "Text": "那個是要把答錯的地方訂正後\n再交回去給老師的……！",
+      "Text": "那個是要把答錯的地方訂正後\n再交回去給老師的考卷……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "呵呵。一下往左、一下往右地一直飛。\n風向是無法捕捉的。\n看來葉風也玩得很開心呢。",
+      "Name": "山人西風",
+      "Text": "呵呵。忽左忽右、自由自在。\n畢竟風向無法捕捉呢。\n想必葉風也玩得很開心吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -311,7 +311,7 @@
     },
     {
       "Name": "",
-      "Text": "也文攝輝則是靜靜地在一旁\n盯著隨風飄盪的紙飛機看。",
+      "Text": "山人西風則是靜靜地在一旁\n凝望著隨風飄盪的紙飛機。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

@@ -1,5 +1,5 @@
 {
-  "Title": "幫手瀟灑地離去",
+  "Title": "幫手要瀟灑地退場",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,14 +8,14 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
-      "Text": "聽說附近的鎮上要辦祭典，\n所以我與稻荷一外出時，\n決定順道去看看看狀況。",
+      "Name": "獨白",
+      "Text": "聽說附近的鎮上要辦祭典，\n所以我與稻荷一決定趁著外出順道參觀。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "喔，氣氛相當熱烈嘛！\n所謂的祭典就是要這樣才行呢！",
+      "Text": "喔，氣氛相當熱烈嘛！\n祭典就是要這樣才行呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -27,25 +27,25 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "這不是小栗嗎！\n妳居然也來啦。",
+      "Text": "果然是小栗啊！\n妳居然也來啦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "小栗帽",
-      "Text": "嗯。因為聞到了很香的味道，\n我拼命追著跑，最後就跑到這裡了。",
+      "Text": "嗯。我聞到很香的味道，\n於是追著味道跑，最後就跑到這裡了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "嘿嘿，真像妳會做的事，\n既然都遇到了，\n要不要一起逛攤位呢？",
+      "Text": "嘿嘿，的確很有妳的作風。\n既然都遇到了，要不要一起逛攤位？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "小栗帽",
-      "Text": "了解。\n我也差不多要出發去吃第二輪了。",
+      "Text": "好啊。我也正準備要去吃第二輪。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -56,8 +56,8 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
-      "Text": "於是小栗帽也加入我們的行列，\n三人一起逛起了祭典，但是──",
+      "Name": "獨白",
+      "Text": "於是，小栗帽也加入我們的行列，\n三人一起逛起祭典。但是──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -81,19 +81,19 @@
     },
     {
       "Name": "祭典營運委員A",
-      "Text": "──這附近發生了一場小火災，\n負責抬神轎的人，\n都跑去現場幫忙了。",
+      "Text": "──附近發生一場小火災，\n原本要抬神轎的人都過去幫忙了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "祭典營運委員B",
-      "Text": "這樣下去來看神轎的客人會走掉的……\n對了！如果是妳們──",
+      "Text": "再拖下去，來看神轎的客人都要走掉了……\n對了！妳們兩位──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "喔，你不用說下去了。\n你是想找我們這兩個賽馬娘，\n來幫忙抬神轎吧？",
+      "Text": "行，我已經知道了。\n你是想找我們這兩個賽馬娘，\n來幫忙抬神轎吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -105,31 +105,31 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "……這個嘛。我是很想幫忙抬啦，\n不過這次就用其他方法吧。",
+      "Text": "……不。雖然我是很想幫忙抬啦，\n但這次就用其他方法吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "可是光靠稻荷大人我的話人手還不夠，\n訓練員、小栗。\n你們也要來幫忙喔。",
+      "Text": "說是這麼說，光靠稻荷大人我一個人也不夠。\n訓練員、小栗，你們也來幫忙吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "──來來來，快來看！\n走過路過不要錯過！\n世紀大比賽要開始了！",
+      "Text": "──來來來，快來看！\n走過路過不要錯過！\n世紀大對決要開始了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "祭典的遊客",
-      "Text": "嗯？怎麼回事？\n那些跟山一樣高的炒麵跟章魚燒是……！？",
+      "Text": "嗯？那些跟山一樣高的炒麵\n跟章魚燒是怎麼回事……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "知名大胃王小栗帽蒞臨現場！\n她可是無人不知無人不曉的\n胃袋大妖怪！",
+      "Text": "知名大胃王小栗帽蒞臨現場！\n她可是無人不知，無人不曉的\n胃袋大妖怪喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -141,7 +141,7 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "要挑戰王者的是本人稻荷一！\n來比賽誰能先把這堆\n跟富士山一樣高的料理吃光吧！",
+      "Text": "要挑戰這位王者的，就是本人稻荷一！\n我們將要比賽，看誰先把這些\n堆得跟富士山一樣高的料理吃光！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -152,14 +152,14 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
-      "Text": "在祭典攤位與商店街餐廳協助之下，\n好不容易把臨時大胃王比賽辦了起來。\n炒熱了來客的熱情，然後──",
+      "Name": "獨白",
+      "Text": "在祭典攤位與商店街餐廳協助之下，\n臨時大胃王比賽得以勉強成形。\n觀眾們看得大呼過癮，然後──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "──喔！快看，重頭戲終於登場！",
+      "Text": "──喔！快看，重頭戲終於登場了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -177,43 +177,43 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "嘿嘿嘿。現場熱情直衝上天呢。\n……那我們差不多該走了。",
+      "Text": "嘿嘿嘿。現場的熱情到了最高點呢。\n……那麼，我們差不多該走了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "小栗帽",
-      "Text": "什麼？已經可以了嗎？\n還沒有比出高下耶……",
+      "Text": "什麼？已經夠了嗎？\n還沒有比出高下耶……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "嗯。我們只是重頭戲前的餘興節目而已。\n幫手的戲份到此為止！",
+      "Text": "嗯。這只是重頭戲前的餘興節目。\n我們這些幫手的任務已經結束了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "看看那些抬著神轎的人。\n還有圍觀的客人們\n那閃閃發光的眼睛。",
+      "Text": "看看那些抬神轎的人，\n還有觀眾們閃閃發光的眼睛。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "怎麼可以搶人家的鋒頭給活動潑冷水呢！\n好啦，把剩下的菜打包起來，\n我們快離開吧。",
+      "Text": "怎麼可以搶走活動的鋒頭呢！\n好啦，我們把剩下的料理打包起來，\n趕快離開吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "──呼～不過啊，事情一解決，\n疲勞感就一口氣湧上來了呢。",
+      "Text": "──呼～不是我在說，事情解決後，\n疲勞感就一口氣湧上來了呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "不過這次既給對方增添光彩，\n也爭取到了時間，可說是成果斐然吧？",
+      "Text": "不過，我們讓對方有了面子，\n也爭取到時間，計畫算是大成功吧？",
       "ChoiceDataList": [
         "太佩服了！",
         "太佩服了！",
@@ -223,7 +223,7 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "不過這次既給對方增添光彩，\n也爭取到了時間，可說是成果斐然吧？",
+      "Text": "不過，我們讓對方有了面子，\n也爭取到時間，計畫算是大成功吧？",
       "ChoiceDataList": [
         "太佩服了！",
         "太佩服了！",
@@ -233,61 +233,61 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "沒這回事，\n這句話要獻給你們兩個才對。",
+      "Text": "沒這回事。\n我才應該對你們說這句話。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "畢竟小栗展現了驚人的大胃王實力啊，\n不過對妳而言，\n或許就跟平常一樣吧。",
+      "Text": "小栗，妳可是展現了驚人的大胃王實力啊。\n雖然對妳而言，可能跟平常一樣就是了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "還有四處奔走交涉\n替我們準備如此大量的料理的人……\n是訓練員你啊。",
+      "Text": "還有，四處奔走交涉，\n為我們準備那麼多料理的人……\n是訓練員你啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "嘿嘿嘿。真是的……\n不知不覺中你也變得這麼可靠了呢。",
+      "Text": "嘿嘿嘿，真是的……\n你也在不知不覺中變得很可靠了嘛。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
-      "Text": "就這樣，在瀟灑三人組的精彩表現下，\n拯救了祭典的危機。",
+      "Name": "獨白",
+      "Text": "就這樣，靠著瀟灑三人組的活躍，\n祭典的危機宣告解除。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "喂喂喂，\n你是要我跟小栗認真拚出高下嗎？\n這也太殘忍了吧──",
+      "Text": "喂喂喂，你是要我跟小栗認真拚出高下嗎？\n這也太殘忍了吧──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "小栗帽",
-      "Text": "也是。反正剩菜都打包帶回來了，\n我們繼續比吧。",
+      "Text": "反正，沒吃完的食物都帶走了，\n我們繼續比吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "嗯……妳很想比嗎？\n這樣一來，\n稻荷大人怎麼能逃避呢……！",
+      "Text": "唔……妳很想比是嗎？\n這樣一來，稻荷大人怎麼能逃避呢……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "哼，可惡！\n就來比一場吧！！",
+      "Text": "好啊，妳這傢伙！比就比啊！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
-      "Text": "稻荷一雖賭上江戶之子的骨氣進行挑戰……\n但面對怪物的胃袋，\n最終還是以慘敗收場。",
+      "Name": "獨白",
+      "Text": "就這樣，稻荷一憑著江戶之子的骨氣\n勇敢挑戰小栗帽。不過……\n她還是不敵怪物的胃袋，最終以慘敗收場。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

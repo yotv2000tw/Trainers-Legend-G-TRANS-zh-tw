@@ -1,0 +1,52 @@
+{
+  "Title": "相信那一天",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>\n接受了「閃耀月刊」的採訪。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "原來如此！\n所以之後挑戰「凱旋門賞」時，\n妳也打算穿上那件決勝服啊……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "<chrname>小姐\n在隆尚的草地上奔馳的英姿……！\n好像已經浮現在我眼前了……！",
+      "ChoiceDataList": [
+        "我也很期待那一刻呢",
+        "我也很期待那一刻呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史記者",
+      "Text": "喔喔，\n這麼說訓練員也深信她將在\n「凱旋門賞」颳起一陣旋風吧……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然她的反應好像有點太誇張了，\n但我確實是相信著這一點，\n每天在和<chrname>一起努力──",
+      "ChoiceDataList": [
+        "嗯，我們一定會辦到的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "為了表明自己的決心，\n我堅定地點頭\n回應乙名史記者。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

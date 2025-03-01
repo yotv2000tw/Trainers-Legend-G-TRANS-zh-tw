@@ -1,0 +1,55 @@
+{
+  "Title": "福伊賞結束後．敗北",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "歡呼聲籠罩著贏家。\n位於中心的人物，\n並不是<chrname>。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "──會輸一定是有什麼理由。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "只要重新審視自己，\n下次結果一定會不一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "還沒有結束喔，\n<username>訓練員。",
+      "ChoiceDataList": [
+        "是的，我會轉換心情！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……嗯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "你們一定辦得到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我在兩人的鼓舞下，邁開步伐。\n立刻來仔細檢視<chrname>的跑法，\n為「凱旋門賞」做準備吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

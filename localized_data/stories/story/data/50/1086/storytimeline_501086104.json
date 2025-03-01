@@ -1,0 +1,543 @@
+{
+  "Title": "夏季集訓（第二年）途中",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在夏季集訓進行得相當順利的某天……\n發生了一起事件。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "──草地2000公尺，\n跑這條賽道就行了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "嗯！\n哎呀～好期待喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "居然有機會能跟妳比一場！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這件事要從一個小時前說起──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在訓練的休息時間，千明代表\n突然跑來找目白拉茉奴……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "欸，我想跟妳一起跑步……應該說，\n我想比賽！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "可以嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "無妨。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──光憑這段簡短的對話……\n目白拉茉奴就決定要和經典三冠賽馬娘\n千明代表進行對決了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "拉茉奴。妳可以說是目前\n跑得最自由的選手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "沒有任何事物能束縛妳。\n無論什麼風吹來也影響不了妳……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "我想和這樣的妳一起跑步！\n謝謝妳答應我的請求。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "能被妳稱讚很自由，\n是一件非常光榮的事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "我會讓妳連內心深處，\n都能感受到這點……",
+      "ChoiceDataList": [
+        "（拉茉奴看起來幹勁十足……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但千明代表不僅是經典三冠賽馬娘，\n還在資深級累積了許多競賽經驗……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "資深級"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "相較之下，目白拉茉奴在經典級的經驗尚淺，\n不曉得能和她較量到什麼程度。\n但坦白講──",
+      "ChoiceDataList": [
+        "（我想看她們對決……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然目白拉茉奴目前在后冠路線展現了極強的\n實力，但她究竟能逼近千明代表到什麼程度呢？\n這場競賽應該會讓人看得非常緊張吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "而且，似乎不是只有我\n這麼想──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "啊，就是這裡！\n千明前輩和拉茉奴前輩要比賽了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "千明"
+      ]
+    },
+    {
+      "Name": "觀光客A",
+      "Text": "唔喔喔喔……！\n她們兩人真的要比賽耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "……哎呀，\n圍觀的人變多了。",
+      "ChoiceDataList": [
+        "他們怎麼知道妳們要比賽？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "我剛才是光明正大地去邀拉茉奴。\n大概是有人看到後傳出去了吧？",
+      "ChoiceDataList": [
+        "怎麼辦，拉茉奴？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "無妨。\n我和千明都不會在意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "啊哈哈，沒錯！\n我們只要有對方就夠了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "那麼，在騷動擴大之前。\n趕緊開始吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圍觀群眾",
+      "Text": "呀～～！\n兩位都要加油喔～～！",
+      "ChoiceDataList": [
+        "（……真的沒問題嗎？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "圍觀群眾越來越多，\n讓我感到一絲不安──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拉茉奴&千明",
+      "Text": "呼……！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──比賽開始了！\n一開始是目白拉茉奴跑在前列，\n逐漸拉開和千明代表的距離……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "！\n不錯呢，毫無破綻……\n是既完美又美麗的跑法！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "兩人之間的距離一直沒有縮短，\n比賽持續進行。乍看之下，\n目前是目白拉茉奴占優勢……",
+      "ChoiceDataList": [
+        "（千明代表的可怕之處才正要開始）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "──那麼！\n差不多……該追上去了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "喝啊啊啊啊啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……！",
+      "ChoiceDataList": [
+        "（開始了！好驚人的後追能力……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圍觀群眾",
+      "Text": "啊……等、等一下──呀啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "然而……這場比賽到此結束。\n圍觀的群眾越來越多，\n人牆差點在終點附近倒成一片。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "千明代表和目白拉茉奴\n都立刻察覺這件事並放慢速度，\n所以沒有受傷，然而……",
+      "ChoiceDataList": [
+        "……嗯，看來妳們兩位真的都沒事",
+        "……嗯，看來妳們兩位真的都沒事"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "我不是已經說了很多遍嗎？\n結果你還是堅持檢查了幾十次……",
+      "ChoiceDataList": [
+        "之後如果覺得哪裡不對勁要說喔！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "我知道啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "唉～看這狀況，\n也提不起勁再重比一次了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……真是遺憾呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "是啊！\n……那麼，我去和大家打個招呼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "為什麼？\n圍觀群眾應該也都沒事吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "嗯～不過，有一部分也要怪我\n不夠了解自己有多大的話題性……\n才會發生這種事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "雖然我不會道歉，\n但還是該去關心一下吧。",
+      "ChoiceDataList": [
+        "我也再去看一下狀況！",
+        "我也再去看一下狀況！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "這樣啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "你們的個性真麻煩呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "等處理完所有事後，\n已經是傍晚了。",
+      "ChoiceDataList": [
+        "結果根本沒什麼時間訓練啊",
+        "結果根本沒什麼時間訓練呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "是啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "不過，\n得到了更有意義的收穫。",
+      "ChoiceDataList": [
+        "妳是指……經驗嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "不。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "是令人高興的可能性。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "那場比賽。\n最後應該是我會輸。",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "千明最後展現的，\n那股霸氣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "跟我至今感受過的全都不同。\n足以撼動我的雙腳……和身體。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "那既令人歡愉……\n同時也是未知的恐懼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……越細細品味，\n就越甜美……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……我問你。",
+      "ChoiceDataList": [
+        "嗯？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "在跑完三后冠路線後，\n還能夠繼續體驗到……\n比那更厲害的比賽嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白拉茉奴第一次提到\n「三后冠路線結束後」的事情……\n而且還是用雀躍的語氣。",
+      "ChoiceDataList": [
+        "妳在那之後有什麼目標？",
+        "妳在那之後有什麼目標？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "我沒有目標。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "只要還能追求這份愛，\n我就會一直跑下去。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……哎呀。\n你為什麼在笑？",
+      "ChoiceDataList": [
+        "我很高興……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "「奧克斯」時，我產生了想一直看\n目白拉茉奴跑下去的想法……\n我坦率地表示她的回答讓我很高興。",
+      "ChoiceDataList": [
+        "妳在「奧克斯」的表現真的很棒！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "我已經聽你說過了。",
+      "ChoiceDataList": [
+        "不，等等，應該從「櫻花賞」開始說──",
+        "不，等等，應該從「櫻花賞」開始說──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "呵呵……",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "因為……\n你看起來實在太純真了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "也好。\n我就聽你說說看吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "你喜歡哪個部分？",
+      "ChoiceDataList": [
+        "在「櫻花賞」的陡坡展現的強大力量……",
+        "在「奧克斯」的直線展現的堅強韌性……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在舉辦「櫻花賞」的阪神賽場，\n終點前有一道陡坡。在最後的最後，\n那個考驗爆發力的情況──",
+      "ChoiceDataList": [
+        "妳以強而有力的步伐衝上去了！",
+        "妳以強而有力的步伐衝上去了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "嗯。那條坡道，\n我在「阪神JF」就跑過了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……感覺會講很久呢。\n我想邊走邊聊──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在那之後，我和目白拉茉奴\n聊著許多競賽的話題，\n在海邊散步到太陽下山為止──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在舉辦「奧克斯」的東京賽場，選手跑完\n一段艱辛的路程後，將面臨漫長的直線。\n在那個考驗精神力的情況──",
+      "ChoiceDataList": [
+        "妳的表情依然遊刃有餘！",
+        "妳的表情依然遊刃有餘！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……我不太記得當時的狀況。\n不過那條直線很有趣──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……感覺會講很久呢。\n我想邊走邊聊──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在那之後，我和目白拉茉奴\n聊著許多競賽的話題，\n在海邊散步到太陽下山為止──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

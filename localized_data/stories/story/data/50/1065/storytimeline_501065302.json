@@ -1,0 +1,710 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "訓練結束後，\n我正陪著心血來潮的大德太陽出門閒晃……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "啊！！！！",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，好玩的抽獎活動！\n歡迎大家來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "哦？這不是陽陽嗎！\n喔耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "陽陽"
+      ]
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "大叔辛苦啦喔耶～～！",
+      "ChoiceDataList": [
+        "（人脈真廣啊）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來抽個獎吧，喔耶☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "不錯喔！\n很罕見呢！反而覺得很新鮮！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "反而覺得……？\n話說陽陽，妳有抽獎券嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "咦，不知道耶！\n找找看的話應該會有吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "大德太陽把口袋翻了一遍。\n拿出古早味零食店的收據、口香糖、棒棒糖、\n斷掉的橡皮筋、拍貼等東西之後……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "──找到了～～～～！！\nHere we go！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "大德太陽有點嗨地轉動了抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "溫泉──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "天啊，\n我是不是超神的～！？！？",
+      "ChoiceDataList": [
+        "恭喜妳！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "真不愧是陽陽！\n不過不知道妳會不會喜歡耶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "什麼？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "因為那裡真的就只有溫泉而已啊。\n對陽陽這樣年輕人來說，\n可能會很無聊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "咦！\n我超喜歡溫泉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "只要能大鬧就超棒了☆\n而且阿訓也會去嘛！",
+      "ChoiceDataList": [
+        "……咦？我也要去嗎？",
+        "……咦？我也要去嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "當然☆\n因為我們是一路一起打拚過來的啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "我不可能會拋下你的☆",
+      "ChoiceDataList": [
+        "太陽……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "就是這樣！\n大叔也要一起來嗎？",
+      "ChoiceDataList": [
+        "咦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "咦！？不、不用了，\n大叔沒有跟妳一路一起打拚吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "真搞笑！我們是商店街的開朗二人組，\n不也是一起打拚過來的嗎～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "妳說得也是沒錯啦……\n訓、訓練員……這樣好嗎？",
+      "ChoiceDataList": [
+        "她就是這樣的人……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "是說要不要把旅館包下來！？\n來辦溫泉祭典！我是天才嗎～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "把全部死黨都叫來！\n一百度的溫泉地獄行程也很可以吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在那之後，\n大德太陽想到的點子持續增加──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "──瞭！\n那我就先跟阿訓一起去場勘吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "為了以萬全的狀態舉辦溫泉季典，\n這次就先去溫泉旅館勘查場地……最後我們總算\n以這個結論，把亂七八糟的提議做了總結。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "啊！\n是花店的小徹！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "不過你真厲害啊，訓練員。\n居然能夠順利地轉移小陽的注意力……\n畢竟溫泉祭典這種活動根本辦不成嘛。",
+      "ChoiceDataList": [
+        "我們會辦喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "咦？什麼，那你真的……\n是要去場勘的嗎？",
+      "ChoiceDataList": [
+        "因為感覺很有趣啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "……真令人驚訝。\n你……果然是小陽的訓練員呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "阿訓～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "小徹好像說要送花給我耶！\n選什麼好──！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "我是覺得啊，乾脆就多買一些，\n然後變得像森巴那種感覺！",
+      "ChoiceDataList": [
+        "我現在就過去，妳先停下來！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "哎呀，\n這就是愛啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "天啊！\n好像很好吃～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "啊，糟糕，口水流出來了。",
+      "ChoiceDataList": [
+        "收回去、收回去"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "好的好的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "不過這外型也太適合拍美照了吧！？\n不愧是派對玩咖小鎮的美照專家☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "嘿嘿，對吧？我本來是想讓大家開心的～\n結果完全沒有掀起話題。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "不是，這一定會爆紅的吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "訓練員！\n幫我拍ー☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "立刻上傳～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "我開動囉～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "──嗯嗯！\n好好吃～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "阿訓也吃吃看！\n啊，在那之前先拍照！拿來發限動！",
+      "ChoiceDataList": [
+        "單純拍照就可以了嗎？",
+        "單純拍照就可以了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "確實！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "那就像這樣～一邊跳舞一邊拍～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "接下來是Umatok～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "Umatok"
+      ]
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "好～好吃啊～～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "大德太陽吃了很多，也拍了很多照片。\n結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "街上的人A",
+      "Text": "──我要抽獎！\n希望能抽到特等漢堡排……（流口水）！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "街上的人們",
+      "Text": "我也要！我也要──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "怎、怎麼突然變得這麼忙啊！？\n嘿嘿，真是件值得高興的事啊！\n好啦，大家一起抽、起、來──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "哇哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "這也堆太高了吧☆\n服務精神滿點！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "……果然有點太多了嗎？\n這樣也很難帶回去呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "我最近在想，\n雖然我認為這樣做很好，\n但不知道會不會變成在把我的想法強加給別人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "才沒有這種事呢！\n不管什麼東西，都是越多越好啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "是這樣嗎……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "真假！？\n你不相信我嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "總之就交給我這個派對玩咖吧☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "太陽的朋友A",
+      "Text": "謝太陽招待～！\n這個胡蘿蔔好好吃！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "對吧！？\n再多吃一點！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "喔喔……好厲害，\n越來越多朋友聚集過來了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "大叔～！\n胡蘿蔔超受歡迎！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "大家都說很好吃喔～！\n果然堆得滿滿就是最棒的☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "對啊！說得對！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "……訓練員。\n陽陽真的是個好孩子呢。",
+      "ChoiceDataList": [
+        "是啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，\n那一整堆胡蘿蔔，\n一瞬間就被帶著笑容的賽馬娘們掃光了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "一根～！\nPONPOPO～N☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "那就把這個當成麥克風～\n小訓訓拿好☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "好，來採訪我！",
+      "ChoiceDataList": [
+        "採訪？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "問什麼都可以唷～☆\n快點快點！",
+      "ChoiceDataList": [
+        "……妳現在感覺如何？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "好的。那個，\n我覺得肚子很餓──！",
+      "ChoiceDataList": [
+        "妳想吃什麼呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "麵類！\n烏龍麵或拉麵或蕎麥麵！",
+      "ChoiceDataList": [
+        "如果只能選一個，妳會選哪個呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "嗯～！\n真是個好問題！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "還是選拉麵吧！\n要是超多叉燒拍起來很上相的那種☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "好，下一個！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在這之後，我不斷被她要求提出問題──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "──豆沙我喜歡白色的那種！\n請繼續下一個問題☆",
+      "ChoiceDataList": [
+        "還要問嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "到我膩了為止──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果，回到學園之後，\n這個莫名的訪問仍持續了一陣子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "沒抽中……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "是說衛生紙很有用吧？？\n才不是沒抽中呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "大叔，拿出自信吧！\n最好的是什麼獎來著……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "……什麼！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "咦，真假？\n搞不好可以抽中溫泉旅行嗎！？",
+      "ChoiceDataList": [
+        "是啊",
+        "是呀"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "我完全沒看到！\n真假？咦，實在是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "哭哭！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "大德太陽過了一下，\n才感到失望開始哭哭……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "Title": "請多指教囉，訓訓？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "噯～～～訓訓～～～\n真的要把這些全都吃掉才行嗎？",
+      "ChoiceDataList": [
+        "是啊，全部喔",
+        "嗯，全部唷"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "唔啊……拉麵、酪梨沙拉、地瓜，\n還有一整堆水煮蛋……除此之外還有好多東西……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "攝取這麼多熱量會讓體型變糟的──！\n可以至少把麵條換成蒟蒻嗎？",
+      "ChoiceDataList": [
+        "不行，妳要攝取更多熱量！",
+        "不行，妳要攝取更多熱量！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "「老師，這是在拍攝中嗎？\n耶──♪我問你喔，這個有開濾鏡效果嗎？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯的教官",
+      "Text": "「比布魯斯，不要胡鬧了──」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "「我知道啦！1600公尺是吧，我去練跑囉──」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我觀看比布魯斯的訓練影片時……\n認為如果之後要和她一起走下去的話，必須增強她的體力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "比賽是非常嚴苛的。跑完後會消耗大量體力，有時需要花上\n好幾週才能完全恢復。對纖細的比布魯斯來說會更加嚴苛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "考量到未來將遠征國外的話，就更需鍛鍊出\n能夠克服比賽生活的身體……現在我想先讓她習慣吃東西。",
+      "ChoiceDataList": [
+        "為了將來挑戰杜拜的那一天做好準備吧！",
+        "為了將來挑戰杜拜的那一天做好準備吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "我知道了，我……會好好努力吃飯的！\n朝著名流邁進，我開動了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "──嗯啊啊啊……\n吃到肚子這麼撐，好像還是第一次呢……",
+      "ChoiceDataList": [
+        "妳做得很好",
+        "妳做得很好"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "嗯……再多稱讚一點。",
+      "ChoiceDataList": [
+        "真是個好孩子！",
+        "真是個好孩子！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "嗯嗯～再來！",
+      "ChoiceDataList": [
+        "那要再更加努力喔",
+        "那要再更加努力呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "哎呀，到此為止了嗎──？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "嗯嘿嘿……\n有點像姊姊呢♪",
+      "ChoiceDataList": [
+        "哪一個姊姊？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "最大的姊姊！\n逸逸完全都不寵我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "姊姊很帥氣──很漂亮──超級溫柔的喔。\n最重要的是，她超──強的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "……噯，訓練員。\n可以再稍微寵我一下嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "其實我啊……除了杜拜之外還有另一個目標。\n那就是……三后冠！",
+      "ChoiceDataList": [
+        "三后冠……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "那是贏下「櫻花賞」「奧克斯」「秋華賞」的人\n才能獲得的稱號……最近有個賽馬娘登上了那個頂點。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "貴婦人──她順利地成為了三后冠賽馬娘，\n在她的勝利背後連續取得第二名的……就是極峰。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "畢竟要在杜拜成為閃閃發光的名流，\n必須先在日本成為女王才行──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "……因為那是姊姊輸掉的比賽。感覺身為妹妹\n就該去為姊復仇呢……如果我贏了一定很感人吧？",
+      "ChoiceDataList": [
+        "或許會很感人吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "啊，你覺得我的想法太天真了對吧？沒關係，我知道的！\n因為姊姊……真的是超強的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "但是卻沒能獲勝。明明逸逸也超級厲害，\n但我覺得她現在也很掙扎……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "連那兩個人都這麼辛苦，可見比賽就是如此艱難呢。\n正因為如此！我才必須去挑戰吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "因為我絕對是有才能的！\n對吧──？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "──妳剛剛說的話……是認真的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "啊，姊姊！逸逸也在～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "我想說妳最近很沮喪……看來已經完全恢復精神了呢。\n雖然這是件好事，但是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "我還是第一次聽說妳想要拿下三后冠。\n不過呢……閃耀系列賽是非常辛苦的喔？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "唔。\n這種事──",
+      "ChoiceDataList": [
+        "我認為比布魯斯很清楚這點"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "當然她之後才會體會到有多辛苦，但她是個能夠\n看清周圍情況的聰明孩子，也非常尊敬兩位姊姊。",
+      "ChoiceDataList": [
+        "不用這麼擔心"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "訓練員……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "耶嘿嘿，就是啊──訓訓♪\n繼續稱讚我是個好孩子吧──？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "等等，未免也太親近了吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "不過，如果她認為對方不值得信任的話，\n是不會像那樣撒嬌的。所以……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "……對不起，比布魯斯。\n其實我也知道妳是個會認真思考的孩子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "姊姊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "但是我實在無法不擔心妳。因為在我心中，\n妳一直都是個笑嘻嘻、軟綿綿的小嬰兒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "駿逸，妳也一樣。所以我總是過度干涉妳們兩個……\n但是妳們已經走上自己的道路了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "訓練員，比布魯斯就拜託你了！\n姊姊們也會在一旁守護妳、支持妳的！好嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……如果是妳的話一定沒問題吧。\n不過，加油……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "……嗯。\n姊姊、逸逸……謝謝妳們！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "我說，難得我們簽訂契約了～\n我想舉辦船上派對來慶祝呢？",
+      "ChoiceDataList": [
+        "船上派對！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "啊，等等。普通地辦場加長禮車派對好像也不錯？\n訓訓覺得哪個比較好？還是要包下整個游泳池？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "不過不過，畢竟我是未來的名流，果然還是船上派對最適合！\n請多指教囉，訓訓♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……我有種預感，從現在開始存錢這件事會變得很重要，\n同時也決定將和比布魯斯一起挑戰閃耀系列賽。但是──",
+      "ChoiceDataList": [
+        "在那之前……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "嗯？",
+      "ChoiceDataList": [
+        "別再叫我訓訓了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "我才不要──♪\n因為～你也不討厭吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "嘻嘻，我看你的眼睛就知道囉♪\n一起飛向世界吧，訓訓♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

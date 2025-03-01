@@ -1,0 +1,367 @@
+{
+  "Title": "一起開拓道路",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "當我假日在散步時，\n遇到了充滿幹勁的成田路。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "從宿舍到車站的時間……很好！大概多留這些時間\n應該就沒問題了──好，前往車站吧。",
+      "ChoiceDataList": [
+        "妳今天要外出嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "訓練員！是的，我要去遊樂園！\n……說是這麼說，但今天只是去場勘而已。",
+      "ChoiceDataList": [
+        "去遊樂園場勘……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我下次要跟朋友們一起去玩，大家希望我來當負責人。\n所以想說先去場勘，做好各種準備！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然她本人說得很理所當然……但一個人做這些應該很辛苦。\n話雖如此，但即使我提出要幫忙她應該也會委婉拒絕──",
+      "ChoiceDataList": [
+        "遊樂園啊，真不錯呢。我可以一起去嗎？",
+        "遊樂園啊，真不錯呢。我可以一起去嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "訓練員也要去嗎？啊……你想去放鬆一下嗎？\n不過，跟我一起去可能玩不到什麼──",
+      "ChoiceDataList": [
+        "跟別人一起去會更開心吧！",
+        "跟別人一起去會更開心吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "呵呵，說得也是！我也覺得如果能跟訓練員一起逛的話，\n應該可以度過愉快的一天呢！請務必和我一起去！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "那麼，我今天想確認的是……遊樂設施的時間和人潮擁擠度。\n我打算以這些為基礎，來規劃當天的行程！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "大家都說很期待遊行，絕對不能錯過！\n所以我打算配合遊行的時間規劃路線！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "……我看看，第一場遊行的時間是……11點30分。\n這樣的話，沒辦法去排遊樂設施呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "先去看看伴手禮……不過，這樣身上的東西是不是就變多了？",
+      "ChoiceDataList": [
+        "先早一點去吃午餐如何？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我告訴她，當遊行結束的時候，正好是午餐時間。\n當餐廳擠滿人的同時，熱門遊樂設施的排隊人潮會變得比較少。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "啊，原來如此……！這樣一來不管是吃午餐還是玩遊樂設施\n都能避開人潮！要玩到熱門遊樂設施好像也比較容易呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "那麼，接下來……就去找吃午餐時的餐廳吧！\n我想先鎖定好店家！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "這間店感覺不錯呢！從窗戶就可以看見遊行的路線，\n可以掌握等待遊行的人潮數量！",
+      "ChoiceDataList": [
+        "要出去外面的話，選靠近出口的座位比較好吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "說得也是，如果可以的話我會要求一下座位位置。\n那麼，來實際確認一下點餐後的所需時間吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "嗯～真好吃……！不過真是出乎意料啊。\n沒想到菜單會讓我這麼猶豫！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我到最後都在猶豫要不要點訓練員選的那道餐點。\n看來要把選擇的時間也考慮進去比較好呢。",
+      "ChoiceDataList": [
+        "要不要分妳一口？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "由於我還沒開始吃，於是我跟店員要了一把刀，\n把我點的餐點切了一塊出來，放在她的盤子裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "啊！謝謝你！對喔，可以互相分享……！\n那麼大家點餐時應該就不必煩惱了。呵呵，一定會很開心吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "很好，占到一個好位置！\n這裡就沒有東西會遮蔽視線了！",
+      "ChoiceDataList": [
+        "跟大家一起的話，去寬敞的對面好像也不錯"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "確實……對面好像比較空曠。\n也把那邊當作候補……啊！遊行隊伍來了喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "哇！最前面是胡蘿蔔皇后！\n服裝變得好可愛啊！遊行花車也好豪華……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "舞者跟音樂也好繽紛……\n啊，好像可以一起跳舞呢！",
+      "ChoiceDataList": [
+        "機會難得，一起參加吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "轉圈圈……呵呵！\n看到訓練員在跳舞，總覺得好難得啊！呵呵呵！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在盡情享受完遊行之後。\n我們直接前往最受歡迎的雲霄飛車。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "午餐時間果然連最受歡迎的雲霄飛車都有空位呢。\n──嗯，就決定遊行結束後去巨電山了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "之前有同學說過這個「很容易暈」讓人覺得很在意……\n我認為最好事先調查一下！",
+      "ChoiceDataList": [
+        "好，我們走！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "哇、哇、哇、哇……！你、你看。\n下面有人在對我們揮手……喂、喂──！哈哈……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "噫、等等……不要啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "……不、不好意思，不該是這樣的……\n嗚嗚……",
+      "ChoiceDataList": [
+        "妳還好嗎？可以休息的地方是──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我攤開園區地圖，尋找能夠休息的地方。\n在附近的池塘周圍好像有長椅。我支撐著她，前往那附近。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "…………呼……",
+      "ChoiceDataList": [
+        "冷靜下來了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是的，託你的福。\n不好意思，給你添麻煩了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "…………\n……訓練員，那個……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "你覺得開心嗎？",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "因為你從早上開始就一直陪著我……\n明明說要放鬆一下，但卻完全沒有玩到吧？",
+      "ChoiceDataList": [
+        "因為是跟妳在一起，我很開心喔",
+        "因為是跟妳在一起，我很開心喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "可是，都只有我單方面獲得訓練員的幫助。\n不會造成你的困擾嗎……？",
+      "ChoiceDataList": [
+        "不會啊──這次場勘對妳來說是一種負擔嗎？",
+        "不會呀──這次場勘對妳來說是一種負擔嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "怎麼可能！\n身為負責人，是我自己決定要來場勘的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "因為我希望能夠讓大家盡情地享受！\n這是我自己想做的事！我覺得很有成就感！",
+      "ChoiceDataList": [
+        "我跟妳一樣"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "……一樣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "可以為了某個人盡心盡力，從中感受到成就感。\n我告訴她，我認為能夠持續這麼做的成田路非常厲害。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "所以，我希望她能夠堅持下去，回應大家的期待。\n不過，當有事情很難獨自實現的時候──",
+      "ChoiceDataList": [
+        "我希望妳可以依賴我，不要客氣",
+        "我希望妳可以依賴我，不要客氣"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "……！",
+      "ChoiceDataList": [
+        "兩個人能注意到的事情也會更多吧？",
+        "兩個人能注意到的事情也會更多吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "兩個人…………啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "（……沒錯，比起我自己一個人去做，\n兩個人能夠想出更好的點子……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "（為了讓大家能玩得更開心。\n──就算要借助別人的力量，也沒關係嘛！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "……既然訓練員都這麼說了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "你願意陪我繼續場勘嗎？",
+      "ChoiceDataList": [
+        "我很樂意！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "謝謝你！\n那接下來……我們去亡靈公館吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我跟著成田路，她帶著豁然開朗的表情邁出步伐。\n兩個人一起互相提出意見的時間過得非常充實。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

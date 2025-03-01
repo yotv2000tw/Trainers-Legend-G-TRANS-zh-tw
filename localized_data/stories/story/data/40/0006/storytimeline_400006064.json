@@ -1,0 +1,218 @@
+{
+  "Title": "Trust＜From Ship＞",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "啊～暢快多了。\n真是個舒服的早晨。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "黃金船之前說了一些令人難以理解的話。\n我跑到她身邊，\n想問她說那些話的用意。",
+      "ChoiceDataList": [
+        "妳先等一下！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "啥？",
+      "ChoiceDataList": [
+        "妳之前為什麼說這是今年最後的比賽？",
+        "妳之前為什麼說這是今年最後的比賽？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "黃金船今天使出了全力。\n以她那樣的實力，\n應該也足夠應付「凱旋門賞」。",
+      "ChoiceDataList": [
+        "接下來才是重頭戲吧？",
+        "接下來才是重頭戲吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "……喔！\n你很懂嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "就是因為接下來才是重頭戲啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "那麼，假設今天\n<chrname>獨有的跑法，\n對上了阿船大人全力的跑法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "你覺得哪一邊比較讓人興奮？",
+      "ChoiceDataList": [
+        "這……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "阿船也是這麼想的～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "再見啦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……所有人的「代表交流賽」都結束了。\n在佐岳鳴的指示下，\n參加計畫的成員們排成一列。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "接下來要公布參加「凱旋門賞」的\n日本代表成員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "以下叫到的名字沒有按照特定順序。\n……首先是第一位。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "<chrname>！",
+      "ChoiceDataList": [
+        "（……啊！被叫到了！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我和<chrname>彼此互看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "繼她之後，其他成員的\n名字也一一被叫到了。其中──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──果然沒有包含\n黃金船的名字。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……黃金船接下來就會\n離開「L'Arc計畫」了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然她不是我的專任賽馬娘，\n還是個古怪的賽馬娘，但她破天荒的個性，\n也造就了出色的膽識。",
+      "ChoiceDataList": [
+        "（本來希望接下來也能跟她一起努力……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我帶著這股遺憾，\n握緊拳頭朝樹幹打過去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "喂喂喂！？",
+      "ChoiceDataList": [
+        "嗚哇啊啊啊啊！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "啊～！別在我想點子的\n時候叫我啦！真是的～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "我接下來可是要在\n「凱旋門賞」期間支援你們耶。",
+      "ChoiceDataList": [
+        "支援我們？",
+        "支援我們？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "我就是為了這麼做，\n才放棄當代表的啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "接下來才要開始遠征吧？\n你們的跑法，\n現在還沒有完全成形不是嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "之後就是讓人心跳加速的約會了！？\n你懂我的意思嗎！？",
+      "ChoiceDataList": [
+        "約會……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "意思是我和你們，\n接下來要用嚇死人的\n方式贏得「凱旋門賞」啦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "如果把事情搞得很無聊，\n我可要到地獄將眼睛給徹底洗個乾淨！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "做好心理準備吧☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "黃金船似乎打算在遠征\n「凱旋門賞」的期間，全心全力地\n支援<chrname>。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……她打算將\n珍貴的時間花在我們身上，\n這讓我們也想要回應她的期待。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Title": "缺席的理由……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "美麗週日沒有出席訓練。\n我擔心地四處尋找，\n最後在河岸找到全身泥濘的她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "訓練員！\n跟你說喔，我原本在尋找美麗，\n結果找到野槌蛇耶☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "我想伸手去摸，可是牠蹦蹦跳跳！\n我四處追著牠跑就弄得滿身泥濘了！",
+      "ChoiceDataList": [
+        "……訓練時間早就過囉"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "──啊！？\n對不起……我沒發現。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我鄭重地叮嚀了美麗週日，\n要她以後好好注意時間。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

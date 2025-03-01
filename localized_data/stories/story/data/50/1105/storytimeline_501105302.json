@@ -1,0 +1,545 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "日落時分。\n當我和新宇宙走在暮色的街道時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "訓練員……\n前方出現──「人」形成的漩渦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "他們正因球狀物體射出而「喧騰」呢。\n這是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然她說得很抽象，不過總結來說──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，好玩的抽獎活動！\n那位頭上有根天線的賽馬娘小妹，\n妳要不要抽抽看啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "抽獎……\n量化運勢的「抽抽樂」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "參加券──",
+      "ChoiceDataList": [
+        "我有，但是只有一張",
+        "我有，但是只有一張"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "新宇宙將珍貴的抽獎券拿給商店街的大叔。\n現在已經無法回頭了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "機會只有一次……\n新宇宙能量有限，\n但是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "只要「EXAL」們的意志與\n訓練員的力量合而為一……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "新宇宙集中力量，\n帶我走向抽獎機。\n順著這股勢頭，我們一起轉動把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "旋轉的銀河。\n最後被彈出的恆星──會是幾等星？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "……………………！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "「仙王座等級」的……恆星……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "訓練員，那張券能獲得停留設施的許可，\n所以……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "出發前往──「溫泉旅行」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（噗轟）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "新宇宙的身影……\n突然就消失了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（咻────）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "為什麼……不來呢？",
+      "ChoiceDataList": [
+        "呃，我做不到啦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看起來就像是……瞬間移動，\n但是事實並非如此。\n而且我當然也沒辦法跟上她。",
+      "ChoiceDataList": [
+        "妳知道溫泉是什麼樣的地方嗎？",
+        "妳知道溫泉是什麼樣的地方嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "其構造……已掌握。\n也就是說，「溫泉」是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "這顆行星的中心。\n被其表層，上部地函加熱的「水」……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "經過一次沉澱，與各種成分一同……噴出地表。\n意思是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "……會變得「開心」喔。",
+      "ChoiceDataList": [
+        "這、這樣啊……",
+        "這、這樣啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "從說明到「開心」雖然跳了很遠，\n不過她似乎是真的很期待。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "訓練員，\n新宇宙看得見「週期」喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "〔我〕們會在明年三月「同步」。\n所以，在那之前……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "要繼續加速，校準頻率──",
+      "ChoiceDataList": [
+        "嗯嗯，努力留下成果吧",
+        "嗯嗯，努力留下成果吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "要跑出好成績才有溫泉旅行。\n新宇宙朝向未來，\n繼續加速。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "一等星──「特等胡蘿蔔漢堡排」！\n這個形狀……「已知」。",
+      "ChoiceDataList": [
+        "妳有看過嗎？",
+        "妳有看過嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "沒有看過，但是感受過。\n這個形狀──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "貫穿車輪星系的槍型星系……\n酷似「星系合併」。",
+      "ChoiceDataList": [
+        "規模太宏大了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "想不到話題竟然會\n從漢堡排跳到星系間的碰撞。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "訓練員，新宇宙要推薦喔。\n這個漢堡排……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "最適合──「TRYK」。",
+      "ChoiceDataList": [
+        "「TRYK」？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "意思是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "「照燒」？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在那之後，我照她的希望，\n用「TRYK」的方式調理漢堡排。\n不知道是不是我的錯覺，味道有些知性。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "一整堆──胡蘿蔔。\n天文數字……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "訓練員，這些胡蘿蔔有多少──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "就有多少「EXAL」存在喔。",
+      "ChoiceDataList": [
+        "這樣啊……",
+        "原來是這樣……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "既然她這麼說，那我也只能附和。\n然後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我聽新宇宙的話，\n在夜裡把那一堆胡蘿蔔\n運到有點高度的地方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "從這裡的話……\n就能把胡蘿蔔一根根送給\n所有的「EXAL」……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "訓練員，把眼睛閉上，\n避免產生「雜訊」。",
+      "ChoiceDataList": [
+        "好，我知道了",
+        "嗯，我知道了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我照她說的閉上雙眼，\n然後再次張開眼睛時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "胡蘿蔔……全部都消失了。\n簡直就像是被吸入空中一樣。",
+      "ChoiceDataList": [
+        "真的都被拿走了？",
+        "真的都被拿走了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "與其說是被拿走，\n應該說是新宇宙「獻出了」。\n在「奉獻」結束之後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "新宇宙自己吃了。\n「肚子很飽」……",
+      "ChoiceDataList": [
+        "這、這樣啊……",
+        "這、這樣啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "奉獻之後再吃掉……\n透過這個非常接近供奉的儀式，\n新宇宙補充了營養。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "胡蘿蔔……只有一根……\n這個形狀……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "訓練員知道「火箭」嗎？",
+      "ChoiceDataList": [
+        "嗯嗯，我知道",
+        "嗯嗯，我知道"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "形狀──酷似。\n胡蘿蔔酷似火箭。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "聽她這麼一說，的確很像。\n有許多根莖類蔬菜的形狀很像火箭。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "如果真的能抽中火箭的話──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "或許就能跟新宇宙一起\n去太空旅行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "訓練員，獎品有「階級」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "特獎是「溫泉旅行」，\n三獎是「太空旅行」的話──無法保持平衡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "新宇宙跟你沒有辦法前往太空。\n真是「SALD」呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "感到失落的新宇宙停止妄想回到現實，\n開始吃起胡蘿蔔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "衛生紙……衛生紙……\n這個紙片……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "看得見上面刻有……符號……\n這是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "新宇宙好像在夢囈一樣，\n開始喃喃自語。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "黃面具的──鬥將……擄獲……\n瀟灑……的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "眩目的光芒……傳承……\n羅……羅……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "呼，呼……新宇宙……\n看見「禁忌」了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "──長方形的立體物。\n那是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "新宇宙現在疲憊的程度真是讓我難以置信。\n參加獎對她造成的負面影響，\n比我想像得還要嚴重。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

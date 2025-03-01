@@ -1,0 +1,373 @@
+{
+  "Title": "更高的展望",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主播",
+      "Text": "現在要來進行街頭調查！\n請問你有聽過\n「L'Arc計畫」嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴著帽子的男子",
+      "Text": "我有聽過。\n是一群以「凱旋門賞」為目標的選手吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴著帽子的男子",
+      "Text": "希望她們好好加油呢。\n就算拿不到第一名，\n希望至少能登上告示板。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "撐著陽傘的女子",
+      "Text": "啊～我有在關注～！\n我很支持<chrname>呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "撐著陽傘的女子",
+      "Text": "是叫贊助者嗎？\n我也有加入那個行列喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "電視節目的主持人",
+      "Text": "那麼，這次的主題是這個。\n深入探討天狼星象徵的活躍表現！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "藝人A",
+      "Text": "她很棒呢！\n我和我兒子都迷上了\n看SS對決的影片！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "藝人B",
+      "Text": "說到SS對決，\n里見光鑽最近的表現──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "…………呼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "鳴，\n妳會選誰呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "目白拉茉奴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "目白拉茉奴"
+      ]
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "這是奶奶寫給妳的信。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……我本來以為她已經放棄國外的比賽了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "偶爾也會發生一些有趣的事情呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "……哈哈。居然特地寫信，\n你們家的奶奶從以前就是這樣──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "信的內容",
+      "Text": "「務必要贏。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白家的祖母",
+      "Text": "鳴，妳比我們年輕，\n而且資歷尚淺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "象徵家的祖父",
+      "Text": "但我們是共同追求唯一一個夢想的同伴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "象徵家的祖父",
+      "Text": "堅持到底吧。\n我們一定能稱霸世界。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前任學園理事長",
+      "Text": "一起追求夢想吧。\n我們要一起看見頂點的景色。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "……唔。\n……這樣啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "……妳也還繼續懷抱著──\n和當時一樣的夢想嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "拉茉奴？\n妳也有事要找理事長嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "拉茉奴"
+      ]
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "哎呀，又來了一個浪漫的結晶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "真不可思議呢，我還以為\n目白家和象徵家已經不相往來了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "以為只有象徵家會派人去國外。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "……我也一樣喔，拉茉奴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "魯道夫象徵",
+      "Text": "妳和我都有機會進軍世界。\n……這個可能性是由激情創造出的奇蹟。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──這一天，\n我正要前往販賣部補充訓練用品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "一起熱烈討論到天亮～！\n究竟國外遠征時需不需要帶太陽眼鏡！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "與其討論這個，\n不如先買根棒棒糖吧。\n這樣至少可以讓妳在吃糖果時安靜一點。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "咖啡！我聯絡到速子了！\n她推薦的冷卻噴霧是thats！\n就放在右邊的架子上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "速子"
+      ]
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "…………\n……軟膏在這裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "各、各位前輩！\n籃子已經裝不下了喔……！",
+      "ChoiceDataList": [
+        "妳們在做什麼？",
+        "妳們在做什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "哼哼～！\n我們在打造「遠征用品組」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "三人同心，其利斷金！\n我們要網羅每個人推薦的用品，\n打造出最強的組合！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "雖然出意見的不只三個人就是了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "沒關係啦！這部分就靠氣勢擺平～！\n對吧，里見！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "是、是的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "啊，咖啡前輩！\n那就是妳剛才說的腳趾甲用的軟膏嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "妳們感情真好呢",
+        "妳們感情真好呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "……是的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "前輩們都很開朗，\n讓人根本沒時間消沉呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "里見光鑽開心地\n看向放在腳邊的購物籃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "……這些就是長期遠征時會用到的東西。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "好像是這樣。里見，如果我之後有需要，\n到時就麻煩妳替我準備了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "咦！？那如果我們立場反過來，\n就請中山替我準備吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "我可是隨時準備好收下\n大家送我的禮物喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黃金船",
+      "Text": "阿船也是跟妳同一派的～\n這些全部要多少錢啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……裡面也有一些價格昂貴的商品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "…………你也想知道詳細內容嗎？",
+      "ChoiceDataList": [
+        "感覺有點好奇"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼哈頓咖啡",
+      "Text": "……我明白了。\n因為裡面的東西一定都用得到……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，我看向她們搜集到的\n「遠征用品組」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "裡面或許也有<chrname>\n用得到的東西。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鷹",
+      "Text": "呵呵……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

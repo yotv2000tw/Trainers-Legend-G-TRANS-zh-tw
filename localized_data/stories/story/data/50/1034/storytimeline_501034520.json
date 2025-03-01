@@ -1,5 +1,5 @@
 {
-  "Title": "謊話不是為了他人",
+  "Title": "謊話幫不上任何忙",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,49 +9,49 @@
     },
     {
       "Name": "獨白",
-      "Text": "──這是我與稻荷一閒聊的時候\n發生的事……",
+      "Text": "──這是我在跟稻荷一閒聊時發生的事……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "我好像完全無法說謊。\n就算覺得自己裝得很好，還是會立刻穿幫。",
+      "Text": "我好像很不會說謊。\n就算覺得自己裝得很好，還是會立刻穿幫。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "反正也很少碰到\n不得不說謊的時候。\n我可是江戶之子，說謊這種事──",
+      "Text": "反正，我也很少碰到不得不說謊的時候。\n我可是江戶之子，說謊這種事──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超級小溪",
-      "Text": "抱歉，幫幫我～……！",
+      "Text": "不好意思，請幫幫我……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "怎、怎麼啦怎麼啦？\n妳怎麼了，小溪？",
+      "Text": "怎、怎麼啦怎麼啦？\n發生什麼事了，小溪？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超級小溪",
-      "Text": "其實有人在追捕我～……\n可以把我藏起來一下嗎？\n追捕我的人就要來了～……！",
+      "Text": "其實，是有人在追我……\n可以讓我躲一下嗎？\n追我的人就要來了……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "……看來情況不妙啊，\n這到底是怎麼回事？",
+      "Text": "……總覺得事情非同小可。\n雖然不曉得是什麼情況。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "不過我知道妳不是壞人。\n有困難就是要互相幫忙！",
+      "Text": "不過，我知道妳不是壞人。\n有困難就是要互相幫忙！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -69,13 +69,13 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "喔，怎麼啦，青竹？\n妳看起來很著急呢？",
+      "Text": "喔，怎麼啦，青竹？\n妳看起來很著急呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "青竹回憶",
-      "Text": "我正在追捕小溪前輩！\n現在前輩正因「無差別溺愛罪」，\n受到全學園通緝！",
+      "Text": "我正在追捕小溪前輩！\n她因為「無差別溺愛罪」\n而受到全學園的通緝！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -87,7 +87,7 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "（可是現在把她供出來的話，\n剛剛說要藏匿小溪就變成謊言了。\n身為江戶之子就算要說謊也要守住……嗯？）",
+      "Text": "（可是，現在輕易把小溪供出來的話，\n剛剛說要幫她就變成謊言了。\n身為江戶之子，就算要說謊也得堅守……嗯？）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -111,25 +111,25 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "不、不是的！剛才……啊～……",
+      "Text": "不、不是的！剛才那是……嗯……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "……喔～\n我完全沒有頭緒喔。",
+      "Text": "……嗯，我完全沒有頭緒喔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "青竹回憶",
-      "Text": "這樣嗎……既然稻荷前輩這麼說那就沒錯了。\n不對，她也可能在前輩不知情之下\n躲在這裡……？",
+      "Text": "是嗎……既然稻荷前輩這麼說，\n就不會錯了。不對，小溪前輩說不定是在\n妳沒發現的情況下躲進來的……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "是、是嗎？那妳就搜到滿意為止吧！\n除了置物櫃以外，\n妳怎麼搜都沒關係！",
+      "Text": "是、是嗎？那妳就搜到滿意為止吧！\n除了置物櫃以外，要怎麼搜都沒關係！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -141,25 +141,25 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "沒、沒有！該怎麼說……！\n現在那個置物櫃裡，有可怕的怪物……\n沒錯，有媽咪木乃伊住在裡面！",
+      "Text": "沒、沒有！該怎麼說……！\n那個置物櫃裡，有個很可怕的怪物……\n對啦，有木乃伊住在裡面！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "（啊～居然對可愛的後輩說謊，\n我到底在做什麼！\n可是我跟小溪的約定……可惡～！）",
+      "Text": "（啊～居然對可愛的後輩說謊，\n我到底在做什麼啊！但我也不能打破\n跟小溪的約定……可惡～！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "於是她一邊結結巴巴地說謊，\n一邊閃避青竹回憶的追問，\n就在搜查即將結束的時候──",
+      "Text": "於是，她一邊結結巴巴地說謊，\n一邊閃避青竹回憶的追問。\n就在搜查即將結束的時候──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "妳滿意了嗎？青竹。\n呼……比跑步還要累……",
+      "Text": "妳滿意了嗎，青竹？\n呼……這比跑步還要累……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -171,13 +171,13 @@
     },
     {
       "Name": "獨白",
-      "Text": "青竹回憶的視線之處有個東西掉在地上，\n那八成是……\n超級小溪掉落的手搖鈴！",
+      "Text": "有個東西橫躺在青竹回憶的視線前方。\n那是……疑似超級小溪掉落的手搖鈴！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "青竹回憶",
-      "Text": "這手搖鈴是……！？\n小溪前輩的七道具之一……？",
+      "Text": "這個手搖鈴是……？\n小溪前輩的七道具之一……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -195,7 +195,7 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "其實我最近覺得很累，\n所以想得到一些療癒……\n之類的吧……！",
+      "Text": "其實，我最近覺得很累，\n所以需要一些療癒……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -207,34 +207,34 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "咦。",
+      "Text": "咦？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超級小溪",
-      "Text": "既然感到疲憊就告訴我嘛！！\n我隨時都會照顧妳療癒妳的！！",
+      "Text": "覺得疲憊的話，就請告訴我！！\n我隨時都會照顧妳，療癒妳的！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "啊～真是的！妳怎麼跑出來了！\n一切都結束了！！\n我果然沒辦法說謊～！！",
+      "Text": "啊～真是的！妳怎麼跑出來啦！\n這下全都破功了！！\n我果然沒辦法說謊～！！",
       "ChoiceDataList": [
-        "更強勢一點或許可以蒙混過關",
-        "要是撐到最後，或許……"
+        "妳再拿出一些氣勢，也許就蒙混過去了",
+        "如果妳堅持到最後，也許就能……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "你在說什麼，你是要我繼續說謊嗎！\n我做不到！\n我會忍不住透露真心話的。",
+      "Text": "什麼啊，你是要我說更大的謊嗎！\n我做不到！\n我會忍不住說出真心話的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超級小溪",
-      "Text": "所以才忍不住透露了\n「想被療癒」的真心話嗎～♪好乖好乖。",
+      "Text": "所以，妳才忍不住說出\n「需要療癒」這個真心話嗎～♪好乖好乖。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -246,34 +246,34 @@
     },
     {
       "Name": "獨白",
-      "Text": "……超級小溪就這樣被帶走了，\n臨走前她還用帶著渴望的詭異眼神，\n一直盯著稻荷一不放。",
+      "Text": "……超級小溪就這樣被帶走了。\n離去時，她還用帶著渴望的詭異眼神，\n盯著稻荷一不放。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "就算這麼說，那你是要我怎麼辦？\n我又不是說謊專家，我做不到啦！",
+      "Text": "就算你這麼說，我究竟該怎麼做？\n不是說謊專家的話，根本就辦不到啊！",
       "ChoiceDataList": [
-        "乾脆試著練習說謊如何？",
-        "乾脆試著練習說謊如何？"
+        "乾脆來練習說謊如何？",
+        "乾脆來練習說謊如何？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "青竹回憶",
-      "Text": "唔！！那可是「準備練習說謊罪」！\n……再加上剛才的謊言，基於糾察隊員職責，\n我不能放過妳！",
+      "Text": "唔！！那可是「準備練習說謊罪」！\n……再加上剛才的謊言，基於糾察隊員的職責，\n我不能放過妳！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "青竹回憶",
-      "Text": "嗚，稻荷前輩……真的很遺憾，\n至少由我來逮捕妳吧！\n在場的人全都被逮捕了～～～～！！",
+      "Text": "唔，稻荷前輩……\n真的很遺憾，至少由我來逮捕妳吧！\n全員逮捕～～～～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "……於是她逮捕了我們，\n把我們三人一起帶走了。",
+      "Text": "……於是，我們三人都遭到逮捕，\n一起被帶走了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

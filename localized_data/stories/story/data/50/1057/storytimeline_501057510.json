@@ -1,0 +1,281 @@
+{
+  "Title": "找拉麵當早餐",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我因為早起而到街上閒逛的時候──\n看見了千明代表和葛城榮主。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "這條路上好像沒有……\n沒辦法了，去那邊找找看吧！",
+      "ChoiceDataList": [
+        "妳們在找什麼嗎？",
+        "妳們在找什麼嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "嗨，訓練員。\n我現在非常想吃拉麵呢。",
+      "ChoiceDataList": [
+        "……咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "千明好像想吃拉麵當早餐。\n我在幫她找拉麵店，\n但一直沒有找到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "……因為千明對味道也很挑剔呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "沒錯。湯頭必須爽口又濃郁，\n配料要有海帶、菠菜和蛤蜊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "將這些連同細麵一起吸入口中～\n我今天想吃這樣的拉麵。",
+      "ChoiceDataList": [
+        "……感覺連我都想吃了",
+        "……感覺連我都想吃了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "喔！那你也要來幫忙嗎？\n俗話說三個人湊在一起，就能打贏什麼東西對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是我們三個就這樣分頭尋找\n從早上開始賣拉麵的店家，然而──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "──你那邊有找到嗎？",
+      "ChoiceDataList": [
+        "沒有……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "這樣啊……可惡，\n我現在腦袋裡也都是拉麵的說。\n但還真是難找呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "如果是蕎麥麵或烏龍麵，\n倒是有很多店從早上就開始賣了。\n……對肚子餓的人來說，那味道實在太香了。",
+      "ChoiceDataList": [
+        "還是中午再吃拉麵……？",
+        "還是中午再吃拉麵……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "嗯，你們不用勉強配合我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "但我已經決定要吃拉麵當早餐了。\n既不是蕎麥麵，也不是烏龍麵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "我──不能對自己說謊。\n我要繼續找下去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "──唉，我想也是。\n這樣才像是千明吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "好！那我就奉陪到底！\n我們一起聯手找出最棒的拉麵當早餐吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "然後……經過一段漫長的旅程。\n我們終於──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "（聞聞）……是高湯的味道，\n隱約還能聞到魚貝類配料的味道……\n……絕對就是這個！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "你們看！招牌上寫著「早餐時段有提供拉麵」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "喔喔喔……！真的假的……！\n我們……成功了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "呵呵呵。我看看，拉麵、拉麵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "啊～真好吃……！\n每一口都能感覺到自己的努力獲得回報！",
+      "ChoiceDataList": [
+        "熱湯溫暖了全身……",
+        "熱湯溫暖了全身……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "是啊！\n來自蛤蜊的鮮味更是一絕……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "嗯。辛香料用得恰到好處。\n這個辣度能讓人清醒過來呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "沒錯，辛香料──嗯？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "妳怎麼是點咖哩！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "嗯，因為我聞到了咖哩的味道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "菜、菜單上是有咖哩啦……\n但都到這裡了，妳真的不吃拉麵嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "嗯～\n但我現在就是想吃咖哩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "……真是的，不過也是啦，\n她從以前就是這樣的人……",
+      "ChoiceDataList": [
+        "總之先吃東西補充體力吧！",
+        "一大早就走了好多路……",
+        "一大早就走了好多路……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "……真是的，不過也是啦，\n她從以前就是這樣的人……",
+      "ChoiceDataList": [
+        "總之先吃東西補充體力吧！",
+        "一大早就走了好多路……",
+        "一大早就走了好多路……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "唉，說得也是呢。\n畢竟這裡的餐點很好吃！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "啊，可以分我吃一口嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "嗯，可以喔。\n那我也要吃一口妳的咖哩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──雖然發生了這場令人無言的小騷動，\n但總之我們三人一起享用了早餐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "就是啊。\n已經等於是做了一點訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "好，既然運動過了，就多吃一些！\n不好意思～！\n我也要點咖哩～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "啊，那我也再點一份好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我因為走路走到肚子餓，\n所以也跟著點了咖哩──\n但我們這時候還沒有發現一件重要的事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "那就是雖然我們因為早起\n而多了一些空檔時間──但今天是平日……\n我們已經快要來不及去上班和上學了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

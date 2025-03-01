@@ -1,0 +1,50 @@
+{
+  "Title": "缺席的理由……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "原定的訓練開始時間過了幾分鐘後，\n我收到生野狄杜斯傳來的郵件。\n然而郵件內容卻相當不可思議──",
+      "ChoiceDataList": [
+        "「我會遲到。因為手機。」是什麼意思？",
+        "「我會遲到。因為手機。」是什麼……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "訓練員……！我、我遲到了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "真的非常抱歉……！！\n我弄丟了手機，\n花了一番功夫才找到──",
+      "ChoiceDataList": [
+        "「我會遲到。因為手機。」是這意思啊",
+        "所以妳才傳「我會遲到。因為手機。」呀"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "啊！我、我傳了那種內容啊……！\n拿回手機時已經過了約定時間，\n所以我慌慌張張地……真是丟臉……！",
+      "ChoiceDataList": [
+        "以後請記得先來跟我說一聲",
+        "以後請記得先來跟我說一聲唷"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看她如此動搖，\n似乎已在深刻反省了……\n我決定不多加苛責，就此原諒這次遲到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

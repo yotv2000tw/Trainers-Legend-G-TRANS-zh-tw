@@ -1,0 +1,507 @@
+{
+  "Title": "相信可能性！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "<chrname>的出道戰結束後，\n經過一段時間後的某天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "將舉辦「U.A.F.」的消息已經公開，\n並一併宣布要舉辦測試大會──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛爾菲的粉絲A",
+      "Text": "愛爾菲之前在直播時宣傳的大會……\n是叫「U.A.F.」嗎？你覺得那個活動如何？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛爾菲的粉絲B",
+      "Text": "嗯，確實是讓人覺得很新鮮啦。\n不過，真的有辦法吸引到那麼多人嗎──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛爾菲的粉絲C",
+      "Text": "──畢竟原本就已經有閃耀系列賽這個超大的\n活動了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "閃耀系列賽"
+      ]
+    },
+    {
+      "Name": "愛爾菲的粉絲D",
+      "Text": "就是啊～！如果想看賽馬娘的精彩表現，\n大家果然還是會去看比賽吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "在我聽來，\n世人對「U.A.F.」的反應……\n似乎有些困惑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "在這樣的變化中，\n我和<chrname>──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "各位～！\n今天也辛苦了～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "──今天也在特雷森學園的校園內，\n和其他測試大會的參賽選手們\n一起進行不知道是第幾次的共同訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "──訓練員，辛苦了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "不好意思，在你練習剛結束正疲憊時打擾。\n可以耽誤你一點時間嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "其實……\n我們有件事想跟訓練員商量一下。",
+      "ChoiceDataList": [
+        "什麼事呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "──可以讓<chrname>\n和我一起拍影片嗎？",
+      "ChoiceDataList": [
+        "咦！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "──愛爾菲。\n應該先跟訓練員說明我們目前的狀況比較好吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "哎呀！\n對不起，我太心急了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "訓練員。\n請讓我補充一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "我們目前正在為了提升\n「U.A.F.」的知名度，\n進行各種宣傳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "其中之一，\n就是讓愛爾菲示範「U.A.F.」的競技，\n然後拍成說明影片──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "如果你們願意的話，\n希望可以請<chrname>\n也一起入鏡拍影片。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "──閃耀系列賽的現役選手\n也有參加「U.A.F.」，\n這對大會來說意義重大。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "我們的目的是找人和愛爾菲共同演出，\n更廣泛地向世人宣傳這場大會的\n選手陣容有多豪華。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "──還有，\n我們想拍實戰的影片！\n這樣一定更能傳達出競技的熱情和緊張感！",
+      "ChoiceDataList": [
+        "於是，妳們就挑上了<chrname>？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "是的！\n在看過<chrname>充滿熱忱的訓練後，\n我就確信她是最合適的人選了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "我認為目前只有透過共同訓練，\n才有機會和其他選手同場競爭。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "所以可以把這當成貴重的實戰機會加以活用……\n你覺得怎麼樣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "現在確實沒什麼機會\n和別人進行接近正式比賽的對決。\n所以這個提議值得一試……",
+      "ChoiceDataList": [
+        "我會和<chrname>商量看看！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "──之後，我和<chrname>一起商量，\n並達成了共識，\n決定要協助她們拍攝影片。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "於是幾天後，\n我們開始和索儂愛爾菲一起以實戰的\n形式拍攝介紹競技的影片──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "──首先，\n就從投擲巨大鏈球的「震撼鏈球」開始吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "震撼鏈球"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "「震撼鏈球」是投擲比人類用的\n鏈球還要大好幾倍的鏈球，\n比賽誰扔的距離遠的競技。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "需要具備賽馬娘的力量才能實現，\n而且如同競技名稱，相當令人震撼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "先從我開始吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "──喔喔喔喔喔喔喔喔喔！！！\n喝啊～～～～～～～～～～～！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "索儂愛爾菲扔出的巨大鏈球，\n描繪出一條漂亮的拋物線──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（咚！！！！！！！！！！！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "伴隨著震撼大地的巨響，\n她創下了我在練習時從未見過的紀錄！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "下一個競技是「神速空手道」。\n要比賽誰能在限制時間內，\n打壞最多設置在周圍的木板。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "神速空手道"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "這是一種能讓賽馬娘盡情發揮其特有的\n爆發力和力量的競技──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "我要上囉！！\n──喝啊啊啊啊啊啊啊啊啊！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（咚嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "──索儂愛爾菲以彷彿能讓人看見分身般的速度，\n將周圍的木板幾乎全部打壞了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "──接下來，\n終於要拍攝最後的競技「健泳射門」了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "健泳射門"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "競技的內容是在地上拿球，然後跳進游泳池裡，\n把球扔進游泳池上的球門，\n比賽誰能在時間內完成最多次。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "因為非常考驗在地上和水裡往返的速度和持久力，\n是連觀眾都會看得很緊張的嚴苛競技──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "──喝啊啊啊啊啊啊啊啊啊啊啊！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "索儂愛爾菲的移動速度幾乎沒有變慢，\n不斷精準地將球扔向球門……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "……很好！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "……呼～！拿出全力了呢～！",
+      "ChoiceDataList": [
+        "（好厲害……！！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "事後回顧來看，\n索儂愛爾菲在十五種競技中都發揮了驚人的表現──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "<chrname>也使出全力挑戰競技，\n但最後總分還是差索儂愛爾菲一大截……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "訓練員、<chrname>！\n今天真的辛苦你們了！",
+      "ChoiceDataList": [
+        "真是優秀的成績呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "嘿嘿，謝謝誇獎！\n這都多虧了<chrname>\n使出全力和我競爭！還有──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "無論是身為運動員，\n還是「U.A.F.」的招牌，\n我都不想丟臉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "我想和大家一起舉辦一場很棒的大會……！\n簡單來講，就是當上No.1賽馬娘運動員！",
+      "ChoiceDataList": [
+        "喔喔……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "她的運動能力和熱忱都非常驚人，\n這讓我開始對她以Umatube網紅的\n身分活動的前因後果感到很在意。",
+      "ChoiceDataList": [
+        "我有點事想問妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "是的！請問是什麼事！？",
+      "ChoiceDataList": [
+        "……為什麼要當Umatube網紅？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "當然是為了迅速將運動的樂趣傳達給全世界！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "……話雖如此，\n我並不是從一開始就想當Umatube網紅。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "訓練員可能也知道，\n我原本是特雷森學園的學生──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "……我從小就非常喜歡運動，\n當然也曾對競賽抱持著憧憬。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "所以，拚命努力考進學園時，\n我真的非常開心──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "但身為一個運動員，\n我最後還是未能在競賽中留下亮眼成績。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "不過，我並不後悔。\n不如說，我體驗了許多耀眼的感動……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "認真一決勝負……\n挑戰自己的極限……！\n透過競技和大家連結在一起……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "能夠辦到這些事的運動，\n果然是最棒的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "正因為在特雷森學園的生活中，\n遇見了許多認真的人，\n我才能察覺到這件事！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "──然後，進入大學就讀後，\n我開始嘗試各種運動，\n每種運動都讓人很開心……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "……但在這段過程中，\n我開始覺得有點「可惜」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "明明賽馬娘們也能享受競賽以外的運動，\n並盡情地投入！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "所以，\n我是為了宣傳運動的樂趣，\n才開始在Umatube上直播！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "而「U.A.F.」就是我追求的，\n賽馬娘在運動方面的新可能性……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "我想把「U.A.F.」變成一場很厲害的大會，\n向全世界展示賽馬娘在競賽以外的\n運動也能綻放光輝！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "身為一個「運動相關人士」，\n我從索儂愛爾菲的話和她眼神裡的光輝，\n感受到一股讓人無法忽視的意志……！",
+      "ChoiceDataList": [
+        "──一起把「U.A.F.」辦好吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索儂愛爾菲",
+      "Text": "唔！好的！\n往後也請多多指教！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……就這樣，我感受到索儂愛爾菲的心意，\n同時明白在讓<chrname>參加大會前，\n有哪些地方需要改進──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "我和<chrname>在今天重新下定決心，\n要一起把「U.A.F.」變成一場\n很厲害的大會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

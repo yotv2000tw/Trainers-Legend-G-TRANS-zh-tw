@@ -1,0 +1,618 @@
+{
+  "Title": "粉絲感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "今天是春季粉絲大感謝祭。\n為了感謝平時的支持，會邀請粉絲來學園內，\n讓他們享受體育活動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "而在這場活動中，\n喜嘉奇蹟和同班同學們\n一起參加了排球比賽──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "好～～～～～！\nWe are number one！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲們",
+      "Text": "呀～～～～～！！\n小陽最棒了～～～～～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小陽"
+      ]
+    },
+    {
+      "Name": "目白善信",
+      "Text": "啊哈哈，好驚人的加油聲！\n我的粉絲好像也來了不少呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "能展現出厲害的一面真是太好了～！\n沒想到居然能獲得優勝！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "我倒是本來就覺得很有機會呢♪\n「比跑步我可以，但其他運動就有點～」\n其實學園裡不少同學都有這種想法──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼風神",
+      "Text": "畢竟我們這隊有很多\n運動能力強的同學！\n而且還有超級發球得分王小雷在呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "艾尼也是啊，\n妳的發球真是太強而有力了！\n能夠感受到肱二頭肌的躍動……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "呵呵……善信和太陽的\n組合打法也很棒呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "善信"
+      ]
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "善信的托球配合太陽的擊球\n幾乎沒有被防下來過，拿了不少分數吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "嗯嗯，那也是！！\n不過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "果──然還是奇蹟吧！！\n奇蹟天下無敵～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "咦，我？\n我連一分都沒拿到啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "不，妳救了超──多的球吧？\n真的是神級自由球員！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "妳果然很擅長支援呢～\n溫柔的小奇奇，我、好、喜、歡、妳♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "太陽……呵呵，這樣啊。\n如果有幫上大家的忙，我會很開心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴紅帽的男性",
+      "Text": "奇蹟──！！\n我都看到囉，妳表現得太棒了──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴藍色絲巾的女性",
+      "Text": "下一場競賽我也會去替妳加油的～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，喜嘉奇蹟參加的競技項目，\n在空前盛況下順利地落幕了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "訓練員！\n讓你久等了。",
+      "ChoiceDataList": [
+        "辛苦了！恭喜妳獲得排球比賽的優勝！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "謝謝你……！\n對了，你有來體育館看吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "我比賽途中有發現你喔……\n呵呵，害我不小心笑了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "那個，我參加的競技項目也結束了……\n要不要稍微悠閒地逛一下呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "如果途中遇到粉絲的話，\n我也希望能……好好地服務粉絲。",
+      "ChoiceDataList": [
+        "說得也是，那我們走吧──",
+        "說得也是，那我們走吧──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "給我等一下──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "這可不行啊，奇蹟同學──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "驀、驀進王？\n怎麼了嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "驀進王"
+      ]
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "不行！沒錯，這可不行啊！\n要跟我爭奪最快的人！！\n居然說什麼「悠閒」！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "無論何時何地，就算在粉絲感謝祭，\n我們都要追求速度！！\n要為了速度而活！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "好了，跟我來吧！！\n驀進驀進────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "那個……？",
+      "ChoiceDataList": [
+        "總之先跟著她去看看……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "驀進王&微光",
+      "Text": "「決勝的關鍵是速度！\n屋頂告白大會」～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲們",
+      "Text": "哇～～～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "規則很簡單！！\n起點是學園一樓的樓梯出入口！！\n終點是屋頂的出入口！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "只要能在時間限制內衝上屋頂，\n就能夠在屋頂上進行告白時間喔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "對著各位粉絲和競爭對手們，\n大聲喊出自己的心聲吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "如果超過時間限制的話，\n就沒辦法進行告白，但是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "相反地，只要越快抵達終點，\n告白時間就會越長喔～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "來吧，那邊那位以速度為傲的賽馬娘！\n我們也非常歡迎現場臨時參賽喔～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴紅帽的男性",
+      "Text": "咦？是奇蹟啊……！\n咦、咦？\n她要臨時參賽嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴藍色絲巾的女性",
+      "Text": "等等，噓……！！\n要是她勉強自己參加的話怎麼辦啦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴藍色絲巾的女性",
+      "Text": "……雖然她能參加的話我會很開心就是了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "這樣啊……嗯。\n機會難得，而且驀進王也邀請了我……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "訓練員。\n我可以去參加嗎？",
+      "ChoiceDataList": [
+        "好啊，妳去吧",
+        "嗯，妳去吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "好～的！\n臨時參賽的喜嘉奇蹟，\n妳準備好了嗎～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "實況轉播就由菱曙和我，\n可愛地為大家進行解說──♪\n那麼那麼──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "奇蹟，起跑了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "奇蹟已經通過二樓了～！！\n她是目前參賽選手中步調最快的一個呢～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "喔喔──！\n這樣或許能夠刷新紀錄喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "對了對了，對跑步過程感興趣的人，\n也可以上Umatube觀看\n特雷森學園官方頻道的直播影片喔♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "Umatube",
+        "特雷森學園"
+      ]
+    },
+    {
+      "Name": "菱曙",
+      "Text": "好，終於剩下一層樓了～！！\n奇蹟也一口氣衝刺！！\n好快，太快了～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花驀進王",
+      "Text": "……呵呵……！！\n奇蹟同學，妳果然……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "終點已經近在眼前了！！\n請各位粉絲也為她加油吧──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲們",
+      "Text": "唔喔喔喔──！！\n奇蹟，加油────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "抵達終點────！！\n辛苦了，奇蹟前輩！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好──結果是……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "啊啊──太可惜了！沒有刷新紀錄……！\n但是，因為速度非常快，\n所以有很多時間可以告白喔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "我會發出結束的信號。\n去吧，前輩！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "嗯，謝謝妳，微光。\n那我出發了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "……呵呵，有點緊張呢。\n那個──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "支持我的各位粉絲。\n一直以來，真的非常感謝你們。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "喜嘉奇蹟在那之後，\n用簡單直率的話語表達了感謝之意，\n抓住了粉絲的心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好厲害好厲害，是新紀錄啊！！\n前輩，妳獲得了有史以來\n最長的告白時間喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "一定要盡情地說個夠喔。\n到該結束的時候，\n我會發出信號的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "嗯……！\n謝謝妳，微光，那我出發了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "我看看，是要站在這裡嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "（哇……比想像中更清楚地\n看到了大家的臉。有人在對我揮手……\n難道是我的粉絲？真讓人高興啊。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "（還有……啊。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "Hey hey，奇蹟～～～！！\n妳好像在做很有趣的事情啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "（太陽！還有班上的大家，\n青竹……啊，紅寶和西風也在。\n妳把大家都帶來了嗎？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "青竹"
+      ]
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "……呵呵……好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "首先，支持著我的大家……\n謝謝你們。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "我知道過去曾發生過一些\n讓你們感到不安的事……\n但我已經沒事了……我沒問題的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴藍色絲巾的女性",
+      "Text": "唔唔唔唔……！！\n嗚嗚～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴紅帽的男性",
+      "Text": "啊啊……真是太好了呢……太好了！\n我以後也會一直支持妳的──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "好的。\n我一定……會回應大家的聲援。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "還有，大家！\n在班上和我相處融洽的每個人……\n和我一起跑步的各位。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "一直以來，真的非常感謝妳們。\n愉快的心情、熱情，\n還有逐漸溫暖我內心的事物……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "我總是從大家身上收到這些東西。\n……我有好好地回報給大家嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "雖然有點擔心……但是。\n今後也能和大家在一起的話，我會很高興的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看到喜嘉奇蹟露出靦腆的笑容，\n她的朋友們都非常激動。\n然後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "那麼，在最後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "……………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "……………………",
+      "ChoiceDataList": [
+        "……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "咦，奇蹟？\n……奇蹟～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真機伶",
+      "Text": "告白時間還沒用完喔！\n請大聲地說出\n妳的真實想法吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "啊啊，嗯……不過──\n………………………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "喜嘉奇蹟依然默不作聲，\n周圍的人開始議論紛紛。她沒事吧？\n看起來也沒有因為困擾而低著頭──",
+      "ChoiceDataList": [
+        "（倒不如說，我們一直對視著──）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "啊啊……！抱歉，前輩！\n時間到了啊……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "！\n……沒關係。謝謝妳通知我，微光。\n我要下去了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "但是，這樣好嗎？\n妳最後是不是還想說些什麼……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "……沒關係。\n因為我想，不管我再怎麼思考──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "都無法用言語表達。\n……用言語無法徹底表達我的想法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

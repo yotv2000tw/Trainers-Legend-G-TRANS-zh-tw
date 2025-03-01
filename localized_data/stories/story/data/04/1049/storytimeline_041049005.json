@@ -1,195 +1,195 @@
 {
-    "Title": "生於塵世必有麻煩事",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "某天我在工作的時候……\n中山慶典的班導來了訓練員室。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "班導師",
-            "Text": "是這樣啊……中山同學也沒有來到這裡呢。\n抱歉打擾到您工作了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "班導師",
-            "Text": "哈啊，這下困擾了……要是她這禮拜不交功課的話\n我就沒辦法幫她打成績的說……。",
-            "ChoiceDataList": [
-                "我、我也幫忙一起找……！！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山的同學A",
-            "Text": "中山同學會去的地方？　不知道耶……我跟那個人完全沒交流……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山的同學B",
-            "Text": "中山同學就感覺有點難接近啊。\n那個啊，之前我還聽說過她被輔導過……。",
-            "ChoiceDataList": [
-                "輔導……？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山的同學B",
-            "Text": "啊，是的……好像是去慢跑的朋友們看到的，\n說她好像在河川邊和幾個警察起了口角……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "看似品行不良的馬娘",
-            "Text": "哈啊……誰知道。我哪知道那傢伙會在哪裡。\n受不了，每個人都開口閉口中山中山的。",
-            "ChoiceDataList": [
-                "咦，除了我之外還有誰在找她……？",
-                "咦，除了我之外還有誰在找她……？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "看似品行不良的男子",
-            "Text": "之前也有幾個傢伙來這邊找她啊。\n哈，反正你也是被中山擺了一道的那種吧？",
-            "ChoiceDataList": [
-                "！？那些事可以再說的詳細點嗎……！",
-                "！？那些事可以再說的詳細點嗎……！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "看似品行不良的馬娘",
-            "Text": "嗯？　原來你跟那場騷動無關喔。\n就那個啊，中山她──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "看似品行不良的馬娘",
-            "Text": "在打撲克的時候出老千贏了一大把。\n然後那些被騙的傢伙就一直追著她跑啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "看似品行不良的馬娘",
-            "Text": "那些傢伙可是紅了眼四處在找她喔。\n啊ー啊ー，那傢伙到底會有什麼下場呢。",
-            "ChoiceDataList": [
-                "（奇怪了。怎麼可能……）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "之後我也靠著傳聞循線找了很多地方，\n依然沒有發現中山慶典的去向。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "相對的我也得知了很多關於中山慶典不好的傳聞。\n可是她應該不會做那些事啊──",
-            "ChoiceDataList": [
-                "啊，中山！！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "嗯……？　啊，是訓練員啊。\n怎麼臉色發白啦？",
-            "ChoiceDataList": [
-                "沒有，其實是……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我把事情的經過大致告訴了中山慶典。\n為了告訴她功課的事情開始找她，還有──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "被警察輔導過、對局時出過老千──學園內外\n有各種關於她的傳聞滿天飛的事情。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "哈哈哈哈……在我不知道的期間內傳開了\n這麼多有趣的傳聞啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "那些當然都是胡說八道。什麼叫出千贏一大把？\n哈，無聊。做那種事情哪能叫人捏一把冷汗啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "……不過，到處散布這種無聊傳聞的人大概是\n跟我對局時輸掉的傢伙吧。這就代表他們輸到有多不爽。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "確實，在勝負的世界中生存的她應該樹立了不少敵人。\n但是，我不能因為這樣退縮。身為她的訓練員──",
-            "ChoiceDataList": [
-                "如果出了什麼事我會保護你的",
-                "如果出了什麼事我會保護妳的"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "嘿……？　還真有種呢。\n你那麼做的話，很可能遭遇無妄之災喔？",
-            "ChoiceDataList": [
-                "不管遇上什麼事，我都會幫妳的",
-                "不管遇上什麼事，我都會幫妳的"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "嘿，不管遇上什麼事啊。\n……哼哼……出張嘴愛怎麼講都行啦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "好啦，別那麼氣了。\n你是我的“訓練員”吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "對我來說，賽場才是能讓我活下去的地方。\n我不會隨便就做出踐踏這個大好機會的傻事。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "身為訓練員的你只要知道這點就足夠了。\n對吧，我沒說錯吧？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "好啦，彼此都看輕鬆一點嘛。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "雖然我相信中山慶典的想法沒有改變。但是──\n那一天讓我感覺到──自己必須要更加了解她才行。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "活在世上總會滿身流言蜚語",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天，正當我在處理工作時……\n中山慶典的導師來到了訓練員室。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "導師",
+      "Text": "這樣啊……原來中山同學也沒來這裡呀。\n抱歉打擾你工作了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "導師",
+      "Text": "唉，真傷腦筋……要是她沒在這禮拜內交出作業，\n我就無法打成績了……",
+      "ChoiceDataList": [
+        "我、我也一起去找她……！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山的同學A",
+      "Text": "中山同學在哪裡？我不知道……我跟她完全沒往來……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山的同學B",
+      "Text": "中山同學感覺讓人有點難接近呢。\n我聽說她之前還被警察輔導……",
+      "ChoiceDataList": [
+        "輔導……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山的同學B",
+      "Text": "嗯，是啊……我朋友在練跑中撞見的。\n聽說她好像在河岸跟警察起爭執……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "外表兇惡的賽馬娘",
+      "Text": "唉……我哪可能知道她在哪裡。\n真是的，怎麼每個人都四處追著中山跑啊。",
+      "ChoiceDataList": [
+        "咦？除了我以外還有人在找她……？",
+        "咦？除了我以外還有人在找她……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "外表兇惡的男生",
+      "Text": "之前也有人跑來打聽她在哪裡。\n哈，我看你也是吃了她的虧才跑來找她的吧。",
+      "ChoiceDataList": [
+        "唔！？請告訴我詳細情形……！",
+        "唔！？請告訴我詳細情形……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "外表兇惡的賽馬娘",
+      "Text": "嗯？你不是因為那場騷動才要找她的啊？\n就是中山她之前──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "外表兇惡的賽馬娘",
+      "Text": "玩撲克牌的時候耍老千，大贏了一場，\n然後受騙的人們就開始追著她跑啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "外表兇惡的賽馬娘",
+      "Text": "那群人到處找她找得可急了喔。\n哎呀哎呀～真不知道她會有什麼下場。",
+      "ChoiceDataList": [
+        "（怪了，她不可能做那種事啊……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之後我繼續依照聽來的謠言找遍各種場所，\n但仍然沒能找到中山慶典的行蹤。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "相對地，我聽到了許多中山慶典的負面謠言。\n她應該不會做出那種事才對啊──",
+      "ChoiceDataList": [
+        "啊，中山！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "嗯……？喔喔，是訓練員啊。\n你怎麼一臉慘白？",
+      "ChoiceDataList": [
+        "這個嘛，其實是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我告訴中山慶典事情的來龍去脈。\n包括我是因為想提醒她交作業所以開始找她，以及──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "學園內外流傳著許多關於她的謠言──\n從被警察輔導到在賭局中耍詐等等。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "哈哈哈哈……原來在不知不覺中，\n流傳著這麼有趣的謠言啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "全都是一派胡言。說我出老千大贏一場？\n哼，無聊。出老千賭博哪來的刺激可言啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……到處散播無聊謠言的應該是那些曾經賭輸我的人吧，\n這也代表我受到了多少怨恨跟嫉妒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "也對，在博弈世界中打滾的她想必樹立了不少敵人。\n不過情況可容不得我退縮。身為她的訓練員──",
+      "ChoiceDataList": [
+        "要是發生什麼事，我會保護妳的",
+        "要是發生什麼事，我會保護妳的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "哦……？氣勢不賴嘛。\n你可能也會受到牽連喔。",
+      "ChoiceDataList": [
+        "無論遇到什麼狀況我都會支持妳",
+        "無論遇到什麼狀況我都會支持妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "哦？無論遇到什麼狀況啊。\n……呵呵……嘴上說說誰都會啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "好啦，別虛張聲勢了。\n你可是我的「訓練員」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "只有競賽才能讓我感到自己活著。\n我可不會做出會讓自己失去上場機會的傻事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "身為訓練員的你只要清楚這一點就夠了，\n不是嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "好啦，我們彼此都放輕鬆點吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我對中山慶典的信任仍未改變，然而──\n今天讓我深刻體會到──我還得更加了解她才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

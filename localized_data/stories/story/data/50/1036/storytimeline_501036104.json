@@ -73,7 +73,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "空中神宮按下確認鍵後，\n螢幕上出現了賽道的俯視圖。\n而閘門旁有七個▽形狀的棋子排成一列。",
+      "Text": "空中神宮按下確認鍵後，\n螢幕上出現了賽道的俯視圖，\n而閘門的地方有七個▽形狀的棋子排成一列。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -85,7 +85,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "到了起跑時刻，棋子開始移動。\n在最後直線，原本位居最後方的空中神宮\n開始從最外圈急起直追，但是……",
+      "Text": "到了起跑時刻，棋子開始移動。\n在最後直線，原本位居最後方的空中神宮\n開始從最外圈發起攻勢，但是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -115,7 +115,7 @@
     },
     {
       "Name": "空中神宮",
-      "Text": "對手單純不利於我也占了很大一部分。\n論經驗值或是實力，我們都不在同一個級別。",
+      "Text": "但也有很大一部分原因是對手單純強過頭了。\n論經驗值或是實力，我們都不在同一個級別。",
       "ChoiceDataList": [
         "世界還真大啊",
         "世界還真大呢"
@@ -153,7 +153,7 @@
     },
     {
       "Name": "採珠",
-      "Text": "神宮，別這麼見外呀。\n叫我採珠姐吧？",
+      "Text": "神宮，別這麼見外嘛。\n叫我採珠姐吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "神宮"
@@ -161,7 +161,7 @@
     },
     {
       "Name": "採珠",
-      "Text": "來，call me！\n預備～",
+      "Text": "來，call me！\nSay～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -173,7 +173,7 @@
     },
     {
       "Name": "採珠",
-      "Text": "預備～？",
+      "Text": "Say～？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -181,7 +181,7 @@
       "Name": "空中神宮",
       "Text": "…………",
       "ChoiceDataList": [
-        "空中神宮……"
+        "神宮……"
       ],
       "ColorTextInfoList": []
     },
@@ -207,15 +207,15 @@
     },
     {
       "Name": "採珠",
-      "Text": "而且對我來說很easy！\n世界各地的美食、觀光景點和傳說故事……\n我的大腦就是encyclopedia。",
+      "Text": "而且對我來說簡直是a piece of cake！\n世界各地的美食、觀光景點和傳說故事……\n我的大腦就是encyclopedia。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "採珠",
-      "Text": "你們想知道什麼呢？\n什麼問題都可以問喔！來吧！",
+      "Text": "你們想知道什麼呢？\n什麼問題都很welcome喔！來吧！",
       "ChoiceDataList": [
-        "空、空中神宮……！"
+        "神、神宮……！"
       ],
       "ColorTextInfoList": []
     },
@@ -223,7 +223,7 @@
       "Name": "空中神宮",
       "Text": "……",
       "ChoiceDataList": [
-        "（她切換成降噪模式了！）"
+        "（她切換成排除雜訊的模式了！）"
       ],
       "ColorTextInfoList": []
     },
@@ -434,7 +434,7 @@
     },
     {
       "Name": "空中神宮",
-      "Text": "如果要分享訣竅，可以講去程回程的安排方式，\n或是賽場特性、參賽計畫……\n講這些比較實用的啊。",
+      "Text": "如果要分享訣竅，就給我講些去程回程的\n安排方式、賽場特性，或是參賽計畫……\n這種比較實用的話題啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },

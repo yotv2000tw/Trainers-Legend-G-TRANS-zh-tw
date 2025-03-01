@@ -1,0 +1,77 @@
+{
+  "Title": "溫馨的訊息",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "訓練結束後，\n手機在我散步時發出震動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "是<support>傳來的訊息！\n從看似閒聊的文字中，\n能感受到對我們的溫馨關懷。",
+      "ChoiceDataList": [
+        "（……真讓人高興）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "機會難得，回覆時把<chrname>\n充滿活力的樣子也一起傳過去吧。\n這樣她一定會很開心的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "那麼，如果要向<support>\n傳達<chrname>最近的狀況，\n該用什麼方法好呢……？",
+      "ChoiceDataList": [
+        "傳<chrname>的照片",
+        "將訓練狀況拍成影片",
+        "靠文字的力量！用文章來傳達吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我聯絡<chrname>，\n告訴她照片的事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後，我和<chrname>會合，\n拍了幾張照片，\n然後傳給<support>。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我決定等下次訓練時，\n取得<chrname>的同意，\n拍攝影片！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我要把她充滿活力的樣子，\n傳給替她加油的\n<support>！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我一面回想著\n<chrname>今天訓練時的狀況，\n一面撰寫文章。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這是為了將她的狀況，\n傳達給替她加油的<support>！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

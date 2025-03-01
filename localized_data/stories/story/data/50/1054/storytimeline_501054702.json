@@ -1,0 +1,299 @@
+{
+  "Title": "集合吧，英雄基地站！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我跟微光飛駒一起外出後的回程路上，\n碰巧遇見雙渦輪。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙渦輪",
+      "Text": "哦哦，微光！妳今天也會去吧！？\n烏菈菈說她已經到囉！！",
+      "ChoiceDataList": [
+        "要去哪裡？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "嘿嘿嘿，你很在意嗎？\n其實呢──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "歡迎來到英雄基地～～～！！\n話是說這樣說，但還沒蓋完啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我跟著她來到了某個競技運動設施的一角。\n看樣子是個可以自己蓋祕密基地來玩的區域。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "我們一起一點一滴慢慢建設中喔──！\n英雄會從這個基地出動喔！",
+      "ChoiceDataList": [
+        "好像很好玩呢！",
+        "好像很好玩呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "對吧！？訓練員願意的話，\n也來當我們的夥伴吧！？",
+      "ChoiceDataList": [
+        "了解！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙渦輪",
+      "Text": "看好囉？拉住那塊布──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙渦輪",
+      "Text": "鏘鏘！這個帳篷是監控室喔，用來發現敵人！\n我們要守護城市！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "我想在這裡設置一大堆螢幕！\n再放進拍攝用的小型機器人！",
+      "ChoiceDataList": [
+        "那就去附近採買吧！",
+        "那就去附近採買吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "買到螢幕了～\n跟水邊怪人戰鬥時用的釣具也都買齊了！\n現在還差……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "啊，我想布置一個大家可以聚在一起聊天的地方！\n我想跟大家一起畫畫！",
+      "ChoiceDataList": [
+        "也就是會議室吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好主意，烏菈菈前輩！\n找塊白板吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙渦輪",
+      "Text": "監控室、會議室……\n太棒了！蓋了好多地方！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "武器庫也快蓋好了，只差綁上檔太陽的布！\n我記得烏菈菈前輩帶了布來──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "哇啊────！等一下────！！",
+      "ChoiceDataList": [
+        "剛才的聲音是！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "不好了！布被河水沖走了～～～！",
+      "ChoiceDataList": [
+        "現在被岩石鉤住了，但……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "要是腳下一滑就會造成嚴重意外。\n我不能允許她們亂來──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "各位，讓你們久等了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "用火熱的心挽回和平！\n正義微光登場！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "我要用基地中的這個英雄道具──\n「極限釣竿」救出我們的布！",
+      "ChoiceDataList": [
+        "對哦，只要用釣竿釣起布料……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "烏菈菈＆雙渦輪",
+      "Text": "──拜託妳了，小微！\n──拜託妳了，微光！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "很好，釣鉤鉤到步了！\n要拉起來囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "正義起重機────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "多虧正義微光的活躍表現，\n掉到河裡的布被平安地救上來了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "謝謝妳，小微！\n不對，該叫妳正義微光！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "唔～～～～！！",
+      "ChoiceDataList": [
+        "微光，怎麼了嗎？",
+        "微光，怎麼了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "剛剛的我！真的簡直就像\n第6話的胡蘿蔔超人────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "那集是胡蘿蔔超人的基地初次登場！\n胡蘿蔔超人跟蔬菜博士\n在會議室裡超帥氣地開會！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "此時，監控室發現了城市中有危險！\n於是他帶著英雄道具出動──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "──唔嗚～～～！！\n劇情真是太棒了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "英雄基地正是為英雄們的\n團結與力量提供支援的場所！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "我也想把正在蓋的這座基地變成那樣的地方。\n……不，我相信一定會是那樣的地方！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "大家，我們一定要蓋好基地喔！\n為了守護和平──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "一起蓋出最帥氣的英雄基地吧！！",
+      "ChoiceDataList": [
+        "往後也很期待看到英雄的活躍表現！",
+        "大家團結一致直到建設完成吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "哼哼──！\n放心吧，就跟搭上飛天載具\n胡蘿蔔之翼V號一樣可靠！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春烏菈菈",
+      "Text": "喔喔喔喔喔！\n有小微在就天下無敵了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙渦輪",
+      "Text": "微光，接下來要做什麼！？\n渦輪會努力工作的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "大家，謝謝妳們！\n請跟我來！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "多虧微光飛駒的活躍表現，\n基地建設進行得非常順利！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "沒錯，這時最需要的就是打氣口號！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好～要上囉，大家！\n正義奮戰────！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "眾人",
+      "Text": "喔喔喔喔────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "眾人喊完口號後變得更加同心協力，\n基地建設進行得非常順利！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

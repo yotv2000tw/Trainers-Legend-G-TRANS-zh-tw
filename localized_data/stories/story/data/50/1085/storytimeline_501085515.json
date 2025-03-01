@@ -1,0 +1,295 @@
+{
+  "Title": "其心高貴",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "早上，我前往訓練員室\n打算早點開始工作時，\n在途中看見第一紅寶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "紅寶的管家",
+      "Text": "「──那麼，\n今天我也在傍晚六點來迎接您。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "好的，我會等著。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "第一紅寶最近好像有好幾場\n必須出席的派對，所以相當忙碌。",
+      "ChoiceDataList": [
+        "（有沒有我能幫上忙的地方呢……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，我查看事前提供的行程表。\n看著看著，我突然浮現一個靈感。",
+      "ChoiceDataList": [
+        "（──對了！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……這是怎麼回事？",
+      "ChoiceDataList": [
+        "我事先設定好數值了喔！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我趕在第一紅寶到達前，\n先將所有數值輸入進了訓練器材。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……謝謝你的幫忙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……這究竟是怎麼回事？",
+      "ChoiceDataList": [
+        "我先幫妳占好位置了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "午餐時間，我趕在第一紅寶到達\n學生餐廳前，先幫她占好了位置。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我也不知道這麼做是否能幫上忙──\n但總比什麼都不做好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我抱著這個想法，打算趕在訓練時間前\n先搬好所有用品，以便立刻開始訓練。\n但──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（──沙沙！！）",
+      "ChoiceDataList": [
+        "（嗚哇啊……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我大概是太逞強了──\n我撐不住訓練用品的重量，\n腳打滑了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "──！\n你沒事吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "哇，你擦傷了……！\n我立刻陪你去保健室！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "站得起來嗎？\n慢慢來就好，千萬別逞強……",
+      "ChoiceDataList": [
+        "抱歉，謝謝……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "哎呀……\n保健室的老師似乎不在呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "那就由我們來幫你包紮吧──\n……咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "桌上那是什麼啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我隨著目白雷恩的視線看去，\n看到桌上已經備好消毒液跟紗布，\n以及從沒見過，看起來很高級的軟膏……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "哎呀，\n這款軟膏很珍貴呢。",
+      "ChoiceDataList": [
+        "是嗎？",
+        "是嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "是的。療效非常好，\n但價格高昂，得用預訂的才買得到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "啊！這麼說起來，\n剛才小紅在遠處看著，對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "會不會是她特地為訓練員準備的？",
+      "ChoiceDataList": [
+        "咦……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "畢竟她是你的專任賽馬娘，\n所以也有可能嘛！雖然我也不確定啦……",
+      "ChoiceDataList": [
+        "（……紅寶準備的？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然很難以置信，\n但從眼前狀況判斷，也只有這個可能……\n總之，我們決定用這條軟膏療傷。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "事實證明──軟膏的效果非常好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "你好。\n開始今天的訓練吧。",
+      "ChoiceDataList": [
+        "之前的傷口都痊癒了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……傷口？",
+      "ChoiceDataList": [
+        "都要感謝那條軟膏"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然還無法確定那就是她準備的，\n但我還是相信著一定不會錯，並如此答道。\n然後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "…………\n能幫上忙是我的榮幸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "聽到正面的回答，我不禁嘴角上揚。",
+      "ChoiceDataList": [
+        "以後我會多加注意的",
+        "真的很謝謝妳！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……不用。如果是因為我的事情，\n你就不需要勉強自己。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "不過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……訓練效率的確提升了。\n我要謝謝你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她的感謝讓我很開心。\n我決定往後只要有我幫得上忙之處，\n依舊會為她盡一份力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她的舉動太過令人高興，\n我不禁大聲地表達感謝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……我很習慣處理傷口。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "所以她才能立刻準備好包紮用品嗎？\n就算是這樣，她實際付出行動\n還是讓我很高興。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "Title": "里見皇冠登場！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她指定的集合地點是一間三星級餐廳，\n據說從半年前就得提早預約，\n且一位難求。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大廳工作人員",
+      "Text": "您是她的同伴吧？\n我來為您帶位。",
+      "ChoiceDataList": [
+        "好、好的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我跟著工作人員向深處前進。\n走了一會，來到一個用絲絨掛毯\n隔出的空間。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大廳工作人員",
+      "Text": "……那我就先失陪了。",
+      "ChoiceDataList": [
+        "咦！好、好的！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "身穿黑衣的女性",
+      "Text": "失禮了。\n為了安全起見，請讓我檢查全身。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "身穿黑衣的女性",
+      "Text": "因為您即將進入VIP室。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "迎接我的是金色的枝型吊燈，\n以及頗有歷史感的厚重餐桌與皮沙發。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "原本獨自坐在沙發上的賽馬娘向我走來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "訓練員！你來得真準時♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店主",
+      "Text": "皇冠小姐，\n請問可以上菜了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "皇冠"
+      ]
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "這個嘛……\n嗯～～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "可以麻煩你開始上菜嗎？\n反正訓練員也到了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店主",
+      "Text": "明白了。\n我會盡心盡力讓皇冠小姐度過一段最適宜用來\n紀念您的啟程的時光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "謝謝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "好了，訓練員。\n立刻來談談我們接下來的方向吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "談談始於明天訓練時間的──\n「閃耀系列賽」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "閃耀系列賽"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "身處如此高級的場所也毫不畏縮，\n甚至十分融入的這個女孩\n名為「里見皇冠」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "里見皇冠"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "這位名震天下的里見集團的千金小姐──\n……就是我的專任賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "里見集團"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "「菁英」──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "所指的不僅是有資格參賽閃耀系列賽的賽馬娘，\n更是其中背負著獲勝期望\n誕生的那些選手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這所學園招募了許多萬中選一的賽馬娘，\n身懷名門血統的選手也會來此就學。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "里見皇冠也是其中一人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "熱愛賽馬娘競賽文化的\n大財團家族，里見集團。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然算是新崛起的家族，但不僅從事慈善事業，\n還開發VR賽馬娘模擬器的新軟體，\n對競賽界做出無數貢獻。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "VR賽馬娘模擬器"
+      ]
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "──如今里見家在競賽界\n已是無人不知無人不曉的集團了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "然而，里見家至今卻尚未能達成\n其他賽馬娘界名門皆締造過的\n「競賽界的最重要貢獻」。",
+      "ChoiceDataList": [
+        "「競賽界的最重要貢獻」……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "是的。那就是里見家的宿願。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "「從我們家族裡大量培育出\n能夠贏得GⅠ競賽的知名賽馬娘」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "GⅠ"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "GⅠ競賽。\n閃耀系列賽中\n最頂尖的賽事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "競賽水準極高。正常來說，\n光是想獲得參賽資格就難如登天，\n更遑論君臨頂點了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "過去里見家成員也曾經獲得GⅠ挑戰資格，\n然而卻沒能實現家族宿願。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "過去的寒冬時代也即將告結。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "因為我終於要出道了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我相信自己不僅能獲得GⅠ勝利，\n還能為里見家帶來最高榮譽！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "實現宿願不過是前提，同時也是過程。\n真正要達成的目的更是在那之上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "讓業界內外的人們皆說出\n「培育出里見皇冠的里見家\n真是賽馬娘界的驕傲」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "綻放出不輸過往強烈光芒，也不輸\n耀眼新星的光輝，照亮里見家。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我將成為達成此成就的偉大賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "我遲到了～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "真抱歉。\n路上遇上塞車。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "不用道歉！沒事的，光鑽。\n我正好剛跟訓練員講到\n里見家的事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "光鑽"
+      ]
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "訓練員，正式向你介紹。\n這位是里見光鑽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "里見光鑽"
+      ]
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "她目前尚未出現進入巔峰期的徵兆，\n所以還不確定何時能出道……\n但跟我一樣是深受里見集團期待的新星喔♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "請多多指教！\n訓練員！",
+      "ChoiceDataList": [
+        "我也要請妳多多指教"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "呵呵。光鑽很可愛吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "但論起決心早已不輸任何人了。\n她跟我都想實現共同的夢想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我們是──里見家的賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "決定走上這條路的同時也決定了願望。\n「為里見家贏回第一個GⅠ」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "「為了在里見深愛的競賽文化中\n成為輝煌過人的知名賽馬娘。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "里見家發誓將不惜一切資源協助兩位，\n提供全面後援。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我也是，什麼都願意做。\n無論訓練再嚴格我都會努力跟上。\n所以──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "請帶領里見家……帶領我獲得勝利。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──里見皇冠正是菁英。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "生於資源豐富的環境，\n將此恩惠永駐於身心……",
+      "ChoiceDataList": [
+        "（……她是勇於背負意志與願望的賽馬娘）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "訓練員，謝謝你送我到這。\n還有，這個。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "請看。",
+      "ChoiceDataList": [
+        "這是？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我們不是還沒決定出道戰的距離條件嗎？\n這可以做為參考。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我從她手中接過一本筆記本。\n裡頭記載著──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "．買尾巴用的潤髮乳",
+      "ChoiceDataList": [
+        "潤髮乳……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "──啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "對不起！\n我是想給你看這個！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我把剛剛收到的筆記本還回去，\n翻開她再次遞上的筆記本。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "裡頭記載著\n里見皇冠於每種不同距離的資料紀錄。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "晴天2000公尺。雨天1600公尺。\n陰天2200公尺……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "筆記本裡不僅記載\n每種距離的成績數據，\n還包含了天候條件等內容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……可以想見她為了收集這份\n對訓練員有幫助的資料，一定\n獨自一人在賽道上奔馳了無數次。",
+      "ChoiceDataList": [
+        "（太厲害了，甚至能夠兼顧輔助我……）",
+        "（太厲害了，甚至能夠兼顧輔助我……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──她如此優異，而我只是個新人訓練員……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她打從心底期望獲勝，\n而我究竟能夠提供多少幫助呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "訓練員？",
+      "ChoiceDataList": [
+        "（……！不對，不該這麼想）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我也是，什麼都願意做。\n無論訓練再嚴格我都會努力跟上。\n所以──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "請帶領里見家……帶領我獲得勝利。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我已經是里見皇冠的訓練員了。\n絕不能讓她聽見這種喪氣話。",
+      "ChoiceDataList": [
+        "（別去想「是否辦得到，想著「要辦到」吧）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "因為，要是她是菁英，\n那我就等於成為\n「負責指導菁英的訓練員」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "……怎麼樣？這份資料幫得上忙嗎？",
+      "ChoiceDataList": [
+        "嗯，一起拿下與里見家相襯的勝利吧",
+        "嗯，一起拿下與里見家相襯的勝利吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "嗯！拜託你了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "當晚，\n我回房後的工作只有一件事。",
+      "ChoiceDataList": [
+        "得好好活用這份珍貴的資料才行"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "出道戰該選擇哪種距離來挑戰？\n哪場GⅠ競賽的條件最利於里見皇冠？\n……好多事情等著我去思考。",
+      "ChoiceDataList": [
+        "總之先重新研擬明天的訓練內容吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "衷心希望她的閃耀系列賽生涯\n也能華麗繽紛，就像她本人一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我得精心安排計畫，\n務必讓她的競賽生涯第一天過得完美無瑕──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "…………雨勢好大啊。",
+      "ChoiceDataList": [
+        "明明氣象預報說是晴天的……",
+        "明明氣象預報說是晴天的……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "就是啊～不過呢──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "完全沒什麼值得沮喪的吧？",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "來吧，訓練員。\n按照預定開始訓練吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "這種小障礙對里見皇冠來說\n根本算不上辛苦。\n畢竟我可是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "「差勁路況強者」嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "差勁路況強者"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "我還來不及阻止，里見皇冠便衝了出去。\n她腳步堅定地踢飛\n沾滿雙腿的雨水與泥濘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……沒錯。\n區區大雨，區區惡劣天氣，\n根本不是她的對手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "──呼、呼……呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "…………怎麼樣？\n體會到我有多強了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "此刻雨水仍然不停地落下，\n但站在雨中的她雙眼持續綻放強烈光芒。",
+      "ChoiceDataList": [
+        "……嗯，非常……非常帥氣",
+        "……嗯，非常……非常帥氣"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "呵呵！──我就說吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我與不惜滿身泥濘仍專注衝向勝利的\n菁英千金小姐里見皇冠，就這樣\n一同展開了充滿挑戰的時光！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

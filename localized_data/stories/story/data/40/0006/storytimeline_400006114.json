@@ -1,0 +1,39 @@
+{
+  "Title": "收到聯絡了！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "<chrname>的公開訓練結束後，\n我的手機收到了來自\n<support>的聯絡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這麼說來，我過去似乎曾經針對\n<chrname>的訓練問題，\n和<support>交換過意見……",
+      "ChoiceDataList": [
+        "（當時有把我的聯絡方式給她……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她或許有在關注<chrname>吧。\n特別是這次的公開訓練，\n應該也有透過網路進行直播。",
+      "ChoiceDataList": [
+        "（向她道謝吧！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "趁還沒有忘記，\n回覆了<support>！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

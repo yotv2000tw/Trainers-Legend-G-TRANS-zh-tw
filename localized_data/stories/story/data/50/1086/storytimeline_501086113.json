@@ -1,0 +1,504 @@
+{
+  "Title": "「目白家」的至寶",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某個假日的訓練結束後……\n我看著目白拉茉奴收拾東西，\n內心感到些許緊張。",
+      "ChoiceDataList": [
+        "（今天要約她一起吃午餐！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "自從我們開始一起練習，已經過了一段時間。\n我還沒有跟她深入聊過……\n甚至幾乎不曾有過像樣的對話。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我們未來應該會面臨許多重要的狀況。\n為了到時候能成為她的精神支柱，\n我希望盡可能和她建立起信賴關係。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "那麼……",
+      "ChoiceDataList": [
+        "可以占用妳一點時間嗎？",
+        "可以占用妳一點時間嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……",
+      "ChoiceDataList": [
+        "晚點要不要一起開午餐會議？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "這個嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "如果有需要的話，\n我會告訴你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "再見。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……意思是現在沒有這個必要吧。\n她乾脆地拒絕了我。",
+      "ChoiceDataList": [
+        "（果然還是不要去想這些比較好嗎？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她就算只有一個人，也能完美地進行練習，\n所以覺得沒必要和訓練員\n加深關係吧。不過……",
+      "ChoiceDataList": [
+        "（我想多了解拉茉奴）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "即使對方不需要我，\n只要能了解她的為人，\n或許我也能幫得上忙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我想再至少試著掌握一些開啟對話的方法。\n為了實現這個目標──\n我決定向了解她的人請教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "我叫目白阿爾丹。\n我是姊姊……目白拉茉奴的妹妹。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "目白阿爾丹"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "……目白阿爾丹。\n她或許能夠給我一些建議。",
+      "ChoiceDataList": [
+        "（試著去拜訪目白家吧）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "到了那裡後──\n我碰巧遇到了幾名\n前途無量的「目白家的賽馬娘」們！",
+      "ChoiceDataList": [
+        "妳是目白麥昆！",
+        "妳是目白麥昆！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "是、是的！",
+      "ChoiceDataList": [
+        "妳是目白善信！",
+        "妳是目白善信！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "沒錯～\n善信小姐就是我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "善信"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白麥昆從入學前就被評為優秀的\n長途跑者。目白善信則是展現了\n與其性格相符的輕快跑法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "目白麥昆",
+        "目白善信"
+      ]
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……喂，這個人是誰啊──",
+      "ChoiceDataList": [
+        "妳是目白多伯！",
+        "妳是目白多伯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "你好～",
+      "ChoiceDataList": [
+        "目白光明！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然目白多伯很少在別人面前奔跑，\n但已經顯露出優秀的天賦。而根據傳聞，\n目白光明是擁有強大的持久力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "目白多伯",
+        "目白光明"
+      ]
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "那個，訓練員……",
+      "ChoiceDataList": [
+        "我知道，妳是目白阿爾丹！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "該不會……\n你都知道我們是誰吧？\n我們明明還沒出道……！",
+      "ChoiceDataList": [
+        "那當然啦，目白雷恩！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白阿爾丹給人一種虛幻，\n但意志堅定的感覺。目白雷恩\n豪邁的跑法非常吸引人……！",
+      "ChoiceDataList": [
+        "我很期待妳們未來的出色表現呢！",
+        "我很期待妳們未來的出色表現呢！"
+      ],
+      "ColorTextInfoList": [
+        "目白雷恩"
+      ]
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "喔喔～\n原來你喜歡競賽的傳聞是真的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "謝謝誇獎。\n對了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "還沒請問你今天來有什麼事呢。\n不過，姊姊今天不在……",
+      "ChoiceDataList": [
+        "關於這件事……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "原來如此……\n和姊姊對話的方法。",
+      "ChoiceDataList": [
+        "順便也想聽聽妳們的回憶……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "嗯～阿爾丹跟她\n應該有很多回憶吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "阿爾丹"
+      ]
+    },
+    {
+      "Name": "目白善信",
+      "Text": "關於拉茉奴的事情，\n我們知道的應該和\n訓練員差不多吧？",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": [
+        "拉茉奴"
+      ]
+    },
+    {
+      "Name": "目白善信",
+      "Text": "呃，真的啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "對我來說，\n拉茉奴就像是個偶爾才會來參加聚會，\n非常漂亮的大姐姐……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "沒錯！我到現在都還記得\n第一次見到她時的事情……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "別人向我介紹她時，因為她實在太漂亮了，\n讓我害羞到說不出話……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "拉茉奴看我都不說話，\n就豎起手指封住我的嘴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "「不用開口沒關係。\n妳的眼睛都幫妳說完了……」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白雷恩",
+      "Text": "……然後對我這麼說！\n我立刻變得滿臉通紅～！",
+      "ChoiceDataList": [
+        "她從以前就是那樣啊",
+        "她從以前就是那樣啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "是的，沒錯。\n她一直都是所有目白家成員崇拜的對象。",
+      "ChoiceDataList": [
+        "崇拜……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "在目白家的賽馬娘之間，\n還曾經流行過\n模仿拉茉奴呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "她走起路來總是充滿自信且抬頭挺胸，\n始終不失那股游刃有餘的態度……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麥昆",
+      "Text": "……嗯，但有段時間，\n她給人的感覺好像有點不一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "是啊！我也有印象！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "該怎麼說才好……\n拉茉奴有段時期表現得很緊繃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……或許妳們說的是\n沒辦法跑步的那個時候呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "姊姊小時候有一段時期無法跑步。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "但那股執念讓她振作起來……\n等能夠奔跑後，\n她所擁有的才能便綻放了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我以前有聽目白阿爾丹提過這些事。\n當時的事情，究竟對現在的\n目白拉茉奴產生了什麼影響……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "姊姊擔心自己雙腳的狀況，\n醫生似乎對她說過\n不確定有沒有辦法參賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "她的體質有些地方偏弱……\n我的身體也很虛弱，\n所以我們小時候常一起躺在床上。",
+      "ChoiceDataList": [
+        "從現在的她來看，實在難以想像……",
+        "從現在的她來看，實在難以想像……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "是的。姊姊……曾經付出了嘔心瀝血的努力，\n之後才變成現在這樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "姊姊當時認真的程度……\n真的非常驚人。然後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "某一天，她在賽道上與其他人並列……不對，\n是跑得比任何人都快了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "我……因為反覆進出醫院，\n所以未能見證整個過程，\n即使如此……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "姊姊克服困難，自由奔跑的身影，\n還是成了我住院時的希望。",
+      "ChoiceDataList": [
+        "原來是這樣啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "是的。\n……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……話說，這個人，\n是想知道和拉茉奴\n聊天的方法吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "啊，說得也是。\n聊天的方法……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "這很簡單呢～\n只要喊著「拉茉奴～」，然後像這樣……\n坐到她旁邊就行了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "接下來，就跟她問清楚\n你最想知道的事情～",
+      "ChoiceDataList": [
+        "最想知道的事情……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "沒錯。\n就是藏在訓練員心裡的問題～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後，到了該移動的時間，\n我向大家行了一禮後離開……\n但目白光明的話仍一直留在我的腦海裡。",
+      "ChoiceDataList": [
+        "（最想知道的事情……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她身上的謎團，\n以及我想知道的事情實在太多了。\n其中我最想知道的事情……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──到了隔天，我仍未得出答案。",
+      "ChoiceDataList": [
+        "拉茉奴，可以打擾妳一下嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "什麼事？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白光明之前有教我\n和目白拉茉奴聊天的方法……\n現在就是嘗試的時候。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然很難為情……\n但只能上了！",
+      "ChoiceDataList": [
+        "…………拉、拉茉奴～！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "……要坐下來聊聊嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "請容我拒絕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……姑且一試的作戰失敗了。\n我和目白拉茉奴未來究竟\n有沒有能夠正常對話的一天呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

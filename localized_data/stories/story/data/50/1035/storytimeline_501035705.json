@@ -8,7 +8,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
+      "Name": "獨白",
       "Text": "我和勝利獎券出門一趟後，\n回到了學園。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -30,7 +30,7 @@
     },
     {
       "Name": "勝利獎券",
-      "Text": "讓我就此忘掉瑣碎的煩惱呢！\n雖然沒有恢復精神也會忘掉就是了！",
+      "Text": "還可以忘掉瑣碎的煩惱呢！雖然很瑣碎的話\n不用特地去恢復精神也會忘掉就是了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -72,7 +72,7 @@
     },
     {
       "Name": "勝利獎券",
-      "Text": "啊～之前的學力測驗嗎～",
+      "Text": "啊～之前的學力測驗啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -114,37 +114,37 @@
     },
     {
       "Name": "勝利獎券",
-      "Text": "來，跟我走！\n訓練員也一起！",
+      "Text": "來吧，跟我來！\n訓練員也要一起喔──！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "咦……？跟妳走，要去哪？",
+      "Text": "咦……？妳說跟妳來，是要去哪裡？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "好，到了！\n小特，到河邊了！",
+      "Text": "好，到了！\n小特，河邊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "特別週",
-      "Text": "是，這是河邊沒錯……",
+      "Text": "嗯，是河邊沒錯……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "匯集從山上流下來的涓涓細流，\n才形成了這麼大的一條河！",
+      "Text": "從山上流下來的小河流聚集在一起，\n才會形成這麼大的一條河！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "大家同心協力很厲害對吧！\n嗚喔喔喔～！我、好、感、動～～！",
+      "Text": "大家同心協力是件很厲害的事對吧！\n嗚喔喔喔～！我、好、感、動～～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -162,7 +162,7 @@
     },
     {
       "Name": "勝利獎券",
-      "Text": "小特，妳看公園！",
+      "Text": "小特，公園！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -222,7 +222,7 @@
     },
     {
       "Name": "勝利獎券",
-      "Text": "輔導的確令人難受又喪氣，\n也許會讓妳感到很鬱悶……",
+      "Text": "要補習的確令人難受又喪氣，\n也許會讓妳感到很鬱悶……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -258,18 +258,18 @@
     },
     {
       "Name": "特別週",
-      "Text": "嗯，跟這都會景色比起來，\n輔導就跟馬鈴薯的芽一樣小呢！",
+      "Text": "嗯，跟這都會景色比起來，\n補習就跟馬鈴薯的芽一樣小呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "嘿嘿嘿，太好了，妳似乎打起精神了～！",
+      "Text": "耶嘿嘿，太好了，妳似乎打起精神了～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
+      "Name": "獨白",
       "Text": "（叮咚♪）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -282,13 +282,13 @@
     },
     {
       "Name": "勝利獎券",
-      "Text": "……咦，不會吧～～！？\n我也要接受輔導～～！？",
+      "Text": "……咦，不會吧～～！？\n我也要接受補習～～！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "怎～～麼辦～～！\n這樣我就沒時間訓練跟遊玩了～～嗚嗚嗚！",
+      "Text": "怎～～麼辦～～！\n這樣我就沒時間訓練跟玩了～～嗚嗚嗚！",
       "ChoiceDataList": [
         "這煩惱沒什麼大不了，加油！",
         "這煩惱沒什麼大不了，加油！",
@@ -298,7 +298,7 @@
     },
     {
       "Name": "勝利獎券",
-      "Text": "怎～～麼辦～～！\n這樣我就沒時間訓練跟遊玩了～～嗚嗚嗚！",
+      "Text": "怎～～麼辦～～！\n這樣我就沒時間訓練跟玩了～～嗚嗚嗚！",
       "ChoiceDataList": [
         "這煩惱沒什麼大不了，加油！",
         "這煩惱沒什麼大不了，加油！",
@@ -320,7 +320,7 @@
     },
     {
       "Name": "特別週",
-      "Text": "不用擔心，輔導只是渺小的煩惱！\n我們一起度過難關吧！",
+      "Text": "不用擔心，補習只是渺小的煩惱！\n我們一起度過難關吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -331,8 +331,8 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
-      "Text": "反被自己安慰的人安慰後，\n勝利獎券下定決心接受輔導。",
+      "Name": "獨白",
+      "Text": "反被自己安慰的人安慰後，\n勝利獎券下定決心接受補習。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -361,7 +361,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "",
+      "Name": "獨白",
       "Text": "於是勝利獎券又去四處逛逛，\n讓自己的心冷靜了下來。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []

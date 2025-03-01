@@ -35,7 +35,7 @@
     },
     {
       "Name": "商店街人員",
-      "Text": "來喔來喔，是好玩的抽獎活動喔！\n那位文靜的小姐，\n要不要來抽抽看呢？",
+      "Text": "看過來看過來，好玩的抽獎活動！\n那位文靜的小妹妹，\n要不要來抽抽看呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -47,7 +47,7 @@
     },
     {
       "Name": "目白光明",
-      "Text": "……不過，訓練員大人，\n我記得應該要有券才能抽獎吧？",
+      "Text": "……不過，訓練員，\n我記得應該要有券才能抽獎吧？",
       "ChoiceDataList": [
         "剛好我們手上有五張小摸彩券",
         "剛好我們手上有五張小摸彩券"
@@ -56,19 +56,19 @@
     },
     {
       "Name": "目白光明",
-      "Text": "哇～真不愧是訓練員大人～\n也就是說我們有五次機會吧？",
+      "Text": "哇～真不愧是訓練員～\n也就是說我們有五次機會囉？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "……其實只能抽一次。\n所以這次只好請她忍耐一下。",
+      "Text": "……其實只能抽一次。\n不過這次就請她忍耐忍耐吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白光明",
-      "Text": "好，訓練員大人。\n一起來轉動這個迷你摩天輪吧。",
+      "Text": "好，訓練員。\n一起來轉動這個迷你摩天輪吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -80,7 +80,7 @@
     },
     {
       "Name": "",
-      "Text": "我們用超慢的速度轉動了抽獎機。\n結果是──",
+      "Text": "我們用超慢的速度轉動了抽獎機。\n結果──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -92,7 +92,7 @@
     },
     {
       "Name": "",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -100,7 +100,7 @@
     },
     {
       "Name": "目白光明",
-      "Text": "…………呼哇～看樣子……\n這下相當不得了了呢～",
+      "Text": "…………呼哇～看起來……\n這下不得了了呢～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -121,13 +121,13 @@
     },
     {
       "Name": "目白光明",
-      "Text": "溫泉旅行～♪難得收到這麼棒的獎品，\n真希望能早點成行呢～\n訓練員大人。",
+      "Text": "溫泉旅行～♪難得收到這麼棒的獎品，\n真希望能盡早成行呢～\n訓練員。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白光明",
-      "Text": "一回去就立刻開始準備的話……我看看～\n我想，預定成行時間……",
+      "Text": "一回去就立刻開始準備的話……我看看～\n我想，預計成行時間……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -142,7 +142,7 @@
     },
     {
       "Name": "目白光明",
-      "Text": "會嗎～？不過首先要在比賽中留下好成績，\n然後再開始規劃旅行，\n算算也差不多需要這些時間吧～？",
+      "Text": "會嗎～？不過首先要在比賽中留下好成績，\n然後再開始規劃旅行，算算也差不多\n需要這些時間吧～？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -154,7 +154,7 @@
     },
     {
       "Name": "目白光明",
-      "Text": "請問～一年後……你的行程有空檔嗎？\n訓練員大人？",
+      "Text": "請問～訓練員……一年後你的\n行程有空檔嗎呢？",
       "ChoiceDataList": [
         "雖然還不知道，但OK！"
       ],
@@ -174,7 +174,7 @@
     },
     {
       "Name": "",
-      "Text": "我們多了一個未來的期待。\n光是期盼著去溫泉旅行，\n目白光明的表情看起來就相當溫暖了。",
+      "Text": "我們多了一個未來的期待。\n目白光明期盼未來的溫泉旅行，\n並露出了柔和的表情。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -186,7 +186,7 @@
     },
     {
       "Name": "",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -194,13 +194,13 @@
     },
     {
       "Name": "目白光明",
-      "Text": "哎呀，看起來真美味～\n這漢堡排分量真大呢。",
+      "Text": "哎呀，看起來真美味～\n這漢堡排份量真大呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白光明",
-      "Text": "訓練員大人，可以的話，\n這份漢堡排能\n交給我來料理嗎～？",
+      "Text": "訓練員，你不介意的話，\n這份漢堡排可以\n交給我來料理嗎～？",
       "ChoiceDataList": [
         "妳會煎嗎……？",
         "妳會煎嗎……？"
@@ -209,7 +209,7 @@
     },
     {
       "Name": "目白光明",
-      "Text": "會的～這種料理必須花時間慢慢地煎，\n才能煎得熟透呢。",
+      "Text": "會呀～這種食材必須花時間慢慢地煎，\n才能煎得熟透呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -237,7 +237,7 @@
     },
     {
       "Name": "目白光明",
-      "Text": "哎呀，這樣嗎？\n火力調整也不容易呢～",
+      "Text": "哎呀，會嗎？\n火力調整也不容易呢～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -255,7 +255,7 @@
     },
     {
       "Name": "",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -269,7 +269,7 @@
     },
     {
       "Name": "目白光明",
-      "Text": "不過，訓練員大人，\n以前我削白蘿蔔皮時，\n可是削得非常完美喔。",
+      "Text": "不過，訓練員，\n以前我削白蘿蔔皮時，\n可是削得非常完美喔？",
       "ChoiceDataList": [
         "咦～妳很擅長削皮啊？",
         "咦～妳很擅長削皮啊？"
@@ -278,13 +278,13 @@
     },
     {
       "Name": "目白光明",
-      "Text": "是稱不上擅長啦～\n但我仔細專注地削成薄薄一片──",
+      "Text": "是也稱不上擅長啦～\n但我仔細專注地削成薄～薄一片──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白光明",
-      "Text": "最後連肉都被我削光了，\n全削成了一整片長長的皮～",
+      "Text": "最後整根胡蘿蔔就被我\n削成了一整張長長的皮～",
       "ChoiceDataList": [
         "這技術太高超了……！"
       ],
@@ -292,7 +292,7 @@
     },
     {
       "Name": "",
-      "Text": "看來雖然她的速度緩慢，\n但並不代表她身手不靈巧。",
+      "Text": "看來雖然她的速度緩慢，\n但並不代表她不靈巧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -307,7 +307,7 @@
     },
     {
       "Name": "",
-      "Text": "目前不需要讓她繼續精進削薄皮技術。\n我們正常地享用了燉熟的胡蘿蔔。\n削完皮的胡蘿蔔吃起來很甜，非常美味。",
+      "Text": "讓她成為削皮大師也沒什麼幫助。\n後來我們把胡蘿蔔燉煮過後一起享用了。\n削完皮的胡蘿蔔吃起來很甜，非常美味。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -319,7 +319,7 @@
     },
     {
       "Name": "",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -333,7 +333,7 @@
     },
     {
       "Name": "目白光明",
-      "Text": "畢竟分量不多，\n令人忍不住想立刻吃掉呢～",
+      "Text": "畢竟份量不多，\n令人忍不住想立刻吃掉呢～",
       "ChoiceDataList": [
         "那要不要邊走邊吃？"
       ],
@@ -355,13 +355,13 @@
     },
     {
       "Name": "目白光明",
-      "Text": "啊，這裡不錯呢～\n兩人一起邊看著夕陽──",
+      "Text": "啊，這裡不錯呢～\n我們可以一起邊看著夕陽──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白光明",
-      "Text": "我們一人一半吧，訓練員大人。\n看，太陽的顏色也好像胡蘿蔔呢～",
+      "Text": "我們一人一半吧，訓練員。\n太陽的顏色也好像胡蘿蔔呢～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -379,7 +379,7 @@
     },
     {
       "Name": "",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -393,7 +393,7 @@
     },
     {
       "Name": "目白光明",
-      "Text": "但只得到一包，很快就會用光了呀。\n訓練員大人，你也想要更多包吧？",
+      "Text": "但只得到一包，馬上就會用光了呀。\n訓練員，你也想要更多包吧？",
       "ChoiceDataList": [
         "說起來，的確是……"
       ],
@@ -410,7 +410,7 @@
     },
     {
       "Name": "目白光明",
-      "Text": "送你約一卡車的分量～",
+      "Text": "送你約一卡車的份量～",
       "ChoiceDataList": [
         "太多了！"
       ],
@@ -418,7 +418,7 @@
     },
     {
       "Name": "目白光明",
-      "Text": "這樣啊～\n我本來是覺得需要致贈\n一卡車的分量才足以彌補你的……",
+      "Text": "這樣啊～\n我本來是覺得需要致贈\n一卡車的份量才足以彌補你的……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },

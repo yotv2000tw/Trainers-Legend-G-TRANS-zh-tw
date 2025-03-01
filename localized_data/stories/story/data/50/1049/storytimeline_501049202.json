@@ -15,7 +15,7 @@
     },
     {
       "Name": "賽馬娘A",
-      "Text": "妳有看「櫻花賞」比賽嗎！？\n最後歡迎的選手真的好厲害喔～！",
+      "Text": "妳有看「櫻花賞」嗎！？\n那個支持度最高的選手真的好厲害喔～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "櫻花賞"
@@ -23,13 +23,13 @@
     },
     {
       "Name": "賽馬娘B",
-      "Text": "而且還打算挑戰「凱旋門賞」對吧？\n她去跑的話一定有希望！！",
+      "Text": "而且她不是還打算挑戰「凱旋門賞」嗎？\n她去跑的話一定有希望！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "賽馬娘A＆B",
-      "Text": "哇啊～經典級真的開始了呢～！",
+      "Text": "哇啊～經典賽真的開始了呢～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -44,13 +44,13 @@
     },
     {
       "Name": "中山慶典",
-      "Text": "哈哈……那只是對我感到好奇吧？\n他們才不覺得我是經典賽的有望選手。",
+      "Text": "哈哈……那只是對我感到好奇吧。\n他們才不覺得我是經典賽的有望選手。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "中山慶典",
-      "Text": "事前收到那麼多採訪邀請，\n到時候比賽支持度太低可別太驚訝啊？",
+      "Text": "看到我比賽的支持度太低時，\n可別哀怨明明收到了那麼多採訪邀請喔？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -62,19 +62,19 @@
     },
     {
       "Name": "中山慶典",
-      "Text": "……？喬登？",
+      "Text": "……？\n喬登？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "島川喬登",
-      "Text": "為什麼登記參賽「皋月賞」！？\n妳不是跟我說過的嗎！？",
+      "Text": "妳為什麼登記參賽「皋月賞」！？\n妳不是跟我說過了嗎！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "島川喬登",
-      "Text": "說妳沒有目標！\n沒有以三冠路線為目標的！",
+      "Text": "說妳沒有目標！\n不會以三冠路線為目標！",
       "ChoiceDataList": [
         "那個，妳……！",
         "那個，妳……！"
@@ -83,7 +83,7 @@
     },
     {
       "Name": "島川喬登",
-      "Text": "為什麼！？到底為什麼！？\n大家……總是都這樣……！",
+      "Text": "為什麼！？到底為什麼！？\n都這樣……只有大家能出賽……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -110,7 +110,7 @@
     },
     {
       "Name": "",
-      "Text": "──我想起今年二月發生的事。\n事情發生時她們原本正在訓練。",
+      "Text": "──我想起今年二月發生的事。\n事情發生時她們正在訓練。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -122,13 +122,13 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "喬登！？妳怎麼了──呃，\n妳的腳趾……！？",
+      "Text": "喬登！？妳怎麼了──呃，\n妳的腳尖……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "奔到島川喬登身邊的是\n身兼模特兒的賽馬娘黃金城市。\n看到朋友的模樣……她不禁屏住呼吸。",
+      "Text": "趕到島川喬登身邊的是\n身兼模特兒的賽馬娘黃金城市。\n看到朋友的模樣……她不禁屏住呼吸。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -140,7 +140,7 @@
     },
     {
       "Name": "黃金城市",
-      "Text": "怎麼可能沒事！！\n鞋子都被血染紅了！？",
+      "Text": "怎麼可能沒事！！\n血都染到鞋子上來了耶！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -176,15 +176,15 @@
     },
     {
       "Name": "",
-      "Text": "──經典三冠是每位賽馬娘\n畢生只能挑戰一次的舞台。",
+      "Text": "──經典三冠是每位賽馬娘\n一生只能挑戰一次的舞台。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "這正是為何這麼多賽馬娘都將此舞台\n視為夢想及憧憬，賭上所有競技生涯。",
+      "Text": "這正是為何這麼多賽馬娘都將此舞台\n視為夢想及憧憬，賭上選手生涯。",
       "ChoiceDataList": [
-        "（要是在這時受傷……）"
+        "（要是在這時受傷的話……）"
       ],
       "ColorTextInfoList": []
     },
@@ -196,7 +196,7 @@
     },
     {
       "Name": "中山慶典",
-      "Text": "……所有人都想拚死挑戰的比賽啊。\n…………",
+      "Text": "……所有人都以拚死覺悟挑戰的比賽啊。\n…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -214,13 +214,13 @@
     },
     {
       "Name": "",
-      "Text": "我到達賽場休息室時，\n中山慶典正在深吸一口氣。",
+      "Text": "我到達賽場休息室時，\n看到中山慶典正在深呼吸。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "中山慶典",
-      "Text": "吸…………\n……呼…………",
+      "Text": "吸…………\n……吐…………",
       "ChoiceDataList": [
         "去證明妳的實力吧",
         "去證明妳的實力吧"

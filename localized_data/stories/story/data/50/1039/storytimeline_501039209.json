@@ -8,14 +8,14 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "獨白",
+      "Name": "",
       "Text": "──「伊麗莎白女王盃」當天。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "觀眾A",
-      "Text": "再怎麼說，今天的主角也該是\n大和赤驥吧！",
+      "Text": "再怎麼說，今天的主角\n果然還是大和赤驥吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -45,7 +45,7 @@
     },
     {
       "Name": "川上公主",
-      "Text": "不，能當上公主是因為我不斷挑戰。\n我不斷為了自己努力奮戰，\n所以才有辦法成為理想的公主。",
+      "Text": "不，是因為不斷挑戰。\n因為不斷為了自己努力奮戰，\n所以才有辦法成為理想的公主。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -57,9 +57,9 @@
     },
     {
       "Name": "川上公主",
-      "Text": "就算有人說這條路的終點「不是公主」，\n但對我來說就是「公主」。",
+      "Text": "即使有人說這條路的終點「不是公主」，\n但對我而言就是「公主」。",
       "ChoiceDataList": [
-        "這條路一定會成為某些人的指標"
+        "這條路一定也會成為某人的指標"
       ],
       "ColorTextInfoList": []
     },
@@ -137,7 +137,7 @@
     },
     {
       "Name": "穿禮服的女士",
-      "Text": "你等我一下，小健。我這就過去。\n……嘿咻。",
+      "Text": "等我一下喔，小海。我這就過去。\n……嘿咻。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -155,7 +155,7 @@
     },
     {
       "Name": "曬黑的少年",
-      "Text": "畢竟她可是我很崇拜的……最強公主！",
+      "Text": "畢竟她可是我很嚮往的……最強公主！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

@@ -1,0 +1,324 @@
+{
+  "Title": "恐懼的前方",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某一天，我與葛城榮主一同外出後，\n返回學園的路途中──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員A",
+      "Text": "喂！！有小偷──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "你說什麼！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她提高警戒，此時一隻叼著包裹的貓咪\n颯爽地衝過面前，然後混入群，\n消失在一條窄巷之中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "小偷難道就是指那隻貓嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員A",
+      "Text": "呼、呼……沒錯。\n我剛買的魚被牠搶走了啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "好，交給我吧！\n如果沒記錯的話，牠跑進那條巷子裡了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員A",
+      "Text": "妳要過去嗎……！？\n那條巷子很窄，裡面還堆滿了\n空箱子和垃圾，妳要小心一點啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "好！我會幫你把魚拿回來的！！",
+      "ChoiceDataList": [
+        "我也一起去！",
+        "我也一起去！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "確實很窄呢……但是！\n阻止不了我的腳步！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "貓",
+      "Text": "喵…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "在那裡！別想逃！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我終於追上她了。葛城榮主正踩在\n堆積如山的箱子上，就在這時，\n她腳邊的箱子開始搖晃──",
+      "ChoiceDataList": [
+        "危險！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "唔呀啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（匡啷──！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我看見她縱身跳起，下個瞬間，\n箱子掉落在我的眼前，\n我不禁被嚇到腿軟。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "貓",
+      "Text": "喵……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "你有在反省嗎？下次不要再這樣了！\n好了，快走吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "嘿嘿！嗯，大概就是這樣吧……\n…………？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "訓練員……？\n喂！訓練員！？\n你該不會受傷了吧──！？",
+      "ChoiceDataList": [
+        "……我沒事，只是嚇了一跳而已"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "唔……啊啊……這樣啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "抱歉！！",
+      "ChoiceDataList": [
+        "咦，怎麼了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "是我的疏忽，\n才害訓練員陷入危險……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我光是自豪於自己的無所畏懼，\n結果就得意忘形了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "要是訓練員出了什麼事情的話……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我好擔心……唔…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "……啊啊，這樣啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我感到害怕了啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "……原來如此，這樣\n確實會讓人奮勇努力呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "畢竟那感覺真的好可怕，也沒人喜歡害怕嘛。\n正因如此才會反覆嘗試吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "害怕跑者群的話，就鍛鍊到能夠從外側突圍，\n或是學習如何安全地鑽過跑者群的技巧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "持續累積起來，就能讓自己變得更強\n……就是這個意思吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "啊啊……這真的無法用言語表達呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "…………訓練員，\n我有事要拜託你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "對於恐懼這件事，我很遲鈍。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "所以，我希望在一般來說會感到恐怖或\n危險的狀況下，你可以提醒我！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我覺得，只要有你時時提醒我，\n有一天我遲早就能由自己注意到恐懼！",
+      "ChoiceDataList": [
+        "妳會好好聽進我的提醒嗎？",
+        "感受到恐怖後妳有什麼感想？",
+        "看來會是一條漫長的路呢！",
+        "看來會是一條漫長的路呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我覺得，只要有你時時提醒我，\n有一天我遲早就能由自己注意到恐懼！",
+      "ChoiceDataList": [
+        "妳會好好聽進我的提醒嗎？",
+        "感受到恐怖後妳有什麼感想？",
+        "看來會是一條漫長的路呢！",
+        "看來會是一條漫長的路呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "當然會！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "啊……不過，提醒的時候要大聲一點喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "當我興奮起來，\n就很難聽到周圍的聲音！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "既然她已下定了決心，\n那我也要陪她到底。\n先從練習大聲說話開始做起吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我已經不想再體驗一次了……\n剛剛心情真的糟糕透頂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "不過，原來大家一直都在\n感受著這種感覺啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "真是了不起啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她理解了他人面對恐懼為何害怕。\n光是這樣，對葛城榮主來說，\n就是個很大的進步了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "這不是很好嗎！\n反正今後我們還要一起努力好長一段時間嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "所以，今後也請給我建議喔，\n訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "直到她理解恐懼，獲得更強的力量為止，\n我會陪在她身邊支持著她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

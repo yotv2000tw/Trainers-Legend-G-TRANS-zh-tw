@@ -1,0 +1,687 @@
+{
+    "Title": "挑戰者們的道路",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "「寶塚紀念」將近。\n對手是日漸強大的好歌劇……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "我知道這並不容易！\n但為了能夠對抗她，必須要成長！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "速度！韌性！自信！\n我得更加、更加成長！喝啊啊啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "一步步地努力累積成果是成田路的強項。\n但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "呼、呼、呼……\n訓練員……秒數如何……？",
+            "ChoiceDataList": [
+                "這已經是極限了",
+                "這已經是極限了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "無論怎麼做都無法到達\n能明顯超過好歌劇的水準……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "即使充分活用了訓練員的知識，\n就算成田路再怎麼一心一意，\n依舊無法找到突破點。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "就憑我們是做不到的嗎？\n即使同心協力做到這種程度……",
+            "ChoiceDataList": [
+                "「就憑我們是做不到的」是嗎……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "咦？我說了什麼奇怪的話嗎？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "以這句話為契機，讓我想起某件事。\n如果我們做不到的話，\n那就只能借助「我們以外的力量」了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "啊……！像之前一樣……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "看來成田路也了解了。\n雖然要再次尋求協助很丟臉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "不過──「擁有最棒的恩師」\n是只有我們才有的\n巨大優勢之一。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "好久不見，老師……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "喔，我一直都有看到妳的活躍表現。\n……妳變得很出色呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "居然說我出色，沒這回事……\n……真是慚愧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "原本想以更加開朗的表情來見老師。\n但我卻……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "哈哈哈，別露出這種表情。\n這也是無可奈何的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "話說回來，老師你在這種堤防邊做什麼呢？\n是在幫年幼的賽馬娘訓練嗎？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "不，我已經不做那種事了。\n現在我在看的是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "妳看，是那個。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "踢足球的人A",
+            "Text": "前鋒，上前上前！\n要拿下更多分數囉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "踢足球的人B",
+            "Text": "反方向，快跑！\n我要傳球囉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "業餘足球……是嗎？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "是啊，我認識的人們抱著玩樂的心態在踢。\n而我就像這樣在看他們比賽。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "成田路，怎麼樣啊？\n作為轉換心情，要不要加入他們。\n妳喜歡足球對吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "是、是的……\n那麼……難得有這個機會。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "我要上囉，看我的──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "成田路踢著足球。\n久違地看到她如此朝氣蓬勃的模樣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "然後，今天來找我是要……商量嗎？\n為了對抗那位完全蛻變的賽馬娘。",
+            "ChoiceDataList": [
+                "……是的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "真是令人難以置信的進化呢。\n我以前從未見過這種類型的賽馬娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "那種韌性，強健的下半身。\n簡直就像……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "歐洲的足球選手。",
+            "ChoiceDataList": [
+                "歐洲的？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "是啊，歐洲選手的體能強度不同。\n如果正常競爭的話，是敵不過他們的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "即使如此，從以前開始這個國家\n還是有許多年輕人夢想著\n「能在歐洲的聯賽中大展身手」。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "然後，就這樣前往歐洲……\n但剛開始根本就不是他們的對手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "不愧是老師。\n他從完全不同的角度來分析。\n沒錯，好歌劇她……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "就像是歐洲的足球選手。\n要如何對抗這個強大的阻礙呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "啊，訓練員、老師！\n難不成你們在討論很重要的事嗎？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "也讓我加入吧。\n我想一起聽，拜託了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "好啊，成田路。\n那我出一題足球問答考妳。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "距今幾十年前，國內足球選手\n在歐洲完全無法發揮實力。但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "現在卻有許多表現活躍的選手。\n──為什麼變得能夠發揮出實力了呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "為什麼……？\n那個……是因為……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "我不知道。\n不過……會不會是\n「改變訓練方法」之類的呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "嗯，那也是其中一個原因。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "還有，對那邊的足球\n進行了更多研究之類的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "嗯，那也是其中一個原因呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "結、結果，答案到底是哪個呢？\n還有其他原因嗎？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "還有很多其他原因。「邀請外籍教練」、\n「學習當地語言」、「改善飲食習慣」。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "經過各方面的研究和積累──\n終於開拓出一條\n能夠通往國外的道路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "也就是說你們……思考太單一了啦。",
+            "ChoiceDataList": [
+                "思考太單一……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "沒錯，做個深呼吸，放寬眼界看看吧。\n比賽是由各式各樣的要素構成的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "不是只有跟訓練有關的事而已。\n你們應該還有其他數不完的事能做。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "有興趣的話，\n可以去看看足球史。\n也許不能應用在比賽中，但……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老師",
+            "Text": "我相信一定能開拓視野。\n再見。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "足球的……歷史……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "謝謝老師！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "訓練員！",
+            "ChoiceDataList": [
+                "好……！",
+                "嗯……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我們兩人鞠躬後，\n前往了特雷森學園的圖書室。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "國內足球的三十年歷史……\n這個是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "老師說的沒錯呢。\n我只看比賽相關的書，完全沒想到這些呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "這是段相當漫長的挑戰史呢。\n接連不斷進行的各種嘗試……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "這不是只有一名選手\n就能做到的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "許多選手、教練和領隊\n嘗試了他們所能想到的一切──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "即使事情進展不順利，下個世代的\n足球少年們也會遠渡重洋，進行挑戰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "這本書所刻劃的是──\n運動員們「並肩作戰」的歷史。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "有時候作為敵人競爭，\n有時候作為同伴合作，不斷重複著……",
+            "ChoiceDataList": [
+                "這樣啊……",
+                "這樣啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "確實可能無法就這樣應用在比賽中。\n但是我得到了一個重要的教訓。\n那就是──",
+            "ChoiceDataList": [
+                "去嘗試各種我們沒嘗試過的事情吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "好的……！也有很多方法\n沒辦法自己一個人嘗試。不過……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "我也有一個能夠互相切磋的朋友！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "……妳終於來了。\n能夠進行訓練嗎？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "織姬……！\n妳是在等我嗎？\n從什麼時候開始……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "……一直。\n因為我認為妳一定會來。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "成田路。\n妳……對我說過吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "一定會有道路的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "……是的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "我想既然妳都這麼說了，那就是有。\n即使現在還看不見。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "「寶塚紀念」……\n超越好歌劇，通往未來的道路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "我──想走上那條道路。\n妳呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "妳無法前進的話，只有一個人我也要前進。\n妳……打算怎麼做？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "織姬，通往未來的道路──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "或許之前並不存在。\n要是只有我一個人的話。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "歌劇就是強大到那種地步。\n不過──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "就算沒有道路也能自己開拓！\n因為我身邊──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "有能與我互相砥礪的賽馬娘。\n有織姬在我身邊啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "──開始吧。\n因為我不喜歡……聊天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "訓練員，你有準備\n並行練跑用的訓練項目對吧。",
+            "ChoiceDataList": [
+                "沒錯，有好幾個！",
+                "嗯，有好幾個！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "トプロ＆アヤベ",
+            "Text": "喝啊啊啊啊啊啊！！\n喝啊啊啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "還沒結束呢……\n織姬，再多試幾種模式吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "好啊……\n我要超越妳跟好歌劇……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "成田路現在正走在\n足球少年們曾經走過的道路上。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "競賽跟足球是不同的競技項目。\n不過，在賽場外也有一些共通點。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "呼、呼、呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉絲賽馬娘A",
+            "Text": "小路班長，辛苦了──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉絲賽馬娘B",
+            "Text": "「寶塚紀念」要加油喔──！！\n我會為妳加油的──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "啊……謝謝妳們──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "咦……都這麼晚了……還有參觀者？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "一定……是在等我吧。\n就跟織姬一樣，在等著我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "是特地來幫妳加油的嗎？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "是的，我真的很佩服他們。\n在特雷森學園內外都有許多期待著我的人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "這一定也是很重要的力量。\n沒錯，用足球來比喻的話，就是第12名球員。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "支持者的力量！\n我認為這支撐著許多的選手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "支持者的力量……雖然我不太懂。\n不過……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "愛慕織姬",
+            "Text": "應該不會妨礙到我們。\n繼續訓練吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "兩個人挑戰巨大的阻礙。\n成田路有著支持的力量，\n然後在她身旁──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "獨白",
+            "Text": "確實有顆星星，\n照亮了原本看不見的道路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

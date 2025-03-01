@@ -1,0 +1,387 @@
+{
+  "Title": "教學",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "辛苦了。目前正在對有需求的人，\n說明關於「U.A.F.」的詳細內容──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "<username>，\n請問需要聽說明嗎？",
+      "ChoiceDataList": [
+        "聽取說明",
+        "不聽說明"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "好的，請問你想聽哪項說明呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "想了解關於「U.A.F.」培育的\n哪些事項呢──",
+      "ChoiceDataList": [
+        "關於「U.A.F.」",
+        "關於競技訓練",
+        "關於熱血激昂",
+        "關於商量",
+        "已經沒問題了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "你想了解「U.A.F.」呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "「U.A.F.」是讓賽馬娘互相競爭，\n挑戰身體能力極限的全新綜合運動大會！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "總共有十五種需要具備賽馬娘的身體能力，\n才能夠進行的獨特競技，\n讓選手們爭奪各個項目的優勝──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "用總分來決定誰是No.1賽馬娘運動員，\n這就是大會的主要流程。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "「U.A.F.」總共有三個階段。\n首先是測試大會，\n也就是TEST STAGE。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "再來是針對決賽舉辦的預賽大會，\n總共三次的TRIALS STAGE──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "然後，\n只有通過預賽大會的選手能夠參加決賽大會，\nSHOW DOWN。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "將會花三年的時間完成這三個階段。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "想在「U.A.F.」的各項競技中獲得優勝，\n關鍵就在於每天要持續進行競技訓練，\n提升競技Lv。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "提升競技Lv"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "在「U.A.F.」取得好成績，\n也能讓賽馬娘們大幅成長，\n所以盡可能提升競技Lv吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "還有，\n千萬不能忘記……\n各位特雷森學園學生的本分終究是競賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "所以，\n各位這次將一邊參加閃耀系列賽，\n一邊參加「U.A.F.」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "一邊參加閃耀系列賽"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "視培育的狀況，\n即使是在「U.A.F.」的舉辦期間中，\n培育仍有可能結束，請多注意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "視培育的狀況",
+        "即使是在「U.A.F.」的舉辦期間中，",
+        "培育仍有可能結束"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "以上就是「U.A.F.」的說明。\n還想聽聽其他說明嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "你想了解「競技訓練」呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "這次要挑戰針對「U.A.F.」的新訓練，\n競技訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "競技訓練"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "競技訓練能夠鍛鍊賽馬娘身為運動員與生俱來的\n多種能力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "這些能力在各位參加比賽時，\n一定也能有所發揮，\n請務必積極地進行訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "競技訓練總共有十五種，\n每回合都會隨機從其中選出五種訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "每回合都會隨機",
+        "從其中選出五種訓練"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "只要進行競技訓練，\n就能提升各種競技Lv。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "提升各種競技Lv"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "競技訓練各自被分類成「球類」、「搏鬥」、\n「自由項目」三個類別。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "球類",
+        "搏鬥",
+        "自由項目"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "如果同一回合內，\n有和進行的競技訓練相同類別的競技訓練，\n就會發生連結訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "連結訓練"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "進行連結訓練時，\n所有同類別的競技訓練的競技Lv都會提升，\n讓賽馬娘的基礎能力進一步大幅提升！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "同類別的",
+        "競技訓練的競技Lv都會提升",
+        "讓賽馬娘的基礎能力進一步大幅提升"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "此外，\n一起參加訓練的賽馬娘人數──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "以及對應劇本連結的角色越多，\n競技Lv就提升得越多。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "好好活用連結訓練，\n有效率地提升競技Lv和賽馬娘的能力吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "然後，\n若選擇休息、競賽或外出時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "會對訓練器材進行維護，\n提升下一回合訓練的競技Lv上升量。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "以上就是「競技訓練」的說明。\n還想聽聽其他說明嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "你想了解「熱血激昂」呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "每次進行競技訓練，\n讓各類別的競技Lv合計超過一定值時，\n賽馬娘對訓練的熱情就會變得熱血激昂！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "競技Lv合計超過一定值時，賽馬娘",
+        "對訓練的熱情就會變得熱血激昂"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "熱血激昂後，\n將按照「球類」、「搏鬥」、「自由項目」\n各自的類別發動特殊效果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "球類",
+        "搏鬥",
+        "自由項目"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "強化訓練的效果一定次數！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "強化訓練的效果",
+        "一定次數"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "即使選擇休息或外出，\n可透過熱血激昂強化的次數也不會減少。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "請好好讓賽馬娘變得熱血激昂，\n引導她們這些運動員抵達更高的高度！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "以上就是「熱血激昂」的說明。\n還想聽聽其他說明嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "你想了解「商量」呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "只要去找「U.A.F.」的\n形象代言人索儂愛爾菲商量訓練的事情──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "就能變更該回合的競技訓練內容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "變更該回合的",
+        "競技訓練內容"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "商量在想要發動連結訓練的時候非常有效。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "但索儂愛爾菲非常忙碌，\n所以在一定期間內，\n能夠找她商量的次數有限……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "在一定期間內",
+        "能夠找她商量的次數有限"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "此外，當大會邁向下一個階段，\n進入下一個期間時，\n剩下的商量次數無法留至之後使用。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "剩下的",
+        "商量次數無法留至之後使用"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "請不要錯過能商量的機會，\n在正確的時機加以活用！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "以上就是「商量」的說明。\n還想聽聽其他說明嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "真的不用了嗎？",
+      "ChoiceDataList": [
+        "是",
+        "否"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "我知道了♪保險起見在此提醒，\n可以由此查看簡單統整過的介紹。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "點擊左上方的「i圖示」，\n即可隨時複習剛剛的說明。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "i圖示"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "接下來就請努力挑戰吧。\n我會在背後聲援你的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "我知道了，那就請努力挑戰吧！\n我會在背後聲援你的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

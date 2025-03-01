@@ -1,352 +1,352 @@
 {
-    "Title": "在陰天上飄蕩的太陽",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "──迎來正規化的馬娘都會參加選拔聯賽，\n中山慶典也在比賽會場中現身了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "馬娘A",
-            "Text": "哈～……好緊張喔～……！\n今天一定要第1名……不，至少要進前5名。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "學長訓練員",
-            "Text": "喂─學弟！你也來看選拔聯賽啊！\n你有看上哪個孩子了嗎？",
-            "ChoiceDataList": [
-                "有的，是10號的中山慶典！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "學長訓練員",
-            "Text": "喔……喔喔喔？中山慶典？\n嗯嗯？這名字我好像在哪聽過才對，我記得是……？",
-            "ChoiceDataList": [
-                "學長看過她跑的話一定也會大吃一驚的！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "前幾天我親眼見識過她可謂一等一的身體能力和膽識。\n所以這次的選拔聯賽，只要她能活用直覺和能力應該是綽綽有餘──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "呼……呼……。\n………………嘖……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "學長訓練員",
-            "Text": "……嗯？喂，你說的那孩子\n看起來完全不打算往前衝啊……。",
-            "ChoiceDataList": [
-                "咦？怎麼會這樣……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "學長訓練員",
-            "Text": "你自己看啊，她的名次一直往下滑。\n她看起來明明還有餘力跑啊。",
-            "ChoiceDataList": [
-                "（……奇、奇怪？）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "哈……哈……哈……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……結果中山慶典跑了第13名。\n最後跑出了只能說是不怎麼樣的成果。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "馬娘A",
-            "Text": "哈啊～……果然還是不行、\n下次要再加油才行啊～……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "…………“果然”“下次”──是嗎。\n那種保險在我身上也找的到嗎？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "？？？",
-            "Text": "……慶典，妳不用擔心我也沒關係哦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "？？？",
-            "Text": "妳想要的東西一定就在特雷森學園裡面。\n妳一定會在那裡遇到能滿足潛伏在妳心底的慾望的人。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "？？？",
-            "Text": "──妳去那裡的話，一定就能夠“活著”。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "……是啊，如果真是這樣就好了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "之前的模樣就像是假的一樣，中山慶典失去了當時的霸氣。\n差距大到跟我說那天的她其實是不同人我也會信了。",
-            "ChoiceDataList": [
-                "（可是只要好好跑的話，她應該能──）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "學長訓練員",
-            "Text": "……我勸你算了吧，學弟。",
-            "ChoiceDataList": [
-                "……？什麼算了？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "學長訓練員",
-            "Text": "我想起來了，“中山慶典”的事。\n那孩子不是你能駕馭的馬娘。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "學長訓練員",
-            "Text": "她在教官之間很有名。不管怎麼指導她都隨便胡搞瞎搞。\n之前也因為在跑模擬賽前引發問題而被停學過的樣子。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "學長訓練員",
-            "Text": "你看現在怎樣？　你覺得她有認真在跑嗎？\n你是不是在想“要是她好好跑”的話對吧？",
-            "ChoiceDataList": [
-                "……！那是因為……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "學長訓練員",
-            "Text": "……大概是失去幹勁了吧。學弟，你未來還有一段路要走。\n與其讓自己吃苦為彼此留下傷痕後分離，不要扯上關係對彼此會比較好。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "學長的忠告讓我頓時語塞。學長看過了許多的馬娘，\n提供的意見自然也是非常理性的吧。但是，儘管這樣──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "──她離開賽道時的側臉，\n看起來就像在尋求協助似的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "……她這個孩子真的跟學長說的一樣嗎？\n回過神來，我已經開始四處收集起她的資料了。",
-            "ChoiceDataList": [
-                "中山慶典最近的成績是……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "好的時候和壞的時候差距非常大……整體看下來老實說並沒有很好。\n……但是資料上能顯示的就只有名為成績的數字而已。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "為什麼她在選拔聯賽後會露出那麼難受的表情。\n為什麼當時看起來就像是沒有盡全力跑──理由仍然無從得知。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "…………我闔起了攤開在眼前的資料。\n這裡寫的情報，恐怕都不是現在該了解的東西。",
-            "ChoiceDataList": [
-                "必須要更了解她的事情才行"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "不良的老大",
-            "Text": "就算這樣你也不要每天一直來這邊找啦！\n想問中山的事情就去問她本人啦！！",
-            "ChoiceDataList": [
-                "但是她這一個禮拜都缺席……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "不良的老大",
-            "Text": "關我屁事啊，那什麼爛理由！\n可惡……別跟過來啦！都大人了還那麼噁心！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我把衣服上沾到的塵土拍落。很遺憾的，\n到今天為止都還沒得到任何關於中山慶典的詳細情報。",
-            "ChoiceDataList": [
-                "（不管什麼都好，我只是想要情報而已啊……）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "？？？",
-            "Text": "……你就是最近一直在四處打聽「中山」的訓練員嗎？\n在學園和暗巷都造成了不小的話題喔。",
-            "ChoiceDataList": [
-                "你是……？",
-                "妳是……？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "天狼象徵",
-            "Text": "天狼象徵。……然後呢？\n你只是想知道我的名字嗎？不對吧？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "天狼象徵",
-            "Text": "來，你就搖著尾巴跟上來吧。\n我這就給你你想要的東西。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "天狼象徵",
-            "Text": "這裡是自由花式‧競跑場。\n專門給愛跑的傢伙跑的法外之地。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "天狼象徵",
-            "Text": "也是讓少數跟粗野的草地比較合的傢伙們喘息的地方。\n中山似乎也曾經當成玩樂的場所使用過。",
-            "ChoiceDataList": [
-                "那她現在也在這……？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "天狼象徵",
-            "Text": "你有把話聽好嗎？　是「使用過」。\n現在沒在跑了。尤其最近的她──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "天狼象徵",
-            "Text": "搞什麼，妳在啊。怎麼不去夜遊？\n陪室友唯一的樂子不是只有拚個輸贏而已嗎？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "……參加選拔聯賽的準備都做好了。\n而且，壞事全部都不幹了。完畢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山慶典",
-            "Text": "接下來可以在競跑這個棒到靠一己之身就能\n讓腦袋酥麻的賭博中賭上性命。……不需要那些多餘的東西。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "天狼象徵",
-            "Text": "明明自己講了那些多……真是的。\n本來以為她應該是個能令人愉悅的傢伙。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "天狼象徵",
-            "Text": "……聽好了，那傢伙有個致命的缺陷。\n醫院裡那個叫“老師”的應該很熟。",
-            "ChoiceDataList": [
-                "老師？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "天狼象徵",
-            "Text": "自己愛跑來仰慕的我的傢伙裡面，\n剛好有和中山同年級的在。是那傢伙自己奉上的情報。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "天狼象徵",
-            "Text": "我把地點和聯絡方式都抄下來了。接下來你自己搞定。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "天狼象徵塞了張紙條給我。\n我收下紙條道謝後，她立刻嘖了一聲就離開了。",
-            "ChoiceDataList": [
-                "醫院的老師會知道的秘密……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "所以那個人應該是中山慶典的主治醫生嗎？\n該不會她患有什麼疾病吧。我能想到的各種不安在腦海中打轉著──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "──等我到達目的地遇見的“老師”，\n竟然是躺在床上，穿著病人服的病人。",
-            "ChoiceDataList": [
-                "您就是……“老師”嗎？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山的原班導",
-            "Text": "是啊。雖然只是小學的老師。我接下中山的班導時，\n正好是她5年級的時候。呵呵，她當時真的是很令人頭痛呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山的原班導",
-            "Text": "雖然我有很多該說的、想說的話……\n但是在那之前可以請你先觀賞一個影片嗎？",
-            "ChoiceDataList": [
-                "看影片嗎？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山的原班導",
-            "Text": "是的！在講正事之前我想先請你看看那孩子的優點！\n0這個影片是2年前拍的──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "中山的原班導",
-            "Text": "──是她第一次，挑戰“世界”時的跑姿。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "掛在陰鬱天空中的太陽",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──賽馬娘們進入巔峰期後便會參加選拔賽。\n而在這場選拔賽中，我發現了中山慶典的身影。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "唔、啊～好緊張啊……！\n今天一定要得第一名……不對，至少能進前五名就好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員前輩",
+      "Text": "喂～後輩！你也來看選拔賽啊！\n是不是已經有看中哪個選手啦？",
+      "ChoiceDataList": [
+        "是的，我想看看10號中山慶典！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員前輩",
+      "Text": "哦……哦哦哦？中山慶典？\n嗯嗯？我應該有在哪聽過這個名字，我想想喔……",
+      "ChoiceDataList": [
+        "前輩看到她的跑法也一定會很震撼的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那天我曾親眼目睹她的體能跟膽識皆為一流。\n我想這次選拔賽中，她一定也能充分發揮直覺跟實力──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "呼……呼……\n………………嘖……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員前輩",
+      "Text": "……嗯？喂，你說的那個選手，\n看起來完全沒有要往前衝的樣子……",
+      "ChoiceDataList": [
+        "咦？怎麼可能……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員前輩",
+      "Text": "你自己看，她不斷被其他人超越。\n雖然她看起來似乎還保留有衝刺的體力就是了。",
+      "ChoiceDataList": [
+        "（……奇、奇怪？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "呼……呼……呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……最後中山慶典以第十三名的成績抵達終點。\n她在這場比賽的表現只能稱得上平庸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "唉……這次果然還是輸了啊。\n下次我得加油～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "…………「果然」跟「下次」啊──\n難道我心中也跟她一樣想著退路嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "……慶典，妳不用擔心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "特雷森學園一定有妳苦苦追尋的事物。\n妳一定能遇見足以滿足妳心中潛藏慾望的人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "──妳一定能在那裡好好「活著」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……是啊，如果真的是那樣就好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "中山慶典徹底失去霸氣，彷彿那天的表現只是一場夢。\n如果說眼前的她和當天那個人並非同人，還比較能讓我信服。",
+      "ChoiceDataList": [
+        "（要是她能夠發揮實力，一定可以──）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員前輩",
+      "Text": "……後輩，我勸你不要。",
+      "ChoiceDataList": [
+        "咦……？你指什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員前輩",
+      "Text": "我想起來了，她是「中山慶典」。\n憑你是搞不定那個賽馬娘的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員前輩",
+      "Text": "她在教官之間很有名，因為無論怎麼輔導，她依舊為所欲為。\n聽說前陣子也因闖禍而在模擬賽前差點遭受停學處分。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員前輩",
+      "Text": "剛剛不也是一樣？你覺得她有認真跑嗎？\n你一定在想「要是她能夠發揮實力就好了」對吧？",
+      "ChoiceDataList": [
+        "唔……！這……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員前輩",
+      "Text": "……我看她完全失去幹勁了吧。後輩，你還有大好未來。\n與其辛苦指導卻兩敗俱傷決裂，不如別扯上關係對雙方都好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "前輩的忠告令我啞口無言。他至今指導過多位賽馬娘，\n想必提出的意見是再實際不過的了。但即使如此──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──我看著離開賽道的中山慶典，\n她的側臉就像是在尋求幫助。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……她真的就像前輩說的一樣嗎？\n回過神來時，我已經開始蒐集有關她的資料了。",
+      "ChoiceDataList": [
+        "中山慶典最近的成績……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "表現好與表現不佳時的差異非常顯著……綜合看來，\n老實說成績不算好……然而資料上列出的不過只是成績秒數。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "為何選拔賽結束後她會露出苦澀的表情？\n為何她會跑出那種有所保留的表現──其中緣由仍然不明。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "…………我闔上資料。\n這些恐怕不是我現在需要的資訊。",
+      "ChoiceDataList": [
+        "我必須更了解她才行"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "不良少年首領",
+      "Text": "那你也不用每天都來煩我吧！\n想了解中山就去問她本人啊！！",
+      "ChoiceDataList": [
+        "可是她這星期都沒來學校……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "不良少年首領",
+      "Text": "我才不管你有什麼理由咧！\n可惡……不准跟著我！大人真是煩死了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我拍了拍沾上塵土的衣服。很遺憾，\n直到今天我都沒能獲得有關中山慶典的詳細資訊。",
+      "ChoiceDataList": [
+        "（我想要更多資訊，不管什麼都好……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "……你就是最近四處打聽「中山」的那個訓練員啊？\n無論學園還是暗巷都有人在談論你喔。",
+      "ChoiceDataList": [
+        "妳是……？",
+        "妳是……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "我是天狼星象徵……所以呢？\n你想知道的，是我的名字嗎？應該不是吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "好啦，乖乖搖著尾巴跟我來。\n我帶你去看你要找的東西。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "這裡是花式自由賽場。\n是任何想跑步的人都可以盡情奔跑的自由之地。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "同時也被少數偏好粗糙草地的怪人們視為放鬆休息的地方。\n聽說中山之前也常來這裡玩耍。",
+      "ChoiceDataList": [
+        "那她現在也會來這裡嗎……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "你沒聽到我說的嗎？「之前常來這裡玩耍」。\n她已經不來這裡跑步了。更別說最近──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "怎麼，妳在啊。沒去夜遊嗎？\n找人賭博不是我室友唯一的樂趣嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "……我已經準備好參加選拔賽，\n所以，那些我都洗手不幹了。就這樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山慶典",
+      "Text": "我往後可是能把性命賭在「競賽」這最棒的賭局上啊，光憑\n這副身體就能令大腦陶醉……其他多餘的東西我都不需要了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "真虧她還講過那樣的話……真是的。\n我還覺得她是個挺有趣的傢伙呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "……聽好了，她身上有個致命缺陷。\n去醫院找「老師」吧，她應該很清楚。",
+      "ChoiceDataList": [
+        "老師？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "擅自崇拜我的那群傢伙中，有個人以前跟中山是同學。\n就是那傢伙告訴給我的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "天狼星象徵",
+      "Text": "我抄下了地址跟聯絡方式，剩下就交給你了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "天狼星象徵塞給我一張紙片。\n我收下紙片並向她道謝，她嘖了一聲便轉身離開了。",
+      "ChoiceDataList": [
+        "在醫院的老師才知道的祕密……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "所謂老師是指中山慶典的主治醫生嗎？難道她生病了？\n各種令人不安的可能在我腦中不斷盤旋──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──當我到達目的地時，\n那位「老師」躺在病床上，身穿住院服。",
+      "ChoiceDataList": [
+        "妳就是……「老師」嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山以前的導師",
+      "Text": "是的，我是小學老師。在慶典小學五年級時擔任她的導師。\n呵呵，當時她真是個令人費心的孩子呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山以前的導師",
+      "Text": "我有很多事該讓你知道，也有很多事想讓你知道……\n但可以請你先看過這段影片嗎？",
+      "ChoiceDataList": [
+        "影片？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山以前的導師",
+      "Text": "是的！在開始聊之前，我想先讓你看看她的優異表現！\n這是兩年前拍下的影片──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中山以前的導師",
+      "Text": "──是她人生第一次挑戰「世界」時的表現。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

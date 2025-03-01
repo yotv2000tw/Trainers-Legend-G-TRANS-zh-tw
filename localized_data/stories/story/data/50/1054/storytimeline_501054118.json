@@ -1,0 +1,396 @@
+{
+  "Title": "晚霞中的誓言",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這天，因訓練過程需要，\n微光飛駒來到了高架橋下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好～！今天我一定要練成\n「飛駒龍捲風」……嗯？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "……吸氣，吐氣──\n「我是花朵。我是一朵薔薇。\n看看我，是不是鮮紅又美麗？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "喂～！\n妳在做什麼呀～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "……咦！？正義微光！？\n我看了妳的比賽喔！還有英雄秀！\n比賽跟秀都很帥氣喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "簡直就像真正的英雄一樣……\n看了妳，我也提起了幹勁，\n決定好好努力不要放棄！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "喔喔～！聽到妳這麼說真是開心！\n這樣啊，妳正在為了\n什麼夢想而努力啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "我加入了學校的戲劇社，\n但演技其實並不怎麼好……我本來覺得自己\n不適合演戲，甚至已經打算放棄了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "但就在那時，我看到了妳跑步的樣子！\n我看到了即使身體嬌小也從不認為\n自己不適合跑步，努力參賽的微光！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "微光"
+      ]
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "喔喔！就是這樣激勵了妳繼續努力！？\n沒想到我曾帶給妳勇氣啊，我很開心喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "以後我也會看著微光努力的身影，\n繼續加油！我也不會輸給妳！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好！我也不會輸喔！\n我會跑出更厲害的表現，\n讓妳看了更想追上來！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "比如說，呃呃……\n以大差獲勝……連續超越所有人……嗯～～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "欸，訓練員！有沒有什麼好目標啊！？\n能刺激這孩子熱血地吶喊唔喔喔喔～～的目標！",
+      "ChoiceDataList": [
+        "帥氣地贏得四次短距離主要競賽！",
+        "豪氣地贏得七次短距離主要競賽！",
+        "瀟灑地贏得四次一哩主要競賽！",
+        "驚人地贏得七次一哩主要競賽！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我告訴微光飛駒，以她的資質一定可以實現\n在短距離主要競賽贏得四勝以上這個目標。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "喔喔！聽起來不錯耶！在短距離主要競賽\n贏得四勝！我一定要辦到──！！",
+      "ChoiceDataList": [
+        "路途很艱難喔……！？",
+        "路途很艱難喔……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "看我的吧，訓練員！\n越是艱難的道路，英雄就越能發光發熱！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "無論困難還是苦難都不算什麼！荊棘之路\n才是屬於我的路！我一定會讓正義之路開滿花朵！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "啊……那是！「神盾連者」的\n紅色神盾的招牌台詞吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "嘿嘿！這句話也正是我的心情喔！\n正義微光遇上險峻道路時，\n絕對不會選擇繞遠路！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "像個英雄！用我的風格！\n筆直地！向前衝！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "所以──妳要來看我比賽喔！\n妳的聲援將會化為我的力量！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "嗯，當然好！\n我絕不會錯過微光跑贏的瞬間！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "嘿嘿……訓練員！\n我覺得這樣很棒呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "又多了一個想好好努力的目標！\n好～！我要加油～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，微光飛駒與少女\n立下了熱血的約定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我告訴微光飛駒，以她的資質一定可以實現\n在短距離主要競賽贏得七勝以上這個目標。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "咦咦！？在主要競賽贏得七勝以上！？",
+      "ChoiceDataList": [
+        "這當然一定會是場硬戰……！",
+        "這當然一定會是場硬戰……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "……很好，求之不得！而且……至今經歷過的\n每一場戰役也都很嚴苛啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "但是！我們不都還是兩人同心協力\n克服了每一次困難嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "所以放心吧！\n只要我跟訓練員兩人聯手搭檔，\n一定沒有無法克服的難關！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "你做好決心了吧？夥伴！",
+      "ChoiceDataList": [
+        "當然！！",
+        "嗯！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "嘿嘿，回答得無可挑剔喔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好～我一定要辦到！\n妳也要來幫我加油喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "嗯！只要微光參賽時，\n我都會為妳加油！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "謝謝妳！\n我一定會回應妳的期待！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，微光飛駒與少女\n立下了熱血的約定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我告訴微光飛駒，以她的資質一定可以實現\n在一哩主要競賽贏得四勝以上這個目標。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "喔喔！聽起來不錯耶！在一哩主要競賽\n贏得四勝！我一定要辦到──！！",
+      "ChoiceDataList": [
+        "路途很艱難喔……！？",
+        "路途很艱難喔……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "看我的吧，訓練員！\n越是艱難的道路，英雄就越能發光發熱！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "無論困難還是苦難都不算什麼！荊棘之路\n才是屬於我的路！我一定會讓正義之路開滿花朵！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "啊……那是！「神盾連者」的\n紅色神盾的招牌台詞吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "嘿嘿！這句話也正是我的心情喔！\n正義微光遇上險峻道路時，\n絕對不會選擇繞遠路！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "像個英雄！用我的風格！\n筆直地！向前衝！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "所以──妳要來看我比賽喔！\n妳的聲援將會化為我的力量！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "嗯，當然好！\n我絕不會錯過微光跑贏的瞬間！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "嘿嘿……訓練員！\n我覺得這樣很棒呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "又多了一個想好好努力的目標！\n好～！我要加油～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，微光飛駒與少女\n立下了熱血的約定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我告訴微光飛駒，以她的資質一定可以實現\n在一哩主要競賽贏得七勝以上這個目標。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "咦咦！？在主要競賽贏得七勝以上！？",
+      "ChoiceDataList": [
+        "這當然一定會是場硬戰……！",
+        "這當然一定會是場硬戰……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "……很好，求之不得！而且……至今經歷過的\n每一場戰役也都很嚴苛啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "但是！我們不都還是兩人同心協力\n克服了每一次困難嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "所以放心吧！\n只要我跟訓練員兩人聯手搭檔，\n一定沒有無法克服的難關！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "你做好決心了吧？夥伴！",
+      "ChoiceDataList": [
+        "當然！！",
+        "嗯！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "嘿嘿，回答得無可挑剔喔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好～我一定要辦到！\n妳也要來幫我加油喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "嗯！只要微光參賽時，\n我都會為妳加油！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "謝謝妳！\n我一定會回應妳的期待！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，微光飛駒與少女\n立下了熱血的約定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

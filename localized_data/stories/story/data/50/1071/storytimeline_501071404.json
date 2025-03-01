@@ -1,79 +1,79 @@
 {
-    "Title": "分歧的道路",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "獨白",
-            "Text": "在「日本打比」和目白阿爾丹\n展開激戰的櫻花千代王因為受傷而住院，\n暫時無法繼續參賽……",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "獨白",
-            "Text": "兩人發誓總有一天要在賽場上重逢，\n目白阿爾丹希望自己能成為一個\n不會讓對手蒙羞的勁敵。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "獨白",
-            "Text": "接下來有兩種未來能夠作為她的下一個目標。\n一個是會再次和八重無敵對決的\n三冠路線終點──「菊花賞」。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "菊花賞"
-            ]
-        },
-        {
-            "Name": "獨白",
-            "Text": "另一個則是爭奪最強寶座的玉藻十字和小栗帽，\n以及其他資深級選手也會參加，\n至高無上的中距離競賽「天皇賞（秋）」。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "玉藻十字",
-                "小栗帽",
-                "資深級",
-                "天皇賞（秋）"
-            ]
-        },
-        {
-            "Name": "獨白",
-            "Text": "不管選哪一條路，目白阿爾丹都注定會有場苦戰，\n但同時應該也能讓她有所成長。\n訓練員的選擇是──",
-            "ChoiceDataList": [
-                "參加「菊花賞」",
-                "參加「天皇賞（秋）」"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "獨白",
-            "Text": "決定朝「菊花賞」邁進。\n面對下一場戰鬥，兩人發誓\n重新打起精神勇往直前……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "菊花賞"
-            ]
-        },
-        {
-            "Name": "獨白",
-            "Text": "決定朝「天皇賞（秋）」邁進。\n面對下一場戰鬥，兩人發誓\n重新打起精神勇往直前……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "目標レースが天皇賞（秋）になった。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": [
-                "天皇賞（秋）"
-            ]
-        },
-        {
-            "Name": "",
-            "Text": "進むべき道は『天皇賞（秋）』に決まった。\r\n次なる戦いに向け、心新たに突き進むことを\n誓うのであった……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "分歧的道路",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在「日本打比」和目白阿爾丹\n展開激戰的櫻花千代王因為受傷而住院，\n暫時無法繼續參賽……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "兩人發誓總有一天要在賽場上重逢，\n目白阿爾丹希望自己能成為一個\n不會讓對手蒙羞的勁敵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "接下來有兩種未來能夠作為她的下一個目標。\n一個是會再次和八重無敵對決的\n三冠路線終點──「菊花賞」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "菊花賞"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "另一個則是爭奪最強寶座的玉藻十字和小栗帽，\n以及其他資深級選手也會參加，\n至高無上的中距離競賽「天皇賞（秋）」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "玉藻十字",
+        "小栗帽",
+        "資深級",
+        "天皇賞（秋）"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "不管選哪一條路，目白阿爾丹都注定會有場苦戰，\n但同時應該也能讓她有所成長。\n訓練員的選擇是──",
+      "ChoiceDataList": [
+        "參加「菊花賞」",
+        "參加「天皇賞（秋）」"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "決定朝「菊花賞」邁進。\n面對下一場戰鬥，兩人發誓\n重新打起精神勇往直前……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "菊花賞"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "決定朝「天皇賞（秋）」邁進。\n面對下一場戰鬥，兩人發誓\n重新打起精神勇往直前……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目標競賽是天皇賞（秋）。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "天皇賞（秋）"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "決定朝「天皇賞（秋）」邁進。\n面對下一場戰鬥，兩人發誓\n要重整心態勇往直前……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

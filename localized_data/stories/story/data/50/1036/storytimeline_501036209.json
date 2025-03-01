@@ -15,13 +15,13 @@
     },
     {
       "Name": "觀眾A",
-      "Text": "呀啊啊啊啊啊～！\n阿路，讓我看看妳獲勝的模樣吧！",
+      "Text": "呀啊啊啊啊啊～！\n成田路，讓我看看妳獲勝的模樣吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "觀眾B",
-      "Text": "小濤！妳很厲害的！\n妳超有毅力！妳一定一定會贏！",
+      "Text": "小濤！妳很厲害的！\n妳超有毅力！妳一定會贏！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -33,7 +33,7 @@
     },
     {
       "Name": "觀眾D",
-      "Text": "咖啡！連上個世代的賽馬娘也都追過去！\n連速子的份一起……妳們可是新世代啊！",
+      "Text": "咖啡！把上個世代的賽馬娘都追過去吧！\n連速子的份一起……妳們可是新世代啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -45,10 +45,10 @@
     },
     {
       "Name": "觀眾F",
-      "Text": "現在那個世代裡最強的……也只有她了。\n愛麗數碼有點難說就是了。",
+      "Text": "她是那個世代裡最強的……\n不如說，世代裡也只有她比較能看。\n愛數例外就是了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "愛麗數碼"
+        "愛數"
       ]
     },
     {
@@ -153,7 +153,7 @@
     },
     {
       "Name": "空中神宮",
-      "Text": "（雜訊……漸漸消失了。\n期待、懷疑、熱情、敵意……）",
+      "Text": "（雜訊……漸漸解開了。\n期待、懷疑、熱情、敵意……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -171,13 +171,13 @@
     },
     {
       "Name": "空中神宮",
-      "Text": "全都一點也不重要啊。",
+      "Text": "全都超無所謂的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "也用不著我費力排除。\n現在什麼雜訊都傷不了我了。",
+      "Text": "根本用不著我費力排除。\n這些東西都傷不了我。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -231,9 +231,9 @@
     },
     {
       "Name": "空中神宮",
-      "Text": "你想要我做什麼？",
+      "Text": "你對我有什麼期望？",
       "ChoiceDataList": [
-        "（我想要她做什麼……？）"
+        "（我對神宮的期望……）"
       ],
       "ColorTextInfoList": []
     },
@@ -251,16 +251,16 @@
     },
     {
       "Name": "空中神宮",
-      "Text": "我要在超越過去所有比賽的狀況下，\n讓所有人都無法反駁……\n讓不管多遲鈍的傢伙都能記住我。",
+      "Text": "我要在至今為止，\n最令人無法反駁的情況下……\n讓不管多遲鈍的傢伙都能記住我。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "我希望妳能夠──",
+      "Text": "我希望神宮能夠──",
       "ChoiceDataList": [
-        "證明自己",
-        "證明自己"
+        "去證明自己吧",
+        "去證明自己吧"
       ],
       "ColorTextInfoList": []
     },

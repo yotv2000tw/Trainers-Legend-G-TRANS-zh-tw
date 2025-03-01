@@ -1,0 +1,182 @@
+{
+  "Title": "在神社祈求！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我跟最近狀態不佳的櫻花桂冠一起來到神社。\n首先兩人一起進行參拜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "──好了。\n參拜完畢……接下來去抽籤吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "哎呀，桂冠也來抽籤啊？\n這裡的籤很準喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "這樣啊～！小福都這麼保證了，\n看來更是非抽不可了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "我抽到的籤還算不錯！\n桂冠呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "我看看……\n「大凶，尤其須小心遺失物品」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "大大大大、大凶！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "哇哇哇哇哇！這下不得了啦！\n竟然抽到大凶……\n一連串倒楣意外就要降臨到桂冠身上了～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福來",
+      "Text": "神明啊、佛祖啊、白興大人啊！\n請保佑桂冠免於被大凶運勢傷害！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "小福……謝謝妳！\n這下我就放心了。呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在離開神社後的歸途。\n櫻花桂冠看起來毫不在乎剛剛的抽籤結果。",
+      "ChoiceDataList": [
+        "妳明明抽到大凶還是這麼開朗啊",
+        "妳明明抽到大凶還是這麼開朗呀"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "這個嘛……\n我認為抽到大凶是來自神明的忠告。\n是好心提醒我接下來會發生壞事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "只要這樣想就能事先做好遇到壞事的心理準備呢。\n所以我反倒覺得抽到大凶很值得感激！",
+      "ChoiceDataList": [
+        "原來如此，真像桂冠會說的話",
+        "原來如此，真像桂冠會說的話"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "而且連小福也特地替我向神明祈禱了嘛……\n奇怪？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "…………找不到錢包？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "櫻花桂冠要找錢包卻遍尋不著。\n此時我腦中突然浮現籤紙上的\n那句「小心遺失物品」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "可能掉在從神社走來這裡的路上了。\n總之我先邊往回走邊找看看！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "訓練員，我找到錢包了！",
+      "ChoiceDataList": [
+        "幸好找回來了",
+        "幸好找回來了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "是啊！還好立刻就發現了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店員A",
+      "Text": "專營法國進口雜貨的「鳶尾花」今天正式開張！\n敬請參觀選購！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "──哎呀？這裡開了家新的店啊！\n哇，好像很有趣……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "沒想到我們走回來找錢包，\n就發現這麼棒的店呢♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "或許是這次因禍得福的經驗帶來的效果，\n櫻花桂冠順利恢復了狀態。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "──沒有。\n也不在這裡……究竟掉到哪去了呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "啊～我應該要更小心一點的！\n我可能真的太小看大凶了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "櫻花桂冠",
+      "Text": "總之得去向派出所登記遺失才行……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "或許抽到大凶還是對她造成了影響吧，\n櫻花桂冠仍然沒能順利恢復狀態。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

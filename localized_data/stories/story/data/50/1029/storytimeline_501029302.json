@@ -1,0 +1,595 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我跟雪之美人出門採買的回程路上，\n經過了商店街……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "哎呀！\n訓練員，你看！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，好玩的抽獎活動！\n歡迎大家來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "溫泉旅行，好棒喔！\n我最喜歡溫泉了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "好在意啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這麼說來，剛才我們購物的時候，\n拿到了一張抽獎券。",
+      "ChoiceDataList": [
+        "要抽抽看嗎？",
+        "要抽抽看嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "可以嗎！？\n那我就……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "我雪之美人，要抽了！\n請幫我加油打氣哩！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雪之美人鬥志昂揚地\n轉動了抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "噯喲喲喲喲！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "訓、訓練員！\n溫、溫泉，是溫泉旅行！",
+      "ChoiceDataList": [
+        "恭喜妳！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "啊啊～好厲害喔！\n我、我好像開始發抖了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "以前我從來沒抽到過特獎……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "我真是做了一件\n不得了的事啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "喔、喔喔……我也負責抽獎活動這麼多年了，\n第一次看到有人感動成這樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "因為這可是特獎耶！？\n特獎！溫泉……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "哇啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "嗯，我要把券先好好地收起來才行。",
+      "ChoiceDataList": [
+        "要先收起來嗎？",
+        "要先收起來嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "是的！\n因為現在是我重要的時期。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "我想把它當成之後給自己的犒賞，\n而且這樣我也比較能好好休息。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "我會好好期待，\n繼續努力的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "嗚──！真是了不起啊，\n我也會替妳加油！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "！\n謝謝你！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "～～♪",
+      "ChoiceDataList": [
+        "能去泡溫泉讓妳這麼開心嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "啊！能去泡溫泉，\n我當然開心……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "但我更開心的是，聽到別人替我加油！\n不管聽幾次都還是覺得好幸福喔。",
+      "ChoiceDataList": [
+        "那請大家再多多替妳加油吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "好的。\n這樣溫泉泡起來也會更舒暢呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "訓練員你也是，\n要趁這個機會好好消除疲勞才行。",
+      "ChoiceDataList": [
+        "……咦？我也是？",
+        "……咦？我也是？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "……咦，啊！？\n啊，我該不會……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "哇啊啊啊啊……\n好、好丟臉……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "因、因為訓練員你一直都跟我在一起……\n我還想說你一定會……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "要是這裡有地洞，我真想鑽進去！\n不，請讓我現在就挖一個！",
+      "ChoiceDataList": [
+        "……那我們現在來許下約定吧",
+        "……那我們現在來許下約定吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "好、好的……\n抱歉吶，謝謝你哩……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，我們決定把溫泉旅行留到之後，\n當作是努力後的犒賞。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "哇啊，看起來好好吃喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "在我們家，漢堡排是\n在特別的日子才會有的獎勵喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "有一間超有名的漢堡排店，\n我們常會全家一起去吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "他們的配料有很多種，很好玩喔。\n上面還有放鳳梨！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "我妹妹長大到可以跟我們一樣吃飯之後，\n我們頭一次一起去那間店時，\n我幫她挑了好多種配料喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "看她吃得很高興，\n我也覺得好開心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "……",
+      "ChoiceDataList": [
+        "……我們去買鳳梨吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "好啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之後我們回到了學園，\n兩人吃著加料的漢堡排，\n開心地聊天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "啊啊～！\n真是大豐收。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "你們拿得回去嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "當然沒問題！\n包在我身上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "──喝！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "喔喔～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雪之美人一下子就抱起大量紙箱，\n回程路上也輕鬆地搬著那些箱子──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "──呼，我們到了！",
+      "ChoiceDataList": [
+        "辛苦了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "不會的，才這點東西，\n跟農具比起來輕多了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩A",
+      "Text": "好厲害喔……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "嗯？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩A",
+      "Text": "我剛剛一直在看！\n妳好有力氣喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩A",
+      "Text": "要怎樣才可以變得這麼有力氣？\n告訴我嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "咦咦！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "唔、唔嗯～～？\n嗯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "……多吃胡蘿蔔，\n之類的？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩A",
+      "Text": "咦──我討厭吃胡蘿蔔！\n……但是，如果吃了可以變強……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩A",
+      "Text": "給我一根！\n……我吃吃看！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "好！\n加油餒！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "一根啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "……對了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "那個，我想麻煩一下──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "耶嘿嘿，店家願意幫我們烤，\n真是太好了！",
+      "ChoiceDataList": [
+        "好厲害，熱呼呼的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "來，這樣烤非常好吃喔。\n訓練員也吃吃看吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（咬……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "怎麼樣？",
+      "ChoiceDataList": [
+        "好甜，好好吃！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "我說得沒錯吧！\n這是村裡的人教我的喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "能讓你知道好吃的吃法\n真是開心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "好失望……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "衛生紙啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "對不起喔，\n妳原本還那麼期待溫泉的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "啊，沒事，\n叔叔你不用跟我道歉啦……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雪之美人",
+      "Text": "嗚嗚，怎麼還讓人家道歉呢，\n雪之真是笨蛋。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "比起沒抽到特獎，\n讓商店街的人跟自己道歉這點\n似乎更令雪之美人感到沮喪……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

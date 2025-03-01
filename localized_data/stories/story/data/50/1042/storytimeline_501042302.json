@@ -1,0 +1,432 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "買完東西的回程路上，我因為聽見了\n響徹雲霄般的高亢聲音而回過頭──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "溫泉……正在呼喚我！\n──它在對我說「welcome」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "訓練員，你聽！\n你也有聽見，對吧！？",
+      "ChoiceDataList": [
+        "咦！？啊，有喔！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我反射性地如此回答，\n但她到底在說什麼呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，好玩的抽獎活動！\n歡迎大家來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……原來如此，她似乎是想去抽獎。\n我剛才買東西時，正好有拿到抽獎券。\n這時候應該──",
+      "ChoiceDataList": [
+        "給妳吧，雖然只有一張就是了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "呵呵，不愧是訓練員！我已經準備好了！\n上吧……！Let's……抽獎！Go！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "採珠像是想要測試自己的運氣般，\n以認真的表情注視著抽獎機。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "化作點綴我們hot又big的dream的future吧！\nCome on，溫泉travel！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "採珠鬥志昂揚地\n轉動了抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "採珠",
+      "Text": "呵～呵呵呵！！\n我採珠又再次展現出一種可能性了呢！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "接下來會越來越忙呢。\n必須好好調查溫泉的泉質，\n以及gorgeous的dinner才行！",
+      "ChoiceDataList": [
+        "連餐點也要調查？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "沒錯，你不覺得事先了解食材，\n能讓料理的味道變得更deep嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "訓練員，明白的話，\n就從現在開始認真準備吧！",
+      "ChoiceDataList": [
+        "咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "哎呀，你這是什麼反應？\n你也要一起去溫泉旅行喔。",
+      "ChoiceDataList": [
+        "是這樣嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "呵呵，這還用說嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "等我再次向世界展現新的可能性，\n並前往worldwide大展身手時，\n我要透過溫泉更加磨鍊自己！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "到時候，\n你也必須好好磨練自己，對吧？\n因為你可是要繼續陪在我的身邊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我不知道什麼時候也被算進去……\n不對，採珠應該從一開始，\n就打算和我一起去。",
+      "ChoiceDataList": [
+        "我知道了，我會好好準備"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "嗯，一起綻放令人驚艷的光芒吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "呵～呵呵呵！等著瞧吧！\n在不遠的未來，\n採珠我的光芒將會連世界也一起照亮！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "採珠收下溫泉旅遊券後，\n將其高高舉起。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "為了實現她寄託在那張券上的心願，\n我要再繼續努力……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "採珠",
+      "Text": "嗯，原來如此。",
+      "ChoiceDataList": [
+        "什麼意思？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "這是企業的trap。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "希望藉由有出色味覺的採珠我，\n來幫忙tasting漢堡排吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "如此迂迴的approach……還真是可愛呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "呵呵，只要能讓我說出「delicious」，\n就等於是獲得了世界級的認可！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "好吧！\n那我就不客氣地試吃看看了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "訓練員，let's cooking！\n胡蘿蔔和肉的高級程度都與我相襯！\n只許成功不許失敗！！Fight！",
+      "ChoiceDataList": [
+        "由我來料理嗎！？",
+        "由我來料理嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "哎呀，突然邀你共進dinner，\n讓你感到困惑了嗎？\n不用這麼客氣喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是我借用了學園的廚房，\n和放聲大笑的採珠\n一起享用了特等胡蘿蔔漢堡排。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "採珠",
+      "Text": "呵呵，\n簡直就象徵了我們的future！",
+      "ChoiceDataList": [
+        "什麼意思？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "你看，這一整堆的胡蘿蔔……\n我逐漸聽見歡呼聲了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "沒錯，這些是……\n一大群注視著我耀眼光輝的粉絲！！",
+      "ChoiceDataList": [
+        "原、原來如此……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "感覺不錯呢！好了，訓練員！\n招待這些粉絲到我家吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "呵～呵呵呵！\n今天有口福了～！\n我會把你們料理得很美味！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我雖心想「我們要去的不是妳家，是學園……」、\n「明明將胡蘿蔔看作粉絲，卻要料理它們……」，\n但還是決定不吐槽這些事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "哼哼哼～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "光是能看見採珠開心的表情，\n就有等同於一獎的價值……\n我是這麼想的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "採珠",
+      "Text": "哎呀，真是條令人傷腦筋的胡蘿蔔呢。\n你就這麼想來找我嗎？",
+      "ChoiceDataList": [
+        "或許是這樣呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "既然你選擇了我，\n那我可不能讓你後悔呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "糖漬胡蘿蔔！\n我會把你做成世界第一的甜點！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "我也會分一半給訓練員你吃哦！\n跟我來吧！\n呵～呵呵呵！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "因為採珠一手拿著胡蘿蔔跑了起來，\n我只好拚命追上去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "採珠",
+      "Text": "哎呀，是衛生紙啊。",
+      "ChoiceDataList": [
+        "呃……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就在我思索該如何安慰\n應該會陷入沮喪的她時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "Made in America！\n我明白了！\n你是因為destiny而來到我的手中啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "呵呵，\n我會好好把你帶回去的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "採珠開心地將衛生紙收進口袋。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……那包衛生紙只是上面畫著美國的人氣角色，\n並不是made in America，\n但我決定將這件事埋藏在心裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

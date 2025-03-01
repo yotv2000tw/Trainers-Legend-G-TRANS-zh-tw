@@ -15,19 +15,19 @@
     },
     {
       "Name": "",
-      "Text": "我們接下來這段時間將住在特別設施裡，\n度過日夜專心訓練的時光。",
+      "Text": "我們接下來這段時間將住在特別設施裡，\n每天專心訓練。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "中山慶典一到達集訓宿舍\n就把行李丟進房間，\n然後我們一起前往沙灘。",
+      "Text": "我和中山慶典一到達集訓宿舍\n就把行李丟進房間，\n然後一起前往沙灘。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "中山慶典",
-      "Text": "這次安排了哪些項目？",
+      "Text": "這次你安排了哪些項目？",
       "ChoiceDataList": [
         "就先增強持久力吧"
       ],
@@ -49,7 +49,7 @@
     },
     {
       "Name": "",
-      "Text": "直到前陣子為止，\n只要傳手機訊息給她的老師，\n必定能在當天收到回覆。",
+      "Text": "直到前陣子為止，\n只要用手機傳訊息給她的老師，\n必定能在當天收到回覆。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -67,7 +67,7 @@
     },
     {
       "Name": "",
-      "Text": "身體狀況已經讓她很難回覆訊息……\n我腦中湧起不好的預感。",
+      "Text": "身體狀況已經讓她很難回覆訊息……\n我腦中閃過不好的預感。",
       "ChoiceDataList": [
         "但我想她一定有看妳的比賽",
         "但我想她一定有看妳的比賽"
@@ -82,7 +82,7 @@
     },
     {
       "Name": "中山慶典",
-      "Text": "……你也笑的太僵硬了吧？\n不擅長鼓勵人就別勉強啦。",
+      "Text": "……你也笑得太僵硬了吧。\n不擅長鼓勵人就別勉強啦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -94,7 +94,7 @@
     },
     {
       "Name": "神鷹",
-      "Text": "小草！相隔一年，\n又要一起夏季集訓了呢！",
+      "Text": "小草！相隔一年，\n我們又要一起夏季集訓了呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -106,7 +106,7 @@
     },
     {
       "Name": "",
-      "Text": "神鷹站在一群賽馬娘的中心。\n身旁則是黃金世代其中之一的\n草上飛。",
+      "Text": "神鷹被一群賽馬娘們簇擁著，\n而她身旁則是黃金世代其中之一的草上飛。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "草上飛"
@@ -114,13 +114,13 @@
     },
     {
       "Name": "草上飛",
-      "Text": "我還以為現在這時候\n妳已經踏上征戰世界的場地了。",
+      "Text": "我原以為，現在這時候\n妳應該正在征戰世界。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "草上飛",
-      "Text": "然而妳為什麼還在國內？",
+      "Text": "然而為什麼妳還在國內？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -144,7 +144,7 @@
     },
     {
       "Name": "神鷹",
-      "Text": "No！恕我無可奉告～！\n我要趁著還沒開始吵吵鬧鬧\n嘰嘰喳喳前趕緊逃離這裡！！",
+      "Text": "No！恕神鷹無可奉告～！\n神鷹我要趁著還沒開始吵吵鬧鬧、\n熙熙攘攘前趕緊逃離這裡！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -156,25 +156,25 @@
     },
     {
       "Name": "神鷹",
-      "Text": "小草！我一直在尋找\n能繼承神鷹我的原石！",
+      "Text": "小草！神鷹我一直在尋找\n能繼承我的原石！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "神鷹",
-      "Text": "結果終於在今年的經典賽戰線\n看到原石的光芒了！！",
+      "Text": "而神鷹終於在今年的經典戰線\n看到原石的光芒了──！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "記者A",
-      "Text": "啊啊！神鷹小姐！\n唉～我本來想要求\n她跟那位選手合照的。",
+      "Text": "啊啊！神鷹小姐！\n唉～我本來很想跟她合照的說。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "記者B",
-      "Text": "不過她有提到經典賽戰線！\n繼承神鷹的原石……\n一定非那位新星莫屬了！",
+      "Text": "不過她有提到經典戰線！\n繼承神鷹的原石……\n一定非那位新星莫屬了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -192,7 +192,7 @@
     },
     {
       "Name": "中山慶典",
-      "Text": "反正不管怎麼說都只能背水一戰，\n驚險的賭局還沒結束。",
+      "Text": "反正不管怎麼說，背水一戰的局勢還是沒變，\n刺激的賭局還沒結束。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },

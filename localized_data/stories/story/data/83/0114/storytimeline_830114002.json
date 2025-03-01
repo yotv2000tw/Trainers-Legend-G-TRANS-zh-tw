@@ -1,0 +1,331 @@
+{
+  "Title": "何故展現俐落手腕",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我目送一輛看起來很高級的車子離開。\n那似乎是第一紅寶家的接送車。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "起因是我在路上幫助不小心跌倒的\n日式點心店的老婆婆時，碰巧經過的第一紅寶\n便載著我們到老婆婆的店裡去！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "日式點心店的老婆婆",
+      "Text": "真的很謝謝你們幫忙。\n不過，今天可能開不了店了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "第一紅寶在聽到這句話的同時，\n看向貼在店門口上的廣告紙。\n「開店五十週年紀念大特賣」……日期是今天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "日式點心店的老婆婆",
+      "Text": "今天原本應該會有很多客人來……\n但可能要害大家失望了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "店外的確有越來越多人聚集。\n看來這間店非常受到大家的歡迎……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……店長，可以請妳準備一些\n平時的暢銷商品嗎？\n還有訓練員，希望能麻煩你幫忙跑一趟銀行。",
+      "ChoiceDataList": [
+        "紅寶……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "因為以目前推算的來客數來看，\n有可能會發生不夠找零的情況。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我幫忙到銀行換了零錢，\n但也不免開始擔心。\n現在店裡只有第一紅寶跟老婆婆兩個人──",
+      "ChoiceDataList": [
+        "紅寶真的有辦法幫忙顧店嗎！？",
+        "紅寶真的有辦法幫忙顧店嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "紅寶幫忙顧店？\n聽起來蠻有趣的嘛。",
+      "ChoiceDataList": [
+        "千明代表！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "千明代表是特雷森學園數一數二\n我行我素的賽馬娘。我向她解釋\n剛才發生的事情跟感到擔心的理由──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "喔～不錯嘛！\n我也想看看那個千金小姐\n幫人顧店的模樣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "……啊，但是……\n好像也不會多有趣。\n畢竟她不可能會主動做自己辦不到的事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "儘管千明代表這麼說，\n還是難以放心……\n我這麼想著，並回到了日式點心店。",
+      "ChoiceDataList": [
+        "居然大排長龍……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "莫非光她們兩個就足夠應付客人了？\n我往店裡一看，便看見第一紅寶\n正代替老婆婆處理收銀事務。還有──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣勢十足的大叔",
+      "Text": "歡迎光臨！",
+      "ChoiceDataList": [
+        "誰！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "那位是長年光顧這間店的熟客。\n我透過顧客名單取得聯絡後，\n他就立刻趕來幫忙了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛跟風的大姐姐",
+      "Text": "有什麼特別推薦的點心嗎～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣勢十足的大叔",
+      "Text": "喔，這間店最好吃的一直都是豆大福。\n它口感很柔軟，裡面包的紅豆卻又很紮實，\n連豆子的鹹味都恰到好處──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "因為他非常熟悉這間店，所以就麻煩他接待客人。\n結帳等事務才由我負責。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……果然有不少客人是第一次光顧……\n我們要讓容易激發購買意願的便宜商品顯眼一點。\n可以請你幫忙改變擺放位置嗎？",
+      "ChoiceDataList": [
+        "妳好厲害，好像真的店長一樣",
+        "妳好厲害，好像真的店長一樣"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "過獎。對我們家族而言，這點事不算什麼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "第一紅寶在回答我的同時\n也不忘清點仙貝的存貨。\n這時的她看起來好像很樂在其中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "呵呵，我還是來了。\n店員，我要一個豆大福！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……千明。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "看，我沒說錯吧？\n訓練員。",
+      "ChoiceDataList": [
+        "妳們感情很好嗎？",
+        "妳們感情很好嗎？",
+        "幸好有紅寶幫忙才能正常營業"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "看，我沒說錯吧？\n訓練員。",
+      "ChoiceDataList": [
+        "妳們感情很好嗎？",
+        "妳們感情很好嗎？",
+        "幸好有紅寶幫忙才能正常營業"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "我們感情並沒有多好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "妳真無情耶，\n我們不是在跟著父母參加的派對\n碰過許多次面了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "只是妳跟我不一樣，\n看起來總是很忙……\n所以我們的確沒說過幾句話就是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "妳還是一樣會浪費難得的樂趣啊。\n有這麼好玩的事情可以體驗，\n妳卻弄得像是硬逼自己塞進這個框架裡似的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……這是妳要的一個豆大福，\n抱歉久等了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "啊哈，居然能從妳手上拿到豆大福，真難得。\n謝囉，那我先走了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "千明代表離開之後，\n第一紅寶仍然手腳俐落地\n處理好店內的工作。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "這些仙貝都是比較多裂開的，\n我先當作瑕疵品挑了出來。\n可以麻煩你搬去後場嗎？",
+      "ChoiceDataList": [
+        "嗯，我知道了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我一邊搬著被認定為瑕疵品的商品，\n一邊看向第一紅寶調整後的展示架。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她所挑選的商品整整齊齊地陳列在架上，\n絲毫沒有任何缺漏或瑕疵──\n看起來的確很完美。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不僅確實考慮到店家的利益，\n老婆婆也很高興……\n於是我開口稱讚了她的體貼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "不，我並沒有那種想法。\n我只是做我應該做的事情而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "……嗯，妳還是跟那時候一樣呢。\n妳記得嗎？小時候在某一場派對，\n有個女生不小心把果汁灑到裙子上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "妳明明特地帶她去換衣服……\n卻用一句「我只是做了我們家族該有的應對」\n回絕她的謝意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……我只是隨時警惕自己\n不可以讓家族蒙羞而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "呵呵。就知道妳會這麼說。\n不過，我認為妳其實不完全\n只是因為這個原因呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "那麼，我差不多該走了。謝謝妳的豆大福！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "千明代表離開之後，\n第一紅寶仍然手腳俐落地\n處理好店內的工作。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "這些仙貝都是比較多裂開的，\n我先當作瑕疵品挑了出來。\n可以麻煩你搬去後場嗎？",
+      "ChoiceDataList": [
+        "嗯，我知道了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我一邊搬著被認定為瑕疵品的商品，\n一邊看向經過第一紅寶調整的展示架。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她所挑選的商品整整齊齊地陳列在架上，\n絲毫沒有任何缺漏或瑕疵──\n看起來的確很完美。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

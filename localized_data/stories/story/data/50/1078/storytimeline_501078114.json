@@ -1,5 +1,5 @@
 {
-  "Title": "是風吹晃了花苞吧",
+  "Title": "風是否吹動了花苞",
   "TextBlockList": [
     {
       "Name": "",
@@ -15,24 +15,24 @@
     },
     {
       "Name": "生野狄杜斯",
-      "Text": "妳好啊，西風。\n正要去吃中飯嗎？",
+      "Text": "妳好，西風。\n妳正要去吃午飯嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "妳們好。\n是的，因為今天感受到很舒適的夏風──",
+      "Name": "山人西風",
+      "Text": "妳們好。\n是的，因為今天感受到很舒適的夏季風──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "所以想找個儘量靠近太陽的地方。\n雖然還沒決定具體地點──",
+      "Name": "山人西風",
+      "Text": "所以我想找個儘量靠近陽光的地方。\n雖然還沒決定具體地點──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "──啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -44,26 +44,26 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "這是紅磚翅膀的聲音……\n呵呵，我就去那邊好了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "那麼我就先告辭了。\n祝兩位有美好的饗風。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "優秀素質",
-      "Text": "……走掉了。\n呀～一如往常地我行我素耶。",
+      "Text": "……走掉了。\n哎呀～她還是一如往常地我行我素耶。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "優秀素質",
-      "Text": "是說，還好我沒有對她說出\n「今天也是自己帶便當啊？\n要不要偶爾一起去學生餐廳吃呢？」",
+      "Text": "是說，她今天也自己帶便當啊。\n幸好我剛剛沒問她，要不要偶爾\n也跟我們去學生餐廳吃午餐。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -75,7 +75,7 @@
     },
     {
       "Name": "生野狄杜斯",
-      "Text": "不過她真的是\n完全不受周遭任何人、事物的影響，\n真的就像自由的風一樣。",
+      "Text": "不過她真的是\n完全不受周遭任何人事物的影響，\n就像道自由的風一樣。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -87,7 +87,7 @@
     },
     {
       "Name": "優秀素質",
-      "Text": "我也是因為這樣，所以剛剛才會\n想到「偶爾也約她一起看看」啦。",
+      "Text": "我也是因為這樣，所以剛剛才會有\n「偶爾也試著約她看看」的想法。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -105,13 +105,13 @@
     },
     {
       "Name": "獨白",
-      "Text": "──印象中，那應該是發生在我剛成為\n也文攝輝專任訓練員時的事情。",
+      "Text": "──印象中，那應該是發生在我剛成為\n山人西風專任訓練員時的事情。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "一場突然的大雨臨時中斷訓練，\n為了打發時間，\n我就待在訓練員室裡看電視……",
+      "Text": "一場突然其來的大雨中斷了訓練，\n為了打發時間，\n我們就待在訓練員室漫不經心地裡看電視……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -123,12 +123,12 @@
     },
     {
       "Name": "電視的聲音",
-      "Text": "「即將為大家一一介紹今年準備迎接出道\n且值得注意的賽馬娘們！說不定，\n下一代的英雄就在這之中？千萬別錯過！」",
+      "Text": "「我們將為大家介紹今年準備出道，\n且值得注意的所有賽馬娘們！說不定下一位\n英雄就會從這之中誕生哦？千萬別錯過！」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "啊……訓練員。\n現在外面從黑南風轉成白南風了。",
       "ChoiceDataList": [
         "呃……是雨停了嗎？",
@@ -137,8 +137,8 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "是的，可以跑步了。\n重新開始訓練吧。",
+      "Name": "山人西風",
+      "Text": "是的，應該可以跑步了。\n我們重新開始訓練吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -152,50 +152,50 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "？是的。",
+      "Name": "山人西風",
+      "Text": "？\n是的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "說不定會介紹到\n我們需要注意的強敵喔？\n原本想這麼詢問她的，但──",
+      "Text": "「說不定會介紹到\n我們需要注意的強敵喔。」\n我原本想這麼詢問她的，但──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "……我要在比賽中成為真正的風。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "無論遭遇多麼猛烈、\n足以影響所有人的颱風也一樣。",
+      "Name": "山人西風",
+      "Text": "無論遭遇如何飛快的颱風也一樣。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "我要變得更強大、更快，\n成為可以吹散一切的風。",
+      "Name": "山人西風",
+      "Text": "我要變得更強大、更快，\n成為可以超越一切的風。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "──就只是這樣而已。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "從出道戰的時候開始，不對，\n打從第一次見到她那一刻起，\n也文攝輝忠於自我、不受影響的個性就特別突出。",
+      "Text": "從出道戰的時候開始，不對，\n打從第一次見到她那一刻起我就感覺到了，\n山人西風那我行我素的性格可以說是特別鮮明。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "不迷惘、無拘無束、不受影響。\n就像是自由的一陣風──",
+      "Text": "毫不迷惘、無拘無束、不受影響。\n就像是一陣自由的風──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -206,28 +206,28 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "…………………………",
       "ChoiceDataList": [
-        "（她現在卻深深被電視給吸引……）"
+        "（她現在卻緊盯著電視不放……）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "其實我已經叫了她很多次，\n但都完全沒有反應。",
+      "Text": "其實我已經叫了她很多次，\n但她都完全沒有反應。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "將本該像無形的風一般的她\n如此深深吸引。\n螢幕上的那位命中注定的對手──",
+      "Text": "映照在螢幕上的，是她命運中的對手。\n將本該如無形之風一般\n捉摸不定的她給牢牢抓住。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "播報員",
-      "Text": "東海帝皇！\n東海帝皇領先了！\n即將衝上通往皋月賞的最後一個坡道！",
+      "Text": "東海帝皇！\n東海帝皇領先了！\n她衝上了通往皋月賞的最後一個坡道！",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "皋月賞"
@@ -235,27 +235,27 @@
     },
     {
       "Name": "播報員",
-      "Text": "領先的是東海帝皇，和傳聞中一樣的強勁腳力！\n──東海帝皇領先衝過終點！！",
+      "Text": "領先的是東海帝皇，那強勁腳力和傳聞中一樣！\n──東海帝皇領先衝過終點！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "播報員",
-      "Text": "贏家是東海帝皇！\n東海帝皇！\n精彩地保住了「不敗帝王」的稱號！！",
+      "Text": "贏家是東海帝皇！\n東海帝皇！\n「不敗的帝王」的表現太精彩了！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "不敗帝王"
+        "不敗的帝王"
       ]
     },
     {
       "Name": "記者A",
-      "Text": "──剛剛播放的是\n日前競賽當天的精采回顧片段！",
+      "Text": "──剛剛播放的是\n日前競賽的精彩回顧片段！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "記者A",
-      "Text": "在此重新向妳道賀。\n東海帝皇小姐，恭喜妳完成出道以來的第四連勝！",
+      "Text": "在此重新向妳道賀。\n東海帝皇小姐，恭喜妳完成出道以來的四連勝！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -267,7 +267,7 @@
     },
     {
       "Name": "記者A",
-      "Text": "如此一來就能像妳所宣示的一樣，\n以零敗戰績挑戰經典三冠的首戰．\n「皋月賞」了！",
+      "Text": "如此一來就能像妳所宣示的一樣，\n以不敗的戰績挑戰經典三冠的首戰\n「皋月賞」了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -279,7 +279,7 @@
     },
     {
       "Name": "東海帝皇",
-      "Text": "我當然是會贏囉！\n我才不會光四連勝就感到「太棒了──！」。\n好戲才正要開始！",
+      "Text": "我當然是會贏囉！\n我不會才連贏四場就感到沾沾自喜。\n好戲才正要開始！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -298,20 +298,20 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "是啊，果然……",
+      "Name": "山人西風",
+      "Text": "啊啊，果然……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "也文攝輝就這樣專心盯著帶著自信笑容的\n東海帝皇，並喃喃自語。",
+      "Text": "山人西風目不轉睛地盯著臉帶自信笑容的\n東海帝皇，並喃喃自語道。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "其實她似乎從之前就對東海帝皇\n抱著特殊想法的感覺，\n但──",
+      "Text": "她從之前就只對東海帝皇\n展現出了某種執著，但──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -322,22 +322,22 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
-      "Text": "（「不敗的三冠賽馬娘」……\n這是當年「皇帝」得到的稱號。）",
+      "Name": "山人西風",
+      "Text": "（「不敗的三冠賽馬娘」……\n這正是當年「皇帝」得到的稱號。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "皇帝"
       ]
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "（帝皇妳果然也是\n追著憧憬之風──）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "記者A",
-      "Text": "「也就是說，妳正朝著成為新世代『皇帝』的\n道路穩穩邁進，沒錯吧……！」",
+      "Text": "「也就是說，妳接下來就是要朝著成為\n新世代『皇帝』的道路穩穩邁進，沒錯吧……！」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -354,7 +354,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "……什麼？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -386,26 +386,26 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "…………！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "（……超越。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "也文攝輝",
+      "Name": "山人西風",
       "Text": "超越憧憬──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "……一陣強風\n突然從開著的窗戶吹進來。\n隨風而來的是一陣櫻花飛舞。",
+      "Text": "……突然，一陣強風\n從開著的窗戶吹了進來。\n隨風而來的是一陣櫻花飛舞。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },

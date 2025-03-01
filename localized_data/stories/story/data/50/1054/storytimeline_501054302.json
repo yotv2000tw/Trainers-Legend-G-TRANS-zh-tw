@@ -1,0 +1,456 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "傍晚，\n當我陪著微光飛駒一起外出巡邏時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "唔！我好像聽見吵雜聲！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，好玩的抽獎活動！\n歡迎大家來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "喔喔～！在辦抽獎耶！\n欸～聽說獎品很豪華耶！",
+      "ChoiceDataList": [
+        "微光也想抽抽看嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "的確有點想啦！\n能喀啦喀啦地轉動抽獎機，光想就很興奮吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "但好像需要抽獎券。我們今天\n沒有打算買東西，看來這次不能……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆A",
+      "Text": "唉呀，小微，妳想要抽獎券啊？\n婆婆我這多了一張小摸彩券喔。\n集滿五張就可以抽一次了，拿去吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆B",
+      "Text": "我這也有小摸彩券喔。\n放在我這太浪費了，妳要的話就拿去吧。\n當作謝謝妳平時努力巡邏！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爺爺A",
+      "Text": "哈哈哈！我的也給妳吧。\n謝謝妳上次來我店裡幫忙啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "唔喔喔！一下就集滿五張了！\n謝謝大家！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "很好，把五張不同的心意合為一體！！\n要上囉！訓練員也借我你的力量！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "喝啊啊啊────！！\n飛駒．超級運氣────！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我們一同擺出招牌姿勢後，\n一起轉動了抽獎機的把手！\n結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "什、什麼──！！！？？？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "唔喔喔喔喔喔！太厲害了！\n特獎耶～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "桌球！電玩中心！枕頭戰！！\n嘿嘿，好期待喔～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好，訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "這張溫泉旅遊券交給你保管！\n我暫時還不打算出發！",
+      "ChoiceDataList": [
+        "咦！？這樣好嗎？",
+        "咦！？這樣好嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆A",
+      "Text": "小微，妳都那麼努力比賽了！\n稍微去放鬆一下也無妨啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "不用了！不如說，我的戰役才正要開始！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "因為我還沒成為\n像胡蘿蔔超人那樣的超級英雄！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "我還想繼續不斷參加更多比賽，\n成為大家的希望！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "所以呢，訓練員！\n要是哪一天，當我真的成為了不起的英雄後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "到時我們再一起去溫泉吧！",
+      "ChoiceDataList": [
+        "找我一起去真的好嗎？",
+        "找我一起去真的好嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "當然啦──！\n你可是我的英雄夥伴耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "我們一同成功守護了大家的笑容跟\n地球的和平，當然要一起慶祝啦！",
+      "ChoiceDataList": [
+        "我知道了！就這麼說定了",
+        "我知道了！就這麼說定了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "很～好！為了成為了不起的英雄……\n衝刺奔向明天吧──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "想要成為大家的英雄。\n我帶著胸口湧現的激動情緒，\n守候著她那燃燒著熱忱的背影。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "喔喔！好像很好吃！\n今天晚餐就吃這個吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "我最喜歡漢堡排了！\n量再多我都吃得下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆A",
+      "Text": "太好了呢，小微。\n對了，不能只吃肉，也得多吃蔬菜。\n我買太多蔬菜了，給妳拿走一些吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "不行啦，怎麼好意思一直拿妳的東西。\n而且配菜中就有蔬菜了，\n所以不用擔心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婆婆B",
+      "Text": "吃大餐不能少了甜點吧？\n我去買胡蘿蔔日式饅頭給妳喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爺爺B",
+      "Text": "等一下等一下，漢堡排就是要配白米吧～！\n我分妳一些美味的新收成米。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "哇啊啊啊，等一下！\n我吃不完這麼多東西啦────！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人們",
+      "Text": "啊哈哈哈哈──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "你們的好意我心領了！\n謝謝大家！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看來商店街的大人們\n似乎總忍不住想對微光飛駒多加照顧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "這麼多！\n好厲害喔──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "我吃得玩嗎……？\n嘿嘿嘿，找曙曙一起煮成料理吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "不可或缺的烤胡蘿蔔、糖漬胡蘿蔔、\n醋醃胡蘿蔔絲──還有還有……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "能長久保存的……料理！\n畢竟實在是太多了啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "這下需要擬定一個防止食物壞掉的\n「作戰」！<username>司令官！",
+      "ChoiceDataList": [
+        "嗯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "臨時作戰會議！快來擬定大量消耗作戰！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "還有，你也要幫忙一起吃喔！\n我們要同心協力吃完美味料理──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "幾天後……我們的作戰順利地成功了！\n她吃下比往常更多的食物，\n補充了滿滿活力──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "胡蘿蔔……但只有一根啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "不過，咦……？\n這根胡蘿蔔……喂，你看！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "啊哈哈！形狀好有趣喔！\n看起來是不是有點像手槍？",
+      "ChoiceDataList": [
+        "真的耶。這個彎曲的角度……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好像能拿來發射胡蘿蔔素之力！\n借我一下──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "好！就命名為「胡蘿蔔槍」吧！\n從這裡射出光束！嗶嗶嗶嗶嗶嗶！",
+      "ChoiceDataList": [
+        "唔、唔哇────！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "啊──！等一下等一下，這不是攻擊啦！\n被光束射中的人會變得充滿活力！\n重來一次！",
+      "ChoiceDataList": [
+        "啊……好的！……唔喔喔喔！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "啊哈哈哈哈哈哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她十分中意這把胡蘿蔔槍，\n對我發射了好幾次「營養光束」。\n聽說她幾天後把胡蘿蔔槍烤來吃了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "可惡，只有衛生紙啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飛駒",
+      "Text": "真可惜……不過，\n英雄平時的確老是不走運……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "微光飛駒雖然嘴上這麼說，\n但卻沮喪地垂下了耳朵……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

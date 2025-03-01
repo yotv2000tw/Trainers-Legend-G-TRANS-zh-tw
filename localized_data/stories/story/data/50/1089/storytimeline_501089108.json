@@ -1,0 +1,564 @@
+{
+  "Title": "粉絲感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "蒞臨粉絲感謝祭的everyone！\n「Worldwide猜謎競賽」\n要開始囉～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "駿逸……妳沒事吧……",
+      "ChoiceDataList": [
+        "我相信她一定沒問題。畢竟──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這次正是由高尚駿逸本人自己\n主動決定要努力挑戰的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "時間回到幾個小時前。\n當我跟高尚駿逸一起走在感謝祭會場──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲",
+      "Text": "啊，找到了！小駿！\n那個……我一直都很支持妳！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "咦？我嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲",
+      "Text": "妳煩惱著「自己比不上別人」，但卻能\n拚命地正視煩惱，對抗煩惱，持續向前邁進……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲",
+      "Text": "讓我覺得……自己也要加油。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲",
+      "Text": "妳是我的勇氣來源，也是我的驕傲……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲",
+      "Text": "抱、抱歉突然打擾妳！\n呃……告……告辭了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "啊──",
+      "ChoiceDataList": [
+        "太好了呢，駿逸",
+        "太好了呢，駿逸"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "…………那位粉絲，\n也會來看今天的比賽嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "雖然我很不安，\n不曉得是否能有傑出表現……不過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "既然知道了我的努力能為某人帶來勇氣……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "為了粉絲……\n踏出了對她來說偉大的一步……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "我也得盡全力為她們加油才行。\n畢竟這可是妹妹們的重要一戰啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "比布魯斯，那個……謝謝妳陪我\n一起參賽。今天一起加油吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "嗯～？逸逸今天好像不太一樣喔？\n總覺得更有幹勁了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "逸逸"
+      ]
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "這就代表了妳有多想贏吧！\n那我也努力一下吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "無論什麼謎題都儘管交給我！\n賽跑戰略就交給逸逸調整了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "嗯……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "我來說明規則！\n各位參賽者仔細聽好囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "每抵達賽道上的一個關卡就要抽一個謎題，\n回答跟國際有關的題目！\n答對才能跑向下一關！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "本次比賽融合了猜謎與賽跑！\n參賽者的邏輯與體能，\n以及搭檔間的情誼都將受到考驗！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "賭上worldwide賽馬娘榮譽的激烈戰鬥\n即將展開！好啦，各就各位！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "Let's……worldwide♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "搶先抵達第一個謎題的是\n飛飛＆閃耀小隊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "她們選到的題目如下，鏘鏘！\n請回答兩道德國的代表性肉類料理！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "榮進閃耀",
+      "Text": "德式燉豬腳！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "德式烤豬腳♪\n我跟閃耀前陣子才一起去吃過呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "嗯嗯～答對了！\n請GO向下一關！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "接著，現在輪到\n駿逸＆比布魯斯小隊選擇謎題！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "阿拉伯聯合大公國是由幾個大公國所組成？\n咦，好難……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "首先一定有杜拜吧，還有阿布達比、沙迦……\n阿吉曼、歐姆古溫、\n拉斯海瑪、富查伊哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "所以呢，阿拉伯聯合大公國\n是由七個大公國所組成的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "嗯嗯～excellent！成功答出難題！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "謝、謝謝妳，比布魯斯……！\n……很好，接下來就是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "好的，比賽進入最後階段！你來我往\n互不相讓的激戰！謎題剩下最後一題！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（領頭的飛鷹她們就快減緩速度了……\n千萬不能錯過進攻時機……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "唔！上半身姿勢出現破綻！！\n比布魯斯，要超前囉……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姊妹",
+      "Text": "衝啊啊啊啊啊啊啊啊啊啊啊啊啊──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "搶先抵達最後一關的是\n高尚駿逸＆比布魯斯！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "呼、呼……太好了～！\n完全被逸逸說中了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "嗯、嗯……太好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "逸逸最棒了～♡接下來……\n只要答對最後一題就是我們贏了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "決定命運的最後一題！噹噹！！\n位於杜拜的全世界最高摩天大樓\n「哈里發塔」的整體高度──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "我知道我知道！答案是828公尺！！\n太簡單了♡畢竟我最喜歡杜拜了嘛──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "答錯了──！題目還沒唸完喔。\n比布魯斯失去回答資格了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "要是高尚駿逸回答不出來，\n就要換對手小隊答題了喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "咦，我……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "那我要繼續念題目囉……噹噹！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "位於杜拜的全世界最高摩天大樓\n「哈里發塔」的整體高度\n為828公尺……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "而預定同樣建於杜拜的\n世界第一高塔「杜拜灣塔」，\n完成後的預定高度將到達幾公尺！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "唔哇啊啊～逸逸……！\n對不起～～拜託妳了……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……我……我…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（我一定要答對……\n因為我都決定要好好努力了……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾",
+      "Text": "──她不說話了耶。沒問題吧？\n──她妹妹看起來比較有自信。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（大家都在看我……\n他們是不是覺得我很沒用……？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "啊……\n……我……我…………我…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "駿逸……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我腦海裡浮現出她這一路上的歷程。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她克服內心掙扎，與妹妹攜手──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "冷靜地分析強敵們的跑法，\n漂亮地搶先眾人第一個答題。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "為了粉絲克服所有困難。\n我相信這樣的她一定能夠──",
+      "ChoiceDataList": [
+        "妳一定辦得到！高尚駿逸！！",
+        "妳一定辦得到！高尚駿逸！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……！！訓練員……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正因為我這一路上都看著她，才能如此深信。",
+      "ChoiceDataList": [
+        "妳一定辦得到！！一定要跑到終點！！",
+        "妳一定辦得到！！一定要跑到終點！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "──唔……沒錯，駿逸！！\n終點就在眼前……就在妳面前了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "駿逸，加油啊……！！\n相信已經努力到這一步的自己！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉絲們",
+      "Text": "──小駿，我相信妳可以──！\n──妳一定辦得到，駿逸～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "大家……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……我本來打算為大家帶來勇氣的，\n結果是我從大家身上獲得勇氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "我不再覺得……自己比不上別人了……\n──我相信自己一定辦得到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "好的，高尚駿逸！妳的答案是──！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "冷靜思考。杜拜灣塔的高度……\n我記得旅行途中比布魯斯好像教過……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……對了，她教我用諧音記。\n「跟『我一起』去杜拜灣塔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "哈里發塔為828公尺，\n而杜拜灣塔將更高出517公尺。\n所以答案是828+517──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "答案是……1345公尺！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "嗯嗯～～～～～～～～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採珠",
+      "Text": "Congratulation～～～～！！！\n獲得優勝的是比布魯斯＆高尚駿逸！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "駿逸……\n妳居然拿下優勝了……",
+      "ChoiceDataList": [
+        "不嫌棄的話請用這條手帕……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "呵呵，你自己還不是一臉快哭出來的樣子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "她的成長真是耀眼呢……\n對吧，訓練員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我跟高尚駿逸一起\n邊走邊回顧今天。",
+      "ChoiceDataList": [
+        "妳答出最後一題時真是太帥了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "你、你說過好幾次了……太過獎了啦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "而且那都要感謝……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……謝謝你。你的加油聲\n讓我覺得很溫暖……很開心。",
+      "ChoiceDataList": [
+        "恭喜妳獲得優勝，駿逸！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

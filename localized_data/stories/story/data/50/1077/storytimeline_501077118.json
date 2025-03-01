@@ -1,0 +1,757 @@
+{
+  "Title": "三人的相簿",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "「有馬紀念」結束後。\n我和成田路兩人決定\n在這個階段一起去道謝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "老師，謝謝你。",
+      "ChoiceDataList": [
+        "非常感謝你！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "託你的福，我順利贏下「有馬紀念」，\n結束了這一年。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師",
+      "Text": "喔，多謝了。居然特地來向我報告，\n你們兩個真是太有禮貌了。",
+      "ChoiceDataList": [
+        "你覺得比賽怎麼樣呢？",
+        "你覺得比賽怎麼樣呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師",
+      "Text": "哈哈哈，什麼怎麼樣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師",
+      "Text": "太模糊了，我根本看不清楚啊。\n……最近老花眼很嚴重。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師",
+      "Text": "啊，對了。\n這是我要送給你們的一點小賀禮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師",
+      "Text": "這是餐券。\n你們兩個人隨意使用吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "……餐券！非常感謝。\n太好了呢，訓練員。",
+      "ChoiceDataList": [
+        "是啊，或許跟夥伴們一起使用也不錯",
+        "嗯，或許跟夥伴們一起使用也不錯"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "夥伴？\n跟同期的賽馬娘們一起……嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老師",
+      "Text": "說得對。跟共同度過青春的人們\n一起聊聊回憶，偶爾這樣或許也不錯喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "──就這樣，幾天後。\n成田路跟好歌劇和愛慕織姬\n一起出去聚餐了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她們前往的地方是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "喔喔，中華料理店！\n真不錯啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是的，因為老師給了我這間店的餐券。\n機會難得，來聊聊回憶吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "跟那些時髦的店家相比，\n在這裡不必過於拘謹，感覺不錯呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "話說回來，\n歌劇，小濤呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "這個嘛。雖然我有邀她……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "不不不、我不去！我不能去！\n絕對不去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "請妳們三個人自己去吧～～～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "不過我能猜到她不來的理由就是了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "……這樣啊。\n那就下次再約小濤吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "今天就讓我們三個人盡情享受吧。\n就像是回到經典級一樣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哎呀，妳還記得嗎？\n那時的「皋月賞」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "如果我沒辦法參賽的話，\n粉絲就太不幸了！\n這麼一想，就覺得提心吊膽啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "比起粉絲，還是先擔心一下自己如何？\n……而且提心吊膽的應該是\n要迎戰的我們吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "就是說啊。\n當時的歌劇真的讓我大吃一驚呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "說到讓人大吃一驚的事，\n織姬在「日本打比」時的氣勢也很驚人呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "比起這些更厲害的是「菊花賞」那時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "是啊，那時的成田路，\n該怎麼說才好呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "很帥氣喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "很帥氣！？我嗎！？\n唔哇，沒想到會\n聽到織姬這麼說。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哈哈哈，是僅次於我的意思啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "不是，吵死了。\n妳去旁邊吃餃子吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "不過，每一場比賽真的都非常熱血，\n感覺很開心呢。\n在那之後的資深級比賽也是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我不會忘記的。\n這些都是無可取代的重要回憶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "和大家互相競爭，如夢般的兩年……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "希望這對所有粉絲來說，\n也能成為難以忘懷的回憶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "不過，像這樣再次回顧就會發現\n我們三個人的實力……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "幾乎是勢均力敵呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "是啊，我們是名副其實的三強。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "就是說啊。\n雖然我還想多贏一些，不過……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "或許因為我們不相上下，\n所以才能像這樣一邊和樂融融地回顧，\n一邊吃著中華料理。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "妳說得沒錯！\n好，那就盡量吃吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "店長！把炒飯和螃蟹炒飯跟高菜炒飯\n跟調羹一起端上來！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "歌劇，會不會太多炒飯了？\n妳要多注意一下營養均衡……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "……我只吃高菜炒飯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，\n同世代的三強一邊開心地聊著回憶，\n一邊享受著中華料理派對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "喔喔，時髦的歐式餐廳！\n真不錯啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是的，因為老師給了我這間店的餐券。\n機會難得，來聊聊回憶吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "這樣啊……這裡很安靜，感覺不錯呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "話說回來，\n歌劇，小濤呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "這個嘛。雖然我有邀她……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "不不不、我不去！我不能去！\n絕對不去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "請妳們三個人自己去吧～～～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "不過我能猜到她不來的理由就是了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "……這樣啊。\n那就下次再約小濤吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "今天就讓我們三個人盡情享受吧。\n就像是回到經典級一樣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哎呀，妳還記得嗎？\n那時的「皋月賞」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "如果我沒辦法參賽的話，\n粉絲就太不幸了！\n這麼一想，就覺得提心吊膽啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "比起粉絲，還是先擔心一下自己如何？\n……而且提心吊膽的應該是\n要迎戰的我們吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "就是說啊。\n當時的歌劇真的讓我大吃一驚呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "說到讓人大吃一驚的事，\n織姬在「日本打比」時的氣勢也很驚人呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "比起這些更厲害的是「菊花賞」那時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "是啊，那時的成田路，\n該怎麼說才好呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "很帥氣喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "很帥氣！？我嗎！？\n唔哇，沒想到會\n聽到織姬這麼說。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哈哈哈，是僅次於我的意思啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "不是，吵死了。\n妳去旁邊啃那些派吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "不過，每一場比賽真的都非常熱血，\n感覺很開心呢。\n在那之後的資深級比賽也是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我不會忘記的。\n這些都是無可取代的重要回憶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "和大家互相競爭，如夢般的兩年……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "希望這對所有粉絲來說，\n也能成為難以忘懷的回憶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "不過，像這樣再次回顧就會發現\n我們三個人的戰績……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "是成田路占優勢呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "是啊。\n妳是我們三個之中，第一個贏下GⅠ的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "這麼說來的確是呢……\n不過這也要感謝妳們兩個。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "因為有妳們兩個，我才能努力到現在。\n我認為比起當下的勝負，這才是最重要的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "嗯，說得沒錯！\n好，那今天就盡量吃吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "那邊那位美麗的店員！\n把妳精選的推薦餐點\n全部端上來吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "歌劇，妳說全部！？\n餐券夠用嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "沒關係。\n不夠的話，好歌劇會付錢的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，\n同世代的三強一邊開心地聊著回憶，\n一邊享受著歐式派對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "喔喔，豪華的船上餐廳！\n真不錯啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是的，因為老師給了我這間店的餐券。\n機會難得，來聊聊回憶吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "這樣啊……\n總覺得很豪華呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "話說回來，\n歌劇，小濤呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "這個嘛。雖然我有邀她……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "不不不、我不去！我不能去！\n絕對不去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名將怒濤",
+      "Text": "請妳們三個人自己去吧～～～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "不過我能猜到她不來的理由就是了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "……這樣啊。\n那就下次再約小濤吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "今天就讓我們三個人盡情享受吧。\n就像是回到經典級一樣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哎呀，妳還記得嗎？\n那時的「皋月賞」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "如果我沒辦法參賽的話，\n粉絲就太不幸了！\n這麼一想，就覺得提心吊膽啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "比起粉絲，還是先擔心一下自己如何？\n……而且提心吊膽的應該是\n要迎戰的我們吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "就是說啊。\n當時的歌劇真的讓我大吃一驚呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "說到讓人大吃一驚的事，\n織姬在「日本打比」時的氣勢也很驚人呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "比起這些更厲害的是「菊花賞」那時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "是啊，那時的成田路，\n該怎麼說才好呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "很帥氣喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "很帥氣！？我嗎！？\n唔哇，沒想到會\n聽到織姬這麼說。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "哈哈哈，是僅次於我的意思啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "不是，吵死了。\n妳去旁邊吃薄切生肉吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "不過，每一場比賽真的都非常熱血，\n感覺很開心呢。\n在那之後的資深級比賽也是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我不會忘記的。\n這些都是無可取代的重要回憶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "和大家互相競爭，如夢般的兩年……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "希望這對所有粉絲來說，\n也能成為難以忘懷的回憶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "不過，像這樣再次回顧就會發現\n我們的戰績……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "是成田路一人獨贏呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "是啊。雖然經常被人同時提起\n……結果卻是這樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "只、只是碰巧啦！\n我認為我們的實力不相上下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "而且就是因為贏了很多比賽，\n才會有好事發生。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "好事……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是的！我想就是因為我很努力，\n老師才會給我這麼豪華的獎勵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "所以才能像這樣到平常沒辦法來的地方，\n跟妳們兩個人一起開心地享受。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "嗯，說得也是。\n而且老師為了弟子祝賀的這份心意，\n不就是最好的盛宴嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌劇",
+      "Text": "這點倒是令我有些羨慕呢。\n對吧，織姬？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "……是啊。\n透過成田路──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "愛慕織姬",
+      "Text": "我覺得我們也受到了前人的引導。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "歌劇、織姬……\n要是聽見剛剛的話，老師一定也會很高興。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "好了，難得有這個機會，\n讓我們多享受一下吧。夜景非常漂亮喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，\n同世代的三強一邊開心地聊著回憶，\n一邊享受著船上派對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

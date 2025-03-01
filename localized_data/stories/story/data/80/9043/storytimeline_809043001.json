@@ -1,0 +1,194 @@
+{
+  "Title": "來踢足球吧！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "當我在煩惱如何以訓練員身分\n與專任賽馬娘溝通時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "你怎麼了？一臉煩惱的樣子。\n身為URA職員，我可不能放著你不管。",
+      "ChoiceDataList": [
+        "我在煩惱怎麼跟專任賽馬娘相處才好……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "原來如此。不過，過度煩惱也是不行的。\n我有個好方法可以散心。過來吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "分組結束了嗎？\n這是URA跟學園的親善比賽。放鬆地踢一場吧！",
+      "ChoiceDataList": [
+        "妳說的散心……是指踢足球嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "沒錯！這樣還能順便鍛鍊訓練員需要的能力，\n像是體力與持久力等等。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "這就是所謂的一石二鳥啊。\n來，開始吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "拜託囉，<username>訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "球傳到我這了。我該怎麼做──",
+      "ChoiceDataList": [
+        "使勁射門！",
+        "以犀利的運球越過敵方防守"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（咻────────！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "很好！\n好球！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新進URA工作人員A",
+      "Text": "好啊，贏了！！\n剛才那個射門成了勝負關鍵呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員A",
+      "Text": "辛苦了。你挺有勇氣的嘛，\n居然會在那個時候去得分！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "怎麼樣？不只是增強體力，\n還達成了跨越世代與職位的交流對吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "足球在歐洲作為一種非語言溝通方式，\n也是非常有效的交流手段喔。",
+      "ChoiceDataList": [
+        "溝通……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "別說語言了，人們就連距離感跟握手力道都會\n因為國家而有所不同，但足球規則卻是一樣的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "對於與自己差異較大的人，有時比起用說的，\n還是用非語言的方式拉近距離更有效喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "<chrname>跟我的差異也很大。\n既然如此，\n或許也能試著用足球來溝通……",
+      "ChoiceDataList": [
+        "謝謝妳，我學到了很多！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "我一開始就說過了，這只是在散散心喔？\n不過你有從中得到什麼就好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人訓練員A",
+      "Text": "可惡……！防守被突破了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "資深訓練員A",
+      "Text": "快追快追！\n別讓對方得分！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "URA工作人員A",
+      "Text": "好啊，我們這隊贏了！\n哎呀，你的運球技術很棒喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新人訓練員B",
+      "Text": "謝謝你剛才傳球給我！\n多虧如此我才能射門得分！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "怎麼樣？不只是增強體力，\n還達成了跨越世代與職位的交流對吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "足球在歐洲作為一種非語言溝通方式，\n也是非常有效的交流手段喔。",
+      "ChoiceDataList": [
+        "溝通……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "別說語言了，人們就連距離感跟握手強度都會\n因為國家而有所不同，但足球規則卻是一樣的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "對於與自己差異較大的人，有時比起用說的，\n還是用非語言的方式拉近距離更有效喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "<chrname>跟我的差異也很大。\n既然如此，\n或許也能試著用足球來溝通……",
+      "ChoiceDataList": [
+        "下次我會跟自己指導的賽馬娘實踐看看的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "嗯！希望一切順利！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

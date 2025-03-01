@@ -1,0 +1,44 @@
+{
+  "Title": "恢復精神",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我詢問大鳴大放休假日有沒有好好地放鬆──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "姊姊們跟我聯絡，我就報告了近況。",
+      "ChoiceDataList": [
+        "妳跟姊姊們聊了些什麼？",
+        "妳跟姊姊們聊了些什麼呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "大多都是跟比賽有關的事情。\n幾乎都是姊姊們在問我問題。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "問我坡道的成績有沒有進步、現在肌肉量多少、\n要我小心別訓練過頭。\n……就是很平常的對話。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "跟姊姊們聊了這麼久，\n我心情也放鬆了許多。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,737 @@
+{
+  "Title": "為妳祈禱",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我每天重複著一樣的日子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "早上起床，洗臉。\n整理儀容，立刻出門。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "前往醫院。\n向護理師或主治醫生致意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "打開病房的門。\n輕輕地深呼吸。",
+      "ChoiceDataList": [
+        "……奇蹟？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "──────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我每天重複著一樣的日子。\n──喜嘉奇蹟今天也沒有醒來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "啊……是奇蹟的訓練員！！",
+      "ChoiceDataList": [
+        "妳們……今天也來了啊",
+        "妳們……今天也來了呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "是的，我跟西風還有太陽……\n另外，今天又多了一個人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "太陽，我的手臂很痛。\n可以不要這麼用力地抓著我嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "不，可是！要是我不抓著的話，\n大小姐就會立刻逃走吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……我不會逃走的。\n只是，我還有……該完成的使命──",
+      "ChoiceDataList": [
+        "……紅寶，謝謝妳也來探望她"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "啊──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "…………………………\n…………關於奇蹟的事情。\n真是……令人深感悲痛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "欸、欸，奇訓！\n那個……奇蹟她怎麼樣？",
+      "ChoiceDataList": [
+        "……抱歉，她還沒醒呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "………………唔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "──請問能詳細詢問\n目前的狀況嗎？",
+      "ChoiceDataList": [
+        "……好",
+        "……嗯"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "正好就在前幾天，我和主治醫師談了很久。\n我坦白地告訴大家\n喜嘉奇蹟的現狀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她的腦波沒有異常，也能夠自主呼吸。\n詳細地檢查她的身體後，\n沒有發現任何異常。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "可以說是「非常健康的身體」，但是──\n唯獨意識一直沒有恢復。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主治醫師",
+      "Text": "說來慚愧……\n目前我無法提供任何明確的說明。\n只是，對「賽馬娘」們來說──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主治醫師",
+      "Text": "那種心理狀態。\n……或者應該稱為「靈魂」的東西，\n有時會對身體造成極大的影響。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主治醫師",
+      "Text": "所以說，喜嘉奇蹟的情況是──",
+      "ChoiceDataList": [
+        "……「只有現在」跟「只有這裡」的想法"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "必須趁跑得最快的「現在」，\n在「短途跑者S」贏得勝利……\n這樣的想法已經破滅了。",
+      "ChoiceDataList": [
+        "她的心碎了……或許不會醒來了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "奇蹟……\n這樣啊…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "……………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就連大德太陽都陷入了沉默。\n一直明朗的太陽也蒙上陰影，\n空氣中瀰漫著沉重的氣氛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……不過，就在這時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……如果考慮到自己的巔峰期，\n那就「只有現在」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "如果想獲得最快的稱號，\n那就「只有短途跑者S」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "她確實是這麼說的吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "第一紅寶這麼問我。\n她的語氣非常冷靜……甚至可以說是冷靜過頭了。",
+      "ChoiceDataList": [
+        "是、是啊……她是這麼說的",
+        "嗯、嗯……她是這麼說的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "原來如此。\n…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "謝謝你告訴我這些。\n那麼，我們先告辭了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "呃，咦！？等等，大小姐！？\n妳說的「我們」，也包含我們嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "等等等一下！！我說大小姐啊～～～！？！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "山人西風",
+      "Text": "紅寶！\n那個，怎麼了嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "真是嚇了我一跳！\n……妳平常不會做這種事吧？\n居然把我們都牽扯進來了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "就是啊～～！？！？\n大小姐妳怎麼了！？啊，難道是肚子痛嗎！？\n我來幫妳──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "太陽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "有！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "還有青竹跟西風。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "──我有件事情想拜託妳們。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……今天也重複著一樣的日子。\n早上起床洗臉，整理儀容，\n立刻出門。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "前往醫院，向護理師或主治醫生致意。\n打開病房的門──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "奇蹟！\n奇蹟，醒來啊～～～！！\n念力～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "感覺不錯喔，太陽……！\n這大概是病房裡允許的最大音量了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "山人西風",
+      "Text": "那麼，我也來……！\n奇蹟……念力～～～～！！",
+      "ChoiceDataList": [
+        "各、各位……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "啊，是奇蹟的訓練員！\n早安！！\n……啊，糟糕，要小聲一點才行……！",
+      "ChoiceDataList": [
+        "不是……大清早的，妳們在做什麼……？",
+        "不是……大清早的，妳們在做什麼……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "我們是來喚醒奇蹟的。\n……我絕對要喚醒她，然後帶她出去！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "啊，當然，已經先得到醫生的許可了！\n所以我們會全力以赴的。\n……畢竟有人拜託我們這麼做！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "山人西風",
+      "Text": "是的，這是紅色的天風──\n紅寶強烈要求的。",
+      "ChoiceDataList": [
+        "紅寶嗎……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "沒錯！！\n……我們啊～被大小姐拜託了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "明天，我會召開緊急記者會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "現在才開始著手準備的話──\n會場應該會選在我老家。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "關於時間，後續我會再另外通知妳們記者會的\n詳細資訊，但多半會在黃昏時分召開。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "所以，妳們一定要帶她來參加記者會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "我希望妳們能把奇蹟喚醒，\n然後將她帶來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "請務必一定要帶她來。\n……拜託了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "總覺得啊。\n雖然我不太清楚！不過大小姐大概是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "有超～～～～多的話！\n想要告訴奇蹟吧！",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "就是這樣，好啦！\n繼續吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "醒、來、吧～～～！\n奇蹟！奇蹟！\n奇～蹟～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "山人西風",
+      "Text": "奇蹟……奇蹟。\n請妳快點醒來吧，奇蹟。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "來吧，奇蹟的訓練員也一起來！\n拜託你了！",
+      "ChoiceDataList": [
+        "我、我知道了……！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我和大家一起呼喚著喜嘉奇蹟。\n……不過，像這樣呼喚她的名字，\n我已經……做過很多很多次了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我懷抱希望，想說加上朋友們的聲音或許會奏效，\n但這微小的希望也不知不覺地逐漸消退……\n只能任憑時間一分一秒地流逝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "……真糟糕啊。差不多該離開醫院了，\n不然就沒辦法趕在日落時記者會開始前\n抵達紅寶老家了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "山人西風",
+      "Text": "總之，先開始移動怎麼樣？\n趁移動的途中繼續試著喚醒她的話，\n或許──！",
+      "ChoiceDataList": [
+        "那我來叫計程車……咦！？",
+        "那我來叫計程車……咦！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看到手機上的新聞通知時，我大吃一驚。\n……醫院附近道路好像發生了事故。\n似乎導致交通嚴重堵塞……！",
+      "ChoiceDataList": [
+        "這樣就沒辦法帶奇蹟過去了……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "不，一定有辦法帶她過去！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "應該說，我們一定會帶她過去。\n……說真的，因為紅寶在等她！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "好！兩輪拖車OK！\n奇蹟OK！奇訓OK！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "那我們走吧走吧～～～！！",
+      "ChoiceDataList": [
+        "妳們打算用這台兩輪拖車載我們過去嗎！？",
+        "妳們打算用這台兩輪拖車載我們過去嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "不……雖然感覺很亂來，\n但只要穿越河岸和空地……\n說不定真的有條路線能送她過去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "……或許行得通。\n請讓我們試試看吧！！\n拜託你了，訓練員！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "山人西風",
+      "Text": "現在時間寶貴，猶豫只會帶來惡風。\n訓練員，請你坐上去吧。\n……千萬不要放開奇蹟。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "山人西風",
+      "Text": "請緊緊抱住她，\n然後不斷地呼喚她吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "沒錯沒錯，然後移動就交給我們！\n交給我們的雙腿吧～～～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "我在最前頭拉著！\n竹仔和西風風在後面用力地推！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "用這超強短途跑者們的\n最強陣形……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "全、力、衝、刺～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "車身劇烈地晃動了一下，\n然後，我全身都籠罩在狂風之中。\n伴隨著巨響，景色不斷向後飛逝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "啊哈哈哈哈哈哈哈哈！！\n等著我們吧，大小姐～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "我們絕對！絕對！會把奇蹟！！\n帶過去的──────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "還是一樣驚人的衝刺力呢！\n但是……我可不會輸給妳！！\n唔喔喔喔喔喔喔喔喔喔喔────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "山人西風",
+      "Text": "那麼，我也要成為更強的順風！！\n喝啊啊啊啊啊啊啊……！！",
+      "ChoiceDataList": [
+        "（啊啊……好厲害）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我想「賽馬娘」就是厲害在這裡。\n因為她們都擁有獨一無二的雙腿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她們都擁有能朝著目標、\n朝著想要抓住的未來\n全力奔馳的雙腿。",
+      "ChoiceDataList": [
+        "……妳也是一樣的啊，奇蹟！",
+        "……妳也是一樣的啊，奇蹟！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我呼喚著在我懷裡沉睡的喜嘉奇蹟。\n一次又一次，不停地呼喚著。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同伴們",
+      "Text": "啊哈哈哈哈哈哈哈！！\n唔喔喔喔喔喔喔喔！！\n喝啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "兩輪拖車搖晃彈跳。\n風吹拂著淺藍色的頭髮，晃動著她的耳朵。",
+      "ChoiceDataList": [
+        "奇蹟……！睜開眼睛吧！！",
+        "奇蹟……！睜開眼睛吧！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "喜嘉奇蹟還是沒有醒過來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回憶",
+      "Text": "呼……呼……咻……！！\n明明只差一點……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "呃，唔，唔唔唔……！！\n啊？啊，糟糕……視野變暗了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "賽馬娘們的步伐越來越沉重，\n最後終於停了下來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "體力到達極限了。\n明顯看得出來，她們用盡了最後一絲力氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "距離第一紅寶的家已經不遠。\n……賽馬娘們真的非常努力了。",
+      "ChoiceDataList": [
+        "（既然這樣，接下來輪到我了！）",
+        "（既然這樣，接下來輪到我了！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我從兩輪拖車上下來，背起還在沉睡的喜嘉奇蹟。\n我脫掉外套當作繩子把她綁在身上，\n防止她掉下去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "山人西風",
+      "Text": "呼……訓練員……？\n你打算就這樣\n背著她過去嗎……！？",
+      "ChoiceDataList": [
+        "是啊！",
+        "嗯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我盡可能地用力點頭。\n我沒有可以去到任何地方的雙腿。\n也沒有強壯的身體和特別的靈魂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "即使如此，就算是人類。",
+      "ChoiceDataList": [
+        "我們也是意外地頑強啊！",
+        "我們也是意外地頑強啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "……唔，大小姐在等著了。\n──拜託你了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "上啊────────────！！\n奇訓────────────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "速度跟剛才完全不能比。\n但我還是盡全力奔跑，持續跑下去。\n然後在奔跑的同時──呼喚著她。",
+      "ChoiceDataList": [
+        "奇蹟！！奇蹟，快醒醒！！",
+        "奇蹟！！奇蹟，快醒醒！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "沒過多久我就開始氣喘吁吁了。\n雙腿變得越來越沉重，彷彿鉛塊。\n我的心跳加速，就連視線都在跳動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "好難受，我的意識逐漸遠去。\n「跑起來」、「繼續呼喚她」。\n腦中只剩下這些簡單的命令。",
+      "ChoiceDataList": [
+        "奇蹟……奇蹟！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "（一片空白）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "（一片空白）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "（一片空白）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "────「紅色」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

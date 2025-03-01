@@ -1,0 +1,400 @@
+{
+  "Title": "See Ya！追夢的朋友",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天，\n我看到踢踏城市正與她的朋友一臉嚴肅地談話。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "妳要出國學語言……？為什麼要做這種事？\n在日本也能學英文吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "要留學的女性",
+      "Text": "是這樣沒錯。可是……我想有些事，\n不實際去接觸當地環境是不會知道的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "要留學的女性",
+      "Text": "……別露出那種表情啦，踢踏。\n不過是分開半年而已。\n等留學結束，我立刻就會回來的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "I know.\n如果妳不打算回來了，\n我一定會挽留妳的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "……這不是離別。只是分開半年左右。\n即使如此，我還是…………darn it。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "算了，別做違反我風格的事了。\n──就為她辦一場宴會祝賀她留學吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "Hey，訓練員！你聽到了吧？\n既然這樣，給我個建議吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "說到會激勵她的心──能支持她前進的宴會，\n會是怎樣的宴會呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "能給與支持的宴會……\n如果想開場宴會，以鼓勵要去留學的人……",
+      "ChoiceDataList": [
+        "辦場最盛大的吧！",
+        "辦場妳們習慣的那種宴會吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "啊哈哈！這主意不錯！\n這樣甚至沒有閒工夫流淚了！\n一定會是一場愉快的banquet！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "Welcome to the party!!!\n來吧，超盛大宴會開幕了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "要留學的女性",
+      "Text": "居然在這種地方為我辦宴會！\n啊哈哈！棒透了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "連身工作服賽馬娘",
+      "Text": "天啊！這裡有游泳池耶～！\n而且擺出來的菜餚也爆好吃的～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "喂喂喂，開幕典禮還沒結束喔。\n──Guest of honor！快帶頭乾杯吧！\n我都要渴死了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "要留學的女性",
+      "Text": "嗯，好！大家都拿好杯子了嗎？\n那麼，呃……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "為夥伴光輝燦爛的出航cheers！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "朋友們",
+      "Text": "Cheers!",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "要留學的女性",
+      "Text": "什麼……踢踏！\n妳不是要我帶頭乾杯嗎～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "Cool！這支舞跳得棒極了！哎呀～\n妳的技藝更精湛了！我好驚訝！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴墨鏡的賽馬娘",
+      "Text": "好，再來換踢踏了。\n我們的首領也會讓我們見識比平時更棒的表演吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "喔，換我出場啦！其實我有個故事，\n想跟詩人一樣講給大家聽……舞台空出來了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "──這是某個少女的故事。\n少女一直以來都是漫無目的地活著。\n開心地，普通地，漫無目的地活著。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "但某天，有個有趣的賽馬娘闖入少女的世界。\n──那個賽馬娘，\n大聲地講述著建造城堡的夢想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "What？城堡？別說蠢話！\n怎麼可能賺得到那麼多錢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "──但少女一開始的想法很快就改變了，\n在她以目光追尋著賽馬娘的同時，\n也開始覺得這傢伙或許能做得到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "……那自己呢？\n沒有她那種荒謬夢想是很平常的事，\n但這樣對嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "我想知道……我真的沒有任何夢想嗎？\n有了這想法的少女，決定踏上旅程──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "目的地是，\n訴說宏願的賽馬娘出生的國度──美國。\n少女為了在那找到夢想而啟程！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "要留學的女性",
+      "Text": "……我應該沒跟踢踏妳說過我要留學的理由吧！？\n妳為什麼會知道！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "啊哈哈！是夥伴告訴我的！\n──聽到這件事時，我非常開心！\n但並非是因為我影響了妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "而是因為妳肯定了我的夢想。\n……所以，也讓我說句話吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "──我的城堡裡有個地方是屬於妳的。\n不管妳去哪裡，都要牢記這件事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "要留學的女性",
+      "Text": "踢踏……嗚嗚……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "再會，my dearest friend.\n別太晚回來喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "Huh？\n可是那種宴會就不特別了吧？",
+      "ChoiceDataList": [
+        "「跟平時一樣」就是最特別的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "……哦。這不錯嘛。\n是我從沒有過的想法呢。\nThanks for the tip!",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "Welcome to the party!!!\n來，跟平時一樣胡鬧一場吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "要留學的女性",
+      "Text": "嗯！\n好～今天就來熱鬧一下吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "連身工作服賽馬娘",
+      "Text": "……妳去留學真的讓我超寂寞的～\n欸欸，還是重新考慮一下吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴墨鏡的賽馬娘",
+      "Text": "別阻止已經下定決心的人。\n不是決定好要笑著為她送行了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "要留學的女性",
+      "Text": "呵呵……真的很謝謝妳們……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "Stop it！禁止感傷！\n就跟平常一樣──開始一場愉快的宴會吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "朋友們",
+      "Text": "喔喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "Cool！這支舞跳得棒極了！哎呀～\n妳的技藝更精湛了！我好驚訝！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴墨鏡的賽馬娘",
+      "Text": "好，再來換踢踏了。\n我們的首領也會讓我們見識比平時更棒的表演吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "喔，換我出場啦！其實我有個故事，\n想跟詩人一樣講給大家聽……舞台空出來了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "──這是某個少女的故事。\n少女一直以來都是漫無目的地活著。\n開心地，普通地，漫無目的地活著。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "但某天，有個有趣的賽馬娘闖入少女的世界。\n──那個賽馬娘，\n大聲地講述著建造城堡的夢想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "What？城堡？別說蠢話！\n怎麼可能賺得到那麼多錢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "──但少女一開始的想法很快就改變了，\n在她以目光追尋著賽馬娘的同時，\n也開始覺得這傢伙或許能做得到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "……那自己呢？\n沒有她那種荒謬夢想是很平常的事，\n但這樣對嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "我想知道……我真的沒有任何夢想嗎？\n有了這想法的少女，決定踏上旅程──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "目的地是，\n訴說宏願的賽馬娘出生的國度──美國。\n少女為了在那找到夢想而啟程！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "要留學的女性",
+      "Text": "……我應該沒跟踢踏妳說過我要留學的理由吧！？\n妳為什麼會知道！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "啊哈哈！是夥伴告訴我的！\n──聽到這件事時，我非常開心！\n但並非是因為我影響了妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "而是因為妳肯定了我的夢想。\n……所以，也讓我說句話吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "──我的城堡裡有個地方是屬於妳的。\n不管妳去哪裡，都要牢記這件事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "要留學的女性",
+      "Text": "踢踏……嗚嗚……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "再會，my dearest friend.\n別太晚回來喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天，我就跟之前一樣，\n看到了踢踏城市與她的朋友。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "啊……喂～訓練員！\n謝謝你上次的建議！\n多虧有你，我們辦了很棒的宴會！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "要留學的女性",
+      "Text": "啊哈哈……雖然我還會在這裡待半年，\n以惜別會來說還太早就是了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "踢踏城市",
+      "Text": "Details, details!\n不過也因為這樣，在妳去留學前，\n可以再開一次party了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

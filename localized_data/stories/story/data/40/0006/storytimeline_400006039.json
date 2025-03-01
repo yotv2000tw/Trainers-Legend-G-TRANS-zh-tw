@@ -1,0 +1,405 @@
+{
+  "Title": "迎向凱旋門賞",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "離開飯店前，\n我思考該在「凱旋門賞」\n對<chrname>說些什麼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──王者的氣勢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我們也必須具備這項特質。\n如果要和那兩位選手對抗，\n就更不用說了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……我用左手壓住正在顫抖的右手，\n然後吐了口氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我的焦慮會傳達給<chrname>，\n為她帶來不必要的不安。",
+      "ChoiceDataList": [
+        "……我要放鬆下來",
+        "……我要放鬆下來"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──時間到了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "快想想還有什麼是我能做的。\n畢竟我可是\n<chrname>的訓練員啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "隆尚賽場的觀眾",
+      "Text": "「望族將再次奪得勝利的榮耀！」\n「不，今年會贏的可是偉大女王喔。」\n「金星復活節也變得更強了！！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "湧入會場的人們，\n喊出自己期待的賽馬娘的名字。",
+      "ChoiceDataList": [
+        "（<chrname>也可以的……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "……<username>訓練員，\n深呼吸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "無論對上怎樣的對手，\n<chrname>都一定沒問題的。",
+      "ChoiceDataList": [
+        "……是的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……沒錯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "<username>訓練員！\n不用擔心！\n我們會幫你們建立自信！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "說完後，秋川理事長\n急忙攤開一塊大布條──",
+      "ChoiceDataList": [
+        "理事長，那是……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "──是大家給你們的訊息！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "旗子上寫滿了加油的話。\n「妳一定辦得到」、「一路跑到最後吧」──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "特雷森學園和URA同心協力，\n從日本全國各地蒐集了替你們加油的話！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "集結！我們收到了多到數不清的鼓勵喔！\n一面旗子根本就寫不下！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "──大家都相信你們！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "別忘了！有許多人對你們的實力著迷，\n將希望寄託在你們身上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "即使望族和偉大女王的實力，\n都強到令人害怕──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "我們依然覺得\n你們遠比她們耀眼多了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "我們全都相信，\n你們是有能力\n拿下世界第一的巨星！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……你們很強。",
+      "ChoiceDataList": [
+        "……理事長"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……我將積在肚子裡的空氣給吐出來。\n我不斷地吐氣，直到全吐光後，又吸了一口氣──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我再次轉向<chrname>。\n這是我在「凱旋門賞」前剩下的\n最後一件重要工作。",
+      "ChoiceDataList": [
+        "……不用去想什麼「非贏不可」"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "也不用想「輸了怎麼辦」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在之前的準備期間，\n需要有足夠的欲望\n作為成長所需的能量。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "不過，在世界最高峰的正式比賽中，\n有時候連欲望都會妨礙選手集中精神。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "將所有的想法都吞回去，\n然後告訴<chrname>吧。",
+      "ChoiceDataList": [
+        "──妳會贏的",
+        "──妳會贏的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "……彌生，妳準備的送行方式很棒喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……我也想要幫上忙啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "因為一直以來，都是妳在幫助我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "鳴，在我繼承了母親的職位後，\n妳依然替我追尋著世界第一的夢想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "其實妳應該是想繼續跟我母親他們\n一起執行計畫才對，\n最後卻變成要跟一無所知的我合作……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "……嗯，我很感謝妳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "象徵家的爺爺和\n目白家的奶奶一定也是這麼想的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "從過去邁向未來。\n……正因為有人繼承了前人的意志，\n追求「凱旋門賞」的浪漫才能持續到現在。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "本小姐很慶幸能和彌生\n一起成為中間的橋梁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "佐岳鳴",
+      "Text": "能夠遇見這裡的所有人…………\n真是太好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──聽得見祈禱的聲音。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "日本的粉絲A",
+      "Text": "拜託了……！<chrname>……！\n加油、加油……！加油啊……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──有個念頭一直留在心裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "看著手機的男子",
+      "Text": "可別在這裡輸了……！\n我絕對要看見妳拿下勝利……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──無論失敗幾次，就算被認為不可能實現。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "正在約會的女子",
+      "Text": "沒問題的……！\n<chrname>一定能成為世界第一──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──仍持續讓人殷切期盼的憧憬。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白家的祖母",
+      "Text": "……去親自登上頂點，\n你們已經具備那樣的實力了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──不斷託付給終將來臨的未來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "象徵家的祖父",
+      "Text": "這條路的「前方」，\n只有你們能夠開拓。\n奔跑、衝刺，展現成果吧──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘",
+      "Text": "……實現我們的夢想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "唯一一個純粹的念頭。\n追求「世界第一」的意志。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "持續推動我們走到現在的浪漫──\n就在這裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "金星復活節",
+      "Text": "「……師父，我會超越妳的。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "金星復活節",
+      "Text": "「望族改變了歐洲的歷史，\n而能夠超越她的人……\n就是我，金星復活節。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "望族",
+      "Text": "「來吧，可愛的孩子們。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "偉大女王",
+      "Text": "「……哎呀，\n那妳也願意接受我的愛嗎？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "望族",
+      "Text": "「哈哈哈。如果是妳的話，\n就必須由我主動獻上愛意了。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "望族",
+      "Text": "「好了，隆尚賽場啊──」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "望族",
+      "Text": "「好好見證吧！\n來自世界各地的知名賽馬娘，\n爭奪最強寶座的一刻！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "望族",
+      "Text": "「然後──請給予值得背負\n世界最強之名的賽馬娘祝福！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播報員",
+      "Text": "「各位觀眾，今年的凱旋門賞也要開始了──」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

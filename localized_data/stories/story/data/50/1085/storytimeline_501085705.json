@@ -1,0 +1,276 @@
+{
+  "Title": "無論來者何人",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在外出後的回程路上，\n我對第一紅寶展示了某處的地圖。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "這是什麼？",
+      "ChoiceDataList": [
+        "聽說是只有內行人知道的喫茶名店"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我在調查能讓她放鬆休息的地方時，\n找到了這家位於小巷子，\n據說會進口稀有茶葉的店舖──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "我認為我休息得很足夠。",
+      "ChoiceDataList": [
+        "我、我想向妳請教有關紅茶的知識……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……那我們就長話短說。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我為自己臨時編理由說服她感到抱歉，\n但同時也希望她會喜歡。\n就這樣，我們前往那家店──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "相貌凶悍的人A",
+      "Text": "喂喂喂！\n誰准你們走這條路的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "相貌凶悍的人B",
+      "Text": "搞什麼？誰派來的？\n該不會是想來偷聽我們談話吧！？",
+      "ChoiceDataList": [
+        "咦？什麼！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "相貌凶悍的人A",
+      "Text": "你們想幹什麼？\n如果問心無愧的話就說清楚啊～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看來我們不小心走錯巷子了。\n一群可怕的人纏了上來……！",
+      "ChoiceDataList": [
+        "我們只是走錯路而已……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "相貌凶悍的人A",
+      "Text": "有證據嗎？證明給我看看啊。\n你們是在幾點幾分幾秒走錯的，說啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "相貌凶悍的人B",
+      "Text": "看啊，小鬼正在旁邊看著呢──\n可別在她面前丟臉啊～？",
+      "ChoiceDataList": [
+        "等一下，別太過分了──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "他們甚至開始糾纏第一紅寶。\n我站到她面前擋住對方，\n正打算拉開距離時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……話說完了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "相貌凶悍的人A",
+      "Text": "……咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "我在問，\n你們想說的話都說完了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "我不清楚你們有什麼原委，\n但我們正在趕路。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "──請讓我們過去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "相貌凶悍的人B",
+      "Text": "…………哦、哦哦……！\n不僅沒被嚇到……還這麼有威嚴……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "相貌凶悍的人A",
+      "Text": "是我們失禮了，大姐頭……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……的確，這款紅茶\n幾乎沒在日本流通呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "但這也只是因為沒有進口。\n茶的味道並不特殊，算是順口易喝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "到達喫茶店後，第一紅寶便解說起紅茶知識，\n彷彿之前什麼事都沒發生。",
+      "ChoiceDataList": [
+        "（就算這樣，當時……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "我不清楚你們有什麼原委，\n但我們正在趕路。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "──請讓我們過去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "要是真的演變成衝突，恐怕是無法全身而退。\n多虧她幫忙阻止了事情發生──",
+      "ChoiceDataList": [
+        "謝謝妳……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……什麼事？",
+      "ChoiceDataList": [
+        "呃，就是剛剛多虧妳解決……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……我聽不懂你在說什麼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "我不過是告知他們，\n我們還有該去的地方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "我並沒特別解決什麼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……難道被找碴一事\n完全沒讓她感到恐懼嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "對她來說，那只是說出自己的目的。\n她冷靜的態度與膽識，讓我不禁感到──",
+      "ChoiceDataList": [
+        "我太有眼無珠了……！",
+        "聽了不禁有點擔心……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……你這是在做什麼？\n把臉抬起來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然不害怕凶悍的對手這點很奇怪，\n但我也想學習她堅毅的態度。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "你說，擔心？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她什麼都不怕，\n所以可能會自己往危險裡衝……\n我正要這麼說時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "的確，當時要是繼續發展下去，\n可能就會有家裡的人出面「說服」了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "但我們也不想引起風波。\n所以，應該不會演變成你想像中的局面。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……我看到悄悄跟來的管家\n在稍遠的座位上點頭。\n今天好像窺見了強大的家族有多霸氣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

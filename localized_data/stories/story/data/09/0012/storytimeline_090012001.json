@@ -15,7 +15,7 @@
     },
     {
       "Name": "空中神宮",
-      "Text": "呼……還是得重置才行。\n先投稿「那個」好了──",
+      "Text": "呼……還是得重置才行。\n先把「那個」發出去好了──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -27,7 +27,7 @@
     },
     {
       "Name": "賽馬娘A",
-      "Text": "──如果我贏了，\n請妳當我的「舞會」的「舞伴」！",
+      "Text": "──如果我贏了，\n就請妳當我「直舞」上的「舞伴」！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -39,19 +39,19 @@
     },
     {
       "Name": "空中神宮",
-      "Text": "……啊～已經到了這個時期啊。\n反正不關我的事……嗯？訊息？",
+      "Text": "……啊～已經到這個時期了嗎？\n反正我都無所謂……嗯？有信件？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "「特雷森學園學生會會長魯道夫象徵」……？\n為什麼是用這個名義……呃，啊！？",
+      "Text": "「特雷森學園學生會會長，魯道夫象徵」……？\n我這個名義的信箱怎麼會收到……欸、啥！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宮",
-      "Text": "「相約直道舞會演出委託」……！？",
+      "Text": "「直道舞會演出委託」……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -63,25 +63,25 @@
     },
     {
       "Name": "富士奇石",
-      "Text": "「相約直道舞會」──簡稱「舞會」。\n在櫻花盛開的季節，慶祝新年度的華麗舞會揭開了序幕。",
+      "Text": "「直道舞會」──簡稱「直舞」。在櫻花盛開的季節，\n慶祝新學年開始的華麗舞會揭開了帷幕。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "為了這一天，嬌羞的女孩們開始魂不守舍。\n不只是為了尋找舞會的服裝，最重要的──",
+      "Text": "為了這一天，嬌憐的女孩們開始靜不下心。\n準備舞會用的服裝這點當然不用說。最重要的是──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "就是尋找舞會的主角，也就是舞伴。沒錯！\n尋找為節目增添色彩的心愛的「另一半」。",
+      "Text": "尋找一起在活動的重頭戲上跳雙人舞的搭檔。沒錯！\n她們要找到配得上舞會高潮的心愛「舞伴」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "星雲天空",
-      "Text": "……（呼嚕）",
+      "Name": "青雲天空",
+      "Text": "……嘶呼。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -92,104 +92,104 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "星雲天空",
-      "Text": "……突然叫醒我做什麼？\n還是在這～麼舒服的午睡時間……舞……什麼來著？",
+      "Name": "青雲天空",
+      "Text": "……突然叫醒我做什麼啊？還是在這～麼舒服的\n午睡時間……那個叫直……直什麼的？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "是舞會。因為我要說更突然的事，\n所以需要說一下前提……那麼，要聽聽我的心意嗎？",
+      "Text": "是直舞。我接下來要說更突然的事，\n所以需要一段開場白。那麼……請妳聽好我的心意。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "──星雲天空，\n妳願意成為我的「舞伴」嗎？",
+      "Text": "──青雲天空，\n妳願意成為我的「舞伴」嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "星雲天空",
+      "Name": "青雲天空",
       "Text": "……唔。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "星雲天空",
+      "Name": "青雲天空",
       "Text": "……不不不，咦，妳在說什麼？\n「舞伴」……是跟妳一起跳雙人舞的意思嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "沒錯！我要在舞會上進行特別演出，\n簡單來說就是為主要表演暖場，炒熱氣氛。",
+      "Text": "沒錯！我要在直舞表演一段舞蹈。\n簡單來說，就是為主要的節目暖場，炒熱氣氛。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "雖然是每年的傳統……但會長非常認真看待。\n……我想要幫忙她，所以提出了這項企劃。",
+      "Text": "雖然是每年的傳統……但會長她啊，可是非常有幹勁。\n……我想要幫忙她，所以提出了這項企畫。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "星雲天空",
+      "Name": "青雲天空",
       "Text": "哦……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "沒興趣嗎……？畢竟大家都忙著比賽。\n我還是希望參加的人盡量多一點……",
+      "Text": "沒興趣嗎……？好吧，畢竟大家都忙著比賽嘛。\n但我希望大家能踴躍參加就是了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "星雲天空",
-      "Text": "所以才拿自己當作宣傳嗎……\n不過，為什麼找我當舞伴？",
+      "Name": "青雲天空",
+      "Text": "所以妳才拿自己當宣傳……是嗎？\n不過，為什麼要找我當舞伴？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "星雲天空",
-      "Text": "老實說，這跟我一點關係都沒有吧？\n我不是栗東的人，也跟委員會沒什麼關聯。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "富士奇石",
-      "Text": "我們現在是同個學園的學生，這不就是緣分嗎？\n……雖然有點硬拗。先不說這個……",
+      "Name": "青雲天空",
+      "Text": "老實說，我們一點交集也沒有吧？\n我不是栗東的人，跟委員會也沒什麼關聯。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "選擇「舞伴」的時候，\n通常的確會選擇在學園生活中跟自己關係最親密的人。",
+      "Text": "現在我們是同個學園的學生。這不就有交集了嗎？\n……雖然有點硬拗就是了。先不說這個……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "因為是相當於「年度總結」的舞會，\n自然就會考慮能象徵自己這一年時光的人。",
+      "Text": "選擇「舞伴」的時候，\n通常的確會選擇學園生活中，跟自己關係最密切的人。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "「若我贏了就把妳交給我吧」……\n也有人是像這樣用比賽的勝負找對象的喔。",
+      "Text": "直舞是象徵「總結」的舞會，\n所以自然就會考慮能象徵自己這一年時光的人。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "星雲天空",
+      "Name": "富士奇石",
+      "Text": "甚至有人會說「若我贏了，就請選擇我」這種話，\n以贏得比賽為條件要求對方成為舞伴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青雲天空",
       "Text": "既然這樣──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "但這是我不過是負責特別演出。\n因此，我只考慮一個條件──能讓舞會氣氛嗨到最高點的人。",
+      "Text": "但這次我不過是負責表演，所以只考慮一個條件──\n那就是能讓直舞達到空前盛況的人。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -200,44 +200,44 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "星雲天空",
-      "Text": "……知道了。呃，雖然不是很懂其中的道理，\n但我看得出來妳是認真的。",
+      "Name": "青雲天空",
+      "Text": "……我知道了。不對，雖然不是很懂其中的道理，\n但我看得出來妳是認真的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "星雲天空",
-      "Text": "因此，我就直接了當地回答吧。\n──我拒絕，我不想參加。請妳去找其他人。",
+      "Name": "青雲天空",
+      "Text": "所以，我就直接了當地回答吧。\n──我拒絕。我不想參加。請妳去找其他人。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "星雲天空",
-      "Text": "妳心裡應該有了一些打算，但我討厭不必要的注目，\n也不喜歡在演唱會以外的場合跳舞。而且……",
+      "Name": "青雲天空",
+      "Text": "雖然妳大概有什麼企圖，但我不想受到奇怪的注目，\n也不想在演唱會以外的場合跳舞。而且……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "星雲天空",
-      "Text": "……我現在沒有那種閒工夫。\n下次的比賽……我要認真一點。",
+      "Name": "青雲天空",
+      "Text": "……我現在沒有那種閒工夫。\n下次的比賽……我打算認真一點。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "富士奇石",
-      "Text": "……知道了。那這樣如何？\n──要不要跟我做一筆交易？",
+      "Text": "……我明白了。那麼，妳看這樣如何？\n──要不要跟我做個交易？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星象徵",
-      "Text": "……唔。",
+      "Text": "……哼。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星的跟班A",
-      "Text": "唔哇，跳球……！好猛的高度！\n真不愧是天狼星前輩！",
+      "Text": "唔哇，是跳球……！好猛的高度！\n真不愧是天狼星前輩！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -249,7 +249,7 @@
     },
     {
       "Name": "天狼星的跟班B",
-      "Text": "咦，不打了嗎～！好不容易跟前輩同時有空……！\n呃，有沒有什麼有趣又刺激的事……",
+      "Text": "咦，不打了嗎～！好不容易跟前輩同時有空的……！\n我想想，有什麼有趣的事，還是刺激的事……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -261,7 +261,7 @@
     },
     {
       "Name": "天狼星的跟班B",
-      "Text": "啊，真是剛好！前輩、前輩，我最近迷上一個音樂製作人！\n剛才發表了新歌，要聽聽看嗎？",
+      "Text": "啊，真是剛好！前輩前輩，我最近很迷的一個作曲家，\n發表了新的作品。妳要聽聽看嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -273,25 +273,25 @@
     },
     {
       "Name": "天狼星的跟班B",
-      "Text": "當然可以！那個人叫做「!monad」，身分來歷都是謎，\n只是淡漠地在社群軟體發表混音和原創曲！",
+      "Text": "當然可以！那個人叫做「!monad」，身分來歷都是謎，\n只是默默地在社群平台上發表混音和原創曲，非常低調呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星的跟班B",
-      "Text": "這個人超厲害，聲音很有攻擊性又超緊！\n還帶了一點老派的西部風格，超強的～！",
+      "Text": "他真的很厲害耶。音樂很有攻擊性又超高壓！\n同時還帶有老派的西部風格，超強的～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星的跟班B",
-      "Text": "……啊，抱、抱歉，我太興奮了……！\n總之，請聽聽看！這是帳號！",
+      "Text": "……啊，抱、抱歉，我太興奮了……！\n總之，請聽聽看！這是他的帳號！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星象徵",
-      "Text": "「!monad」……個人資訊只有電子信箱，發文也只有歌曲啊。\n……嗯？這個圖示……",
+      "Text": "「!monad」……簡介裡只有留信箱，而且都在發曲子啊。\n……嗯？這個頭像……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },

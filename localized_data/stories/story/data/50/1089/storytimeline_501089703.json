@@ -1,0 +1,313 @@
+{
+  "Title": "……你玩得開心嗎？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我跟高尚駿逸一起外出後，\n帶著她來到某個地方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "請問……這裡是……？",
+      "ChoiceDataList": [
+        "肉包博物館！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "上次一起出門時得知\n高尚駿逸喜歡肉包，我想這裡\n一定能讓她玩得很開心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "…………謝、謝謝你。\n我很……期待……",
+      "ChoiceDataList": [
+        "（看起來一點都不期待……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然有些令人擔心之處……\n但我還是跟她一起走進肉包博物館。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在這裡可以觀摩工廠、體驗製作肉包，\n還能暢玩各式各樣跟肉包有關的活動，\n是間極具獨特性的設施。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "咦，好厲害……\n巨型肉包擺飾耶……好大喔……",
+      "ChoiceDataList": [
+        "幫妳在這拍張照吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "不、不了，我不用了……\n我只想單獨拍肉包……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……呃，訓練員？\n咦……你、你想入鏡嗎？",
+      "ChoiceDataList": [
+        "Ya～！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……好、好棒的笑容……\n呃……我、我要拍了喔……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "接下來是親手做肉包體驗課程。\n高尚駿逸用難以言喻的表情看著自己做的肉包。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……嗯嗯嗯……\n真難包得好……",
+      "ChoiceDataList": [
+        "妳包得比我好！",
+        "妳包得比我好！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……才、才沒這回事。\n訓練員比我厲害太多了……",
+      "ChoiceDataList": [
+        "那做好後跟妳交換吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "咦……不、不用了……\n我、我吃我自己做的就好……",
+      "ChoiceDataList": [
+        "我想吃吃看駿逸做的肉包！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "…………\n……你、你真的願意吃我做的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……吃、吃起來怎麼樣？\n那個，要是不好吃可以再換回來──",
+      "ChoiceDataList": [
+        "非常好吃喔！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "…………咦？呃。\n真的嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……不過我覺得一定是\n你做的這個比較好吃……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "AR肉包體驗？\n……啊，好厲害……透過鏡頭看出去，\n訓練員變成肉包了……",
+      "ChoiceDataList": [
+        "「嗨！我是肉包！」",
+        "「嗨！我是肉包！」"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我踏著輕快的節奏，跳起不符合肉包風格的\n搞笑舞步，想逗她一笑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "咦，訓練員…………噗哈！\n等一下……你、你在做什麼……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "…………呵、呵呵。\n肉、肉包不會跳這麼輕快的舞步啦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "呼……\n應該……差不多都逛過一圈了吧？",
+      "ChoiceDataList": [
+        "這裡好有趣喔！",
+        "這裡好有趣喔！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "是、是啊……那個，\n跟我一起逛可能害你很難盡情享受……",
+      "ChoiceDataList": [
+        "才沒有，我玩得很開心喔！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "咦、咦咦……！？\n跟我一起逛……玩得很開心……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（……啊。不過，也對……\n訓練員的確一直都──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "…………噗。\n……呵、呵呵……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……對、對不起。\n我回想起你跳的肉包舞……",
+      "ChoiceDataList": [
+        "妳好像看得很開心，真是太好了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "～～～～～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……訓練員。\n那個……我……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "我不知道\n這時候該說什麼才好……",
+      "ChoiceDataList": [
+        "要再去逛逛還沒看過的地方嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我買好飲料回到館內的用餐區，\n看到高尚駿逸正在打瞌睡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……嘶呼……嘶呼……",
+      "ChoiceDataList": [
+        "（就這樣讓她睡一下吧）",
+        "該回去囉，駿逸"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "嘶呼……嘶呼……\n（嚼嚼……）",
+      "ChoiceDataList": [
+        "（……呃，她在啃袖子！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "或許她正在夢鄉中吃東西吧。\n我輕柔地把制服袖子從她口中拉出來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "嗯嗯……\n……嘶呼、嘶呼……",
+      "ChoiceDataList": [
+        "不知道她現在是不是比較習慣了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我凝視著睡得像個孩子的高尚駿逸，\n心裡這麼想道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……欸？\n…………啊！我、我……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "我、我們回去吧！\n對不起，我居然睡著了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "………………我玩得……很開心……",
+      "ChoiceDataList": [
+        "嗯？妳說什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "沒、沒事！\n沒什麼，什麼都沒有！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "真的……沒什麼啦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

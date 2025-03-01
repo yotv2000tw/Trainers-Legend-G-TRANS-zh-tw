@@ -1,0 +1,361 @@
+{
+  "Title": "自由的心．達利阿拉伯",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今天<chrname>不用訓練，\n當我正在思考要做什麼時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "想提升持久力，\n果然要靠肺活量──嗯？",
+      "ChoiceDataList": [
+        "妳們接下來要開始訓練嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "是啊，<username>訓練員。\n我接下來要陪小巧圓繭訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小巧圓繭"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "除了微苦糖漬以外，這位叫小巧圓繭的賽馬娘\n也是由樫本訓練員負責。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她克服了出道戰，拿下勝利，\n是位很有實力的選手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "雖說是接下來要開始──但以我對她的了解，\n她應該已經先開始訓練了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "機會難得，\n我請樫本訓練員讓我觀摩小巧圓繭的訓練後，\n與她一起前往訓練的場所。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小巧圓繭",
+      "Text": "呼……呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "話說，妳是小巧圓繭吧！\n妳在出道戰的表現非常精彩呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "我也這麼覺得──！不介意的話，\n要不要一起並行練跑？跟我們一起跑吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小巧圓繭",
+      "Text": "……恕我拒絕。\n我不喜歡配合別人的步調。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "哇～被拒絕了──！沒辦法，\n如果妳之後有意願，再跟我們一起跑吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小巧圓繭",
+      "Text": "嗯，等我有意願的時候。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "辛苦了，小巧圓繭。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小巧圓繭",
+      "Text": "樫本訓練員。\n今天也請多多指教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小巧圓繭",
+      "Text": "……請問那邊那位是誰？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "他是<username>訓練員。\n他今天想觀摩妳的訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小巧圓繭",
+      "Text": "觀摩？是喔……\n雖然我不曉得有什麼參考價值。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "那麼，趕緊開始吧。\n先以一圈三分鐘的步調，跑五圈沙地。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小巧圓繭",
+      "Text": "是，我出發了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "……我想讓她磨練一項武器。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "持久力──即使之後參加距離較長的比賽，\n也能夠進行長距離衝刺的武器。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "因為要跑長距離，我不想對她的腳造成負擔，\n所以訓練時會讓她多跑一點沙地。",
+      "ChoiceDataList": [
+        "原來如此……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "達利阿拉伯",
+      "Text": "嗨，小羊們！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "達利阿拉伯，\n請問怎麼了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "達利阿拉伯",
+      "Text": "沒什麼，只是覺得妳的眼光不錯。\n小巧圓繭的武器真是令人驚訝啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "達利阿拉伯",
+      "Text": "她的基礎能力也很高，\n所以乍看之下會讓人覺得應該重視速度。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "達利阿拉伯",
+      "Text": "但她真正厲害的是心臟和肺！\n必須好好磨練這項武器才行啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "達利阿拉伯",
+      "Text": "……但我想跟妳做個確認，\n小巧圓繭在各方面都對自己非常嚴格吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "是的，她甚至會在和我一起訓練前，\n就先獨自埋頭練跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "達利阿拉伯",
+      "Text": "果然啊。我就覺得奇怪，\n她明明是由樫本訓練員負責管理，\n為何會變成那樣，這樣就說得通了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "達利阿拉伯",
+      "Text": "小巧圓繭的身體，\n已經稍微失去平衡了喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "失去平衡……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "達利阿拉伯",
+      "Text": "她對自己太過嚴格，\n所以有點練跑過度，\n反而疏忽了對上半身的注意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "達利阿拉伯",
+      "Text": "既然如此，不如利用這段時間，\n讓她進行全身運動怎麼樣？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "達利阿拉伯",
+      "Text": "再來就是試著讓她多攝取一點熱量。\n稍微增加上半身的重量比較好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "達利阿拉伯",
+      "Text": "有時候只要稍微弄錯鍛鍊的方法，\n就會影響到持久力和爆發力啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "我本來以為讓她自己先練跑，\n也能夠當成暖身運動，\n沒想到這反而讓她稍微失去平衡……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "達利阿拉伯",
+      "Text": "每個賽馬娘綻放光芒的方式都不一樣。\n要好好珍惜她的個性啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "達利阿拉伯",
+      "Text": "哎呀！那孩子的個性也不錯呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "……她剛才傳授的知識，\n也是從眾多資料中挑選出的最佳解答吧。",
+      "ChoiceDataList": [
+        "真是可靠呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "的確……不過，對賽馬娘來說，\n最可靠的人必須是訓練員才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "我得參考她的建議，\n好好讓小巧圓繭成長才行呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "──只要照我剛才說明的方式，在不造成負擔的\n情況下鍛鍊全身的肌肉就沒問題了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小巧圓繭",
+      "Text": "我明白了。\n……那個，謝謝妳連自主訓練的事情都替我費心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "不，我一不小心只仰賴於妳的積極，\n我應該多方面留意妳的狀況才對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "不過，拜此之賜，\n我現在更清楚妳接下來該怎麼跑了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "一起磨練妳的武器吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小巧圓繭",
+      "Text": "好的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "那麼，\n先來說明一下我剛安排好的參賽計畫吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "首先要多參加幾場比賽，\n讓妳累積參賽經驗和鍛鍊身體。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "而後，明年要挑戰大舞台──\n特別是那些能讓妳的武器好好發揮的比賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小巧圓繭",
+      "Text": "明年的……大舞台……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樫本理子",
+      "Text": "一起邁向經典賽吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小巧圓繭",
+      "Text": "……唔！好的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "樫本訓練員與小巧圓繭，\n決定齊心協力磨練個性。\n達利阿拉伯也非常重視個性。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "聽了三人的對話，\n讓我覺得所謂的個性指的就是賽馬娘本身吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

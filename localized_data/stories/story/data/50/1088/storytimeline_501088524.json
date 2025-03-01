@@ -1,0 +1,396 @@
+{
+  "Title": "幕後．魔術",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某一天，\n當我跟里見皇冠一起做完訓練時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "文靜的賽馬娘",
+      "Text": "唉……今天反應還是好冷清。\n我們的魔術……究竟是哪裡不好？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "充滿活力的賽馬娘",
+      "Text": "明明都那麼認真準備表演了……\n是不是我們沒有才華啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "事態好像很嚴重呢……\n去問問發生了什麼事吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "那兩人似乎相當煩惱，\n里見皇冠一上前搭話，\n她們就滔滔不絕地開始傾訴了起來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "文靜的賽馬娘",
+      "Text": "我們非常喜歡魔術……\n所以就到街頭表演，\n但場面卻相當冷清……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "充滿活力的賽馬娘",
+      "Text": "上次表演的狀況也很慘。\n……請看，這是那時拍的影片。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "哎呀，魔術表演的手法都很完美啊！\n不過……的確沒什麼人停下腳步觀賞呢。",
+      "ChoiceDataList": [
+        "或許是因為宣傳不足？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "沒錯，需要多下點功夫招攬觀眾來看魔術。\n只要從籌備階段開始重新審視，一定能有所改善！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "充滿活力的賽馬娘",
+      "Text": "！！\n真的嗎！？\n該做些什麼準備才好！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "文靜的賽馬娘",
+      "Text": "拜託妳了……！\n我們想讓更多人看到我們的魔術！",
+      "ChoiceDataList": [
+        "皇冠，有辦法幫幫她們嗎？",
+        "皇冠，有辦法幫幫她們嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "交俾我啦！我會盡全力幫助妳們。\n訓練員，你也來幫忙！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "首先進行宣傳招攬人群。\n雖然老套，但來訂製傳單吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "魔術秀的場地在公園──\n所以設計成溫暖明亮的風格比較好！",
+      "ChoiceDataList": [
+        "傳單風格跟場地有關係嗎？",
+        "傳單風格跟場地有關係嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "當然有！用具有親和力的設計招攬\n到公園玩的家長與小孩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "同時也能根據客層決定表演項目，\n一舉兩得！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "接下來要打造舞台。\n若想強調演出效果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我問你，有沒有黑色布料？\n尺寸越大越好。",
+      "ChoiceDataList": [
+        "訓練員室裡有圖畫紙喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "啱晒，就用那個！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "嗯，感覺不錯！\n跟燈光配合起來的效果超越想像。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "充滿活力的賽馬娘",
+      "Text": "哦哦哦……看這樣子，\n一定能讓觀眾專心欣賞魔術！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "最好再做個立牌看板呢。\n用她們兩個的代表色來設計吧！",
+      "ChoiceDataList": [
+        "這些準備工作雖然不起眼卻很重要呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "沒錯。從針對觀眾客層、呈現方法做準備起，\n就已經是魔術的一環了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "文靜的賽馬娘",
+      "Text": "原來我們的準備方式還遠遠不足啊……\n得多多站在觀眾角度思考才行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我相信一定還有很多地方可以努力。\n我想想，比如說──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "充滿活力的賽馬娘",
+      "Text": "……啊，我想到一個好主意！\n能請妳擔任嘉賓上台演出嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "咦，這樣好嗎？\n這是妳們重要的表演耶。",
+      "ChoiceDataList": [
+        "妳要是登場一定能更加炒熱氣氛",
+        "妳要是登場一定能更加炒熱氣氛"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "哎呀。\n──聽你這麼一說，\n不就只能拿出全力了嗎！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "敬請期待。\n我會讓整個公園為之沸騰的！",
+      "ChoiceDataList": [
+        "期待看到充滿力量的魔術！",
+        "我想看看令人心跳的驚奇魔術",
+        "別焦急，慢慢想吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "聽起來很有趣呢！\n我會研發出完美的魔術的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "魔術秀當天。事前宣傳順利奏效，\n來了好多帶著小孩的家長。\n就快輪到里見皇冠登場了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "大家聽好，我擁有驚人的怪力喔！\n無論多重的東西我都拿得起來！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "比如說這個啞鈴！\n看，輕輕鬆鬆！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小朋友們",
+      "Text": "這根本不算什麼吧～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "是嗎是嗎！那～要是\n這位大姐姐也坐上來～～～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "充滿活力的賽馬娘",
+      "Text": "哇啊啊啊～～！？\n連我也一起被舉起來了──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小朋友們",
+      "Text": "喔喔喔喔喔喔────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "再更重也沒問題！\n再多追加一位大姐姐～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "里見皇冠的魔術令觀眾興奮不已，\n這場秀舉辦得非常成功！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "隔天起，\n里見皇冠便開始準備表演用的魔術──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "嗯～還不行。這樣還不能表演給別人看。\n還得再更加細調……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "充滿活力的賽馬娘",
+      "Text": "表演前得準備萬全才行呢！\n練習到自己能夠接受為止吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "謝謝！\n目標是調整到最佳狀態……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "里見皇冠等人決定專心籌備，\n暫時不舉辦魔術秀了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "聽起來不錯耶！\n我會好好想想該怎麼做。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "魔術秀當天。事前宣傳順利奏效，\n來了好多帶著小孩的家長。\n就快輪到里見皇冠登場了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "大家！\n其實我不是普普通通的賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "我可是個能夠自由控制地球的魔法師喔！\n證據就是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "看！蹺蹺板從地球上消失了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小朋友們",
+      "Text": "咦咦咦～～！？\n怎麼會？怎麼會～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "呵呵呵，接下來──\n把我變不見吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小朋友們",
+      "Text": "哇啊啊～～！？\n大姐姐消失了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "好啦，猜猜我在哪裡～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "里見皇冠的魔術令孩子們騷動不已，\n這場秀舉辦得非常成功！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "考慮到觀眾是小朋友，\n如何拿捏震撼度真是個難題啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "可以讓我慢慢研擬嗎？\n等我想到好點子後再登台！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "為了研究出新的魔術，\n里見皇冠決定專心埋頭籌備！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "這樣啊，說得也是。\n太焦急反而想不出好點子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "文靜的賽馬娘",
+      "Text": "我知道了。\n我們會靠自己加油的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "抱歉啊。\n但表演當天我一定會到場觀賞！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她決定慢慢研發魔術內容，\n這次就先放棄在秀上登台了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

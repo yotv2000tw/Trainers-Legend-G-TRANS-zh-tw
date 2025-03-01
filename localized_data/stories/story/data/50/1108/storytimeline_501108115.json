@@ -1,0 +1,604 @@
+{
+  "Title": "血統覺醒",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "「皋月賞」結束後，\n幫我們正為了下一個目標「日本打比」\n進行準備時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "關於「皋月賞」結束後提到的新訓練內容……\n我希望能增加模擬賽。",
+      "ChoiceDataList": [
+        "模擬賽……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "之所以會在比賽時失去冷靜，\n我認為經驗不足也是其中原因。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "所以我打算接觸更多貼近實戰的環境，\n來提升控制情緒時的精準度。",
+      "ChoiceDataList": [
+        "但考量到身體狀況的話……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "我明白你的顧慮。\n越是接近正式比賽的訓練，\n受傷的風險跟體能的消耗程度也會變高。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "可是……接下來要跑的可是打比啊。\n……我想完美地贏下比賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她的心意已決。然而現在最需要的……\n並不是累積經驗，而是拓展視野。\n會在比賽中失去冷靜是因為視野變得狹隘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但在「皋月賞」比賽中，她還是聽到了我的聲音。\n只要增強那種感覺──",
+      "ChoiceDataList": [
+        "（比如說能讓她跟世界有所「連接」的辦法……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "「連接」──\n這個關鍵字讓我想到一件事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "回想起來，\n之前好像聽某個賽馬娘說過樣的話。\n沒錯，那是在某一場「日本打比」結束後……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "「──我成功『連接』上了。\n『我』就在勝利的『軌道』上……」",
+      "ChoiceDataList": [
+        "（想起來了，是新宇宙！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "新宇宙。這位經典二冠賽馬娘\n在「日本打比」輕鬆獲勝的模樣令人印象深刻，\n是個不可思議的賽馬娘──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "新宇宙"
+      ]
+    },
+    {
+      "Name": "獨白",
+      "Text": "她或許能成為\n讓大鳴大放視野變得更寬廣的契機。",
+      "ChoiceDataList": [
+        "（……去見見她吧！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "「奇異點」。\n你……本不該出現在這的。",
+      "ChoiceDataList": [
+        "什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "這是「我這邊」的事。\n不過……這樣啊，原來會有轉變啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "肯定。\n新宇宙獲得了「靈感」──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大放＆宇宙",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（鏘……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "「辛苦了」，大鳴大放。\n該休息了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……宇宙。能向妳如此優秀的人\n學習新知真是太感激不盡了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "宇宙"
+      ]
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "不過……\n為什麼是「冥想」？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "為了「連接」啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "大鳴大放和新宇宙一起「piggyback」……\n有一點「SITL」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "所以，我可以明白。「TRGDY」……\n「妳」「也」很危險。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "為了迴避而「連接」。\n更加深入世界……邁向高次元。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……雖然表情上看不出來，\n但可以感覺到大鳴大放頭頂著大大的問號。\n簡單說，就是希望她能以更高的角度看待事物──",
+      "ChoiceDataList": [
+        "這是為了拓展妳視野的特訓"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……這樣啊。\n既然你這麼說……那就試試看吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "宇宙。\n──那就拜託妳了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是大鳴大放開始在\n自己的訓練空檔中，\n穿插進與新宇宙一起做「連接」特訓。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "「瀑布修行」……\n在嚴峻的環境中專注於「思考行為」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "大鳴大放。\n重點是去感受一切。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "疼痛、寒冷，都需要「解析」。\n去感受一切，並不斷地思考……",
+      "ChoiceDataList": [
+        "我會負責準備一些暖身體的東西！",
+        "我會負責準備一些暖身體的東西！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "好。\n……那我出發了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "──好、好冰……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "肯定。開始感受吧……\n………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "………………",
+      "ChoiceDataList": [
+        "火堆！毛毯！熱湯！溫泉～！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……真驚人。\n已經一個小時了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "──「連接」吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "世界一直都在。\n……只需要妳去「連接」，大鳴大放。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，為「日本打比」做準備的某天。\n當大鳴大放的身體狀態已經調整到接近完美時──",
+      "ChoiceDataList": [
+        "嗯，成績也完全沒問題！",
+        "嗯，成績也完全沒問題！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "這樣啊。\n……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "再來只要冥想也起作用……\n……距離打比已經沒多少時間了。",
+      "ChoiceDataList": [
+        "再試著放輕鬆一點吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "家族、「日本打比」、以及未來……\n甩開所有的雜念，只專注於感受世界。\n不用特地去想著自己還有目的須達成。",
+      "ChoiceDataList": [
+        "妳所在的世界是怎樣的感覺？",
+        "妳所在的世界是怎樣的感覺？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……我所在的世界。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "──呼……呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……嗯，我可以看得很清楚。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "（我所在的世界……是嗎？\n有風，人……也很多，天空非常遼闊。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "不是這樣嗎？\n真困難……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "啊。\n大角星……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "「α Boo」\n是牧夫座的α星……對吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……妳好。\n妳正在觀測星象嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "我是被……引導來的。\n為了…「通訊」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "嗯……？\n這樣啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "大角星很急，\n但大角星並不急。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "從某個視角來看是那樣。\n但從大角星的視角來看卻並不是那樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……抱歉，\n我聽不懂妳的意思。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "大鳴大放。\n妳覺得大角星是「孤獨」的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "新宇宙……無法理解。\n因為引導我來這裡的不是「他們」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "我只能「觀測」\n從大角星視角看到的新宇宙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "這是有可能的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "大鳴大放。\n「妳」會「起飛」去「哪裡」呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "從大角星視角所看到的大鳴大放。\n從大鳴大放視角所看到的大角星。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "這樣就……「連接」了。\n只要「妳」也開始「觀測」──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "大角星就……\n不再是「孤獨」的了？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "…………\n呼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "（站在大角星的視角去看……\n放鬆身體，「起飛」朝天上去……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "（……我聽見鳥叫聲。從遙遠的地方起飛……\n展開翅膀，悠然自得地──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "（另一邊傳來了小孩子的笑聲……在賽跑嗎？\n啊……其中一個人贏了，大家都很開心。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "──呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "（其他還有什麼？\n從什麼視角來看我的世界呢──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……唔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "剛才……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "「Con anima」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "──這就是「連接」。\n「嗨」……大鳴大放。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "大鳴大放把經歷到的事情告訴我……\n為了確認她所掌握到的感覺，\n我讓她和新宇宙進行了一場模擬賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "呼……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "（──我感覺得到宇宙的位置……\n呼吸……視線……以及她的所想。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "（風、草地、賽道的狀態。\n連自己的一切也感覺得清清楚楚……\n心跳以及每一條肌肉纖維的牽動──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "──我看得到該怎麼贏！\n……喝啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "「她已經不需要我幫忙了」……\n新宇宙微笑說完便離開了。\n──修行完成了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……真不可思議。\n就好像我突然清醒了一樣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "一直以來看不見的……聽不見的，\n現在都能看見、聽見了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "──是一種跟世界連接上的感覺。",
+      "ChoiceDataList": [
+        "跟世界……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "……我現在開始有點明白了。\n原來之前的我在害怕啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "因為當時什麼都看不見。\n所以覺得只要稍微慢下腳步就會被追過……\n是恐懼狹隘了我的視野。",
+      "ChoiceDataList": [
+        "所以妳才會執著於遠遠甩開對手"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "與世界連接，能夠俯瞰比賽後\n就會漸漸地不再恐懼。\n就可以跑出最符合當下情況的──最強的跑法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "但我……\n已經不再懼怕了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "「日本打比」……\n我的夢想，我憧憬已久的大舞台……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大鳴大放",
+      "Text": "我一定能看見──獲勝之路。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

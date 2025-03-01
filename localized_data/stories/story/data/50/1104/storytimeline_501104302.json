@@ -1,0 +1,599 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天，我和葛城榮主買完田地的肥料等等\n各種消耗品後，在回程時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "訓練員，\n找到抽獎會場了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，好玩的抽獎活動！\n歡迎大家來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "嘿嘿，剛才拿到的抽獎券……\n我會好好使用的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我問你喔，大叔！\n目前還沒有任何人抽到特獎吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "沒錯！\n還有機會喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "好耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "來拚一下吧，訓練員！\n目標當然是──",
+      "ChoiceDataList": [
+        "要抽中特獎！",
+        "要抽中特獎！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "沒錯！\n就由我來開闢道路！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "葛城榮主捲起袖子，\n轉動了抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "唔喔喔喔喔喔！！",
+      "ChoiceDataList": [
+        "太好啦！",
+        "太好了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "擊掌──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我做到啦！\n這就是王牌的實力！",
+      "ChoiceDataList": [
+        "得到了特別的獎勵呢",
+        "得到了特別的獎勵呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "獎勵……是啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "接下來，\n我還有該做的事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "等到全部都結束後\n再好好放鬆吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "在那之前可以請你幫我保管嗎？\n訓練員！",
+      "ChoiceDataList": [
+        "當然可以！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "……好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "那就去一趟澡堂再回去吧！",
+      "ChoiceDataList": [
+        "澡堂？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "雖然還不能領取獎勵，\n但總可以先享受一下中特獎的滋味吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我之前聽別人說過，\n這附近有間不錯的澡堂喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "去把汗水洗掉清爽一下，\n明天開始再繼續加油吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣，我們將溫泉留到未來，\n這一天先到澡堂好好地享受了一番。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "──訓練員！\n來喝咖啡牛奶吧──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "噗哈──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "喔～一獎！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "也就是說……\n就跟第一名一樣吧！？",
+      "ChoiceDataList": [
+        "就跟第一名一樣啊！",
+        "就跟第一名一樣呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "好耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "然後！抽中的獎品……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "看起來超好吃！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "居然是漢堡排，\n我很喜歡呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我媽媽做的\n漢堡排超級厚的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "因為要花很多時間才能做好……\n我和妹妹都會在廚房裡大鬧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "爸爸做漢堡排時則是\n會加入很多蔬菜！\n不管哪一種我都很喜歡呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "訓練員呢？\n有沒有什麼回憶啊？",
+      "ChoiceDataList": [
+        "嗯～這個嘛……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "……啊，這樣的話！\n今天一起創造新的回憶吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我們一起煎來吃，\n一定會成為快樂的回憶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "──嗯～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "超級美味！\n對吧，訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "當天晚上，我和葛城榮主一起\n邊聊天邊吃著漢堡排。\n那段時光……成為了我重要的回憶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "二獎啊～有點不甘心呢！\n不過……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "不妙啊！\n一整堆胡蘿蔔超棒的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "對吧？這些都是我們最自豪的胡蘿蔔喔！\n是在這附近採收的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "確實！每一根都很有光澤，\n顏色也很美……好棒的胡蘿蔔喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "喔，妳看得出來啊，小姑娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "當然！\n我老家可是農家呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我看得出來，這些都是在\n充滿愛情的環境下長大的高級品！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "喔喔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "好，既然妳都稱讚成這樣了，\n可不能就這樣讓妳回去啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "剛剛蔬果店分了我一些蔬菜，\n全都送給小姑娘吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "什麼！！\n沒關係啦，不用了──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "別客氣、別客氣！\n家鄉的的東西被大力稱讚，我真的很開心喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "我相信小姑娘的爸爸媽媽\n一定也會這麼做！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "可是……",
+      "ChoiceDataList": [
+        "……今晚要來開蔬菜派對了呢！",
+        "……今晚要來開蔬菜派對了呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "訓練員……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "好的！\n我會心懷感激地吃掉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "那麼，從右邊開始介紹！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "常見的炒青菜和小黃瓜的一夜漬！\n我還嘗試用甜椒做了泡菜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "青椒鑲肉當然也沒有缺席囉。\n還有冬瓜湯──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "當天晚上，我品嚐了葛城榮主\n大展身手準備的料理……\n享受了一場開心的蔬菜派對。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "三獎啊～～！",
+      "ChoiceDataList": [
+        "登上了告示板啊！",
+        "登上了告示板啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "是啊，說得也是！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "而且……還得到看起來很好吃的胡蘿蔔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "對了！我來告訴訓練員\n最美味的吃法吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "嘿，大叔！\n可以跟你借個火嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "──嗯～連我自己都覺得烤得不錯呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "訓練員也來，快點！\n咬一口試試！",
+      "ChoiceDataList": [
+        "直接咬實在是不太好吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "沒問題的，已經不燙了！\n快點，把嘴巴張開！",
+      "ChoiceDataList": [
+        "……看到榮主的表情我就覺得很美味了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "咦？\n當然要吃下去才會覺得美味吧。",
+      "ChoiceDataList": [
+        "說得太有道理了……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "……算了，沒關係！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "下次我會再烤胡蘿蔔的，\n到時候一定要讓你吃到！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "唔喔喔喔！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "真的假的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "難道說，\n我沒有王牌的資質嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "唉……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "葛城榮主充滿幹勁地迎接挑戰，\n卻因此變得過於消沉……\n",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

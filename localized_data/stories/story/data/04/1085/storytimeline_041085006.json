@@ -1,271 +1,271 @@
 {
-    "Title": "視線的前方",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "貴重的假日終於來了。\n我之前就計畫好要用一整天好好磨練一下自己的知性。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "如果我想要扶持總是努力鑽研自己的第一紅寶石，\n那我也必須好好磨練自己一番才行──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "當我在逛一間大型書店時，偶然遇見了第一紅寶石。\n我雙手提滿了剛才大量買下的各種領域的書籍。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "……原來如此，是為了向上嗎？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我本來以為她看到我買這麼多會感到傻眼，\nn但她絲毫沒有這種感覺。而且她似乎也有要找的書。",
-            "ChoiceDataList": [
-                "紅寶石是來找什麼的？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "今日是為了尋找目前舉辦中的美術展圖錄而來。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "展示中的展覽館現場已經全部賣完了……\nn……就是這本。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "第一紅寶石說完拿了一本十分厚重，\n上面印著畫像的照片及詳細解書的書給我看。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "在參觀展覽時，我一定會先尋找圖錄。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "因為可以迅速接觸到專家的意見，\n並且可以從這些充實的解說和補充中學習。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "我剛注意到訓練員也有購入美術史的相關書籍。我剛注意到訓練員也有購入美術史的相關書籍。\n要是有興趣的話，這類圖錄應該也能做為參考──",
-            "ChoiceDataList": [
-                "我買！！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "……我並沒有要您馬上在這裡買下的意圖。\n就我來看您剛才不是已經買下不少書籍了嗎？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我剛才確實這邊一本那邊一本拿了一大堆。再買下去花費會很不得了吧。\n再買下去花費會很不得了吧。但是，這都是為了學習……。",
-            "ChoiceDataList": [
-                "因為我想努力配得上妳。",
-                "因為我想努力配得上妳。"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "是這樣啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "……訓練員，您之後有什麼預定嗎？\n如果有時間的話，我想帶您去一個地方。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我坐上第一紅寶石的車後，抵達了一間美術館，\n那裡正舉辦著剛才買下的圖錄上紀載的展覽。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "今日的預定是鑑賞這裡舉辦的美術展。\n圖錄不過就是加深對作品理解的契機而已。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "有些事物必須看見實體才能學到。\n那我們就出發吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我在第一紅寶石的導覽下走進館內。\n她似乎是調查之後才來的，說明的過程沒有任何停頓。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "──今日展示於此的作品，\n全是出自於出身東北的同一位畫家之手。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "這位畫家的精隨在於寫實的筆觸及幽邃的表現，\n以深遠曼妙的過人之境獲得極高了評價。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "再來是那邊展出的──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "即便走出了美術館，我仍壓抑不這股興奮。\n在第一紅寶石的解說下，感覺增加了幾分鑑賞的深度。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "雖然每幅作品都花上了不少時間讓人有些疲憊，\n但更重要的是多虧有她才能度過這麼充實的一天。",
-            "ChoiceDataList": [
-                "我學到了很多哦！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "那真是太好了。",
-            "ChoiceDataList": [
-                "而且還有幸認識了妳喜歡的畫家",
-                "而且還有幸認識了妳喜歡的畫家"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "第一紅寶石平常總是遵循著以分為單位的行程生活。\n即便是這樣的她，仍會用閒暇之餘去接觸自己喜歡的東西。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "知道這點才是最令人高興的。我本來是這麼想的──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "不，他並不是我特別愛好的畫家。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "下次餐會上的主要嘉賓和今日這場展覽的作者是同鄉的關係，\n我才會前來鑑賞。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "目的是要當作歡談時的話題。\n因為對方也是位美術造詣甚高的人。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "話說回來，在鑑賞的過程中第一紅寶石很用心地一直作筆記。\n我才誤以為她是不是非常喜歡那位畫家──",
-            "ChoiceDataList": [
-                "為了一次的用餐，有必要做到這樣？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "我認為事前進行縝密的準備，即是表達敬意的最佳形式。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "而且，像這樣累積下來的經驗也會成為令我成長的食糧。\n每個鑽研的機會，我都想徹底活用。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "我決定是否行動的方針並非好惡，而是有必要或非必要。\n今天會前來這座美術館也只是因為我感覺有所「必要」。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "說完第一紅寶石正氣凜然地伸直了背。\n我才理解到這份高潔正是替她打造出人格的核心。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "話雖如此，但那個時候──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "那是我們站在某個星空的繪畫前發生的事。\n她不發一語，直盯著作品的視線令我覺得些罕見。。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "第一紅寶石",
-            "Text": "…………蠍火……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我感覺只有那幅畫，為她帶來了一族的責任以外的東西。\nn但是就算我現在問了她也不會承認吧──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "回家後。我在圖錄內尋找著第一紅寶石凝視的那幅畫。\n標題是「心宿二」──是天蠍座的心臟，夏天的星星。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "在每日不斷散發璀璨輝煌的群星之中，僅有一顆亮起紅光的孤高之星。\n我覺得……這顆星就宛如她一般。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "凝視的對象",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "寶貴的假日終於到來。\n我很久以前就做好打算，要用這一天精進自己。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "第一紅寶時時刻刻勤於自我提升，\n我想在旁輔佐她的話，也得好好磨練自己──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我來到一家大型書店，並在那裡巧遇第一紅寶。\n當時的我正提著一大堆剛買下的各種書籍。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……原來如此，你想藉此提升自己啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我還以為她看到我買這麼多會很傻眼，但她並未如此。\n看樣子，她似乎也是來買想要的書。",
+      "ChoiceDataList": [
+        "紅寶想買什麼書？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "我今天來此，是想購買目前正在舉辦的美術展的展覽圖錄。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "據說展覽現場的圖錄已販售一空……\n就是這本。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "第一紅寶這麼說道，並對我展示一本厚厚的書籍，\n裡頭刊登著畫作照片以及詳盡的解說。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "每次去看展，我都必定購買圖錄。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "透過圖錄能迅速讀到專家意見，\n書中還有豐富的說明與補充，非常有學習價值。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "有鑑於訓練員這次也買了美術史相關書籍，\n若對這方面有興趣，此類圖錄應該滿值得參考的──",
+      "ChoiceDataList": [
+        "我要買！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……我的意思並不是要你現在就買。\n而且，你似乎已經選購了不少書？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她說得對，今天我已經貪心地買了一大堆書，\n想必花費也非常可觀。但這都是為了學習精進……",
+      "ChoiceDataList": [
+        "因為我想努力變得配得上妳",
+        "因為我想努力變得配得上妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "這樣啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "……訓練員，你稍後還有其他行程嗎？\n若時間許可，我想帶你去一個地方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "第一紅寶讓我一起搭乘她家的車，來到一間美術館。\n這裡是她買的圖錄的展覽會場。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "今天我預定的行程是來觀賞這個美術展。\n圖錄不過是個開端，讓我深入理解作品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "有些事物要透過觀賞實品才能學得。\n我們進去參觀吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "第一紅寶帶著我在館內前進。她流暢地為我\n逐一講解作品，似乎是事先做了詳盡的功課。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "──今天的展示作品全都出自同一人之手，\n該作者的家鄉在東北。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "其作品精髓在於寫實的筆觸與玄妙的表現手法，\n深遠幽微的意境相當受到推崇。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "而那邊展示的作品則是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "直到走出美術館後，我仍然興奮不已。\n多虧第一紅寶的解說，我覺得自己有更深入地欣賞了畫作。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "費時欣賞一件件的作品固然累人，\n但整天下來可說是收穫滿滿，充實感遠勝過疲勞。",
+      "ChoiceDataList": [
+        "我學到了很多！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "這樣啊。",
+      "ChoiceDataList": [
+        "而且我很高興能認識妳喜歡的畫家",
+        "而且我很高興能認識妳喜歡的畫家"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "第一紅寶平時過著分秒必爭的繁忙生活。\n原來她也會利用空閒時間接觸興趣愛好啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "能得知這一點最令我開心不過。但就在我這樣想時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "不，我並非特別熱愛這位畫家。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "這場展覽的作者跟下次餐會來訪的主賓是同鄉，\n因此我才前來觀賞畫作。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "對方擁有深厚的美術素養，\n所以我希望能以此為話題和他暢談。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這麼一說，剛剛第一紅寶的確邊看展邊勤寫筆記。\n所以我才會以為她非常熱愛那位作者──",
+      "ChoiceDataList": [
+        "為了一次聚餐就做到這個地步？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "我認為事前做好萬全的準備，才是最高敬意的表現。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "再說，像這樣累積起來的素養也將化為自己的資產。\n我想充分利用每一次學習鑽研的機會。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "採取行動時的判斷準則在於必要與否，而非個人喜好。\n我今天來此觀展，只是因為感覺到「有必要」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "第一紅寶說著，堅定凜然地挺直背脊。\n我知道那崇高的品格就是塑造出她目前樣貌的核心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "即使如此，那時候──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我回想起欣賞到一幅星空畫的時候。那時她默不作聲，\n只顧筆直地凝視著那幅畫，令我感到有些難得。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "第一紅寶",
+      "Text": "…………蠍火……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我有種感覺，似乎唯獨那幅畫給了她家族職責以外的事物。\n但即使開口詢問她本人，想必也得不到肯定的回答吧──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "回家後，我翻開圖錄查詢第一紅寶凝視的那幅作品。\n畫作名稱為「心宿二」──也就是夏季星座，天蠍座的心臟。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "那是在白熒熒的星空中，唯一閃耀紅光的孤高星體。\n我不禁覺得……簡直就像她的化身。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

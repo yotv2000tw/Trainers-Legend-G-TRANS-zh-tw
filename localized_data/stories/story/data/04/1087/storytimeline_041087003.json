@@ -1,5 +1,5 @@
 {
-  "Title": "拿手的事情是，記住他人",
+  "Title": "擅長把發生過的事情牢記在腦海中",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,9 +9,9 @@
     },
     {
       "Name": "大和赤驥",
-      "Text": "啊，你是之前的訓練員！\n那個，你有沒有看見真弓？",
+      "Text": "啊，你是上次那位訓練員！\n請問你有看到真弓嗎？",
       "ChoiceDataList": [
-        "我沒看見……為什麼這麼問？"
+        "沒看到耶……怎麼了嗎？"
       ],
       "ColorTextInfoList": []
     },
@@ -23,31 +23,31 @@
     },
     {
       "Name": "大和赤驥",
-      "Text": "呼、哈啊、哈啊～。\n好，外圈跑完了！我們回操場去吧，真弓。",
+      "Text": "呼……呼……呼～\n好，跑完外圍了！真弓，我們回操場吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "…………。",
+      "Name": "奧斯頓真弓",
+      "Text": "…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大和赤驥",
-      "Text": "……真弓？怎麼了嗎，那隻白色的鴿子……\n不對，那孩子……！",
+      "Text": "……真弓？那隻白色鴿子怎麼了……\n咦，牠……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "……是這樣啊。\n輕飄飄先生已經去海上了呢。",
+      "Name": "奧斯頓真弓",
+      "Text": "……這樣啊。\n悠哉先生已經流向大海了啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "可以讓小真和他做最後的道別嗎？",
+      "Name": "奧斯頓真弓",
+      "Text": "可以讓我在最後向牠道別嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -59,89 +59,89 @@
     },
     {
       "Name": "大和赤驥",
-      "Text": "那隻鴿子過世了。我也不知道該怎麼處理才好，\n結果我稍微移開視線她就不知道跑哪裡去了……。",
+      "Text": "那隻鴿子過世了。我不知道該怎麼辦才好，\n結果我才稍微沒看著她，回過神來時她人就不見了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大和赤驥",
-      "Text": "她是個奇怪的孩子。平常就會四處亂晃不知道上哪去了。\n說不定她只是一個人跑去埋葬鴿子而已，但是──",
+      "Text": "她一直都有點特別。常常突然就不知道晃到哪裡去了。\n或許她是想獨自埋葬牠，但是──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大和赤驥",
-      "Text": "那孩子啊，感覺就像是會突然跑到我們\n伸手不及的某處去，所以我才會感到有些不安……。",
+      "Text": "那孩子給人一種──「彷彿總有一天會突然去到一個\n再也見不到她的地方」的感覺，所以我才會忍不住擔心……",
       "ChoiceDataList": [
-        "伸手不及的某處……？"
+        "去到再也見不到她的地方……？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "這幾天我和真弓快車聊過了幾次，\n但是她有給我過那種感覺嗎？",
+      "Text": "最近這幾天，我經常有機會與奧斯頓真弓說上話，\n但她有給人那種感覺嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "……總而言之，她一定受到很大的打擊。\n我也加入了搜索，負責去校外尋找。",
+      "Text": "……不管怎麼說，現在她一定深受打擊吧。\n我決定幫忙一起找人，負責到學校外四處搜索。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
+      "Name": "奧斯頓真弓",
       "Text": "……這樣就好了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "真弓快車出現在之前跟\n「輕飄飄先生」一起睡午覺的高架橋下。",
+      "Text": "奧斯頓真弓在她先前\n曾與「悠哉先生」一起睡午覺的高架橋下。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "站起身的真弓快車眼前有一座\n看起來才剛堆好的小土丘。",
+      "Text": "站起身來的奧斯頓真弓跟前，\n有一座大概是剛剛才堆成的小土丘。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "輕飄飄先生是白色的，是不是比較喜歡白色的花？\n還是紅色的？那邊也有黃色的喔。",
+      "Name": "奧斯頓真弓",
+      "Text": "悠哉先生的身體是白色的，牠應該也會喜歡白花吧？\n還是紅色比較好？那邊還有黃色的就是了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "要是當初有問喜歡什麼顏色就好了。\n小真失敗了。",
+      "Name": "奧斯頓真弓",
+      "Text": "早知道至少先問牠喜歡什麼顏色就好了呢。\n小真搞砸了。",
       "ChoiceDataList": [
-        "（比我想像中的還要……）"
+        "（她比我想像中還……）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "真弓快車比我想像中的還要冷靜。\n臉上沒有淚痕，用很平淡的語氣與墓碑對話。",
+      "Text": "奧斯頓真弓表現得很冷靜。她臉上不見哭過的跡象，\n只是淡淡地對著墓碑說話。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "不用擔心哦，影片和照片都有幫你拍下來了。\n小真是絕對不會忘記輕飄飄先生的。",
+      "Name": "奧斯頓真弓",
+      "Text": "放心吧，影片和照片都已經替你拍下來了。\n小真絕對不會忘記悠哉先生的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "因為小真是安心、安全、真弓快車。\n你確實還在我內心的空中翱翔著哦。",
+      "Name": "奧斯頓真弓",
+      "Text": "因為我是最值得放心信賴的奧斯頓真弓。\n你會好好地在我內心的天空中飛翔哦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "……姆。你是，那個時候的。",
+      "Name": "奧斯頓真弓",
+      "Text": "……嗯？你是那時那位……",
       "ChoiceDataList": [
         "……妳真堅強啊",
         "……妳真堅強呢"
@@ -149,154 +149,154 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "因為小真是馬娘，所以四肢比人類還要發達喔。",
+      "Name": "奧斯頓真弓",
+      "Text": "因為我是賽馬娘啊，身體比人類還要結實喔。",
       "ChoiceDataList": [
-        "不是，我不是指那方面……"
+        "呃，我不是那個意思……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我老實跟她說：身為“朋友”的輕飄飄先生已經和他的遺體\n一同消失在這世上了，所以我想說妳一定很難過。",
+      "Text": "「妳帶著『好朋友』悠哉先生的遺體消失了蹤影，我還以為妳會\n沉浸在悲傷之中呢。」我將我的想法誠實地告訴了她。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "原來如此，所以才說是『堅強』。\n確實大部分的人在失去的時候會感到難過。",
+      "Name": "奧斯頓真弓",
+      "Text": "原來如此，所以你覺得我很「堅強」啊。\n的確，大部分的人面對死亡時都會很悲傷。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "但是小真明白，生命是會流逝的東西，\n是醫院教了小真這件事。",
+      "Name": "奧斯頓真弓",
+      "Text": "但小真心裡明白，生命是流動的。\n這是我在醫院學到的。",
       "ChoiceDataList": [
         "……醫院？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "因為小真的媽媽是醫生，\n所以小真的公園就是醫院，醫院有很多生命流逝。",
+      "Name": "奧斯頓真弓",
+      "Text": "我媽媽是醫生，所以對小真來說，\n醫院就是公園，而醫院裡流動著生命。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "從上流游至下游，\n出生、流逝，一切終將流向大海。",
+      "Name": "奧斯頓真弓",
+      "Text": "從上游流向下游。從出生起就開始流逝，\n所有生命都注定流向大海。",
       "ChoiceDataList": [
         "……？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "沒有任何例外。不管是輕飄飄先生，還是你……或是我。\n都一定會流向大海。",
+      "Name": "奧斯頓真弓",
+      "Text": "沒有任何例外。不止悠哉先生，連你……還有我也是。\n總有一天一定會流向大海。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "要形容的話，那就像是呼吸時需要氧氣一樣，就像是伸手無法\n抓住雲朵一樣，又像是黃昏太陽就會下山一樣，是極為普通的事情。",
+      "Name": "奧斯頓真弓",
+      "Text": "舉例來說，就像呼吸需要空氣、雲朵無法用手抓住、\n傍晚時分太陽公公就會下山一樣，再自然不過了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "所以小真不覺得難過。",
+      "Name": "奧斯頓真弓",
+      "Text": "所以我不覺得悲傷。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "不知道她有沒有發現我已經不知道該說什麼比較好了，\n但她仍沒有一絲猶豫，默默地繼續說著。",
+      "Text": "我不確定她是否注意到我已然語塞。\n她絲毫不停頓，繼續淡淡地說著。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "真正令人難過的事情是被人遺忘，\n就是我或者是你，不小心忘了輕飄飄先生的事情。",
+      "Name": "奧斯頓真弓",
+      "Text": "真正悲傷的，是被遺忘──\n是我或你，將悠哉先生遺忘掉。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "所以最重要的是留下足跡。\n離開之後也不會消失的足跡。",
+      "Name": "奧斯頓真弓",
+      "Text": "所以最重要的是留下痕跡。\n即使不在了也不會消失的痕跡。",
       "ChoiceDataList": [
-        "（『不會消失的足跡』……）"
+        "（「不會消失的痕跡」……）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "──無意間，我突然想起之前真弓快車說過的話。",
+      "Text": "──我突然想起前幾天奧斯頓真弓說過的話。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "小真的夢想就是，成為吉祥物。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "……因為我的先入為主，導致我誤以為真弓快車想要\n被商品化的理由只是想要備受矚目的一環而已。",
+      "Name": "奧斯頓真弓",
+      "Text": "小真的夢想是成為吉祥物。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "但是，從她這個樣子來看明顯有不一樣的理由，\n而且那個理由是個極為單純、低調、又令人悲痛的……──",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "真弓快車",
-      "Text": "……你怎麼了嗎？\n你變成石頭了嗎？",
+      "Text": "……之前我擅自認定，奧斯頓真弓之所以想發售周邊商品，\n一定是出自於想受矚目、想受到眾人喜愛等原因。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我突然，無法克制這份想要理解她真正想法的心情。",
+      "Text": "然而看到她現在這樣子，讓我深信是我誤會了她。\n存在於此的答案是那麼地單純、不為人知又深刻──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "……你怎麼了？\n你變成石頭了嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我突然極度地想探明她內心真正的想法。",
       "ChoiceDataList": [
-        "你",
-        "妳"
+        "妳──",
+        "妳──"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "是。",
+      "Name": "奧斯頓真弓",
+      "Text": "嗯？",
       "ChoiceDataList": [
-        "為什麼想要被商品化",
-        "為什麼想要被商品化"
+        "為什麼想發售自己的周邊商品呢？",
+        "為什麼想發售自己的周邊商品呢？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "…………。",
+      "Name": "奧斯頓真弓",
+      "Text": "…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "小真呢。",
+      "Name": "奧斯頓真弓",
+      "Text": "小真我啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "真弓快車",
-      "Text": "小真明天會參加項目別競技大賽大展身手的，\n請你一定要來看。",
+      "Name": "奧斯頓真弓",
+      "Text": "小真我明天會在多項目競技大會上大展身手，\n請你要來看哦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "──在那之後，我和她2個人一起尋找拿來供奉的花朵。\n但是，到最後她仍沒有用言語給我明確的答案。",
+      "Text": "──之後我們一起蒐集了供在墓前的花朵。\n而那天直到最後，她都沒有將答案訴諸話語。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

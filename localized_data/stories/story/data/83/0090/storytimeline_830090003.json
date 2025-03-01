@@ -1,5 +1,5 @@
 {
-  "Title": "引領人們的熱情",
+  "Title": "熱情引領著人們",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,13 +9,13 @@
     },
     {
       "Name": "獨白",
-      "Text": "來觀摩舞蹈練習時，\n我被天狼星象徵硬拉著\n做了雙人舞蹈特訓！",
+      "Text": "我來觀摩舞蹈練習時，\n被天狼星象徵拉去加入了\n雙人舞的特訓！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星象徵",
-      "Text": "哈，像樣一點了吧？\n雖然轉圈時的步伐還是像隻小鹿。",
+      "Text": "哈，算是像樣一點了吧。\n雖然轉圈時的步伐還是像隻小鹿。",
       "ChoiceDataList": [
         "是、是嗎……",
         "是、是嗎……"
@@ -24,7 +24,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "雖然評價有點狠，但我自知跳得不好，\n所以無法反駁。光是有安慰幾句\n就很溫柔了吧？當我這麼想時──",
+      "Text": "這評價很不客氣，但我自己也很清楚，\n所以無法反駁。不如說，她光是有說好話，\n就算很溫柔了吧。當我這麼想時──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -46,7 +46,7 @@
     },
     {
       "Name": "天狼星象徵",
-      "Text": "……特地找我的舞伴是什麼意思？",
+      "Text": "……特地來找我的舞伴，是什麼意思？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -58,21 +58,21 @@
     },
     {
       "Name": "天狼星象徵",
-      "Text": "哈！……是嗎？\n看來「皇帝」大人很閒？",
+      "Text": "哈！……是嗎？\n看來「皇帝」陛下很閒對吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星象徵",
-      "Text": "喂，你這傢伙！",
+      "Text": "喂，你啊！",
       "ChoiceDataList": [
-        "怎、怎麼了！？"
+        "是、是！？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星象徵",
-      "Text": "選我，我來領舞。",
+      "Text": "選我。我來領舞。",
       "ChoiceDataList": [
         "咦、咦咦咦……！？"
       ],
@@ -80,7 +80,7 @@
     },
     {
       "Name": "魯道夫象徵",
-      "Text": "準備開始吧。這隻手，\n正是為了此刻牽住你而存在的。",
+      "Text": "好了，我們開始吧。\n我的這隻手，此刻是為了牽起你而存在。",
       "ChoiceDataList": [
         "咦咦咦咦……！？"
       ],
@@ -94,19 +94,19 @@
     },
     {
       "Name": "",
-      "Text": "音樂開始播放，兩位完美地領舞。\n周圍觀摩的學生們\n發出熱烈的歡呼。",
+      "Text": "音樂開始播放，兩個人都完美地領舞。\n在周圍觀摩的學生們發出熱烈的歡呼。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "天狼星象徵的領舞方式\n雖然有些強硬，\n但絕不會不顧舞伴的感受。",
+      "Text": "天狼星象徵的領舞方式有點強硬，\n但絕不會讓舞伴跟隨不上。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "她的舞蹈就像炙熱的火焰，\n把人帶進自己的步調。",
+      "Text": "她的舞蹈如同火焰一般，\n將舞伴帶進自己的步調。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -118,37 +118,37 @@
     },
     {
       "Name": "",
-      "Text": "相較之下，魯道夫象徵\n則是依舞伴的步調起舞，\n展現出優雅高尚的舞姿。",
+      "Text": "相較之下，魯道夫象徵\n則是為舞伴的舉手投足增添光彩，\n展現出既優雅又有氣質的舞姿。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "她的舞蹈就像一股清流，\n讓人想將自己交付在安穩的步調中。",
+      "Text": "她的舞蹈就像一股清流，\n讓人想委身在她安穩的舞步中。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "魯道夫象徵",
-      "Text": "你很在意周遭的視線嗎？\n但現在你是我的舞伴。\n不可以東張西望。",
+      "Text": "你很在意周遭的視線嗎？\n不過，你現在是我的舞伴，\n不可以東張西望。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星象徵",
-      "Text": "不要連跳舞都這麼溫吞。",
+      "Text": "不要給我連跳舞都溫溫吞吞的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "魯道夫象徵",
-      "Text": "妳不妨多注意歌曲，\n不是只有激昂這種表現方式。",
+      "Text": "妳要不要仔細聽聽曲子？\n舞蹈不是只能用激昂的程度來表現。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "兩人一邊盯著我，一邊唇槍舌戰。\n儘管言詞犀利，但現場的氣氛──",
+      "Text": "兩人一邊盯著我，一邊唇槍舌戰。\n儘管她們的言詞犀利，但現場的氣氛──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -160,13 +160,13 @@
     },
     {
       "Name": "賽馬娘C",
-      "Text": "下一個換我！請跟我跳舞～！",
+      "Text": "下一個換我！也請跟我跳舞～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "現場氣氛籠罩在名為興奮的熱情之中。",
+      "Text": "現場籠罩在名為興奮的熱情之中。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -180,13 +180,13 @@
     },
     {
       "Name": "賽馬娘B",
-      "Text": "我都看入迷了……\n我也想要像那樣跳舞。\n多上幾堂課就能做到嗎！？",
+      "Text": "我都看入迷了……\n我也想要像那樣跳舞。\n更加練習的話，是不是就能做到啊！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "賽馬娘A",
-      "Text": "嗯嗯，我也想！\n行雲流水地領舞，\n真的帥翻了。",
+      "Text": "嗯嗯，我也想！\n那麼流暢地領舞，\n真的帥翻了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -198,43 +198,43 @@
     },
     {
       "Name": "魯道夫象徵",
-      "Text": "……這樣啊。那真是太好了。",
+      "Text": "……是嗎？那真是太好了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "魯道夫象徵",
-      "Text": "（互相較勁所產生的火花嗎……）",
+      "Text": "（互相較勁所產生的熱情嗎……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "魯道夫象徵",
-      "Text": "（也對。即使針鋒相對，\n也不會停下腳步。\n我們仍然不斷試圖向前邁進。）",
+      "Text": "（也對。即使針鋒相對，\n也不代表就此停下腳步。\n我們仍然不斷試圖向前邁進。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "魯道夫象徵",
-      "Text": "（進而產生吸引人們的熱情，\n或許還能使人們邁向百尺竿頭──\n邁向更遙遠的境界也說不定。）",
+      "Text": "（然後，還會產生具有吸引力的熱情，\n促使人們邁向百尺竿頭──\n甚至是更遙遠的境界也說不定。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "魯道夫象徵",
-      "Text": "（即使彼此的道路不會相交，\n目標也不相同，\n但這份熱情一定會──）",
+      "Text": "（即使彼此的道路沒有交集，\n目標也不相同，\n但這份熱情一定會──）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "魯道夫象徵",
-      "Text": "（……為許多人指引新的可能性。）",
+      "Text": "（……為許多人指引出可能性。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "天狼星象徵",
-      "Text": "兩人都很厲害？\n……你真沒眼光。\n過來，我再教你一次。",
+      "Text": "我們兩個都很厲害？\n……你真沒眼光。\n過來，我再教你一次。",
       "ChoiceDataList": [
         "咦？"
       ],
@@ -242,19 +242,19 @@
     },
     {
       "Name": "魯道夫象徵",
-      "Text": "……呵，沒錯。\n我也要讓你深刻體會到，\n引領無數人的這份熱情。",
+      "Text": "……呵，沒錯。\n我就讓你也好好體會，\n這份能引領無數人的熱情吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "在我面前的兩人怒目相視，\n背後則是羨慕著我的一群賽馬娘。",
+      "Text": "在我的面前是散發著火花的兩人，\n背後則是一群滿臉羨慕的賽馬娘。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我腦中不禁浮現了\n「四面楚歌」這個詞……",
+      "Text": "我的腦中不禁浮現\n「四面楚歌」這個詞……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

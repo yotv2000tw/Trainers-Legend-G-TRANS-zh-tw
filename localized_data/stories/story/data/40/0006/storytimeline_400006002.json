@@ -1,0 +1,397 @@
+{
+  "Title": "教學",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "辛苦了。\n我將針對有需求的訓練員提供關於\n「L'Arc計畫」的詳細說明──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "<username>，\n請問需要聽說明嗎？",
+      "ChoiceDataList": [
+        "聽說明",
+        "不聽說明"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "好的，請問你想聽哪項說明呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "想了解關於「L'Arc計畫」的\n哪些培育事項呢──",
+      "ChoiceDataList": [
+        "關於培育目標",
+        "關於SS對決",
+        "關於國外資質",
+        "關於國外遠征",
+        "已經沒問題了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "你想了解「培育目標」啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "這次的培育沒有針對每位賽馬娘\n設定目標競賽，請你以稱霸「凱旋門賞」\n為目標培育賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "沒有針對每位賽馬娘",
+        "設定目標競賽"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "「凱旋門賞」\n是在經典級和資深級的十月前半，\n於巴黎隆尚賽場舉辦的世界最高峰競賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "經典級",
+        "資深級",
+        "巴黎隆尚賽場"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "和「L'Arc計畫」的成員\n一起持續進行訓練，\n贏得世界第一的榮譽吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "……話雖如此，\n「凱旋門賞」是一道險峻的高牆。\n想實現獲得優勝的目標應該會極為困難。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "因此，先獲得有許多粉絲\n支持培育賽馬娘的證明──\n「贊助者Pt」吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "贊助者Pt"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "只要在和L'Arc成員一同參加的「SS對決」，\n或是GⅢ以上的競賽中上榜，\n就能獲得贊助者Pt。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "GⅢ",
+        "SS對決"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "另外，只要累積贊助者Pt……\n粉絲的「期待度」就會上昇，\n訓練效果也會提升！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "期待度"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "有些培育目標的\n目的是獲得贊助者Pt，\n所以請積極地收集Pt吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "除此之外，我們會在仿照隆尚打造的VR空間內，\n舉辦「L'Arc代表交流賽」和國外賽馬娘競爭，\n以作為挑戰「凱旋門賞」的祕密對策。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "在培育過程中，總共會舉辦四場代表交流賽，\n今年年底很快就要舉辦第一場比賽了。\n好好準備過後再去挑戰吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "在培育過程中，總共會舉辦四場代表交流賽"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "以上就是「培育目標」的說明。\n還想聽聽其他說明嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "你想了解「SS對決」啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "每位L'Arc成員都有各自的\n「巨星量條」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "巨星量條"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "只要和成員一起訓練，或是在成員\n有參加的比賽中獲勝，就會累積巨星量條……\n友情訓練能累積特別多量條♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "友情訓練能累積特別多量條♪"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "如此一來，當巨星量條累積至全滿後……\n最後就會獲得舉辦「StarS對決」──\n通稱SS對決的機會！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "SS對決，是要向包含採訪媒體在內的\n許多觀眾，展現出L'Arc成員之間\n如何互相競爭、成長的特別競賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "SS對決會被視為訓練的一環，\n追加至訓練的指令中。\n一次最多能讓五人參賽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "使用一回合舉辦SS對決，\n除了能提升基礎能力和技能Pt的上升量，\n贊助者Pt也會跟著提升！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "順帶一提，\n在各成員的巨星量條上方的圖示，\n會顯示出在SS對決中較容易提升的基礎能力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "較容易提升的基礎能力"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "此外，每位參加SS對決的成員，\n都能獲得特別的勝利加成！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "有時也能透過勝利加成\n獲得技能的靈感Lv或狀態，\n所以請一併關注參加競賽的成員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "獲得技能的靈感Lv",
+        "或狀態"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "另外，在參賽者達到五人上限時，\n有極低機率會發生「特別StarS對決」──\n通稱「SSS對決」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "特別StarS對決",
+        "SSS對決"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "SSS對決\n是能讓專任賽馬娘進一步成長的機會，\n請務必嘗試舉辦看看♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "此外，SSS對決的發生與否，\n從一開始湊齊五名成員時就會確定，\n結果不會隨著回合經過改變，還請留意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "從一開始湊齊五名成員時就會確定，",
+        "結果不會隨著回合經過改變，還請留意。"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "另外，在國外遠征時，\n如果沒能邀請到許多記者前來採訪……\n就會無法舉辦SS對決，還請留意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "無法舉辦",
+        "SS對決"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "以上就是「SS對決」的說明。\n還想聽聽其他說明嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "你想了解「國外資質」啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "國外資質"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "特雷森學園的賽馬娘們，\n在陌生的環境參加國外競賽時，\n會無法發揮原本的能力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "參加國外競賽時，",
+        "會無法發揮原本的實力。"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "符合此情境的競賽為\n「L'Arc代表交流賽」、「尼爾賞」、\n「福伊賞」……以及「凱旋門賞」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "L'Arc代表交流賽",
+        "尼爾賞",
+        "福伊賞",
+        "凱旋門賞"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "因此！為了克服賽馬娘面臨的「課題」，\n努力在SS對決或競賽中獲勝，\n獲得「國外資質」吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "課題"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "取得國外資質後，\n就能使用資質Pt提升資質Lv，\n藉此克服課題。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "使用資質Pt提升資質Lv，",
+        "藉此克服課題。"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "可以在國外資質的畫面中，\n確認取得條件和能夠克服的課題，\n請務必記得查看喔♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "此外，僅限於培育過程的競賽中，\n有些資質能夠發揮出\n提升草地資質或中距離資質的效果！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "僅限於培育過程的競賽中",
+        "提升草地資質或中距離資質"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "所以，\n即使是不擅長中距離或草地的賽馬娘，\n也很有可能在「凱旋門賞」中大顯身手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "不擅長中距離或草地的賽馬娘",
+        "在「凱旋門賞」中大顯身手"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "取得國外資質後，\n就積極地提升等級吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "以上就是「國外資質」的說明。\n還想聽聽其他說明嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "你想了解「國外遠征」啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "國外遠征"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "在經典級及資深級的七月前半到十月前半，\n這段期間會進行國外遠征。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "經典級",
+        "資深級",
+        "七月前半到十月前半"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "除了會在法國當地進行特別訓練之外，\n九月前半也能參加作為前哨戰的\n「尼爾賞」和「福伊賞」喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "尼爾賞",
+        "福伊賞"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "在遠征中能獲得許多資質Pt，\n提升國外資質的等級，\n為十月前半的「凱旋門賞」做好準備吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "在遠征中能獲得許多資質Pt"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "以上就是「國外遠征」的說明。\n還想聽聽其他說明嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "真的不用了嗎？",
+      "ChoiceDataList": [
+        "是",
+        "否"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "我知道了♪保險起見在此提醒，\n可以由此查看簡單統整過的介紹。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "點擊左上方的「i圖示」，\n即可隨時複習剛剛的說明。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "i圖示"
+      ]
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "接下來就請努力挑戰吧。\n我會在背後聲援你的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川手綱",
+      "Text": "我知道了，那就請努力挑戰吧！\n我會在背後聲援你的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

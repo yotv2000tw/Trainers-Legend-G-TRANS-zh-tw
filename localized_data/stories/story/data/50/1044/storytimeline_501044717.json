@@ -21,31 +21,37 @@
     },
     {
       "Name": "東商變革",
-      "Text": "使魔！下一堂課是召喚術♪快點走了！",
+      "Text": "來吧，使魔！\n下一堂課是召喚術的課喔♪我們不趕快去不行！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "東商變革",
-      "Text": "……咦，使魔？\n你怎麼不回答……？",
+      "Text": "……哎呀，使魔？\n你的回答呢……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "東商變革",
-      "Text": "這、這是怎麼回事！？\n有好多使魔──！！",
+      "Text": "這、這是怎麼回事！？\n有好多使魔──！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "使魔A（？）",
-      "Text": "「變革，妳今天也很努力，真了不起！\n我會為妳準備很棒的獎勵！」",
+      "Name": "使魔（？）A",
+      "Text": "「變革，妳今天也很努力，真了不起呢！\n我會為妳準備很棒的獎勵喔！」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "使魔A（？）",
-      "Text": "「變革，妳今天也很努力，真了不起！\n我會為妳準備很棒的獎勵！」",
+      "Name": "使魔（？）A",
+      "Text": "「變革，妳今天也很努力，真了不起呢！\n我會為妳準備很棒的獎勵！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "使魔（？）B",
+      "Text": "「變革，別被騙！\n訓練時不能這樣縱容自己！」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -56,20 +62,14 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "使魔（？）B",
-      "Text": "「變革，別被騙了！\n訓練時不能這樣縱容自己！」",
+      "Name": "使魔（？）們",
+      "Text": "「比起上魔法課，還是去訓練！」\n「今天感覺也會出現什麼靈感呢！」\n「變革，好厲害，妳是天才。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "使魔們（？）",
-      "Text": "「比起上魔法課，還是去訓練吧！」\n「今天感覺也會靈光一閃！」\n「變革，好厲害，妳是天才。」",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "使魔們（？）",
-      "Text": "「比起上魔法課，還是去訓練吧！」\n「今天感覺也會靈光一閃！」\n「變革，好厲害，天才。」",
+      "Name": "使魔（？）們",
+      "Text": "「比起上魔法課，還是去訓練！」\n「今天感覺也會出現什麼靈感呢！」\n「變革，好厲害，妳是天才。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -80,7 +80,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "使魔A（？）",
+      "Name": "使魔（？）A",
       "Text": "「我就是本人！來，獎勵是──」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -93,19 +93,19 @@
     },
     {
       "Name": "東商變革",
-      "Text": "他可是我的使魔喔！別小看我！\n我還不至於把他和你們這些小角色搞混！！",
+      "Text": "他可是我的使魔喔！？別小看我！\n我還不至於把他和你們這些小角色搞混！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "東商變革",
-      "Text": "首先是你！你哪裡像他！？\n使魔才不會這麼寵我！",
+      "Text": "首先是你！你哪裡像他了！\n使魔才不會這麼寵我！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "使魔A（？）",
-      "Text": "「咿呀──！！」",
+      "Name": "使魔（？）A",
+      "Text": "「哇啊──！！」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -116,8 +116,8 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "使魔們（？）",
-      "Text": "「被發現了！？」\n「唔……糟了！」\n「魔女的，魔法，好厲害。」",
+      "Name": "使魔（？）們",
+      "Text": "「被發現了！？」\n「唔……糟了！」\n「魔女，魔法，好厲害。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -142,7 +142,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "使魔們（？）",
+      "Name": "使魔（？）們",
       "Text": "「不愧是變革！」\n「比起這個，快點訓練吧！」\n「妳，好厲害，天才。」",
       "ChoiceDataList": [],
       "ColorTextInfoList": []

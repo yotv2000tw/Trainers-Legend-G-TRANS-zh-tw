@@ -89,7 +89,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -125,7 +125,7 @@
       "Name": "西野花",
       "Text": "溫泉旅行啊……\n感覺好像大人會做的事呢。",
       "ChoiceDataList": [
-        "跟家長一起去可能比較好"
+        "跟家長一起去可能比較好呢"
       ],
       "ColorTextInfoList": []
     },
@@ -143,7 +143,7 @@
     },
     {
       "Name": "西野花",
-      "Text": "請問！旅遊券招待的這個溫泉，\n我們可以四人成行嗎？",
+      "Text": "請問！旅遊券招待的這個溫泉，\n四個人一起去也可以嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -188,7 +188,7 @@
     },
     {
       "Name": "商店街人員",
-      "Text": "嗯，當然了，這溫泉可是絕讚的祕湯，\n我們店裡有人對溫泉很講究，\n連他都讚不絕口呢！",
+      "Text": "嗯，當然了。\n這溫泉可是連我們店裡對溫泉很講究的傢伙，\n都讚不絕口的祕湯呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -252,7 +252,7 @@
     },
     {
       "Name": "",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -274,7 +274,7 @@
     },
     {
       "Name": "西野花",
-      "Text": "是的，在我們家，\n只要我考出好成績，或是跑贏比賽時，\n那天媽媽都會做漢堡排來嘉獎我。",
+      "Text": "是啊。因為在我們家，\n只要我考出好成績，或是跑贏比賽時，\n那天媽媽都會做漢堡排來嘉獎我。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -289,7 +289,7 @@
     },
     {
       "Name": "西野花",
-      "Text": "是的！\n訓練員你覺得呢？",
+      "Text": "是的！\n訓練員你呢？",
       "ChoiceDataList": [
         "嗯～該怎麼說呢……"
       ],
@@ -297,7 +297,7 @@
     },
     {
       "Name": "",
-      "Text": "以前在特別的日子好像吃過漢堡排，\n又好像沒這回事……看來我平日生活\n太過忙碌，記憶也變得薄弱了。",
+      "Text": "以前好像有在特別的日子吃過漢堡排，\n但又好像沒這回事……看來在日復一日的忙碌中，\n記憶也變得模糊了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -323,7 +323,7 @@
     },
     {
       "Name": "西野花",
-      "Text": "然後呢，今天起，\n每次發生什麼好事，我就要煎很多漢堡排！",
+      "Text": "然後從今天起，\n每當發生什麼好事，我就要煎很多漢堡排！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -335,7 +335,7 @@
     },
     {
       "Name": "西野花",
-      "Text": "我來替你創造特別溫暖的回憶。\n之後我們還要一起留下各種回憶喔♪",
+      "Text": "我來替你創造特別溫暖的回憶。\n之後我們要一起留下各種回憶喔♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -347,7 +347,7 @@
     },
     {
       "Name": "",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -361,7 +361,7 @@
     },
     {
       "Name": "西野花",
-      "Text": "每根胡蘿蔔都很筆直，\n鬚根也分布得很平均。\n味道應該也會很甜喔♪",
+      "Text": "每根胡蘿蔔都很筆直，\n鬚根也分布得很平均。\n味道應該也會很甜呢♪",
       "ChoiceDataList": [
         "妳真會挑蔬菜啊",
         "妳真會挑蔬菜呢"
@@ -408,7 +408,7 @@
     },
     {
       "Name": "西野花",
-      "Text": "──啊，爸爸，媽媽！\n看到我了嗎……？",
+      "Text": "──啊，爸爸、媽媽！\n看到我了嗎……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -432,7 +432,7 @@
     },
     {
       "Name": "",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"
@@ -446,13 +446,13 @@
     },
     {
       "Name": "商店街人員",
-      "Text": "沒讓妳抽到好東西真不好意思。\n妳是不是很失望啊？",
+      "Text": "沒讓妳抽到好東西真不好意思。\n妳有沒有很失望啊？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "西野花",
-      "Text": "別這麼說，沒關係的！\n你看，這根胡蘿蔔看起來這麼好吃！",
+      "Text": "不會的，沒關係的！\n因為你看，這根胡蘿蔔看起來這麼好吃！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -488,7 +488,7 @@
     },
     {
       "Name": "",
-      "Text": "獲得了「<itemname>」",
+      "Text": "獲得了「<itemname>」。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "<itemname>"

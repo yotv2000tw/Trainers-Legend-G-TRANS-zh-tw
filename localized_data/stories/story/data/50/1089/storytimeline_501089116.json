@@ -1,0 +1,591 @@
+{
+  "Title": "朝「約定」邁進的夏天",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "八月。夏季集訓也即將進入關鍵時期，不過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "今天我跟高尚駿逸一起來到機場。\n……目的是為了替即將啟程\n前往澳洲的光耀讚頌送行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……那麼……\n路上小心，光耀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "光耀讚頌",
+      "Text": "嗯。\n……我們約好囉，小駿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "光耀讚頌",
+      "Text": "我們都要變得更強，一定要……\n一起參加「日本盃」喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她將與一同奮鬥至今的兒時玩伴暫時別離。\n我想現在該讓她們兩人獨處，\n便離開了現場。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……讓、讓你久等了，對不起。",
+      "ChoiceDataList": [
+        "好好替她送行了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "是的……我送她離開了，都沒哭出來。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……呃，這、這也是理所當然。\n畢竟接下來辛苦的是光耀才對，\n我怎麼有資格哭──",
+      "ChoiceDataList": [
+        "覺得寂寞的話哭出來也沒關係啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……不，我沒事。\n因為……我們約好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "所、所以……要是有時間哭\n還不如好好鍛鍊，才不會輸給她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "因為下次再見到光耀時……\n我可不想表現得太丟臉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……好。\n呃──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（「日本盃」……\n該事先注意的競爭對手有──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（有、有好幾個人選。\n畢竟跟我一比，每個人看起來都很強……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（呃，先別這麼想！\n……其中最該警戒的對手，\n首先……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（……果然還是這兩位。\n北部跟皇冠。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（北部今天也……進行著嚴苛鍛鍊。\n「天皇賞（春）」時我就這麼覺得了，\n她的持久力真的宛如怪物。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（再加上……她真的真的非常努力。\n夏季集訓相當嚴峻，\n很多人都忍不住在集訓期間要求多休息──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（但北部卻一臉沒事的樣子。\n看來她的身體一定……從根本上就強壯過人。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（埋頭鍛鍊、將鍛鍊量都化為實力的北部……\n將會是我的對手。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（接下來……果然還是皇冠。\n她令人莫名感到……深不可測。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（我從來不曾看過\n皇冠露出放棄希望的表情，\n無論境遇再不利、被逼得再緊都一樣。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（那雙銳利的眼睛……隨時都在尋找機會。\n尋找能宛如變魔術一樣徹底顛覆戰況，\n震撼地贏得勝利的……大好良機。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（身為里見家千金，同時也計畫著進軍世界。\n我得與這樣的她……正面對決。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（啊……對了。\n參賽「日本盃」的還有──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "Bri……llante……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萬籟爭鳴",
+      "Text": "啊啊，妳的努力、妳的態度……\n真是太耀眼了，駿逸！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萬籟爭鳴",
+      "Text": "不過呢，可愛的貝雷帽小姐，\n熬夜過度對身體不好喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "萬籟爭鳴",
+      "Text": "睡不著的話歡迎來到我的被窩？\n我會讓妳沉浸在能夠融化身心的搖籃曲中──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "啊，不、不了……我沒事。\n我很好……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（……萬籟爭鳴。\n她也會參賽「日本盃」。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "萬籟爭鳴"
+      ]
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（她目前的戰績相當特別……\n所以身上還有很多謎團。\n……只知道她無庸置疑地是位強者。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（而且，\n也不能光想著之後的事……\n不能光是警戒「日本盃」。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（因為「京都大賞典」的參賽者中──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "喝啊啊啊啊啊啊……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "呼、呼……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "呼……！\n……妳真是每過一天都會逐漸向我逼近呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "畢竟我不能永遠都\n只當皇冠的小妹啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "我也要成為能肩負起\n里見家之名的知名賽馬娘……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "秋季我也會跑出活躍表現，\n一定要成為不負至寶之名的賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見光鑽",
+      "Text": "第一步就是先贏下\n過完夏天的首戰「京都大賞典」……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（光鑽……狀態絕佳，\n難以想像她其實比我還晚出道。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（資質又高，又有堅定的意志。\n更重要的是……能為自己感到驕傲。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（她擁有跟我不一樣的強項──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "…………唔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "那個，訓練員……！\n我……我想拜託你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "我……有件想做的事。\n關於訓練方面的。",
+      "ChoiceDataList": [
+        "想做的事？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "是的。\n那個──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "去年……我了解了一件事。\n正視他人的強項\n也能幫助自己變強。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "所以，\n要是想讓現在的我變得更強……\n那依舊還是最好的方法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "我想……有些人的強項\n還在等我去正視。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……我得更加坦率地正視她們。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "其實，我早就……該這麼做了。",
+      "ChoiceDataList": [
+        "駿逸……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "訓練員，\n……我想麻煩你\n幫忙安排共同訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "高尚駿逸想透過共同訓練正視他人的強項。\n而她指定的訓練對手是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "啊！逸逸～～～！！\n訓練員也快來，這邊這邊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "早安。\n今天請多多指教囉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "早……早安。\n……請多指教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "高尚駿逸簡短地輕聲說道。\n而她臉上的表情……\n老實說看起來相當痛苦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但說起來──這也很正常。\n畢竟比布魯斯跟極峰這兩個人，\n正是她的自卑感的源頭。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "面對她們想必會掀開某些傷口，\n也會再次傷害她的心吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……就算是這樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "我……我……\n還是覺得妳們兩個──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "（雖然我不知道該怎麼面對她們。\n雖然只要她們出現在面前，\n我就會覺得自己變得越來越渺小，不過……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……我覺得妳們都是非常厲害的賽馬娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "咦……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "真的非常厲害……所以要是我想變強……\n就得先勇敢面對妳們。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "我……一定要變強。\n我想變得比現在更強。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "所以。\n希、希望妳們……能助我一臂之力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "……咦～～～真是的～逸逸！！\n這點小事當然沒問題啊～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "欸～欸～妳想先做什麼訓練！？\n好期待喔，姊姊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "妳先等一下，比布魯斯。\n……我們真的適合當妳的對手嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "妳秋天也會繼續跑中長距離路線吧？\n但我跟比布魯斯都跟妳不一樣，\n我們不太擅長跑較長的距離喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……可是妳們擁有很多\n我沒有的長處。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "我不只是想透過姊姊妳們\n找到自己的強項。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "這次我還想……面對自己的不足之處、\n正視自己的成長空間。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "為了這個目的……\n還是非得面對妳們兩人不可。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "姊姊精心鍛鍊的速度跟技能、\n比布魯斯與生俱來的直覺跟膽識。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "這些全都是我缺乏的特質。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "都是我一直以來羨慕不已的特質──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "駿逸……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "呃，不過！\n我覺得……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "現在的我一定能夠……勇敢面對，\n並把這些都化為成長的養分了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "那個，對不起……\n我以前態度明明很差，現在卻提出這種要求。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "麻煩妳們……\n陪我進行共同訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "……好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "好，當然沒問題！\n立刻開始訓練吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "極峰",
+      "Text": "別妄想我會手下留情喔。\n姊姊我會對妳很嚴格喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "唔哇～！姊姊進入女王陛下狀態了～！\n啊哈哈哈，快躲到逸逸後面♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "呃！？不，等、等一下啦，比布魯斯……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "三姊妹的打鬧聲熱熱鬧鬧地響徹夏日天空。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "面臨即將到來的「京都大賞典」，\n以及約定之地「日本盃」──\n我們的幹勁又更加高漲了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Title": "充分休息！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "訓練員！謝謝你安排昨天放假！\n讓我好好休息了一番。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "送你這個當謝禮！\n這裡頭有些中藥成分。",
+      "ChoiceDataList": [
+        "咦？謝謝！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "能幫助你恢復精神跟體力喔。\n看你最近好像很累，請收下吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "效果我敢保證。\n畢竟我昨天喝完之後現在這麼有精神嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里見皇冠",
+      "Text": "你也喝喝看，提振一下精神吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "里見皇冠經過充分休息，\n並藉助中藥獲得活力，\n似乎養足了精神！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

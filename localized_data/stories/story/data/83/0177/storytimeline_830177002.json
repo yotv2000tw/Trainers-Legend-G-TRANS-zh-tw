@@ -1,0 +1,330 @@
+{
+  "Title": "棒球！大家一起玩吧！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "<chrname>的訓練來到一個段落後，\n我有了些許空閒時間。\n本來應該是這樣的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "所以說！\n這位訓練員就是我們的棒球教練了！拍拍手♪",
+      "ChoiceDataList": [
+        "請、請多指教……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "謝謝你願意接下這個位置！\n不過，你的表情好像很困惑耶？沒問題吧？",
+      "ChoiceDataList": [
+        "嗯，應、應該吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "之所以說「應該」，\n是因為我剛剛才接下這任務，\n還沒被告知任何詳情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就在剛剛……不過幾分鐘前的事──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "啊～！找到了！訓練員～♡\n我跟你說喔──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "你來做棒球教練吧～♡",
+      "ChoiceDataList": [
+        "……啊？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "這次我們要在電視節目上打棒球！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "是藝人跟賽馬娘的棒球企畫，\n說是要為競賽界做宣傳～\n算是URA主導的活動吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "所以我想請你擔任教練！",
+      "ChoiceDataList": [
+        "不、不對吧，為什麼找我！？",
+        "不、不對吧，為什麼找我！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "訓練員你的投球姿勢很漂亮。\n我們也一起玩過傳接球了──",
+      "ChoiceDataList": [
+        "只、只因為這樣就找我當教練……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "不是你當教練我就不想參加了！\n拜託啦～♡",
+      "ChoiceDataList": [
+        "唔、唔唔……！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "有種拗不過她只得答應的感覺……\n不過我應該還能應付這件事，\n同時不減少與<chrname>的時間吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "成員全部有八個，沒有投手。\n分別是比布魯斯三姊妹──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "美妙姿勢和川上公主。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白多伯、大和赤驥，\n以及東商變革這八個人。\n雖然她們個性鮮明，但是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "真的沒問題吧？",
+      "ChoiceDataList": [
+        "既然要做，我會努力的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是，練習的日子開始了。\n有鑑於成員們的鮮明個性，\n我早就做好會狀況百出的心理準備，但是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "我……我還是做不到！\n竟然由我當第一棒……！",
+      "ChoiceDataList": [
+        "咦！？不，沒這回事──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "不是逸逸我不要！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "打擊率高，又擅長盜壘！\n看到在壘包上的逸逸，\n我站在打擊區就能放心了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "我就是要逸逸啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "妳、妳好大聲……！\n我知道了啦……別說了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚駿逸",
+      "Text": "……我去練習。\n為了能確實把球打出去……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "教練，來這邊！\n快來勸架！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "變革大發脾氣，\n對赤驥使出火焰觸身球讓怒火熊熊爆燃！",
+      "ChoiceDataList": [
+        "兩位，別吵架──！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "欸～我們去這個甜點吃到飽吧～！\n主題可是「魔女聚會」喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "魔女聚會！？讓我看看！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "欸，赤驥也一起去吧？\n不一起去的話我不要～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "我、我知道了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "唉……有股氣都消了的感覺，\n我剛才為什麼那麼火大啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "啊，教練還有各位也一起去吧！\n去這本雜誌上刊的甜點吃到飽♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "咦？剛才不是差一點要大混戰了嗎……？",
+      "ChoiceDataList": [
+        "（又一場狀況被平息了……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，每當好像快要發生狀況時，\n比布魯斯就會出面平息。",
+      "ChoiceDataList": [
+        "（難道她就是為了平息紛爭才──）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "我想快點去～練習可以到此結束嗎？\n不行嗎？欸，不行嗎～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……不，看來那不是特意的行為。\n她只是照自己想做的去做而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "……嗯？？怎麼了？教練。\n為什麼一～直盯著我？",
+      "ChoiceDataList": [
+        "我在想隊伍能順利運作都要感謝妳",
+        "我在想隊伍能順利運作都要感謝妳",
+        "我在想，妳真是會撒嬌呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "……嗯？？怎麼了？教練。\n為什麼一～直盯著我？",
+      "ChoiceDataList": [
+        "我在想隊伍能順利運作都要感謝妳",
+        "我在想隊伍能順利運作都要感謝妳",
+        "我在想，妳真是會撒嬌呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "我好開心～♡\n雖然我什麼都沒做就是了♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "妳的行動為周遭的人帶來了正面影響喔。\n呵呵，這是件非常棒的事呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "是嗎？所以我照平常那樣就好？\n那我就跟平常一樣……多多撒嬌吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤驥",
+      "Text": "的確……即使她說出讓人有些為難的要求，\n也不會覺得不舒服。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "耶～！\n那我再多跟大家撒撒嬌吧～♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "哼！這種小孩子撒嬌，\n對我是沒用的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "別這麼說嘛～！\n好啦，我們做好朋友吧？拜託啦～♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "咦！？這愛心是什麼！？\n這是……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比布魯斯",
+      "Text": "變革？妳在驚訝什麼？\n什麼愛心啊～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "東商變革",
+      "Text": "剛才那個難道是……\n難道是魔法！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

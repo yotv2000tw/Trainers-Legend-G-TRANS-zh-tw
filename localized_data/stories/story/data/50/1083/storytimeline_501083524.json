@@ -1,0 +1,538 @@
+{
+  "Title": "突擊！商店街特賣",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "跟克莉斯耶絲象徵出門採購後的回程路上──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "哎呀，兩位好！\n──你們也是來參加這場特賣會的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──Sale？\n……這條商店街的嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "沒錯！聽說這次各店會拿出滯銷商品，\n來場跳樓大拍賣喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──賣剩的……",
+      "ChoiceDataList": [
+        "……妳有興趣嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "…………不──這不在任務範圍內。\n──我沒有計畫參加。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "！\n喔……是這樣啊～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "說到任務，那妳更應該參加吧？\n畢竟「特賣會」可是日本文化哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "為了帶動日本賽馬娘界，\n應該盡可能地體驗日本文化……\n不是嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──！\n────說得──也是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──訓練員。\n──交給你──判斷。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看她剛才的樣子，\n似乎是對「滯銷商品」特別有興趣──",
+      "ChoiceDataList": [
+        "特賣會可是戰場……做好心理準備了嗎？",
+        "特賣會可是戰場……做好心理準備了嗎？",
+        "妳就盡情挑戰吧",
+        "可是衝動購物是很危險的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看她剛才的樣子，\n似乎是對「賣剩的東西」特別有興趣──",
+      "ChoiceDataList": [
+        "特賣會可是戰場……做好心理準備了嗎？",
+        "特賣會可是戰場……做好心理準備了嗎？",
+        "妳就盡情挑戰吧",
+        "可是衝動購物是很危險的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──嗯。我做好──所有的心理準備了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "呵呵，幹勁十足呢！\n如果妳渴望戰場……那參加裝肉裝到滿活動如何？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "挑戰如何在時限內將更多的肉塞進袋子裡……！\n不覺得很令人熱血沸騰嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──好。\n────我一定會勝利的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "就這麼決定了！\n那我們出發吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "肉舖店員",
+      "Text": "來來來，骰子牛裝到滿喔～！\n限時一分鐘！預備～～開始！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──動作要快──並且縝密──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "嘿咻、嘿咻……嗯～\n不管怎麼做都會有空隙呢……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "買客阿姨",
+      "Text": "哎呀，妳們兩個真不像話！\n想玩裝到滿，\n要先把袋子拉到最大才行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──！原來如此──戰鬥在──\n塞東西前──就已經開始了──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在阿姨的傾囊相授下，\n兩人奮力狂塞──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "肉舖店員",
+      "Text": "──三、二、一、零～！\n時間到～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "一轉眼就結束了～！\n克莉斯，妳的成果如何？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──妳看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "哇！超多的！\n毫無空隙地堆得好漂亮……手好巧哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──因為我得拯救──\n更多肉才行……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──成果──很完美。\n這樣……就能──讓它們完成義務了──",
+      "ChoiceDataList": [
+        "大獲全勝呢",
+        "大獲全勝呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "────是啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她凝視著因塞滿肉而鼓起的袋子時，\n眼神看起來非常滿足──\n好似充滿了慈愛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──把袋子拉大……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（破裂！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──！\n破了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "肉舖店員",
+      "Text": "──三、二、一、零～！\n時間到～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "嗯～真可惜。\n想不到要裝很多也不簡單呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "────我太沒用了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "…………戰敗者……只有離去一途。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "克莉斯耶絲象徵毫不猶豫地離開戰場。\n她的背影看起來有些落寞……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──那麼，我出發了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "太棒了！\n我們要從哪裡逛起？妳有想去的地方嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──不──哪裡都可以。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "…………呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "那麼那間雜貨店怎麼樣？\n我覺得會是鮮為人知的好店喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──！\n……好──沒問題。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "於是兩人就這樣闖進雜貨店的特賣會了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "咦，那些就是特賣商品嗎？\n有好多看起來很有趣的東西呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "────是啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "哇，這好厲害！\n是……地球擺飾嗎？真有趣～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──上面──有些灰塵……\n…………買下來吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "啊，這裡有拉麵擺飾喔！\n要不要買呢♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "大豐收～～！\n好棒喔，買了這麼多卻超便宜的！",
+      "ChoiceDataList": [
+        "有找到好東西嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──是啊。\n不受歡迎的──商品──全都買了。",
+      "ChoiceDataList": [
+        "會有什麼用途嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──嗯──我會找到的。\n我一定會找到──這些東西的──義務。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "So──你們……放心吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "說完，克莉斯耶絲象徵憐愛地抱起購物袋。\n如果是她，一定會珍惜地使用每個雜貨吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目送克莉斯耶絲象徵等人離開後，\n過了三分鐘──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──我回來了。",
+      "ChoiceDataList": [
+        "真快！？",
+        "真快！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──我好像──嚇到其他客人了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──有我在……\n大家都──沒辦法進到店裡──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "呵呵，克莉斯真體貼呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "她說，有更多其他客人進店裡，\n商品才會熱賣。\n所以我們就提早買完出來囉。",
+      "ChoiceDataList": [
+        "這樣啊……那妳買到了什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──只有一個……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──剩下的──託付給……其他客人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "說完，她回頭望向雜貨店。\n雖然她看起來有點落寞，\n但我尊重她的溫柔，今天就此踏上歸途。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──衝動購物……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "────也是。\n預定之外的──行動──是risky的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "可是……她為了那些滯銷商品感到憂心。\n我無論如何都不想忽視她的這份心情。",
+      "ChoiceDataList": [
+        "那就負責在一旁加油吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就算克莉斯耶絲象徵自己沒法買，\n也可以在美妙姿勢選購滯銷商品時在一旁守候。\n當我這樣說明後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──也是……\n那──就讓我在這裡──守候吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "呵呵，那真是令人感到放心！\n我會買一堆滯銷商品回來的，\n妳等著我哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──嗯……拜託了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "哇……！人好多……！\n可是可是，我不會輸的～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──撐下去，美妙──！\n收銀台──就在眼前了──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人們",
+      "Text": "──好像挺熱鬧的～\n──啊，有特賣會！去看看吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "路過的行人們注意到特賣會後，\n店家的生意也越來越好──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "我回來了！大豐收喔！\n我買到了好多滯銷商品♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿勢",
+      "Text": "而且……外面排了很多人喔！\n這樣一來很快就會賣完了吧！",
+      "ChoiceDataList": [
+        "我們的加油沒有白費呢",
+        "我們的加油沒有白費呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──是啊…………太好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──訓練員……這都要感謝你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "望著店裡的特賣商品不斷賣出，\n克莉斯耶絲象徵的臉上微微綻放溫柔的笑意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

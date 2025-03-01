@@ -1,0 +1,56 @@
+{
+  "Title": "保重身體！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "<chrname>似乎\n受了輕傷……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但現在是重要的遠征時期。\n那麼，該怎麼辦──",
+      "ChoiceDataList": [
+        "讓她充分休息",
+        "要她加油"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我決定讓她全心全意地專心治療。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "<chrname>不能活動身體，\n心情好像變得有點低落……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我決定這種時候就熱血地為<chrname>打氣，\n要她好好加油──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但是卻失敗了！\n傷勢似乎更加地惡化……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "沒想到傷勢奇蹟似地完全復原，\n練習也很順利！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

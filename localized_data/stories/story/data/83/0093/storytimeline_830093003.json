@@ -1,5 +1,5 @@
 {
-  "Title": "將「自己」告訴對方",
+  "Title": "想傳達的「我」",
   "TextBlockList": [
     {
       "Name": "",
@@ -15,7 +15,7 @@
     },
     {
       "Name": "赤驥的母親",
-      "Text": "對了……妳有什麼煩惱或需求嗎？\n我們大概又要好一陣子無法見面了。",
+      "Text": "對了……妳有什麼煩惱或需求嗎？\n因為我們大概又要好一陣子無法見面了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -27,7 +27,7 @@
     },
     {
       "Name": "大和赤驥",
-      "Text": "那、那個，媽媽！其實……\n我想帶妳去一個地方……！",
+      "Text": "那、那個，媽媽！其實……\n我想帶媽媽去一個地方……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -39,7 +39,7 @@
     },
     {
       "Name": "大和赤驥",
-      "Text": "嗯！我的位子能清楚看到黑板──",
+      "Text": "嗯！我的位子是在，能清楚看到黑板的──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -57,13 +57,13 @@
     },
     {
       "Name": "伏特加",
-      "Text": "赤驥媽媽好！\n妳來參觀學園嗎？",
+      "Text": "赤驥的媽媽妳好！\n妳來參觀學園嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "赤驥的母親",
-      "Text": "嗯，沒錯。妳好，伏特加。\n謝謝妳一直照顧我們家赤驥。",
+      "Text": "嗯，沒錯。妳好，小伏加。\n謝謝妳一直照顧我們家赤驥。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -75,7 +75,7 @@
     },
     {
       "Name": "大和赤驥",
-      "Text": "喂！？妳該不會要說那件事吧！？\n就叫妳別說了！\n妳為什麼這樣……！？",
+      "Text": "喂！？妳該不會要說那件事吧！？\n就叫妳別說了！\n妳真的是為什麼要這樣啊……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -99,7 +99,7 @@
     },
     {
       "Name": "大和赤驥",
-      "Text": "媽媽，我肚子好餓喔！\n要吃什麼？要點經典菜色嗎？",
+      "Text": "媽媽，我肚子餓了呢！\n妳要吃什麼？要點以前就有的餐點之類的嗎？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -111,25 +111,25 @@
     },
     {
       "Name": "學生餐廳的阿姨",
-      "Text": "胡蘿蔔漢堡排給妳。\n啊，赤驥，今天有那道菜喔！\n「超辣胡蘿蔔咖哩」！",
+      "Text": "胡蘿蔔漢堡排，我這就裝給妳喔。\n啊！小驥，今天有那道菜喔！\n「超辣胡蘿蔔咖哩」！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "赤驥的母親",
-      "Text": "啊，抱歉。\n這孩子不太能吃辣──",
+      "Text": "啊，不好意思。\n這孩子不太能吃辣──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大和赤驥",
-      "Text": "啊，媽媽，沒事的……！",
+      "Text": "啊，媽媽，沒事的沒事的……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大和赤驥",
-      "Text": "那個……我總是點「最辣的」，\n不知不覺就變成最愛吃的東西了。\n嘿嘿嘿……",
+      "Text": "那個……因為我總是點「最辣的」，\n結果在不知不覺間，就變得非常喜歡吃了。\n嘿嘿嘿……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -141,13 +141,13 @@
     },
     {
       "Name": "赤驥的母親",
-      "Text": "……赤驥，\n我今天過得非常開心！",
+      "Text": "……赤驥，\n我今天過得非常開心喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大和赤驥",
-      "Text": "真、真的嗎？太好了……\n我本來很擔心突然找妳過來會不會有問題。",
+      "Text": "真、真的嗎？太好了……\n我本來很擔心突然找妳過來會不會不太好。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -171,7 +171,7 @@
     },
     {
       "Name": "赤驥的母親",
-      "Text": "今天我才發現自己\n有多麼不了解妳。",
+      "Text": "今天啊，我終於發現了。\n發現自己有多麼地不了解現在的妳。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -183,13 +183,13 @@
     },
     {
       "Name": "赤驥的母親",
-      "Text": "因為妳總是說沒事，\n媽媽便感到放心，\n只顧著工作──",
+      "Text": "因為妳總是說沒事、沒事的，\n媽媽便感到放心，\n變得只顧著工作──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "赤驥的母親",
-      "Text": "……我在不知不覺間，\n變成讓妳沒辦法說出真心話的母親了。",
+      "Text": "……我在不知不覺間，\n變成讓妳沒辦法說出真心話的母親了呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -207,13 +207,13 @@
     },
     {
       "Name": "大和赤驥",
-      "Text": "媽媽……！嗯……有，我有空！\n我有更多話想要跟媽媽說！",
+      "Text": "媽媽……！嗯……有，我有空！\n我還想跟媽媽說更多話！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "大和赤驥",
-      "Text": "啊……但真的可以嗎？\n媽媽妳的專案很忙……",
+      "Text": "啊……但是，媽媽妳真的可以嗎？\n妳之前說專案很忙……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -251,7 +251,7 @@
     },
     {
       "Name": "大和赤驥",
-      "Text": "我擬定了計畫要跟媽媽變得更親近，\n把我喜歡的各種事物介紹給媽媽！",
+      "Text": "這是一個把我喜歡的各種事物介紹給媽媽，\n讓我跟媽媽變得更親近的計畫！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },

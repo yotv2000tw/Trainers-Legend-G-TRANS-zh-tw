@@ -1,0 +1,324 @@
+{
+  "Title": "只要結局好就OK！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "和大德太陽一起外出後的回家路上，\n她的手機響了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "喔，是死黨傳來的♪\n想找我一起玩嗎～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "……突發活動！？真假！？\n超不妙，神降臨了！",
+      "ChoiceDataList": [
+        "有喜歡的名人要來嗎？",
+        "有喜歡的名人要來嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "對！我推的DJ要來。\n除了去以外，沒有其他選項了吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "總之立刻前往隔壁鎮上的俱樂部！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "大德太陽喜歡的DJ似乎要舉辦活動。\n……跟她一起去的話，\n搞不好就能更了解她。",
+      "ChoiceDataList": [
+        "我可以一起去嗎？",
+        "我可以一起去嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "當然當然當然～～！！\n一定會很嗨的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "Hey hey hey──！計程車快來～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "噗哈，都別人被搶先一步！\n計程車全滅爆哭～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "去跑賽馬娘大道好了，check it☆",
+      "ChoiceDataList": [
+        "我不能跑賽馬娘專用道喔……",
+        "我不能跑賽馬娘專用道唷……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "啊哈哈哈哈！\n我完全忘記了，笑死！\n阿訓不是賽馬娘啊！",
+      "ChoiceDataList": [
+        "妳一個人去或許會比較好？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "那是最不可能的～～♪\n除了一起去嗨一波以外沒有其他選擇！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "先醬吧，去搭電車！總會有辦法的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "工作人員",
+      "Text": "特別DJ活動的門票已經賣完了～！\n非常抱歉！\n目前已經賣完了～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "結果，我們沒有趕上活動……\n在俱樂部外面，\n到處都能看見無法參加活動的粉絲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "人多到不妙！果然超有領袖魅力！神神神～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "是說競爭也太激烈了吧，真沒勁～\n太哭哭了，超扯～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "大家都沒辦法進場啊～\n真的很沒勁對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "如果大德太陽自己一個人來的話，\n應該來得及參加活動才對。\n我果然不該跟來……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "等一下！好像開始了哦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "真的耶……唔哇～真的是好聽到不可思議～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "超感動！讚到快要升天！\n果然現場演奏天下無敵！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "太猛了～！！真的很不妙啊！",
+      "ChoiceDataList": [
+        "咦……？妳們聽到什麼了……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "裡面的聲音。啊──阿訓聽不見嗎？\n對喔，畢竟連我們都是勉強才能聽到──",
+      "ChoiceDataList": [
+        "我一直破壞氣氛，抱歉……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "你幹嘛道歉！\n阿訓，總之先嗨起來吧～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "真的感動到雞皮疙瘩掉滿地！\n下一次一定要參加到！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "就是啊！！大家一起參加吧！\n從早上就開始待命吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "一大早超狠的──！我是會去啦。\n是說沒有全員參加的話可不行喔♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "我一定會參加！\n話說有人不參加嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "沒有、沒有！\n參加吧參加吧～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然覺得自己害大家掃興，\n但大德太陽好像很開心，真是太好了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "來，阿訓！我把這首歌的影片傳給你了！\n一定要好好預習喔！",
+      "ChoiceDataList": [
+        "謝、謝謝……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我播放了大德太陽傳給我的影片。\n那是一首……\n身體會自然地跟隨著節奏擺動的歌曲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "如何？真的是感動滿滿！\n是不是嗨到要飛上天了～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "現在開始用力嗨起來吧～～！！\n耶耶～～☆",
+      "ChoiceDataList": [
+        "沒錯，真的是超級帥氣的曲子啊！",
+        "嗯，真的是超級帥氣的曲子呢！",
+        "好想快點在俱樂部裡聽……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "現在開始用力嗨起來吧～～！！\n耶耶～～☆",
+      "ChoiceDataList": [
+        "沒錯，真的是超級帥氣的曲子啊！",
+        "嗯，真的是超級帥氣的曲子呢！",
+        "好想快點在俱樂部裡聽……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "對吧！這樣人生就可以快樂十倍了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "就是說啊！盡情地聽吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "隨著手機裡播放的音樂律動著，\n讓我感覺好像融入了大家的圈子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "喔！你的腳已經跟上最棒的浪潮了呢～！\n把我的歌單傳給你好了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "今天一整天要瘋狂播放喔♪\n好了，就這麼說定了，PONPONPO～N☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "了解大德太陽的喜好，\n這個最重要的目的已經達成了。\n不過，接下來我想和她一起享受這些歌曲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "啊！我想到了一個好主意！\n搞不好超神的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "我們把DJ找來辦活動的話，\n不就能立刻參加了嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "對，超神的！沒有錯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "場地就選在巨蛋吧！？\n可以容納一百萬人！超不妙！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大德太陽",
+      "Text": "那個DJ有在玩LANE嗎！？\n問問看吧！不對，要怎麼問啦笑死～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "大德太陽談論著異想天開的計畫，\n看起來非常開心。\n下次我也想跟她一起參加。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

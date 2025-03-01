@@ -1,0 +1,749 @@
+{
+  "Title": "抽獎試手氣！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我跟生野狄杜斯到商店街採買完畢後的歸途──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "訓練員，我們走這條路。",
+      "ChoiceDataList": [
+        "為什麼？這樣不就繞遠路了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "看過來看過來，現正舉辦新春大抽獎～！\n特獎可是「溫泉旅遊券」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "溫泉旅遊券"
+      ]
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "一獎是「特等胡蘿蔔漢堡排」，\n二獎是「一整堆胡蘿蔔」，\n三獎則是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "來喔來喔，好玩的抽獎活動！\n歡迎大家來抽喔～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "這裡是抽獎會場。\n剛剛我們不是得到了一張抽獎券嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "從特獎到參加獎，每種獎項都很實用，\n抽到哪項都不會吃虧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "今天的採買行程到抽完獎才能算是完美結束。\n來吧，請。",
+      "ChoiceDataList": [
+        "妳該不會早就知道有辦抽獎活動了吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "是的，當然了。這也是為了讓採買更加充實\n而做的事前調查的一環。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我想她一定連今天採買後可以得到\n一張抽獎券這件事都事前掌握到了。\n真不愧是擅長支援的生野狄杜斯。",
+      "ChoiceDataList": [
+        "那我們一起抽吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "……好啊。\n連抽獎都要攜手合作，似乎頗有我們的風格。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我與生野狄杜斯一起\n奮力轉動了抽獎機的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "結果──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "天啊！恭喜────！！\n抽到特獎「溫泉旅遊券」了～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "特獎……！",
+      "ChoiceDataList": [
+        "很厲害嘛！",
+        "很厲害嘛！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "是的，我也開心……不，不對。\n這種時候就該──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "太棒了～～～～！！\n抽到特獎溫泉旅行了～～～～！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "……那麼這張旅遊券就交給訓練員了。\n請到溫泉區好好放鬆身心。",
+      "ChoiceDataList": [
+        "這是生野抽到的，生野妳拿去用吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "我認為訓練員比我更需要這趟旅行。\n我的狀態利用「IRON WILL」管理得很完善，\n但訓練員你……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "生野狄杜斯對著我瞇起雙眼，\n我覺得全身上下的疲勞好像全都被她看穿了。\n但我還是不能收下旅遊券──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "話是這麼說，但我知道你還是會跟我客氣。\n不過我也一樣非常擔心你啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "你看著平板時老是伸手搓揉眉心。\n站姿略顯駝背，肩膀老是往前傾。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "我很想在訓練員倒下前設法舒緩你的疲勞。\n所以──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "乾脆我們兩個一起去溫泉旅行吧。\n這樣你就不用跟我客套了吧？",
+      "ChoiceDataList": [
+        "嗯，這樣的話……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "終於有共識了呢。\n那麼，等今年的比賽都告一段落時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "我們就一起去溫泉旅行，\n順便當作維護保養身體吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "我要記在待辦工作事項中以防忘記。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我也學著她在手機的代辦工作中\n記下了「溫泉旅行」這個事項。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "……別忘記了喔。",
+      "ChoiceDataList": [
+        "我才不會忘記！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "呵呵，就算你忘記，\n我也會去提醒你喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "恭喜抽到一獎～！\n獎品是「特等胡蘿蔔漢堡排」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "這款胡蘿蔔漢堡排，\n以美味的祕傳醬汁聞名喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "既然難得抽中，\n今天晚餐就來品嚐吧？",
+      "ChoiceDataList": [
+        "好辦法，就這麼做！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "這醬汁的香味……是源自辛香料嗎？\n令人食指大動呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "那麼…………",
+      "ChoiceDataList": [
+        "怎麼了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "生野狄杜斯已舉起刀叉，\n卻維持不動，\n持續用嚴肅的表情緊盯著胡蘿蔔漢堡排。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "沒什麼，只是我不太擅長吃漢堡。\n……不過這是漢堡排，\n應該不會有任何問題才對──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "……但總覺得有種似曾相識的感覺，\n腦海中一直隱約浮現不妙的印象……",
+      "ChoiceDataList": [
+        "擔心的話，我先吃吃看吧",
+        "擔心的話，我先吃吃看吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "說完後我便舉起餐刀切開胡蘿蔔漢堡排。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "唔！！我想起來了！\n訓練員，請稍等──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（倒下……啪唰！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "插在漢堡排中的胡蘿蔔倒了下來，\n醬汁也因此噴得四處都是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "……就是這樣。\n吃胡蘿蔔漢堡排時會中這個陷阱……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "要是我再早點想起來就好了……",
+      "ChoiceDataList": [
+        "不，是我不夠小心",
+        "不，是我不夠小心"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "吃胡蘿蔔漢堡排前若是忘記先把胡蘿蔔拔起來，\n有很大的機率都會倒下釀成災難。\n我明明早就經歷過相同經驗了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "胡蘿蔔漢堡排上的胡蘿蔔常常插得不夠穩定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "我吃漢堡時總是很狼狽，\n為了避免重蹈覆轍也特別研究了吃法。\n但是醬汁噴濺的機率真的很高。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "即使第一個步驟就先弄倒胡蘿蔔，\n倒下時還是有可能會噴得到處都是……",
+      "ChoiceDataList": [
+        "我懂！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "呵呵，吃漢堡排也不能大意呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之後我們一起繼續摸索著方便的吃法，\n一起開心地想用了漢堡排。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "二獎～！！\n獎品是「一整堆胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "一整堆胡蘿蔔……\n當然，我已經想好完美的對策了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "也就是「胡蘿蔔全餐」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "這位是今天的烹飪老師．葛城榮主。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我是葛城榮主，叫我榮主老師就好了。\n請多指教啦！",
+      "ChoiceDataList": [
+        "榮主老師，請多多指教……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "啊哈哈哈！你還真認真！\n不愧是生野的訓練員啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "我已事前料想到會有這種狀況，\n所以麻煩榮主幫忙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "她建議我，想要趁新鮮吃完所有胡蘿蔔，\n最好的方法就是煮成「胡蘿蔔全餐」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我老家務農，常常得大量消化掉不符合標準、\n不能當作商品的蔬菜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "所以我知道非常多胡蘿蔔食譜喔！\n雖然全都是一些家庭料理啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "我曾事先詢問料理名稱……\n結果種類實在太多、太豐富了，\n難以光靠我一人獨立學會。",
+      "ChoiceDataList": [
+        "所以妳才約榮主來當講師啊",
+        "所以妳才約榮主來當講師呀"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "沒錯。明明抽獎根本不能預測會抽到什麼，\n未免設想得太周到了吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "好啦，難得有人來找我幫忙，\n我很樂意出一份力喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "請多多指教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "──接著把用鹽巴醃過的胡蘿蔔放進盆子……\n榮主，請告訴我調味料的分量。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "分量？砂糖就一口氣多加一點，\n再嘩啦～地灑點醋，然後意思意思加點鹽就好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "……不好意思，\n請妳用毫升或大小匙等單位進行指導。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "哪有空一個一個量啊！\n靠感覺就好啦，感覺！",
+      "ChoiceDataList": [
+        "這次就照著榮主老師的方式做做看吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "的確，這也是一種經驗。\n那麼……首先是砂糖。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "一口氣……大概這麼多嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "喂喂，\n妳那樣一點一點加，太陽都要下山了！",
+      "ChoiceDataList": [
+        "那醋灑這麼多可以嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "唔哇！太多了太多了！\n啊～真是的～補加點砂糖調整口味吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "那個……現在看起來不像涼拌菜，\n反而變得像一道湯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "嗯～這樣太浪費調味料了。\n好，把其他蔬菜倒進去吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們三人就這樣開心地煮著「胡蘿蔔全餐」，\n煮好後，吃得相當飽足！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "三獎～！\n獎品是「一根胡蘿蔔」！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "嗯，正在我的預料之中。\n訓練員，我們走吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "咦？這不是生野和訓練員嘛。\n好巧喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "素質、渦輪。\n……那個袋子裡的胡蘿蔔該不會也是抽獎抽到的？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙渦輪",
+      "Text": "沒錯～！我抽到三獎胡蘿蔔了！\n很棒吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "其實我們也抽到三獎，得到了一根胡蘿蔔。\n看來我們正有相同打算呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙渦輪",
+      "Text": "那我就連生野那份一起點餐囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "好的，麻煩妳了。",
+      "ChoiceDataList": [
+        "點餐……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙渦輪",
+      "Text": "不好意思～！\n我要兩杯蜜蜜少稠偏淡加量跟磨泥器！\n麻煩了～～～！！",
+      "ChoiceDataList": [
+        "磨泥器！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "沒錯，訓練員還不知道啊？\n這是蜜蜜飲店家的隱藏菜單。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "每到抽獎活動的時期，\n就會有很多賽馬娘想要立刻吃掉抽到的胡蘿蔔。\n所以這家店就推出了特別服務。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙渦輪",
+      "Text": "磨泥器準備完成！\n開始狂磨吧～～！唰唰唰～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "接著，\n雙渦輪開始享用加了胡蘿蔔泥的蜜蜜飲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "……嗯，妳磨的胡蘿蔔泥還保有一點顆粒狀，\n口感絕佳喔，渦輪。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙渦輪",
+      "Text": "耶嘿嘿嘿，對吧對吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "哈囉～大家聚集在這裡做什麼？\n啊，妳們在喝蜜蜜啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "是的，裡頭加了抽獎抽到的胡蘿蔔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "嗯嗯嗯，三獎對吧。\n其實我也是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "不過胡蘿蔔蜜蜜好像也很不錯～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "不嫌棄的話，我拿半杯跟妳交換吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "哇～好耶好耶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "雙渦輪",
+      "Text": "渦輪也要渦輪也要！我也要交換一半～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "嗯，來交換吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "……唐懷瑟，再交換一次的話，\n妳那份不就全都是蜜蜜了嗎？\n二分之一加上二分之一等於一喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "唐懷瑟"
+      ]
+    },
+    {
+      "Name": "待兼唐懷瑟",
+      "Text": "啊啊！？\n那、那我還是換一半的一半就好～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "優秀素質",
+      "Text": "真是的，\n小待老是這麼傻氣～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小待"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "胡蘿蔔般的橘色天空中迴盪著熱鬧的歡笑聲。\n這段時光甜美得不輸她們手上的飲料。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人員",
+      "Text": "很可惜，沒抽中！\n參加獎是「衛生紙」喔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獲得了「<itemname>」。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "…………\n真的非常抱歉……",
+      "ChoiceDataList": [
+        "妳、妳不用道歉啦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "不……\n我思考了各種衛生紙的用途……\n還是沒能找到比保持衛生更有效的用途。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "真是不中用……我的調查能力還有所不足。",
+      "ChoiceDataList": [
+        "保持衛生這個用途已經很足夠了吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "生野狄杜斯",
+      "Text": "事已至此，如今也只能隨身攜帶這包衛生紙，\n嘗試各種更有意義的用途了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "展現出謎樣堅持的生野狄杜斯顯得相當沮喪……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

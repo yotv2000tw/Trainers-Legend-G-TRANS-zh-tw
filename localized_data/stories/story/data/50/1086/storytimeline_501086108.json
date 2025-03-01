@@ -1,0 +1,493 @@
+{
+  "Title": "粉絲感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "粉絲大感謝祭就快到了。\n賽馬娘們將懷著對粉絲們的感謝，\n挑戰各式各樣的競技運動。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "然而，目白拉茉奴之後將面對的對手，\n水準大多都遠勝以往。如果她說\n不想參加感謝祭，不曉得該怎麼勸她──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "我要參加。",
+      "ChoiceDataList": [
+        "……咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……",
+      "ChoiceDataList": [
+        "妳要參加嗎？",
+        "妳要參加嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "那當然。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……她大概是認為有必要這麼做吧。\n例如能激起粉絲的熱情，\n讓競賽變得更加狂熱之類的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "這不會對訓練造成影響。\n你不用擔心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "然後，在粉絲大感謝祭前的那段期間──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……感覺不錯呢。\n那麼，去賽道吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白拉茉奴每天都專注地練習，\n達成預設的目標。她看起來\n完全沒在練習感謝祭的競技……",
+      "ChoiceDataList": [
+        "（……她到底是要參加什麼？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──到了「粉絲大感謝祭」當天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拉茉奴的粉絲A",
+      "Text": "哇……哇！\n拉茉奴大人……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拉茉奴的粉絲B",
+      "Text": "居然能在這裡見到她……！\n天啊，太神聖了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拉茉奴的粉絲C",
+      "Text": "啊！\n她要去哪裡……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "姊姊！\n妳來啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拉茉奴的粉絲A",
+      "Text": "那位是……阿爾丹大人！\n拉茉奴大人的妹妹……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "阿爾丹"
+      ]
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "阿爾丹。\n那是什麼？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "我們班今年是開\n賣冰淇淋的攤販。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "不介意的話，\n姊姊要不要也吃吃看？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "說得也是，\n那我就不客氣了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "……咦？那、那個……\n難道說，要我餵妳吃……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿爾丹",
+      "Text": "呃……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "哇啊……平常總是很冷靜的阿爾丹，\n居然表現得那麼慌張……好可愛……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "我以前都不知道，\n原來拉茉奴這麼迷人……\n……有點想要開始關注她了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "克莉斯耶絲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──拉茉奴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拉茉奴的粉絲A",
+      "Text": "那一位是……和拉茉奴大人同寢室的\n克莉斯耶絲象徵……大人！\n她參加的是籃球比賽吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拉茉奴的粉絲B",
+      "Text": "拉茉奴大人，這次是來替她加油嗎？\n她們感情真好……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "妳那隊，\n目前落後呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "Yes。\n……對手很強。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "是嗎？\n那這樣如何？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "──妳願意為了我，\n拿下勝利嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──OK。\n如果妳希望的話。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "克莉斯耶絲象徵",
+      "Text": "──呼……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（喀咚────！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "克莉斯耶絲象徵，魄力十足的灌籃！\n比賽到此結束！\n她替隊伍反敗為勝了──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動播報員",
+      "Text": "喔！克莉斯耶絲選手，\n正凝視著觀眾席！\n在她視線的前方──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾們",
+      "Text": "呀啊啊啊啊啊啊啊啊！？\n是愛啊～～～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "是拉茉奴和克莉斯耶絲之間的情誼……\n造就了這個戲劇性的發展嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾C",
+      "Text": "我原本對她只有既高傲又可怕的印象……\n──原來如此，這就是拉茉奴大人……！！",
+      "ChoiceDataList": [
+        "（原來如此……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白拉茉奴的計畫是到處露臉，\n讓那些原本不明白她魅力的人，\n有機會了解她嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "──那麼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白拉茉奴帶著變多的粉絲，\n再次回到校門前面，\n然後走向宿舍──",
+      "ChoiceDataList": [
+        "已經要回去了嗎！？",
+        "已經要回去了嗎！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "真是吵鬧……",
+      "ChoiceDataList": [
+        "妳不是要參加感謝祭……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "已經參加完了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "那麼，我先告辭了。",
+      "ChoiceDataList": [
+        "（拉茉奴……我果然還是搞不懂她！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾A",
+      "Text": "拉茉奴好厲害……\n連訓練員都被她耍得團團轉……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾B",
+      "Text": "……感覺無論是要追求或推崇她，\n都沒辦法做到呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拉茉奴的粉絲們",
+      "Text": "拉茉奴大人……！\n我們就是喜歡妳這一點！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "讓粉絲們感受到強烈的困惑和存在感後，\n目白拉茉奴的粉絲大感謝祭\n一下子就結束了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "接著，目白拉茉奴帶著變多的\n粉絲來到了賽道。\n在那裡──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "活動主持人",
+      "Text": "這條賽道的活動到此結束，\n接下來是休息時間！\n請各位繼續享受在其他地方舉辦的競技！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──競技項目剛好結束，\n觀眾們也準備離開了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "拉茉奴！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾們",
+      "Text": "──喂，接下來要去看什麼……嗯？\n喂，在那邊的是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾們",
+      "Text": "目白拉茉奴！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "好舒服的風。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "呼…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "目白拉茉奴穿著制服，\n在空無一人的賽道上奔跑。\n看到她那個樣子──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾D",
+      "Text": "咦，是目白拉茉奴……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾E",
+      "Text": "……她跑起來好厲害，好漂亮……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──觀眾們一個接一個停下腳步。\n等她跑完一圈時……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "（哇啊啊啊啊啊啊……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在場的所有人，\n都已經看目白拉茉奴看得出神。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "觀眾們",
+      "Text": "──！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白拉茉奴",
+      "Text": "這景色真不錯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我不知道她來參加粉絲大感謝祭的\n真實意圖是什麼。但看見她的微笑後……\n我明白她的目的已經達成了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

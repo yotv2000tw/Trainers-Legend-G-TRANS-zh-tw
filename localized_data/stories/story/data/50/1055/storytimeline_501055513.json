@@ -1,0 +1,309 @@
+{
+  "Title": "美麗☆綻放花朵",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "今天美麗週日要接受採訪。\n企畫主旨是想訪問\n決勝服的設計理念──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "攝影工作人員",
+      "Text": "關於這次要拍攝的照片……\n不好意思，要麻煩妳擺出\n容易看清楚設計的姿勢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "攝影工作人員",
+      "Text": "……呃，提出這種時尚雜誌般的要求，\n真是不好意思啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "……？\n工作人員，你是不是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "──啊，危險！！",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "沒事吧！？妳腳步很不穩呢……\n沒撞到吧！？腳還好嗎──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我沒事！\n拍照比較重要……難得前輩特地\n指定我擔任並行練跑對手……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "不要緊，拍攝稍微暫停一下無所謂。\n反倒是，要是拍攝造成妳的負擔──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看樣子氣槽的拍攝過程中似乎差點\n發生衝撞意外。好像沒有人受傷，\n正當我鬆了一口氣──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "──對了☆★",
+      "ChoiceDataList": [
+        "嗯？美麗，妳要去哪──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "再重新並行練跑一次不就好了☆★☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "美麗……！？\n妳自己的拍攝工作也還沒結束吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "嗯！氣槽妳們也還在拍攝中☆★\n所以我們三人一起並行練跑吧☆★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "三人一起？……我是沒問題，\n你們那邊能接受嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "攝影工作人員",
+      "Text": "咦！？啊……沒、沒問題。\n我只要能拍到照片都好……",
+      "ChoiceDataList": [
+        "放手交給她看看吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "要好好拍喔☆\n因為我們一定會表現得很美麗★☆★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "來吧來吧☆★☆★\n妳們兩個也各就各位～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "預備～開始☆★☆\n衝啊────！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "兩人",
+      "Text": "唔……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "啊哈哈☆★☆好開心，好舒暢喔！\n隨心所欲盡情奔跑吧！要對自己有自信★☆★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……唔！\n要有……自信──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "沒錯，旁人並不重要……我是……\n為了成為值得驕傲的自己而跑……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "三人",
+      "Text": "──喝啊啊啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "抵、抵達終點！！好厲害……！\n三人的表現都好驚人……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "──呼……呼……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "多伯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣槽",
+      "Text": "……差點忘了她的實力這麼強。\n身為「女帝」我可不能迷惘與動搖啊──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "攝影工作人員",
+      "Text": "……就、就是這個……這就是\n我真正追求的畫面……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "攝影工作人員",
+      "Text": "其實我一直很煩惱！\n與其聚焦於拍攝決勝服款式，\n應該還有更好的呈現方式才對！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "嗯☆★我早就發現你心中的陰影囉☆★☆★\n所以我才想提出\n能拍到美麗畫面的建議☆",
+      "ChoiceDataList": [
+        "這就是妳要求並行練跑的原因啊",
+        "這就是妳要求並行練跑的原因啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "沒想到一次並行練跑\n就能同時解決氣槽的拍攝\n跟我們這邊的採訪……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "嗯！大家心中都綻放出花朵了呢☆★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "而且我覺得如果想表達寄託在決勝服的意志，\n還是實際展現出來給大家「看」最有效☆★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "大家心中都埋藏著美妙的種子！\n我呢，想讓種子綻放花朵☆★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "我想讓每個人注意到，\n你是無比美麗的喔☆★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "我正是因此而跑☆★\n這就是我寄託在決勝服的意志！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "對吧？訓練員♪",
+      "ChoiceDataList": [
+        "全世界與所有人們都充滿美麗！",
+        "全世界與所有人們都充滿美麗！",
+        "是啊，我也會盡全力支持妳",
+        "嗯，我也會盡全力支持妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "對吧？訓練員♪",
+      "ChoiceDataList": [
+        "全世界與所有人們都充滿美麗！",
+        "全世界與所有人們都充滿美麗！",
+        "是啊，我也會盡全力支持妳",
+        "嗯，我也會盡全力支持妳"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這就是美麗週日的思想核心。\n今天成功地讓他人體會到了這一點，\n我告訴她這令我感到很慶幸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "嗯嗯，無論你我都很美麗☆\n要好好珍惜最真實的想法喔★☆★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "攝影工作人員",
+      "Text": "我也很美麗……這就是美麗……！\n我、我會好好珍惜自己的想法……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "幾天後──採訪報導正式發行，\n深受美麗週日思想吸引的那位記者\n還在文章末尾添上了一段自己的採訪感想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "耶嘿嘿，\n有訓練員在真是可靠☆★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "我一定要讓全世界開滿花朵，\n請看著我喔！",
+      "ChoiceDataList": [
+        "好，我陪妳一起看美麗的景色！",
+        "嗯，我陪妳一起看美麗的景色！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "攝影工作人員",
+      "Text": "你們之間的情誼真是堅定不移……\n可以的話我想刊登兩位的照片！\n方便讓我拍張合照嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "當然好！\n美麗～☆★☆★",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "Title": "在神社祈求！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我跟最近狀態不佳的喜嘉奇蹟\n一起來到神社參拜時，前面有其他人正在參拜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "請務必保佑我\n能夠學會騎腳踏車！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "女孩許願完畢後，\n就用停在旁邊的腳踏車開始練習。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "…………嗯。\n那我們也開始祈禱吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "希望那孩子的願望可以實現。",
+      "ChoiceDataList": [
+        "……咦，妳自己的願望呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "我的狀態不佳，\n只要自己想想辦法就可以了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "──但是，要是我把願望用在那孩子身上，\n搞不好她的願望會更容易實現……或許吧。",
+      "ChoiceDataList": [
+        "這很像妳的作風，我覺得很好！",
+        "這很像妳的作風，我覺得很好！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "……呵呵，謝謝你。\n很高興能夠聽到你這麼說！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "大姐姐，我問妳！\n妳剛剛是不是幫我祈禱，\n保佑我能夠學會騎腳踏車！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "啊……嗯。\n因為我看到妳正在努力，\n所以想幫妳加油。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "小朋友，可以讓我陪妳練習嗎？\n或許我能幫上忙喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "嗯！\n謝謝妳一起來幫我，大姐姐！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "沒錯沒錯，就是這樣！\n看著前面！繼續踩踏板！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "哇、哇……！\n大姐姐……我會騎了！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "嗯！好厲害好厲害！\n妳順利學會騎腳踏車了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "大姐姐，今天謝謝妳！\n託大姐姐的福，\n我會騎腳踏車了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "不，這不是託我的福喔。\n是因為妳很努力──很了不起喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "耶嘿嘿！我很了不起嗎？\n──掰掰，大姐姐！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "嗯，掰掰。\n回去路上小心喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "……呵呵，連我都覺得充滿活力呢。\n能實現願望真是太好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，\n喜嘉奇蹟被女孩努力的模樣所激勵，\n也恢復到原本的狀態了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "沒錯沒錯，就這樣直直地向前。\n啊，不行！現在轉動手把的話──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "咦！？\n……哇！？呀啊啊啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "呼！喝啊──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "喜嘉奇蹟以風一般的速度衝了出去，\n扶住差點倒下的腳踏車，\n救了女孩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "謝謝妳救了我，大姐姐……\n我好害怕……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "不會，沒事的。\n之後也要努力練習騎腳踏車喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩A",
+      "Text": "嗯……等我有那個心情再說吧。\n──掰掰，大姐姐！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "……害她留下可怕的回憶了。\n要是我能教得更好的話就好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "喜嘉奇蹟",
+      "Text": "好想實現那孩子的願望啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就這樣，\n喜嘉奇蹟非常沮喪，\n沒能恢復到原本的狀態……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

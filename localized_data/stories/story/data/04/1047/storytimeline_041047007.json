@@ -1,361 +1,361 @@
 {
-    "Title": "維持現在的你",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "夏季集訓也即將進入了尾聲。\n荒漠英雄在這大熱天中仍認真地進行訓練──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "……呼。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "她大大地嘆了一口氣。可能是因為最近\n連幾天都在做訓練，讓她累積不少疲勞了。那麼──",
-            "ChoiceDataList": [
-                "下午就先休息吧"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "啊，對不起！　都是因為我在嘆氣……。\n那個，我沒事的。做訓練也沒問題──",
-            "ChoiceDataList": [
-                "妳看這個"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "啊……我的秒數，竟然亂成這樣……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "因為踏步時重心的誤差，導致連最普通的慢跑\n秒數都會這麼飄，這樣實在說不上是安定。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "但、但是，我真的不累。\n體力也還很充足──",
-            "ChoiceDataList": [
-                "英雄也是需要休息的哦"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "訓練員……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "……好的，我知道了。\n必須要養精蓄銳、對吧……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "話是這麼說，不過從訓練量來看我不覺得是體力\n方面有什麼問題。是精神上的疲勞佔比較多嗎？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "話說回來，我聽地方的居民說\n附近有個看煙火的絕佳景點。",
-            "ChoiceDataList": [
-                "……帶她去的話她會高興嗎？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "煙火要等到晚上。\n在這之前我先去勘查一下景點好了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "……訓練員到底去哪裡了。\n也不在房間裡……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "（我本來想告訴他，明天的訓練我會好好加油的。\n……誰叫我今天都沒有辦法集中精神）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "（……強壓自己的理想。\n做訓練的時候也一直在腦海中揮之不去）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "（很會顧慮周遭，對工作也很熱情。這是無庸置疑的。\n現在這樣……就已經是非常優秀的人了）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "（但是卻因為我的妄想……因為我多嘴的關係。\n反而讓訓練員強迫自己改變的話，該怎麼辦……）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "也不在這裡……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "訓練員的同事",
-            "Text": "啊啊，妳是那傢伙負責的孩子對吧？\n那傢伙把手機忘在食堂裡，害我現在都還連絡不到他。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "咦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "訓練員的同事",
-            "Text": "好像有幾個人看到他走進山裡的樣子……應該不會吧。\n他去那邊也沒什麼事好做的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "……山、山裡面？　都已經晚上了。\n難道說……怎麼會，該不會訓練員現在──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "訓練員",
-            "Text": "『哈啊、哈啊……只要過了這座吊橋，\n一定就……能夠回到荒漠英雄身邊才對……！』",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "訓練員",
-            "Text": "「……！　嗚、地板塌了……！　啊啊啊啊啊啊……！」",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "訓、訓練員……！　啊啊……怎麼辦……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "訓練員的同事",
-            "Text": "啊，抱歉。說不定他只是在哪邊小睡一下而已。\n畢竟他平常都會反覆確認妳的跑步狀況到很晚啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "訓練員的同事",
-            "Text": "難道是我借給他的漫畫令他燃起鬥志了嗎？\n誰叫那個漫畫這麼有趣──。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "漫、漫畫嗎？\n難道是……那個、像專門的書籍一樣厚重的書？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "訓練員的同事",
-            "Text": "對對！說是漫畫啦，不過內容是有關訓練和醫療的東西。\n就類似用漫畫簡單說明的感覺。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "……訓練和、醫療……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "訓練員的同事",
-            "Text": "話說回來，他還說要加入健身房呢。說在實踐新的\n訓練方式之前，想先親自嘗試一下什麼的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "訓練員的同事",
-            "Text": "只要一碰上妳的事情，他就會變得很拚命呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "哈啊、哈啊……這裡也、沒有。\n……訓練員……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "……沒、沒事的。沒事。\n訓練員已經是大人了，又很能幹……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "（而且，我們約好了。一定要兩個人一起完成英雄譚。\n所以、所以說──）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "（對。這不是強壓自己的想法給對方。\n絕對不是。……因為）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "這是信賴啊……！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "訓練員、訓練員──！\n請你回答一聲，訓練員──！",
-            "ChoiceDataList": [
-                "……英雄？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "！　訓練員！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "太好了，原來你在這裡……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "眼前的荒漠英雄擔心地盯著我的臉龐。\n……看來我是走累了，才會不小心在這裡睡著。",
-            "ChoiceDataList": [
-                "抱歉讓妳擔心了"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "本來是為了讓她開心才來這裡的……結果反而添麻煩了。",
-            "ChoiceDataList": [
-                "我這副德性，跟妳的理想還差得遠呢──",
-                "我這副德性，跟妳的理想還差得遠呢──"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "……不是的！訓練員只要維持現狀就很足夠了\n我說的話根本就──",
-            "ChoiceDataList": [
-                "成為妳理想的對象也是我的夢想之一啊",
-                "成為妳理想的對象也是我的夢想之一啊"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "咦……咦、欸！？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "（我、我的理想……へ！？嘿！？那、那是指……\n等、等等……冷靜、我要冷靜點……！）",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "……哈──……呼──……。呃、就是……\n那個，訓練員……為什麼會來這種地方？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "我本來在猶豫要不要說，不過都讓她擔心了，還是該老實講才對。\n我想讓她看漂亮的景色，讓她打起精神。還有──",
-            "ChoiceDataList": [
-                "要是英雄覺得高興我也會很開心的……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "……。是我的錯──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "那個瞬間，煙火就像是要蓋過荒漠英雄的話語般飛上天空。\n在陣陣煙火聲的包圍下，荒漠英雄再次開口對我說。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "……不對。是……為了我。對吧。\n這就是……訓練員。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "夜空暫時陷入了寂靜。只能聽見海浪聲溫柔地\n傳來耳邊。而荒漠英雄則是露出了柔和的笑容。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "訓練員早就已經是我理想的人了。\n既溫柔、又努力向上，而且──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "荒漠英雄",
-            "Text": "……對英雄來說，是無可取代……\n令人想要珍惜的，溫暖的人。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "",
-            "Text": "最後的煙火飛向夜空。荒漠英雄抬頭仰望有些刺眼的夜空，\n令她的側臉被染上了絢麗的光彩。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "希望你不要改變",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "夏季集訓也進入了最後階段。儘管天氣炎熱，\n荒漠英雄仍然努力地認真進行訓練，然而──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……呼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她深深地嘆了口氣。或許是每天日以繼夜的訓練\n讓她累積了不少疲勞。既然如此──",
+      "ChoiceDataList": [
+        "下午的訓練就休息吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "啊，對不起！都因為我嘆了氣……\n那個，我沒問題的，可以照常訓練──",
+      "ChoiceDataList": [
+        "妳看這個"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "啊……我的秒數成績……居然變得這麼起伏不定……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她踏步時身體軸心會出現傾斜，就連最單純的練跑秒數\n也起伏不定，實在稱不上狀況穩定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "可、可是我真的不累。\n體力也還很充足──",
+      "ChoiceDataList": [
+        "英雄也需要適度休息喔"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "訓練員……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……好的，我知道了。\n養精蓄銳也很重要，對吧……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "雖然我要求她休息，但從訓練量來看的確不像體力方面\n出了問題。是否多半還是出自於精神上的疲勞呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "話說回來，我曾聽當地居民說附近有個絕佳觀景地點，\n可以清楚地看到煙火。",
+      "ChoiceDataList": [
+        "……帶她去看煙火她會開心嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "煙火大會在晚上舉辦。\n先趁著白天去勘查場地吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……訓練員究竟跑到哪裡去了？\n也不在房間裡……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（我想跟他說明天的訓練我會好好加油。\n……畢竟今天我根本無法專心訓練。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（……把自己的理想強加在他身上。\n訓練中我總忍不住想到這件事。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（他本來就既擅長照顧人又熱愛工作。這點我可以保證。\n明明原本的他……就已經非常優秀了。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（要是因為我擅自想像……多嘴講了那些話，\n害他想勉強自己改變的話……怎麼辦……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "也不在這裡……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員的同事",
+      "Text": "啊啊，妳是他的專任賽馬娘吧？\n其實那傢伙把手機忘在餐廳了，現在根本聯絡不上他。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員的同事",
+      "Text": "有人說看到他跑進山裡……但怎麼可能？\n他沒事跑到山裡面做什麼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……跑、跑進山裡了？天色都已經全黑了。\n他怎麼會去……那現在他搞不好──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員",
+      "Text": "「呼……呼……只要走過這吊橋……\n一定……就能回到荒漠英雄身邊……！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員",
+      "Text": "「……！\n唔，一踩下去吊橋就崩塌了……！啊啊啊啊啊啊……！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "訓、訓練員……！天啊……該怎麼辦……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員的同事",
+      "Text": "哎呀，對不起啊。搞不好他只是跑到哪裡打瞌睡而已。\n畢竟他每天都在研究妳的跑法等等的，弄到很晚睡啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員的同事",
+      "Text": "難道是我借他的漫畫點燃了他的鬥志？\n畢竟那套漫畫真的很有趣嘛──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "漫、漫畫？難道說……\n請問你說的那套漫畫是不是像專門書籍一樣厚？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員的同事",
+      "Text": "沒錯！雖然說是漫畫，但其實裡頭講的都是些有關訓練\n或醫療的內容啦。只是把說明畫成簡單易讀的漫畫形式。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……訓練或……醫療……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員的同事",
+      "Text": "說到這個，他還說要開始上健身房呢。\n說是實踐新的訓練方法之前，想要先由自己親身嘗試過。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員的同事",
+      "Text": "他真的很努力看待有關妳的每件事呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "呼啊，呼啊……也不在這裡。\n……唔，訓練員……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……沒、沒事的、沒事的。\n訓練員可是個大人啊，而且又很能幹……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（況且我們還約好了。我們要一起完成英雄傳說啊。\n所以、所以──）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（原來如此。原來我並不是在強加理想。\n絕對不是……因為這其實……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "應該要叫做信賴才對……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "訓練員！訓練員～！\n聽到請回答我，訓練員！",
+      "ChoiceDataList": [
+        "……英雄？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "！\n訓練員！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "太好了，原來你在這裡啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "眼前的荒漠英雄一臉擔心地看著我。\n……看來我走得太累，結果不小心睡著了。",
+      "ChoiceDataList": [
+        "抱歉害妳擔心了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "原本是想讓她開心才跑到這裡來的……卻反倒給她添了麻煩。",
+      "ChoiceDataList": [
+        "我這樣根本遠遠不及妳的理想──",
+        "我這樣根本遠遠不及妳的理想──"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……不、不是的！訓練員，保持原本的你就夠了！\n不用在乎我說的那些話──",
+      "ChoiceDataList": [
+        "成為妳理想中的夥伴就是我的夢想之一",
+        "成為妳理想中的夥伴就是我的夢想之一"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "咦……咦？咦！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "（成、成為我理想中的……呃！？這、這意思是……\n等、等一下……冷靜、冷靜下來啊我……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……吸氣……吐氣……首、首先……\n那個，訓練員……你為什麼會跑到這裡來？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我猶豫了一下是否要告訴她，但都害她這麼擔心了，\n還是該老實地交代吧。我想讓她看看美麗的景色為她打氣──",
+      "ChoiceDataList": [
+        "因為要是能讓英雄開心起來我也會很高興……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……呃。原來是我害的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那瞬間，煙火衝上夜空，彷彿想掩蓋掉荒漠英雄的話語。\n煙火聲籠罩著我們兩人，此時荒漠英雄再度開口。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……不對。應該說……原來都是為了我。\n這就是……我的訓練員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "夜空短暫地陷入寂靜，耳邊只傳來輕柔的海浪聲。\n荒漠英雄臉上浮起了一抹柔和的笑容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "訓練員，你早就是我理想中的那個人了。\n既溫柔又努力，而且──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "荒漠英雄",
+      "Text": "……對於英雄來說，是無可取代的存在……\n是最想好好珍惜的溫柔之人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "最後一發煙火也飛上了天際。荒漠英雄瞇眼仰望耀眼的\n夜空，鮮明的光芒將她的側臉妝點得色彩斑斕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

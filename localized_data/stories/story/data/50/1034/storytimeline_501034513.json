@@ -9,19 +9,19 @@
     },
     {
       "Name": "獨白",
-      "Text": "當我與稻荷一為了進行訓練，\n抵達賽道時──",
+      "Text": "當我與稻荷一為了訓練，\n而來到賽道時──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "喔，看來已經有人來了。\n那是獎券……跟誰？",
+      "Text": "喔，看來已經有人來了。\n那是券藏……跟誰？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "我定睛一看，兩位學生\n正在跟勝利獎券不知討論著什麼事。",
+      "Text": "仔細一看，有兩位學生\n正在跟勝利獎券討論著什麼。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -33,7 +33,7 @@
     },
     {
       "Name": "勝利獎券",
-      "Text": "我、我……太礙事了……\n我回去了～～～！",
+      "Text": "我、我、我……太、礙事了……\n我、回去了～～～！",
       "ChoiceDataList": [
         "好像發生糾紛了！快點去阻止──",
         "好像發生糾紛了！快點去阻止──"
@@ -76,25 +76,25 @@
       "Name": "稻荷一",
       "Text": "──也就是說，\n妳們談到要為出道戰努力練習，\n剛好被券藏聽到……",
       "ChoiceDataList": [
-        "她受到感動，主動提出要把練習場讓給妳們"
+        "她受到感動，才主動說要讓出練習場"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "沒錯！\n我是在準備訓練時聽到的……！！",
+      "Text": "沒錯！我是在準備訓練時聽到的……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "「我想跟妳這個勁敵一起跑GⅠ。\n這次選拔賽彼此都要加油。」\n……就是這樣！！",
+      "Text": "她們這對勁敵說想要一起跑GⅠ，\n所以這次選拔賽要互相加油……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "看到她們說話時閃亮亮的眼神，\n我也想幫助她們……嗚嗚嗚嗚！",
+      "Text": "看到她們說話時閃亮亮的眼神，\n我就想幫忙一把……嗚嗚嗚嗚！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -112,37 +112,37 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "呵，妳……這樣──",
+      "Text": "哈，妳啊──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "太瀟灑了吧！！",
+      "Text": "很瀟灑嘛！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "怎麼樣？大哥。\n我的訓練時間也可以給她們用嗎？",
+      "Text": "大哥，把我的訓練時間也讓給她們如何？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "怎麼樣？大姐。\n我的訓練時間也可以給她們用嗎？",
+      "Text": "大姐，把我的訓練時間也讓給她們如何？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "後輩間的友情、賭上夢想的姿態，\n及券藏的體貼。\n她們都讓我看到這麼瀟灑的模樣了──",
+      "Text": "後輩間的友情、為夢想賣命的姿態，\n以及券藏的體貼……\n她們都讓我感受到這麼重的人情了──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "不出手幫忙的話，\n我的內心難以平復！",
+      "Text": "我不跟著出手幫忙的話，\n可是會對不起自己的！",
       "ChoiceDataList": [
         "好，今天就跑外圍吧！"
       ],
@@ -150,125 +150,125 @@
     },
     {
       "Name": "金髮的後輩賽馬娘",
-      "Text": "連、連稻荷前輩也這樣！？\n這樣妳們本來要在賽道做的練習──",
+      "Text": "怎、怎麼連稻荷前輩也加入了！？\n這樣的話，妳們本來要在賽道做的練習──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "妳們在說什麼？\n我可沒說這是為了妳們！",
+      "Text": "妳在說什麼啊？\n沒有人說這是為了妳們喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "我是為了我自己才這麼做的喔？",
+      "Text": "我是為了我自己，才這麼做的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "瀟灑就要以瀟灑來回報，\n這才是江戶之子的作風！",
+      "Text": "受到人情對待，就要以人情回報。\n這就是江戶之子的作風！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "所以妳們完全不用介意！\n抬頭挺胸想怎麼跑就怎麼跑吧！！",
+      "Text": "所以，妳們完～全不用過意不去！\n大大方方地想怎麼跑就怎麼跑吧！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "券藏要不要一起來？\n陪我跑外圍怎麼樣？",
+      "Text": "券藏，要不要來陪我一起跑外圍？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "嗚喔喔喔喔！當然好！\n請陪我並行練跑～～～！！",
+      "Text": "唔喔喔喔喔！當然要！\n請讓我跟妳並行練跑～～～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "後輩賽馬娘們",
-      "Text": "……真的非常謝謝兩位！！",
+      "Text": "……真的非常謝謝你們！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "之後，她們在河岸上不斷進行耐力跑，\n直到體力維持不了為止。",
+      "Text": "之後，她們在河岸邊進行耐力跑，\n直到體力耗盡為止──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "啊～～！太棒了！\n感覺比跑賽道還舒服！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "勝利獎券",
-      "Text": "呼、呼……我也這麼覺得！\n感覺神清氣爽呢！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "稻荷一",
-      "Text": "哈哈！跟瀟灑的傢伙一起跑，\n果然很棒吧！",
-      "ChoiceDataList": [
-        "偶爾這樣也不錯",
-        "偶爾這樣也不錯",
-        "我也想跑步了……",
-        "我也想跑步了……"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "稻荷一",
-      "Text": "哈哈！跟瀟灑的傢伙一起跑，\n果然很棒吧！",
-      "ChoiceDataList": [
-        "偶爾這樣也不錯",
-        "偶爾這樣也不錯",
-        "我也想跑步了……",
-        "我也想跑步了……"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "稻荷一",
-      "Text": "就是啊！而且該怎麼說，\n我總覺得跟券藏很合得來呢！",
+      "Text": "啊～～！真想不到！\n跑這裡竟然比跑賽道還舒服！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "嘿嘿嘿，我也是！\n請問！要不要再跑一趟呢！？",
+      "Text": "呼、呼……我也這麼覺得！\n感覺很舒爽呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "我要跑！好，我們走～！！",
+      "Text": "哈哈！跟有人情味的傢伙一起跑，\n果然很棒呢！",
+      "ChoiceDataList": [
+        "偶爾這樣也不錯",
+        "偶爾這樣也不錯",
+        "我也開始想跑了……",
+        "我也開始想跑了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "哈哈！跟有人情味的傢伙一起跑，\n果然很棒呢！",
+      "ChoiceDataList": [
+        "偶爾這樣也不錯",
+        "偶爾這樣也不錯",
+        "我也開始想跑了……",
+        "我也開始想跑了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "就是啊！而且總覺得，\n我跟券藏很合得來呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勝利獎券",
+      "Text": "耶嘿嘿，我也是！\n請問！要不要再跑一趟呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "好啊！那麼，我們走～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "之後，兩人開開心心地，\n在夕陽下繼續奔跑。",
+      "Text": "之後，兩人又在夕陽下開心地繼續奔跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "喔，這可是你說的！\n聽到了吧，券藏？",
+      "Text": "喔，這可是你說的喔！\n妳有聽到吧，券藏？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "勝利獎券",
-      "Text": "是！那麼訓練員，\n說預備開始後就開跑囉～～！！",
+      "Text": "聽到了！那麼訓練員，\n說開始後就跟我們一起跑喔～～！！",
       "ChoiceDataList": [
         "咦！？"
       ],
@@ -282,7 +282,7 @@
     },
     {
       "Name": "獨白",
-      "Text": "之後，我在夕陽時分的河岸追逐著\n跑在前方的兩人，痛快地流了一身汗。",
+      "Text": "之後，我在黃昏的河岸邊追逐著\n跑在前方的兩人，痛快地流了一身汗。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

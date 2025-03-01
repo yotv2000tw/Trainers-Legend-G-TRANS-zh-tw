@@ -9,13 +9,13 @@
     },
     {
       "Name": "獨白",
-      "Text": "夏季集訓也快過一半了，\n這時大家舉辦了夜遊，\n當作是集訓中的康樂活動。",
+      "Text": "夏季集訓度過一半之際，\n大家決定去夜遊，作為康樂活動的一環。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "雖說是夜遊，\n實際上比較類似試膽大會，\n我也以安全人員身分參與活動──",
+      "Text": "雖然說是夜遊，但實際上就是試膽大會。\n為了注意她們的安全，我也參與這次活動──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -27,7 +27,7 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "不管是鬼怪還是什麼，\n通通過來吧，可惡！",
+      "Text": "不管是鬼怪還是什麼，\n通通過來吧，臭傢伙！",
       "ChoiceDataList": [
         "……難道妳害怕恐怖的東西？"
       ],
@@ -41,19 +41,19 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "看著吧，我會從容地走回來的！",
+      "Text": "看著吧，我會輕輕鬆鬆地回來的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "營運方賽馬娘",
-      "Text": "──那麼，\n接下來就用抽籤分組，\n然後從這裡走到目的地後再回來～！",
+      "Text": "──那麼，現在就請各位抽籤組隊，\n然後從這裡走到目的地後再回來～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "與稻荷一組隊的，\n是以驚人求勝心與尾段加速聞名的\n來自關西的賽馬娘玉藻十字。",
+      "Text": "與稻荷一組隊的是來自關西，\n以驚人求勝心與尾段加速聞名的\n賽馬娘玉藻十字。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "玉藻十字"
@@ -61,13 +61,13 @@
     },
     {
       "Name": "獨白",
-      "Text": "平時她們都是開朗有活力，\n受四周信賴的那種人，可是──",
+      "Text": "平時她們都開朗有活力，\n並且深受信賴。可是──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "──別、別開玩笑了！\n我知道妳在害怕！\n想逃回去就趁現在吧，小玉！",
+      "Text": "──少、少囉嗦！\n我知道妳在害怕！\n想逃走就趁現在吧，小玉！",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "小玉"
@@ -75,19 +75,19 @@
     },
     {
       "Name": "玉藻十字",
-      "Text": "少、少廢話，稻荷！\n妳才該快點滾回房間，\n包在棉被裡啜泣咧！",
+      "Text": "給、給我閉嘴，稻荷！\n妳才該快點回房間，\n包在棉被裡哭咧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "嘿嘿……！雖然嘴上這麼說，\n但妳的腳都在發抖了喔？\n一眼就看得出妳在逞強……！",
+      "Text": "嘿嘿……！雖然嘴巴這麼說，\n但妳的腳都在發抖了喔？\n一眼就看得出妳在逞強……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "哈……！還真敢說，\n妳自己的聲音不也在發抖嗎？\n再逞強也騙不過我喔……！",
+      "Text": "哈……！還真敢說。\n妳自己的聲音不也在顫抖嗎？\n再怎麼逞強也騙不過我的……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -101,7 +101,7 @@
       "Name": "玉藻十字",
       "Text": "唔唔唔……！",
       "ChoiceDataList": [
-        "妳們好像都很害怕嘛──"
+        "妳們好像都很害怕──"
       ],
       "ColorTextInfoList": []
     },
@@ -113,58 +113,58 @@
     },
     {
       "Name": "營運方賽馬娘",
-      "Text": "──下一組，\n輪到稻荷一與玉藻十字隊出發了～",
+      "Text": "──下一組，輪到稻荷一同學\n和玉藻十字同學出發了～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "兩人的表情有點僵硬，\n我想給點建議以安撫她們的恐懼，\n而我想到的是──",
+      "Text": "看到兩人的表情有點僵硬，\n我想給點建議以緩和她們的恐懼。\n而我想到的是──",
       "ChoiceDataList": [
-        "大吼出來能暫時忘記恐懼喔",
-        "快步走過去就好囉"
+        "大叫能暫時忘記恐懼喔",
+        "加快腳步就好囉"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "的、的確，\n對小玉來說或許是好主意！\n妳隨時可以大吼出來喔！",
+      "Text": "的、的確，\n對小玉來說或許是好主意！\n妳隨時可以大叫出來喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "啊！？這是我要說的吧！\n妳才是咧，就算喊得比平時更大聲，\n我也不會計較喔！",
+      "Text": "啊！？那是我要說的話！\n妳才是，就算叫得比平時更大聲，\n我也不會計較喔！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "兩人就這樣邊大吼大叫邊出發了──",
+      "Text": "兩人就這樣吵吵鬧鬧地出發了──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "──喔、喔喔喔！\n這森林很有氣氛嘛！\n氣溫涼爽感覺挺舒暢的呢！",
+      "Text": "──喔、喔喔喔！\n這森林很有氣氛嘛！\n涼涼的很舒服呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "就、就是啊！\n好安靜～真讓人心平氣和呢！\n啊～心裡好安詳──",
+      "Text": "就、就是啊！\n安安靜靜的，整個人都平靜下來了！\n啊～心裡好安詳──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "聲響",
-      "Text": "（咖沙咖沙咖沙……！）",
+      "Text": "（窸窸窣窣……！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷&玉藻",
-      "Text": "哇啊……！",
+      "Text": "噫……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -188,13 +188,13 @@
     },
     {
       "Name": "玉藻十字",
-      "Text": "稻、稻荷妳才是！\n妳的聲音聽起來才像快哭出來了呢！",
+      "Text": "稻、稻荷妳才是，\n聲音聽起來都快哭了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "聲響",
-      "Text": "（咻喔喔喔喔喔！！）",
+      "Text": "（颼────！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -212,19 +212,19 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "怎麼！！\n小玉，妳吼得頗大聲的嘛！\n妳果然很害怕吧！？",
+      "Text": "怎麼！！\n小玉，妳叫得很大聲嘛！\n果然怕得要命對吧！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "吵死了！！\n妳才大聲到差點害我耳聾！\n唉～真是，有膽小鬼在對心臟真不好～！",
+      "Text": "吵死了！！\n妳才是大聲到害我差點耳聾！\n唉～膽小鬼真是有害心臟啊～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "聲響",
-      "Text": "（咖沙沙咻喔喔喔！！）",
+      "Text": "（窸窸窣窣沙沙颼────！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -260,55 +260,55 @@
     },
     {
       "Name": "稻荷&玉藻",
-      "Text": "今晚的事……就當沒發生過吧……\n今晚的事……就當沒發生過好嗎……",
+      "Text": "今晚的事……就當沒發生過吧……\n今晚的事……就當沒發生過如何……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "從此，稻荷一與玉藻十字之間，\n有了一場祕密的夏日回憶──",
+      "Text": "就這樣，稻荷一與玉藻十字之間，\n有了一段祕密的夏日回憶──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "聽到了嗎，小玉！沒辦法，\n我就陪妳快步走吧！\n要感激我啊！",
+      "Text": "聽到了嗎，小玉！\n沒辦法，我就陪妳快步走吧！\n要感激我啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "啊！？那是我要說的！\n我會陪妳逃跑的，\n妳才應該感謝我呢！",
+      "Text": "啊！？那是我要說的話！\n我會陪妳逃跑的，\n妳才應該感謝我呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "兩人就這樣快步出發──",
+      "Text": "兩人就這樣快步出發了──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷一",
-      "Text": "──喔、喔喔喔！\n這森林很有氣氛嘛！\n氣溫涼爽感覺挺舒暢的呢！",
+      "Text": "──喔、喔喔喔！\n這森林很有氣氛嘛！\n涼涼的很舒服呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "就、就是啊！\n好安靜～真讓人心平氣和呢！\n啊～心裡好安詳──",
+      "Text": "就、就是啊！\n安安靜靜的，整個人都平靜下來了！\n啊～心裡好安詳──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "聲響",
-      "Text": "（咖沙咖沙咖沙……！）",
+      "Text": "（窸窸窣窣……！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "稻荷&玉藻",
-      "Text": "哇啊……！",
+      "Text": "噫……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -332,13 +332,13 @@
     },
     {
       "Name": "玉藻十字",
-      "Text": "稻、稻荷妳才是！\n妳的聲音聽起來才像快哭出來了呢！",
+      "Text": "稻、稻荷妳才是，\n聲音聽起來都快哭了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "聲響",
-      "Text": "（咻喔喔喔喔喔！！）",
+      "Text": "（颼────！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -350,19 +350,19 @@
     },
     {
       "Name": "稻荷一",
-      "Text": "嘿、嘿嘿……\n小玉。\n妳想快步逃跑也沒關係喔……！",
+      "Text": "嘿、嘿嘿……\n小玉，妳想要立刻逃跑也沒關係喔……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "哈，\n再嘴硬也到此為止了……！\n我知道妳也很想趕快逃跑喔……！",
+      "Text": "哈，妳嘴硬也到此為止了……！\n我知道妳也很想趕快逃跑……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "聲響",
-      "Text": "（咖沙沙咻喔喔喔！！）",
+      "Text": "（窸窸窣窣沙沙颼────！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -398,13 +398,13 @@
     },
     {
       "Name": "稻荷&玉藻",
-      "Text": "今晚的事……就當沒發生過吧……\n今晚的事……就當沒發生過好嗎……",
+      "Text": "今晚的事……就當沒發生過吧……\n今晚的事……就當沒發生過如何……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "獨白",
-      "Text": "從此，稻荷一與玉藻十字之間，\n有了一場祕密的夏日回憶──",
+      "Text": "就這樣，稻荷一與玉藻十字之間，\n有了一段祕密的夏日回憶──",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

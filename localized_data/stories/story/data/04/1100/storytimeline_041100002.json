@@ -1,305 +1,305 @@
 {
-    "Title": "勁敵是沙上的馬偶",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "齁……齁……──到了～。\n嗯，現在已經能以不錯的速度做完了呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "一起做訓練過了一陣子後，就如奇銳駿所說的，\n她的體力確實成長了不少。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "訓練員果然很厲害呢。畢竟照著訓練員所說的\n開始做訓練後，連我都能感受到自己日漸變強。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "因為會針對菜單做細微的調整，讓我能辦到的事情也變得更多。\n這樣的話似乎能順利跑完沙地2000m了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "雖然奇銳駿偶爾會像這樣誇獎我，\n不過她才是讓我感到最佩服的。",
-            "ChoiceDataList": [
-                "你頑強的性格正是妳的武器啊",
-                "妳頑強的性格正是妳的武器啊"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "面對負荷慢慢加重的訓練也絕不氣餒，\n一點一滴地付出努力。這才是讓她確實有所成長的關鍵。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "繼續鑽研這項武器的話，出道後應該也能留下好成績吧。\n一想到這裡，想要繼續鍛鍊她的心情就突然湧上來了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "原來我也有武器啊，要是訓練員不說的話我就\n不會注意到了，真是感激不盡呢。",
-            "ChoiceDataList": [
-                "妳可要多多活用那項武器才行啊！",
-                "妳可要多多活用那項武器才行啊！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "哎呀天啊，我看訓練員又在想新的菜單了對吧？\n當然好～不管來多少我都會做完的喔。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我拿著花一個上午完成的新菜單尋找著奇銳駿。\n因為人不在教室的關係，我便走到外面找她──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "北港樽前",
-            "Text": "奇怪，那不是銳駿學姊的訓練員嗎？\n銳駿學姊的話在這邊哦。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我前往呼喚我的方向去，發現那裡除了奇銳駿以外還有\n她的朋友北港樽前和小林歷奇。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小林歷奇",
-            "Text": "嗚哇啊，銳駿學姊真的和訓練員簽約啦！？\n竟然能夠遇上相生的對象，這可是非常幸運且開心的事哦☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "不是啦，沒有簽正式的契約哦～。\n只是請訓練員幫忙到到項目別競技大賽前而已。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "北港樽前",
-            "Text": "是這樣嗎？那還真可惜。　就是這位訓練員吧，聽說在\n訓練員學校時拿下七項科目的首席成績被表揚過，是備受期待的新人。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "哎呀天啊，訓練員是那麼厲害的人嗎？",
-            "ChoiceDataList": [
-                "只是上課成績好而已，還沒拿出實績啦……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "又～在謙虛了。訓練員很優秀喔。\n多虧了訓練員，我覺得自己也能項目別競技大賽跑出好成績喔。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "北港樽前",
-            "Text": "好成績……是嗎？但是，我覺得對手有點不太妙……。",
-            "ChoiceDataList": [
-                "對手不太妙是？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "北港樽前",
-            "Text": "……難道您沒有聽說嗎？\n銳駿學姊要參加的沙地2000m，我記得是──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飛鷹",
-            "Text": "來來來～！\n鷹子全速全進，要上囉～～～☆",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "醒目飛鷹",
-            "Text": "衝啊！！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小林歷奇",
-            "Text": "嗚哇，好厲害好厲害，真不敢相信！\n感覺就像龍脈的氣直接流進鷹子學姊的雙腳似的！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "北港樽前",
-            "Text": "充滿爆發的加速力，進到後半還能繼續加快步伐的腳力……。\n果然鷹子學姊在沙地上綻放出的光彩就是不一樣呢……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "北港樽前",
-            "Text": "雖然還沒有公布參賽表，但我聽說鷹子學姐也會參加。\n從現狀來看無論是誰，要在沙地上贏過鷹子學姊都是困難至極的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "小林歷奇",
-            "Text": "是啊，火剋金──對金氣宛如鐵壁的銳駿學姊來說，\n帶著炙熱的火氣奔馳的鷹子學姊從風水上來看也是大敵！！",
-            "ChoiceDataList": [
-                "要和她決勝負啊……",
-                "要和她決勝負啊……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "…………。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "在那之後，醒目飛鷹的奔馳一直在腦海中揮之不去。\n奇銳駿的實力確實有所提升沒錯……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "哈啊……哈啊……──呼～我還能繼續。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "訓練員，接下來要做什麼呢？\n……奇怪，訓練員？",
-            "ChoiceDataList": [
-                "──嗚哇，抱歉！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "現在不是心不在焉的時候了。為了不讓她至今的努力\n前功盡棄，我得思考自己能做些什麼才行──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我明明是這麼想的，但腦袋卻轉不起來。畢竟對手是已經出道，\n並且活躍於第一線的馬娘。不得不承認水準差太多了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "…………。\n我說啊，訓練員，不需要顧慮那麼多哦？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "我自己也知道這樣下去是不可能追上的。所以請你\n設計更嚴厲的菜單，讓我足以跟鷹子同學分出勝負吧。",
-            "ChoiceDataList": [
-                "……但我不想勉強妳",
-                "……但我不想勉強妳"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "她的訓練已經是為了增強體力做過調整，\n階段性的在提升負荷量的內容。再繼續增量太不切實際了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "不過，會不會還有什麼是我們能做的。\n比如說，研磨出比賽用的體格──之類的。",
-            "ChoiceDataList": [
-                "研磨、體格……？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "就是在我參加特雷森學園的入學考試時呢。\n可能因為緊張的關係，考試當天體重掉得非常多。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "但不可思議的是，那天狀況非常好哦。\n腳動得很靈活，有種能夠一直跑下去的感覺──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "如果像那個時候一樣研磨體格的話就能贏──我有這種感覺。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "的確，為了拿出最佳表現而進行減脂算是常態了。\n肌力和耐力完全相同的情況下，當然是較輕的那一方會跑比較快。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "但是先不論減不減量，更讓我驚訝的是她絲毫不想放棄。\n不會因對手實力在自己之上畏懼，反而認真去找其他能做的事──",
-            "ChoiceDataList": [
-                "妳想贏過……醒目飛鷹嗎？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "……有點不一樣吧。不管對手是都沒有關係。\n問題不在那裡──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "而是這次的比賽，我有個無論如何都要贏的理由。\n無論如何我都必須得拿下勝利的理由。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "奇銳駿",
-            "Text": "所以說呢，訓練員。不管多苦都沒關係。\n我會相信你，並且跟上你的──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我並不知道她口中「想要贏的理由」到底是什麼。即便如此，\n只要馬娘渴望勝利的話，幫忙實現願望就是訓練員的職責。",
-            "ChoiceDataList": [
-                "我知道了，那就重新設計菜單吧！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "於是我答應了奇銳駿的要求，\n開始著手準備減量用的訓練菜單。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "勁敵是沙地的賽馬娘偶像",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "呼……呼……抵達～\n嗯，我開始能用不錯的步調跑完了呢～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "一起訓練了一陣子後，\n就如同奇銳駿本人所言，她的體力增長了不少。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "訓練員果然很厲害呢～\n照著你說的去訓練之後，我的實力就在轉眼間提升了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "因為你會不斷微調訓練項目，我學會的東西也越來越多了。\n照這樣看來，我應該能順利跑完沙地2000公尺喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然奇銳駿一有機會就會像這樣稱讚我，\n但反而是我比較佩服她。",
+      "ChoiceDataList": [
+        "是妳的韌性成為了妳的武器",
+        "是妳的韌性成為了妳的武器"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "面對強度逐漸增加的訓練也從不退縮，\n正是這樣一點一滴累積的努力，讓她確實地成長了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "繼續鑽研下去的話，她在閃耀出道後也能跑出好成績吧。\n一想到這點，就讓我更想好好鍛鍊她了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "如果訓練員沒告訴我，\n我根本不會注意到自己也是擁有武器的，我很感激喔～",
+      "ChoiceDataList": [
+        "一定要更加善用妳的武器！",
+        "一定要更加善用妳的武器！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "哎呀，看你這樣，又在想新的訓練項目了吧？\n沒問題喔～不管多少訓練我都會完成的～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我帶著花了整個上午擬好的新訓練計畫，在尋找奇銳駿。\n因為她人不在教室，我就走到外面來看看──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北幸樽前",
+      "Text": "咦？這不是銳駿的訓練員嗎？\n你要找銳駿的話，她在這裡喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我朝呼喚我的方向走去，奇銳駿和她的朋友──\n北幸樽前和小林歷奇就在那裡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小林歷奇",
+      "Text": "唔哇，所以銳駿是真的跟訓練員簽約啦！？\n居然能遇到相生的對象，真是非常lucky又happy呢☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "不是的，我們並沒有正式簽約喔～\n是我請他在多項目競技大會前協助我訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北幸樽前",
+      "Text": "這樣啊？那還真是可惜。畢竟他可是那位──聽說在訓練員學校\n拿到七個科目的第一名而接受表揚，是眾所矚目的新人，對吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "哎呀，訓練員原來是那麼厲害的人物嗎？",
+      "ChoiceDataList": [
+        "我只是學科成績好而已，沒有實際的成就……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "又～在謙虛了～訓練員是真的很優秀唷～\n多虧你的幫忙，我好像也能在多項目競技大會拿出好表現了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北幸樽前",
+      "Text": "好表現嗎……可是，對手似乎對妳太不利了……",
+      "ChoiceDataList": [
+        "什麼叫「對她不利」？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北幸樽前",
+      "Text": "……難道你不知道嗎？\n銳駿要參賽的沙地2000公尺，我記得是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "好～啦～！\n飛飛全力邁進，要～開始囉～～～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飛鷹",
+      "Text": "嘿呀！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小林歷奇",
+      "Text": "唔哇，好厲害好厲害，真是難以置信！\n就像氣直接從龍脈灌入飛飛的腳一樣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北幸樽前",
+      "Text": "爆炸性的加速力，加上那從不減弱，後半段甚至更快的腳力……\n飛飛在沙地的耀眼程度還是特別不同呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北幸樽前",
+      "Text": "雖然參賽名單還沒出來，但我聽說她也會參加。\n目前想在沙地贏過飛飛，對任何人來說都是非常困難的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小林歷奇",
+      "Text": "這樣啊，火剋金──銳駿擁有的是腳踏實地的金之氣，\n以熾烈的火之氣奔跑的飛飛從風水來看也是個強敵！！",
+      "ChoiceDataList": [
+        "要和她對決啊……",
+        "要和她對決呀……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在那之後，醒目飛鷹的跑姿在我腦中揮之不去。\n雖然奇銳駿的實力也在增長，但……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "呼……呼……呼～還不夠還不夠。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "訓練員，接下來要做的是什麼呢？\n……那個？訓練員？",
+      "ChoiceDataList": [
+        "──唔哇，抱歉！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "現在不是發呆的時候了。為了不讓她至今的努力白費，\n我也得想想自己能做什麼──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "雖然我這麼想，但卻怎麼也想不到辦法。對方是已經出道\n且在第一線活躍的賽馬娘。實力差距是無可否認的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "…………\n訓練員呀，你可以不用客氣的喔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "我很清楚現在這樣下去我是追不上她的。\n請你擬定更嚴苛的訓練計畫，讓我能跟飛飛一較高下吧。",
+      "ChoiceDataList": [
+        "……我並不想讓妳太勉強自己",
+        "……我並不想讓妳太勉強自己"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我給她的訓練已經配合她體力的成長，階段性地提升強度了。\n再嚴苛下去就太不切實際了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "可是，還有我能做的事吧？\n譬如說，為比賽瘦身──之類的。",
+      "ChoiceDataList": [
+        "瘦身……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "那是我參加特雷森學園入學考時的事～\n或許是因為緊張的關係，考試當天我體重掉了好多。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "但我那天的狀態卻異常地好喔。\n腳動得很快，就像是能無止盡跑下去的感覺──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "要是能像當時一樣減輕體重就能贏──我有這種預感。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "的確，為了拿出最佳表現，減重是最好的方法。\n因為肌力、持久力相同的狀態下，體重較輕的跑者跑得更快。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "但在討論是否該減重之前，我更為她毫不放棄的態度感到驚訝。\n不畏懼比自己強的對手，認真尋找自己能做的事──",
+      "ChoiceDataList": [
+        "妳想跑贏……醒目飛鷹嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "……這麼說可能不太對呢～這跟對手是誰沒有關係。\n並不是那樣的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "這場比賽，我有非贏不可的理由。\n無論如何都必須要跑贏的理由。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇銳駿",
+      "Text": "所以，訓練員。不管多辛苦都沒關係。\n我會相信你，照著你的方法做的──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我不知道她所說的「非贏不可的理由」是什麼，\n但既然賽馬娘想追求勝利，讓它實現就是訓練員的工作。",
+      "ChoiceDataList": [
+        "知道了，就重擬訓練計畫吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "於是我順應奇銳駿的要求，\n決定為她準備減重的訓練計畫。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

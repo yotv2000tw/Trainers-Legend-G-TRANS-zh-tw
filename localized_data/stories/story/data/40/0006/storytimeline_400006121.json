@@ -1,0 +1,100 @@
+{
+  "Title": "在巴黎的街上",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "趁訓練空檔休息的時候，\n我和<chrname>走在路上──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "「──喂，她該不會是\n<chrname>吧？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我聽見有人用法語喊出\n<chrname>的名字，\n於是反射性地往聲音的方向看去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巴黎市民A",
+      "Text": "「<chrname>是誰？她很有名嗎？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巴黎市民B",
+      "Text": "「她是日本的賽馬娘啦。\n在日本算是很強的選手，\n之後還要參加凱旋門賞呢。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看來巴黎似乎也有認識\n<chrname>的人。",
+      "ChoiceDataList": [
+        "（要不要過去搭話呢……）",
+        "（再聽一下他們的對話吧）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我下定決心，\n用之前學的法語主動搭話。",
+      "ChoiceDataList": [
+        "Bonjour!"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巴黎市民B",
+      "Text": "「哇！？她果然是<chrname>啊！？\n我看過Umatube的影片後，\n就開始替她加油了～」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巴黎市民A",
+      "Text": "「原來如此，你們都會說法語啊。\n之前有學過嗎？」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "和巴黎粉絲的交流，\n對<chrname>來說，\n似乎成了很寶貴的經驗！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巴黎市民B",
+      "Text": "「透過Umatube看到她為了\n參加凱旋門賞而努力的樣子後，\n我就不自覺地想替她加油了……」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巴黎市民A",
+      "Text": "「哎呀，你不打算替我們的天才少女加油嗎？\n真是個花心的傢伙～～」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巴黎市民B",
+      "Text": "「有什麼關係！\n可以一次替很多賽馬娘加油吧！」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "和我一起學法語的<chrname>，\n似乎也清楚地聽見了\n這段令人開心的對話。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

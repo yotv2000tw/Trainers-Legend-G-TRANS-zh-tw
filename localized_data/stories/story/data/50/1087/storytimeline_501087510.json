@@ -1,0 +1,263 @@
+{
+  "Title": "我成了都市傳說？",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "欸，妳知道最近很有名的都市傳說嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "我知道我知道！就是那個在螢幕的\n另一端窮追不捨的神祕賽馬娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "聽說只要一旦和螢幕中的她對上眼，\n不管再怎麼轉台都會一～直看到她……\n對吧？",
+      "ChoiceDataList": [
+        "（……她們在說什麼？）",
+        "（……她們在說什麼？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我邊疑惑地聽著走廊傳來的談話聲，\n邊打開電視確認天氣──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "氣象主播",
+      "Text": "今明兩天東京都內天氣都十分晴朗！\n可以放心地洗衣服了。",
+      "ChoiceDataList": [
+        "（咦？真弓？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "採訪者",
+      "Text": "加了海鮮高湯的極品拉麵！\n這麼美味也難怪會如此大排長龍了！",
+      "ChoiceDataList": [
+        "（又看到她了？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我看到一雙圓滾滾的眼睛，\n在螢幕的另一端凝視著自己。\n都市傳說的真相該不會是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "什麼，你說小真被當成都市傳說了？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "這可不能坐視不管呢。\n小真是可愛的吉祥物，\n不能接受被當成靈異現象。",
+      "ChoiceDataList": [
+        "說到底，妳為什麼要一直上鏡頭？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "簡單來說，這是宣傳活動的一環。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "小真能清楚地感應到\n哪些地方聚集了人們的目光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "在趕到現場突襲入鏡後，慢慢地\n進入觀眾的視野，讓大家記住小真……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "沒錯！這正是將小真植入潛意識作戰！",
+      "ChoiceDataList": [
+        "原來如此……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "我原本是這麼打算的啦……嗯嗯，\n看來狀況跟想像中有點不一樣呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "「傳聞中的賽馬娘」好像又出現了……！\n聽說有看到的人已經連續一個禮拜看到她了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "（小小聲……\n悄悄話……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "咦，真的嗎！？\n妳的意思是……咦？人呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "原來是這樣啊！\n呼～這樣我就放心了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "我的班上也都在傳這件事……\n那我就去告訴大家囉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "好的，麻煩妳了。",
+      "ChoiceDataList": [
+        "妳們在聊什麼？",
+        "妳們在聊什麼？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "嗯呵呵呵呵呵。\n沒事沒事，先別著急唷。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘A",
+      "Text": "然後啊，聽說看到就會遇上小小的幸運……\n這不就是現代版座敷童子嗎！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘B",
+      "Text": "什麼？那我反倒想主動找找看了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "賽馬娘C",
+      "Text": "而且聽說她比較常出現在白天的電視節目。\n還有人說她好像會穿著我們學校的制服哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "嗯嗯，\n這樣應該就沒問題了。",
+      "ChoiceDataList": [
+        "妳好像很習慣處理這種事……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "有嗎？\n……好像有哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "人們常會對吉祥物產生各種想像。\n要是粉絲能藉此獲得樂趣，我也很高興……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "但小真希望自己在大家眼中看起來很可愛，\n所以稍微修正了一下方向。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "「聽說那個神祕賽馬娘的傳聞其實不恐怖哦？」\n「搞不好還會遇上幸運？」\n「那我也來找找看吧。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "等大家都記住我的長相後……才發現！\n原來那個賽馬娘好像叫做小真！\n這下長相跟名字都被記住了，可喜可賀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "……事情就是這樣，\n所以小真打算繼續努力執行「突襲入鏡」作戰。",
+      "ChoiceDataList": [
+        "因為要迅速移動，或許是個不錯的訓練……？",
+        "妳很擅長擬定作戰耶！",
+        "妳很擅長擬定作戰呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "……事情就是這樣，\n所以小真打算繼續努力執行「突襲入鏡」作戰。",
+      "ChoiceDataList": [
+        "因為要迅速移動，或許是個不錯的訓練……？",
+        "妳很擅長擬定作戰耶！",
+        "妳很擅長擬定作戰呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "原來如此，竟然能從那種角度來看這件事啊。\n小真整個人恍然大悟。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "呵呵呵，\n有個明理的訓練員真是太好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這個插曲讓我體會到，\n雖然她看似難以捉摸，\n但其實心中自有許多考量……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "呵呵。\n這是世界級吉祥物必備的技能。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奧斯頓真弓",
+      "Text": "做事不能欠缺計畫。\n但太拘泥於計畫也行不通。\n就保持這樣繼續悠哉地努力吧～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "這個插曲讓我體會到，\n雖然她看似難以捉摸，\n但其實心中自有許多考量……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "Title": "情人節",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "……妳有事想跟我商量，是嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "拜託妳了，我想要俐落地一舉成功！\n其實啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "某天，我看見了氣勢十足地\n站在校門前的葛城榮主。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "喔，訓練員！\n你可以陪我一下嗎？",
+      "ChoiceDataList": [
+        "好啊，沒問題",
+        "嗯，可以啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "然後，\n葛城榮主帶我去的地方是──",
+      "ChoiceDataList": [
+        "三女神像前？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "嘿嘿，怎麼樣呀？\n被女神大人看著的感覺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "是不是有種特別的感覺！\n有種感覺正湧上心頭對吧！",
+      "ChoiceDataList": [
+        "要、要好好加油之類的……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "咦！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "是嗎……跟我想的好像不太一樣呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我知道了！\n抱歉，讓我重新來過吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "晚點見！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "過了幾個小時後，\n當我在工作空檔獨自休息時──",
+      "ChoiceDataList": [
+        "咦，榮主？怎麼了嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "嘿，看看這美麗的花束！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我想把這個送給訓練員。\n因為你就像是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "你就像是結實纍纍的\n抱子甘藍！",
+      "ChoiceDataList": [
+        "……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "不是，不對，我不是要說這個。\n……長得很有光澤的小番茄……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "嗯嗯～！不行啊，感覺不太對！\n抱歉，剛才的事就當沒發生過吧！",
+      "ChoiceDataList": [
+        "榮主到底是怎麼了……？",
+        "榮主到底是怎麼了……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "葛城榮主的樣子怪怪的，\n一直到了訓練時間也還是一樣──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "你看，穿運動服的話很沒情調吧？\n還是這樣感覺比較特別！",
+      "ChoiceDataList": [
+        "是、是啊，確實很有新鮮感"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "！\n真的嗎！？\n好耶！這樣的話……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "訓練員，我跟你說！\n其實──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "後輩賽馬娘們",
+      "Text": "呀～～～！榮主前輩，\n那套衣服好帥啊──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "後輩賽馬娘們",
+      "Text": "那個，等訓練結束以後，\n可以佔用妳一點時間嗎！？\n我們有東西想要給榮主前輩──！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "喔……喔喔！當然可以！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "呼……呼……\n巧克力應該全都收完了……吧！",
+      "ChoiceDataList": [
+        "真的好多人啊，應對這些事真是辛苦妳了",
+        "真的好多人啊，應對這些事真是辛苦妳了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "這點小事不算什麼！\n嘿嘿，之後還得準備回禮用的巧克力才行──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "──呃，不是這樣吧！？\n接下來我要扳回一城才行……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "下一個作戰是……不行，都是一些\n費工夫的事，再想想其他方法……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "哇啊啊啊啊！",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "不幹了不幹了，這種拐彎抹角的事\n根本不適合我！好……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "訓練員！\n請你收下這個。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我想好好地傳達我的心意。\n……所以一直都在煩惱到底該怎麼交給你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "嗯嗯嗯，原來如此。\n妳想讓他度過和平時不一樣的情人節。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "之前也有後輩來找妳商量這種事吧？\n我只能靠妳了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "為了讓那個人\n度過一個難以忘懷的情人節！\n請幫我出主意吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "……嗯，這樣啊。\n榮主也有這樣的對象呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "這樣的話，果然還是直率地告訴他\n「你是個特別的存在」會比較好喔！\n所以──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "！\n直接告訴他「你是個特別的存在」……！\n原來如此，謝謝妳！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "謝謝妳的幫助，接下來我自己思考一下！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白善信",
+      "Text": "最好的方式是以榮主的風格送給他……\n奇怪！？榮主呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "我看了電影還有漫畫之類的，學到了很多！\n然後我開始思考……該怎麼做才能讓你知道，\n你對我來說是個特別的人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "所以，我就想以不同於往常的自己來一決勝負！\n像是送上花束和讚美，\n或是穿上漂亮的衣服！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "但是想說的話卻完全說不出來。\n這樣的話，我──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "訓練員，聽我說！",
+      "ChoiceDataList": [
+        "好、好的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "你不是我的死黨，也不是家人或是勁敵。\n你是跟我懷抱著同樣夢想的同志。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "光說謝謝根本不夠，\n我想把我所有的心意都傳達給你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "訓練員對我來說──\n就是如此重要的存在。",
+      "ChoiceDataList": [
+        "榮主……！",
+        "榮主……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "所以說……如果能把我的心意\n烙印在你心底的話，我會很開心。",
+      "ChoiceDataList": [
+        "我似乎已經感覺到妳直率的心意了！",
+        "我似乎已經感覺到妳直率的心意了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "咦……直率的心意……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "啊啊，原來如此。\n那時候善信說的就是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "哈哈，搞什麼嘛！雖然繞了遠路。\n……但這樣才是最好的呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "放心之後，\n就覺得想吃甜食了呢……\n好！好好品嚐大家送的巧克力吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "這裡面包含著她們的心意，就跟我一樣。\n必須認真面對才行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──之後，她說到做到，\n吃掉了所有巧克力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "看著她如釋重負的表情，\n相信她真的為了傳達自己的心意\n付出了相當多努力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我想著自己能為\n這樣的她做點什麼──",
+      "ChoiceDataList": [
+        "妳不介意的話，我可以直接在這裡吃嗎？",
+        "妳不介意的話，我可以直接在這裡吃嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "喔，可以嗎！？\n其實我也很在意合不合訓練員的口味呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我咬了一口葛城榮主做的\n巧克力戚風蛋糕……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "────",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "一種從未品嚐過的味道，\n以及充滿彈性的口感在我嘴裡蔓延！",
+      "ChoiceDataList": [
+        "這個，該不會是米穀粉……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "你吃得出來嗎！？\n那是用我老家種的米做成的米穀粉喔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "不管是因為自己的弱小而後悔不已時，\n或是為了稍微縮短秒數而雀躍不已時，\n我都吃著這個米。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "辛苦、努力、熱情──\n我想既然要做給訓練員吃，\n就得做出充滿這些特別元素的巧克力才行啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "所以我很高興看到你露出笑容。\n因為那份巧克力中，\n充滿了我的心意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "…………呃，一想到這裡，\n總覺得有點那個呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城榮主",
+      "Text": "背後有點癢癢的呢……哈哈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "在暗紅色的夕陽照耀下，\n葛城榮主露出了靦腆的笑容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

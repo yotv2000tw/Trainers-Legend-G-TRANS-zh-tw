@@ -1,394 +1,394 @@
 {
-    "Title": "閉上眼後我便能看到一切",
-    "TextBlockList": [
-        {
-            "Name": "",
-            "Text": "",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我在街上遇見的千明代表似乎是把身體搞壞了。\n她主張這點程度沒問題，但為了萬一我還是決定將她送回家。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "啊哈哈，抱歉。還讓你送我回來。\n唉……幫了大忙……。",
-            "ChoiceDataList": [
-                "還是帶妳去醫院看看吧？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "不用，沒事的。\n照這個感覺來看，睡一覺就能治好了……。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "……雖然我還是有點擔心，但待太久也不好吧。\n我匆忙收拾準備回去的時候──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "等等。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "ひとり暮らしなんだ。今、家になにもなくてさ……。\n悪いんだけど、水、買ってきてもらってもいい……？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我仔細確認了一下發現何止是水，連食物都沒有。\n所以就順手買了許多東西，幫忙做飯……回過神來就在幫她看病了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "哈～……烏龍麵好入味喔……！\n……謝謝你還幫我做飯……。真是得救了。",
-            "ChoiceDataList": [
-                "那真是太好了"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我把配菜和成藥、營養劑等東西擺在桌上。\n有這些東西的話，臥病在床個幾天不會有大礙吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "……突然間，我感受到了千明代表的視線。",
-            "ChoiceDataList": [
-                "？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "很抱歉。\n我拒絕了你的招募好幾次。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "你是個優秀又溫柔的訓練員對吧。我看就知道了。\n被拒絕不是你的錯。只是……。",
-            "ChoiceDataList": [
-                "……只是？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "…………以前啊。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "──以前，我曾加入過被喻為名門的俱樂部隊伍。\n在那裡請了許多有名的訓練員幫忙做訓練。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "「妳的力量必須跑領放才能充分發揮。」\n「學會能夠應對各種情況的跑法吧。」",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "「這樣無論是G1勝利還是獲頒URA獎、不，甚至連三冠馬娘都不是夢想。」\n我收到了許多像這樣的話語。但是──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "……～～～！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "我對G1勝利和三冠馬娘一點興趣都沒有。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "我當然也明白，這對「訓練員」來說是無論如何都想要得到的東西。\n也明白這是一項大成就，是獨一無二的殊榮。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "但是，我就是沒有共鳴。\n像是在什麼比賽中用什麼方法贏，能夠得到多少榮譽；\n在什麼地方贏多少次，就能證明自己多厲害。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "我對這些東西，打從心底不抱持任何興趣。\n結果──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "訓練員",
-            "Text": "妳為什麼不聽話呢？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "…………。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "……我和訓練員們的意見起了衝突。\n於是就選擇退出了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "……我至今仍然想不透。\n像是魯道夫想要為了馬娘的未來而奔馳的那種想法。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "想要看見某人的笑容，想要炒熱些什麼……\n我當然明白這種想法是很值得讚賞的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "但是，對我來說競跑並不是那種存在。\n只是為了讓人奔馳而存在，僅此而已。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "……對我來說那就是無上的幸福。",
-            "ChoiceDataList": [
-                "（這樣啊……）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "她是為了奔馳而生。\n所以光是基本的價值觀就已經和世間大相逕庭了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "……不過說實話，其實彼此間沒有必要懷有同樣的夢想。\n單純只為了出道而跟訓練員簽約的馬娘也很多。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "彼此能順利地達成妥協的話，\n這其實是個能輕易解決的問題──",
-            "ChoiceDataList": [
-                "（就是因為辦不到，她才這麼苦惱吧）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "要是無法接受就無法前進，找不到方法解決也不會說謊。\n雖然外表給人自由奔放的感覺，但實際上她似乎挺不知變通的。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我不斷回想著千明代表跟我說過的那些話……\n忽然間，我發現一件事。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "她沒辦法以訓練員期望的「G1勝利」或「三冠馬娘」為目標。\n那麼要是訓練員這邊，能主動去貼近她的價值觀──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "是不是只要像她一樣，純粹地深愛著競跑就好了？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "你想知道我在比賽中看見的景色？",
-            "ChoiceDataList": [
-                "我想知道妳從中感受到了什麼魅力",
-                "我想知道妳從中感受到了什麼魅力"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "欸，為什麼？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我言簡意賅地向她說明理由──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "…………。\n要貼近我的想法？你嗎？",
-            "ChoiceDataList": [
-                "……妳不喜歡嗎？"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "……嗯，不會。我只是有點驚訝而已。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "不過……好啊。嗯，還不賴。這點子不錯呢。\n稍微試試看吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "那麼……我想想，你先把眼睛閉起來。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "試著想想看看，你現在身在狹窄的閘門之中，\n閘門那一頭有一大片青綠的草坪。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "被安排在你旁邊的是總數約十名左右，萬中選一的馬娘們。\n像是魯鐸或王牌……盡是看起來會讓比賽變很有趣的馬娘。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "開場樂響起後閘門開啟。\n你從那狹窄昏暗的地方飛奔向了青綠的草坪！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "今天的草地偏柔軟，冷颼颼的空氣吹過身子。\n雖然隔壁的馬娘們一個個不斷向前企圖搶下好位子──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "但你沒有那種心情。\n我想想……那就繞到最後面，從最後方眺望整場比賽吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "……接著是第三彎道，上坡來了！\n隨著鼓動的心持續加速，跑下坡道──最終彎道！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "周遭都一口氣開始加速，別放過這股熱，逮住領先的那位！\n再一次盡全力踏出腳步，加快換氣，吸氣吐氣──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "跑就對了！",
-            "ChoiceDataList": [
-                "！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "要比風、比光、都還要更快，擺脫一切不斷向前不斷往前！\n已經沒有人能阻止你，沒人能束縛你了……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我睜開眼睛，\n發現亢奮她的直盯著我的臉龐。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "呵呵，我自己都突然有點想要跑起來了。\n然後呢……如何如何？你覺得怎樣？",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我能理解她看見了什麼。\n光是想像就讓我覺得心有些雀躍。但──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "……？\n嗯？",
-            "ChoiceDataList": [
-                "（我感覺自己仍輸給了她說明的熱情……）"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "說話的語氣溫柔、熱情、且充滿了愛。\n我的感覺和她感受到的風景一定是天差地遠吧。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "我本來想說要是能跟她一樣熱愛競跑就好了……\n這個提案或許太自以為是了。",
-            "ChoiceDataList": [
-                "たぶん、本当に理解はできなかった"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "……啊哈哈，什麼嘛，這樣啊。……果然沒錯呢。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "但是，如果你說句我懂了，說不定我就跟會想跟你簽約啦！\n你這個人該怎麼說──",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "千明代表",
-            "Text": "有點老實過頭了呢。……呵呵。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        }
-    ]
+  "Title": "閉上眼睛就能看見一切",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我在街上發現千明代表，她身體狀況不是很好。\n雖然她堅持自己沒事，但我決定先送她回家。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "啊哈哈，不好意思，還讓你送我回家。\n啊……真是幫了大忙呢……",
+      "ChoiceDataList": [
+        "我還是帶妳去醫院看看吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "不用了，我沒事。\n看這個樣子，應該睡一覺就會好……咳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……雖然我還是有點擔心，但在這裡待太久也不好。\n就在我匆匆準備回去時──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "等一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "我是自己一個人住，現在家裡什麼都沒有……\n雖然很不好意思，但是可以請你幫我買水回來嗎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "仔細一看，這裡不只沒有水，連個食物也沒有。於是我順便買了\n許多東西，也順便幫她煮了飯……不知不覺就變成在照顧她了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "呼……烏龍麵真好吃……！\n……謝謝你，還幫我煮飯……真的幫了我大忙呢。",
+      "ChoiceDataList": [
+        "那真是太好了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我將現成的熟食、常備藥品和營養補給飲料放在桌上。\n只要有這些東西，應該就夠讓她躺在床上休息幾天了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……隨後，我便感覺到千明代表正在看著我。",
+      "ChoiceDataList": [
+        "？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "抱歉，\n我好幾次都拒絕了你的挖角。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "我一看就知道你應該是個優秀又溫柔的訓練員。\n你並沒有哪裡不好。只是……",
+      "ChoiceDataList": [
+        "……只是？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "…………以前。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "──以前，我曾經參加過被稱為名門的俱樂部隊伍。\n我在那裡接受過許多知名訓練員的訓練。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "「妳的力量最適用於領頭。」\n「為了能應付各種狀況，學習各式各樣的跑法吧。」",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "「這樣一來，無論是在GⅠ獲勝或是獲得URA獎，不對，\n就連三冠賽馬娘也不是夢想。」我經常聽人這麼說，不過──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "……唔！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "我對於在GⅠ獲勝或是當上三冠賽馬娘都沒有興趣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "我明白對「訓練員」來說，這些是無論如何都想實現的目標，\n是偉大的成就，也是獨一無二的榮耀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "然而，像是如何贏得某一場比賽、能夠獲得什麼樣的榮耀、\n贏過什麼比賽多少次，以及這些是多厲害的事情等等。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "我就是對這些事情提不起興趣。\n然後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "訓練員",
+      "Text": "為什麼妳都不肯聽話？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "……我和訓練員他們發生了意見衝突，\n最後離開了俱樂部。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "……我到現在還是搞不太懂。\n無論是像魯道夫那樣為了賽馬娘的未來奔馳……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "還是因為想看見誰的笑容，或是想炒熱氣氛等等……\n我明白這些都是很棒的事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "但對我來說，那裡不是那樣的地方。\n那裡是只為了跑步而存在的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "……僅有如此，才是至高無上的幸福。",
+      "ChoiceDataList": [
+        "（這樣啊……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她是為了跑步而生。\n她最根本的價值觀，與世人有很大的差異。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "……話雖如此，訓練員和賽馬娘本來就不一定要有相同的夢想。\n也有很多賽馬娘只是為了能出道，而和訓練員簽約。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "只要雙方可以順利協調，\n就能輕易解決這個問題──",
+      "ChoiceDataList": [
+        "（但她就是因為辦不到，所以才感到煩惱吧）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "如果無法接受就沒有辦法前進，不論如何她都無法對自己說謊。\n她明明給人自由奔放的感覺，個性卻似乎相當笨拙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "就在我回想起千明代表說的那些話，並開始思考時……\n我突然察覺一件事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她無法以訓練員所期望的「獲得GⅠ勝利」或「三冠賽馬娘」\n為目標，那麼，要是由訓練員去配合她的價值觀──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "如果能夠變得和她一樣純粹熱愛比賽就行了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "你說想知道我在比賽時看見的景色？",
+      "ChoiceDataList": [
+        "我想知道妳從中感受到了什麼樣的魅力",
+        "我想知道妳從中感受到了什麼樣的魅力"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "咦，為什麼？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我簡單向她說明理由後──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "…………\n由你？來配合我？",
+      "ChoiceDataList": [
+        "……妳不喜歡嗎？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "……不，不是的，只是有點驚訝而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "不過……好耶。嗯，這個好，聽起來不錯呢。\n就來稍微試試看吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "那麼……對了，你閉上眼睛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "試著想像看看，你正待在狹窄的閘門裡，\n門的對面是遼闊的翠綠賽場。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "站在你身邊的，是總共約十位、萬中選一的賽馬娘們。\n她們都是像魯道夫或榮主那樣……能跑出有趣比賽的選手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "開場小號響起，閘門開啟。\n你從狹窄又陰暗的地方，奔向翠綠的賽場！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "今天的草地很柔軟。冰冷的空氣穿透身體。\n身旁的選手們一個接一個衝向前方取位──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "但你不想那麼做。\n對了……就跑在最後面，從那裡欣賞這場比賽吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "……終於來到了第三彎道的坡道！\n你隨著興奮的心情加速，衝過上下坡──進入最終彎道！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "周圍的人都一口氣加速，抓住這份熱度，奪得領先！\n再次用力踏出腳步，加快呼吸的節奏，吸氣、吐氣──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "向前奔馳！",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "要跑得比風或光都要快，擺脫一切向前衝！\n已經沒有人能夠阻止你，也沒有人能夠束縛你……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "──我一睜開眼睛，\n就發現她興奮地緊盯著我看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "呵呵，連我也開始想跑了呢。\n所以說……怎麼樣？你覺得如何？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我明白她平常看到的是什麼樣的景色了。\n光是想像，就讓人覺得心情有些雀躍。然而──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "……？\n嗯？",
+      "ChoiceDataList": [
+        "（還是比不上她說明時展現的熱情……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "她說明時的語氣十分溫柔，充滿了對比賽的熱愛。\n她的感受一定跟我相差甚遠。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "我本來以為自己能夠變得和她一樣熱愛比賽……\n但看來是我太自以為是了。",
+      "ChoiceDataList": [
+        "我想我沒有真的完全理解"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "……啊哈哈，什麼嘛，這樣啊……果然是這樣呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "不過，明明你只要說已經理解了，我或許就會想和你簽約了啊！\n你這個人真的是──",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "太老實了呢……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }

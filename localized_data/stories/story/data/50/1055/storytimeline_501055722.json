@@ -1,0 +1,58 @@
+{
+  "Title": "因頭痛而憂鬱",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "美麗週日從走廊另一頭走來，\n看起來不太舒服的樣子……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "啊哈，美麗……唔嗚！",
+      "ChoiceDataList": [
+        "妳怎麼了？",
+        "妳怎麼了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "那個啊……我腦海中非常美麗。",
+      "ChoiceDataList": [
+        "腦海中？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "嗯。就像有一顆長滿刺的球\n在腦中滾來滾去？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "有時還會覺得\n眼睛深處火花四散……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美麗週日",
+      "Text": "感覺又痛又有趣，\n很美麗喔──好痛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "獨白",
+      "Text": "美麗週日似乎正在頭痛……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
