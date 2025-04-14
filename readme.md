@@ -2,6 +2,7 @@
 
 # Trainers' Legend G 繁體中文版（暫停維護）
 > 賽馬娘 Pretty Derby（DMM版）本地化插件
+
 > 本項目因插件本體暫停維護而同步暫停維護，並在 [Hachimi Translation - zh-tw](https://github.com/Hachimi-Hachimi/tl-zh-tw) 項目上繼續維護。
 
 [![License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
