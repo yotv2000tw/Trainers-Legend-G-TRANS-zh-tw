@@ -1,7 +1,8 @@
 <div align="center">
 
-# Trainers' Legend G 繁體中文版
+# Trainers' Legend G 繁體中文版（暫停維護）
 > 賽馬娘 Pretty Derby（DMM版）本地化插件
+> 本項目因插件本體暫停維護而同步暫停維護，並在 [Hachimi Translation - zh-tw](https://github.com/Hachimi-Hachimi/tl-zh-tw) 項目上繼續維護。
 
 [![License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 [![Release](https://img.shields.io/github/v/release/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw?color=blue&logoColor=white&label=Release&logo=DocuSign)](https://github.com/yotv2000tw/Trainers-Legend-G-TRANS-zh-tw/releases/latest)
@@ -38,16 +39,6 @@
 - 本項目的文件使用 [署名-非商業性使用-相同方式共享 4.0 國際 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_TW) 協議開源，您僅能在符合此協議的規定條件下使用這些文件。
 
 - 此插件的翻譯進度目前為 **部分翻譯** 。
-
-# 贊助
-
-- 本計畫的贊助會被用於伺服器的租費、網域的年費，以及部分相關所需費用，另外也可以自行額外指定用途，但仍會以優先支付本處所列舉的各項費用。
-- 現階段，你如果想要贊助本項目，可以透過 Discord 私訊 `雪楓Yuki#0001`，我們會基於此處的方式來使用您的贊助金：
-    - 贊助目的。
-    - 贊助人、贊助目的與贊助金額，以及贊助金額的實際運用情形，會放置於 [贊助與使用情形](sponsor.md) 內。
-    - 贊助金額在本項目持續更新期間都會持續進行依照目的使用並記錄，而在本項目結束維護時，則會透過項目內部方式，將所有贊助金額做出最終分配。
-    - 贊助方式：[街口支付](https://www.jkopay.com/transfer?j=Transfer:901103300)，請使用手機或平板進行操作。
-    - 如果有需要使用轉帳的方式，請直接用 Discord 私訊 `雪楓Yuki#0001`溝通即可。
 
 ### 如何貢獻【請務必加入 [Discord 伺服器](https://discord.com/invite/umaconnect)，否則可能不會接受您的翻譯成果】
 
